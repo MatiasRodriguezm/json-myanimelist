@@ -1,0 +1,70 @@
+name: Actualizar Catálogo y Desplegar a GitHub Pages
+
+on:
+  schedule:
+    # Se ejecuta automáticamente cada 6 horas (00:00, 06:00, 12:00, 18:00 UTC)
+    - cron: '0 */6 * * *'
+  workflow_dispatch: # Permite ejecutar manualmente con un clic en GitHub
+  push:
+    branches:
+      - main
+    paths:
+      - 'src/**'
+      - 'package.json'
+      - '.github/workflows/**'
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: catalog-update
+  cancel-in-progress: true
+
+jobs:
+  update-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout del repositorio
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Configurar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: 'npm'
+
+      - name: Instalar dependencias
+        run: npm ci
+
+      - name: Ejecutar recolección de MyAnimeList
+        env:
+          MAL_CLIENT_ID: ${{ secrets.MAL_CLIENT_ID || 'fdfaa87254aa7ccb69b33147a5205743' }}
+        run: npm run sync
+
+      - name: Guardar cambios en el repositorio
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --staged --quiet; then
+            echo "No hubo cambios en los catálogos."
+          else
+            git commit -m "chore(data): auto-update catalog from MyAnimeList [skip ci]"
+            git push
+          fi
+
+      - name: Configurar GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Empaquetar datos para GitHub Pages
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: 'data'
+
+      - name: Desplegar en GitHub Pages (CDN Global)
+        id: deployment
+        uses: actions/deploy-pages@v4
