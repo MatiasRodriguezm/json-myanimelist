@@ -29,8 +29,8 @@
   "num_episodes": null,
   "score": null,
   "mean": null,
-  "numListUsers": 365,
-  "num_list_users": 365,
+  "numListUsers": 366,
+  "num_list_users": 366,
   "genres": [
     {
       "id": 4,
@@ -50,6 +50,8 @@
   "pictures": [],
   "images": {
     "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1974/159260.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1974/159260l.jpg",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1974/159260.jpg",
       "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1974/159260l.jpg"
     }
@@ -60,10 +62,15 @@
   },
   "trailer": {
     "images": {
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1974/159260l.jpg",
       "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1974/159260l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1974/159260l.jpg",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1974/159260l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1974/159260l.jpg",
       "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1974/159260l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1974/159260l.jpg",
       "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1974/159260l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1974/159260l.jpg",
       "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1974/159260l.jpg"
     }
   },

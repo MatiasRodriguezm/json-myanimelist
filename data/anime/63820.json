@@ -31,8 +31,8 @@
   "num_episodes": null,
   "score": null,
   "mean": null,
-  "numListUsers": 51787,
-  "num_list_users": 51787,
+  "numListUsers": 51794,
+  "num_list_users": 51794,
   "genres": [
     {
       "id": 1,
@@ -51,6 +51,8 @@
   "pictures": [],
   "images": {
     "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1428/156326.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1428/156326l.jpg",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1428/156326.jpg",
       "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1428/156326l.jpg"
     }
@@ -61,10 +63,15 @@
   },
   "trailer": {
     "images": {
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1428/156326l.jpg",
       "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1428/156326l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1428/156326l.jpg",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1428/156326l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1428/156326l.jpg",
       "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1428/156326l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1428/156326l.jpg",
       "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1428/156326l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1428/156326l.jpg",
       "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1428/156326l.jpg"
     }
   },

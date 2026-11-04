@@ -31,8 +31,8 @@
   "num_episodes": 1,
   "score": null,
   "mean": null,
-  "numListUsers": 2854,
-  "num_list_users": 2854,
+  "numListUsers": 2855,
+  "num_list_users": 2855,
   "genres": [
     {
       "id": 60,
@@ -60,6 +60,8 @@
   "pictures": [],
   "images": {
     "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1937/158477.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1937/158477l.jpg",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1937/158477.jpg",
       "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1937/158477l.jpg"
     }
@@ -70,10 +72,15 @@
   },
   "trailer": {
     "images": {
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1937/158477l.jpg",
       "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1937/158477l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1937/158477l.jpg",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1937/158477l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1937/158477l.jpg",
       "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1937/158477l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1937/158477l.jpg",
       "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1937/158477l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1937/158477l.jpg",
       "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1937/158477l.jpg"
     }
   },

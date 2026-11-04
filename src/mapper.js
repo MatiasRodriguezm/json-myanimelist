@@ -78,9 +78,11 @@ export function toAnimeSummary(node) {
     studios,
     pictures: pictureUrls,
 
-    // Imágenes para Compose
+    // Imágenes para Compose (compatible tanto con image_url como con imageUrl)
     images: {
       jpg: {
+        image_url: node.main_picture?.medium || null,
+        large_image_url: node.main_picture?.large || node.main_picture?.medium || null,
         imageUrl: node.main_picture?.medium || null,
         largeImageUrl: node.main_picture?.large || node.main_picture?.medium || null,
       },
@@ -91,10 +93,15 @@ export function toAnimeSummary(node) {
     trailer: backdrop
       ? {
           images: {
+            maximum_image_url: backdrop,
             maximumImageUrl: backdrop,
+            image_url: backdrop,
             imageUrl: backdrop,
+            small_image_url: backdrop,
             smallImageUrl: backdrop,
+            medium_image_url: backdrop,
             mediumImageUrl: backdrop,
+            large_image_url: backdrop,
             largeImageUrl: backdrop,
           },
         }

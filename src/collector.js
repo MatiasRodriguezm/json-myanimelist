@@ -125,19 +125,13 @@ export class Collector {
       }
 
       let savedDetailsCount = 0;
-      let alreadyCachedCount = 0;
 
       for (const [id, summary] of uniqueAnimeMap) {
-        if (Storage.hasAnimeDetails(id)) {
-          alreadyCachedCount++;
-        } else {
-          // Si no tiene el archivo individual, guardar de inmediato con la metadata disponible en la lista
-          await Storage.saveAnimeDetails(id, summary);
-          savedDetailsCount++;
-        }
+        await Storage.saveAnimeDetails(id, summary);
+        savedDetailsCount++;
       }
 
-      console.log(`[Collector] ✓ Metadata: ${alreadyCachedCount} ya existían, ${savedDetailsCount} guardados en data/anime/`);
+      console.log(`[Collector] ✓ Metadata: ${savedDetailsCount} animes guardados/actualizados en data/anime/`);
 
       const durationSeconds = ((Date.now() - startTime) / 1000).toFixed(1);
       const statusData = {

@@ -29,8 +29,8 @@
   "num_episodes": 12,
   "score": 8.14,
   "mean": 8.14,
-  "numListUsers": 104593,
-  "num_list_users": 104593,
+  "numListUsers": 104605,
+  "num_list_users": 104605,
   "genres": [
     {
       "id": 64,
@@ -66,6 +66,8 @@
   "pictures": [],
   "images": {
     "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1990/160267.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1990/160267l.jpg",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1990/160267.jpg",
       "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1990/160267l.jpg"
     }
@@ -76,10 +78,15 @@
   },
   "trailer": {
     "images": {
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1990/160267l.jpg",
       "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1990/160267l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1990/160267l.jpg",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1990/160267l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1990/160267l.jpg",
       "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1990/160267l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1990/160267l.jpg",
       "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1990/160267l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1990/160267l.jpg",
       "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1990/160267l.jpg"
     }
   },

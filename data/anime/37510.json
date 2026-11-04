@@ -58,21 +58,28 @@
   "pictures": [],
   "images": {
     "jpg": {
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1918/96303.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1918/96303l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1918/96303.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1918/96303l.webp",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1918/96303.webp",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1918/96303l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1918/96303.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1918/96303l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1918/96303.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1918/96303l.webp"
   },
   "trailer": {
     "images": {
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1918/96303l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1918/96303l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1918/96303l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1918/96303l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1918/96303l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1918/96303l.webp",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1918/96303l.webp",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1918/96303l.webp",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1918/96303l.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1918/96303l.webp",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1918/96303l.webp",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1918/96303l.webp",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1918/96303l.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1918/96303l.webp",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1918/96303l.webp"
     }
   },
   "broadcast": {

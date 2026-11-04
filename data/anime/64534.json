@@ -29,8 +29,8 @@
   "num_episodes": null,
   "score": 8.33,
   "mean": 8.33,
-  "numListUsers": 72610,
-  "num_list_users": 72610,
+  "numListUsers": 72642,
+  "num_list_users": 72642,
   "genres": [
     {
       "id": 8,
@@ -54,6 +54,8 @@
   "pictures": [],
   "images": {
     "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1963/159754.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1963/159754l.jpg",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1963/159754.jpg",
       "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1963/159754l.jpg"
     }
@@ -64,10 +66,15 @@
   },
   "trailer": {
     "images": {
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1963/159754l.jpg",
       "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1963/159754l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1963/159754l.jpg",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1963/159754l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1963/159754l.jpg",
       "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1963/159754l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1963/159754l.jpg",
       "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1963/159754l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1963/159754l.jpg",
       "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1963/159754l.jpg"
     }
   },
