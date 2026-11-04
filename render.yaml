@@ -1,0 +1,14 @@
+services:
+  - type: web
+    name: json-myanimelist
+    runtime: node
+    buildCommand: npm install
+    startCommand: npm start
+    healthCheckPath: /api/health
+    envVars:
+      - key: MAL_CLIENT_ID
+        value: fdfaa87254aa7ccb69b33147a5205743
+      - key: CRON_SCHEDULE
+        value: "0 */6 * * *"
+      - key: SYNC_ON_STARTUP
+        value: "true"
