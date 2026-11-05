@@ -216,7 +216,8 @@ export async function syncLiveChart(daysBack = 14) {
   console.log(`[LiveChartScraper] Fecha actual de referencia: ${todayIso} (Solo se guardan días estrictamente anteriores)`);
 
   // 3. Consultar las últimas 2 semanas (semana -7 días y semana -14 días)
-  const targetOffsets = [7, 14];
+  // 3. Consultar la semana actual (0) y las 2 semanas anteriores (7 y 14)
+  const targetOffsets = [0, 7, 14];
   const fetchedDayCount = new Set();
 
   for (const offset of targetOffsets) {
@@ -239,9 +240,7 @@ export async function syncLiveChart(daysBack = 14) {
         const dateStr = dayDate.toISOString().split("T")[0];
 
         // CONDICIÓN ESTRICTA: Solo días anteriores a la fecha actual
-        if (dateStr >= todayIso) {
-          return;
-        }
+        // Conservar todos los dias de la semana
 
         const blocks = col.find(".lc-timetable-anime-block");
         const items = [];
@@ -355,7 +354,7 @@ export async function syncLiveChart(daysBack = 14) {
     .split("T")[0];
   const finalDays = {};
   const sortedDates = Object.keys(mergedDays)
-    .filter((d) => d < todayIso && d >= cutoffDate)
+    .filter((d) => d >= cutoffDate)
     .sort()
     .reverse();
 
