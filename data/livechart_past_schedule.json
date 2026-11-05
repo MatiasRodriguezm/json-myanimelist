@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T01:01:49.094Z",
+  "updatedAt": "2026-11-05T01:02:42.148Z",
   "daysCount": 14,
   "startDate": "2026-10-22",
   "endDate": "2026-11-04",
@@ -224,18 +224,6 @@
         "poster_url": "https://u.livechart.me/anime/13068/poster_image/8580f0d3d197ad5b80ad81e1b965dfdd.webp/large.jpg"
       },
       {
-        "liveChartId": 13092,
-        "live_chart_id": 13092,
-        "malId": 63818,
-        "mal_id": 63818,
-        "title": "Battle Spirits [Re] ZEKKAI NO KU",
-        "episode": 5,
-        "timestampMs": 1793714400000,
-        "timestamp_ms": 1793714400000,
-        "posterUrl": "https://u.livechart.me/anime/13092/poster_image/62d2fc29d286dc09c87f0e9d7a9921b8.webp/large.jpg",
-        "poster_url": "https://u.livechart.me/anime/13092/poster_image/62d2fc29d286dc09c87f0e9d7a9921b8.webp/large.jpg"
-      },
-      {
         "liveChartId": 13363,
         "live_chart_id": 13363,
         "malId": 62696,
@@ -246,6 +234,18 @@
         "timestamp_ms": 1793714400000,
         "posterUrl": "https://u.livechart.me/anime/13363/poster_image/885f7a8fd216866551268ea3f6b06bdf.webp/large.jpg",
         "poster_url": "https://u.livechart.me/anime/13363/poster_image/885f7a8fd216866551268ea3f6b06bdf.webp/large.jpg"
+      },
+      {
+        "liveChartId": 13092,
+        "live_chart_id": 13092,
+        "malId": 63818,
+        "mal_id": 63818,
+        "title": "Battle Spirits [Re] ZEKKAI NO KU",
+        "episode": 5,
+        "timestampMs": 1793714400000,
+        "timestamp_ms": 1793714400000,
+        "posterUrl": "https://u.livechart.me/anime/13092/poster_image/62d2fc29d286dc09c87f0e9d7a9921b8.webp/large.jpg",
+        "poster_url": "https://u.livechart.me/anime/13092/poster_image/62d2fc29d286dc09c87f0e9d7a9921b8.webp/large.jpg"
       },
       {
         "liveChartId": 13317,
@@ -392,7 +392,9 @@
         "timestamp_ms": 1793610000000,
         "posterUrl": "https://u.livechart.me/anime/13863/poster_image/fcdcc4a12613796d6f797508013ec9f1.png/large.jpg",
         "poster_url": "https://u.livechart.me/anime/13863/poster_image/fcdcc4a12613796d6f797508013ec9f1.png/large.jpg"
-      },
+      }
+    ],
+    "2026-11-01": [
       {
         "liveChartId": 12379,
         "live_chart_id": 12379,
@@ -404,9 +406,7 @@
         "timestamp_ms": 1793588400000,
         "posterUrl": "https://u.livechart.me/anime/12379/poster_image/a98d40771d051459989b3ebe680b076f.webp/large.jpg",
         "poster_url": "https://u.livechart.me/anime/12379/poster_image/a98d40771d051459989b3ebe680b076f.webp/large.jpg"
-      }
-    ],
-    "2026-11-01": [
+      },
       {
         "liveChartId": 13749,
         "live_chart_id": 13749,
@@ -746,18 +746,6 @@
         "poster_url": "https://u.livechart.me/anime/13652/poster_image/ac895ad2d555f865ed8a38dcea354ecc.webp/large.jpg"
       },
       {
-        "liveChartId": 13431,
-        "live_chart_id": 13431,
-        "malId": 63125,
-        "mal_id": 63125,
-        "title": "Odekake Kozame Season 2",
-        "episode": 30,
-        "timestampMs": 1793484000000,
-        "timestamp_ms": 1793484000000,
-        "posterUrl": "https://u.livechart.me/anime/13431/poster_image/7df533f76419092d1dbb7bda26f42a60.webp/large.jpg",
-        "poster_url": "https://u.livechart.me/anime/13431/poster_image/7df533f76419092d1dbb7bda26f42a60.webp/large.jpg"
-      },
-      {
         "liveChartId": 13389,
         "live_chart_id": 13389,
         "malId": 62933,
@@ -768,6 +756,18 @@
         "timestamp_ms": 1793484000000,
         "posterUrl": "https://u.livechart.me/anime/13389/poster_image/6ce9cab28a16c7d41c6ea58194d930f6.webp/large.jpg",
         "poster_url": "https://u.livechart.me/anime/13389/poster_image/6ce9cab28a16c7d41c6ea58194d930f6.webp/large.jpg"
+      },
+      {
+        "liveChartId": 13431,
+        "live_chart_id": 13431,
+        "malId": 63125,
+        "mal_id": 63125,
+        "title": "Odekake Kozame Season 2",
+        "episode": 30,
+        "timestampMs": 1793484000000,
+        "timestamp_ms": 1793484000000,
+        "posterUrl": "https://u.livechart.me/anime/13431/poster_image/7df533f76419092d1dbb7bda26f42a60.webp/large.jpg",
+        "poster_url": "https://u.livechart.me/anime/13431/poster_image/7df533f76419092d1dbb7bda26f42a60.webp/large.jpg"
       },
       {
         "liveChartId": 13669,
@@ -996,7 +996,9 @@
         "timestamp_ms": 1793431740000,
         "posterUrl": "https://u.livechart.me/anime/13566/poster_image/02ea12a715a49902a141b5a8e9077434.webp/large.jpg",
         "poster_url": "https://u.livechart.me/anime/13566/poster_image/02ea12a715a49902a141b5a8e9077434.webp/large.jpg"
-      },
+      }
+    ],
+    "2026-10-30": [
       {
         "liveChartId": 13111,
         "live_chart_id": 13111,
@@ -1020,9 +1022,7 @@
         "timestamp_ms": 1793415600000,
         "posterUrl": "https://u.livechart.me/anime/13774/poster_image/8d8f0e0914b88679d8a5a9bffddf0b81.webp/large.jpg",
         "poster_url": "https://u.livechart.me/anime/13774/poster_image/8d8f0e0914b88679d8a5a9bffddf0b81.webp/large.jpg"
-      }
-    ],
-    "2026-10-30": [
+      },
       {
         "liveChartId": 13872,
         "live_chart_id": 13872,
@@ -1322,7 +1322,9 @@
         "timestamp_ms": 1793347200000,
         "posterUrl": "https://u.livechart.me/anime/13139/poster_image/6355e6ae94eeb3764b7d8e95097e6556.webp/large.jpg",
         "poster_url": "https://u.livechart.me/anime/13139/poster_image/6355e6ae94eeb3764b7d8e95097e6556.webp/large.jpg"
-      },
+      }
+    ],
+    "2026-10-29": [
       {
         "liveChartId": 13650,
         "live_chart_id": 13650,
@@ -1346,9 +1348,7 @@
         "timestamp_ms": 1793340000000,
         "posterUrl": "https://u.livechart.me/anime/13650/poster_image/a452e6a81b8707e6fceb8748514c9220.webp/large.jpg",
         "poster_url": "https://u.livechart.me/anime/13650/poster_image/a452e6a81b8707e6fceb8748514c9220.webp/large.jpg"
-      }
-    ],
-    "2026-10-29": [
+      },
       {
         "liveChartId": 13550,
         "live_chart_id": 13550,
@@ -1966,7 +1966,9 @@
         "timestamp_ms": 1793005200000,
         "posterUrl": "https://u.livechart.me/anime/13863/poster_image/fcdcc4a12613796d6f797508013ec9f1.png/large.jpg",
         "poster_url": "https://u.livechart.me/anime/13863/poster_image/fcdcc4a12613796d6f797508013ec9f1.png/large.jpg"
-      },
+      }
+    ],
+    "2026-10-25": [
       {
         "liveChartId": 12379,
         "live_chart_id": 12379,
@@ -1978,9 +1980,7 @@
         "timestamp_ms": 1792983600000,
         "posterUrl": "https://u.livechart.me/anime/12379/poster_image/a98d40771d051459989b3ebe680b076f.webp/large.jpg",
         "poster_url": "https://u.livechart.me/anime/12379/poster_image/a98d40771d051459989b3ebe680b076f.webp/large.jpg"
-      }
-    ],
-    "2026-10-25": [
+      },
       {
         "liveChartId": 13749,
         "live_chart_id": 13749,
@@ -2618,7 +2618,9 @@
         "timestamp_ms": 1792826940000,
         "posterUrl": "https://u.livechart.me/anime/13566/poster_image/02ea12a715a49902a141b5a8e9077434.webp/large.jpg",
         "poster_url": "https://u.livechart.me/anime/13566/poster_image/02ea12a715a49902a141b5a8e9077434.webp/large.jpg"
-      },
+      }
+    ],
+    "2026-10-23": [
       {
         "liveChartId": 13774,
         "live_chart_id": 13774,
@@ -2630,9 +2632,7 @@
         "timestamp_ms": 1792810800000,
         "posterUrl": "https://u.livechart.me/anime/13774/poster_image/8d8f0e0914b88679d8a5a9bffddf0b81.webp/large.jpg",
         "poster_url": "https://u.livechart.me/anime/13774/poster_image/8d8f0e0914b88679d8a5a9bffddf0b81.webp/large.jpg"
-      }
-    ],
-    "2026-10-23": [
+      },
       {
         "liveChartId": 13854,
         "live_chart_id": 13854,
@@ -2920,7 +2920,9 @@
         "timestamp_ms": 1792742400000,
         "posterUrl": "https://u.livechart.me/anime/13139/poster_image/6355e6ae94eeb3764b7d8e95097e6556.webp/large.jpg",
         "poster_url": "https://u.livechart.me/anime/13139/poster_image/6355e6ae94eeb3764b7d8e95097e6556.webp/large.jpg"
-      },
+      }
+    ],
+    "2026-10-22": [
       {
         "liveChartId": 13650,
         "live_chart_id": 13650,
@@ -2956,9 +2958,7 @@
         "timestamp_ms": 1792724400000,
         "posterUrl": "https://u.livechart.me/anime/13155/poster_image/dff6b06078b2444ab24e666f543bde48.webp/large.jpg",
         "poster_url": "https://u.livechart.me/anime/13155/poster_image/dff6b06078b2444ab24e666f543bde48.webp/large.jpg"
-      }
-    ],
-    "2026-10-22": [
+      },
       {
         "liveChartId": 13550,
         "live_chart_id": 13550,
