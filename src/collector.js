@@ -8,6 +8,7 @@ import {
 import { MalClient } from "./malClient.js";
 import { toAnimeSummary } from "./mapper.js";
 import { Storage } from "./storage.js";
+import { syncLiveChart } from "./livechartScraper.js";
 
 export class Collector {
   constructor(malClient = new MalClient()) {
@@ -132,6 +133,13 @@ export class Collector {
       }
 
       console.log(`[Collector] ✓ Metadata: ${savedDetailsCount} animes guardados/actualizados en data/anime/`);
+
+      // 5. Sincronizar días anteriores de LiveChart (Aislado con try/catch)
+      try {
+        await syncLiveChart();
+      } catch (lcError) {
+        console.warn("[Collector] Advertencia: Falló recolección de LiveChart, conservando datos previos:", lcError.message);
+      }
 
       const durationSeconds = ((Date.now() - startTime) / 1000).toFixed(1);
       const statusData = {

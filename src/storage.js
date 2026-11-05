@@ -99,6 +99,22 @@ export class Storage {
     return fromDisk;
   }
 
+  static async saveLiveChartSchedule(data) {
+    await this.writeJsonAtomic(config.paths.livechartScheduleJson, data);
+  }
+
+  static async loadLiveChartSchedule() {
+    return (await this.readJsonSafe(config.paths.livechartScheduleJson)) || null;
+  }
+
+  static async saveLiveChartMalMap(data) {
+    await this.writeJsonAtomic(config.paths.livechartMalMapJson, data);
+  }
+
+  static async loadLiveChartMalMap() {
+    return (await this.readJsonSafe(config.paths.livechartMalMapJson)) || {};
+  }
+
   static async getStats() {
     let animeCount = 0;
     try {

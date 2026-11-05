@@ -21,6 +21,8 @@ export const config = {
     discoverJson: path.join(rootDir, "data", "discover.json"),
     metadataIndexJson: path.join(rootDir, "data", "metadata_index.json"),
     statusJson: path.join(rootDir, "data", "status.json"),
+    livechartScheduleJson: path.join(rootDir, "data", "livechart_past_schedule.json"),
+    livechartMalMapJson: path.join(rootDir, "data", "livechart_mal_map.json"),
   },
   // Límites para recolección automática
   collector: {

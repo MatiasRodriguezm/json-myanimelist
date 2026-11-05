@@ -40,7 +40,7 @@ jobs:
       - name: Instalar dependencias
         run: npm ci
 
-      - name: Ejecutar recolección de MyAnimeList
+      - name: Ejecutar recolección de catálogos (MyAnimeList y LiveChart)
         env:
           MAL_CLIENT_ID: ${{ secrets.MAL_CLIENT_ID || 'fdfaa87254aa7ccb69b33147a5205743' }}
         run: npm run sync
@@ -53,7 +53,7 @@ jobs:
           if git diff --staged --quiet; then
             echo "No hubo cambios en los catálogos."
           else
-            git commit -m "chore(data): auto-update catalog from MyAnimeList [skip ci]"
+            git commit -m "chore(data): auto-update catalog from MyAnimeList & LiveChart [skip ci]"
             git push
           fi
 

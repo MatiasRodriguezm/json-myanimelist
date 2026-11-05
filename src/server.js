@@ -30,6 +30,7 @@ export function createExpressApp(collector = null, malClient = new MalClient()) 
         home: "/api/home",
         discover: "/api/discover",
         animeDetails: "/api/anime/:id",
+        livechartSchedule: "/api/livechart/past-schedule",
         health: "/api/health",
         manualSync: "POST /api/sync",
       },
@@ -97,6 +98,23 @@ export function createExpressApp(collector = null, malClient = new MalClient()) 
 
       res.setHeader("Cache-Control", "public, max-age=300");
       return res.json(row);
+    } catch (err) {
+      return res.status(500).json({ error: "INTERNAL_ERROR", message: err.message });
+    }
+  });
+
+  // 2c. Endpoint para el calendario de LiveChart de días pasados
+  app.get("/api/livechart/past-schedule", async (req, res) => {
+    try {
+      const data = await Storage.loadLiveChartSchedule();
+      if (!data) {
+        return res.status(503).json({
+          error: "SCHEDULE_NOT_READY",
+          message: "El horario de LiveChart se está generando. Intente en unos segundos.",
+        });
+      }
+      res.setHeader("Cache-Control", "public, max-age=600");
+      return res.json(data);
     } catch (err) {
       return res.status(500).json({ error: "INTERNAL_ERROR", message: err.message });
     }
