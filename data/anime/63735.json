@@ -21,15 +21,18 @@
   "start_date": "2027-04",
   "endDate": null,
   "end_date": null,
-  "season": null,
+  "season": "spring",
   "year": 2027,
-  "start_season": null,
+  "start_season": {
+    "year": 2027,
+    "season": "spring"
+  },
   "episodes": null,
   "num_episodes": null,
   "score": null,
   "mean": null,
-  "numListUsers": 39830,
-  "num_list_users": 39830,
+  "numListUsers": 39889,
+  "num_list_users": 39889,
   "genres": [
     {
       "id": 4,
@@ -48,32 +51,37 @@
       "name": "Shounen"
     }
   ],
-  "studios": [],
+  "studios": [
+    {
+      "id": 247,
+      "name": "Shin-Ei Animation"
+    }
+  ],
   "pictures": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1245/160886.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1245/160886l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1245/160886.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1245/160886l.webp"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1245/160886.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1245/160886l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1245/160886.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1245/160886l.jpg"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1245/160886.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1245/160886l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1245/160886.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1245/160886l.jpg"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1245/160886l.webp",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1245/160886l.webp",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1245/160886l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1245/160886l.webp",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1245/160886l.webp",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1245/160886l.webp",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1245/160886l.webp",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1245/160886l.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1245/160886l.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1245/160886l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1245/160886l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1245/160886l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1245/160886l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1245/160886l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1245/160886l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1245/160886l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1245/160886l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1245/160886l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1245/160886l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1245/160886l.jpg"
     }
   },
   "broadcast": null,
