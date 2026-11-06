@@ -33,8 +33,8 @@
   "num_episodes": 11,
   "score": 8.69,
   "mean": 8.69,
-  "numListUsers": 502569,
-  "num_list_users": 502569,
+  "numListUsers": 502580,
+  "num_list_users": 502580,
   "genres": [
     {
       "id": 50,
@@ -68,46 +68,10 @@
     }
   ],
   "pictures": [],
-  "images": {
-    "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1135/114867.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1135/114867l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1135/114867.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1135/114867l.jpg"
-    }
-  },
-  "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1135/114867.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1135/114867l.jpg"
-  },
-  "trailer": {
-    "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1135/114867l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1135/114867l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1135/114867l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1135/114867l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1135/114867l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1135/114867l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1135/114867l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1135/114867l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1135/114867l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1135/114867l.jpg"
-    }
-  },
-  "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
-  "related_manga": [],
-  "recommendations": [],
-  "statistics": null,
+  "backdrop_url": "https://image.tmdb.org/t/p/w1280/w3agwUSMpJ4X9t1jGrDtqqRPjDQ.jpg",
+  "logo_url": "https://image.tmdb.org/t/p/w500/afS3wRroucg2Tku3tH0NNmyurST.png",
+  "tmdb_id": "123542",
+  "tmdb_updated_at": "2026-11-06T22:02:36.547Z",
   "simkl_id": 1625669,
   "episodes_data": [
     {
@@ -242,5 +206,45 @@
       "imageUrl": null,
       "description": "Cheng Xiaoshi and Lu Guang use superpowers to enter clientele’s photos one by one, no matter how dangerous. Welcome to “Time Photo Studio”!"
     }
-  ]
+  ],
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1135/114867.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1135/114867l.webp",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1135/114867.webp",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1135/114867l.webp"
+    }
+  },
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1135/114867.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1135/114867l.webp"
+  },
+  "trailer": {
+    "images": {
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1135/114867l.webp",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1135/114867l.webp",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1135/114867l.webp",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1135/114867l.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1135/114867l.webp",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1135/114867l.webp",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1135/114867l.webp",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1135/114867l.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1135/114867l.webp",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1135/114867l.webp"
+    }
+  },
+  "broadcast": null,
+  "rank": null,
+  "popularity": null,
+  "num_scoring_users": null,
+  "nsfw": null,
+  "created_at": null,
+  "updated_at": null,
+  "source": null,
+  "rating": null,
+  "background": null,
+  "related_anime": [],
+  "related_manga": [],
+  "recommendations": [],
+  "statistics": null
 }

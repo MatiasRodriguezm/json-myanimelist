@@ -31,8 +31,8 @@
   "num_episodes": 1,
   "score": 8.21,
   "mean": 8.21,
-  "numListUsers": 256039,
-  "num_list_users": 256039,
+  "numListUsers": 256047,
+  "num_list_users": 256047,
   "genres": [
     {
       "id": 4,
@@ -66,6 +66,44 @@
     }
   ],
   "pictures": [],
+  "backdrop_url": "https://image.tmdb.org/t/p/w1280/hI76O9slOz3vPkhQWWQoN36WyhG.jpg",
+  "logo_url": "https://image.tmdb.org/t/p/w500/eLqHIN9F9Wo029f8LowGLKwGWmU.png",
+  "tmdb_id": "67676",
+  "tmdb_updated_at": "2026-11-06T22:02:45.399Z",
+  "simkl_id": 850565,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "TV Special",
+      "aired": "2018-12-28T00:00:00+09:00",
+      "airedDate": "2018-12-28T00:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 2,
+      "episodeNumber": 2,
+      "title": "Part 1 of 2",
+      "aired": "2018-12-28T00:00:00+09:00",
+      "airedDate": "2018-12-28T00:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 3,
+      "episodeNumber": 3,
+      "title": "Part 2 of 2",
+      "aired": "2018-12-28T00:00:00+09:00",
+      "airedDate": "2018-12-28T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/14/1449559734a806b9e3_w.webp",
+      "imageUrl": "https://simkl.in/episodes/14/1449559734a806b9e3_w.webp",
+      "description": null
+    }
+  ],
+  "specials_data": [],
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1159/95661.jpg",
@@ -105,39 +143,5 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null,
-  "simkl_id": 850565,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "episodeNumber": 1,
-      "title": "TV Special",
-      "aired": "2018-12-28T00:00:00+09:00",
-      "airedDate": "2018-12-28T00:00:00+09:00",
-      "thumbnail": null,
-      "imageUrl": null,
-      "description": null
-    },
-    {
-      "episode": 2,
-      "episodeNumber": 2,
-      "title": "Part 1 of 2",
-      "aired": "2018-12-28T00:00:00+09:00",
-      "airedDate": "2018-12-28T00:00:00+09:00",
-      "thumbnail": null,
-      "imageUrl": null,
-      "description": null
-    },
-    {
-      "episode": 3,
-      "episodeNumber": 3,
-      "title": "Part 2 of 2",
-      "aired": "2018-12-28T00:00:00+09:00",
-      "airedDate": "2018-12-28T00:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/14/1449559734a806b9e3_w.webp",
-      "imageUrl": "https://simkl.in/episodes/14/1449559734a806b9e3_w.webp",
-      "description": null
-    }
-  ],
-  "specials_data": []
+  "statistics": null
 }

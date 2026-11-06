@@ -29,8 +29,8 @@
   "num_episodes": 1,
   "score": 8.26,
   "mean": 8.26,
-  "numListUsers": 35070,
-  "num_list_users": 35070,
+  "numListUsers": 35071,
+  "num_list_users": 35071,
   "genres": [
     {
       "id": 2,
@@ -60,6 +60,24 @@
     }
   ],
   "pictures": [],
+  "backdrop_url": "https://image.tmdb.org/t/p/w1280/8F6uP709Iz6hKBfhnNWBKW3Rx41.jpg",
+  "logo_url": "https://image.tmdb.org/t/p/w500/nCjz30ZLt1UpLd6u4X2vhOEg3Ap.png",
+  "tmdb_id": "573364",
+  "tmdb_updated_at": "2026-11-06T22:02:44.444Z",
+  "simkl_id": 961979,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "TV Special",
+      "aired": "2016-12-09T00:00:00+09:00",
+      "airedDate": "2016-12-09T00:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ],
+  "specials_data": [],
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/5/81968.jpg",
@@ -99,19 +117,5 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null,
-  "simkl_id": 961979,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "episodeNumber": 1,
-      "title": "TV Special",
-      "aired": "2016-12-09T00:00:00+09:00",
-      "airedDate": "2016-12-09T00:00:00+09:00",
-      "thumbnail": null,
-      "imageUrl": null,
-      "description": null
-    }
-  ],
-  "specials_data": []
+  "statistics": null
 }

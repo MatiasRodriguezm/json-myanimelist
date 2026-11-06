@@ -63,6 +63,34 @@
     }
   ],
   "pictures": [],
+  "backdrop_url": "https://image.tmdb.org/t/p/w1280/xogL7RDFo7c21nrGDabYT9FFzTH.jpg",
+  "logo_url": "https://image.tmdb.org/t/p/w500/y6wr1ukaqRzWRlRUBahkyAB1SNT.png",
+  "tmdb_id": "28136",
+  "tmdb_updated_at": "2026-11-06T22:02:34.230Z",
+  "simkl_id": 40937,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "After So Many Years Have Passed - Part 1",
+      "aired": "2001-12-19T00:00:00+09:00",
+      "airedDate": "2001-12-19T00:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 2,
+      "episodeNumber": 2,
+      "title": "After So Many Years Have Passed - Part 2",
+      "aired": "2002-03-20T00:00:00+09:00",
+      "airedDate": "2002-03-20T00:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ],
+  "specials_data": [],
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1971/90877.jpg",
@@ -102,29 +130,5 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null,
-  "simkl_id": 40937,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "episodeNumber": 1,
-      "title": "After So Many Years Have Passed - Part 1",
-      "aired": "2001-12-19T00:00:00+09:00",
-      "airedDate": "2001-12-19T00:00:00+09:00",
-      "thumbnail": null,
-      "imageUrl": null,
-      "description": null
-    },
-    {
-      "episode": 2,
-      "episodeNumber": 2,
-      "title": "After So Many Years Have Passed - Part 2",
-      "aired": "2002-03-20T00:00:00+09:00",
-      "airedDate": "2002-03-20T00:00:00+09:00",
-      "thumbnail": null,
-      "imageUrl": null,
-      "description": null
-    }
-  ],
-  "specials_data": []
+  "statistics": null
 }

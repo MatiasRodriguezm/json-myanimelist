@@ -29,8 +29,8 @@
   "num_episodes": 1,
   "score": 8.08,
   "mean": 8.08,
-  "numListUsers": 80162,
-  "num_list_users": 80162,
+  "numListUsers": 80173,
+  "num_list_users": 80173,
   "genres": [
     {
       "id": 1,
@@ -56,6 +56,24 @@
     }
   ],
   "pictures": [],
+  "backdrop_url": "https://image.tmdb.org/t/p/w1280/3ILMlmC30QUnYkY3XEBOyJ82Dqu.jpg",
+  "logo_url": "https://image.tmdb.org/t/p/w500/ztteKox6S97uwEuEF2lsaFxaJmg.png",
+  "tmdb_id": "65930",
+  "tmdb_updated_at": "2026-11-06T22:02:49.622Z",
+  "simkl_id": 3105338,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "TV Special",
+      "aired": "2026-05-02T00:00:00+09:00",
+      "airedDate": "2026-05-02T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/19/199306719be311faf2_w.webp",
+      "imageUrl": "https://simkl.in/episodes/19/199306719be311faf2_w.webp",
+      "description": null
+    }
+  ],
+  "specials_data": [],
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1273/156615.jpg",
@@ -95,19 +113,5 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null,
-  "simkl_id": 3105338,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "episodeNumber": 1,
-      "title": "TV Special",
-      "aired": "2026-05-02T00:00:00+09:00",
-      "airedDate": "2026-05-02T00:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/19/199306719be311faf2_w.webp",
-      "imageUrl": "https://simkl.in/episodes/19/199306719be311faf2_w.webp",
-      "description": null
-    }
-  ],
-  "specials_data": []
+  "statistics": null
 }

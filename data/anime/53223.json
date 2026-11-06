@@ -29,8 +29,8 @@
   "num_episodes": 13,
   "score": 8.72,
   "mean": 8.72,
-  "numListUsers": 67092,
-  "num_list_users": 67092,
+  "numListUsers": 67095,
+  "num_list_users": 67095,
   "genres": [
     {
       "id": 1,
@@ -60,53 +60,10 @@
     }
   ],
   "pictures": [],
-  "images": {
-    "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1050/139641.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1050/139641l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1050/139641.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1050/139641l.jpg"
-    }
-  },
-  "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1050/139641.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1050/139641l.jpg"
-  },
-  "trailer": {
-    "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1050/139641l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1050/139641l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1050/139641l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1050/139641l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1050/139641l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1050/139641l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1050/139641l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1050/139641l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1050/139641l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1050/139641l.jpg"
-    }
-  },
-  "broadcast": {
-    "day": "sunday",
-    "time": "00:00",
-    "day_of_the_week": "sunday",
-    "start_time": "00:00",
-    "timezone": "Asia/Tokyo",
-    "string": "sunday 00:00"
-  },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
-  "related_manga": [],
-  "recommendations": [],
-  "statistics": null,
+  "backdrop_url": "https://image.tmdb.org/t/p/w1280/5CGM0vQpq0QBcslUXqoo0unlGPZ.jpg",
+  "logo_url": "https://image.tmdb.org/t/p/w500/njxcMoizy5vstTcBK9Sm4BnYaZB.png",
+  "tmdb_id": "46437",
+  "tmdb_updated_at": "2026-11-06T22:01:57.486Z",
   "simkl_id": 2003646,
   "episodes_data": [
     {
@@ -240,5 +197,52 @@
       "description": "Cai Ze returns to Xianyang with not one, but two unexpected guests. Zheng is put on the spot about his plans for a post-unified Middle Kingdom world."
     }
   ],
-  "specials_data": []
+  "specials_data": [],
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1050/139641.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1050/139641l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1050/139641.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1050/139641l.jpg"
+    }
+  },
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1050/139641.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1050/139641l.jpg"
+  },
+  "trailer": {
+    "images": {
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1050/139641l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1050/139641l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1050/139641l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1050/139641l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1050/139641l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1050/139641l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1050/139641l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1050/139641l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1050/139641l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1050/139641l.jpg"
+    }
+  },
+  "broadcast": {
+    "day": "sunday",
+    "time": "00:00",
+    "day_of_the_week": "sunday",
+    "start_time": "00:00",
+    "timezone": "Asia/Tokyo",
+    "string": "sunday 00:00"
+  },
+  "rank": null,
+  "popularity": null,
+  "num_scoring_users": null,
+  "nsfw": null,
+  "created_at": null,
+  "updated_at": null,
+  "source": null,
+  "rating": null,
+  "background": null,
+  "related_anime": [],
+  "related_manga": [],
+  "recommendations": [],
+  "statistics": null
 }

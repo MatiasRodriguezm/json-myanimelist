@@ -29,8 +29,8 @@
   "num_episodes": 13,
   "score": 8.12,
   "mean": 8.12,
-  "numListUsers": 82100,
-  "num_list_users": 82100,
+  "numListUsers": 82101,
+  "num_list_users": 82101,
   "genres": [
     {
       "id": 1,
@@ -64,46 +64,10 @@
     }
   ],
   "pictures": [],
-  "images": {
-    "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/12/29597.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/29597l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/12/29597.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/12/29597l.webp"
-    }
-  },
-  "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/12/29597.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/12/29597l.webp"
-  },
-  "trailer": {
-    "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/12/29597l.webp",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/12/29597l.webp",
-      "image_url": "https://cdn.myanimelist.net/images/anime/12/29597l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/12/29597l.webp",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/29597l.webp",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/12/29597l.webp",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/12/29597l.webp",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/12/29597l.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/29597l.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/12/29597l.webp"
-    }
-  },
-  "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
-  "related_manga": [],
-  "recommendations": [],
-  "statistics": null,
+  "backdrop_url": null,
+  "logo_url": null,
+  "tmdb_id": null,
+  "tmdb_updated_at": "2026-11-06T22:06:20.068Z",
   "simkl_id": 36269,
   "episodes_data": [
     {
@@ -408,5 +372,45 @@
       "imageUrl": "https://simkl.in/episodes/63/6390060cac7eaf18_w.webp",
       "description": "Part two of the talk event with Seiyuus: Kakihara Tetsuya, Shimono Hiro, Hirano Aya and Ono Daisuke.\nThis came with the Japanese DVD & BD volume 6:"
     }
-  ]
+  ],
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/29597.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/29597l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/12/29597.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/12/29597l.jpg"
+    }
+  },
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/29597.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/29597l.jpg"
+  },
+  "trailer": {
+    "images": {
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/12/29597l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/12/29597l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/29597l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/12/29597l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/29597l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/12/29597l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/12/29597l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/12/29597l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/29597l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/12/29597l.jpg"
+    }
+  },
+  "broadcast": null,
+  "rank": null,
+  "popularity": null,
+  "num_scoring_users": null,
+  "nsfw": null,
+  "created_at": null,
+  "updated_at": null,
+  "source": null,
+  "rating": null,
+  "background": null,
+  "related_anime": [],
+  "related_manga": [],
+  "recommendations": [],
+  "statistics": null
 }

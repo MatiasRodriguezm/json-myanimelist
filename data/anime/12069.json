@@ -34,8 +34,8 @@
   "num_episodes": 1,
   "score": 8.09,
   "mean": 8.09,
-  "numListUsers": 64375,
-  "num_list_users": 64375,
+  "numListUsers": 64378,
+  "num_list_users": 64378,
   "genres": [
     {
       "id": 54,
@@ -57,46 +57,10 @@
     }
   ],
   "pictures": [],
-  "images": {
-    "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/2/84664.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/2/84664l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/2/84664.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/2/84664l.jpg"
-    }
-  },
-  "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/2/84664.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/2/84664l.jpg"
-  },
-  "trailer": {
-    "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/2/84664l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/2/84664l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/2/84664l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/2/84664l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/2/84664l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/2/84664l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/2/84664l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/2/84664l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/2/84664l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/2/84664l.jpg"
-    }
-  },
-  "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
-  "related_manga": [],
-  "recommendations": [],
-  "statistics": null,
+  "backdrop_url": null,
+  "logo_url": null,
+  "tmdb_id": null,
+  "tmdb_updated_at": "2026-11-06T22:06:24.371Z",
   "simkl_id": 40177,
   "episodes_data": [
     {
@@ -861,5 +825,45 @@
       "imageUrl": "https://simkl.in/episodes/29/292329637e4c6a05e_w.webp",
       "description": "Long before Mamoru was champion, he was a punk who thought all a boxer needed was a powerful fist... until he stepped into the ring!"
     }
-  ]
+  ],
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/2/84664.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/2/84664l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/2/84664.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/2/84664l.jpg"
+    }
+  },
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/84664.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/84664l.jpg"
+  },
+  "trailer": {
+    "images": {
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/2/84664l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/2/84664l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/2/84664l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/2/84664l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/2/84664l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/2/84664l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/2/84664l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/2/84664l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/2/84664l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/2/84664l.jpg"
+    }
+  },
+  "broadcast": null,
+  "rank": null,
+  "popularity": null,
+  "num_scoring_users": null,
+  "nsfw": null,
+  "created_at": null,
+  "updated_at": null,
+  "source": null,
+  "rating": null,
+  "background": null,
+  "related_anime": [],
+  "related_manga": [],
+  "recommendations": [],
+  "statistics": null
 }

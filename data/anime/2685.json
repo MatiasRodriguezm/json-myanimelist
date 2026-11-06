@@ -32,8 +32,8 @@
   "num_episodes": 3,
   "score": 8.26,
   "mean": 8.26,
-  "numListUsers": 102568,
-  "num_list_users": 102568,
+  "numListUsers": 102569,
+  "num_list_users": 102569,
   "genres": [
     {
       "id": 1,
@@ -67,6 +67,44 @@
     }
   ],
   "pictures": [],
+  "backdrop_url": "https://image.tmdb.org/t/p/w1280/6yEPWAfQQmkZTht21z9OYZP9f8E.jpg",
+  "logo_url": "https://image.tmdb.org/t/p/w500/hJJrDltSIDfZhQDF2GFKacGXPY.png",
+  "tmdb_id": "37565",
+  "tmdb_updated_at": "2026-11-06T22:02:20.246Z",
+  "simkl_id": 38390,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "The Magician's Message",
+      "aired": "2007-11-16T00:00:00+09:00",
+      "airedDate": "2007-11-16T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/25/2560224f4cd973f2b_w.webp",
+      "imageUrl": "https://simkl.in/episodes/25/2560224f4cd973f2b_w.webp",
+      "description": null
+    },
+    {
+      "episode": 2,
+      "episodeNumber": 2,
+      "title": "The Young Man's Right Eye",
+      "aired": "2008-01-17T00:00:00+09:00",
+      "airedDate": "2008-01-17T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/25/2560226dae34ab6b2_w.webp",
+      "imageUrl": "https://simkl.in/episodes/25/2560226dae34ab6b2_w.webp",
+      "description": null
+    },
+    {
+      "episode": 3,
+      "episodeNumber": 3,
+      "title": "The Princess's Dream",
+      "aired": "2008-03-17T00:00:00+09:00",
+      "airedDate": "2008-03-17T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/25/25602287c7167bdcf_w.webp",
+      "imageUrl": "https://simkl.in/episodes/25/25602287c7167bdcf_w.webp",
+      "description": null
+    }
+  ],
+  "specials_data": [],
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/4/49129.jpg",
@@ -106,39 +144,5 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null,
-  "simkl_id": 38390,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "episodeNumber": 1,
-      "title": "The Magician's Message",
-      "aired": "2007-11-16T00:00:00+09:00",
-      "airedDate": "2007-11-16T00:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/25/2560224f4cd973f2b_w.webp",
-      "imageUrl": "https://simkl.in/episodes/25/2560224f4cd973f2b_w.webp",
-      "description": null
-    },
-    {
-      "episode": 2,
-      "episodeNumber": 2,
-      "title": "The Young Man's Right Eye",
-      "aired": "2008-01-17T00:00:00+09:00",
-      "airedDate": "2008-01-17T00:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/25/2560226dae34ab6b2_w.webp",
-      "imageUrl": "https://simkl.in/episodes/25/2560226dae34ab6b2_w.webp",
-      "description": null
-    },
-    {
-      "episode": 3,
-      "episodeNumber": 3,
-      "title": "The Princess's Dream",
-      "aired": "2008-03-17T00:00:00+09:00",
-      "airedDate": "2008-03-17T00:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/25/25602287c7167bdcf_w.webp",
-      "imageUrl": "https://simkl.in/episodes/25/25602287c7167bdcf_w.webp",
-      "description": null
-    }
-  ],
-  "specials_data": []
+  "statistics": null
 }

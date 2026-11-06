@@ -54,6 +54,24 @@
     }
   ],
   "pictures": [],
+  "backdrop_url": "https://image.tmdb.org/t/p/w1280/ks0KMwgv05PLZW95H8u1zji9BC5.jpg",
+  "logo_url": "https://image.tmdb.org/t/p/w500/msJl5eAFvFrlOVM64DFv0Z7hvru.png",
+  "tmdb_id": "29602",
+  "tmdb_updated_at": "2026-11-06T22:02:22.894Z",
+  "simkl_id": 39280,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "OAD",
+      "aired": "2010-12-17T00:00:00+09:00",
+      "airedDate": "2010-12-17T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/17566735c6d909c9d7_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/17566735c6d909c9d7_w.webp",
+      "description": null
+    }
+  ],
+  "specials_data": [],
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/11/75219.jpg",
@@ -93,19 +111,5 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null,
-  "simkl_id": 39280,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "episodeNumber": 1,
-      "title": "OAD",
-      "aired": "2010-12-17T00:00:00+09:00",
-      "airedDate": "2010-12-17T00:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/17/17566735c6d909c9d7_w.webp",
-      "imageUrl": "https://simkl.in/episodes/17/17566735c6d909c9d7_w.webp",
-      "description": null
-    }
-  ],
-  "specials_data": []
+  "statistics": null
 }

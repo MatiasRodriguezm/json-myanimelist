@@ -31,8 +31,8 @@
   "num_episodes": 1,
   "score": 8.25,
   "mean": 8.25,
-  "numListUsers": 160896,
-  "num_list_users": 160896,
+  "numListUsers": 160900,
+  "num_list_users": 160900,
   "genres": [
     {
       "id": 54,
@@ -54,30 +54,48 @@
     }
   ],
   "pictures": [],
+  "backdrop_url": "https://image.tmdb.org/t/p/w1280/uvCkSZwCTKnBtBOvDpcOvQA6xBg.jpg",
+  "logo_url": "https://image.tmdb.org/t/p/w500/qlJ4cCqnHNs8cPEZDlM67RwZIFQ.png",
+  "tmdb_id": "42705",
+  "tmdb_updated_at": "2026-11-06T22:02:44.748Z",
+  "simkl_id": 37301,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "TV Special",
+      "aired": "2003-04-18T00:00:00+09:00",
+      "airedDate": "2003-04-18T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/17547587a1b4bfa6fa_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/17547587a1b4bfa6fa_w.webp",
+      "description": "Ippo has become the featherweight boxing champion of Japan! Now he must defend his title against fellow champ Kazuki Sanada. Kazuki has practiced the perfect techniques to counter Ippo`s boxing style, but can he surpass the new champion`s willpower?"
+    }
+  ],
+  "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1521/137978.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1521/137978l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1521/137978.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1521/137978l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1521/137978.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1521/137978l.webp",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1521/137978.webp",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1521/137978l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1521/137978.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1521/137978l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1521/137978.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1521/137978l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1521/137978l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1521/137978l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1521/137978l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1521/137978l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1521/137978l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1521/137978l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1521/137978l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1521/137978l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1521/137978l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1521/137978l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1521/137978l.webp",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1521/137978l.webp",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1521/137978l.webp",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1521/137978l.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1521/137978l.webp",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1521/137978l.webp",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1521/137978l.webp",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1521/137978l.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1521/137978l.webp",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1521/137978l.webp"
     }
   },
   "broadcast": null,
@@ -93,19 +111,5 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null,
-  "simkl_id": 37301,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "episodeNumber": 1,
-      "title": "TV Special",
-      "aired": "2003-04-18T00:00:00+09:00",
-      "airedDate": "2003-04-18T00:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/17/17547587a1b4bfa6fa_w.webp",
-      "imageUrl": "https://simkl.in/episodes/17/17547587a1b4bfa6fa_w.webp",
-      "description": "Ippo has become the featherweight boxing champion of Japan! Now he must defend his title against fellow champ Kazuki Sanada. Kazuki has practiced the perfect techniques to counter Ippo`s boxing style, but can he surpass the new champion`s willpower?"
-    }
-  ],
-  "specials_data": []
+  "statistics": null
 }

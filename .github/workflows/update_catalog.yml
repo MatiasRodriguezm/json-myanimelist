@@ -40,10 +40,12 @@ jobs:
       - name: Instalar dependencias
         run: npm ci
 
-      - name: Ejecutar recolección de catálogos (MyAnimeList, LiveChart y Simkl)
+      - name: Ejecutar recolección de catálogos (MyAnimeList, LiveChart, Simkl y TMDb)
         env:
           MAL_CLIENT_ID: ${{ secrets.MAL_CLIENT_ID || 'fdfaa87254aa7ccb69b33147a5205743' }}
           SIMKL_CLIENT_ID: ${{ secrets.SIMKL_CLIENT_ID || '0d620452abba0665e7646b01f74957173262ac7b4aab07b8daf66509dc9441f8' }}
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY || 'f488298237fdc75bc52316481f5f8b67' }}
+          TMDB_API_TOKEN: ${{ secrets.TMDB_API_TOKEN || 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJmNDg4Mjk4MjM3ZmRjNzViYzUyMzE2NDgxZjVmOGI2NyIsIm5iZiI6MTc4NTc3NDQ5NC41LCJzdWIiOiI2YTcwYzE5ZWU5YWRjODMwZjNhMjczMGUiLCJzY29wZXMiOlsiYXBpX3JlYWQiXSwidmVyc2lvbiI6MX0.DztoCObCbWwli0Qva8UrFAeZjb7epzMjv4R0NMTchLw' }}
         run: npm run sync
 
       - name: Guardar cambios en el repositorio
@@ -54,7 +56,7 @@ jobs:
           if git diff --staged --quiet; then
             echo "No hubo cambios en los catálogos."
           else
-            git commit -m "chore(data): auto-update catalog from MyAnimeList, LiveChart & Simkl [skip ci]"
+            git commit -m "chore(data): auto-update catalog from MAL, LiveChart, Simkl & TMDb [skip ci]"
             git push
           fi
 

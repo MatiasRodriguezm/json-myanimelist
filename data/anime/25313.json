@@ -32,8 +32,8 @@
   "num_episodes": 1,
   "score": 8.12,
   "mean": 8.12,
-  "numListUsers": 46401,
-  "num_list_users": 46401,
+  "numListUsers": 46403,
+  "num_list_users": 46403,
   "genres": [
     {
       "id": 1,
@@ -75,30 +75,48 @@
     }
   ],
   "pictures": [],
+  "backdrop_url": "https://image.tmdb.org/t/p/w1280/3gVl0IvJMbhOnAvH9V0Q1Y1HnXE.jpg",
+  "logo_url": "https://image.tmdb.org/t/p/w500/2GFz7E2Z1UWiWqOv2YGIbIaAWrH.png",
+  "tmdb_id": "57041",
+  "tmdb_updated_at": "2026-11-06T22:02:46.614Z",
+  "simkl_id": 433226,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "OAD",
+      "aired": "2014-11-09T00:00:00+09:00",
+      "airedDate": "2014-11-09T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/17573795bbcaa7a84c_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/17573795bbcaa7a84c_w.webp",
+      "description": null
+    }
+  ],
+  "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1327/110925.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1327/110925l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1327/110925.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1327/110925l.webp"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1327/110925.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1327/110925l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1327/110925.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1327/110925l.jpg"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1327/110925.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1327/110925l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1327/110925.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1327/110925l.jpg"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1327/110925l.webp",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1327/110925l.webp",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1327/110925l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1327/110925l.webp",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1327/110925l.webp",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1327/110925l.webp",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1327/110925l.webp",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1327/110925l.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1327/110925l.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1327/110925l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1327/110925l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1327/110925l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1327/110925l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1327/110925l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1327/110925l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1327/110925l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1327/110925l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1327/110925l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1327/110925l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1327/110925l.jpg"
     }
   },
   "broadcast": null,
@@ -114,19 +132,5 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null,
-  "simkl_id": 433226,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "episodeNumber": 1,
-      "title": "OAD",
-      "aired": "2014-11-09T00:00:00+09:00",
-      "airedDate": "2014-11-09T00:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/17/17573795bbcaa7a84c_w.webp",
-      "imageUrl": "https://simkl.in/episodes/17/17573795bbcaa7a84c_w.webp",
-      "description": null
-    }
-  ],
-  "specials_data": []
+  "statistics": null
 }

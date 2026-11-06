@@ -29,8 +29,8 @@
   "num_episodes": 1,
   "score": 8,
   "mean": 8,
-  "numListUsers": 42684,
-  "num_list_users": 42684,
+  "numListUsers": 42685,
+  "num_list_users": 42685,
   "genres": [
     {
       "id": 63,
@@ -56,6 +56,35 @@
     }
   ],
   "pictures": [],
+  "backdrop_url": "https://image.tmdb.org/t/p/w1280/9ZfSM7eZVLbjYdZB31tlUi2egR8.jpg",
+  "logo_url": "https://image.tmdb.org/t/p/w500/oZM43BqZjXCFKODCY1FacfxnVt8.png",
+  "tmdb_id": "53787",
+  "tmdb_updated_at": "2026-11-06T22:02:31.772Z",
+  "simkl_id": 40450,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "OVA",
+      "aired": "2007-09-03T00:00:00+09:00",
+      "airedDate": "2007-09-03T00:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ],
+  "specials_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Cast Interview",
+      "aired": "2007-09-21T00:00:00+09:00",
+      "airedDate": "2007-09-21T00:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ],
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/11/77622.jpg",
@@ -95,30 +124,5 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null,
-  "simkl_id": 40450,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "episodeNumber": 1,
-      "title": "OVA",
-      "aired": "2007-09-03T00:00:00+09:00",
-      "airedDate": "2007-09-03T00:00:00+09:00",
-      "thumbnail": null,
-      "imageUrl": null,
-      "description": null
-    }
-  ],
-  "specials_data": [
-    {
-      "episode": 1,
-      "episodeNumber": 1,
-      "title": "Cast Interview",
-      "aired": "2007-09-21T00:00:00+09:00",
-      "airedDate": "2007-09-21T00:00:00+09:00",
-      "thumbnail": null,
-      "imageUrl": null,
-      "description": null
-    }
-  ]
+  "statistics": null
 }

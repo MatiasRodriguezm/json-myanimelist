@@ -78,6 +78,17 @@ export function toAnimeSummary(node) {
     studios,
     pictures: pictureUrls,
 
+    // Assets de TheMovieDB (TMDb)
+    backdrop_url: node.backdrop_url || null,
+    logo_url: node.logo_url || null,
+    tmdb_id: node.tmdb_id || null,
+    tmdb_updated_at: node.tmdb_updated_at || null,
+
+    // Datos de Simkl
+    simkl_id: node.simkl_id || null,
+    episodes_data: node.episodes_data || [],
+    specials_data: node.specials_data || [],
+
     // Imágenes para Compose (compatible tanto con image_url como con imageUrl)
     images: {
       jpg: {

@@ -131,6 +131,14 @@ export class Storage {
     return (await this.readJsonSafe(config.paths.malSimklMapJson)) || {};
   }
 
+  static async saveMalTmdbMap(data) {
+    await this.writeJsonAtomic(config.paths.malTmdbMapJson, data);
+  }
+
+  static async loadMalTmdbMap() {
+    return (await this.readJsonSafe(config.paths.malTmdbMapJson)) || {};
+  }
+
   static async getStats() {
     let animeCount = 0;
     try {

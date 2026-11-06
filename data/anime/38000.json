@@ -31,8 +31,8 @@
   "num_episodes": 26,
   "score": 8.39,
   "mean": 8.39,
-  "numListUsers": 3529227,
-  "num_list_users": 3529227,
+  "numListUsers": 3529336,
+  "num_list_users": 3529336,
   "genres": [
     {
       "id": 1,
@@ -62,53 +62,10 @@
     }
   ],
   "pictures": [],
-  "images": {
-    "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1286/99889.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1286/99889l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1286/99889.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1286/99889l.jpg"
-    }
-  },
-  "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1286/99889.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1286/99889l.jpg"
-  },
-  "trailer": {
-    "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1286/99889l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1286/99889l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1286/99889l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1286/99889l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1286/99889l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1286/99889l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1286/99889l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1286/99889l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1286/99889l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1286/99889l.jpg"
-    }
-  },
-  "broadcast": {
-    "day": "saturday",
-    "time": "23:30",
-    "day_of_the_week": "saturday",
-    "start_time": "23:30",
-    "timezone": "Asia/Tokyo",
-    "string": "saturday 23:30"
-  },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
-  "related_manga": [],
-  "recommendations": [],
-  "statistics": null,
+  "backdrop_url": "https://image.tmdb.org/t/p/w1280/nTvM4mhqNlHIvUkI1gVnW6XP7GG.jpg",
+  "logo_url": "https://image.tmdb.org/t/p/w500/ecghlDeabR3X3Vv8tXIOeXHQvQe.png",
+  "tmdb_id": "85937",
+  "tmdb_updated_at": "2026-11-06T22:00:53.402Z",
   "simkl_id": 831411,
   "episodes_data": [
     {
@@ -372,5 +329,52 @@
       "description": "As Tanjiro and the others are devoted to their rehabilitation training, the absolute master of the demons, Muzan Kibutsuji, gathers the Lower Ranks of the Twelve Kizuki. The demons, too, are preparing to make their next move. As training draws to a close, Tanjiro has improved to the point where he can fight on equal terms with Kanao. Just then, he receives word of a new mission from his Kasugai Crow."
     }
   ],
-  "specials_data": []
+  "specials_data": [],
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1286/99889.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1286/99889l.webp",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1286/99889.webp",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1286/99889l.webp"
+    }
+  },
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1286/99889.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1286/99889l.webp"
+  },
+  "trailer": {
+    "images": {
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1286/99889l.webp",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1286/99889l.webp",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1286/99889l.webp",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1286/99889l.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1286/99889l.webp",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1286/99889l.webp",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1286/99889l.webp",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1286/99889l.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1286/99889l.webp",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1286/99889l.webp"
+    }
+  },
+  "broadcast": {
+    "day": "saturday",
+    "time": "23:30",
+    "day_of_the_week": "saturday",
+    "start_time": "23:30",
+    "timezone": "Asia/Tokyo",
+    "string": "saturday 23:30"
+  },
+  "rank": null,
+  "popularity": null,
+  "num_scoring_users": null,
+  "nsfw": null,
+  "created_at": null,
+  "updated_at": null,
+  "source": null,
+  "rating": null,
+  "background": null,
+  "related_anime": [],
+  "related_manga": [],
+  "recommendations": [],
+  "statistics": null
 }

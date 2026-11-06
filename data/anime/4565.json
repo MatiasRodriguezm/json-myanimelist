@@ -31,8 +31,8 @@
   "num_episodes": 1,
   "score": 8.62,
   "mean": 8.62,
-  "numListUsers": 243644,
-  "num_list_users": 243644,
+  "numListUsers": 243648,
+  "num_list_users": 243648,
   "genres": [
     {
       "id": 18,
@@ -58,6 +58,24 @@
     }
   ],
   "pictures": [],
+  "backdrop_url": "https://image.tmdb.org/t/p/w1280/la3G4VRIVcryxNmxU1YYTZcy9fL.jpg",
+  "logo_url": "https://image.tmdb.org/t/p/w500/bXjRQacnd04wmU05P5umaycpgOm.png",
+  "tmdb_id": "21729",
+  "tmdb_updated_at": "2026-11-06T22:02:04.102Z",
+  "simkl_id": 36758,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Complete Movie",
+      "aired": "2009-04-25T00:00:00+09:00",
+      "airedDate": "2009-04-25T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/175760494f87a4c0d2_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/175760494f87a4c0d2_w.webp",
+      "description": null
+    }
+  ],
+  "specials_data": [],
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/12/19698.webp",
@@ -97,19 +115,5 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null,
-  "simkl_id": 36758,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "episodeNumber": 1,
-      "title": "Complete Movie",
-      "aired": "2009-04-25T00:00:00+09:00",
-      "airedDate": "2009-04-25T00:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/17/175760494f87a4c0d2_w.webp",
-      "imageUrl": "https://simkl.in/episodes/17/175760494f87a4c0d2_w.webp",
-      "description": null
-    }
-  ],
-  "specials_data": []
+  "statistics": null
 }

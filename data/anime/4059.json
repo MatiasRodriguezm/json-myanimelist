@@ -31,8 +31,8 @@
   "num_episodes": 1,
   "score": 7.93,
   "mean": 7.93,
-  "numListUsers": 323512,
-  "num_list_users": 323512,
+  "numListUsers": 323515,
+  "num_list_users": 323515,
   "genres": [
     {
       "id": 8,
@@ -54,46 +54,10 @@
     }
   ],
   "pictures": [],
-  "images": {
-    "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/12/19620.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/19620l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/12/19620.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/12/19620l.jpg"
-    }
-  },
-  "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/12/19620.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/12/19620l.jpg"
-  },
-  "trailer": {
-    "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/12/19620l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/12/19620l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/12/19620l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/12/19620l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/19620l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/12/19620l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/12/19620l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/12/19620l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/19620l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/12/19620l.jpg"
-    }
-  },
-  "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
-  "related_manga": [],
-  "recommendations": [],
-  "statistics": null,
+  "backdrop_url": null,
+  "logo_url": null,
+  "tmdb_id": null,
+  "tmdb_updated_at": "2026-11-06T22:06:26.617Z",
   "simkl_id": 40750,
   "episodes_data": [
     {
@@ -338,5 +302,45 @@
       "imageUrl": "https://simkl.in/episodes/63/639224060f52c919_w.webp",
       "description": "Former delinquent girl Tomoyo had applied for school president to save the sakura trees near the school; Tomoya supported her, and they have just begun dating. Tomoya is still a delinquent but Tomoyo helps him with learning, making bentos and waking him up every morning. When the election results are announced Tomoyo finds that she will now be able to pursue her dream. But teachers as well as schoolmates consider Tomoya a bad influence for this school`s aspiring new idol. Will their love be able to overcome all trials and tribulations?"
     }
-  ]
+  ],
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/19620.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/19620l.webp",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/12/19620.webp",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/12/19620l.webp"
+    }
+  },
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/19620.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/12/19620l.webp"
+  },
+  "trailer": {
+    "images": {
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/12/19620l.webp",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/12/19620l.webp",
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/19620l.webp",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/12/19620l.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/19620l.webp",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/12/19620l.webp",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/12/19620l.webp",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/12/19620l.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/19620l.webp",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/12/19620l.webp"
+    }
+  },
+  "broadcast": null,
+  "rank": null,
+  "popularity": null,
+  "num_scoring_users": null,
+  "nsfw": null,
+  "created_at": null,
+  "updated_at": null,
+  "source": null,
+  "rating": null,
+  "background": null,
+  "related_anime": [],
+  "related_manga": [],
+  "recommendations": [],
+  "statistics": null
 }

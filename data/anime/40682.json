@@ -29,8 +29,8 @@
   "num_episodes": 26,
   "score": 8.85,
   "mean": 8.85,
-  "numListUsers": 139051,
-  "num_list_users": 139051,
+  "numListUsers": 139055,
+  "num_list_users": 139055,
   "genres": [
     {
       "id": 1,
@@ -60,53 +60,10 @@
     }
   ],
   "pictures": [],
-  "images": {
-    "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1443/111830.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1443/111830l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1443/111830.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1443/111830l.webp"
-    }
-  },
-  "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1443/111830.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1443/111830l.webp"
-  },
-  "trailer": {
-    "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1443/111830l.webp",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1443/111830l.webp",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1443/111830l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1443/111830l.webp",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1443/111830l.webp",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1443/111830l.webp",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1443/111830l.webp",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1443/111830l.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1443/111830l.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1443/111830l.webp"
-    }
-  },
-  "broadcast": {
-    "day": "monday",
-    "time": "00:10",
-    "day_of_the_week": "monday",
-    "start_time": "00:10",
-    "timezone": "Asia/Tokyo",
-    "string": "monday 00:10"
-  },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
-  "related_manga": [],
-  "recommendations": [],
-  "statistics": null,
+  "backdrop_url": "https://image.tmdb.org/t/p/w1280/5CGM0vQpq0QBcslUXqoo0unlGPZ.jpg",
+  "logo_url": "https://image.tmdb.org/t/p/w500/njxcMoizy5vstTcBK9Sm4BnYaZB.png",
+  "tmdb_id": "46437",
+  "tmdb_updated_at": "2026-11-06T22:01:49.407Z",
   "simkl_id": 1203191,
   "episodes_data": [
     {
@@ -370,5 +327,52 @@
       "description": "Qiang Lei must dance more intently than ever before, putting her life on the line for a chance at besting the Chi You and avenging Xiang`s death."
     }
   ],
-  "specials_data": []
+  "specials_data": [],
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1443/111830.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1443/111830l.webp",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1443/111830.webp",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1443/111830l.webp"
+    }
+  },
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1443/111830.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1443/111830l.webp"
+  },
+  "trailer": {
+    "images": {
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1443/111830l.webp",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1443/111830l.webp",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1443/111830l.webp",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1443/111830l.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1443/111830l.webp",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1443/111830l.webp",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1443/111830l.webp",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1443/111830l.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1443/111830l.webp",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1443/111830l.webp"
+    }
+  },
+  "broadcast": {
+    "day": "monday",
+    "time": "00:10",
+    "day_of_the_week": "monday",
+    "start_time": "00:10",
+    "timezone": "Asia/Tokyo",
+    "string": "monday 00:10"
+  },
+  "rank": null,
+  "popularity": null,
+  "num_scoring_users": null,
+  "nsfw": null,
+  "created_at": null,
+  "updated_at": null,
+  "source": null,
+  "rating": null,
+  "background": null,
+  "related_anime": [],
+  "related_manga": [],
+  "recommendations": [],
+  "statistics": null
 }

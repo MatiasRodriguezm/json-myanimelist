@@ -34,8 +34,8 @@
   "num_episodes": 1,
   "score": 8.36,
   "mean": 8.36,
-  "numListUsers": 379643,
-  "num_list_users": 379643,
+  "numListUsers": 379651,
+  "num_list_users": 379651,
   "genres": [
     {
       "id": 8,
@@ -49,46 +49,10 @@
     }
   ],
   "pictures": [],
-  "images": {
-    "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/9/89993.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/9/89993l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/9/89993.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/9/89993l.jpg"
-    }
-  },
-  "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/9/89993.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/9/89993l.jpg"
-  },
-  "trailer": {
-    "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/9/89993l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/9/89993l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/9/89993l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/9/89993l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/9/89993l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/9/89993l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/9/89993l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/9/89993l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/9/89993l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/9/89993l.jpg"
-    }
-  },
-  "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
-  "related_manga": [],
-  "recommendations": [],
-  "statistics": null,
+  "backdrop_url": null,
+  "logo_url": null,
+  "tmdb_id": null,
+  "tmdb_updated_at": "2026-11-06T22:06:22.471Z",
   "simkl_id": 588357,
   "episodes_data": [
     {
@@ -263,5 +227,45 @@
       "imageUrl": null,
       "description": "An emotionally scarred former child soldier becomes a letter writer in this condensed recap."
     }
-  ]
+  ],
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/9/89993.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/9/89993l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/9/89993.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/9/89993l.jpg"
+    }
+  },
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/89993.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/89993l.jpg"
+  },
+  "trailer": {
+    "images": {
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/9/89993l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/9/89993l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/9/89993l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/9/89993l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/9/89993l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/9/89993l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/9/89993l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/9/89993l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/9/89993l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/9/89993l.jpg"
+    }
+  },
+  "broadcast": null,
+  "rank": null,
+  "popularity": null,
+  "num_scoring_users": null,
+  "nsfw": null,
+  "created_at": null,
+  "updated_at": null,
+  "source": null,
+  "rating": null,
+  "background": null,
+  "related_anime": [],
+  "related_manga": [],
+  "recommendations": [],
+  "statistics": null
 }

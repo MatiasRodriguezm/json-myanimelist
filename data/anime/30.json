@@ -32,8 +32,8 @@
   "num_episodes": 26,
   "score": 8.38,
   "mean": 8.38,
-  "numListUsers": 2076630,
-  "num_list_users": 2076630,
+  "numListUsers": 2076683,
+  "num_list_users": 2076683,
   "genres": [
     {
       "id": 5,
@@ -75,53 +75,10 @@
     }
   ],
   "pictures": [],
-  "images": {
-    "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1314/108941.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1314/108941l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1314/108941.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1314/108941l.jpg"
-    }
-  },
-  "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1314/108941.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1314/108941l.jpg"
-  },
-  "trailer": {
-    "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1314/108941l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1314/108941l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1314/108941l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1314/108941l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1314/108941l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1314/108941l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1314/108941l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1314/108941l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1314/108941l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1314/108941l.jpg"
-    }
-  },
-  "broadcast": {
-    "day": "wednesday",
-    "time": "18:30",
-    "day_of_the_week": "wednesday",
-    "start_time": "18:30",
-    "timezone": "Asia/Tokyo",
-    "string": "wednesday 18:30"
-  },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
-  "related_manga": [],
-  "recommendations": [],
-  "statistics": null,
+  "backdrop_url": "https://image.tmdb.org/t/p/w1280/2NNKYsWXoO9w8fMctWX7utqyh95.jpg",
+  "logo_url": "https://image.tmdb.org/t/p/w500/jNIXy1QNfYKzHCarH043bjOjBOD.png",
+  "tmdb_id": "890",
+  "tmdb_updated_at": "2026-11-06T22:01:04.751Z",
   "simkl_id": 41254,
   "episodes_data": [
     {
@@ -586,5 +543,52 @@
       "imageUrl": null,
       "description": "Kaworu Nagisa, the Fifth Child, comes to NERV to pilot Unit 02 in Asuka`s place. He`s friendly to Shinji, but he`s shrouded in mystery."
     }
-  ]
+  ],
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1314/108941.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1314/108941l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1314/108941.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1314/108941l.jpg"
+    }
+  },
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1314/108941.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1314/108941l.jpg"
+  },
+  "trailer": {
+    "images": {
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1314/108941l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1314/108941l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1314/108941l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1314/108941l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1314/108941l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1314/108941l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1314/108941l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1314/108941l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1314/108941l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1314/108941l.jpg"
+    }
+  },
+  "broadcast": {
+    "day": "wednesday",
+    "time": "18:30",
+    "day_of_the_week": "wednesday",
+    "start_time": "18:30",
+    "timezone": "Asia/Tokyo",
+    "string": "wednesday 18:30"
+  },
+  "rank": null,
+  "popularity": null,
+  "num_scoring_users": null,
+  "nsfw": null,
+  "created_at": null,
+  "updated_at": null,
+  "source": null,
+  "rating": null,
+  "background": null,
+  "related_anime": [],
+  "related_manga": [],
+  "recommendations": [],
+  "statistics": null
 }

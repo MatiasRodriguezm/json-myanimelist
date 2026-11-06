@@ -29,8 +29,8 @@
   "num_episodes": null,
   "score": null,
   "mean": null,
-  "numListUsers": 44988,
-  "num_list_users": 44988,
+  "numListUsers": 45021,
+  "num_list_users": 45021,
   "genres": [
     {
       "id": 1,
@@ -60,30 +60,48 @@
     }
   ],
   "pictures": [],
+  "backdrop_url": "https://image.tmdb.org/t/p/w1280/fR2wnADwKxS2uWDRxWkJzlfAWdt.jpg",
+  "logo_url": "https://image.tmdb.org/t/p/w500/id23kEoJy7fSzgHxfdIXSZ5KnHf.svg",
+  "tmdb_id": "320905",
+  "tmdb_updated_at": "2026-11-06T22:01:36.948Z",
+  "simkl_id": 3098036,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Episode 1",
+      "aired": "2027-04-01T00:00:00+09:00",
+      "airedDate": "2027-04-01T00:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ],
+  "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1653/157089.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1653/157089l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1653/157089.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1653/157089l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1653/157089.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1653/157089l.webp",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1653/157089.webp",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1653/157089l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1653/157089.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1653/157089l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1653/157089.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1653/157089l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1653/157089l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1653/157089l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1653/157089l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1653/157089l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1653/157089l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1653/157089l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1653/157089l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1653/157089l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1653/157089l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1653/157089l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1653/157089l.webp",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1653/157089l.webp",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1653/157089l.webp",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1653/157089l.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1653/157089l.webp",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1653/157089l.webp",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1653/157089l.webp",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1653/157089l.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1653/157089l.webp",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1653/157089l.webp"
     }
   },
   "broadcast": null,
@@ -99,19 +117,5 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null,
-  "simkl_id": 3098036,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "episodeNumber": 1,
-      "title": "Episode 1",
-      "aired": "2027-04-01T00:00:00+09:00",
-      "airedDate": "2027-04-01T00:00:00+09:00",
-      "thumbnail": null,
-      "imageUrl": null,
-      "description": null
-    }
-  ],
-  "specials_data": []
+  "statistics": null
 }

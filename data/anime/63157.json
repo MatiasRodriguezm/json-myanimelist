@@ -32,8 +32,8 @@
   "num_episodes": null,
   "score": 6.41,
   "mean": 6.41,
-  "numListUsers": 4986,
-  "num_list_users": 4986,
+  "numListUsers": 4987,
+  "num_list_users": 4987,
   "genres": [
     {
       "id": 4,
@@ -59,6 +59,44 @@
     }
   ],
   "pictures": [],
+  "backdrop_url": "https://image.tmdb.org/t/p/w1280/qPJ7HP6w73k3FzsYsvnKHMfil8M.jpg",
+  "logo_url": "https://image.tmdb.org/t/p/w500/hrisHdxVN8QRnx7Pl5df9xtE5wy.png",
+  "tmdb_id": "308977",
+  "tmdb_updated_at": "2026-11-06T21:58:37.074Z",
+  "simkl_id": 3152176,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Keroro's Dreamland",
+      "aired": "2026-10-03T09:30:00+09:00",
+      "airedDate": "2026-10-03T09:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/2080869126b64d0c41_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/2080869126b64d0c41_w.webp",
+      "description": null
+    },
+    {
+      "episode": 2,
+      "episodeNumber": 2,
+      "title": "My Friend Is an Invader / Sergeant Keroro in a Windowless, Bathless Room with History",
+      "aired": "2026-10-10T09:30:00+09:00",
+      "airedDate": "2026-10-10T09:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20941991b040c92b7e_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20941991b040c92b7e_w.webp",
+      "description": null
+    },
+    {
+      "episode": 3,
+      "episodeNumber": 3,
+      "title": "The Secretive Duo / Heart-Pounding! Momoka's Grand Romantic Tour Operation!",
+      "aired": "2026-10-17T09:30:00+09:00",
+      "airedDate": "2026-10-17T09:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/209419938804362123_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/209419938804362123_w.webp",
+      "description": null
+    }
+  ],
+  "specials_data": [],
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1827/160110.jpg",
@@ -105,39 +143,5 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null,
-  "simkl_id": 3152176,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "episodeNumber": 1,
-      "title": "Keroro's Dreamland",
-      "aired": "2026-10-03T09:30:00+09:00",
-      "airedDate": "2026-10-03T09:30:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/20/2080869126b64d0c41_w.webp",
-      "imageUrl": "https://simkl.in/episodes/20/2080869126b64d0c41_w.webp",
-      "description": null
-    },
-    {
-      "episode": 2,
-      "episodeNumber": 2,
-      "title": "My Friend Is an Invader / Sergeant Keroro in a Windowless, Bathless Room with History",
-      "aired": "2026-10-10T09:30:00+09:00",
-      "airedDate": "2026-10-10T09:30:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/20/20941991b040c92b7e_w.webp",
-      "imageUrl": "https://simkl.in/episodes/20/20941991b040c92b7e_w.webp",
-      "description": null
-    },
-    {
-      "episode": 3,
-      "episodeNumber": 3,
-      "title": "The Secretive Duo / Heart-Pounding! Momoka's Grand Romantic Tour Operation!",
-      "aired": "2026-10-17T09:30:00+09:00",
-      "airedDate": "2026-10-17T09:30:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/20/209419938804362123_w.webp",
-      "imageUrl": "https://simkl.in/episodes/20/209419938804362123_w.webp",
-      "description": null
-    }
-  ],
-  "specials_data": []
+  "statistics": null
 }

@@ -29,8 +29,8 @@
   "num_episodes": 3,
   "score": 7.89,
   "mean": 7.89,
-  "numListUsers": 32098,
-  "num_list_users": 32098,
+  "numListUsers": 32099,
+  "num_list_users": 32099,
   "genres": [
     {
       "id": 63,
@@ -56,46 +56,10 @@
     }
   ],
   "pictures": [],
-  "images": {
-    "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/10/74338.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/74338l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/10/74338.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/10/74338l.webp"
-    }
-  },
-  "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/10/74338.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/10/74338l.webp"
-  },
-  "trailer": {
-    "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/10/74338l.webp",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/10/74338l.webp",
-      "image_url": "https://cdn.myanimelist.net/images/anime/10/74338l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/10/74338l.webp",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/74338l.webp",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/10/74338l.webp",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/10/74338l.webp",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/10/74338l.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/74338l.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/10/74338l.webp"
-    }
-  },
-  "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
-  "related_manga": [],
-  "recommendations": [],
-  "statistics": null,
+  "backdrop_url": "https://image.tmdb.org/t/p/w1280/9ZfSM7eZVLbjYdZB31tlUi2egR8.jpg",
+  "logo_url": "https://image.tmdb.org/t/p/w500/oZM43BqZjXCFKODCY1FacfxnVt8.png",
+  "tmdb_id": "53787",
+  "tmdb_updated_at": "2026-11-06T22:02:57.490Z",
   "simkl_id": 469616,
   "episodes_data": [
     {
@@ -170,5 +134,45 @@
       "imageUrl": null,
       "description": null
     }
-  ]
+  ],
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/74338.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/74338l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/10/74338.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/10/74338l.jpg"
+    }
+  },
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/74338.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/74338l.jpg"
+  },
+  "trailer": {
+    "images": {
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/10/74338l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/10/74338l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/74338l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/10/74338l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/74338l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/10/74338l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/10/74338l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/10/74338l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/74338l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/10/74338l.jpg"
+    }
+  },
+  "broadcast": null,
+  "rank": null,
+  "popularity": null,
+  "num_scoring_users": null,
+  "nsfw": null,
+  "created_at": null,
+  "updated_at": null,
+  "source": null,
+  "rating": null,
+  "background": null,
+  "related_anime": [],
+  "related_manga": [],
+  "recommendations": [],
+  "statistics": null
 }

@@ -32,8 +32,8 @@
   "num_episodes": 75,
   "score": 8.78,
   "mean": 8.78,
-  "numListUsers": 714518,
-  "num_list_users": 714518,
+  "numListUsers": 714535,
+  "num_list_users": 714535,
   "genres": [
     {
       "id": 54,
@@ -55,53 +55,10 @@
     }
   ],
   "pictures": [],
-  "images": {
-    "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/4/86334.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/86334l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/4/86334.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/4/86334l.jpg"
-    }
-  },
-  "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/4/86334.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/4/86334l.jpg"
-  },
-  "trailer": {
-    "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/4/86334l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/4/86334l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/4/86334l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/4/86334l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/86334l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/4/86334l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/4/86334l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/4/86334l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/86334l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/4/86334l.jpg"
-    }
-  },
-  "broadcast": {
-    "day": "tuesday",
-    "time": "00:50",
-    "day_of_the_week": "tuesday",
-    "start_time": "00:50",
-    "timezone": "Asia/Tokyo",
-    "string": "tuesday 00:50"
-  },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
-  "related_manga": [],
-  "recommendations": [],
-  "statistics": null,
+  "backdrop_url": "https://image.tmdb.org/t/p/w1280/uvCkSZwCTKnBtBOvDpcOvQA6xBg.jpg",
+  "logo_url": "https://image.tmdb.org/t/p/w500/qlJ4cCqnHNs8cPEZDlM67RwZIFQ.png",
+  "tmdb_id": "42705",
+  "tmdb_updated_at": "2026-11-06T22:01:53.207Z",
   "simkl_id": 40177,
   "episodes_data": [
     {
@@ -866,5 +823,52 @@
       "imageUrl": "https://simkl.in/episodes/29/292329637e4c6a05e_w.webp",
       "description": "Long before Mamoru was champion, he was a punk who thought all a boxer needed was a powerful fist... until he stepped into the ring!"
     }
-  ]
+  ],
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/86334.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/86334l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/4/86334.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/4/86334l.jpg"
+    }
+  },
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/4/86334.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/4/86334l.jpg"
+  },
+  "trailer": {
+    "images": {
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/4/86334l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/4/86334l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/86334l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/4/86334l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/86334l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/4/86334l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/4/86334l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/4/86334l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/86334l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/4/86334l.jpg"
+    }
+  },
+  "broadcast": {
+    "day": "tuesday",
+    "time": "00:50",
+    "day_of_the_week": "tuesday",
+    "start_time": "00:50",
+    "timezone": "Asia/Tokyo",
+    "string": "tuesday 00:50"
+  },
+  "rank": null,
+  "popularity": null,
+  "num_scoring_users": null,
+  "nsfw": null,
+  "created_at": null,
+  "updated_at": null,
+  "source": null,
+  "rating": null,
+  "background": null,
+  "related_anime": [],
+  "related_manga": [],
+  "recommendations": [],
+  "statistics": null
 }

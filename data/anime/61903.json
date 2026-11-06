@@ -29,8 +29,8 @@
   "num_episodes": 1,
   "score": 8.51,
   "mean": 8.51,
-  "numListUsers": 126060,
-  "num_list_users": 126060,
+  "numListUsers": 126069,
+  "num_list_users": 126069,
   "genres": [
     {
       "id": 4,
@@ -56,6 +56,24 @@
     }
   ],
   "pictures": [],
+  "backdrop_url": "https://image.tmdb.org/t/p/w1280/dJ8yrSokdTMnhKJw06MllSfCegb.jpg",
+  "logo_url": "https://image.tmdb.org/t/p/w500/56munppXDVJXSBt1GcttOrKMKnH.png",
+  "tmdb_id": "83121",
+  "tmdb_updated_at": "2026-11-06T22:02:39.166Z",
+  "simkl_id": 2819258,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Chika Fujiwara Wants to Surprise / Miyuki Shirogane Wants to Talk / Kaguya Shinomiya's Impossible Task / The ABCs of Men and Women / Kaguya Wants to Talk / Kaguya Wants to See Them Off",
+      "aired": "2025-12-31T00:00:00+09:00",
+      "airedDate": "2025-12-31T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/19/1925982793d532e702_w.webp",
+      "imageUrl": "https://simkl.in/episodes/19/1925982793d532e702_w.webp",
+      "description": null
+    }
+  ],
+  "specials_data": [],
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1112/150697.jpg",
@@ -95,19 +113,5 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null,
-  "simkl_id": 2819258,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "episodeNumber": 1,
-      "title": "Chika Fujiwara Wants to Surprise / Miyuki Shirogane Wants to Talk / Kaguya Shinomiya's Impossible Task / The ABCs of Men and Women / Kaguya Wants to Talk / Kaguya Wants to See Them Off",
-      "aired": "2025-12-31T00:00:00+09:00",
-      "airedDate": "2025-12-31T00:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/19/1925982793d532e702_w.webp",
-      "imageUrl": "https://simkl.in/episodes/19/1925982793d532e702_w.webp",
-      "description": null
-    }
-  ],
-  "specials_data": []
+  "statistics": null
 }

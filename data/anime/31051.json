@@ -31,8 +31,8 @@
   "num_episodes": 1,
   "score": 8.09,
   "mean": 8.09,
-  "numListUsers": 120086,
-  "num_list_users": 120086,
+  "numListUsers": 120088,
+  "num_list_users": 120088,
   "genres": [
     {
       "id": 23,
@@ -58,46 +58,10 @@
     }
   ],
   "pictures": [],
-  "images": {
-    "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/13/77323.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/13/77323l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/13/77323.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/13/77323l.jpg"
-    }
-  },
-  "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/13/77323.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/13/77323l.jpg"
-  },
-  "trailer": {
-    "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/13/77323l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/13/77323l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/13/77323l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/13/77323l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/13/77323l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/13/77323l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/13/77323l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/13/77323l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/13/77323l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/13/77323l.jpg"
-    }
-  },
-  "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
-  "related_manga": [],
-  "recommendations": [],
-  "statistics": null,
+  "backdrop_url": null,
+  "logo_url": null,
+  "tmdb_id": null,
+  "tmdb_updated_at": "2026-11-06T22:06:24.595Z",
   "simkl_id": 51064,
   "episodes_data": [
     {
@@ -462,5 +426,45 @@
       "imageUrl": null,
       "description": "Special included on Kuroko no Basket Fan Disc 3: Korekara Nandodemo."
     }
-  ]
+  ],
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/13/77323.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/13/77323l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/13/77323.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/13/77323l.jpg"
+    }
+  },
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/13/77323.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/13/77323l.jpg"
+  },
+  "trailer": {
+    "images": {
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/13/77323l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/13/77323l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/13/77323l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/13/77323l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/13/77323l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/13/77323l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/13/77323l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/13/77323l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/13/77323l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/13/77323l.jpg"
+    }
+  },
+  "broadcast": null,
+  "rank": null,
+  "popularity": null,
+  "num_scoring_users": null,
+  "nsfw": null,
+  "created_at": null,
+  "updated_at": null,
+  "source": null,
+  "rating": null,
+  "background": null,
+  "related_anime": [],
+  "related_manga": [],
+  "recommendations": [],
+  "statistics": null
 }

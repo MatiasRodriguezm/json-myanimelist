@@ -31,8 +31,8 @@
   "num_episodes": 1,
   "score": 8.14,
   "mean": 8.14,
-  "numListUsers": 130304,
-  "num_list_users": 130304,
+  "numListUsers": 130308,
+  "num_list_users": 130308,
   "genres": [
     {
       "id": 1,
@@ -54,30 +54,48 @@
     }
   ],
   "pictures": [],
+  "backdrop_url": "https://image.tmdb.org/t/p/w1280/3wUOyQbIOFNLPObXa7Iae8RzJ87.jpg",
+  "logo_url": "https://image.tmdb.org/t/p/w500/vWozUkiKsqThqw4bHHjB5t0J2YR.png",
+  "tmdb_id": "1145612",
+  "tmdb_updated_at": "2026-11-06T22:02:46.262Z",
+  "simkl_id": 1999306,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "TV Special",
+      "aired": "2023-07-02T00:00:00+09:00",
+      "airedDate": "2023-07-02T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/17563811611a1c0f6c_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/17563811611a1c0f6c_w.webp",
+      "description": "Years after the Fifth Holy Grail War in Japan, strange reports surface of one appearing in America. Attracting new Mages and Servants, the question is raised about the relic’s authenticity. As the city of Snowfield is turned into a bloody battleground, specific details seem wrong. Is it possible someone is manipulating this twisted little play, and if so, does this mean the true Holy Grail exists?"
+    }
+  ],
+  "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1220/136619.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1220/136619l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1220/136619.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1220/136619l.webp"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1220/136619.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1220/136619l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1220/136619.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1220/136619l.jpg"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1220/136619.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1220/136619l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1220/136619.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1220/136619l.jpg"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1220/136619l.webp",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1220/136619l.webp",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1220/136619l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1220/136619l.webp",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1220/136619l.webp",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1220/136619l.webp",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1220/136619l.webp",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1220/136619l.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1220/136619l.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1220/136619l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1220/136619l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1220/136619l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1220/136619l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1220/136619l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1220/136619l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1220/136619l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1220/136619l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1220/136619l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1220/136619l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1220/136619l.jpg"
     }
   },
   "broadcast": null,
@@ -93,19 +111,5 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null,
-  "simkl_id": 1999306,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "episodeNumber": 1,
-      "title": "TV Special",
-      "aired": "2023-07-02T00:00:00+09:00",
-      "airedDate": "2023-07-02T00:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/17/17563811611a1c0f6c_w.webp",
-      "imageUrl": "https://simkl.in/episodes/17/17563811611a1c0f6c_w.webp",
-      "description": "Years after the Fifth Holy Grail War in Japan, strange reports surface of one appearing in America. Attracting new Mages and Servants, the question is raised about the relic’s authenticity. As the city of Snowfield is turned into a bloody battleground, specific details seem wrong. Is it possible someone is manipulating this twisted little play, and if so, does this mean the true Holy Grail exists?"
-    }
-  ],
-  "specials_data": []
+  "statistics": null
 }

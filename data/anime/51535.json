@@ -33,8 +33,8 @@
   "num_episodes": 2,
   "score": 8.86,
   "mean": 8.86,
-  "numListUsers": 906266,
-  "num_list_users": 906266,
+  "numListUsers": 906310,
+  "num_list_users": 906310,
   "genres": [
     {
       "id": 1,
@@ -72,6 +72,45 @@
     }
   ],
   "pictures": [],
+  "backdrop_url": "https://image.tmdb.org/t/p/w1280/rqbCbjB19amtOtFQbb3K2lgm2zv.jpg",
+  "logo_url": "https://image.tmdb.org/t/p/w500/eHMfVTIwen9anB4HuvQlFRGZFms.png",
+  "tmdb_id": "1429",
+  "tmdb_updated_at": "2026-11-06T22:01:49.056Z",
+  "simkl_id": 1883416,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "The Rumbling / Sinners",
+      "aired": "2023-03-04T00:25:00+09:00",
+      "airedDate": "2023-03-04T00:25:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/17477800b6d454e433_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/17477800b6d454e433_w.webp",
+      "description": null
+    },
+    {
+      "episode": 2,
+      "episodeNumber": 2,
+      "title": "The Battle of Heaven and Earth / A Long Dream / Toward the Tree on That Hill",
+      "aired": "2023-11-05T00:25:00+09:00",
+      "airedDate": "2023-11-05T00:25:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/174778025191392b88_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/174778025191392b88_w.webp",
+      "description": "Eren, as the Founding Titan, advances on Fort Salta with countless other Titans. Appearing before the refugees, who stand on the brink of despair, are Mikasa, Armin, Jean, Conny, Reiner, Pieck, and Levi, who narrowly escaped from the rumbling. The battle between former comrades and childhood friends with Eren concludes here."
+    }
+  ],
+  "specials_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Pre-Broadcast Special",
+      "aired": "2023-02-25T00:25:00+09:00",
+      "airedDate": "2023-02-25T00:25:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ],
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1279/131078.jpg",
@@ -111,40 +150,5 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null,
-  "simkl_id": 1883416,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "episodeNumber": 1,
-      "title": "The Rumbling / Sinners",
-      "aired": "2023-03-04T00:25:00+09:00",
-      "airedDate": "2023-03-04T00:25:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/17/17477800b6d454e433_w.webp",
-      "imageUrl": "https://simkl.in/episodes/17/17477800b6d454e433_w.webp",
-      "description": null
-    },
-    {
-      "episode": 2,
-      "episodeNumber": 2,
-      "title": "The Battle of Heaven and Earth / A Long Dream / Toward the Tree on That Hill",
-      "aired": "2023-11-05T00:25:00+09:00",
-      "airedDate": "2023-11-05T00:25:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/17/174778025191392b88_w.webp",
-      "imageUrl": "https://simkl.in/episodes/17/174778025191392b88_w.webp",
-      "description": "Eren, as the Founding Titan, advances on Fort Salta with countless other Titans. Appearing before the refugees, who stand on the brink of despair, are Mikasa, Armin, Jean, Conny, Reiner, Pieck, and Levi, who narrowly escaped from the rumbling. The battle between former comrades and childhood friends with Eren concludes here."
-    }
-  ],
-  "specials_data": [
-    {
-      "episode": 1,
-      "episodeNumber": 1,
-      "title": "Pre-Broadcast Special",
-      "aired": "2023-02-25T00:25:00+09:00",
-      "airedDate": "2023-02-25T00:25:00+09:00",
-      "thumbnail": null,
-      "imageUrl": null,
-      "description": null
-    }
-  ]
+  "statistics": null
 }

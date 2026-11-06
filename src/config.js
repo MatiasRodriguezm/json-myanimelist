@@ -11,6 +11,8 @@ export const config = {
   port: Number(process.env.PORT || 4000),
   malClientId: process.env.MAL_CLIENT_ID || "fdfaa87254aa7ccb69b33147a5205743",
   simklClientId: process.env.SIMKL_CLIENT_ID || "0d620452abba0665e7646b01f74957173262ac7b4aab07b8daf66509dc9441f8",
+  tmdbApiKey: process.env.TMDB_API_KEY || "f488298237fdc75bc52316481f5f8b67",
+  tmdbApiToken: process.env.TMDB_API_TOKEN || "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJmNDg4Mjk4MjM3ZmRjNzViYzUyMzE2NDgxZjVmOGI2NyIsIm5iZiI6MTc4NTc3NDQ5NC41LCJzdWIiOiI2YTcwYzE5ZWU5YWRjODMwZjNhMjczMGUiLCJzY29wZXMiOlsiYXBpX3JlYWQiXSwidmVyc2lvbiI6MX0.DztoCObCbWwli0Qva8UrFAeZjb7epzMjv4R0NMTchLw",
   cronSchedule: process.env.CRON_SCHEDULE || "0 */6 * * *",
   syncOnStartup: process.env.SYNC_ON_STARTUP === "true" || process.env.SYNC_ON_STARTUP === undefined,
   syncApiKey: process.env.SYNC_API_KEY || "",
@@ -26,6 +28,7 @@ export const config = {
     livechartMalMapJson: path.join(rootDir, "data", "livechart_mal_map.json"),
     simklCalendarJson: path.join(rootDir, "data", "simkl_calendar.json"),
     malSimklMapJson: path.join(rootDir, "data", "mal_simkl_map.json"),
+    malTmdbMapJson: path.join(rootDir, "data", "mal_tmdb_map.json"),
   },
   // Límites para recolección automática
   collector: {
@@ -34,5 +37,6 @@ export const config = {
     discoverSectionLimit: 50,
     requestDelayMs: 250, // Respetar la API de MyAnimeList para evitar 429
     simklRequestDelayMs: 200, // Respetar la API de Simkl
+    tmdbRequestDelayMs: 150, // Respetar la API de TheMovieDB
   },
 };

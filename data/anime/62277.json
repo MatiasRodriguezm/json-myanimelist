@@ -31,8 +31,8 @@
   "num_episodes": 1,
   "score": 8.78,
   "mean": 8.78,
-  "numListUsers": 18185,
-  "num_list_users": 18185,
+  "numListUsers": 18187,
+  "num_list_users": 18187,
   "genres": [
     {
       "id": 1,
@@ -74,6 +74,24 @@
     }
   ],
   "pictures": [],
+  "backdrop_url": "https://image.tmdb.org/t/p/w1280/8qSFFK9AcMl2Ecp249f5J3Nr8MK.jpg",
+  "logo_url": "https://image.tmdb.org/t/p/w500/pM4k5NvbpX88RQxckH4flRRl570.png",
+  "tmdb_id": "1530941",
+  "tmdb_updated_at": "2026-11-06T22:01:52.874Z",
+  "simkl_id": 2862310,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Complete Movie",
+      "aired": "2026-02-13T00:00:00+09:00",
+      "airedDate": "2026-02-13T00:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ],
+  "specials_data": [],
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1599/154487.jpg",
@@ -113,19 +131,5 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null,
-  "simkl_id": 2862310,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "episodeNumber": 1,
-      "title": "Complete Movie",
-      "aired": "2026-02-13T00:00:00+09:00",
-      "airedDate": "2026-02-13T00:00:00+09:00",
-      "thumbnail": null,
-      "imageUrl": null,
-      "description": null
-    }
-  ],
-  "specials_data": []
+  "statistics": null
 }

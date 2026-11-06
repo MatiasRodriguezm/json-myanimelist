@@ -29,8 +29,8 @@
   "num_episodes": 1,
   "score": 8.56,
   "mean": 8.56,
-  "numListUsers": 846665,
-  "num_list_users": 846665,
+  "numListUsers": 846691,
+  "num_list_users": 846691,
   "genres": [
     {
       "id": 50,
@@ -72,6 +72,24 @@
     }
   ],
   "pictures": [],
+  "backdrop_url": "https://image.tmdb.org/t/p/w1280/mHG7dpLb0ZScSY3LpP443IHRmjy.jpg",
+  "logo_url": "https://image.tmdb.org/t/p/w500/q0oM3cpTHTEnkdtxK5RjAWcY2AU.png",
+  "tmdb_id": "10494",
+  "tmdb_updated_at": "2026-11-06T22:02:07.621Z",
+  "simkl_id": 38794,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Complete Movie",
+      "aired": "1998-02-28T00:00:00+09:00",
+      "airedDate": "1998-02-28T00:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ],
+  "specials_data": [],
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1254/134212.jpg",
@@ -111,19 +129,5 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null,
-  "simkl_id": 38794,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "episodeNumber": 1,
-      "title": "Complete Movie",
-      "aired": "1998-02-28T00:00:00+09:00",
-      "airedDate": "1998-02-28T00:00:00+09:00",
-      "thumbnail": null,
-      "imageUrl": null,
-      "description": null
-    }
-  ],
-  "specials_data": []
+  "statistics": null
 }

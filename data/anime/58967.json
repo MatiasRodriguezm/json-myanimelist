@@ -26,8 +26,8 @@
   "num_episodes": 1,
   "score": null,
   "mean": null,
-  "numListUsers": 57749,
-  "num_list_users": 57749,
+  "numListUsers": 57750,
+  "num_list_users": 57750,
   "genres": [
     {
       "id": 23,
@@ -53,6 +53,45 @@
     }
   ],
   "pictures": [],
+  "backdrop_url": null,
+  "logo_url": null,
+  "tmdb_id": null,
+  "tmdb_updated_at": "2026-11-06T22:06:01.835Z",
+  "simkl_id": 1973554,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "The Dumpster Battle",
+      "aired": "2024-02-16T00:00:00+09:00",
+      "airedDate": "2024-02-16T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/17541637ba5b727463_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/17541637ba5b727463_w.webp",
+      "description": null
+    },
+    {
+      "episode": 2,
+      "episodeNumber": 2,
+      "title": "Movie 2",
+      "aired": true,
+      "airedDate": true,
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ],
+  "specials_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Episode S1",
+      "aired": "2024-02-17T00:00:00+09:00",
+      "airedDate": "2024-02-17T00:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ],
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1970/159635.jpg",
@@ -92,40 +131,5 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null,
-  "simkl_id": 1973554,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "episodeNumber": 1,
-      "title": "The Dumpster Battle",
-      "aired": "2024-02-16T00:00:00+09:00",
-      "airedDate": "2024-02-16T00:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/17/17541637ba5b727463_w.webp",
-      "imageUrl": "https://simkl.in/episodes/17/17541637ba5b727463_w.webp",
-      "description": null
-    },
-    {
-      "episode": 2,
-      "episodeNumber": 2,
-      "title": "Movie 2",
-      "aired": true,
-      "airedDate": true,
-      "thumbnail": null,
-      "imageUrl": null,
-      "description": null
-    }
-  ],
-  "specials_data": [
-    {
-      "episode": 1,
-      "episodeNumber": 1,
-      "title": "Episode S1",
-      "aired": "2024-02-17T00:00:00+09:00",
-      "airedDate": "2024-02-17T00:00:00+09:00",
-      "thumbnail": null,
-      "imageUrl": null,
-      "description": null
-    }
-  ]
+  "statistics": null
 }

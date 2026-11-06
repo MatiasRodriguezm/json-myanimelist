@@ -32,8 +32,8 @@
   "num_episodes": 13,
   "score": 8.7,
   "mean": 8.7,
-  "numListUsers": 132785,
-  "num_list_users": 132785,
+  "numListUsers": 132812,
+  "num_list_users": 132812,
   "genres": [
     {
       "id": 8,
@@ -51,53 +51,10 @@
     }
   ],
   "pictures": [],
-  "images": {
-    "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1791/154233.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1791/154233l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1791/154233.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1791/154233l.jpg"
-    }
-  },
-  "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1791/154233.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1791/154233l.jpg"
-  },
-  "trailer": {
-    "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1791/154233l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1791/154233l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1791/154233l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1791/154233l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1791/154233l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1791/154233l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1791/154233l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1791/154233l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1791/154233l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1791/154233l.jpg"
-    }
-  },
-  "broadcast": {
-    "day": "sunday",
-    "time": "23:00",
-    "day_of_the_week": "sunday",
-    "start_time": "23:00",
-    "timezone": "Asia/Tokyo",
-    "string": "sunday 23:00"
-  },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
-  "related_manga": [],
-  "recommendations": [],
-  "statistics": null,
+  "backdrop_url": "https://image.tmdb.org/t/p/w1280/nUBAxPUHcHefOo0mgLT01g0fEyZ.jpg",
+  "logo_url": "https://image.tmdb.org/t/p/w500/sK73gj0s4HIwkqdxPZlYZ6hgWAJ.png",
+  "tmdb_id": "253476",
+  "tmdb_updated_at": "2026-11-06T22:01:59.124Z",
   "simkl_id": 2454266,
   "episodes_data": [
     {
@@ -231,5 +188,52 @@
       "description": "A chance meeting at the station leads Asa to invite Chiyo to her band club’s upcoming performance."
     }
   ],
-  "specials_data": []
+  "specials_data": [],
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1791/154233.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1791/154233l.webp",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1791/154233.webp",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1791/154233l.webp"
+    }
+  },
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1791/154233.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1791/154233l.webp"
+  },
+  "trailer": {
+    "images": {
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1791/154233l.webp",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1791/154233l.webp",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1791/154233l.webp",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1791/154233l.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1791/154233l.webp",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1791/154233l.webp",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1791/154233l.webp",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1791/154233l.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1791/154233l.webp",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1791/154233l.webp"
+    }
+  },
+  "broadcast": {
+    "day": "sunday",
+    "time": "23:00",
+    "day_of_the_week": "sunday",
+    "start_time": "23:00",
+    "timezone": "Asia/Tokyo",
+    "string": "sunday 23:00"
+  },
+  "rank": null,
+  "popularity": null,
+  "num_scoring_users": null,
+  "nsfw": null,
+  "created_at": null,
+  "updated_at": null,
+  "source": null,
+  "rating": null,
+  "background": null,
+  "related_anime": [],
+  "related_manga": [],
+  "recommendations": [],
+  "statistics": null
 }

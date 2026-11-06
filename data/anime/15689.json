@@ -31,8 +31,8 @@
   "num_episodes": 4,
   "score": 7.91,
   "mean": 7.91,
-  "numListUsers": 597169,
-  "num_list_users": 597169,
+  "numListUsers": 597177,
+  "num_list_users": 597177,
   "genres": [
     {
       "id": 9,
@@ -58,46 +58,10 @@
     }
   ],
   "pictures": [],
-  "images": {
-    "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1170/121597.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1170/121597l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1170/121597.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1170/121597l.jpg"
-    }
-  },
-  "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1170/121597.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1170/121597l.jpg"
-  },
-  "trailer": {
-    "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1170/121597l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1170/121597l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1170/121597l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1170/121597l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1170/121597l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1170/121597l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1170/121597l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1170/121597l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1170/121597l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1170/121597l.jpg"
-    }
-  },
-  "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
-  "related_manga": [],
-  "recommendations": [],
-  "statistics": null,
+  "backdrop_url": "https://image.tmdb.org/t/p/w1280/cHII6sQ91q8H5EMONKCwCQMauCP.jpg",
+  "logo_url": "https://image.tmdb.org/t/p/w500/1PloWpJba8A3I0x8Ry92IGYromk.png",
+  "tmdb_id": "46195",
+  "tmdb_updated_at": "2026-11-06T22:02:56.198Z",
   "simkl_id": 39702,
   "episodes_data": [
     {
@@ -182,5 +146,45 @@
       "imageUrl": null,
       "description": null
     }
-  ]
+  ],
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1170/121597.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1170/121597l.webp",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1170/121597.webp",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1170/121597l.webp"
+    }
+  },
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1170/121597.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1170/121597l.webp"
+  },
+  "trailer": {
+    "images": {
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1170/121597l.webp",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1170/121597l.webp",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1170/121597l.webp",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1170/121597l.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1170/121597l.webp",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1170/121597l.webp",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1170/121597l.webp",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1170/121597l.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1170/121597l.webp",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1170/121597l.webp"
+    }
+  },
+  "broadcast": null,
+  "rank": null,
+  "popularity": null,
+  "num_scoring_users": null,
+  "nsfw": null,
+  "created_at": null,
+  "updated_at": null,
+  "source": null,
+  "rating": null,
+  "background": null,
+  "related_anime": [],
+  "related_manga": [],
+  "recommendations": [],
+  "statistics": null
 }

@@ -29,8 +29,8 @@
   "num_episodes": 26,
   "score": 8.72,
   "mean": 8.72,
-  "numListUsers": 94940,
-  "num_list_users": 94940,
+  "numListUsers": 94944,
+  "num_list_users": 94944,
   "genres": [
     {
       "id": 1,
@@ -60,53 +60,10 @@
     }
   ],
   "pictures": [],
-  "images": {
-    "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1566/122794.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1566/122794l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1566/122794.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1566/122794l.webp"
-    }
-  },
-  "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1566/122794.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1566/122794l.webp"
-  },
-  "trailer": {
-    "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1566/122794l.webp",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1566/122794l.webp",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1566/122794l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1566/122794l.webp",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1566/122794l.webp",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1566/122794l.webp",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1566/122794l.webp",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1566/122794l.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1566/122794l.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1566/122794l.webp"
-    }
-  },
-  "broadcast": {
-    "day": "sunday",
-    "time": "00:00",
-    "day_of_the_week": "sunday",
-    "start_time": "00:00",
-    "timezone": "Asia/Tokyo",
-    "string": "sunday 00:00"
-  },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
-  "related_manga": [],
-  "recommendations": [],
-  "statistics": null,
+  "backdrop_url": "https://image.tmdb.org/t/p/w1280/5CGM0vQpq0QBcslUXqoo0unlGPZ.jpg",
+  "logo_url": "https://image.tmdb.org/t/p/w500/njxcMoizy5vstTcBK9Sm4BnYaZB.png",
+  "tmdb_id": "46437",
+  "tmdb_updated_at": "2026-11-06T22:01:57.173Z",
   "simkl_id": 1754477,
   "episodes_data": [
     {
@@ -370,5 +327,52 @@
       "description": "Qin goes right back to the battlefield. Wa Lin is tapped to help the troubled nation of Chu. The young commanders discuss the next Six Great Generals."
     }
   ],
-  "specials_data": []
+  "specials_data": [],
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1566/122794.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1566/122794l.webp",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1566/122794.webp",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1566/122794l.webp"
+    }
+  },
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1566/122794.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1566/122794l.webp"
+  },
+  "trailer": {
+    "images": {
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1566/122794l.webp",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1566/122794l.webp",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1566/122794l.webp",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1566/122794l.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1566/122794l.webp",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1566/122794l.webp",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1566/122794l.webp",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1566/122794l.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1566/122794l.webp",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1566/122794l.webp"
+    }
+  },
+  "broadcast": {
+    "day": "sunday",
+    "time": "00:00",
+    "day_of_the_week": "sunday",
+    "start_time": "00:00",
+    "timezone": "Asia/Tokyo",
+    "string": "sunday 00:00"
+  },
+  "rank": null,
+  "popularity": null,
+  "num_scoring_users": null,
+  "nsfw": null,
+  "created_at": null,
+  "updated_at": null,
+  "source": null,
+  "rating": null,
+  "background": null,
+  "related_anime": [],
+  "related_manga": [],
+  "recommendations": [],
+  "statistics": null
 }

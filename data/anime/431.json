@@ -29,8 +29,8 @@
   "num_episodes": 1,
   "score": 8.67,
   "mean": 8.67,
-  "numListUsers": 1519784,
-  "num_list_users": 1519784,
+  "numListUsers": 1519807,
+  "num_list_users": 1519807,
   "genres": [
     {
       "id": 2,
@@ -60,6 +60,35 @@
     }
   ],
   "pictures": [],
+  "backdrop_url": "https://image.tmdb.org/t/p/w1280/nv5wwZou159v5OC61i4ElR7OqyY.jpg",
+  "logo_url": "https://image.tmdb.org/t/p/w500/wdTLajZyrh6yEeSqU5xrFATJh9Y.png",
+  "tmdb_id": "4935",
+  "tmdb_updated_at": "2026-11-06T22:02:01.361Z",
+  "simkl_id": 36368,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Complete Movie",
+      "aired": "2004-11-20T00:00:00+09:00",
+      "airedDate": "2004-11-20T00:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ],
+  "specials_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Storyboard (with movie soundtrack)",
+      "aired": true,
+      "airedDate": true,
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ],
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1470/138723.jpg",
@@ -99,30 +128,5 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null,
-  "simkl_id": 36368,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "episodeNumber": 1,
-      "title": "Complete Movie",
-      "aired": "2004-11-20T00:00:00+09:00",
-      "airedDate": "2004-11-20T00:00:00+09:00",
-      "thumbnail": null,
-      "imageUrl": null,
-      "description": null
-    }
-  ],
-  "specials_data": [
-    {
-      "episode": 1,
-      "episodeNumber": 1,
-      "title": "Storyboard (with movie soundtrack)",
-      "aired": true,
-      "airedDate": true,
-      "thumbnail": null,
-      "imageUrl": null,
-      "description": null
-    }
-  ]
+  "statistics": null
 }

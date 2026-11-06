@@ -29,8 +29,8 @@
   "num_episodes": 12,
   "score": 8.46,
   "mean": 8.46,
-  "numListUsers": 2191631,
-  "num_list_users": 2191631,
+  "numListUsers": 2191678,
+  "num_list_users": 2191678,
   "genres": [
     {
       "id": 7,
@@ -60,53 +60,10 @@
     }
   ],
   "pictures": [],
-  "images": {
-    "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1830/118780.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1830/118780l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1830/118780.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1830/118780l.jpg"
-    }
-  },
-  "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1830/118780.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1830/118780l.jpg"
-  },
-  "trailer": {
-    "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1830/118780l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1830/118780l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1830/118780l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1830/118780l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1830/118780l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1830/118780l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1830/118780l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1830/118780l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1830/118780l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1830/118780l.jpg"
-    }
-  },
-  "broadcast": {
-    "day": "friday",
-    "time": "01:05",
-    "day_of_the_week": "friday",
-    "start_time": "01:05",
-    "timezone": "Asia/Tokyo",
-    "string": "friday 01:05"
-  },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
-  "related_manga": [],
-  "recommendations": [],
-  "statistics": null,
+  "backdrop_url": "https://image.tmdb.org/t/p/w1280/u7Q2C10SQlhPoKm7ersFL5f991q.jpg",
+  "logo_url": "https://image.tmdb.org/t/p/w500/o4dhM6xk4Ux7Z3FqtSiZdyeRsyC.png",
+  "tmdb_id": "83097",
+  "tmdb_updated_at": "2026-11-06T22:01:03.323Z",
   "simkl_id": 810687,
   "episodes_data": [
     {
@@ -230,5 +187,52 @@
       "description": "As Emma and Norman continue to surprise Ray, the fated night finally arrives. As Phil holds on to Mom, what will he say?"
     }
   ],
-  "specials_data": []
+  "specials_data": [],
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1830/118780.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1830/118780l.webp",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1830/118780.webp",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1830/118780l.webp"
+    }
+  },
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1830/118780.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1830/118780l.webp"
+  },
+  "trailer": {
+    "images": {
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1830/118780l.webp",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1830/118780l.webp",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1830/118780l.webp",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1830/118780l.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1830/118780l.webp",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1830/118780l.webp",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1830/118780l.webp",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1830/118780l.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1830/118780l.webp",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1830/118780l.webp"
+    }
+  },
+  "broadcast": {
+    "day": "friday",
+    "time": "01:05",
+    "day_of_the_week": "friday",
+    "start_time": "01:05",
+    "timezone": "Asia/Tokyo",
+    "string": "friday 01:05"
+  },
+  "rank": null,
+  "popularity": null,
+  "num_scoring_users": null,
+  "nsfw": null,
+  "created_at": null,
+  "updated_at": null,
+  "source": null,
+  "rating": null,
+  "background": null,
+  "related_anime": [],
+  "related_manga": [],
+  "recommendations": [],
+  "statistics": null
 }

@@ -65,46 +65,10 @@
     }
   ],
   "pictures": [],
-  "images": {
-    "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1187/132740.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1187/132740l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1187/132740.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1187/132740l.jpg"
-    }
-  },
-  "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1187/132740.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1187/132740l.jpg"
-  },
-  "trailer": {
-    "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1187/132740l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1187/132740l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1187/132740l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1187/132740l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1187/132740l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1187/132740l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1187/132740l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1187/132740l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1187/132740l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1187/132740l.jpg"
-    }
-  },
-  "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
-  "related_manga": [],
-  "recommendations": [],
-  "statistics": null,
+  "backdrop_url": "https://image.tmdb.org/t/p/w1280/bmv8e9LQiNhl2KccYoa42RZm3WY.jpg",
+  "logo_url": "https://image.tmdb.org/t/p/w500/oeKkJdstVPGImPeeaBfAv9FbfeR.png",
+  "tmdb_id": "45116",
+  "tmdb_updated_at": "2026-11-06T22:02:22.580Z",
   "simkl_id": 38038,
   "episodes_data": [
     {
@@ -188,5 +152,45 @@
       "description": "All becomes light in the conclusion of the GGG`s FINAL battle."
     }
   ],
-  "specials_data": []
+  "specials_data": [],
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1187/132740.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1187/132740l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1187/132740.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1187/132740l.jpg"
+    }
+  },
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1187/132740.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1187/132740l.jpg"
+  },
+  "trailer": {
+    "images": {
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1187/132740l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1187/132740l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1187/132740l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1187/132740l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1187/132740l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1187/132740l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1187/132740l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1187/132740l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1187/132740l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1187/132740l.jpg"
+    }
+  },
+  "broadcast": null,
+  "rank": null,
+  "popularity": null,
+  "num_scoring_users": null,
+  "nsfw": null,
+  "created_at": null,
+  "updated_at": null,
+  "source": null,
+  "rating": null,
+  "background": null,
+  "related_anime": [],
+  "related_manga": [],
+  "recommendations": [],
+  "statistics": null
 }

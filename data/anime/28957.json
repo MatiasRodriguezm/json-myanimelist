@@ -74,6 +74,24 @@
     }
   ],
   "pictures": [],
+  "backdrop_url": "https://image.tmdb.org/t/p/w1280/8ysRHGV3URjOJT7u7NkZiFjvObk.jpg",
+  "logo_url": "https://image.tmdb.org/t/p/w500/xFiCp8wraCYN2l2aYJPI4hLxniT.png",
+  "tmdb_id": "26867",
+  "tmdb_updated_at": "2026-11-06T22:02:05.735Z",
+  "simkl_id": 452490,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Complete Movie",
+      "aired": "2015-05-16T00:00:00+09:00",
+      "airedDate": "2015-05-16T00:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ],
+  "specials_data": [],
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/9/72689.jpg",
@@ -113,19 +131,5 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null,
-  "simkl_id": 452490,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "episodeNumber": 1,
-      "title": "Complete Movie",
-      "aired": "2015-05-16T00:00:00+09:00",
-      "airedDate": "2015-05-16T00:00:00+09:00",
-      "thumbnail": null,
-      "imageUrl": null,
-      "description": null
-    }
-  ],
-  "specials_data": []
+  "statistics": null
 }

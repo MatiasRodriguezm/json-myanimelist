@@ -29,8 +29,8 @@
   "num_episodes": 2,
   "score": 8.45,
   "mean": 8.45,
-  "numListUsers": 96385,
-  "num_list_users": 96385,
+  "numListUsers": 96387,
+  "num_list_users": 96387,
   "genres": [
     {
       "id": 1,
@@ -68,6 +68,34 @@
     }
   ],
   "pictures": [],
+  "backdrop_url": "https://image.tmdb.org/t/p/w1280/3gVl0IvJMbhOnAvH9V0Q1Y1HnXE.jpg",
+  "logo_url": "https://image.tmdb.org/t/p/w500/2GFz7E2Z1UWiWqOv2YGIbIaAWrH.png",
+  "tmdb_id": "57041",
+  "tmdb_updated_at": "2026-11-06T22:02:39.451Z",
+  "simkl_id": 1493999,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Episode 1",
+      "aired": "2021-01-15T00:00:00+09:00",
+      "airedDate": "2021-01-15T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/14/14677891336dff6ba9_w.webp",
+      "imageUrl": "https://simkl.in/episodes/14/14677891336dff6ba9_w.webp",
+      "description": null
+    },
+    {
+      "episode": 2,
+      "episodeNumber": 2,
+      "title": "Episode 2",
+      "aired": "2021-01-20T00:00:00+09:00",
+      "airedDate": "2021-01-20T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/14/14677893c6a5a60fe6_w.webp",
+      "imageUrl": "https://simkl.in/episodes/14/14677893c6a5a60fe6_w.webp",
+      "description": null
+    }
+  ],
+  "specials_data": [],
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1694/110521.jpg",
@@ -107,29 +135,5 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null,
-  "simkl_id": 1493999,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "episodeNumber": 1,
-      "title": "Episode 1",
-      "aired": "2021-01-15T00:00:00+09:00",
-      "airedDate": "2021-01-15T00:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/14/14677891336dff6ba9_w.webp",
-      "imageUrl": "https://simkl.in/episodes/14/14677891336dff6ba9_w.webp",
-      "description": null
-    },
-    {
-      "episode": 2,
-      "episodeNumber": 2,
-      "title": "Episode 2",
-      "aired": "2021-01-20T00:00:00+09:00",
-      "airedDate": "2021-01-20T00:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/14/14677893c6a5a60fe6_w.webp",
-      "imageUrl": "https://simkl.in/episodes/14/14677893c6a5a60fe6_w.webp",
-      "description": null
-    }
-  ],
-  "specials_data": []
+  "statistics": null
 }

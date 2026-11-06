@@ -31,8 +31,8 @@
   "num_episodes": 1,
   "score": 8.83,
   "mean": 8.83,
-  "numListUsers": 751314,
-  "num_list_users": 751314,
+  "numListUsers": 751343,
+  "num_list_users": 751343,
   "genres": [
     {
       "id": 46,
@@ -50,6 +50,35 @@
     }
   ],
   "pictures": [],
+  "backdrop_url": "https://image.tmdb.org/t/p/w1280/wGwSWDG3LIQxchg2M8HV7bDqYKU.jpg",
+  "logo_url": "https://image.tmdb.org/t/p/w500/LJFJlKELMjEn5zB4DkNd85QRhG.png",
+  "tmdb_id": "533514",
+  "tmdb_updated_at": "2026-11-06T22:01:51.038Z",
+  "simkl_id": 799363,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Complete Movie",
+      "aired": "2020-09-18T00:00:00+09:00",
+      "airedDate": "2020-09-18T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/17546411bd70ceb8ee_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/17546411bd70ceb8ee_w.webp",
+      "description": null
+    }
+  ],
+  "specials_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Premiere Commemoration Stage Greeting",
+      "aired": "2021-10-13T00:00:00+09:00",
+      "airedDate": "2021-10-13T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/96/963212492ce174902_w.webp",
+      "imageUrl": "https://simkl.in/episodes/96/963212492ce174902_w.webp",
+      "description": null
+    }
+  ],
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1825/110716.jpg",
@@ -89,30 +118,5 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null,
-  "simkl_id": 799363,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "episodeNumber": 1,
-      "title": "Complete Movie",
-      "aired": "2020-09-18T00:00:00+09:00",
-      "airedDate": "2020-09-18T00:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/17/17546411bd70ceb8ee_w.webp",
-      "imageUrl": "https://simkl.in/episodes/17/17546411bd70ceb8ee_w.webp",
-      "description": null
-    }
-  ],
-  "specials_data": [
-    {
-      "episode": 1,
-      "episodeNumber": 1,
-      "title": "Premiere Commemoration Stage Greeting",
-      "aired": "2021-10-13T00:00:00+09:00",
-      "airedDate": "2021-10-13T00:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/96/963212492ce174902_w.webp",
-      "imageUrl": "https://simkl.in/episodes/96/963212492ce174902_w.webp",
-      "description": null
-    }
-  ]
+  "statistics": null
 }

@@ -29,10 +29,10 @@
   },
   "episodes": 1,
   "num_episodes": 1,
-  "score": 7.35,
-  "mean": 7.35,
-  "numListUsers": 75889,
-  "num_list_users": 75889,
+  "score": 7.36,
+  "mean": 7.36,
+  "numListUsers": 75906,
+  "num_list_users": 75906,
   "genres": [
     {
       "id": 2,
@@ -66,6 +66,24 @@
     }
   ],
   "pictures": [],
+  "backdrop_url": null,
+  "logo_url": null,
+  "tmdb_id": null,
+  "tmdb_updated_at": "2026-11-06T22:04:16.571Z",
+  "simkl_id": 2076802,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Awakening Mystery",
+      "aired": "2026-10-23T00:00:00+09:00",
+      "airedDate": "2026-10-23T00:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ],
+  "specials_data": [],
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1444/156382.jpg",
@@ -105,19 +123,5 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null,
-  "simkl_id": 2076802,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "episodeNumber": 1,
-      "title": "Awakening Mystery",
-      "aired": "2026-10-23T00:00:00+09:00",
-      "airedDate": "2026-10-23T00:00:00+09:00",
-      "thumbnail": null,
-      "imageUrl": null,
-      "description": null
-    }
-  ],
-  "specials_data": []
+  "statistics": null
 }

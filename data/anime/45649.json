@@ -29,8 +29,8 @@
   "num_episodes": 1,
   "score": 8.7,
   "mean": 8.7,
-  "numListUsers": 81628,
-  "num_list_users": 81628,
+  "numListUsers": 81633,
+  "num_list_users": 81633,
   "genres": [
     {
       "id": 46,
@@ -64,6 +64,24 @@
     }
   ],
   "pictures": [],
+  "backdrop_url": null,
+  "logo_url": null,
+  "tmdb_id": null,
+  "tmdb_updated_at": "2026-11-06T22:06:16.689Z",
+  "simkl_id": 1517987,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Complete Movie",
+      "aired": "2022-12-03T00:00:00+09:00",
+      "airedDate": "2022-12-03T00:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ],
+  "specials_data": [],
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1745/129284.jpg",
@@ -103,19 +121,5 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null,
-  "simkl_id": 1517987,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "episodeNumber": 1,
-      "title": "Complete Movie",
-      "aired": "2022-12-03T00:00:00+09:00",
-      "airedDate": "2022-12-03T00:00:00+09:00",
-      "thumbnail": null,
-      "imageUrl": null,
-      "description": null
-    }
-  ],
-  "specials_data": []
+  "statistics": null
 }

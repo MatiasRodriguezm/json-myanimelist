@@ -29,8 +29,8 @@
   "num_episodes": 1,
   "score": 8.63,
   "mean": 8.63,
-  "numListUsers": 68580,
-  "num_list_users": 68580,
+  "numListUsers": 68586,
+  "num_list_users": 68586,
   "genres": [
     {
       "id": 51,
@@ -56,6 +56,24 @@
     }
   ],
   "pictures": [],
+  "backdrop_url": "https://image.tmdb.org/t/p/w1280/dXI7HXKQ1xeVUAaWMT67onX7XXJ.jpg",
+  "logo_url": "https://image.tmdb.org/t/p/w500/rCZKddqlYRnc5TJx8Eg8NaBJCWh.png",
+  "tmdb_id": "1223178",
+  "tmdb_updated_at": "2026-11-06T22:02:03.483Z",
+  "simkl_id": 2333110,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Complete Movie",
+      "aired": "2024-05-24T00:00:00+09:00",
+      "airedDate": "2024-05-24T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/18/185302811599aec9eb_w.webp",
+      "imageUrl": "https://simkl.in/episodes/18/185302811599aec9eb_w.webp",
+      "description": null
+    }
+  ],
+  "specials_data": [],
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1427/142210.jpg",
@@ -95,19 +113,5 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null,
-  "simkl_id": 2333110,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "episodeNumber": 1,
-      "title": "Complete Movie",
-      "aired": "2024-05-24T00:00:00+09:00",
-      "airedDate": "2024-05-24T00:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/18/185302811599aec9eb_w.webp",
-      "imageUrl": "https://simkl.in/episodes/18/185302811599aec9eb_w.webp",
-      "description": null
-    }
-  ],
-  "specials_data": []
+  "statistics": null
 }

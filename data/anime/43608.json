@@ -32,8 +32,8 @@
   "num_episodes": 13,
   "score": 8.94,
   "mean": 8.94,
-  "numListUsers": 1146596,
-  "num_list_users": 1146596,
+  "numListUsers": 1146622,
+  "num_list_users": 1146622,
   "genres": [
     {
       "id": 4,
@@ -59,53 +59,10 @@
     }
   ],
   "pictures": [],
-  "images": {
-    "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1160/122627.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1160/122627l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1160/122627.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1160/122627l.jpg"
-    }
-  },
-  "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1160/122627.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1160/122627l.jpg"
-  },
-  "trailer": {
-    "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1160/122627l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1160/122627l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1160/122627l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1160/122627l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1160/122627l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1160/122627l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1160/122627l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1160/122627l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1160/122627l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1160/122627l.jpg"
-    }
-  },
-  "broadcast": {
-    "day": "saturday",
-    "time": "00:00",
-    "day_of_the_week": "saturday",
-    "start_time": "00:00",
-    "timezone": "Asia/Tokyo",
-    "string": "saturday 00:00"
-  },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
-  "related_manga": [],
-  "recommendations": [],
-  "statistics": null,
+  "backdrop_url": "https://image.tmdb.org/t/p/w1280/dJ8yrSokdTMnhKJw06MllSfCegb.jpg",
+  "logo_url": "https://image.tmdb.org/t/p/w500/56munppXDVJXSBt1GcttOrKMKnH.png",
+  "tmdb_id": "83121",
+  "tmdb_updated_at": "2026-11-06T21:57:39.778Z",
   "simkl_id": 1462529,
   "episodes_data": [
     {
@@ -270,5 +227,52 @@
       "imageUrl": "https://simkl.in/episodes/17/175508493c4e691518_w.webp",
       "description": null
     }
-  ]
+  ],
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1160/122627.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1160/122627l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1160/122627.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1160/122627l.jpg"
+    }
+  },
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1160/122627.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1160/122627l.jpg"
+  },
+  "trailer": {
+    "images": {
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1160/122627l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1160/122627l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1160/122627l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1160/122627l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1160/122627l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1160/122627l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1160/122627l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1160/122627l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1160/122627l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1160/122627l.jpg"
+    }
+  },
+  "broadcast": {
+    "day": "saturday",
+    "time": "00:00",
+    "day_of_the_week": "saturday",
+    "start_time": "00:00",
+    "timezone": "Asia/Tokyo",
+    "string": "saturday 00:00"
+  },
+  "rank": null,
+  "popularity": null,
+  "num_scoring_users": null,
+  "nsfw": null,
+  "created_at": null,
+  "updated_at": null,
+  "source": null,
+  "rating": null,
+  "background": null,
+  "related_anime": [],
+  "related_manga": [],
+  "recommendations": [],
+  "statistics": null
 }

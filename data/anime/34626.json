@@ -32,8 +32,8 @@
   "num_episodes": 1,
   "score": 8.01,
   "mean": 8.01,
-  "numListUsers": 415007,
-  "num_list_users": 415007,
+  "numListUsers": 415016,
+  "num_list_users": 415016,
   "genres": [
     {
       "id": 2,
@@ -63,6 +63,24 @@
     }
   ],
   "pictures": [],
+  "backdrop_url": "https://image.tmdb.org/t/p/w1280/rvZJxD36tKoglL8fXoMMWKGQfM.jpg",
+  "logo_url": "https://image.tmdb.org/t/p/w500/9ao3YjNJuezcnxv9Bmr0NQk9FSf.png",
+  "tmdb_id": "65844",
+  "tmdb_updated_at": "2026-11-06T22:02:31.426Z",
+  "simkl_id": 705161,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "OAD",
+      "aired": "2017-07-24T00:00:00+09:00",
+      "airedDate": "2017-07-24T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/175442875e4808af52_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/175442875e4808af52_w.webp",
+      "description": "After returning from his trip to Arcanretia, Kazuma is living life without a care in the world, thanks to his debts being all paid off by the reward money he earned from eliminating one of the Devil King`s generals, Hans. One day, a rookie adventurer named Ran comes up to him in the Guild Hall asking for a handshake. She`s apparently become a fan of Kazuma after his consecutive defeat of the Devil King`s generals! This puts him in an amazing mood, but it`s not long before the Guild receptionist Luna appears, asking him to take on a quest to eliminate a golem. Wanting to look good in front of a fan, Kazuma ends up accepting, and heads towards ancient ruins with Aqua, Megumin, and Darkness in tow."
+    }
+  ],
+  "specials_data": [],
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1115/98517.jpg",
@@ -102,19 +120,5 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null,
-  "simkl_id": 705161,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "episodeNumber": 1,
-      "title": "OAD",
-      "aired": "2017-07-24T00:00:00+09:00",
-      "airedDate": "2017-07-24T00:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/17/175442875e4808af52_w.webp",
-      "imageUrl": "https://simkl.in/episodes/17/175442875e4808af52_w.webp",
-      "description": "After returning from his trip to Arcanretia, Kazuma is living life without a care in the world, thanks to his debts being all paid off by the reward money he earned from eliminating one of the Devil King`s generals, Hans. One day, a rookie adventurer named Ran comes up to him in the Guild Hall asking for a handshake. She`s apparently become a fan of Kazuma after his consecutive defeat of the Devil King`s generals! This puts him in an amazing mood, but it`s not long before the Guild receptionist Luna appears, asking him to take on a quest to eliminate a golem. Wanting to look good in front of a fan, Kazuma ends up accepting, and heads towards ancient ruins with Aqua, Megumin, and Darkness in tow."
-    }
-  ],
-  "specials_data": []
+  "statistics": null
 }

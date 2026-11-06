@@ -28,8 +28,8 @@
   "num_episodes": null,
   "score": null,
   "mean": null,
-  "numListUsers": 67335,
-  "num_list_users": 67335,
+  "numListUsers": 67358,
+  "num_list_users": 67358,
   "genres": [
     {
       "id": 10,
@@ -47,6 +47,13 @@
     }
   ],
   "pictures": [],
+  "backdrop_url": null,
+  "logo_url": null,
+  "tmdb_id": null,
+  "tmdb_updated_at": "2026-11-06T22:05:59.481Z",
+  "simkl_id": 3168140,
+  "episodes_data": [],
+  "specials_data": [],
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1928/158795.jpg",
@@ -86,8 +93,5 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null,
-  "simkl_id": 3168140,
-  "episodes_data": [],
-  "specials_data": []
+  "statistics": null
 }

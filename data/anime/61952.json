@@ -56,30 +56,48 @@
     }
   ],
   "pictures": [],
+  "backdrop_url": null,
+  "logo_url": null,
+  "tmdb_id": null,
+  "tmdb_updated_at": "2026-11-06T22:06:16.930Z",
+  "simkl_id": 2958138,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Complete Movie",
+      "aired": "2025-07-18T00:00:00+09:00",
+      "airedDate": "2025-07-18T00:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ],
+  "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1288/151853.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1288/151853l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1288/151853.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1288/151853l.webp"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1288/151853.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1288/151853l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1288/151853.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1288/151853l.jpg"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1288/151853.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1288/151853l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1288/151853.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1288/151853l.jpg"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1288/151853l.webp",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1288/151853l.webp",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1288/151853l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1288/151853l.webp",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1288/151853l.webp",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1288/151853l.webp",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1288/151853l.webp",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1288/151853l.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1288/151853l.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1288/151853l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1288/151853l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1288/151853l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1288/151853l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1288/151853l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1288/151853l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1288/151853l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1288/151853l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1288/151853l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1288/151853l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1288/151853l.jpg"
     }
   },
   "broadcast": null,
@@ -95,19 +113,5 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null,
-  "simkl_id": 2958138,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "episodeNumber": 1,
-      "title": "Complete Movie",
-      "aired": "2025-07-18T00:00:00+09:00",
-      "airedDate": "2025-07-18T00:00:00+09:00",
-      "thumbnail": null,
-      "imageUrl": null,
-      "description": null
-    }
-  ],
-  "specials_data": []
+  "statistics": null
 }

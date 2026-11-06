@@ -32,8 +32,8 @@
   "num_episodes": 1,
   "score": 8.55,
   "mean": 8.55,
-  "numListUsers": 1151760,
-  "num_list_users": 1151760,
+  "numListUsers": 1151811,
+  "num_list_users": 1151811,
   "genres": [
     {
       "id": 8,
@@ -55,6 +55,35 @@
     }
   ],
   "pictures": [],
+  "backdrop_url": "https://image.tmdb.org/t/p/w1280/YLyORLsYIjC0d1TFBSpJKk7piP.jpg",
+  "logo_url": "https://image.tmdb.org/t/p/w500/iOGhQzUidBzOj6pxKp7pBZkw2ta.png",
+  "tmdb_id": "504253",
+  "tmdb_updated_at": "2026-11-06T22:02:08.318Z",
+  "simkl_id": 708497,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Complete Movie",
+      "aired": "2018-09-01T00:00:00+09:00",
+      "airedDate": "2018-09-01T00:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ],
+  "specials_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Sumika \"Fanfare\" Music Video",
+      "aired": "2018-08-22T00:00:00+09:00",
+      "airedDate": "2018-08-22T00:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ],
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1768/93291.webp",
@@ -94,30 +123,5 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null,
-  "simkl_id": 708497,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "episodeNumber": 1,
-      "title": "Complete Movie",
-      "aired": "2018-09-01T00:00:00+09:00",
-      "airedDate": "2018-09-01T00:00:00+09:00",
-      "thumbnail": null,
-      "imageUrl": null,
-      "description": null
-    }
-  ],
-  "specials_data": [
-    {
-      "episode": 1,
-      "episodeNumber": 1,
-      "title": "Sumika \"Fanfare\" Music Video",
-      "aired": "2018-08-22T00:00:00+09:00",
-      "airedDate": "2018-08-22T00:00:00+09:00",
-      "thumbnail": null,
-      "imageUrl": null,
-      "description": null
-    }
-  ]
+  "statistics": null
 }

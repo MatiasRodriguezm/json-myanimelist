@@ -32,8 +32,8 @@
   "num_episodes": 2,
   "score": 8.08,
   "mean": 8.08,
-  "numListUsers": 65934,
-  "num_list_users": 65934,
+  "numListUsers": 65937,
+  "num_list_users": 65937,
   "genres": [
     {
       "id": 1,
@@ -67,6 +67,34 @@
     }
   ],
   "pictures": [],
+  "backdrop_url": "https://image.tmdb.org/t/p/w1280/6yEPWAfQQmkZTht21z9OYZP9f8E.jpg",
+  "logo_url": "https://image.tmdb.org/t/p/w500/hJJrDltSIDfZhQDF2GFKacGXPY.png",
+  "tmdb_id": "37565",
+  "tmdb_updated_at": "2026-11-06T22:02:27.726Z",
+  "simkl_id": 39704,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Volume 1",
+      "aired": "2009-03-17T00:00:00+09:00",
+      "airedDate": "2009-03-17T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/17571207d4dde91742_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/17571207d4dde91742_w.webp",
+      "description": null
+    },
+    {
+      "episode": 2,
+      "episodeNumber": 2,
+      "title": "Volume 2",
+      "aired": "2009-05-15T00:00:00+09:00",
+      "airedDate": "2009-05-15T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/17571209106f39508b_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/17571209106f39508b_w.webp",
+      "description": null
+    }
+  ],
+  "specials_data": [],
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/9/33841.webp",
@@ -106,29 +134,5 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null,
-  "simkl_id": 39704,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "episodeNumber": 1,
-      "title": "Volume 1",
-      "aired": "2009-03-17T00:00:00+09:00",
-      "airedDate": "2009-03-17T00:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/17/17571207d4dde91742_w.webp",
-      "imageUrl": "https://simkl.in/episodes/17/17571207d4dde91742_w.webp",
-      "description": null
-    },
-    {
-      "episode": 2,
-      "episodeNumber": 2,
-      "title": "Volume 2",
-      "aired": "2009-05-15T00:00:00+09:00",
-      "airedDate": "2009-05-15T00:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/17/17571209106f39508b_w.webp",
-      "imageUrl": "https://simkl.in/episodes/17/17571209106f39508b_w.webp",
-      "description": null
-    }
-  ],
-  "specials_data": []
+  "statistics": null
 }

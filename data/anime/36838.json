@@ -29,8 +29,8 @@
   "num_episodes": 12,
   "score": 8.81,
   "mean": 8.81,
-  "numListUsers": 242483,
-  "num_list_users": 242483,
+  "numListUsers": 242488,
+  "num_list_users": 242488,
   "genres": [
     {
       "id": 1,
@@ -72,53 +72,10 @@
     }
   ],
   "pictures": [],
-  "images": {
-    "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/12/89603.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/89603l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/12/89603.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/12/89603l.jpg"
-    }
-  },
-  "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/12/89603.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/12/89603l.jpg"
-  },
-  "trailer": {
-    "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/12/89603l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/12/89603l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/12/89603l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/12/89603l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/89603l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/12/89603l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/12/89603l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/12/89603l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/89603l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/12/89603l.jpg"
-    }
-  },
-  "broadcast": {
-    "day": "monday",
-    "time": "01:35",
-    "day_of_the_week": "monday",
-    "start_time": "01:35",
-    "timezone": "Asia/Tokyo",
-    "string": "monday 01:35"
-  },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
-  "related_manga": [],
-  "recommendations": [],
-  "statistics": null,
+  "backdrop_url": null,
+  "logo_url": null,
+  "tmdb_id": null,
+  "tmdb_updated_at": "2026-11-06T22:06:15.925Z",
   "simkl_id": 699045,
   "episodes_data": [
     {
@@ -372,5 +329,52 @@
       "description": "Gengai has gone missing, and Ensho has brought out his trump card. How can the Odd Jobs, the Shinsengumi, Katsura, Sakamoto, and Nobunobu get out of this desperate situation?"
     }
   ],
-  "specials_data": []
+  "specials_data": [],
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/89603.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/89603l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/12/89603.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/12/89603l.jpg"
+    }
+  },
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/89603.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/89603l.jpg"
+  },
+  "trailer": {
+    "images": {
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/12/89603l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/12/89603l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/89603l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/12/89603l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/89603l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/12/89603l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/12/89603l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/12/89603l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/89603l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/12/89603l.jpg"
+    }
+  },
+  "broadcast": {
+    "day": "monday",
+    "time": "01:35",
+    "day_of_the_week": "monday",
+    "start_time": "01:35",
+    "timezone": "Asia/Tokyo",
+    "string": "monday 01:35"
+  },
+  "rank": null,
+  "popularity": null,
+  "num_scoring_users": null,
+  "nsfw": null,
+  "created_at": null,
+  "updated_at": null,
+  "source": null,
+  "rating": null,
+  "background": null,
+  "related_anime": [],
+  "related_manga": [],
+  "recommendations": [],
+  "statistics": null
 }

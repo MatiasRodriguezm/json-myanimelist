@@ -29,8 +29,8 @@
   "num_episodes": 24,
   "score": 9.07,
   "mean": 9.07,
-  "numListUsers": 2865301,
-  "num_list_users": 2865301,
+  "numListUsers": 2865345,
+  "num_list_users": 2865345,
   "genres": [
     {
       "id": 8,
@@ -60,53 +60,10 @@
     }
   ],
   "pictures": [],
-  "images": {
-    "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1935/127974.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1935/127974l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1935/127974.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1935/127974l.webp"
-    }
-  },
-  "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1935/127974.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1935/127974l.webp"
-  },
-  "trailer": {
-    "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1935/127974l.webp",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1935/127974l.webp",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1935/127974l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1935/127974l.webp",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1935/127974l.webp",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1935/127974l.webp",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1935/127974l.webp",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1935/127974l.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1935/127974l.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1935/127974l.webp"
-    }
-  },
-  "broadcast": {
-    "day": "wednesday",
-    "time": "02:05",
-    "day_of_the_week": "wednesday",
-    "start_time": "02:05",
-    "timezone": "Asia/Tokyo",
-    "string": "wednesday 02:05"
-  },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
-  "related_manga": [],
-  "recommendations": [],
-  "statistics": null,
+  "backdrop_url": "https://image.tmdb.org/t/p/w1280/gDvxT2z6TNxervG97WfpePRZ3aR.jpg",
+  "logo_url": "https://image.tmdb.org/t/p/w500/7GEZnpbAgtPr7MeZ04i7HtiLvl3.png",
+  "tmdb_id": "42509",
+  "tmdb_updated_at": "2026-11-06T21:57:33.693Z",
   "simkl_id": 38960,
   "episodes_data": [
     {
@@ -381,5 +338,52 @@
       "imageUrl": "https://simkl.in/episodes/17/17583001ef0e82f582_w.webp",
       "description": "Shows a map of Akihabara in 2010 and highlights the locations of some of the places in the story."
     }
-  ]
+  ],
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1935/127974.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1935/127974l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1935/127974.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1935/127974l.jpg"
+    }
+  },
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1935/127974.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1935/127974l.jpg"
+  },
+  "trailer": {
+    "images": {
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1935/127974l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1935/127974l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1935/127974l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1935/127974l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1935/127974l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1935/127974l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1935/127974l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1935/127974l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1935/127974l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1935/127974l.jpg"
+    }
+  },
+  "broadcast": {
+    "day": "wednesday",
+    "time": "02:05",
+    "day_of_the_week": "wednesday",
+    "start_time": "02:05",
+    "timezone": "Asia/Tokyo",
+    "string": "wednesday 02:05"
+  },
+  "rank": null,
+  "popularity": null,
+  "num_scoring_users": null,
+  "nsfw": null,
+  "created_at": null,
+  "updated_at": null,
+  "source": null,
+  "rating": null,
+  "background": null,
+  "related_anime": [],
+  "related_manga": [],
+  "recommendations": [],
+  "statistics": null
 }

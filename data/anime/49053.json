@@ -32,8 +32,8 @@
   "num_episodes": 1,
   "score": 8.13,
   "mean": 8.13,
-  "numListUsers": 105308,
-  "num_list_users": 105308,
+  "numListUsers": 105309,
+  "num_list_users": 105309,
   "genres": [
     {
       "id": 28,
@@ -59,6 +59,24 @@
     }
   ],
   "pictures": [],
+  "backdrop_url": "https://image.tmdb.org/t/p/w1280/k76NuWGNLInN9WjhH7zhAcXBxvX.jpg",
+  "logo_url": "https://image.tmdb.org/t/p/w500/7pmbyITQ2fdMfqv9gwCxNnEkMaV.png",
+  "tmdb_id": "88040",
+  "tmdb_updated_at": "2026-11-06T22:02:23.942Z",
+  "simkl_id": 1649311,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "OAD",
+      "aired": "2021-12-01T00:00:00+09:00",
+      "airedDate": "2021-12-01T00:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ],
+  "specials_data": [],
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1031/115154.webp",
@@ -98,19 +116,5 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null,
-  "simkl_id": 1649311,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "episodeNumber": 1,
-      "title": "OAD",
-      "aired": "2021-12-01T00:00:00+09:00",
-      "airedDate": "2021-12-01T00:00:00+09:00",
-      "thumbnail": null,
-      "imageUrl": null,
-      "description": null
-    }
-  ],
-  "specials_data": []
+  "statistics": null
 }

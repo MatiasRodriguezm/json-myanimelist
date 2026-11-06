@@ -27,10 +27,10 @@
   },
   "episodes": null,
   "num_episodes": null,
-  "score": null,
-  "mean": null,
-  "numListUsers": 7111,
-  "num_list_users": 7111,
+  "score": 6.59,
+  "mean": 6.59,
+  "numListUsers": 7710,
+  "num_list_users": 7710,
   "genres": [
     {
       "id": 1,
@@ -60,6 +60,54 @@
     }
   ],
   "pictures": [],
+  "backdrop_url": "https://image.tmdb.org/t/p/w1280/fTQCIQ09AXNNGENRAM6mCGhkucm.jpg",
+  "logo_url": "https://image.tmdb.org/t/p/w500/27onkBjyvWdzAXjfaiUaYMYzQqN.png",
+  "tmdb_id": "328010",
+  "tmdb_updated_at": "2026-11-06T21:58:28.925Z",
+  "simkl_id": 2953770,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Erosion / New World",
+      "aired": "2026-11-06T21:00:00+09:00",
+      "airedDate": "2026-11-06T21:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/21/21034239abc670363a_w.webp",
+      "imageUrl": "https://simkl.in/episodes/21/21034239abc670363a_w.webp",
+      "description": null
+    },
+    {
+      "episode": 2,
+      "episodeNumber": 2,
+      "title": "Transformation / Monster Den",
+      "aired": "2026-11-06T21:00:00+09:00",
+      "airedDate": "2026-11-06T21:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 3,
+      "episodeNumber": 3,
+      "title": "Episode 3",
+      "aired": "2026-11-13T21:00:00+09:00",
+      "airedDate": "2026-11-13T21:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 4,
+      "episodeNumber": 4,
+      "title": "Episode 4",
+      "aired": "2026-11-13T21:00:00+09:00",
+      "airedDate": "2026-11-13T21:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ],
+  "specials_data": [],
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1551/158889.jpg",
@@ -99,19 +147,5 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null,
-  "simkl_id": 2953770,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "episodeNumber": 1,
-      "title": "Episode 1",
-      "aired": "2026-11-06T21:00:00+09:00",
-      "airedDate": "2026-11-06T21:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/21/21034239abc670363a_w.webp",
-      "imageUrl": "https://simkl.in/episodes/21/21034239abc670363a_w.webp",
-      "description": null
-    }
-  ],
-  "specials_data": []
+  "statistics": null
 }

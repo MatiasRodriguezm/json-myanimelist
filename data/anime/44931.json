@@ -33,8 +33,8 @@
   "num_episodes": 1,
   "score": 8,
   "mean": 8,
-  "numListUsers": 185531,
-  "num_list_users": 185531,
+  "numListUsers": 185534,
+  "num_list_users": 185534,
   "genres": [
     {
       "id": 4,
@@ -56,6 +56,24 @@
     }
   ],
   "pictures": [],
+  "backdrop_url": "https://image.tmdb.org/t/p/w1280/rnf2BDKeF1sxPEPhAcdvL0auuxr.jpg",
+  "logo_url": "https://image.tmdb.org/t/p/w500/9cIPjo6rf8owHZ0RvOasFwmj8BE.png",
+  "tmdb_id": "100049",
+  "tmdb_updated_at": "2026-11-06T22:02:32.772Z",
+  "simkl_id": 1505149,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "OVA",
+      "aired": "2021-08-18T00:00:00+09:00",
+      "airedDate": "2021-08-18T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/1755495771c5da55ab_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/1755495771c5da55ab_w.webp",
+      "description": null
+    }
+  ],
+  "specials_data": [],
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1765/122768.jpg",
@@ -95,19 +113,5 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null,
-  "simkl_id": 1505149,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "episodeNumber": 1,
-      "title": "OVA",
-      "aired": "2021-08-18T00:00:00+09:00",
-      "airedDate": "2021-08-18T00:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/17/1755495771c5da55ab_w.webp",
-      "imageUrl": "https://simkl.in/episodes/17/1755495771c5da55ab_w.webp",
-      "description": null
-    }
-  ],
-  "specials_data": []
+  "statistics": null
 }

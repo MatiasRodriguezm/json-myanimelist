@@ -50,6 +50,24 @@
     }
   ],
   "pictures": [],
+  "backdrop_url": null,
+  "logo_url": "https://image.tmdb.org/t/p/w500/4HhK8kZ0XlNQRx7zGArufQMOx2z.svg",
+  "tmdb_id": "1236857",
+  "tmdb_updated_at": "2026-11-06T22:04:40.554Z",
+  "simkl_id": 2360178,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Complete Movie",
+      "aired": "2026-11-13T00:00:00+09:00",
+      "airedDate": "2026-11-13T00:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ],
+  "specials_data": [],
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1987/160533.jpg",
@@ -89,19 +107,5 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null,
-  "simkl_id": 2360178,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "episodeNumber": 1,
-      "title": "Complete Movie",
-      "aired": "2026-11-13T00:00:00+09:00",
-      "airedDate": "2026-11-13T00:00:00+09:00",
-      "thumbnail": null,
-      "imageUrl": null,
-      "description": null
-    }
-  ],
-  "specials_data": []
+  "statistics": null
 }

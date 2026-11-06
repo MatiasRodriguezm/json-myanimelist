@@ -29,8 +29,8 @@
   "num_episodes": null,
   "score": null,
   "mean": null,
-  "numListUsers": 6499,
-  "num_list_users": 6499,
+  "numListUsers": 6510,
+  "num_list_users": 6510,
   "genres": [
     {
       "id": 8,
@@ -56,6 +56,24 @@
     }
   ],
   "pictures": [],
+  "backdrop_url": "https://image.tmdb.org/t/p/w1280/9ICPxPLDJFpnSAtUrzl2OIVlct.jpg",
+  "logo_url": "https://image.tmdb.org/t/p/w500/jUlj6x0yuOufCv1TKA3o6CD49lM.png",
+  "tmdb_id": "300700",
+  "tmdb_updated_at": "2026-11-06T22:00:28.082Z",
+  "simkl_id": 2881894,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Episode 1",
+      "aired": "2027-01-01T23:30:00+09:00",
+      "airedDate": "2027-01-01T23:30:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ],
+  "specials_data": [],
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1157/156595.jpg",
@@ -102,19 +120,5 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null,
-  "simkl_id": 2881894,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "episodeNumber": 1,
-      "title": "Episode 1",
-      "aired": "2027-01-01T23:30:00+09:00",
-      "airedDate": "2027-01-01T23:30:00+09:00",
-      "thumbnail": null,
-      "imageUrl": null,
-      "description": null
-    }
-  ],
-  "specials_data": []
+  "statistics": null
 }

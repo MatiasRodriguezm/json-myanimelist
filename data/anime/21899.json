@@ -77,6 +77,34 @@
     }
   ],
   "pictures": [],
+  "backdrop_url": "https://image.tmdb.org/t/p/w1280/3gVl0IvJMbhOnAvH9V0Q1Y1HnXE.jpg",
+  "logo_url": "https://image.tmdb.org/t/p/w500/2GFz7E2Z1UWiWqOv2YGIbIaAWrH.png",
+  "tmdb_id": "57041",
+  "tmdb_updated_at": "2026-11-06T22:02:13.936Z",
+  "simkl_id": 47312,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Shinsengumi Crisis Arc",
+      "aired": "2012-08-26T00:00:00+09:00",
+      "airedDate": "2012-08-26T00:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 2,
+      "episodeNumber": 2,
+      "title": "Kabukichou Four Devas Arc",
+      "aired": "2012-08-26T00:00:00+09:00",
+      "airedDate": "2012-08-26T00:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ],
+  "specials_data": [],
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1172/90571.jpg",
@@ -116,29 +144,5 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null,
-  "simkl_id": 47312,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "episodeNumber": 1,
-      "title": "Shinsengumi Crisis Arc",
-      "aired": "2012-08-26T00:00:00+09:00",
-      "airedDate": "2012-08-26T00:00:00+09:00",
-      "thumbnail": null,
-      "imageUrl": null,
-      "description": null
-    },
-    {
-      "episode": 2,
-      "episodeNumber": 2,
-      "title": "Kabukichou Four Devas Arc",
-      "aired": "2012-08-26T00:00:00+09:00",
-      "airedDate": "2012-08-26T00:00:00+09:00",
-      "thumbnail": null,
-      "imageUrl": null,
-      "description": null
-    }
-  ],
-  "specials_data": []
+  "statistics": null
 }

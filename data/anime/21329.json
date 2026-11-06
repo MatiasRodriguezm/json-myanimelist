@@ -32,8 +32,8 @@
   "num_episodes": 1,
   "score": 8.53,
   "mean": 8.53,
-  "numListUsers": 155931,
-  "num_list_users": 155931,
+  "numListUsers": 155932,
+  "num_list_users": 155932,
   "genres": [
     {
       "id": 50,
@@ -75,6 +75,24 @@
     }
   ],
   "pictures": [],
+  "backdrop_url": "https://image.tmdb.org/t/p/w1280/8ysRHGV3URjOJT7u7NkZiFjvObk.jpg",
+  "logo_url": "https://image.tmdb.org/t/p/w500/xFiCp8wraCYN2l2aYJPI4hLxniT.png",
+  "tmdb_id": "26867",
+  "tmdb_updated_at": "2026-11-06T22:02:38.817Z",
+  "simkl_id": 45412,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "TV Special",
+      "aired": "2014-01-04T00:00:00+09:00",
+      "airedDate": "2014-01-04T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/83/83695393e51f4f4ef_w.webp",
+      "imageUrl": "https://simkl.in/episodes/83/83695393e51f4f4ef_w.webp",
+      "description": "The mushi are said to become uneasy during an eclipse. Tanyu sends Ginko to monitor a village for the appearance of a mushi that causes a neverending eclipse. Her foreboding is justified when the village is enveloped in darkness..."
+    }
+  ],
+  "specials_data": [],
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1559/147521.jpg",
@@ -114,19 +132,5 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null,
-  "simkl_id": 45412,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "episodeNumber": 1,
-      "title": "TV Special",
-      "aired": "2014-01-04T00:00:00+09:00",
-      "airedDate": "2014-01-04T00:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/83/83695393e51f4f4ef_w.webp",
-      "imageUrl": "https://simkl.in/episodes/83/83695393e51f4f4ef_w.webp",
-      "description": "The mushi are said to become uneasy during an eclipse. Tanyu sends Ginko to monitor a village for the appearance of a mushi that causes a neverending eclipse. Her foreboding is justified when the village is enveloped in darkness..."
-    }
-  ],
-  "specials_data": []
+  "statistics": null
 }

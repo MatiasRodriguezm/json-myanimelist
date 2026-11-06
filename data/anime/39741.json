@@ -31,8 +31,8 @@
   "num_episodes": 1,
   "score": 8.43,
   "mean": 8.43,
-  "numListUsers": 495124,
-  "num_list_users": 495124,
+  "numListUsers": 495138,
+  "num_list_users": 495138,
   "genres": [
     {
       "id": 8,
@@ -46,30 +46,48 @@
     }
   ],
   "pictures": [],
+  "backdrop_url": "https://image.tmdb.org/t/p/w1280/fgUacNwfO5paHavroHtHeMHZMDB.jpg",
+  "logo_url": "https://image.tmdb.org/t/p/w500/7aU7gs0e4qbwEVmbRR3FewsqmFU.png",
+  "tmdb_id": "610892",
+  "tmdb_updated_at": "2026-11-06T22:02:13.303Z",
+  "simkl_id": 1077743,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Complete Movie",
+      "aired": "2019-09-06T00:00:00+09:00",
+      "airedDate": "2019-09-06T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/1754640967c16aadd0_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/1754640967c16aadd0_w.webp",
+      "description": null
+    }
+  ],
+  "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1667/112943.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1667/112943l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1667/112943.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1667/112943l.webp"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1667/112943.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1667/112943l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1667/112943.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1667/112943l.jpg"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1667/112943.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1667/112943l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1667/112943.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1667/112943l.jpg"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1667/112943l.webp",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1667/112943l.webp",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1667/112943l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1667/112943l.webp",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1667/112943l.webp",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1667/112943l.webp",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1667/112943l.webp",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1667/112943l.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1667/112943l.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1667/112943l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1667/112943l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1667/112943l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1667/112943l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1667/112943l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1667/112943l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1667/112943l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1667/112943l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1667/112943l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1667/112943l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1667/112943l.jpg"
     }
   },
   "broadcast": null,
@@ -85,19 +103,5 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null,
-  "simkl_id": 1077743,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "episodeNumber": 1,
-      "title": "Complete Movie",
-      "aired": "2019-09-06T00:00:00+09:00",
-      "airedDate": "2019-09-06T00:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/17/1754640967c16aadd0_w.webp",
-      "imageUrl": "https://simkl.in/episodes/17/1754640967c16aadd0_w.webp",
-      "description": null
-    }
-  ],
-  "specials_data": []
+  "statistics": null
 }
