@@ -29,8 +29,8 @@
   "num_episodes": 12,
   "score": 6.64,
   "mean": 6.64,
-  "numListUsers": 19230,
-  "num_list_users": 19230,
+  "numListUsers": 19235,
+  "num_list_users": 19235,
   "genres": [
     {
       "id": 2,
@@ -98,5 +98,89 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": null,
+  "simkl_id": 2885450,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "I'm Looking For My Dad",
+      "aired": "2026-10-03T23:30:00+09:00",
+      "airedDate": "2026-10-03T23:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20775189e2fa56a523_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20775189e2fa56a523_w.webp",
+      "description": null
+    },
+    {
+      "episode": 2,
+      "episodeNumber": 2,
+      "title": "I'm Looking For My Friends",
+      "aired": "2026-10-10T23:30:00+09:00",
+      "airedDate": "2026-10-10T23:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20821901341fccccf7_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20821901341fccccf7_w.webp",
+      "description": null
+    },
+    {
+      "episode": 3,
+      "episodeNumber": 3,
+      "title": "I'm Looking For a Photo Shop",
+      "aired": "2026-10-17T23:30:00+09:00",
+      "airedDate": "2026-10-17T23:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20865877217a36a169_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20865877217a36a169_w.webp",
+      "description": null
+    },
+    {
+      "episode": 4,
+      "episodeNumber": 4,
+      "title": "Episode 4",
+      "aired": "2026-10-24T23:30:00+09:00",
+      "airedDate": "2026-10-24T23:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20910435c59c0f80a1_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20910435c59c0f80a1_w.webp",
+      "description": null
+    },
+    {
+      "episode": 5,
+      "episodeNumber": 5,
+      "title": "Episode 5",
+      "aired": "2026-10-31T23:30:00+09:00",
+      "airedDate": "2026-10-31T23:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20956845e1cf38b6c8_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20956845e1cf38b6c8_w.webp",
+      "description": null
+    },
+    {
+      "episode": 6,
+      "episodeNumber": 6,
+      "title": "Episode 6",
+      "aired": "2026-11-07T23:30:00+09:00",
+      "airedDate": "2026-11-07T23:30:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 7,
+      "episodeNumber": 7,
+      "title": "Episode 7",
+      "aired": "2026-11-14T23:30:00+09:00",
+      "airedDate": "2026-11-14T23:30:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 8,
+      "episodeNumber": 8,
+      "title": "Episode 8",
+      "aired": "2026-11-21T23:30:00+09:00",
+      "airedDate": "2026-11-21T23:30:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ],
+  "specials_data": []
 }

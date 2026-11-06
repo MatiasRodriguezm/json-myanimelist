@@ -32,8 +32,8 @@
   "num_episodes": null,
   "score": 7.37,
   "mean": 7.37,
-  "numListUsers": 55237,
-  "num_list_users": 55237,
+  "numListUsers": 55295,
+  "num_list_users": 55295,
   "genres": [
     {
       "id": 1,
@@ -101,5 +101,89 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": null,
+  "simkl_id": 3012964,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Episode 1",
+      "aired": "2026-10-07T00:00:00+09:00",
+      "airedDate": "2026-10-07T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/2082066933d0e08b3f_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/2082066933d0e08b3f_w.webp",
+      "description": null
+    },
+    {
+      "episode": 2,
+      "episodeNumber": 2,
+      "title": "The Enhanced Clothes I Was Wearing Were Destroyed by a Devastating Blow, and a Traumatized Girl in Casual Clothes Hit Me with All Her Might.",
+      "aired": "2026-10-14T00:00:00+09:00",
+      "airedDate": "2026-10-14T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/208598711391fb9a9a_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/208598711391fb9a9a_w.webp",
+      "description": null
+    },
+    {
+      "episode": 3,
+      "episodeNumber": 3,
+      "title": "When I Went to Apologize with a Friend Who Was a Shut-in for Two Years, We Were Unexpectedly Served Apple Bunnies, So I Think She's Been Forgiven.",
+      "aired": "2026-10-21T00:00:00+09:00",
+      "airedDate": "2026-10-21T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20904479d9afa47a8b_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20904479d9afa47a8b_w.webp",
+      "description": null
+    },
+    {
+      "episode": 4,
+      "episodeNumber": 4,
+      "title": "There's Something I've Learned from Ending Up Naked Twice... When You're Naked, You Get Bitten Twice.",
+      "aired": "2026-10-28T00:00:00+09:00",
+      "airedDate": "2026-10-28T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/2094962108161e7299_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/2094962108161e7299_w.webp",
+      "description": null
+    },
+    {
+      "episode": 5,
+      "episodeNumber": 5,
+      "title": "Episode 5",
+      "aired": "2026-11-04T00:00:00+09:00",
+      "airedDate": "2026-11-04T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/209973311ad766495b_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/209973311ad766495b_w.webp",
+      "description": null
+    },
+    {
+      "episode": 6,
+      "episodeNumber": 6,
+      "title": "Episode 6",
+      "aired": "2026-11-11T00:00:00+09:00",
+      "airedDate": "2026-11-11T00:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 7,
+      "episodeNumber": 7,
+      "title": "Episode 7",
+      "aired": "2026-11-18T00:00:00+09:00",
+      "airedDate": "2026-11-18T00:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 8,
+      "episodeNumber": 8,
+      "title": "Episode 8",
+      "aired": "2026-11-25T00:00:00+09:00",
+      "airedDate": "2026-11-25T00:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ],
+  "specials_data": []
 }

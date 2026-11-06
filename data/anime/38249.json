@@ -31,8 +31,8 @@
   "num_episodes": 1,
   "score": 8.21,
   "mean": 8.21,
-  "numListUsers": 256032,
-  "num_list_users": 256032,
+  "numListUsers": 256039,
+  "num_list_users": 256039,
   "genres": [
     {
       "id": 4,
@@ -68,28 +68,28 @@
   "pictures": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1159/95661.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1159/95661l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1159/95661.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1159/95661l.webp"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1159/95661.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1159/95661l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1159/95661.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1159/95661l.jpg"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1159/95661.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1159/95661l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1159/95661.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1159/95661l.jpg"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1159/95661l.webp",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1159/95661l.webp",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1159/95661l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1159/95661l.webp",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1159/95661l.webp",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1159/95661l.webp",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1159/95661l.webp",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1159/95661l.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1159/95661l.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1159/95661l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1159/95661l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1159/95661l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1159/95661l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1159/95661l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1159/95661l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1159/95661l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1159/95661l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1159/95661l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1159/95661l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1159/95661l.jpg"
     }
   },
   "broadcast": null,
@@ -105,5 +105,39 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": null,
+  "simkl_id": 850565,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "TV Special",
+      "aired": "2018-12-28T00:00:00+09:00",
+      "airedDate": "2018-12-28T00:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 2,
+      "episodeNumber": 2,
+      "title": "Part 1 of 2",
+      "aired": "2018-12-28T00:00:00+09:00",
+      "airedDate": "2018-12-28T00:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 3,
+      "episodeNumber": 3,
+      "title": "Part 2 of 2",
+      "aired": "2018-12-28T00:00:00+09:00",
+      "airedDate": "2018-12-28T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/14/1449559734a806b9e3_w.webp",
+      "imageUrl": "https://simkl.in/episodes/14/1449559734a806b9e3_w.webp",
+      "description": null
+    }
+  ],
+  "specials_data": []
 }

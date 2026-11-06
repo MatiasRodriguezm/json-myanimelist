@@ -29,8 +29,8 @@
   "num_episodes": null,
   "score": 6.96,
   "mean": 6.96,
-  "numListUsers": 26884,
-  "num_list_users": 26884,
+  "numListUsers": 26907,
+  "num_list_users": 26907,
   "genres": [
     {
       "id": 1,
@@ -98,5 +98,89 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": null,
+  "simkl_id": 2831382,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Peru the Mask Maker",
+      "aired": "2026-10-10T17:30:00+09:00",
+      "airedDate": "2026-10-10T17:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20853899a7dbaa6419_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20853899a7dbaa6419_w.webp",
+      "description": null
+    },
+    {
+      "episode": 2,
+      "episodeNumber": 2,
+      "title": "Mask of the War God",
+      "aired": "2026-10-17T17:30:00+09:00",
+      "airedDate": "2026-10-17T17:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20904107b7f12e354e_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20904107b7f12e354e_w.webp",
+      "description": null
+    },
+    {
+      "episode": 3,
+      "episodeNumber": 3,
+      "title": "The Mask of Smoke",
+      "aired": "2026-10-24T17:30:00+09:00",
+      "airedDate": "2026-10-24T17:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20942443e240a84f82_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20942443e240a84f82_w.webp",
+      "description": "Peru and Sona arrive at Cornbloom, where a very peculiar employee insists on traveling with them."
+    },
+    {
+      "episode": 4,
+      "episodeNumber": 4,
+      "title": "Episode 4",
+      "aired": "2026-10-31T17:30:00+09:00",
+      "airedDate": "2026-10-31T17:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20983933221b0186ca_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20983933221b0186ca_w.webp",
+      "description": null
+    },
+    {
+      "episode": 5,
+      "episodeNumber": 5,
+      "title": "Episode 5",
+      "aired": "2026-11-07T17:30:00+09:00",
+      "airedDate": "2026-11-07T17:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/21/21028455d512fbf727_w.webp",
+      "imageUrl": "https://simkl.in/episodes/21/21028455d512fbf727_w.webp",
+      "description": null
+    },
+    {
+      "episode": 6,
+      "episodeNumber": 6,
+      "title": "Episode 6",
+      "aired": "2026-11-14T17:30:00+09:00",
+      "airedDate": "2026-11-14T17:30:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 7,
+      "episodeNumber": 7,
+      "title": "Episode 7",
+      "aired": "2026-11-21T17:30:00+09:00",
+      "airedDate": "2026-11-21T17:30:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 8,
+      "episodeNumber": 8,
+      "title": "Episode 8",
+      "aired": "2026-11-28T17:30:00+09:00",
+      "airedDate": "2026-11-28T17:30:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ],
+  "specials_data": []
 }

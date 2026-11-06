@@ -32,8 +32,8 @@
   "num_episodes": null,
   "score": 7.05,
   "mean": 7.05,
-  "numListUsers": 61161,
-  "num_list_users": 61161,
+  "numListUsers": 61182,
+  "num_list_users": 61182,
   "genres": [
     {
       "id": 1,
@@ -105,5 +105,89 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": null,
+  "simkl_id": 2330432,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Into the Shadow",
+      "aired": "2026-10-08T00:45:00+09:00",
+      "airedDate": "2026-10-08T00:45:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20840453318ed3740a_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20840453318ed3740a_w.webp",
+      "description": null
+    },
+    {
+      "episode": 2,
+      "episodeNumber": 2,
+      "title": "Judgment",
+      "aired": "2026-10-15T00:45:00+09:00",
+      "airedDate": "2026-10-15T00:45:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20884325fd576020ff_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20884325fd576020ff_w.webp",
+      "description": null
+    },
+    {
+      "episode": 3,
+      "episodeNumber": 3,
+      "title": "Yellow Ocean",
+      "aired": "2026-10-22T00:45:00+09:00",
+      "airedDate": "2026-10-22T00:45:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20929759056da8ea60_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20929759056da8ea60_w.webp",
+      "description": null
+    },
+    {
+      "episode": 4,
+      "episodeNumber": 4,
+      "title": "Beginning",
+      "aired": "2026-10-29T00:45:00+09:00",
+      "airedDate": "2026-10-29T00:45:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/2096236387397b4490_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/2096236387397b4490_w.webp",
+      "description": null
+    },
+    {
+      "episode": 5,
+      "episodeNumber": 5,
+      "title": "Episode 5",
+      "aired": "2026-11-05T00:45:00+09:00",
+      "airedDate": "2026-11-05T00:45:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/21/21016379d29d7eb21c_w.webp",
+      "imageUrl": "https://simkl.in/episodes/21/21016379d29d7eb21c_w.webp",
+      "description": null
+    },
+    {
+      "episode": 6,
+      "episodeNumber": 6,
+      "title": "Episode 6",
+      "aired": "2026-11-12T00:45:00+09:00",
+      "airedDate": "2026-11-12T00:45:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 7,
+      "episodeNumber": 7,
+      "title": "Episode 7",
+      "aired": "2026-11-19T00:45:00+09:00",
+      "airedDate": "2026-11-19T00:45:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 8,
+      "episodeNumber": 8,
+      "title": "Episode 8",
+      "aired": "2026-11-26T00:45:00+09:00",
+      "airedDate": "2026-11-26T00:45:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ],
+  "specials_data": []
 }

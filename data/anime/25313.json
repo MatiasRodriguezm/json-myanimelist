@@ -32,8 +32,8 @@
   "num_episodes": 1,
   "score": 8.12,
   "mean": 8.12,
-  "numListUsers": 46400,
-  "num_list_users": 46400,
+  "numListUsers": 46401,
+  "num_list_users": 46401,
   "genres": [
     {
       "id": 1,
@@ -114,5 +114,19 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": null,
+  "simkl_id": 433226,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "OAD",
+      "aired": "2014-11-09T00:00:00+09:00",
+      "airedDate": "2014-11-09T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/17573795bbcaa7a84c_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/17573795bbcaa7a84c_w.webp",
+      "description": null
+    }
+  ],
+  "specials_data": []
 }

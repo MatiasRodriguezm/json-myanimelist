@@ -32,8 +32,8 @@
   "num_episodes": 1,
   "score": 8.53,
   "mean": 8.53,
-  "numListUsers": 155929,
-  "num_list_users": 155929,
+  "numListUsers": 155931,
+  "num_list_users": 155931,
   "genres": [
     {
       "id": 50,
@@ -114,5 +114,19 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": null,
+  "simkl_id": 45412,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "TV Special",
+      "aired": "2014-01-04T00:00:00+09:00",
+      "airedDate": "2014-01-04T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/83/83695393e51f4f4ef_w.webp",
+      "imageUrl": "https://simkl.in/episodes/83/83695393e51f4f4ef_w.webp",
+      "description": "The mushi are said to become uneasy during an eclipse. Tanyu sends Ginko to monitor a village for the appearance of a mushi that causes a neverending eclipse. Her foreboding is justified when the village is enveloped in darkness..."
+    }
+  ],
+  "specials_data": []
 }

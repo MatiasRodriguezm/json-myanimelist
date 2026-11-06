@@ -33,8 +33,8 @@
   "num_episodes": 12,
   "score": 7.29,
   "mean": 7.29,
-  "numListUsers": 32697,
-  "num_list_users": 32697,
+  "numListUsers": 32715,
+  "num_list_users": 32715,
   "genres": [
     {
       "id": 1,
@@ -102,5 +102,89 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": null,
+  "simkl_id": 2577398,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "The Girl Named Romelia",
+      "aired": "2026-10-03T23:30:00+09:00",
+      "airedDate": "2026-10-03T23:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20814791fb08342f21_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20814791fb08342f21_w.webp",
+      "description": null
+    },
+    {
+      "episode": 2,
+      "episodeNumber": 2,
+      "title": "Fortress Takeover",
+      "aired": "2026-10-10T23:30:00+09:00",
+      "airedDate": "2026-10-10T23:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/208535899f8df6892b_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/208535899f8df6892b_w.webp",
+      "description": null
+    },
+    {
+      "episode": 3,
+      "episodeNumber": 3,
+      "title": "The Name of That Miracle",
+      "aired": "2026-10-17T23:30:00+09:00",
+      "airedDate": "2026-10-17T23:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20897601ea18bf0530_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20897601ea18bf0530_w.webp",
+      "description": "Romelia`s men fight their first battle."
+    },
+    {
+      "episode": 4,
+      "episodeNumber": 4,
+      "title": "The Troubles of a Young Man",
+      "aired": "2026-10-24T23:30:00+09:00",
+      "airedDate": "2026-10-24T23:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/209485413e5637119c_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/209485413e5637119c_w.webp",
+      "description": null
+    },
+    {
+      "episode": 5,
+      "episodeNumber": 5,
+      "title": "The Line Between Courage and Recklessness",
+      "aired": "2026-10-31T23:30:00+09:00",
+      "airedDate": "2026-10-31T23:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20983981a0fe57889c_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20983981a0fe57889c_w.webp",
+      "description": null
+    },
+    {
+      "episode": 6,
+      "episodeNumber": 6,
+      "title": "Episode 6",
+      "aired": "2026-11-07T23:30:00+09:00",
+      "airedDate": "2026-11-07T23:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/21/21028457e4fbbf51e1_w.webp",
+      "imageUrl": "https://simkl.in/episodes/21/21028457e4fbbf51e1_w.webp",
+      "description": null
+    },
+    {
+      "episode": 7,
+      "episodeNumber": 7,
+      "title": "Episode 7",
+      "aired": "2026-11-14T23:30:00+09:00",
+      "airedDate": "2026-11-14T23:30:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 8,
+      "episodeNumber": 8,
+      "title": "Episode 8",
+      "aired": "2026-11-21T23:30:00+09:00",
+      "airedDate": "2026-11-21T23:30:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ],
+  "specials_data": []
 }

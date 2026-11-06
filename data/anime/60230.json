@@ -29,8 +29,8 @@
   "num_episodes": 1,
   "score": null,
   "mean": null,
-  "numListUsers": 3660,
-  "num_list_users": 3660,
+  "numListUsers": 3661,
+  "num_list_users": 3661,
   "genres": [
     {
       "id": 8,
@@ -94,5 +94,19 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": null,
+  "simkl_id": 2625628,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Complete Movie",
+      "aired": "2027-01-15T00:00:00+09:00",
+      "airedDate": "2027-01-15T00:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ],
+  "specials_data": []
 }

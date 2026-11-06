@@ -31,8 +31,8 @@
   "num_episodes": 12,
   "score": 6.47,
   "mean": 6.47,
-  "numListUsers": 34088,
-  "num_list_users": 34088,
+  "numListUsers": 34116,
+  "num_list_users": 34116,
   "genres": [
     {
       "id": 1,
@@ -100,5 +100,89 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": null,
+  "simkl_id": 3127764,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "The Boy Who Is the World's Strongest Sorcerer Participates in a Large Scale Magic Battle Tournament",
+      "aired": "2026-10-09T01:28:00+09:00",
+      "airedDate": "2026-10-09T01:28:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20841935b3c579d0c3_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20841935b3c579d0c3_w.webp",
+      "description": null
+    },
+    {
+      "episode": 2,
+      "episodeNumber": 2,
+      "title": "The Boy Who Is the World's Strongest Sorcerer Dons a Mask",
+      "aired": "2026-10-16T01:28:00+09:00",
+      "airedDate": "2026-10-16T01:28:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20884723969f079a00_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20884723969f079a00_w.webp",
+      "description": null
+    },
+    {
+      "episode": 3,
+      "episodeNumber": 3,
+      "title": "The Boy Who Is the World's Strongest Sorcerer Keeps Winning With His Team",
+      "aired": "2026-10-23T01:28:00+09:00",
+      "airedDate": "2026-10-23T01:28:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20930245f96da6bfdd_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20930245f96da6bfdd_w.webp",
+      "description": null
+    },
+    {
+      "episode": 4,
+      "episodeNumber": 4,
+      "title": "The Boy Who Is the World's Strongest Sorcerer and His Friends Converse with Their Fists",
+      "aired": "2026-10-30T01:28:00+09:00",
+      "airedDate": "2026-10-30T01:28:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20969211174a804dd3_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20969211174a804dd3_w.webp",
+      "description": null
+    },
+    {
+      "episode": 5,
+      "episodeNumber": 5,
+      "title": "Episode 5",
+      "aired": "2026-11-06T01:28:00+09:00",
+      "airedDate": "2026-11-06T01:28:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/21/210163837fce0ef0ae_w.webp",
+      "imageUrl": "https://simkl.in/episodes/21/210163837fce0ef0ae_w.webp",
+      "description": null
+    },
+    {
+      "episode": 6,
+      "episodeNumber": 6,
+      "title": "Episode 6",
+      "aired": "2026-11-13T01:28:00+09:00",
+      "airedDate": "2026-11-13T01:28:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 7,
+      "episodeNumber": 7,
+      "title": "Episode 7",
+      "aired": "2026-11-20T01:28:00+09:00",
+      "airedDate": "2026-11-20T01:28:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 8,
+      "episodeNumber": 8,
+      "title": "Episode 8",
+      "aired": "2026-11-27T01:28:00+09:00",
+      "airedDate": "2026-11-27T01:28:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ],
+  "specials_data": []
 }

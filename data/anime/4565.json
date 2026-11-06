@@ -60,28 +60,28 @@
   "pictures": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/12/19698.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/19698l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/12/19698.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/12/19698l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/19698.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/19698l.webp",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/12/19698.webp",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/12/19698l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/12/19698.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/12/19698l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/12/19698.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/12/19698l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/12/19698l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/12/19698l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/12/19698l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/12/19698l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/19698l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/12/19698l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/12/19698l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/12/19698l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/19698l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/12/19698l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/12/19698l.webp",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/12/19698l.webp",
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/19698l.webp",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/12/19698l.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/19698l.webp",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/12/19698l.webp",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/12/19698l.webp",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/12/19698l.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/19698l.webp",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/12/19698l.webp"
     }
   },
   "broadcast": null,
@@ -97,5 +97,19 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": null,
+  "simkl_id": 36758,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Complete Movie",
+      "aired": "2009-04-25T00:00:00+09:00",
+      "airedDate": "2009-04-25T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/175760494f87a4c0d2_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/175760494f87a4c0d2_w.webp",
+      "description": null
+    }
+  ],
+  "specials_data": []
 }

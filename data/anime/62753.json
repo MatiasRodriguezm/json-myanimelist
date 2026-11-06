@@ -29,8 +29,8 @@
   "num_episodes": 12,
   "score": 6.86,
   "mean": 6.86,
-  "numListUsers": 25082,
-  "num_list_users": 25082,
+  "numListUsers": 25099,
+  "num_list_users": 25099,
   "genres": [
     {
       "id": 62,
@@ -102,5 +102,89 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": null,
+  "simkl_id": 2901666,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "I Was a Faceless, Evil NPC Heiress",
+      "aired": "2026-10-04T23:30:00+09:00",
+      "airedDate": "2026-10-04T23:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/2081541984a5024ec8_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/2081541984a5024ec8_w.webp",
+      "description": null
+    },
+    {
+      "episode": 2,
+      "episodeNumber": 2,
+      "title": "Tea Party with the Love Interests",
+      "aired": "2026-10-11T23:30:00+09:00",
+      "airedDate": "2026-10-11T23:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/2085959128a583b394_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/2085959128a583b394_w.webp",
+      "description": null
+    },
+    {
+      "episode": 3,
+      "episodeNumber": 3,
+      "title": "Enrolling on the Set of an Otome Game?!",
+      "aired": "2026-10-18T23:30:00+09:00",
+      "airedDate": "2026-10-18T23:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/2090929912ee1fe009_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/2090929912ee1fe009_w.webp",
+      "description": null
+    },
+    {
+      "episode": 4,
+      "episodeNumber": 4,
+      "title": "The Overprotective, Cunning Fiance",
+      "aired": "2026-10-25T23:30:00+09:00",
+      "airedDate": "2026-10-25T23:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20949175afadec291f_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20949175afadec291f_w.webp",
+      "description": null
+    },
+    {
+      "episode": 5,
+      "episodeNumber": 5,
+      "title": "The Timid Villain and the Outgoing Heroine",
+      "aired": "2026-11-01T23:30:00+09:00",
+      "airedDate": "2026-11-01T23:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/2099097355bdf0c352_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/2099097355bdf0c352_w.webp",
+      "description": null
+    },
+    {
+      "episode": 6,
+      "episodeNumber": 6,
+      "title": "Episode 6",
+      "aired": "2026-11-08T23:30:00+09:00",
+      "airedDate": "2026-11-08T23:30:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 7,
+      "episodeNumber": 7,
+      "title": "Episode 7",
+      "aired": "2026-11-15T23:30:00+09:00",
+      "airedDate": "2026-11-15T23:30:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 8,
+      "episodeNumber": 8,
+      "title": "Episode 8",
+      "aired": "2026-11-22T23:30:00+09:00",
+      "airedDate": "2026-11-22T23:30:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ],
+  "specials_data": []
 }

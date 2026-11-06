@@ -31,8 +31,8 @@
   "num_episodes": 12,
   "score": 5.45,
   "mean": 5.45,
-  "numListUsers": 4686,
-  "num_list_users": 4686,
+  "numListUsers": 4688,
+  "num_list_users": 4688,
   "genres": [
     {
       "id": 18,
@@ -96,5 +96,89 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": null,
+  "simkl_id": 3140904,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "An Old-Fashioned Guardian",
+      "aired": "2026-10-08T00:30:00+09:00",
+      "airedDate": "2026-10-08T00:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20834565f237b90270_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20834565f237b90270_w.webp",
+      "description": null
+    },
+    {
+      "episode": 2,
+      "episodeNumber": 2,
+      "title": "An Ace, but Only Because of His Face",
+      "aired": "2026-10-15T00:30:00+09:00",
+      "airedDate": "2026-10-15T00:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/208777852fbadaaafc_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/208777852fbadaaafc_w.webp",
+      "description": null
+    },
+    {
+      "episode": 3,
+      "episodeNumber": 3,
+      "title": "Episode 3",
+      "aired": "2026-10-22T00:30:00+09:00",
+      "airedDate": "2026-10-22T00:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20929757c69ca9e7a2_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20929757c69ca9e7a2_w.webp",
+      "description": null
+    },
+    {
+      "episode": 4,
+      "episodeNumber": 4,
+      "title": "Episode 4",
+      "aired": "2026-10-29T00:30:00+09:00",
+      "airedDate": "2026-10-29T00:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20962361188a21c814_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20962361188a21c814_w.webp",
+      "description": null
+    },
+    {
+      "episode": 5,
+      "episodeNumber": 5,
+      "title": "Episode 5",
+      "aired": "2026-11-05T00:30:00+09:00",
+      "airedDate": "2026-11-05T00:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/21/2101637761ef2ef99f_w.webp",
+      "imageUrl": "https://simkl.in/episodes/21/2101637761ef2ef99f_w.webp",
+      "description": null
+    },
+    {
+      "episode": 6,
+      "episodeNumber": 6,
+      "title": "Episode 6",
+      "aired": "2026-11-12T00:30:00+09:00",
+      "airedDate": "2026-11-12T00:30:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 7,
+      "episodeNumber": 7,
+      "title": "Episode 7",
+      "aired": "2026-11-19T00:30:00+09:00",
+      "airedDate": "2026-11-19T00:30:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 8,
+      "episodeNumber": 8,
+      "title": "Episode 8",
+      "aired": "2026-11-26T00:30:00+09:00",
+      "airedDate": "2026-11-26T00:30:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ],
+  "specials_data": []
 }

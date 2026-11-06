@@ -32,8 +32,8 @@
   "num_episodes": 1,
   "score": 8.51,
   "mean": 8.51,
-  "numListUsers": 433295,
-  "num_list_users": 433295,
+  "numListUsers": 433304,
+  "num_list_users": 433304,
   "genres": [
     {
       "id": 46,
@@ -65,28 +65,28 @@
   "pictures": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/5/54231.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/54231l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/5/54231.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/5/54231l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/5/54231.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/54231l.webp",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/5/54231.webp",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/5/54231l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/5/54231.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/5/54231l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/5/54231.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/5/54231l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/5/54231l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/5/54231l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/5/54231l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/5/54231l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/5/54231l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/5/54231l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/5/54231l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/5/54231l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/54231l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/5/54231l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/5/54231l.webp",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/5/54231l.webp",
+      "image_url": "https://cdn.myanimelist.net/images/anime/5/54231l.webp",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/5/54231l.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/5/54231l.webp",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/5/54231l.webp",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/5/54231l.webp",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/5/54231l.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/54231l.webp",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/5/54231l.webp"
     }
   },
   "broadcast": null,
@@ -102,5 +102,100 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": null,
+  "simkl_id": 38910,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Part 1: Beginnings",
+      "aired": "2012-10-06T00:00:00+09:00",
+      "airedDate": "2012-10-06T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/175838037d76d3bca3_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/175838037d76d3bca3_w.webp",
+      "description": null
+    },
+    {
+      "episode": 2,
+      "episodeNumber": 2,
+      "title": "Part 2: Eternal",
+      "aired": "2012-10-13T00:00:00+09:00",
+      "airedDate": "2012-10-13T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/17583805e8b1871538_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/17583805e8b1871538_w.webp",
+      "description": null
+    },
+    {
+      "episode": 3,
+      "episodeNumber": 3,
+      "title": "Part 3: Rebellion",
+      "aired": "2013-10-26T00:00:00+09:00",
+      "airedDate": "2013-10-26T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/17583807bf3b6a88cf_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/17583807bf3b6a88cf_w.webp",
+      "description": null
+    }
+  ],
+  "specials_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Magica Quartet x Nisioisin 1",
+      "aired": "2013-10-26T00:00:00+09:00",
+      "airedDate": "2013-10-26T00:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 2,
+      "episodeNumber": 2,
+      "title": "Magica Quartet x Nisioisin 2",
+      "aired": "2013-10-26T00:00:00+09:00",
+      "airedDate": "2013-10-26T00:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 3,
+      "episodeNumber": 3,
+      "title": "Magica Quartet x Nisioisin 3",
+      "aired": "2013-10-26T00:00:00+09:00",
+      "airedDate": "2013-10-26T00:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 4,
+      "episodeNumber": 4,
+      "title": "Magica Quartet x Nisioisin 4",
+      "aired": "2013-10-26T00:00:00+09:00",
+      "airedDate": "2013-10-26T00:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 5,
+      "episodeNumber": 5,
+      "title": "Parts 1 and 2 Summary",
+      "aired": "2014-04-02T00:00:00+09:00",
+      "airedDate": "2014-04-02T00:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 6,
+      "episodeNumber": 6,
+      "title": "Madogatari Recap",
+      "aired": true,
+      "airedDate": true,
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ]
 }

@@ -29,8 +29,8 @@
   "num_episodes": null,
   "score": 8.24,
   "mean": 8.24,
-  "numListUsers": 53084,
-  "num_list_users": 53084,
+  "numListUsers": 53112,
+  "num_list_users": 53112,
   "genres": [
     {
       "id": 1,
@@ -106,5 +106,89 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": null,
+  "simkl_id": 3281958,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "The God Who Destroys",
+      "aired": "2026-10-11T23:15:00+09:00",
+      "airedDate": "2026-10-11T23:15:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/2086548318cc0df524_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/2086548318cc0df524_w.webp",
+      "description": null
+    },
+    {
+      "episode": 2,
+      "episodeNumber": 2,
+      "title": "The God of Destruction Heads to the Planet of the Kai",
+      "aired": "2026-10-18T23:15:00+09:00",
+      "airedDate": "2026-10-18T23:15:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20909369138dbd4a8f_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20909369138dbd4a8f_w.webp",
+      "description": null
+    },
+    {
+      "episode": 3,
+      "episodeNumber": 3,
+      "title": "The God of Destruction Heads to Earth",
+      "aired": "2026-10-25T23:15:00+09:00",
+      "airedDate": "2026-10-25T23:15:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20955071c72d76e1a5_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20955071c72d76e1a5_w.webp",
+      "description": null
+    },
+    {
+      "episode": 4,
+      "episodeNumber": 4,
+      "title": "The God of Saiyans",
+      "aired": "2026-11-01T23:15:00+09:00",
+      "airedDate": "2026-11-01T23:15:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/21/21002363e456aaec2c_w.webp",
+      "imageUrl": "https://simkl.in/episodes/21/21002363e456aaec2c_w.webp",
+      "description": null
+    },
+    {
+      "episode": 5,
+      "episodeNumber": 5,
+      "title": "The God of Destruction and Son Goku",
+      "aired": "2026-11-08T23:15:00+09:00",
+      "airedDate": "2026-11-08T23:15:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 6,
+      "episodeNumber": 6,
+      "title": "Episode 6",
+      "aired": "2026-11-15T23:15:00+09:00",
+      "airedDate": "2026-11-15T23:15:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 7,
+      "episodeNumber": 7,
+      "title": "Episode 7",
+      "aired": "2026-11-22T23:15:00+09:00",
+      "airedDate": "2026-11-22T23:15:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 8,
+      "episodeNumber": 8,
+      "title": "Episode 8",
+      "aired": "2026-11-29T23:15:00+09:00",
+      "airedDate": "2026-11-29T23:15:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ],
+  "specials_data": []
 }

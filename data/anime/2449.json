@@ -111,5 +111,30 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": null,
+  "simkl_id": 39289,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "OVA",
+      "aired": "2005-09-23T00:00:00+09:00",
+      "airedDate": "2005-09-23T00:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ],
+  "specials_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Tachikomatic Days",
+      "aired": true,
+      "airedDate": true,
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ]
 }

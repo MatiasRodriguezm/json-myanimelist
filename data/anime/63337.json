@@ -29,8 +29,8 @@
   "num_episodes": 12,
   "score": 7.03,
   "mean": 7.03,
-  "numListUsers": 32213,
-  "num_list_users": 32213,
+  "numListUsers": 32236,
+  "num_list_users": 32236,
   "genres": [
     {
       "id": 50,
@@ -98,5 +98,89 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": null,
+  "simkl_id": 2997994,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "What's Forex?",
+      "aired": "2026-10-01T21:30:00+09:00",
+      "airedDate": "2026-10-01T21:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/2077518774bf7bc6b8_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/2077518774bf7bc6b8_w.webp",
+      "description": "Kurumi enters the world of forex to prove she can succeed where her mother once failed."
+    },
+    {
+      "episode": 2,
+      "episodeNumber": 2,
+      "title": "It's Okay, I've Got Leverage",
+      "aired": "2026-10-08T21:30:00+09:00",
+      "airedDate": "2026-10-08T21:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/208218990da43aee2a_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/208218990da43aee2a_w.webp",
+      "description": "After some advice from her friend Mochiko, Kurumi takes a risky position trading the Australian dollar."
+    },
+    {
+      "episode": 3,
+      "episodeNumber": 3,
+      "title": "Do I Have to Cut My Losses...?",
+      "aired": "2026-10-15T21:30:00+09:00",
+      "airedDate": "2026-10-15T21:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20865875991e4e139a_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20865875991e4e139a_w.webp",
+      "description": "AUD/JPY takes Kurumi on a wild ride, and she finds herself at risk of losing all the money she \"borrowed.\""
+    },
+    {
+      "episode": 4,
+      "episodeNumber": 4,
+      "title": "Having No Unrealized Losses Is the Best",
+      "aired": "2026-10-22T21:30:00+09:00",
+      "airedDate": "2026-10-22T21:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20910431e6e2c4e2cc_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20910431e6e2c4e2cc_w.webp",
+      "description": "Kurumi has an awkward confrontation with her dad, and then gets roped into teaching forex to a new investor."
+    },
+    {
+      "episode": 5,
+      "episodeNumber": 5,
+      "title": "Episode 5",
+      "aired": "2026-10-29T21:30:00+09:00",
+      "airedDate": "2026-10-29T21:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20956841790cee82b0_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20956841790cee82b0_w.webp",
+      "description": null
+    },
+    {
+      "episode": 6,
+      "episodeNumber": 6,
+      "title": "Episode 6",
+      "aired": "2026-11-05T21:30:00+09:00",
+      "airedDate": "2026-11-05T21:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/21/210033775b60a22b70_w.webp",
+      "imageUrl": "https://simkl.in/episodes/21/210033775b60a22b70_w.webp",
+      "description": null
+    },
+    {
+      "episode": 7,
+      "episodeNumber": 7,
+      "title": "Episode 7",
+      "aired": "2026-11-12T21:30:00+09:00",
+      "airedDate": "2026-11-12T21:30:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 8,
+      "episodeNumber": 8,
+      "title": "Episode 8",
+      "aired": "2026-11-19T21:30:00+09:00",
+      "airedDate": "2026-11-19T21:30:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ],
+  "specials_data": []
 }

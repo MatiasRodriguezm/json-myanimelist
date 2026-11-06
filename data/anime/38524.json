@@ -29,8 +29,8 @@
   "num_episodes": 10,
   "score": 9.06,
   "mean": 9.06,
-  "numListUsers": 2655762,
-  "num_list_users": 2655762,
+  "numListUsers": 2655820,
+  "num_list_users": 2655820,
   "genres": [
     {
       "id": 1,
@@ -114,5 +114,140 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": null,
+  "simkl_id": 931899,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "The Town Where Everything Began",
+      "aired": "2019-04-29T00:10:00+09:00",
+      "airedDate": "2019-04-29T00:10:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/17477724d5798a901a_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/17477724d5798a901a_w.webp",
+      "description": "The operation to retake Wall Maria commences in Shiganshina, the town where everything began. But when the Scouts arrive, something seems very wrong."
+    },
+    {
+      "episode": 2,
+      "episodeNumber": 2,
+      "title": "Thunder Spears",
+      "aired": "2019-05-06T00:10:00+09:00",
+      "airedDate": "2019-05-06T00:10:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/1747772631f84b082c_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/1747772631f84b082c_w.webp",
+      "description": "Against a rush of enemies, the Scouts scramble to defend their horses. But despite falling into a trap, they have their own surprise for the Armored Titan."
+    },
+    {
+      "episode": 3,
+      "episodeNumber": 3,
+      "title": "Descent",
+      "aired": "2019-05-13T00:10:00+09:00",
+      "airedDate": "2019-05-13T00:10:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/174777284be0b91759_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/174777284be0b91759_w.webp",
+      "description": "Though their Thunder Spears prove effective, the Scouts` celebration is short-lived as disaster descends upon Shiganshina."
+    },
+    {
+      "episode": 4,
+      "episodeNumber": 4,
+      "title": "Perfect Game",
+      "aired": "2019-05-20T00:10:00+09:00",
+      "airedDate": "2019-05-20T00:10:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/17477730efa4547d5b_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/17477730efa4547d5b_w.webp",
+      "description": "While one front in the battle is rained on by flames, the other is battered by boulders. With no way out, the Scouts are forced to fight or die trying."
+    },
+    {
+      "episode": 5,
+      "episodeNumber": 5,
+      "title": "Hero",
+      "aired": "2019-05-27T00:10:00+09:00",
+      "airedDate": "2019-05-27T00:10:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/1747773207e18ea3ad_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/1747773207e18ea3ad_w.webp",
+      "description": "As Erwin`s heroic charge buys Levi time to confront the Beast Titan, Armin comes up with a plan of his own that lays it all on the line."
+    },
+    {
+      "episode": 6,
+      "episodeNumber": 6,
+      "title": "Midnight Sun",
+      "aired": "2019-06-03T00:10:00+09:00",
+      "airedDate": "2019-06-03T00:10:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/17477734a6a50cd2e8_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/17477734a6a50cd2e8_w.webp",
+      "description": "While picking up the pieces from the costly battle, tensions rise when deciding which of the wounded Scouts to use the single syringe on."
+    },
+    {
+      "episode": 7,
+      "episodeNumber": 7,
+      "title": "The Basement",
+      "aired": "2019-06-10T00:10:00+09:00",
+      "airedDate": "2019-06-10T00:10:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/17477736d89c3a199a_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/17477736d89c3a199a_w.webp",
+      "description": "The secrets hidden in Grisha`s basement await in the ruins of Shiganshina. There, the Scouts hope to find answers to the world worth more than the price they paid."
+    },
+    {
+      "episode": 8,
+      "episodeNumber": 8,
+      "title": "That Day",
+      "aired": "2019-06-17T00:10:00+09:00",
+      "airedDate": "2019-06-17T00:10:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/174777380c6240fe6c_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/174777380c6240fe6c_w.webp",
+      "description": "A look into Grisha`s memories shows Eren the many secrets his father was hiding, including one which led to his mother`s demise."
+    },
+    {
+      "episode": 9,
+      "episodeNumber": 9,
+      "title": "Attack Titan",
+      "aired": "2019-06-24T00:10:00+09:00",
+      "airedDate": "2019-06-24T00:10:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/17477740ad9cfcf805_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/17477740ad9cfcf805_w.webp",
+      "description": "Eren learns how all paths connect in the story that his father began. If Grisha is to pay for his sins, he must fight for freedom and take a stand."
+    },
+    {
+      "episode": 10,
+      "episodeNumber": 10,
+      "title": "The Other Side of the Wall",
+      "aired": "2019-07-01T00:10:00+09:00",
+      "airedDate": "2019-07-01T00:10:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/17477742fc6b8de7ca_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/17477742fc6b8de7ca_w.webp",
+      "description": "Though it`s met with hope and despair, the truth is made public. The Scouts then venture beyond the walls to see if it`s everything they dreamed of."
+    }
+  ],
+  "specials_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Chimi Chara Theater 5",
+      "aired": "2019-07-24T00:10:00+09:00",
+      "airedDate": "2019-07-24T00:10:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 2,
+      "episodeNumber": 2,
+      "title": "Chimi Chara Theater 6",
+      "aired": "2019-08-21T00:10:00+09:00",
+      "airedDate": "2019-08-21T00:10:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 3,
+      "episodeNumber": 3,
+      "title": "Chimi Chara Theater 7",
+      "aired": "2019-09-18T00:10:00+09:00",
+      "airedDate": "2019-09-18T00:10:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ]
 }

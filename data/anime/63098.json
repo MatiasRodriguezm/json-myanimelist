@@ -31,8 +31,8 @@
   "num_episodes": null,
   "score": 6.92,
   "mean": 6.92,
-  "numListUsers": 34052,
-  "num_list_users": 34052,
+  "numListUsers": 34067,
+  "num_list_users": 34067,
   "genres": [
     {
       "id": 1,
@@ -124,5 +124,89 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": null,
+  "simkl_id": 2962972,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Urban Legend",
+      "aired": "2026-10-05T23:00:00+09:00",
+      "airedDate": "2026-10-05T23:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/208213912f3cc02dd1_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/208213912f3cc02dd1_w.webp",
+      "description": "High school student Ageha finds a mysterious telephone card in a phone booth."
+    },
+    {
+      "episode": 2,
+      "episodeNumber": 2,
+      "title": "Tavoo",
+      "aired": "2026-10-12T23:00:00+09:00",
+      "airedDate": "2026-10-12T23:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/2087109709f498c0d5_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/2087109709f498c0d5_w.webp",
+      "description": "Ageha, Amamiya, and Hiryu reunite in the Psyren world. A voice thunders out, “To those who reach Psyren—the entire world shall be theirs!”"
+    },
+    {
+      "episode": 3,
+      "episodeNumber": 3,
+      "title": "Psi",
+      "aired": "2026-10-19T23:00:00+09:00",
+      "airedDate": "2026-10-19T23:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/209100095af6694971_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/209100095af6694971_w.webp",
+      "description": "Ageha and his friends have ended up in a death game. While heading for the finish line, before they can make it to safety, an unworldly monster calls a Tavoo appears before them."
+    },
+    {
+      "episode": 4,
+      "episodeNumber": 4,
+      "title": "Recall",
+      "aired": "2026-10-26T23:00:00+09:00",
+      "airedDate": "2026-10-26T23:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20961805c29af939c8_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20961805c29af939c8_w.webp",
+      "description": "In a bid for survival, Ageha undergoes PSI training. Meanwhile, the actor Oboro and opportunistic Kabuto also receive phone cards."
+    },
+    {
+      "episode": 5,
+      "episodeNumber": 5,
+      "title": "Episode 5",
+      "aired": "2026-11-09T23:00:00+09:00",
+      "airedDate": "2026-11-09T23:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 6,
+      "episodeNumber": 6,
+      "title": "Episode 6",
+      "aired": "2026-11-09T23:00:00+09:00",
+      "airedDate": "2026-11-09T23:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 7,
+      "episodeNumber": 7,
+      "title": "Episode 7",
+      "aired": "2026-11-16T23:00:00+09:00",
+      "airedDate": "2026-11-16T23:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 8,
+      "episodeNumber": 8,
+      "title": "Episode 8",
+      "aired": "2026-11-23T23:00:00+09:00",
+      "airedDate": "2026-11-23T23:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ],
+  "specials_data": []
 }

@@ -9,10 +9,12 @@ import { MalClient } from "./malClient.js";
 import { toAnimeSummary } from "./mapper.js";
 import { Storage } from "./storage.js";
 import { syncLiveChart } from "./livechartScraper.js";
+import { SimklClient } from "./simklClient.js";
 
 export class Collector {
-  constructor(malClient = new MalClient()) {
+  constructor(malClient = new MalClient(), simklClient = new SimklClient()) {
     this.mal = malClient;
+    this.simkl = simklClient;
     this.isRunning = false;
   }
 
@@ -25,7 +27,7 @@ export class Collector {
     this.isRunning = true;
     const startTime = Date.now();
     console.log(`\n==================================================`);
-    console.log(`[Collector] Iniciando sincronización de MyAnimeList: ${new Date().toISOString()}`);
+    console.log(`[Collector] Iniciando sincronización de Catálogos (MAL + LiveChart + Simkl): ${new Date().toISOString()}`);
     console.log(`==================================================`);
 
     try {
@@ -109,8 +111,11 @@ export class Collector {
       await Storage.saveDiscover(discoverData);
       console.log(`[Collector] ✓ discover.json guardado con éxito (${discoverRows.length} secciones).`);
 
-      // 4. Pre-guardar metadata de todos los animes de las listas
-      console.log(`[Collector] Verificando metadata individual de animes recolectados...`);
+      // 4. Pre-guardar metadata de todos los animes de las listas y enriquecer con Simkl
+      console.log(`[Collector] Inicializando base de equivalencias e información de Simkl...`);
+      await this.simkl.init();
+
+      console.log(`[Collector] Verificando metadata individual y enriqueciendo con Simkl...`);
       const uniqueAnimeMap = new Map();
 
       // Recopilar animes de Home
@@ -126,13 +131,50 @@ export class Collector {
       }
 
       let savedDetailsCount = 0;
+      let simklEnrichedCount = 0;
+      let simklReusedCount = 0;
 
       for (const [id, summary] of uniqueAnimeMap) {
-        await Storage.saveAnimeDetails(id, summary);
+        let animeData = { ...summary };
+        const existing = await Storage.loadAnimeDetails(id);
+        const isFinished = (animeData.status || "").toLowerCase().includes("finish");
+
+        // Optimización: si ya existe en disco, está finalizado y ya tiene episodios, reutilizar
+        if (existing && isFinished && Array.isArray(existing.episodes_data) && existing.episodes_data.length > 0) {
+          animeData.simkl_id = existing.simkl_id || null;
+          animeData.episodes_data = existing.episodes_data;
+          animeData.specials_data = existing.specials_data || [];
+          simklReusedCount++;
+        } else {
+          // Obtener episodios y especiales de Simkl
+          try {
+            const simklId = await this.simkl.resolveSimklId(id);
+            if (simklId) {
+              animeData.simkl_id = simklId;
+              const { episodes, specials } = await this.simkl.fetchEpisodes(simklId);
+              animeData.episodes_data = episodes;
+              animeData.specials_data = specials;
+              if (episodes.length > 0 || specials.length > 0) {
+                simklEnrichedCount++;
+              }
+            } else {
+              animeData.simkl_id = existing?.simkl_id || null;
+              animeData.episodes_data = existing?.episodes_data || [];
+              animeData.specials_data = existing?.specials_data || [];
+            }
+          } catch (err) {
+            console.warn(`[Collector] No se pudieron sincronizar episodios Simkl para anime ${id}:`, err.message);
+            animeData.simkl_id = existing?.simkl_id || null;
+            animeData.episodes_data = existing?.episodes_data || [];
+            animeData.specials_data = existing?.specials_data || [];
+          }
+        }
+
+        await Storage.saveAnimeDetails(id, animeData);
         savedDetailsCount++;
       }
 
-      console.log(`[Collector] ✓ Metadata: ${savedDetailsCount} animes guardados/actualizados en data/anime/`);
+      console.log(`[Collector] ✓ Metadata: ${savedDetailsCount} animes guardados (${simklEnrichedCount} enriquecidos frescos con Simkl, ${simklReusedCount} reutilizados de caché).`);
 
       // 5. Sincronizar días anteriores de LiveChart (Aislado con try/catch)
       try {
@@ -148,6 +190,8 @@ export class Collector {
         durationSeconds: Number(durationSeconds),
         uniqueAnimesInCatalog: uniqueAnimeMap.size,
         totalCachedAnimeFiles: (await Storage.getStats()).cachedAnimeCount,
+        simklEnrichedCount,
+        simklReusedCount,
       };
       await Storage.saveStatus(statusData);
 

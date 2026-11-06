@@ -29,8 +29,8 @@
   "num_episodes": 12,
   "score": 7.31,
   "mean": 7.31,
-  "numListUsers": 35811,
-  "num_list_users": 35811,
+  "numListUsers": 35831,
+  "num_list_users": 35831,
   "genres": [
     {
       "id": 1,
@@ -102,5 +102,110 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": null,
+  "simkl_id": 2977040,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Let the Training Begin",
+      "aired": "2026-10-02T23:30:00+09:00",
+      "airedDate": "2026-10-02T23:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20896863ac7150e88c_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20896863ac7150e88c_w.webp",
+      "description": null
+    },
+    {
+      "episode": 2,
+      "episodeNumber": 2,
+      "title": "The Path to Growing Strong",
+      "aired": "2026-10-09T23:30:00+09:00",
+      "airedDate": "2026-10-09T23:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/208968676542c664f9_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/208968676542c664f9_w.webp",
+      "description": null
+    },
+    {
+      "episode": 3,
+      "episodeNumber": 3,
+      "title": "Purpose",
+      "aired": "2026-10-16T23:30:00+09:00",
+      "airedDate": "2026-10-16T23:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/2089686907aedccb6f_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/2089686907aedccb6f_w.webp",
+      "description": null
+    },
+    {
+      "episode": 4,
+      "episodeNumber": 4,
+      "title": "Episode 4",
+      "aired": "2026-10-23T23:30:00+09:00",
+      "airedDate": "2026-10-23T23:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/2093523920a264f7c1_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/2093523920a264f7c1_w.webp",
+      "description": null
+    },
+    {
+      "episode": 5,
+      "episodeNumber": 5,
+      "title": "Episode 5",
+      "aired": "2026-10-30T23:30:00+09:00",
+      "airedDate": "2026-10-30T23:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20983931c18d04700c_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20983931c18d04700c_w.webp",
+      "description": null
+    },
+    {
+      "episode": 6,
+      "episodeNumber": 6,
+      "title": "Episode 6",
+      "aired": "2026-11-06T23:30:00+09:00",
+      "airedDate": "2026-11-06T23:30:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 7,
+      "episodeNumber": 7,
+      "title": "Episode 7",
+      "aired": "2026-11-13T23:30:00+09:00",
+      "airedDate": "2026-11-13T23:30:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 8,
+      "episodeNumber": 8,
+      "title": "Episode 8",
+      "aired": "2026-11-20T23:30:00+09:00",
+      "airedDate": "2026-11-20T23:30:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ],
+  "specials_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Special Recap: Kyoto Arc",
+      "aired": "2026-09-30T23:30:00+09:00",
+      "airedDate": "2026-09-30T23:30:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 2,
+      "episodeNumber": 2,
+      "title": "Special Recap: Nerima Arc",
+      "aired": "2026-10-01T23:30:00+09:00",
+      "airedDate": "2026-10-01T23:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20976639ba29fb2fbc_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20976639ba29fb2fbc_w.webp",
+      "description": null
+    }
+  ]
 }

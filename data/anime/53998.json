@@ -31,8 +31,8 @@
   "num_episodes": 13,
   "score": 8.7,
   "mean": 8.7,
-  "numListUsers": 446360,
-  "num_list_users": 446360,
+  "numListUsers": 446392,
+  "num_list_users": 446392,
   "genres": [
     {
       "id": 1,
@@ -60,28 +60,28 @@
   "pictures": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1164/138058.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1164/138058l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1164/138058.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1164/138058l.webp"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1164/138058.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1164/138058l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1164/138058.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1164/138058l.jpg"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1164/138058.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1164/138058l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1164/138058.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1164/138058l.jpg"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1164/138058l.webp",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1164/138058l.webp",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1164/138058l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1164/138058l.webp",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1164/138058l.webp",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1164/138058l.webp",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1164/138058l.webp",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1164/138058l.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1164/138058l.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1164/138058l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1164/138058l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1164/138058l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1164/138058l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1164/138058l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1164/138058l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1164/138058l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1164/138058l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1164/138058l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1164/138058l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1164/138058l.jpg"
     }
   },
   "broadcast": {
@@ -104,5 +104,160 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": null,
+  "simkl_id": 2056522,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "The Last 9 Days",
+      "aired": "2023-07-08T23:00:00+09:00",
+      "airedDate": "2023-07-08T23:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/17570105f901ff0400_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/17570105f901ff0400_w.webp",
+      "description": "Ichigo prepares to leave the Royal Palace to return to the Seireitei but is stopped by Hyosube, who claims that Ichigo cannot defeat Yhwach as he is now."
+    },
+    {
+      "episode": 2,
+      "episodeNumber": 2,
+      "title": "Peace from Shadows",
+      "aired": "2023-07-15T23:00:00+09:00",
+      "airedDate": "2023-07-15T23:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/17570107ea8b1408ba_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/17570107ea8b1408ba_w.webp",
+      "description": "Yhwach sets his plan to end the world in nine days in motion by pulling the Seireitei into the Schatten Bereich for the Stern Ritter to invade."
+    },
+    {
+      "episode": 3,
+      "episodeNumber": 3,
+      "title": "The Fundamental Virulence",
+      "aired": "2023-07-22T23:00:00+09:00",
+      "airedDate": "2023-07-22T23:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/1757010957dd30a2ee_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/1757010957dd30a2ee_w.webp",
+      "description": "Mayuri receives a call from Urahara, who had stayed behind in Hueco Mundo to search for a way to reclaim everyone’s stolen Bankai. Urahara claims that he was able to come up with a solution based on the data gained from his earlier battle with Quilge."
+    },
+    {
+      "episode": 4,
+      "episodeNumber": 4,
+      "title": "Heart of Wolf",
+      "aired": "2023-07-29T23:00:00+09:00",
+      "airedDate": "2023-07-29T23:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/175701112544d0f068_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/175701112544d0f068_w.webp",
+      "description": "The tides of battle seemed to have turned after the captains reclaimed their stolen Bankai. However, the Stern Ritters release their Quincy Voll Stern Dich to drive the Soul Reapers deeper into a corner."
+    },
+    {
+      "episode": 5,
+      "episodeNumber": 5,
+      "title": "Rages at Ringside",
+      "aired": "2023-08-05T23:00:00+09:00",
+      "airedDate": "2023-08-05T23:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/175701130726d272a8_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/175701130726d272a8_w.webp",
+      "description": "Kensei Muguruma joins the battle against Masculine, who has already defeated Shuhei Hisagi, Ikkaku Madarame, and Yumichika Ayasegawa. However, Kensei is taken aback by how weak his opponent is."
+    },
+    {
+      "episode": 6,
+      "episodeNumber": 6,
+      "title": "The White Haze",
+      "aired": "2023-08-12T23:00:00+09:00",
+      "airedDate": "2023-08-12T23:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/175701152b1c72bed6_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/175701152b1c72bed6_w.webp",
+      "description": "A fearless Rukia swings her Sodenoshirayuki in battle as she takes on Äs Nödt."
+    },
+    {
+      "episode": 7,
+      "episodeNumber": 7,
+      "title": "I Am the Edge",
+      "aired": "2023-08-19T23:00:00+09:00",
+      "airedDate": "2023-08-19T23:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/175701171843a16c8e_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/175701171843a16c8e_w.webp",
+      "description": "Isane and Yachiru are treating the wounded Kensei and Rojuro when they are attacked by Gwenael, a Quincy who not only possesses the ability to disappear physically but can also erase his existence from the memory of his opponents."
+    },
+    {
+      "episode": 8,
+      "episodeNumber": 8,
+      "title": "The Headless Star",
+      "aired": "2023-08-26T23:00:00+09:00",
+      "airedDate": "2023-08-26T23:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/175701192b2bca5bbe_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/175701192b2bca5bbe_w.webp",
+      "description": "Kenpachi defeats Gremmy, but his moment of victory is cut short when he is suddenly struck by Candice’s thunderbolt attack. Meninas, Giselle, and Liltotto also join Candice to take down Kenpachi, who is considered to be a Special Threat."
+    },
+    {
+      "episode": 9,
+      "episodeNumber": 9,
+      "title": "Marching out the Zombies",
+      "aired": "2023-09-09T23:00:00+09:00",
+      "airedDate": "2023-09-09T23:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/17570121ca31643a00_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/17570121ca31643a00_w.webp",
+      "description": "Ichigo and the Soul Reapers try to stop Yhwach upon learning that his real target lies within the Royal Palace. However, their efforts are thwarted by Uryu, who stands in Ichigo’s way in order to allow Yhwach safe passage to the Royal Palace."
+    },
+    {
+      "episode": 10,
+      "episodeNumber": 10,
+      "title": "Marching out the Zombies 2",
+      "aired": "2023-09-16T23:00:00+09:00",
+      "airedDate": "2023-09-16T23:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/17570123cc1c677e78_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/17570123cc1c677e78_w.webp",
+      "description": "Ikkaku, Yumichika, and the Arrancars work together to fight off Giselle’s zombies. But the group is shocked when Giselle reveals her next pawn, who is none other than Captain Hitsugaya of Squad 10."
+    },
+    {
+      "episode": 11,
+      "episodeNumber": 11,
+      "title": "Too Early to Win Too Late to Know",
+      "aired": "2023-09-23T23:00:00+09:00",
+      "airedDate": "2023-09-23T23:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/17570125c7da6ba42b_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/17570125c7da6ba42b_w.webp",
+      "description": "Yhwach finally steps through the main entrance of the Royal Palace. Accompanied by Haschwalth and Uryu, the Quincy King is preparing to advance toward the Greater Palace when they are stopped by Senjumaru Shutara of Squad Zero."
+    },
+    {
+      "episode": 12,
+      "episodeNumber": 12,
+      "title": "The Master",
+      "aired": "2023-09-30T23:00:00+09:00",
+      "airedDate": "2023-09-30T23:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/17570127300ba4835f_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/17570127300ba4835f_w.webp",
+      "description": "Yhwach escapes from the cage surrounding Squad Zero`s fake Royal Palace to confront Hyosube, who is protecting the real Royal Palace."
+    },
+    {
+      "episode": 13,
+      "episodeNumber": 13,
+      "title": "Black",
+      "aired": "2023-09-30T23:00:00+09:00",
+      "airedDate": "2023-09-30T23:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/175701291f999dba59_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/175701291f999dba59_w.webp",
+      "description": "Yhwach performs Auswählen to bestow power to his fallen Royal Guards and activate their Voll Stern Dich forms. What follows is a fierce battle between the Royal Guards and Squad Zero."
+    }
+  ],
+  "specials_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "The Blood Warfare, Separation [Interlude]",
+      "aired": "2023-09-02T23:00:00+09:00",
+      "airedDate": "2023-09-02T23:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 2,
+      "episodeNumber": 2,
+      "title": "#11~#24 LOOKBACK (5:13)",
+      "aired": "2023-09-23T23:00:00+09:00",
+      "airedDate": "2023-09-23T23:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ]
 }

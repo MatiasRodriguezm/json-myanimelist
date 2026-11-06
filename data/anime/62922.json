@@ -32,8 +32,8 @@
   "num_episodes": null,
   "score": 6.27,
   "mean": 6.27,
-  "numListUsers": 31854,
-  "num_list_users": 31854,
+  "numListUsers": 31872,
+  "num_list_users": 31872,
   "genres": [
     {
       "id": 1,
@@ -97,5 +97,89 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": null,
+  "simkl_id": 2932220,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Kicked Out",
+      "aired": "2026-10-04T01:30:00+09:00",
+      "airedDate": "2026-10-04T01:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/2081514984164667ad_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/2081514984164667ad_w.webp",
+      "description": null
+    },
+    {
+      "episode": 2,
+      "episodeNumber": 2,
+      "title": "Contract",
+      "aired": "2026-10-11T01:30:00+09:00",
+      "airedDate": "2026-10-11T01:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20859237ca63c5ffb0_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20859237ca63c5ffb0_w.webp",
+      "description": null
+    },
+    {
+      "episode": 3,
+      "episodeNumber": 3,
+      "title": "Investment",
+      "aired": "2026-10-18T01:30:00+09:00",
+      "airedDate": "2026-10-18T01:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20903623270871a88c_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20903623270871a88c_w.webp",
+      "description": null
+    },
+    {
+      "episode": 4,
+      "episodeNumber": 4,
+      "title": "Powerful Foe",
+      "aired": "2026-10-25T01:30:00+09:00",
+      "airedDate": "2026-10-25T01:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/209489075991768bfb_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/209489075991768bfb_w.webp",
+      "description": null
+    },
+    {
+      "episode": 5,
+      "episodeNumber": 5,
+      "title": "Episode 5",
+      "aired": "2026-11-01T01:30:00+09:00",
+      "airedDate": "2026-11-01T01:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20996965ab09648620_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20996965ab09648620_w.webp",
+      "description": null
+    },
+    {
+      "episode": 6,
+      "episodeNumber": 6,
+      "title": "Episode 6",
+      "aired": "2026-11-08T01:30:00+09:00",
+      "airedDate": "2026-11-08T01:30:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 7,
+      "episodeNumber": 7,
+      "title": "Episode 7",
+      "aired": "2026-11-15T01:30:00+09:00",
+      "airedDate": "2026-11-15T01:30:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 8,
+      "episodeNumber": 8,
+      "title": "Episode 8",
+      "aired": "2026-11-22T01:30:00+09:00",
+      "airedDate": "2026-11-22T01:30:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ],
+  "specials_data": []
 }

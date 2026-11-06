@@ -29,10 +29,10 @@
   },
   "episodes": 10,
   "num_episodes": 10,
-  "score": 8.18,
-  "mean": 8.18,
-  "numListUsers": 207503,
-  "num_list_users": 207503,
+  "score": 8.17,
+  "mean": 8.17,
+  "numListUsers": 207680,
+  "num_list_users": 207680,
   "genres": [
     {
       "id": 1,
@@ -93,5 +93,109 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": null,
+  "simkl_id": 2830474,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Last Chance for a Slow Dance",
+      "aired": "2026-10-20T00:00:00+09:00",
+      "airedDate": "2026-10-20T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/209230472014faab15_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/209230472014faab15_w.webp",
+      "description": null
+    },
+    {
+      "episode": 2,
+      "episodeNumber": 2,
+      "title": "Give Me Another Day",
+      "aired": "2026-10-20T00:00:00+09:00",
+      "airedDate": "2026-10-20T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20923049b4161a66eb_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20923049b4161a66eb_w.webp",
+      "description": null
+    },
+    {
+      "episode": 3,
+      "episodeNumber": 3,
+      "title": "0+2=1",
+      "aired": "2026-10-20T00:00:00+09:00",
+      "airedDate": "2026-10-20T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20923051f085339f0c_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20923051f085339f0c_w.webp",
+      "description": null
+    },
+    {
+      "episode": 4,
+      "episodeNumber": 4,
+      "title": "Someone That I Used to Know",
+      "aired": "2026-10-20T00:00:00+09:00",
+      "airedDate": "2026-10-20T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20923053ee44e50c25_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20923053ee44e50c25_w.webp",
+      "description": null
+    },
+    {
+      "episode": 5,
+      "episodeNumber": 5,
+      "title": "Fades (Pass the Distance)",
+      "aired": "2026-10-20T00:00:00+09:00",
+      "airedDate": "2026-10-20T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/209230557c3c5ab139_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/209230557c3c5ab139_w.webp",
+      "description": null
+    },
+    {
+      "episode": 6,
+      "episodeNumber": 6,
+      "title": "Everything Hate",
+      "aired": "2026-10-20T00:00:00+09:00",
+      "airedDate": "2026-10-20T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20923057386b896c58_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20923057386b896c58_w.webp",
+      "description": null
+    },
+    {
+      "episode": 7,
+      "episodeNumber": 7,
+      "title": "To the Depths with You",
+      "aired": "2026-10-20T00:00:00+09:00",
+      "airedDate": "2026-10-20T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/209230594e7b2aa9c3_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/209230594e7b2aa9c3_w.webp",
+      "description": null
+    },
+    {
+      "episode": 8,
+      "episodeNumber": 8,
+      "title": "Serce",
+      "aired": "2026-10-20T00:00:00+09:00",
+      "airedDate": "2026-10-20T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20923061980321b7ed_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20923061980321b7ed_w.webp",
+      "description": null
+    },
+    {
+      "episode": 9,
+      "episodeNumber": 9,
+      "title": "Strictly Reserved for You",
+      "aired": "2026-10-20T00:00:00+09:00",
+      "airedDate": "2026-10-20T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/209230638e84aea9df_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/209230638e84aea9df_w.webp",
+      "description": null
+    },
+    {
+      "episode": 10,
+      "episodeNumber": 10,
+      "title": "Then Everyone Went Home",
+      "aired": "2026-10-20T00:00:00+09:00",
+      "airedDate": "2026-10-20T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20923065d7cf3303d9_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20923065d7cf3303d9_w.webp",
+      "description": null
+    }
+  ],
+  "specials_data": []
 }

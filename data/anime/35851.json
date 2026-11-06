@@ -32,8 +32,8 @@
   "num_episodes": 1,
   "score": 8.4,
   "mean": 8.4,
-  "numListUsers": 508146,
-  "num_list_users": 508146,
+  "numListUsers": 508159,
+  "num_list_users": 508159,
   "genres": [
     {
       "id": 8,
@@ -90,5 +90,40 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": null,
+  "simkl_id": 699043,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Complete Movie",
+      "aired": "2018-02-24T00:00:00+09:00",
+      "airedDate": "2018-02-24T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/78/7873380e09e151101_w.webp",
+      "imageUrl": "https://simkl.in/episodes/78/7873380e09e151101_w.webp",
+      "description": "Though only 15, Maquia knows she will live for centuries without aging past adolescence. She belongs to the Iorph, a clan of ageless beings just like her. Maquia`s elders warn her not to fall in love with anyone outside their realm, unless she wishes to encounter true loneliness in the end. But fate pushes Maquia out into the mortal world one night, when an invading territory separates her from the clan. There she discovers an orphaned baby, Ariel, and takes him in as her own child. From this point, Maquia will suffer extreme heartbreak in the name of motherhood, as she watches Ariel grow and seeks to reconnect with her lost Iorph friends, all torn apart by the cruel world of Mesate."
+    }
+  ],
+  "specials_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Making of",
+      "aired": "2018-10-26T00:00:00+09:00",
+      "airedDate": "2018-10-26T00:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 2,
+      "episodeNumber": 2,
+      "title": "Storyboard",
+      "aired": "2018-10-26T00:00:00+09:00",
+      "airedDate": "2018-10-26T00:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ]
 }

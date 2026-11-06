@@ -101,5 +101,50 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": null,
+  "simkl_id": 2498112,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Movie 1",
+      "aired": "2025-07-18T00:00:00+09:00",
+      "airedDate": "2025-07-18T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/204603256bd7a7bdbb_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/204603256bd7a7bdbb_w.webp",
+      "description": null
+    },
+    {
+      "episode": 2,
+      "episodeNumber": 2,
+      "title": "Movie 2",
+      "aired": true,
+      "airedDate": true,
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 3,
+      "episodeNumber": 3,
+      "title": "Movie 3",
+      "aired": true,
+      "airedDate": true,
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ],
+  "specials_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Chapter 1 x TOHO Cinemas: Collaboration Manner Course",
+      "aired": "2025-06-20T00:00:00+09:00",
+      "airedDate": "2025-06-20T00:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ]
 }

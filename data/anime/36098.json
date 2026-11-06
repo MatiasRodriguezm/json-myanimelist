@@ -32,8 +32,8 @@
   "num_episodes": 1,
   "score": 8.55,
   "mean": 8.55,
-  "numListUsers": 1151726,
-  "num_list_users": 1151726,
+  "numListUsers": 1151760,
+  "num_list_users": 1151760,
   "genres": [
     {
       "id": 8,
@@ -94,5 +94,30 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": null,
+  "simkl_id": 708497,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Complete Movie",
+      "aired": "2018-09-01T00:00:00+09:00",
+      "airedDate": "2018-09-01T00:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ],
+  "specials_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Sumika \"Fanfare\" Music Video",
+      "aired": "2018-08-22T00:00:00+09:00",
+      "airedDate": "2018-08-22T00:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ]
 }

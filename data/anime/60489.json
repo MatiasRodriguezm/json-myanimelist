@@ -29,8 +29,8 @@
   "num_episodes": 6,
   "score": 8.73,
   "mean": 8.73,
-  "numListUsers": 364260,
-  "num_list_users": 364260,
+  "numListUsers": 364299,
+  "num_list_users": 364299,
   "genres": [
     {
       "id": 8,
@@ -99,5 +99,69 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": null,
+  "simkl_id": 2656626,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "To You in 2016",
+      "aired": "2025-06-28T00:00:00+09:00",
+      "airedDate": "2025-06-28T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/18/18097277d60a3ac13b_w.webp",
+      "imageUrl": "https://simkl.in/episodes/18/18097277d60a3ac13b_w.webp",
+      "description": "Shizuka lives a painful life until things start to take a sudden turn when she meets an alien named Takopi."
+    },
+    {
+      "episode": 2,
+      "episodeNumber": 2,
+      "title": "Takopi's Salvation",
+      "aired": "2025-07-05T00:00:00+09:00",
+      "airedDate": "2025-07-05T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/18/18148473dcafbbead6_w.webp",
+      "imageUrl": "https://simkl.in/episodes/18/18148473dcafbbead6_w.webp",
+      "description": "Takopi makes various attempts to help Shizuka, but things don`t seem to work in his favor."
+    },
+    {
+      "episode": 3,
+      "episodeNumber": 3,
+      "title": "Takopi's Confession",
+      "aired": "2025-07-12T00:00:00+09:00",
+      "airedDate": "2025-07-12T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/18/1817117340c49bb511_w.webp",
+      "imageUrl": "https://simkl.in/episodes/18/1817117340c49bb511_w.webp",
+      "description": "Takopi realizes something important while covering up the crime with Shizuka and Naoki."
+    },
+    {
+      "episode": 4,
+      "episodeNumber": 4,
+      "title": "Azuma-kun's Salvation",
+      "aired": "2025-07-19T00:00:00+09:00",
+      "airedDate": "2025-07-19T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/18/182133118f9d6d732a_w.webp",
+      "imageUrl": "https://simkl.in/episodes/18/182133118f9d6d732a_w.webp",
+      "description": "Naoki struggles between his conscience and his desire to help Shizuka."
+    },
+    {
+      "episode": 5,
+      "episodeNumber": 5,
+      "title": "To You in 2022",
+      "aired": "2025-07-26T00:00:00+09:00",
+      "airedDate": "2025-07-26T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/18/182522158c55c6c52a_w.webp",
+      "imageUrl": "https://simkl.in/episodes/18/182522158c55c6c52a_w.webp",
+      "description": "Shizuka goes to Tokyo, and Takopi remembers something very important that happened in the past."
+    },
+    {
+      "episode": 6,
+      "episodeNumber": 6,
+      "title": "To All of You in 2016",
+      "aired": "2025-08-02T00:00:00+09:00",
+      "airedDate": "2025-08-02T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/18/182898273d845790a2_w.webp",
+      "imageUrl": "https://simkl.in/episodes/18/182898273d845790a2_w.webp",
+      "description": "Takopi makes an important decision that will save not only Shizuka but also Marina and Naoki."
+    }
+  ],
+  "specials_data": []
 }

@@ -29,8 +29,8 @@
   "num_episodes": 1,
   "score": 8.63,
   "mean": 8.63,
-  "numListUsers": 68572,
-  "num_list_users": 68572,
+  "numListUsers": 68580,
+  "num_list_users": 68580,
   "genres": [
     {
       "id": 51,
@@ -95,5 +95,19 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": null,
+  "simkl_id": 2333110,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Complete Movie",
+      "aired": "2024-05-24T00:00:00+09:00",
+      "airedDate": "2024-05-24T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/18/185302811599aec9eb_w.webp",
+      "imageUrl": "https://simkl.in/episodes/18/185302811599aec9eb_w.webp",
+      "description": null
+    }
+  ],
+  "specials_data": []
 }

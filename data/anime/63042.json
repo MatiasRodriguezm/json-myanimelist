@@ -31,8 +31,8 @@
   "num_episodes": null,
   "score": 7.67,
   "mean": 7.67,
-  "numListUsers": 9338,
-  "num_list_users": 9338,
+  "numListUsers": 9341,
+  "num_list_users": 9341,
   "genres": [
     {
       "id": 1,
@@ -108,5 +108,449 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": null,
+  "simkl_id": 2948532,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Debut! Star Detective Precure!",
+      "aired": "2026-02-01T08:30:00+09:00",
+      "airedDate": "2026-02-01T08:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/19/1947003768792262f8_w.webp",
+      "imageUrl": "https://simkl.in/episodes/19/1947003768792262f8_w.webp",
+      "description": "On Anna Akechi’s 14th birthday, she puts on a pendant and meets a fairy named Pochitan."
+    },
+    {
+      "episode": 2,
+      "episodeNumber": 2,
+      "title": "Introducing the Genius, Jett-senpai!",
+      "aired": "2026-02-08T08:30:00+09:00",
+      "airedDate": "2026-02-08T08:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/19/1949905945fa484349_w.webp",
+      "imageUrl": "https://simkl.in/episodes/19/1949905945fa484349_w.webp",
+      "description": "Mikuru takes Anna to the CUREtto Detective Agency."
+    },
+    {
+      "episode": 3,
+      "episodeNumber": 3,
+      "title": "Everyone Come to the Curetto Detective Agency!",
+      "aired": "2026-02-15T08:30:00+09:00",
+      "airedDate": "2026-02-15T08:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/19/19573145e645e081fa_w.webp",
+      "imageUrl": "https://simkl.in/episodes/19/19573145e645e081fa_w.webp",
+      "description": "As black petals flutter and anxiety spreads throughout town, Uta proposes holding a concert and inviting a “special guest.”"
+    },
+    {
+      "episode": 4,
+      "episodeNumber": 4,
+      "title": "Exciting! Our First Client!",
+      "aired": "2026-02-22T08:30:00+09:00",
+      "airedDate": "2026-02-22T08:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/19/195731473cb9153f11_w.webp",
+      "imageUrl": "https://simkl.in/episodes/19/195731473cb9153f11_w.webp",
+      "description": "The CUREtto Detective Agency gets its first client."
+    },
+    {
+      "episode": 5,
+      "episodeNumber": 5,
+      "title": "Star Detectives in Trouble?",
+      "aired": "2026-03-01T08:30:00+09:00",
+      "airedDate": "2026-03-01T08:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/19/1961308133ea978c8d_w.webp",
+      "imageUrl": "https://simkl.in/episodes/19/1961308133ea978c8d_w.webp",
+      "description": "Anna goes to Makoto Mirai Academy, Mikuru’s school, to give Mikuru an umbrella, but then she meets a troubled woman named Mariko who is looking for her little sister Keiko. Meanwhile, Mikuru is asked by the school’s Chairwoman to solve a case involving a ghost in the high school."
+    },
+    {
+      "episode": 6,
+      "episodeNumber": 6,
+      "title": "Miraculous Pre-Kit Mirror Loupe!",
+      "aired": "2026-03-08T08:30:00+09:00",
+      "airedDate": "2026-03-08T08:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/19/196526877438573195_w.webp",
+      "imageUrl": "https://simkl.in/episodes/19/196526877438573195_w.webp",
+      "description": "Mikuru leaves the care of exhausted Pochitan to Anna and Jett-senpai."
+    },
+    {
+      "episode": 7,
+      "episodeNumber": 7,
+      "title": "Yikes! The School Is a Maze?",
+      "aired": "2026-03-15T08:30:00+09:00",
+      "airedDate": "2026-03-15T08:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/19/196915637babe8815a_w.webp",
+      "imageUrl": "https://simkl.in/episodes/19/196915637babe8815a_w.webp",
+      "description": "Anna transfers to Mikuru`s class at Makoto Mirai Academy. While surprised at the size of the campus, she and Mikuru find themselves lost in a puzzle maze created by Goemon."
+    },
+    {
+      "episode": 8,
+      "episodeNumber": 8,
+      "title": "Pretty Smiles at Pretty Holic!",
+      "aired": "2026-03-22T08:30:00+09:00",
+      "airedDate": "2026-03-22T08:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/19/19727729f895d3a512_w.webp",
+      "imageUrl": "https://simkl.in/episodes/19/19727729f895d3a512_w.webp",
+      "description": "Anna and Mikuru convince Jett-senpai to make merchandise from his Pre-Kit inventions and open a store."
+    },
+    {
+      "episode": 9,
+      "episodeNumber": 9,
+      "title": "Don't Make Assumptions!",
+      "aired": "2026-03-29T08:30:00+09:00",
+      "airedDate": "2026-03-29T08:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/19/19766151d2827066b0_w.webp",
+      "imageUrl": "https://simkl.in/episodes/19/19766151d2827066b0_w.webp",
+      "description": "A very popular actress, Shiruku Ieiri, comes to Makoto Mirai Academy to film a TV program which has her joining in on a play as a member of the drama club. But right before the performance a very special costume goes missing from the club office."
+    },
+    {
+      "episode": 10,
+      "episodeNumber": 10,
+      "title": "Solve the Mystery of the Painting!",
+      "aired": "2026-04-05T08:30:00+09:00",
+      "airedDate": "2026-04-05T08:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/19/19791817fedc054775_w.webp",
+      "imageUrl": "https://simkl.in/episodes/19/19791817fedc054775_w.webp",
+      "description": "A client comes to the CUREtto Detective Agency, asking them to help solve a mystery."
+    },
+    {
+      "episode": 11,
+      "episodeNumber": 11,
+      "title": "Cure Arcana Shadow Appears!",
+      "aired": "2026-04-12T08:30:00+09:00",
+      "airedDate": "2026-04-12T08:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/19/1983972597da674919_w.webp",
+      "imageUrl": "https://simkl.in/episodes/19/1983972597da674919_w.webp",
+      "description": "A calling card from the Phantom Thieves’ Guild is sent to the Hosho Art Museum. Anna and Mikuru arrive on the scene, there Luluka strikes a conversation with Anna while in the Starlight Princess display room."
+    },
+    {
+      "episode": 12,
+      "episodeNumber": 12,
+      "title": "The Secret of Cure Arcana Shadow!",
+      "aired": "2026-04-19T08:30:00+09:00",
+      "airedDate": "2026-04-19T08:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/19/1987490584010e8c36_w.webp",
+      "imageUrl": "https://simkl.in/episodes/19/1987490584010e8c36_w.webp",
+      "description": null
+    },
+    {
+      "episode": 13,
+      "episodeNumber": 13,
+      "title": "Star Detectives vs Thieves",
+      "aired": "2026-04-26T08:30:00+09:00",
+      "airedDate": "2026-04-26T08:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/19/19919075cc5615c698_w.webp",
+      "imageUrl": "https://simkl.in/episodes/19/19919075cc5615c698_w.webp",
+      "description": null
+    },
+    {
+      "episode": 14,
+      "episodeNumber": 14,
+      "title": "Pochitan's First Outing!",
+      "aired": "2026-05-03T08:30:00+09:00",
+      "airedDate": "2026-05-03T08:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/19/19935837f25ab1c211_w.webp",
+      "imageUrl": "https://simkl.in/episodes/19/19935837f25ab1c211_w.webp",
+      "description": null
+    },
+    {
+      "episode": 15,
+      "episodeNumber": 15,
+      "title": "The Secret of Luluka Moria",
+      "aired": "2026-05-10T08:30:00+09:00",
+      "airedDate": "2026-05-10T08:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/200050638b4818796b_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/200050638b4818796b_w.webp",
+      "description": null
+    },
+    {
+      "episode": 16,
+      "episodeNumber": 16,
+      "title": "Detective Ellie's Case Book?",
+      "aired": "2026-05-17T08:30:00+09:00",
+      "airedDate": "2026-05-17T08:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/2002217791c9b09be4_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/2002217791c9b09be4_w.webp",
+      "description": null
+    },
+    {
+      "episode": 17,
+      "episodeNumber": 17,
+      "title": "Memories with Mom",
+      "aired": "2026-05-24T08:30:00+09:00",
+      "airedDate": "2026-05-24T08:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/2004412702238bd675_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/2004412702238bd675_w.webp",
+      "description": null
+    },
+    {
+      "episode": 18,
+      "episodeNumber": 18,
+      "title": "Star Detectives Assemble",
+      "aired": "2026-05-31T08:30:00+09:00",
+      "airedDate": "2026-05-31T08:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20044129b49dc7b185_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20044129b49dc7b185_w.webp",
+      "description": null
+    },
+    {
+      "episode": 19,
+      "episodeNumber": 19,
+      "title": "Invitation to the Labyrinth Train?!",
+      "aired": "2026-06-07T08:30:00+09:00",
+      "airedDate": "2026-06-07T08:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20120613c84947902c_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20120613c84947902c_w.webp",
+      "description": null
+    },
+    {
+      "episode": 20,
+      "episodeNumber": 20,
+      "title": "Legend from a Certain Island!",
+      "aired": "2026-06-14T08:30:00+09:00",
+      "airedDate": "2026-06-14T08:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/201652898a8f3a4d51_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/201652898a8f3a4d51_w.webp",
+      "description": null
+    },
+    {
+      "episode": 21,
+      "episodeNumber": 21,
+      "title": "Detective Ellie's Case Book, Part 2?",
+      "aired": "2026-06-21T08:30:00+09:00",
+      "airedDate": "2026-06-21T08:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20205601cc9f3a5139_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20205601cc9f3a5139_w.webp",
+      "description": null
+    },
+    {
+      "episode": 22,
+      "episodeNumber": 22,
+      "title": "Shiruku's Resolve",
+      "aired": "2026-06-28T08:30:00+09:00",
+      "airedDate": "2026-06-28T08:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/202421793696a9bfd8_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/202421793696a9bfd8_w.webp",
+      "description": null
+    },
+    {
+      "episode": 23,
+      "episodeNumber": 23,
+      "title": "Kurea, Sleuthing, and Ice Cream!",
+      "aired": "2026-07-05T08:30:00+09:00",
+      "airedDate": "2026-07-05T08:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20303329c2c6acb588_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20303329c2c6acb588_w.webp",
+      "description": null
+    },
+    {
+      "episode": 24,
+      "episodeNumber": 24,
+      "title": "Case Closed with Rei!",
+      "aired": "2026-07-12T08:30:00+09:00",
+      "airedDate": "2026-07-12T08:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20318815704720bbf3_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20318815704720bbf3_w.webp",
+      "description": null
+    },
+    {
+      "episode": 25,
+      "episodeNumber": 25,
+      "title": "Cure Eclair's Identity",
+      "aired": "2026-07-19T08:30:00+09:00",
+      "airedDate": "2026-07-19T08:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20391643a789aa68d2_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20391643a789aa68d2_w.webp",
+      "description": null
+    },
+    {
+      "episode": 26,
+      "episodeNumber": 26,
+      "title": "Cure Eclair Returns!",
+      "aired": "2026-07-26T08:30:00+09:00",
+      "airedDate": "2026-07-26T08:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20391645c0618a3744_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20391645c0618a3744_w.webp",
+      "description": null
+    },
+    {
+      "episode": 27,
+      "episodeNumber": 27,
+      "title": "I'm a Star Detective Now!",
+      "aired": "2026-08-02T08:30:00+09:00",
+      "airedDate": "2026-08-02T08:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/204319616a95d3eb41_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/204319616a95d3eb41_w.webp",
+      "description": null
+    },
+    {
+      "episode": 28,
+      "episodeNumber": 28,
+      "title": "The Mysterious Thief Decchi Agein!",
+      "aired": "2026-08-09T08:30:00+09:00",
+      "airedDate": "2026-08-09T08:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20465299cd631e256f_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20465299cd631e256f_w.webp",
+      "description": null
+    },
+    {
+      "episode": 29,
+      "episodeNumber": 29,
+      "title": "The Duo's Past",
+      "aired": "2026-08-16T08:30:00+09:00",
+      "airedDate": "2026-08-16T08:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/205119153b27b52751_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/205119153b27b52751_w.webp",
+      "description": null
+    },
+    {
+      "episode": 30,
+      "episodeNumber": 30,
+      "title": "Eclipse Shadow",
+      "aired": "2026-08-23T08:30:00+09:00",
+      "airedDate": "2026-08-23T08:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20551403ca7ce5a8d5_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20551403ca7ce5a8d5_w.webp",
+      "description": null
+    },
+    {
+      "episode": 31,
+      "episodeNumber": 31,
+      "title": "Star Detective Cure Arcana",
+      "aired": "2026-08-30T08:30:00+09:00",
+      "airedDate": "2026-08-30T08:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/205962356057b0768b_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/205962356057b0768b_w.webp",
+      "description": null
+    },
+    {
+      "episode": 32,
+      "episodeNumber": 32,
+      "title": "I'm Back, Curetto Detective Agency",
+      "aired": "2026-09-06T08:30:00+09:00",
+      "airedDate": "2026-09-06T08:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20641455493d64e875_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20641455493d64e875_w.webp",
+      "description": null
+    },
+    {
+      "episode": 33,
+      "episodeNumber": 33,
+      "title": "The Path to Star Detective Starts with a Single Step",
+      "aired": "2026-09-13T08:30:00+09:00",
+      "airedDate": "2026-09-13T08:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20683339b883ed695a_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20683339b883ed695a_w.webp",
+      "description": null
+    },
+    {
+      "episode": 34,
+      "episodeNumber": 34,
+      "title": "Luluka and the Gold-Star Full Moon",
+      "aired": "2026-09-20T08:30:00+09:00",
+      "airedDate": "2026-09-20T08:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/207350299a0ce239c1_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/207350299a0ce239c1_w.webp",
+      "description": null
+    },
+    {
+      "episode": 35,
+      "episodeNumber": 35,
+      "title": "Love Detectives",
+      "aired": "2026-09-27T08:30:00+09:00",
+      "airedDate": "2026-09-27T08:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20774885b30dbd3856_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20774885b30dbd3856_w.webp",
+      "description": null
+    },
+    {
+      "episode": 36,
+      "episodeNumber": 36,
+      "title": "The Gold Medal of Trials",
+      "aired": "2026-10-04T08:30:00+09:00",
+      "airedDate": "2026-10-04T08:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20834343f6610d6369_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20834343f6610d6369_w.webp",
+      "description": null
+    },
+    {
+      "episode": 37,
+      "episodeNumber": 37,
+      "title": "Usonoir and Nijee's Tea Time",
+      "aired": "2026-10-11T08:30:00+09:00",
+      "airedDate": "2026-10-11T08:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20865617f9db3a4a54_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20865617f9db3a4a54_w.webp",
+      "description": null
+    },
+    {
+      "episode": 38,
+      "episodeNumber": 38,
+      "title": "Kurea's Answer",
+      "aired": "2026-10-18T08:30:00+09:00",
+      "airedDate": "2026-10-18T08:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/2091011172f3243b49_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/2091011172f3243b49_w.webp",
+      "description": null
+    },
+    {
+      "episode": 39,
+      "episodeNumber": 39,
+      "title": "An Ojamajo Halloween",
+      "aired": "2026-10-25T08:30:00+09:00",
+      "airedDate": "2026-10-25T08:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20956369f475b5954d_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20956369f475b5954d_w.webp",
+      "description": null
+    },
+    {
+      "episode": 40,
+      "episodeNumber": 40,
+      "title": "Luluka's Answer",
+      "aired": "2026-11-08T08:30:00+09:00",
+      "airedDate": "2026-11-08T08:30:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 41,
+      "episodeNumber": 41,
+      "title": "Episode 41",
+      "aired": "2026-11-15T08:30:00+09:00",
+      "airedDate": "2026-11-15T08:30:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 42,
+      "episodeNumber": 42,
+      "title": "Episode 42",
+      "aired": "2026-11-22T08:30:00+09:00",
+      "airedDate": "2026-11-22T08:30:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 43,
+      "episodeNumber": 43,
+      "title": "Episode 43",
+      "aired": "2026-11-29T08:30:00+09:00",
+      "airedDate": "2026-11-29T08:30:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 44,
+      "episodeNumber": 44,
+      "title": "Episode 44",
+      "aired": "2026-12-06T08:30:00+09:00",
+      "airedDate": "2026-12-06T08:30:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ],
+  "specials_data": []
 }

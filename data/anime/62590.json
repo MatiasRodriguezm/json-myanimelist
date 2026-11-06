@@ -29,8 +29,8 @@
   "num_episodes": 13,
   "score": 6.87,
   "mean": 6.87,
-  "numListUsers": 7790,
-  "num_list_users": 7790,
+  "numListUsers": 7794,
+  "num_list_users": 7794,
   "genres": [
     {
       "id": 1,
@@ -102,5 +102,69 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": null,
+  "simkl_id": 2890902,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Piano Lesson 1",
+      "aired": "2026-10-04T23:45:00+09:00",
+      "airedDate": "2026-10-04T23:45:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20909311dcacbce477_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20909311dcacbce477_w.webp",
+      "description": null
+    },
+    {
+      "episode": 2,
+      "episodeNumber": 2,
+      "title": "Piano Lesson 2",
+      "aired": "2026-10-11T23:45:00+09:00",
+      "airedDate": "2026-10-11T23:45:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20909313f1e0b52f29_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20909313f1e0b52f29_w.webp",
+      "description": null
+    },
+    {
+      "episode": 3,
+      "episodeNumber": 3,
+      "title": "Episode 3",
+      "aired": "2026-10-18T23:45:00+09:00",
+      "airedDate": "2026-10-18T23:45:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20909315055e5214d3_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20909315055e5214d3_w.webp",
+      "description": null
+    },
+    {
+      "episode": 4,
+      "episodeNumber": 4,
+      "title": "Episode 4",
+      "aired": "2026-10-25T23:45:00+09:00",
+      "airedDate": "2026-10-25T23:45:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20949179d3cb7ff173_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20949179d3cb7ff173_w.webp",
+      "description": null
+    },
+    {
+      "episode": 5,
+      "episodeNumber": 5,
+      "title": "Episode 5",
+      "aired": "2026-11-01T23:45:00+09:00",
+      "airedDate": "2026-11-01T23:45:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/209909811156b41704_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/209909811156b41704_w.webp",
+      "description": null
+    },
+    {
+      "episode": 6,
+      "episodeNumber": 6,
+      "title": "Episode 6",
+      "aired": "2026-11-08T23:45:00+09:00",
+      "airedDate": "2026-11-08T23:45:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ],
+  "specials_data": []
 }

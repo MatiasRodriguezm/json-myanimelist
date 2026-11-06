@@ -52,28 +52,28 @@
   "pictures": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1485/141208.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1485/141208l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1485/141208.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1485/141208l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1485/141208.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1485/141208l.webp",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1485/141208.webp",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1485/141208l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1485/141208.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1485/141208l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1485/141208.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1485/141208l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1485/141208l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1485/141208l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1485/141208l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1485/141208l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1485/141208l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1485/141208l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1485/141208l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1485/141208l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1485/141208l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1485/141208l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1485/141208l.webp",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1485/141208l.webp",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1485/141208l.webp",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1485/141208l.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1485/141208l.webp",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1485/141208l.webp",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1485/141208l.webp",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1485/141208l.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1485/141208l.webp",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1485/141208l.webp"
     }
   },
   "broadcast": null,
@@ -89,5 +89,90 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": null,
+  "simkl_id": 40605,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Complete Movie",
+      "aired": "1988-04-16T00:00:00+09:00",
+      "airedDate": "1988-04-16T00:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ],
+  "specials_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Roger Ebert Review",
+      "aired": true,
+      "airedDate": true,
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 2,
+      "episodeNumber": 2,
+      "title": "Historical Perspective",
+      "aired": true,
+      "airedDate": true,
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 3,
+      "episodeNumber": 3,
+      "title": "Locations, Then and Now",
+      "aired": true,
+      "airedDate": true,
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 4,
+      "episodeNumber": 4,
+      "title": "Storyboards",
+      "aired": true,
+      "airedDate": true,
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 5,
+      "episodeNumber": 5,
+      "title": "Isao Takahata Interview",
+      "aired": true,
+      "airedDate": true,
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 6,
+      "episodeNumber": 6,
+      "title": "Art Gallery",
+      "aired": true,
+      "airedDate": true,
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 7,
+      "episodeNumber": 7,
+      "title": "DVNR Featurette",
+      "aired": true,
+      "airedDate": true,
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ]
 }

@@ -31,8 +31,8 @@
   "num_episodes": 1,
   "score": 8.56,
   "mean": 8.56,
-  "numListUsers": 878664,
-  "num_list_users": 878664,
+  "numListUsers": 878671,
+  "num_list_users": 878671,
   "genres": [
     {
       "id": 46,
@@ -97,5 +97,90 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": null,
+  "simkl_id": 36920,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Complete Movie",
+      "aired": "2012-06-25T00:00:00+09:00",
+      "airedDate": "2012-06-25T00:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": "Wolf Children is the story of Hana, a woman who falls in love with a Wolf Man and gives birth to his half-human, half-wolf children. After her lover’s tragic death, Hana moves to a rural town and attempts to build a life for her children."
+    }
+  ],
+  "specials_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "ZIP! Collaborative Content Work-in-progress Collection",
+      "aired": "2013-02-20T00:00:00+09:00",
+      "airedDate": "2013-02-20T00:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 2,
+      "episodeNumber": 2,
+      "title": "Countdown",
+      "aired": true,
+      "airedDate": true,
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 3,
+      "episodeNumber": 3,
+      "title": "Special 1",
+      "aired": true,
+      "airedDate": true,
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 4,
+      "episodeNumber": 4,
+      "title": "Special 2",
+      "aired": true,
+      "airedDate": true,
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 5,
+      "episodeNumber": 5,
+      "title": "Special 3",
+      "aired": true,
+      "airedDate": true,
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 6,
+      "episodeNumber": 6,
+      "title": "Event Footage Collection",
+      "aired": true,
+      "airedDate": true,
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 7,
+      "episodeNumber": 7,
+      "title": "Anime Sanctuaries",
+      "aired": true,
+      "airedDate": true,
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": "http://www3.nhk.or.jp/nhkworld/en/shows/3025074/"
+    }
+  ]
 }

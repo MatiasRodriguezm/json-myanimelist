@@ -29,8 +29,8 @@
   "num_episodes": null,
   "score": 6.62,
   "mean": 6.62,
-  "numListUsers": 14504,
-  "num_list_users": 14504,
+  "numListUsers": 14505,
+  "num_list_users": 14505,
   "genres": [
     {
       "id": 1,
@@ -110,5 +110,89 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": null,
+  "simkl_id": 2086928,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Episode 1",
+      "aired": "2026-10-06T02:00:00+09:00",
+      "airedDate": "2026-10-06T02:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/208275617419ec3779_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/208275617419ec3779_w.webp",
+      "description": null
+    },
+    {
+      "episode": 2,
+      "episodeNumber": 2,
+      "title": "Episode 2",
+      "aired": "2026-10-13T02:00:00+09:00",
+      "airedDate": "2026-10-13T02:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20871371a4dd7de456_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20871371a4dd7de456_w.webp",
+      "description": null
+    },
+    {
+      "episode": 3,
+      "episodeNumber": 3,
+      "title": "Episode 3",
+      "aired": "2026-10-20T02:00:00+09:00",
+      "airedDate": "2026-10-20T02:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20916323706a44fe8e_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20916323706a44fe8e_w.webp",
+      "description": null
+    },
+    {
+      "episode": 4,
+      "episodeNumber": 4,
+      "title": "Episode 4",
+      "aired": "2026-10-27T02:00:00+09:00",
+      "airedDate": "2026-10-27T02:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/209620115f75b91942_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/209620115f75b91942_w.webp",
+      "description": null
+    },
+    {
+      "episode": 5,
+      "episodeNumber": 5,
+      "title": "Episode 5",
+      "aired": "2026-11-03T02:00:00+09:00",
+      "airedDate": "2026-11-03T02:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/21/210090796b80ddb228_w.webp",
+      "imageUrl": "https://simkl.in/episodes/21/210090796b80ddb228_w.webp",
+      "description": null
+    },
+    {
+      "episode": 6,
+      "episodeNumber": 6,
+      "title": "Episode 6",
+      "aired": "2026-11-10T02:00:00+09:00",
+      "airedDate": "2026-11-10T02:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 7,
+      "episodeNumber": 7,
+      "title": "Episode 7",
+      "aired": "2026-11-17T02:00:00+09:00",
+      "airedDate": "2026-11-17T02:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 8,
+      "episodeNumber": 8,
+      "title": "Episode 8",
+      "aired": "2026-11-24T02:00:00+09:00",
+      "airedDate": "2026-11-24T02:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ],
+  "specials_data": []
 }

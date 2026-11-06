@@ -31,8 +31,8 @@
   "num_episodes": 12,
   "score": 8.98,
   "mean": 8.98,
-  "numListUsers": 354750,
-  "num_list_users": 354750,
+  "numListUsers": 354752,
+  "num_list_users": 354752,
   "genres": [
     {
       "id": 1,
@@ -76,28 +76,28 @@
   "pictures": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/3/83528.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/83528l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/3/83528.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/3/83528l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/83528.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/83528l.webp",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/3/83528.webp",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/3/83528l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/3/83528.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/3/83528l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/3/83528.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/3/83528l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/3/83528l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/3/83528l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/3/83528l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/3/83528l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/83528l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/3/83528l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/3/83528l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/3/83528l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/83528l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/3/83528l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/3/83528l.webp",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/3/83528l.webp",
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/83528l.webp",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/3/83528l.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/83528l.webp",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/3/83528l.webp",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/3/83528l.webp",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/3/83528l.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/83528l.webp",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/3/83528l.webp"
     }
   },
   "broadcast": {
@@ -120,5 +120,129 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": null,
+  "simkl_id": 619029,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Battle on Rakuyo Arc: Part 1 - The Monster and the Monster's Child",
+      "aired": "2017-01-09T01:35:00+09:00",
+      "airedDate": "2017-01-09T01:35:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/17574035f374019d25_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/17574035f374019d25_w.webp",
+      "description": "Gintama kicks off its late-night airing with Odd Jobs \"hiding\" in Akiba. That`s when they get a visitor with a request..."
+    },
+    {
+      "episode": 2,
+      "episodeNumber": 2,
+      "title": "Battle on Rakuyo Arc: Part 2 - Leave Letter",
+      "aired": "2017-01-16T01:35:00+09:00",
+      "airedDate": "2017-01-16T01:35:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/17574037c36f822c15_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/17574037c36f822c15_w.webp",
+      "description": "When they learn the truth about the current situation, the gang realize that they must go into battle. And so, too, does Kagura."
+    },
+    {
+      "episode": 3,
+      "episodeNumber": 3,
+      "title": "Battle on Rakuyo Arc: Part 3 - The Song of Samurai",
+      "aired": "2017-01-23T01:35:00+09:00",
+      "airedDate": "2017-01-23T01:35:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/17574039cc22d8c7d2_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/17574039cc22d8c7d2_w.webp",
+      "description": "Tensions heighten on Rakuyo as several factions arrive on the scene and confront one another."
+    },
+    {
+      "episode": 4,
+      "episodeNumber": 4,
+      "title": "Battle on Rakuyo Arc: Part 4 - Zura",
+      "aired": "2017-01-30T01:35:00+09:00",
+      "airedDate": "2017-01-30T01:35:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/175740410e21d19c1b_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/175740410e21d19c1b_w.webp",
+      "description": "Kotarou`s nickname is \"Kotarou the Runner\".  He`s a master of defensive battles, and minimizing losses when things turn bad.  His quiet, unassuming nature and the way he fights make him less likely to stand out than his other friends.  However, if he was put up against a real foe, someone who he couldn`t beat unless he gave up on running, you might just learn his true name..."
+    },
+    {
+      "episode": 5,
+      "episodeNumber": 5,
+      "title": "Battle on Rakuyo Arc: Part 5 - The Two Fools",
+      "aired": "2017-02-06T01:35:00+09:00",
+      "airedDate": "2017-02-06T01:35:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/17574043ee3c61291b_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/17574043ee3c61291b_w.webp",
+      "description": "The Kaientai fleet comes under attack from the Harusame division without any troops. Can Sakamoto, Mutsu, and Nobunobu get out of this alive?"
+    },
+    {
+      "episode": 6,
+      "episodeNumber": 6,
+      "title": "Battle on Rakuyo Arc: Part 6 - Ten Years",
+      "aired": "2017-02-13T01:35:00+09:00",
+      "airedDate": "2017-02-13T01:35:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/1757404514ad5f0d39_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/1757404514ad5f0d39_w.webp",
+      "description": "Gintoki comes across a man who has waited over a decade to exact his revenge on him. The question is, does he really have the right guy?"
+    },
+    {
+      "episode": 7,
+      "episodeNumber": 7,
+      "title": "Battle on Rakuyo Arc: Part 7 - Paths",
+      "aired": "2017-02-20T01:35:00+09:00",
+      "airedDate": "2017-02-20T01:35:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/1757404704517167de_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/1757404704517167de_w.webp",
+      "description": "The Joi Elite Four come together once again at last, with explosive results."
+    },
+    {
+      "episode": 8,
+      "episodeNumber": 8,
+      "title": "Battle on Rakuyo Arc: Part 8 - Master of Kouan",
+      "aired": "2017-02-27T01:35:00+09:00",
+      "airedDate": "2017-02-27T01:35:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/17574049cddb2f0ee2_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/17574049cddb2f0ee2_w.webp",
+      "description": "As Umibozu faces Utsuro, he recalls the strongest enemy he has ever faced: someone you can find in every corner of the universe."
+    },
+    {
+      "episode": 9,
+      "episodeNumber": 9,
+      "title": "Battle on Rakuyo Arc: Part 9 - The Lost Rabbit",
+      "aired": "2017-03-06T01:35:00+09:00",
+      "airedDate": "2017-03-06T01:35:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/17574051092547c3d6_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/17574051092547c3d6_w.webp",
+      "description": "As the battle between Utsuro and Umibozu comes to a head, Kamui reflects on his childhood, where he had to deal with an increasingly sick mother and an increasingly absent father."
+    },
+    {
+      "episode": 10,
+      "episodeNumber": 10,
+      "title": "Battle on Rakuyo Arc: Part 10 - Siblings",
+      "aired": "2017-03-13T01:35:00+09:00",
+      "airedDate": "2017-03-13T01:35:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/1757405320c06e4849_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/1757405320c06e4849_w.webp",
+      "description": "Kagura, Gintoki, and Shinpachi take a stand against Kamui, hoping to bring his true self back."
+    },
+    {
+      "episode": 11,
+      "episodeNumber": 11,
+      "title": "Battle on Rakuyo Arc: Part 11 - First Student",
+      "aired": "2017-03-20T01:35:00+09:00",
+      "airedDate": "2017-03-20T01:35:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/17574055b3ffe16619_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/17574055b3ffe16619_w.webp",
+      "description": "As the gang comes to grips with the aftermath of the battle with Kamui, a familiar figure appears before Takasugi and the Kiheitai."
+    },
+    {
+      "episode": 12,
+      "episodeNumber": 12,
+      "title": "Battle on Rakuyo Arc: Part 12 - Hope",
+      "aired": "2017-03-27T01:35:00+09:00",
+      "airedDate": "2017-03-27T01:35:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/17574057f45802f7aa_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/17574057f45802f7aa_w.webp",
+      "description": "Oboro tells the students of Shoka Sonjuku the truth about Utsuro and his ultimate goal."
+    }
+  ],
+  "specials_data": []
 }

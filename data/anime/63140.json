@@ -29,8 +29,8 @@
   "num_episodes": null,
   "score": 7.49,
   "mean": 7.49,
-  "numListUsers": 41887,
-  "num_list_users": 41887,
+  "numListUsers": 41904,
+  "num_list_users": 41904,
   "genres": [
     {
       "id": 1,
@@ -102,5 +102,89 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": null,
+  "simkl_id": 2970782,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Mobile Capital Blutgang Has Appeared!",
+      "aired": "2026-09-26T22:30:00+09:00",
+      "airedDate": "2026-09-26T22:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/208590498fd10fbb7e_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/208590498fd10fbb7e_w.webp",
+      "description": null
+    },
+    {
+      "episode": 2,
+      "episodeNumber": 2,
+      "title": "A Rampant Scorpius Appeared!",
+      "aired": "2026-10-03T22:30:00+09:00",
+      "airedDate": "2026-10-03T22:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/208590510dcb229e47_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/208590510dcb229e47_w.webp",
+      "description": null
+    },
+    {
+      "episode": 3,
+      "episodeNumber": 3,
+      "title": "A Flying, Handsome Man Appeared!",
+      "aired": "2026-10-10T22:30:00+09:00",
+      "airedDate": "2026-10-10T22:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20859053e8cc742e3c_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20859053e8cc742e3c_w.webp",
+      "description": null
+    },
+    {
+      "episode": 4,
+      "episodeNumber": 4,
+      "title": "The Blacksmith King Mizar Appeared!",
+      "aired": "2026-10-17T22:30:00+09:00",
+      "airedDate": "2026-10-17T22:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/2090339987be3414e4_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/2090339987be3414e4_w.webp",
+      "description": null
+    },
+    {
+      "episode": 5,
+      "episodeNumber": 5,
+      "title": "The Hunting Festival Contestants Have Appeared!",
+      "aired": "2026-10-24T22:30:00+09:00",
+      "airedDate": "2026-10-24T22:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/209487072694a3878c_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/209487072694a3878c_w.webp",
+      "description": null
+    },
+    {
+      "episode": 6,
+      "episodeNumber": 6,
+      "title": "Episode 6",
+      "aired": "2026-10-31T22:30:00+09:00",
+      "airedDate": "2026-10-31T22:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/2099675157cc8c5796_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/2099675157cc8c5796_w.webp",
+      "description": null
+    },
+    {
+      "episode": 7,
+      "episodeNumber": 7,
+      "title": "Episode 7",
+      "aired": "2026-11-07T22:30:00+09:00",
+      "airedDate": "2026-11-07T22:30:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 8,
+      "episodeNumber": 8,
+      "title": "Episode 8",
+      "aired": "2026-11-14T22:30:00+09:00",
+      "airedDate": "2026-11-14T22:30:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ],
+  "specials_data": []
 }

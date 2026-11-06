@@ -32,8 +32,8 @@
   "num_episodes": 1,
   "score": 8.89,
   "mean": 8.89,
-  "numListUsers": 265885,
-  "num_list_users": 265885,
+  "numListUsers": 265886,
+  "num_list_users": 265886,
   "genres": [
     {
       "id": 1,
@@ -118,5 +118,50 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": null,
+  "simkl_id": 44970,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Complete Movie",
+      "aired": "2013-07-06T00:00:00+09:00",
+      "airedDate": "2013-07-06T00:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ],
+  "specials_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Special Movie Report",
+      "aired": "2013-07-02T00:00:00+09:00",
+      "airedDate": "2013-07-02T00:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 2,
+      "episodeNumber": 2,
+      "title": "Gintama the Movie: Silver Screen Eve Festival (2013)",
+      "aired": "2013-06-29T00:00:00+09:00",
+      "airedDate": "2013-06-29T00:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": "Features clip where Yorozuya discusses 8 years of Gintama, live dubbing performance by the series` seiyuu to clips from Gintama (2006) and Gintama`: Enchousen (2012), live band performances and more."
+    },
+    {
+      "episode": 3,
+      "episodeNumber": 3,
+      "title": "Yorozuya Shinsengumi Talk Battle!!",
+      "aired": true,
+      "airedDate": true,
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ]
 }

@@ -31,8 +31,8 @@
   "num_episodes": 1,
   "score": null,
   "mean": null,
-  "numListUsers": 15120,
-  "num_list_users": 15120,
+  "numListUsers": 15122,
+  "num_list_users": 15122,
   "genres": [
     {
       "id": 52,
@@ -93,5 +93,330 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": null,
+  "simkl_id": 612371,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Movie 1",
+      "aired": "2017-12-09T00:00:00+09:00",
+      "airedDate": "2017-12-09T00:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 2,
+      "episodeNumber": 2,
+      "title": "Movie 2",
+      "aired": "2019-06-15T00:00:00+09:00",
+      "airedDate": "2019-06-15T00:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 3,
+      "episodeNumber": 3,
+      "title": "Movie 3",
+      "aired": "2021-03-26T00:00:00+09:00",
+      "airedDate": "2021-03-26T00:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 4,
+      "episodeNumber": 4,
+      "title": "Movie 4",
+      "aired": "2023-10-06T00:00:00+09:00",
+      "airedDate": "2023-10-06T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/1758743170499b872f_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/1758743170499b872f_w.webp",
+      "description": null
+    },
+    {
+      "episode": 5,
+      "episodeNumber": 5,
+      "title": "Movie 5",
+      "aired": "2026-10-09T00:00:00+09:00",
+      "airedDate": "2026-10-09T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20754877e41b81985b_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20754877e41b81985b_w.webp",
+      "description": null
+    },
+    {
+      "episode": 6,
+      "episodeNumber": 6,
+      "title": "Movie 6",
+      "aired": true,
+      "airedDate": true,
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ],
+  "specials_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Taiyaki War!",
+      "aired": "2020-02-27T00:00:00+09:00",
+      "airedDate": "2020-02-27T00:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 2,
+      "episodeNumber": 2,
+      "title": "Daikon War!",
+      "aired": "2021-12-24T00:00:00+09:00",
+      "airedDate": "2021-12-24T00:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 3,
+      "episodeNumber": 3,
+      "title": "Captain War!",
+      "aired": "2024-03-27T00:00:00+09:00",
+      "airedDate": "2024-03-27T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/17587433884af2691c_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/17587433884af2691c_w.webp",
+      "description": null
+    },
+    {
+      "episode": 4,
+      "episodeNumber": 4,
+      "title": "The Humble Akiyama Yukari's Tank Course: Tank Origin Chapter",
+      "aired": "2018-03-23T00:00:00+09:00",
+      "airedDate": "2018-03-23T00:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 5,
+      "episodeNumber": 5,
+      "title": "The Humble Akiyama Yukari's Tank Course: Glorious French Tanks Chapter",
+      "aired": "2020-02-27T00:00:00+09:00",
+      "airedDate": "2020-02-27T00:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 6,
+      "episodeNumber": 6,
+      "title": "The Humble Akiyama Yukari's Tank Course: Unique Amphibious Tanks Chapter",
+      "aired": "2021-12-24T00:00:00+09:00",
+      "airedDate": "2021-12-24T00:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 7,
+      "episodeNumber": 7,
+      "title": "The Humble Akiyama Yukari's Tank Course: The Tanks of Small and Medium Countries",
+      "aired": "2024-03-27T00:00:00+09:00",
+      "airedDate": "2024-03-27T00:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 8,
+      "episodeNumber": 8,
+      "title": "Understanding Girls und Panzer das Finale in 1 Minute!",
+      "aired": "2019-06-15T00:00:00+09:00",
+      "airedDate": "2019-06-15T00:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 9,
+      "episodeNumber": 9,
+      "title": "Wash the Panzer",
+      "aired": true,
+      "airedDate": true,
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 10,
+      "episodeNumber": 10,
+      "title": "Episode 1 Memorial TV Special Program",
+      "aired": true,
+      "airedDate": true,
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 11,
+      "episodeNumber": 11,
+      "title": "Episode 1 Theater Greeting Event",
+      "aired": true,
+      "airedDate": true,
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 12,
+      "episodeNumber": 12,
+      "title": "Oarai-Machi Aki Matsuri 2017 Event",
+      "aired": true,
+      "airedDate": true,
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 13,
+      "episodeNumber": 13,
+      "title": "Film Producer Trip To The Bovington Tank Museum",
+      "aired": true,
+      "airedDate": true,
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 14,
+      "episodeNumber": 14,
+      "title": "Nakamura Sakura Military Exercise Report",
+      "aired": true,
+      "airedDate": true,
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 15,
+      "episodeNumber": 15,
+      "title": "The Twenty First Oarai Ankou Matsuri Event",
+      "aired": true,
+      "airedDate": true,
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 16,
+      "episodeNumber": 16,
+      "title": "Kaba-San Team In Kochi-Ken Event Summary Video",
+      "aired": true,
+      "airedDate": true,
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 17,
+      "episodeNumber": 17,
+      "title": "Girls Panzer Dance Movie Sen-Sha Making Video",
+      "aired": true,
+      "airedDate": true,
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 18,
+      "episodeNumber": 18,
+      "title": "Amazon Tokuten BD EP.03 Ankou Team Cast Conference",
+      "aired": true,
+      "airedDate": true,
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 19,
+      "episodeNumber": 19,
+      "title": "2018-08-25 Oarai Hoshizora Screening Event",
+      "aired": true,
+      "airedDate": true,
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 20,
+      "episodeNumber": 20,
+      "title": "Kaba-san Team in Kochi + 2019-01-26 Theater Greeting Event",
+      "aired": true,
+      "airedDate": true,
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 21,
+      "episodeNumber": 21,
+      "title": "2019-09-01 EP.02 Theater Greeting Event",
+      "aired": true,
+      "airedDate": true,
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 22,
+      "episodeNumber": 22,
+      "title": "2019-11-17 The 23rd Oarai Ankou Matsuri",
+      "aired": true,
+      "airedDate": true,
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 23,
+      "episodeNumber": 23,
+      "title": "2019-12-14 Cast Talk Show in Terrace The Garden Mito",
+      "aired": true,
+      "airedDate": true,
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 24,
+      "episodeNumber": 24,
+      "title": "2019-12-15 Talk Show in Aqua AWorld Oarai",
+      "aired": true,
+      "airedDate": true,
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 25,
+      "episodeNumber": 25,
+      "title": "2020-11-15 Live Network Broadcasting Special Program",
+      "aired": true,
+      "airedDate": true,
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 29,
+      "episodeNumber": 29,
+      "title": "2021-03-27 Episode 03 Opening Memorial Theater Greeting Event",
+      "aired": true,
+      "airedDate": true,
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ]
 }

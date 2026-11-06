@@ -33,8 +33,8 @@
   "num_episodes": 3,
   "score": 8.11,
   "mean": 8.11,
-  "numListUsers": 148332,
-  "num_list_users": 148332,
+  "numListUsers": 148334,
+  "num_list_users": 148334,
   "genres": [
     {
       "id": 2,
@@ -58,28 +58,28 @@
   "pictures": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/8/75974.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/75974l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/8/75974.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/8/75974l.webp"
+      "image_url": "https://cdn.myanimelist.net/images/anime/8/75974.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/75974l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/8/75974.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/8/75974l.jpg"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/8/75974.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/8/75974l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/8/75974.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/75974l.jpg"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/8/75974l.webp",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/8/75974l.webp",
-      "image_url": "https://cdn.myanimelist.net/images/anime/8/75974l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/8/75974l.webp",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/8/75974l.webp",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/8/75974l.webp",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/8/75974l.webp",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/8/75974l.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/75974l.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/8/75974l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/8/75974l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/8/75974l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/8/75974l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/8/75974l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/8/75974l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/8/75974l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/8/75974l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/8/75974l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/75974l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/8/75974l.jpg"
     }
   },
   "broadcast": null,
@@ -95,5 +95,50 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": null,
+  "simkl_id": 481964,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "On That Back",
+      "aired": "2015-09-18T00:00:00+09:00",
+      "airedDate": "2015-09-18T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/175425475b8784cd4b_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/175425475b8784cd4b_w.webp",
+      "description": null
+    },
+    {
+      "episode": 2,
+      "episodeNumber": 2,
+      "title": "The Yellow Dragon Zeno's Past, Part 1: The Starting Dragon",
+      "aired": "2016-08-19T00:00:00+09:00",
+      "airedDate": "2016-08-19T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/17542549a31b363a68_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/17542549a31b363a68_w.webp",
+      "description": null
+    },
+    {
+      "episode": 3,
+      "episodeNumber": 3,
+      "title": "The Yellow Dragon Zeno's Past, Part 2: The Red Star Rises",
+      "aired": "2016-12-19T00:00:00+09:00",
+      "airedDate": "2016-12-19T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/17542551d9d70c2a8c_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/17542551d9d70c2a8c_w.webp",
+      "description": null
+    }
+  ],
+  "specials_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Good Night for Today",
+      "aired": "2016-12-19T00:00:00+09:00",
+      "airedDate": "2016-12-19T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/175425537ef73aae13_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/175425537ef73aae13_w.webp",
+      "description": null
+    }
+  ]
 }

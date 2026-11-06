@@ -29,8 +29,8 @@
   "num_episodes": 25,
   "score": 7.46,
   "mean": 7.46,
-  "numListUsers": 42776,
-  "num_list_users": 42776,
+  "numListUsers": 42803,
+  "num_list_users": 42803,
   "genres": [
     {
       "id": 10,
@@ -94,5 +94,210 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": null,
+  "simkl_id": 3007186,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Rising from the Darkness",
+      "aired": "2026-10-06T21:25:00+09:00",
+      "airedDate": "2026-10-06T21:25:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/208276437008ebaf94_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/208276437008ebaf94_w.webp",
+      "description": null
+    },
+    {
+      "episode": 2,
+      "episodeNumber": 2,
+      "title": "A Job in the Royal Capital",
+      "aired": "2026-10-13T21:25:00+09:00",
+      "airedDate": "2026-10-13T21:25:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/208772775a7157be5d_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/208772775a7157be5d_w.webp",
+      "description": null
+    },
+    {
+      "episode": 3,
+      "episodeNumber": 3,
+      "title": "After the Curtain Falls",
+      "aired": "2026-10-20T21:25:00+09:00",
+      "airedDate": "2026-10-20T21:25:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/2091666930ad1ebe82_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/2091666930ad1ebe82_w.webp",
+      "description": null
+    },
+    {
+      "episode": 4,
+      "episodeNumber": 4,
+      "title": "The Girls Meet",
+      "aired": "2026-10-27T21:25:00+09:00",
+      "airedDate": "2026-10-27T21:25:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20956363ea724246ad_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20956363ea724246ad_w.webp",
+      "description": null
+    },
+    {
+      "episode": 5,
+      "episodeNumber": 5,
+      "title": "Project Magivision Kickoff Meeting",
+      "aired": "2026-11-03T21:25:00+09:00",
+      "airedDate": "2026-11-03T21:25:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/21/210096635da568c0d7_w.webp",
+      "imageUrl": "https://simkl.in/episodes/21/210096635da568c0d7_w.webp",
+      "description": null
+    },
+    {
+      "episode": 6,
+      "episodeNumber": 6,
+      "title": "The Academy Martial Arts Tournament Is On!",
+      "aired": "2026-11-10T21:25:00+09:00",
+      "airedDate": "2026-11-10T21:25:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/21/2101579180ff7c4ab0_w.webp",
+      "imageUrl": "https://simkl.in/episodes/21/2101579180ff7c4ab0_w.webp",
+      "description": null
+    },
+    {
+      "episode": 7,
+      "episodeNumber": 7,
+      "title": "Episode 7",
+      "aired": "2026-11-17T21:25:00+09:00",
+      "airedDate": "2026-11-17T21:25:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 8,
+      "episodeNumber": 8,
+      "title": "Episode 8",
+      "aired": "2026-11-24T21:25:00+09:00",
+      "airedDate": "2026-11-24T21:25:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ],
+  "specials_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Rinokis Saw 1",
+      "aired": "2026-10-07T21:25:00+09:00",
+      "airedDate": "2026-10-07T21:25:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 2,
+      "episodeNumber": 2,
+      "title": "Rinokis Saw 2",
+      "aired": "2026-10-14T21:25:00+09:00",
+      "airedDate": "2026-10-14T21:25:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 3,
+      "episodeNumber": 3,
+      "title": "Rinokis Saw 3",
+      "aired": "2026-10-21T21:25:00+09:00",
+      "airedDate": "2026-10-21T21:25:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 4,
+      "episodeNumber": 4,
+      "title": "Rinokis Saw 4",
+      "aired": "2026-10-28T21:25:00+09:00",
+      "airedDate": "2026-10-28T21:25:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 5,
+      "episodeNumber": 5,
+      "title": "Rinokis Saw 5",
+      "aired": "2026-11-04T21:25:00+09:00",
+      "airedDate": "2026-11-04T21:25:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 6,
+      "episodeNumber": 6,
+      "title": "Rinokis Saw 6",
+      "aired": "2026-11-11T21:25:00+09:00",
+      "airedDate": "2026-11-11T21:25:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 7,
+      "episodeNumber": 7,
+      "title": "Rinokis Saw 7",
+      "aired": "2026-11-18T21:25:00+09:00",
+      "airedDate": "2026-11-18T21:25:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 8,
+      "episodeNumber": 8,
+      "title": "Rinokis Saw 8",
+      "aired": "2026-11-25T21:25:00+09:00",
+      "airedDate": "2026-11-25T21:25:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 26,
+      "episodeNumber": 26,
+      "title": "Mini Anime 1",
+      "aired": "2026-10-15T21:25:00+09:00",
+      "airedDate": "2026-10-15T21:25:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 27,
+      "episodeNumber": 27,
+      "title": "Mini Anime 2",
+      "aired": "2026-10-28T21:25:00+09:00",
+      "airedDate": "2026-10-28T21:25:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 39,
+      "episodeNumber": 39,
+      "title": "Episode S39",
+      "aired": "2026-10-02T21:25:00+09:00",
+      "airedDate": "2026-10-02T21:25:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 40,
+      "episodeNumber": 40,
+      "title": "Episode S40",
+      "aired": "2026-11-07T21:25:00+09:00",
+      "airedDate": "2026-11-07T21:25:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ]
 }

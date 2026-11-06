@@ -29,8 +29,8 @@
   "num_episodes": 2,
   "score": 8.04,
   "mean": 8.04,
-  "numListUsers": 276553,
-  "num_list_users": 276553,
+  "numListUsers": 276556,
+  "num_list_users": 276556,
   "genres": [
     {
       "id": 1,
@@ -103,5 +103,29 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": null,
+  "simkl_id": 48974,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Volume 1",
+      "aired": "2014-10-25T00:00:00+09:00",
+      "airedDate": "2014-10-25T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/175411574421443fd8_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/175411574421443fd8_w.webp",
+      "description": null
+    },
+    {
+      "episode": 2,
+      "episodeNumber": 2,
+      "title": "Volume 2",
+      "aired": "2014-11-15T00:00:00+09:00",
+      "airedDate": "2014-11-15T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/175411591ab6a5ddea_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/175411591ab6a5ddea_w.webp",
+      "description": null
+    }
+  ],
+  "specials_data": []
 }

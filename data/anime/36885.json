@@ -32,8 +32,8 @@
   "num_episodes": 1,
   "score": 8.41,
   "mean": 8.41,
-  "numListUsers": 208697,
-  "num_list_users": 208697,
+  "numListUsers": 208701,
+  "num_list_users": 208701,
   "genres": [
     {
       "id": 4,
@@ -102,5 +102,50 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": null,
+  "simkl_id": 743283,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Complete Movie",
+      "aired": "2019-10-26T00:00:00+09:00",
+      "airedDate": "2019-10-26T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/1754220707a24ba2c4_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/1754220707a24ba2c4_w.webp",
+      "description": null
+    }
+  ],
+  "specials_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "In-show Game \"Saenai Heroine no Sodatekata\" PV",
+      "aired": "2020-09-23T00:00:00+09:00",
+      "airedDate": "2020-09-23T00:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 2,
+      "episodeNumber": 2,
+      "title": "Last Cut's Recording Voices (Full Version)",
+      "aired": "2020-09-23T00:00:00+09:00",
+      "airedDate": "2020-09-23T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/70/70496669e5b971c14_w.webp",
+      "imageUrl": "https://simkl.in/episodes/70/70496669e5b971c14_w.webp",
+      "description": null
+    },
+    {
+      "episode": 3,
+      "episodeNumber": 3,
+      "title": "Opening Day Stage Greeting",
+      "aired": "2020-09-23T00:00:00+09:00",
+      "airedDate": "2020-09-23T00:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ]
 }

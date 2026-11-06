@@ -29,8 +29,8 @@
   "num_episodes": 1,
   "score": 8.39,
   "mean": 8.39,
-  "numListUsers": 52151,
-  "num_list_users": 52151,
+  "numListUsers": 52154,
+  "num_list_users": 52154,
   "genres": [
     {
       "id": 8,
@@ -91,5 +91,50 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": null,
+  "simkl_id": 1758943,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Complete Movie",
+      "aired": "2023-02-17T00:00:00+09:00",
+      "airedDate": "2023-02-17T00:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ],
+  "specials_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Completion Preview Screening Event",
+      "aired": true,
+      "airedDate": true,
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 2,
+      "episodeNumber": 2,
+      "title": "First Day Theater Greeting Event",
+      "aired": true,
+      "airedDate": true,
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 3,
+      "episodeNumber": 3,
+      "title": "Q&A with Hiromi",
+      "aired": true,
+      "airedDate": true,
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ]
 }

@@ -29,8 +29,8 @@
   "num_episodes": 3,
   "score": 7.89,
   "mean": 7.89,
-  "numListUsers": 32097,
-  "num_list_users": 32097,
+  "numListUsers": 32098,
+  "num_list_users": 32098,
   "genres": [
     {
       "id": 63,
@@ -95,5 +95,80 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": null,
+  "simkl_id": 469616,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "To You, Who I Wanted to Meet...",
+      "aired": "2015-09-26T14:45:00+09:00",
+      "airedDate": "2015-09-26T14:45:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 2,
+      "episodeNumber": 2,
+      "title": "That Warm Goodbye...",
+      "aired": "2015-09-26T14:45:00+09:00",
+      "airedDate": "2015-09-26T14:45:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 3,
+      "episodeNumber": 3,
+      "title": "To That Far Away Future...",
+      "aired": "2015-09-26T14:45:00+09:00",
+      "airedDate": "2015-09-26T14:45:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ],
+  "specials_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "The Days of Those Pairs...: Azusa B. McLaren Chapter",
+      "aired": "2016-03-23T14:45:00+09:00",
+      "airedDate": "2016-03-23T14:45:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 2,
+      "episodeNumber": 2,
+      "title": "The Days of Those Pairs...: Anya Dostoyevskaya Chapter",
+      "aired": "2016-03-23T14:45:00+09:00",
+      "airedDate": "2016-03-23T14:45:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 3,
+      "episodeNumber": 3,
+      "title": "After That Party...: Aino Ai Chapter",
+      "aired": "2016-06-24T14:45:00+09:00",
+      "airedDate": "2016-06-24T14:45:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 4,
+      "episodeNumber": 4,
+      "title": "We Who Are Happy and Embarrassed...: Boys Chapter",
+      "aired": "2016-06-24T14:45:00+09:00",
+      "airedDate": "2016-06-24T14:45:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ]
 }

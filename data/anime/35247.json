@@ -31,8 +31,8 @@
   "num_episodes": 7,
   "score": 8.86,
   "mean": 8.86,
-  "numListUsers": 444442,
-  "num_list_users": 444442,
+  "numListUsers": 444445,
+  "num_list_users": 444445,
   "genres": [
     {
       "id": 4,
@@ -97,5 +97,50 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": null,
+  "simkl_id": 671791,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Mayoi Hell / Hitagi Rendezvous",
+      "aired": "2017-08-12T00:00:00+09:00",
+      "airedDate": "2017-08-12T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/60/60540516e3acda82c_w.webp",
+      "imageUrl": "https://simkl.in/episodes/60/60540516e3acda82c_w.webp",
+      "description": "March 13th, the morning of college entrance exams. Koyomi Araragi has died due to Izuko Gaen. Mayoi Hachikuji was waiting for him in the afterlife, and guides him towards an unknown destination. Koyomi would have never thought that this certain someone would be waiting for him there."
+    },
+    {
+      "episode": 2,
+      "episodeNumber": 2,
+      "title": "Ougi Dark",
+      "aired": "2017-08-13T00:00:00+09:00",
+      "airedDate": "2017-08-13T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/60/6054049365eb63b28_w.webp",
+      "imageUrl": "https://simkl.in/episodes/60/6054049365eb63b28_w.webp",
+      "description": "March 13th, the morning of college entrance exams. Koyomi Araragi has died due to Izuko Gaen. Mayoi Hachikuji was waiting for him in the afterlife, and guides him towards an unknown destination. Koyomi would have never thought that this certain someone would be waiting for him there."
+    }
+  ],
+  "specials_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Episode S1",
+      "aired": "2017-08-12T00:00:00+09:00",
+      "airedDate": "2017-08-12T00:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 2,
+      "episodeNumber": 2,
+      "title": "Episode S2",
+      "aired": "2017-08-13T00:00:00+09:00",
+      "airedDate": "2017-08-13T00:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ]
 }

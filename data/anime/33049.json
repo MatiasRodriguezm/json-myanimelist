@@ -31,8 +31,8 @@
   "num_episodes": 1,
   "score": 8.45,
   "mean": 8.45,
-  "numListUsers": 448975,
-  "num_list_users": 448975,
+  "numListUsers": 448981,
+  "num_list_users": 448981,
   "genres": [
     {
       "id": 1,
@@ -93,5 +93,170 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": null,
+  "simkl_id": 52810,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Presage Flower",
+      "aired": "2017-10-14T00:00:00+09:00",
+      "airedDate": "2017-10-14T00:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 2,
+      "episodeNumber": 2,
+      "title": "Lost Butterfly",
+      "aired": "2019-01-12T00:00:00+09:00",
+      "airedDate": "2019-01-12T00:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 3,
+      "episodeNumber": 3,
+      "title": "Spring Song",
+      "aired": "2020-08-15T00:00:00+09:00",
+      "airedDate": "2020-08-15T00:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ],
+  "specials_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Making of Fate/stay night the Movie Heaven's Feel I. presage flower English Dub",
+      "aired": true,
+      "airedDate": true,
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 2,
+      "episodeNumber": 2,
+      "title": "Pressage Flower: Special Program Before Showing in Theater",
+      "aired": true,
+      "airedDate": true,
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 3,
+      "episodeNumber": 3,
+      "title": "Pressage Flower: Premiere Event & Theater Greeting",
+      "aired": true,
+      "airedDate": true,
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 4,
+      "episodeNumber": 4,
+      "title": "Pressage Flower: Matou Family Theater Greeting",
+      "aired": true,
+      "airedDate": true,
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 5,
+      "episodeNumber": 5,
+      "title": "Pressage Flower: Shitaya Noriko Interview",
+      "aired": true,
+      "airedDate": true,
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 6,
+      "episodeNumber": 6,
+      "title": "Lost Butterfly: First Day Stage Greeting with Premier Event - Before Screening",
+      "aired": true,
+      "airedDate": true,
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 7,
+      "episodeNumber": 7,
+      "title": "Lost Butterfly: First Day Stage Greeting with Premier Event - After Screening",
+      "aired": true,
+      "airedDate": true,
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 8,
+      "episodeNumber": 8,
+      "title": "Lost Butterfly: Kobe Stage Greeting",
+      "aired": true,
+      "airedDate": true,
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 9,
+      "episodeNumber": 9,
+      "title": "Lost Butterfly: Special Performance - Three factions Stage Greeting",
+      "aired": true,
+      "airedDate": true,
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 10,
+      "episodeNumber": 10,
+      "title": "Spring Song: First Day Stage Greeting",
+      "aired": true,
+      "airedDate": true,
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 11,
+      "episodeNumber": 11,
+      "title": "Spring Song: Big Hit Gratitude Stage Greeting",
+      "aired": true,
+      "airedDate": true,
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 12,
+      "episodeNumber": 12,
+      "title": "Spring Song: Release Commemoration Special Program",
+      "aired": true,
+      "airedDate": true,
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 13,
+      "episodeNumber": 13,
+      "title": "Fate/stay night 20th Anniversary \"Fate/stay night [Heaven's Feel]\" Concert",
+      "aired": "2025-03-19T00:00:00+09:00",
+      "airedDate": "2025-03-19T00:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ]
 }

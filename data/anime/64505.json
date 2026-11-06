@@ -29,8 +29,8 @@
   "num_episodes": 12,
   "score": 7.87,
   "mean": 7.87,
-  "numListUsers": 10477,
-  "num_list_users": 10477,
+  "numListUsers": 10483,
+  "num_list_users": 10483,
   "genres": [
     {
       "id": 23,
@@ -102,5 +102,100 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": null,
+  "simkl_id": 3167240,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "The Night Before the Finals",
+      "aired": "2026-10-11T17:30:00+09:00",
+      "airedDate": "2026-10-11T17:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/2090406571ea65b3ac_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/2090406571ea65b3ac_w.webp",
+      "description": null
+    },
+    {
+      "episode": 2,
+      "episodeNumber": 2,
+      "title": "Full Throttle",
+      "aired": "2026-10-18T17:30:00+09:00",
+      "airedDate": "2026-10-18T17:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20904067355dd7f04a_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20904067355dd7f04a_w.webp",
+      "description": null
+    },
+    {
+      "episode": 3,
+      "episodeNumber": 3,
+      "title": "Transmission",
+      "aired": "2026-10-25T17:30:00+09:00",
+      "airedDate": "2026-10-25T17:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/2094914524c098805c_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/2094914524c098805c_w.webp",
+      "description": null
+    },
+    {
+      "episode": 4,
+      "episodeNumber": 4,
+      "title": "The Taste of Victory",
+      "aired": "2026-11-01T17:30:00+09:00",
+      "airedDate": "2026-11-01T17:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20990945e13e0e1619_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20990945e13e0e1619_w.webp",
+      "description": null
+    },
+    {
+      "episode": 5,
+      "episodeNumber": 5,
+      "title": "Showdown of the Determined",
+      "aired": "2026-11-08T17:30:00+09:00",
+      "airedDate": "2026-11-08T17:30:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 6,
+      "episodeNumber": 6,
+      "title": "Episode 6",
+      "aired": "2026-11-15T17:30:00+09:00",
+      "airedDate": "2026-11-15T17:30:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 7,
+      "episodeNumber": 7,
+      "title": "Episode 7",
+      "aired": "2026-11-22T17:30:00+09:00",
+      "airedDate": "2026-11-22T17:30:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 8,
+      "episodeNumber": 8,
+      "title": "Episode 8",
+      "aired": "2026-11-29T17:30:00+09:00",
+      "airedDate": "2026-11-29T17:30:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ],
+  "specials_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Episode S1",
+      "aired": "2026-10-04T17:30:00+09:00",
+      "airedDate": "2026-10-04T17:30:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ]
 }

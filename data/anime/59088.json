@@ -29,8 +29,8 @@
   "num_episodes": 13,
   "score": 7.8,
   "mean": 7.8,
-  "numListUsers": 85024,
-  "num_list_users": 85024,
+  "numListUsers": 85055,
+  "num_list_users": 85055,
   "genres": [
     {
       "id": 1,
@@ -62,28 +62,28 @@
   "pictures": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1321/159720.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1321/159720l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1321/159720.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1321/159720l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1321/159720.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1321/159720l.webp",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1321/159720.webp",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1321/159720l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1321/159720.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1321/159720l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1321/159720.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1321/159720l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1321/159720l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1321/159720l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1321/159720l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1321/159720l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1321/159720l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1321/159720l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1321/159720l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1321/159720l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1321/159720l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1321/159720l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1321/159720l.webp",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1321/159720l.webp",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1321/159720l.webp",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1321/159720l.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1321/159720l.webp",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1321/159720l.webp",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1321/159720l.webp",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1321/159720l.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1321/159720l.webp",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1321/159720l.webp"
     }
   },
   "broadcast": {
@@ -106,5 +106,89 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": null,
+  "simkl_id": 2493596,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Break Up",
+      "aired": "2026-10-03T01:23:00+09:00",
+      "airedDate": "2026-10-03T01:23:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/2078671952c2878f3e_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/2078671952c2878f3e_w.webp",
+      "description": null
+    },
+    {
+      "episode": 2,
+      "episodeNumber": 2,
+      "title": "Episode 2",
+      "aired": "2026-10-10T01:23:00+09:00",
+      "airedDate": "2026-10-10T01:23:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/208482855fe0e8d4b1_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/208482855fe0e8d4b1_w.webp",
+      "description": null
+    },
+    {
+      "episode": 3,
+      "episodeNumber": 3,
+      "title": "Episode 3",
+      "aired": "2026-10-17T01:23:00+09:00",
+      "airedDate": "2026-10-17T01:23:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20877431e060bda142_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20877431e060bda142_w.webp",
+      "description": null
+    },
+    {
+      "episode": 4,
+      "episodeNumber": 4,
+      "title": "Episode 4",
+      "aired": "2026-10-24T01:23:00+09:00",
+      "airedDate": "2026-10-24T01:23:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/209229857c7d8b5490_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/209229857c7d8b5490_w.webp",
+      "description": null
+    },
+    {
+      "episode": 5,
+      "episodeNumber": 5,
+      "title": "Episode 5",
+      "aired": "2026-10-31T01:23:00+09:00",
+      "airedDate": "2026-10-31T01:23:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20967761acad43ef70_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20967761acad43ef70_w.webp",
+      "description": null
+    },
+    {
+      "episode": 6,
+      "episodeNumber": 6,
+      "title": "Episode 6",
+      "aired": "2026-11-07T01:23:00+09:00",
+      "airedDate": "2026-11-07T01:23:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/21/210160498c95bf9f1d_w.webp",
+      "imageUrl": "https://simkl.in/episodes/21/210160498c95bf9f1d_w.webp",
+      "description": null
+    },
+    {
+      "episode": 7,
+      "episodeNumber": 7,
+      "title": "Episode 7",
+      "aired": "2026-11-14T01:23:00+09:00",
+      "airedDate": "2026-11-14T01:23:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 8,
+      "episodeNumber": 8,
+      "title": "Episode 8",
+      "aired": "2026-11-21T01:23:00+09:00",
+      "airedDate": "2026-11-21T01:23:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ],
+  "specials_data": []
 }

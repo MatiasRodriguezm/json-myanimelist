@@ -31,8 +31,8 @@
   "num_episodes": null,
   "score": 7.02,
   "mean": 7.02,
-  "numListUsers": 27278,
-  "num_list_users": 27278,
+  "numListUsers": 27317,
+  "num_list_users": 27317,
   "genres": [
     {
       "id": 2,
@@ -104,5 +104,89 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": null,
+  "simkl_id": 3103152,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "I Tried Using the Internet!",
+      "aired": "2026-10-07T22:00:00+09:00",
+      "airedDate": "2026-10-07T22:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/208345493e8f384b7a_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/208345493e8f384b7a_w.webp",
+      "description": null
+    },
+    {
+      "episode": 2,
+      "episodeNumber": 2,
+      "title": "I Tried Becoming an Adventurer!",
+      "aired": "2026-10-14T22:00:00+09:00",
+      "airedDate": "2026-10-14T22:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/2087775750ebf13d16_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/2087775750ebf13d16_w.webp",
+      "description": null
+    },
+    {
+      "episode": 3,
+      "episodeNumber": 3,
+      "title": "I Tried Looking at Message Boards!",
+      "aired": "2026-10-21T22:00:00+09:00",
+      "airedDate": "2026-10-21T22:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/2092355300ac628303_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/2092355300ac628303_w.webp",
+      "description": null
+    },
+    {
+      "episode": 4,
+      "episodeNumber": 4,
+      "title": "I Tried Stopping Someone's Ambition!",
+      "aired": "2026-10-28T22:00:00+09:00",
+      "airedDate": "2026-10-28T22:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/209623251f1afc1b4f_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/209623251f1afc1b4f_w.webp",
+      "description": null
+    },
+    {
+      "episode": 5,
+      "episodeNumber": 5,
+      "title": "Episode 5",
+      "aired": "2026-11-04T22:00:00+09:00",
+      "airedDate": "2026-11-04T22:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/21/2101634328cbf891c6_w.webp",
+      "imageUrl": "https://simkl.in/episodes/21/2101634328cbf891c6_w.webp",
+      "description": null
+    },
+    {
+      "episode": 6,
+      "episodeNumber": 6,
+      "title": "Episode 6",
+      "aired": "2026-11-11T22:00:00+09:00",
+      "airedDate": "2026-11-11T22:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 7,
+      "episodeNumber": 7,
+      "title": "Episode 7",
+      "aired": "2026-11-18T22:00:00+09:00",
+      "airedDate": "2026-11-18T22:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 8,
+      "episodeNumber": 8,
+      "title": "Episode 8",
+      "aired": "2026-11-25T22:00:00+09:00",
+      "airedDate": "2026-11-25T22:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ],
+  "specials_data": []
 }

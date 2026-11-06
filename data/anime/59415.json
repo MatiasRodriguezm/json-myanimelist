@@ -29,8 +29,8 @@
   "num_episodes": null,
   "score": 5.64,
   "mean": 5.64,
-  "numListUsers": 5466,
-  "num_list_users": 5466,
+  "numListUsers": 5467,
+  "num_list_users": 5467,
   "genres": [
     {
       "id": 18,
@@ -94,5 +94,89 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": null,
+  "simkl_id": 2526390,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Episode 1",
+      "aired": "2026-10-14T01:45:00+09:00",
+      "airedDate": "2026-10-14T01:45:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20877531884feb12c0_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20877531884feb12c0_w.webp",
+      "description": null
+    },
+    {
+      "episode": 2,
+      "episodeNumber": 2,
+      "title": "Episode 2",
+      "aired": "2026-10-21T01:45:00+09:00",
+      "airedDate": "2026-10-21T01:45:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/209167612b0653b0c8_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/209167612b0653b0c8_w.webp",
+      "description": null
+    },
+    {
+      "episode": 3,
+      "episodeNumber": 3,
+      "title": "Episode 3",
+      "aired": "2026-10-28T01:45:00+09:00",
+      "airedDate": "2026-10-28T01:45:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20961803d46c919089_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20961803d46c919089_w.webp",
+      "description": null
+    },
+    {
+      "episode": 4,
+      "episodeNumber": 4,
+      "title": "Episode 4",
+      "aired": "2026-11-04T01:45:00+09:00",
+      "airedDate": "2026-11-04T01:45:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/21/21009673fec1d4bf5e_w.webp",
+      "imageUrl": "https://simkl.in/episodes/21/21009673fec1d4bf5e_w.webp",
+      "description": null
+    },
+    {
+      "episode": 5,
+      "episodeNumber": 5,
+      "title": "Episode 5",
+      "aired": "2026-11-11T01:45:00+09:00",
+      "airedDate": "2026-11-11T01:45:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 6,
+      "episodeNumber": 6,
+      "title": "Episode 6",
+      "aired": "2026-11-18T01:45:00+09:00",
+      "airedDate": "2026-11-18T01:45:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 7,
+      "episodeNumber": 7,
+      "title": "Episode 7",
+      "aired": "2026-11-25T01:45:00+09:00",
+      "airedDate": "2026-11-25T01:45:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 8,
+      "episodeNumber": 8,
+      "title": "Episode 8",
+      "aired": "2026-12-02T01:45:00+09:00",
+      "airedDate": "2026-12-02T01:45:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ],
+  "specials_data": []
 }

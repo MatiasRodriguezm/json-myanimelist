@@ -31,8 +31,8 @@
   "num_episodes": 12,
   "score": 7.5,
   "mean": 7.5,
-  "numListUsers": 116783,
-  "num_list_users": 116783,
+  "numListUsers": 116808,
+  "num_list_users": 116808,
   "genres": [
     {
       "id": 1,
@@ -108,5 +108,89 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": null,
+  "simkl_id": 2086926,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "The Floating Island",
+      "aired": "2026-10-01T00:00:00+09:00",
+      "airedDate": "2026-10-01T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/207806675f0b8fc857_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/207806675f0b8fc857_w.webp",
+      "description": null
+    },
+    {
+      "episode": 2,
+      "episodeNumber": 2,
+      "title": "Jean du Vix Knows His Stuff",
+      "aired": "2026-10-08T00:00:00+09:00",
+      "airedDate": "2026-10-08T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/208408771eafdec928_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/208408771eafdec928_w.webp",
+      "description": null
+    },
+    {
+      "episode": 3,
+      "episodeNumber": 3,
+      "title": "The Undead Monster Was Tough as Nails",
+      "aired": "2026-10-15T00:00:00+09:00",
+      "airedDate": "2026-10-15T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20884263a3548b4c19_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20884263a3548b4c19_w.webp",
+      "description": null
+    },
+    {
+      "episode": 4,
+      "episodeNumber": 4,
+      "title": "The Hopeless Battle Against the Undead King",
+      "aired": "2026-10-22T00:00:00+09:00",
+      "airedDate": "2026-10-22T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20929819da61e8f26d_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20929819da61e8f26d_w.webp",
+      "description": null
+    },
+    {
+      "episode": 5,
+      "episodeNumber": 5,
+      "title": "A Smiling Farewell",
+      "aired": "2026-10-29T00:00:00+09:00",
+      "airedDate": "2026-10-29T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/209761559b00a925d0_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/209761559b00a925d0_w.webp",
+      "description": null
+    },
+    {
+      "episode": 6,
+      "episodeNumber": 6,
+      "title": "The Briny Beach Experience",
+      "aired": "2026-11-05T00:00:00+09:00",
+      "airedDate": "2026-11-05T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/21/21022137610b04fcea_w.webp",
+      "imageUrl": "https://simkl.in/episodes/21/21022137610b04fcea_w.webp",
+      "description": null
+    },
+    {
+      "episode": 7,
+      "episodeNumber": 7,
+      "title": "Episode 7",
+      "aired": "2026-11-12T00:00:00+09:00",
+      "airedDate": "2026-11-12T00:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 8,
+      "episodeNumber": 8,
+      "title": "Episode 8",
+      "aired": "2026-11-19T00:00:00+09:00",
+      "airedDate": "2026-11-19T00:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ],
+  "specials_data": []
 }

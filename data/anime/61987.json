@@ -32,8 +32,8 @@
   "num_episodes": 12,
   "score": 8.63,
   "mean": 8.63,
-  "numListUsers": 223211,
-  "num_list_users": 223211,
+  "numListUsers": 223318,
+  "num_list_users": 223318,
   "genres": [
     {
       "id": 8,
@@ -105,5 +105,170 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": null,
+  "simkl_id": 2830472,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Locusts",
+      "aired": "2026-10-02T23:00:00+09:00",
+      "airedDate": "2026-10-02T23:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/207939619e33fd5b7c_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/207939619e33fd5b7c_w.webp",
+      "description": null
+    },
+    {
+      "episode": 2,
+      "episodeNumber": 2,
+      "title": "Fire Rat's Cloak",
+      "aired": "2026-10-09T23:00:00+09:00",
+      "airedDate": "2026-10-09T23:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/208421038de2f1385a_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/208421038de2f1385a_w.webp",
+      "description": null
+    },
+    {
+      "episode": 3,
+      "episodeNumber": 3,
+      "title": "Let Them Eat Cake",
+      "aired": "2026-10-16T23:00:00+09:00",
+      "airedDate": "2026-10-16T23:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20885255c850fc7ff0_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20885255c850fc7ff0_w.webp",
+      "description": null
+    },
+    {
+      "episode": 4,
+      "episodeNumber": 4,
+      "title": "The Last Volume",
+      "aired": "2026-10-23T23:00:00+09:00",
+      "airedDate": "2026-10-23T23:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20930569f43ce2ffbe_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20930569f43ce2ffbe_w.webp",
+      "description": null
+    },
+    {
+      "episode": 5,
+      "episodeNumber": 5,
+      "title": "The White-Snake Immortal",
+      "aired": "2026-10-30T23:00:00+09:00",
+      "airedDate": "2026-10-30T23:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20983159f7c5a46bd4_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20983159f7c5a46bd4_w.webp",
+      "description": null
+    },
+    {
+      "episode": 6,
+      "episodeNumber": 6,
+      "title": "Episode 6",
+      "aired": "2026-11-06T23:00:00+09:00",
+      "airedDate": "2026-11-06T23:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/21/210230933a569fbfc9_w.webp",
+      "imageUrl": "https://simkl.in/episodes/21/210230933a569fbfc9_w.webp",
+      "description": null
+    },
+    {
+      "episode": 7,
+      "episodeNumber": 7,
+      "title": "Episode 7",
+      "aired": "2026-11-13T23:00:00+09:00",
+      "airedDate": "2026-11-13T23:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 8,
+      "episodeNumber": 8,
+      "title": "Episode 8",
+      "aired": "2026-11-20T23:00:00+09:00",
+      "airedDate": "2026-11-20T23:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ],
+  "specials_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Maomao no Hitorigoto Episode 49",
+      "aired": "2026-10-05T23:00:00+09:00",
+      "airedDate": "2026-10-05T23:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/2097670183223baa65_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/2097670183223baa65_w.webp",
+      "description": null
+    },
+    {
+      "episode": 2,
+      "episodeNumber": 2,
+      "title": "Maomao no Hitorigoto Episode 50",
+      "aired": "2026-10-12T23:00:00+09:00",
+      "airedDate": "2026-10-12T23:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20976703c891d20131_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20976703c891d20131_w.webp",
+      "description": null
+    },
+    {
+      "episode": 3,
+      "episodeNumber": 3,
+      "title": "Maomao no Hitorigoto Episode 51",
+      "aired": "2026-10-19T23:00:00+09:00",
+      "airedDate": "2026-10-19T23:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/209767058979b151b5_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/209767058979b151b5_w.webp",
+      "description": null
+    },
+    {
+      "episode": 4,
+      "episodeNumber": 4,
+      "title": "Maomao no Hitorigoto Episode 52",
+      "aired": "2026-10-26T23:00:00+09:00",
+      "airedDate": "2026-10-26T23:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20990279bf62dd4262_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20990279bf62dd4262_w.webp",
+      "description": null
+    },
+    {
+      "episode": 5,
+      "episodeNumber": 5,
+      "title": "Maomao no Hitorigoto Episode 53",
+      "aired": "2026-11-02T23:00:00+09:00",
+      "airedDate": "2026-11-02T23:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/21/21008733e7e397994d_w.webp",
+      "imageUrl": "https://simkl.in/episodes/21/21008733e7e397994d_w.webp",
+      "description": null
+    },
+    {
+      "episode": 6,
+      "episodeNumber": 6,
+      "title": "Maomao no Hitorigoto Episode 54",
+      "aired": "2026-11-09T23:00:00+09:00",
+      "airedDate": "2026-11-09T23:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 7,
+      "episodeNumber": 7,
+      "title": "Maomao no Hitorigoto Episode 55",
+      "aired": "2026-11-16T23:00:00+09:00",
+      "airedDate": "2026-11-16T23:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 8,
+      "episodeNumber": 8,
+      "title": "Maomao no Hitorigoto Episode 56",
+      "aired": "2026-11-23T23:00:00+09:00",
+      "airedDate": "2026-11-23T23:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ]
 }

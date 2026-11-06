@@ -29,8 +29,8 @@
   "num_episodes": 1,
   "score": 8.1,
   "mean": 8.1,
-  "numListUsers": 408211,
-  "num_list_users": 408211,
+  "numListUsers": 408219,
+  "num_list_users": 408219,
   "genres": [
     {
       "id": 2,
@@ -91,5 +91,30 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": null,
+  "simkl_id": 1577787,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "TV Special",
+      "aired": "2022-07-10T00:00:00+09:00",
+      "airedDate": "2022-07-10T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/17538966de149518f3_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/17538966de149518f3_w.webp",
+      "description": null
+    }
+  ],
+  "specials_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Ending",
+      "aired": "2022-07-10T00:00:00+09:00",
+      "airedDate": "2022-07-10T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/10/1048334887cf92fd09_w.webp",
+      "imageUrl": "https://simkl.in/episodes/10/1048334887cf92fd09_w.webp",
+      "description": null
+    }
+  ]
 }

@@ -29,8 +29,8 @@
   "num_episodes": null,
   "score": 6.24,
   "mean": 6.24,
-  "numListUsers": 3811,
-  "num_list_users": 3811,
+  "numListUsers": 3842,
+  "num_list_users": 3842,
   "genres": [
     {
       "id": 10,
@@ -90,5 +90,109 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": null,
+  "simkl_id": 3252888,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Episode 1",
+      "aired": "2026-10-02T21:25:00+09:00",
+      "airedDate": "2026-10-02T21:25:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 2,
+      "episodeNumber": 2,
+      "title": "Episode 2",
+      "aired": "2026-10-09T21:25:00+09:00",
+      "airedDate": "2026-10-09T21:25:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 3,
+      "episodeNumber": 3,
+      "title": "Episode 3",
+      "aired": "2026-10-16T21:25:00+09:00",
+      "airedDate": "2026-10-16T21:25:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 4,
+      "episodeNumber": 4,
+      "title": "Episode 4",
+      "aired": "2026-10-23T21:25:00+09:00",
+      "airedDate": "2026-10-23T21:25:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 5,
+      "episodeNumber": 5,
+      "title": "Episode 5",
+      "aired": "2026-10-30T21:25:00+09:00",
+      "airedDate": "2026-10-30T21:25:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 6,
+      "episodeNumber": 6,
+      "title": "Episode 6",
+      "aired": "2026-11-06T21:25:00+09:00",
+      "airedDate": "2026-11-06T21:25:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 7,
+      "episodeNumber": 7,
+      "title": "Episode 7",
+      "aired": "2026-11-13T21:25:00+09:00",
+      "airedDate": "2026-11-13T21:25:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 8,
+      "episodeNumber": 8,
+      "title": "Episode 8",
+      "aired": "2026-11-20T21:25:00+09:00",
+      "airedDate": "2026-11-20T21:25:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 9,
+      "episodeNumber": 9,
+      "title": "Episode 9",
+      "aired": "2026-11-27T21:25:00+09:00",
+      "airedDate": "2026-11-27T21:25:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 10,
+      "episodeNumber": 10,
+      "title": "Episode 10",
+      "aired": "2026-12-04T21:25:00+09:00",
+      "airedDate": "2026-12-04T21:25:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ],
+  "specials_data": []
 }

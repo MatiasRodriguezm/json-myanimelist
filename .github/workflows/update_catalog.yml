@@ -40,9 +40,10 @@ jobs:
       - name: Instalar dependencias
         run: npm ci
 
-      - name: Ejecutar recolección de catálogos (MyAnimeList y LiveChart)
+      - name: Ejecutar recolección de catálogos (MyAnimeList, LiveChart y Simkl)
         env:
           MAL_CLIENT_ID: ${{ secrets.MAL_CLIENT_ID || 'fdfaa87254aa7ccb69b33147a5205743' }}
+          SIMKL_CLIENT_ID: ${{ secrets.SIMKL_CLIENT_ID || '0d620452abba0665e7646b01f74957173262ac7b4aab07b8daf66509dc9441f8' }}
         run: npm run sync
 
       - name: Guardar cambios en el repositorio
@@ -53,7 +54,7 @@ jobs:
           if git diff --staged --quiet; then
             echo "No hubo cambios en los catálogos."
           else
-            git commit -m "chore(data): auto-update catalog from MyAnimeList & LiveChart [skip ci]"
+            git commit -m "chore(data): auto-update catalog from MyAnimeList, LiveChart & Simkl [skip ci]"
             git push
           fi
 

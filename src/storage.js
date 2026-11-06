@@ -115,6 +115,22 @@ export class Storage {
     return (await this.readJsonSafe(config.paths.livechartMalMapJson)) || {};
   }
 
+  static async saveSimklCalendar(data) {
+    await this.writeJsonAtomic(config.paths.simklCalendarJson, data);
+  }
+
+  static async loadSimklCalendar() {
+    return (await this.readJsonSafe(config.paths.simklCalendarJson)) || null;
+  }
+
+  static async saveMalSimklMap(data) {
+    await this.writeJsonAtomic(config.paths.malSimklMapJson, data);
+  }
+
+  static async loadMalSimklMap() {
+    return (await this.readJsonSafe(config.paths.malSimklMapJson)) || {};
+  }
+
   static async getStats() {
     let animeCount = 0;
     try {

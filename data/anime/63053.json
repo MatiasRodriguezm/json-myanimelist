@@ -27,10 +27,10 @@
   },
   "episodes": 12,
   "num_episodes": 12,
-  "score": 5.62,
-  "mean": 5.62,
-  "numListUsers": 7627,
-  "num_list_users": 7627,
+  "score": 5.63,
+  "mean": 5.63,
+  "numListUsers": 7632,
+  "num_list_users": 7632,
   "genres": [
     {
       "id": 14,
@@ -102,5 +102,89 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": null,
+  "simkl_id": 2957216,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "The Red Notebook",
+      "aired": "2026-10-10T23:45:00+09:00",
+      "airedDate": "2026-10-10T23:45:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20859135c480a51001_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20859135c480a51001_w.webp",
+      "description": null
+    },
+    {
+      "episode": 2,
+      "episodeNumber": 2,
+      "title": "The Shadow Enveloping the City",
+      "aired": "2026-10-17T23:45:00+09:00",
+      "airedDate": "2026-10-17T23:45:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20897595e0488dbdf3_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20897595e0488dbdf3_w.webp",
+      "description": null
+    },
+    {
+      "episode": 3,
+      "episodeNumber": 3,
+      "title": "Episode 3",
+      "aired": "2026-10-24T23:45:00+09:00",
+      "airedDate": "2026-10-24T23:45:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20948713e765d6d6d8_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20948713e765d6d6d8_w.webp",
+      "description": null
+    },
+    {
+      "episode": 4,
+      "episodeNumber": 4,
+      "title": "Episode 4",
+      "aired": "2026-10-31T23:45:00+09:00",
+      "airedDate": "2026-10-31T23:45:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20996893260073cb8a_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20996893260073cb8a_w.webp",
+      "description": null
+    },
+    {
+      "episode": 5,
+      "episodeNumber": 5,
+      "title": "Episode 5",
+      "aired": "2026-11-07T23:45:00+09:00",
+      "airedDate": "2026-11-07T23:45:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 6,
+      "episodeNumber": 6,
+      "title": "Episode 6",
+      "aired": "2026-11-14T23:45:00+09:00",
+      "airedDate": "2026-11-14T23:45:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 7,
+      "episodeNumber": 7,
+      "title": "Episode 7",
+      "aired": "2026-11-21T23:45:00+09:00",
+      "airedDate": "2026-11-21T23:45:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 8,
+      "episodeNumber": 8,
+      "title": "Episode 8",
+      "aired": "2026-11-28T23:45:00+09:00",
+      "airedDate": "2026-11-28T23:45:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ],
+  "specials_data": []
 }

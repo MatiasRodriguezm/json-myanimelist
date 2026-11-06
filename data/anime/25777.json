@@ -29,8 +29,8 @@
   "num_episodes": 12,
   "score": 8.55,
   "mean": 8.55,
-  "numListUsers": 3082921,
-  "num_list_users": 3082921,
+  "numListUsers": 3082977,
+  "num_list_users": 3082977,
   "genres": [
     {
       "id": 1,
@@ -114,5 +114,250 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": null,
+  "simkl_id": 439744,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Beast Titan",
+      "aired": "2017-04-01T22:00:00+09:00",
+      "airedDate": "2017-04-01T22:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/1747767660c588eb7d_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/1747767660c588eb7d_w.webp",
+      "description": "Coupled with the military`s cover-up of a previous incident, the shocking discovery inside the wall causes a stir. Elsewhere, while the new Scout recruits are held for observation, a surprising threat appears."
+    },
+    {
+      "episode": 2,
+      "episodeNumber": 2,
+      "title": "I'm Home",
+      "aired": "2017-04-08T22:00:00+09:00",
+      "airedDate": "2017-04-08T22:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/17477678c7643fe7b0_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/17477678c7643fe7b0_w.webp",
+      "description": "With the appearance of Titans within Wall Rose, Sasha and Conny ride as messengers to warn their villages of the impending threat."
+    },
+    {
+      "episode": 3,
+      "episodeNumber": 3,
+      "title": "Southwestward",
+      "aired": "2017-04-15T22:00:00+09:00",
+      "airedDate": "2017-04-15T22:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/174776808c0c1ca5d4_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/174776808c0c1ca5d4_w.webp",
+      "description": "The Scouts search for a hole in the wall while Eren and the others learn that someone close may be hiding all the answers."
+    },
+    {
+      "episode": 4,
+      "episodeNumber": 4,
+      "title": "Soldier",
+      "aired": "2017-04-22T22:00:00+09:00",
+      "airedDate": "2017-04-22T22:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/17477682e878b008a0_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/17477682e878b008a0_w.webp",
+      "description": "Unarmed and overwhelmed by the Titan assault on the castle, the only hope for the Scouts may lie in a promise and a secret."
+    },
+    {
+      "episode": 5,
+      "episodeNumber": 5,
+      "title": "Historia",
+      "aired": "2017-04-29T22:00:00+09:00",
+      "airedDate": "2017-04-29T22:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/17477684cc6f0f74db_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/17477684cc6f0f74db_w.webp",
+      "description": "Utgard Castle comes crumbling down as Ymir desperately battles the Titans. Now, Christa must fulfill the promise they made long ago during winter training."
+    },
+    {
+      "episode": 6,
+      "episodeNumber": 6,
+      "title": "Warrior",
+      "aired": "2017-05-06T22:00:00+09:00",
+      "airedDate": "2017-05-06T22:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/17477686dcdbcbaea9_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/17477686dcdbcbaea9_w.webp",
+      "description": "Following the battle, the Scouts regroup atop the wall only to find more questions than answers. Before they leave for Trost to get medical attention, Reiner must fulfill what he came to do."
+    },
+    {
+      "episode": 7,
+      "episodeNumber": 7,
+      "title": "Close Combat",
+      "aired": "2017-05-13T22:00:00+09:00",
+      "airedDate": "2017-05-13T22:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/174776887623b1403d_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/174776887623b1403d_w.webp",
+      "description": "With a new enemy revealed, Eren and the Scouts fight back using all the techniques at their disposal. However, the Armored and Colossal Titan have other plans in mind."
+    },
+    {
+      "episode": 8,
+      "episodeNumber": 8,
+      "title": "The Hunters",
+      "aired": "2017-05-20T22:00:00+09:00",
+      "airedDate": "2017-05-20T22:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/174776907e92b69423_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/174776907e92b69423_w.webp",
+      "description": "Lacking a way to pursue the Titans, Mikasa, Armin, and Hannes reflect on Eren`s tenacity and determination as they recover from battle and wait for reinforcements."
+    },
+    {
+      "episode": 9,
+      "episodeNumber": 9,
+      "title": "Opening",
+      "aired": "2017-05-27T22:00:00+09:00",
+      "airedDate": "2017-05-27T22:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/174776924d8a8feec6_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/174776924d8a8feec6_w.webp",
+      "description": "As the Scouts rally and charge in pursuit, Reiner loses sight of his real personality while him and the others are trapped in the giant forest until nightfall."
+    },
+    {
+      "episode": 10,
+      "episodeNumber": 10,
+      "title": "Children",
+      "aired": "2017-06-03T22:00:00+09:00",
+      "airedDate": "2017-06-03T22:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/174776944cd8f17fe4_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/174776944cd8f17fe4_w.webp",
+      "description": "When their group finally flees, Ymir must ask herself whether to lie or stay true to herself, even if it means ruining the lives and future of those she cares about."
+    },
+    {
+      "episode": 11,
+      "episodeNumber": 11,
+      "title": "Charge",
+      "aired": "2017-06-10T22:00:00+09:00",
+      "airedDate": "2017-06-10T22:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/17477696d9245f3f1b_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/17477696d9245f3f1b_w.webp",
+      "description": "While the recruits attempt to reason with Bertholdt, Commander Erwin charges forth in a desperate strategy to topple the Armored Titan."
+    },
+    {
+      "episode": 12,
+      "episodeNumber": 12,
+      "title": "Scream",
+      "aired": "2017-06-17T22:00:00+09:00",
+      "airedDate": "2017-06-17T22:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/174776988d8a83e475_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/174776988d8a83e475_w.webp",
+      "description": "Eren`s confrontation with a smiling Titan raises questions about his powers, but any answers will come at a cost."
+    }
+  ],
+  "specials_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Episode S1",
+      "aired": "2017-06-24T22:00:00+09:00",
+      "airedDate": "2017-06-24T22:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": "tv program with production staff"
+    },
+    {
+      "episode": 2,
+      "episodeNumber": 2,
+      "title": "Episode S2",
+      "aired": "2017-06-21T22:00:00+09:00",
+      "airedDate": "2017-06-21T22:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 3,
+      "episodeNumber": 3,
+      "title": "Episode S3",
+      "aired": "2017-08-18T22:00:00+09:00",
+      "airedDate": "2017-08-18T22:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 4,
+      "episodeNumber": 4,
+      "title": "Episode S4",
+      "aired": "2017-08-18T22:00:00+09:00",
+      "airedDate": "2017-08-18T22:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 5,
+      "episodeNumber": 5,
+      "title": "Anime Expo 2017: Interview with Trina Nishimura",
+      "aired": true,
+      "airedDate": true,
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 6,
+      "episodeNumber": 6,
+      "title": "Anime Expo 2017: Interview with Tetsuya Kinoshita & Yui Ishikawa",
+      "aired": true,
+      "airedDate": true,
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 7,
+      "episodeNumber": 7,
+      "title": "Attack on Titan Season 2 Vol.05 - Hajime Isayama",
+      "aired": true,
+      "airedDate": true,
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 8,
+      "episodeNumber": 8,
+      "title": "105th Cadet Corps Challenge 1",
+      "aired": true,
+      "airedDate": true,
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 9,
+      "episodeNumber": 9,
+      "title": "105th Cadet Corps Challenge 2",
+      "aired": true,
+      "airedDate": true,
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 10,
+      "episodeNumber": 10,
+      "title": "105th Cadet Corps Challenge 3",
+      "aired": true,
+      "airedDate": true,
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 11,
+      "episodeNumber": 11,
+      "title": "105th Cadet Corps Challenge 5",
+      "aired": true,
+      "airedDate": true,
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 12,
+      "episodeNumber": 12,
+      "title": "105th Cadet Corps Trivia Challenge",
+      "aired": true,
+      "airedDate": true,
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ]
 }

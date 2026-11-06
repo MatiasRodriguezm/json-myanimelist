@@ -32,8 +32,8 @@
   "num_episodes": 1,
   "score": 8.56,
   "mean": 8.56,
-  "numListUsers": 498504,
-  "num_list_users": 498504,
+  "numListUsers": 498511,
+  "num_list_users": 498511,
   "genres": [
     {
       "id": 1,
@@ -98,5 +98,39 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": null,
+  "simkl_id": 36162,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Iron-Blooded Arc",
+      "aired": "2016-01-08T00:00:00+09:00",
+      "airedDate": "2016-01-08T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/17580135889582bfe2_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/17580135889582bfe2_w.webp",
+      "description": null
+    },
+    {
+      "episode": 2,
+      "episodeNumber": 2,
+      "title": "Hot-Blooded Arc",
+      "aired": "2016-08-19T00:00:00+09:00",
+      "airedDate": "2016-08-19T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/17580169efdf2c3f6f_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/17580169efdf2c3f6f_w.webp",
+      "description": null
+    },
+    {
+      "episode": 3,
+      "episodeNumber": 3,
+      "title": "Cold-Blooded Arc",
+      "aired": "2017-01-06T00:00:00+09:00",
+      "airedDate": "2017-01-06T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/175801711f647f7ea6_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/175801711f647f7ea6_w.webp",
+      "description": null
+    }
+  ],
+  "specials_data": []
 }

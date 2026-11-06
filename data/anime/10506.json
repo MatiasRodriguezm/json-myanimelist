@@ -29,8 +29,8 @@
   "num_episodes": null,
   "score": null,
   "mean": null,
-  "numListUsers": 1694,
-  "num_list_users": 1694,
+  "numListUsers": 1695,
+  "num_list_users": 1695,
   "genres": [
     {
       "id": 4,
@@ -90,5 +90,19 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": null,
+  "simkl_id": 37878,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Episode 1",
+      "aired": "2011-03-25T00:00:00+09:00",
+      "airedDate": "2011-03-25T00:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ],
+  "specials_data": []
 }

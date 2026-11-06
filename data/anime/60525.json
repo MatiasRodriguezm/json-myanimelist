@@ -26,8 +26,8 @@
   "num_episodes": null,
   "score": null,
   "mean": null,
-  "numListUsers": 39003,
-  "num_list_users": 39003,
+  "numListUsers": 39004,
+  "num_list_users": 39004,
   "genres": [
     {
       "id": 1,
@@ -83,5 +83,8 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": null,
+  "simkl_id": 2661528,
+  "episodes_data": [],
+  "specials_data": []
 }

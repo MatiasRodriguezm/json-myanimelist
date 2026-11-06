@@ -32,8 +32,8 @@
   "num_episodes": 1,
   "score": 8.42,
   "mean": 8.42,
-  "numListUsers": 85761,
-  "num_list_users": 85761,
+  "numListUsers": 85765,
+  "num_list_users": 85765,
   "genres": [
     {
       "id": 63,
@@ -102,5 +102,19 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": null,
+  "simkl_id": 725981,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Complete Movie",
+      "aired": "2018-09-29T00:00:00+09:00",
+      "airedDate": "2018-09-29T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/17578687a43860f874_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/17578687a43860f874_w.webp",
+      "description": null
+    }
+  ],
+  "specials_data": []
 }

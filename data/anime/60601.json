@@ -31,8 +31,8 @@
   "num_episodes": 12,
   "score": 7.38,
   "mean": 7.38,
-  "numListUsers": 59303,
-  "num_list_users": 59303,
+  "numListUsers": 59327,
+  "num_list_users": 59327,
   "genres": [
     {
       "id": 2,
@@ -104,5 +104,89 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": null,
+  "simkl_id": 2667698,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Headman",
+      "aired": "2026-09-28T23:30:00+09:00",
+      "airedDate": "2026-09-28T23:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/2076740554814cfe78_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/2076740554814cfe78_w.webp",
+      "description": null
+    },
+    {
+      "episode": 2,
+      "episodeNumber": 2,
+      "title": "Canarre in Crisis",
+      "aired": "2026-10-04T23:30:00+09:00",
+      "airedDate": "2026-10-04T23:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/208154872b8126499f_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/208154872b8126499f_w.webp",
+      "description": null
+    },
+    {
+      "episode": 3,
+      "episodeNumber": 3,
+      "title": "Zaht and Braham",
+      "aired": "2026-10-11T23:30:00+09:00",
+      "airedDate": "2026-10-11T23:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/2085958913f05d2d33_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/2085958913f05d2d33_w.webp",
+      "description": null
+    },
+    {
+      "episode": 4,
+      "episodeNumber": 4,
+      "title": "End of Hostilities",
+      "aired": "2026-10-18T23:30:00+09:00",
+      "airedDate": "2026-10-18T23:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20909309e8849f62c0_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20909309e8849f62c0_w.webp",
+      "description": null
+    },
+    {
+      "episode": 5,
+      "episodeNumber": 5,
+      "title": "The End of Vasmarque",
+      "aired": "2026-10-25T23:30:00+09:00",
+      "airedDate": "2026-10-25T23:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20949173cad87016c3_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20949173cad87016c3_w.webp",
+      "description": null
+    },
+    {
+      "episode": 6,
+      "episodeNumber": 6,
+      "title": "Fujimiya",
+      "aired": "2026-11-01T23:30:00+09:00",
+      "airedDate": "2026-11-01T23:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/21/21002327fa580b09c4_w.webp",
+      "imageUrl": "https://simkl.in/episodes/21/21002327fa580b09c4_w.webp",
+      "description": null
+    },
+    {
+      "episode": 7,
+      "episodeNumber": 7,
+      "title": "Episode 7",
+      "aired": "2026-11-08T23:30:00+09:00",
+      "airedDate": "2026-11-08T23:30:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 8,
+      "episodeNumber": 8,
+      "title": "Episode 8",
+      "aired": "2026-11-15T23:30:00+09:00",
+      "airedDate": "2026-11-15T23:30:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ],
+  "specials_data": []
 }

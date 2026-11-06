@@ -29,8 +29,8 @@
   "num_episodes": 12,
   "score": 8.14,
   "mean": 8.14,
-  "numListUsers": 104939,
-  "num_list_users": 104939,
+  "numListUsers": 104972,
+  "num_list_users": 104972,
   "genres": [
     {
       "id": 64,
@@ -110,5 +110,89 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": null,
+  "simkl_id": 2747914,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Deja Vu",
+      "aired": "2026-10-04T16:30:00+09:00",
+      "airedDate": "2026-10-04T16:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20775185416ef8761c_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20775185416ef8761c_w.webp",
+      "description": null
+    },
+    {
+      "episode": 2,
+      "episodeNumber": 2,
+      "title": "Admiration",
+      "aired": "2026-10-11T16:30:00+09:00",
+      "airedDate": "2026-10-11T16:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/208483676ccbf0ef48_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/208483676ccbf0ef48_w.webp",
+      "description": null
+    },
+    {
+      "episode": 3,
+      "episodeNumber": 3,
+      "title": "They're One and the Same",
+      "aired": "2026-10-18T16:30:00+09:00",
+      "airedDate": "2026-10-18T16:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20885263b407fcb566_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20885263b407fcb566_w.webp",
+      "description": null
+    },
+    {
+      "episode": 4,
+      "episodeNumber": 4,
+      "title": "Love Is the Most Powerful Feeling",
+      "aired": "2026-10-25T16:30:00+09:00",
+      "airedDate": "2026-10-25T16:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20930579f77fc0b3a2_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20930579f77fc0b3a2_w.webp",
+      "description": null
+    },
+    {
+      "episode": 5,
+      "episodeNumber": 5,
+      "title": "Episode 5",
+      "aired": "2026-11-08T16:30:00+09:00",
+      "airedDate": "2026-11-08T16:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/209831698513feff78_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/209831698513feff78_w.webp",
+      "description": null
+    },
+    {
+      "episode": 6,
+      "episodeNumber": 6,
+      "title": "Episode 6",
+      "aired": "2026-11-15T16:30:00+09:00",
+      "airedDate": "2026-11-15T16:30:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 7,
+      "episodeNumber": 7,
+      "title": "Episode 7",
+      "aired": "2026-11-22T16:30:00+09:00",
+      "airedDate": "2026-11-22T16:30:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 8,
+      "episodeNumber": 8,
+      "title": "Episode 8",
+      "aired": "2026-11-29T16:30:00+09:00",
+      "airedDate": "2026-11-29T16:30:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ],
+  "specials_data": []
 }

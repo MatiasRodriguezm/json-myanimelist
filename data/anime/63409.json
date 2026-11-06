@@ -31,8 +31,8 @@
   "num_episodes": 12,
   "score": 7.52,
   "mean": 7.52,
-  "numListUsers": 55611,
-  "num_list_users": 55611,
+  "numListUsers": 55650,
+  "num_list_users": 55650,
   "genres": [
     {
       "id": 10,
@@ -100,5 +100,89 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": null,
+  "simkl_id": 3012710,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "The Witch and the Love Potion of Unrequited Love",
+      "aired": "2026-10-05T21:30:00+09:00",
+      "airedDate": "2026-10-05T21:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/2075527517f90eca0d_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/2075527517f90eca0d_w.webp",
+      "description": "The Witch of the Lake, Rose, falls for a knight, who later visits her seeking a love potion."
+    },
+    {
+      "episode": 2,
+      "episodeNumber": 2,
+      "title": "The Good Witch of the Lake",
+      "aired": "2026-10-12T21:30:00+09:00",
+      "airedDate": "2026-10-12T21:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20852983b34350a173_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20852983b34350a173_w.webp",
+      "description": "Rose finds herself being conscience of her looks while Harij begins to wonder about her disheveled lifestyle."
+    },
+    {
+      "episode": 3,
+      "episodeNumber": 3,
+      "title": "The Black Tea Scented Witch's Song",
+      "aired": "2026-10-19T21:30:00+09:00",
+      "airedDate": "2026-10-19T21:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20891341c6e31eeadc_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20891341c6e31eeadc_w.webp",
+      "description": "With every visit, Harij helps Rose realize things she`s overlooked before. Even of a certain song she sings."
+    },
+    {
+      "episode": 4,
+      "episodeNumber": 4,
+      "title": "A Knight's Duty Even Unknown to the Witch",
+      "aired": "2026-10-26T21:30:00+09:00",
+      "airedDate": "2026-10-26T21:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/2094164393a3c888f4_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/2094164393a3c888f4_w.webp",
+      "description": "Harij continues to feel pressured to accomplish his mission, though something inside himself begins to change."
+    },
+    {
+      "episode": 5,
+      "episodeNumber": 5,
+      "title": "To Be a Witch",
+      "aired": "2026-11-02T21:30:00+09:00",
+      "airedDate": "2026-11-02T21:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20984519c6415f51a7_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20984519c6415f51a7_w.webp",
+      "description": null
+    },
+    {
+      "episode": 6,
+      "episodeNumber": 6,
+      "title": "Episode 6",
+      "aired": "2026-11-09T21:30:00+09:00",
+      "airedDate": "2026-11-09T21:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/21/210287334f3c5bdfc7_w.webp",
+      "imageUrl": "https://simkl.in/episodes/21/210287334f3c5bdfc7_w.webp",
+      "description": null
+    },
+    {
+      "episode": 7,
+      "episodeNumber": 7,
+      "title": "Episode 7",
+      "aired": "2026-11-16T21:30:00+09:00",
+      "airedDate": "2026-11-16T21:30:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 8,
+      "episodeNumber": 8,
+      "title": "Episode 8",
+      "aired": "2026-11-23T21:30:00+09:00",
+      "airedDate": "2026-11-23T21:30:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ],
+  "specials_data": []
 }

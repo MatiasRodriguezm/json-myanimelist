@@ -29,8 +29,8 @@
   "num_episodes": null,
   "score": 7.46,
   "mean": 7.46,
-  "numListUsers": 21137,
-  "num_list_users": 21137,
+  "numListUsers": 21145,
+  "num_list_users": 21145,
   "genres": [
     {
       "id": 1,
@@ -98,5 +98,89 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": null,
+  "simkl_id": 3167238,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Family Restaurant Meeting with Dad",
+      "aired": "2026-10-11T17:00:00+09:00",
+      "airedDate": "2026-10-11T17:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/208594816afb714a85_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/208594816afb714a85_w.webp",
+      "description": null
+    },
+    {
+      "episode": 2,
+      "episodeNumber": 2,
+      "title": "The Gold Rank Spy Meeting",
+      "aired": "2026-10-18T17:00:00+09:00",
+      "airedDate": "2026-10-18T17:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20859483cb3ed7327b_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20859483cb3ed7327b_w.webp",
+      "description": null
+    },
+    {
+      "episode": 3,
+      "episodeNumber": 3,
+      "title": "Objectives",
+      "aired": "2026-10-25T17:00:00+09:00",
+      "airedDate": "2026-10-25T17:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/208651758541eea205_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/208651758541eea205_w.webp",
+      "description": null
+    },
+    {
+      "episode": 4,
+      "episodeNumber": 4,
+      "title": "Making Soba Noodles",
+      "aired": "2026-11-01T17:00:00+09:00",
+      "airedDate": "2026-11-01T17:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/2099094322a44d982a_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/2099094322a44d982a_w.webp",
+      "description": null
+    },
+    {
+      "episode": 5,
+      "episodeNumber": 5,
+      "title": "Episode 5",
+      "aired": "2026-11-08T17:00:00+09:00",
+      "airedDate": "2026-11-08T17:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/21/21002183cbcf4ea3f6_w.webp",
+      "imageUrl": "https://simkl.in/episodes/21/21002183cbcf4ea3f6_w.webp",
+      "description": null
+    },
+    {
+      "episode": 6,
+      "episodeNumber": 6,
+      "title": "Episode 6",
+      "aired": "2026-11-15T17:00:00+09:00",
+      "airedDate": "2026-11-15T17:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 7,
+      "episodeNumber": 7,
+      "title": "Episode 7",
+      "aired": "2026-11-22T17:00:00+09:00",
+      "airedDate": "2026-11-22T17:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 8,
+      "episodeNumber": 8,
+      "title": "Episode 8",
+      "aired": "2026-11-29T17:00:00+09:00",
+      "airedDate": "2026-11-29T17:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ],
+  "specials_data": []
 }

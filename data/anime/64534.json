@@ -29,8 +29,8 @@
   "num_episodes": null,
   "score": 8.33,
   "mean": 8.33,
-  "numListUsers": 73164,
-  "num_list_users": 73164,
+  "numListUsers": 73227,
+  "num_list_users": 73227,
   "genres": [
     {
       "id": 8,
@@ -98,5 +98,89 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": null,
+  "simkl_id": 3173582,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Clouds and Rain",
+      "aired": "2026-10-01T23:56:00+09:00",
+      "airedDate": "2026-10-01T23:56:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/207866214cb1c315fa_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/207866214cb1c315fa_w.webp",
+      "description": null
+    },
+    {
+      "episode": 2,
+      "episodeNumber": 2,
+      "title": "Stop and Go",
+      "aired": "2026-10-08T23:56:00+09:00",
+      "airedDate": "2026-10-08T23:56:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/2084786723c268e855_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/2084786723c268e855_w.webp",
+      "description": null
+    },
+    {
+      "episode": 3,
+      "episodeNumber": 3,
+      "title": "True Feelings",
+      "aired": "2026-10-15T23:56:00+09:00",
+      "airedDate": "2026-10-15T23:56:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20877365bfa2f9b609_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20877365bfa2f9b609_w.webp",
+      "description": null
+    },
+    {
+      "episode": 4,
+      "episodeNumber": 4,
+      "title": "Relief",
+      "aired": "2026-10-22T23:56:00+09:00",
+      "airedDate": "2026-10-22T23:56:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20922957a013b0966b_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20922957a013b0966b_w.webp",
+      "description": null
+    },
+    {
+      "episode": 5,
+      "episodeNumber": 5,
+      "title": "Transition",
+      "aired": "2026-10-29T23:56:00+09:00",
+      "airedDate": "2026-10-29T23:56:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/2096770999f305e627_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/2096770999f305e627_w.webp",
+      "description": null
+    },
+    {
+      "episode": 6,
+      "episodeNumber": 6,
+      "title": "Episode 6",
+      "aired": "2026-11-05T23:56:00+09:00",
+      "airedDate": "2026-11-05T23:56:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/21/2101577706d715c089_w.webp",
+      "imageUrl": "https://simkl.in/episodes/21/2101577706d715c089_w.webp",
+      "description": null
+    },
+    {
+      "episode": 7,
+      "episodeNumber": 7,
+      "title": "Episode 7",
+      "aired": "2026-11-12T23:56:00+09:00",
+      "airedDate": "2026-11-12T23:56:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 8,
+      "episodeNumber": 8,
+      "title": "Episode 8",
+      "aired": "2026-11-19T23:56:00+09:00",
+      "airedDate": "2026-11-19T23:56:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ],
+  "specials_data": []
 }

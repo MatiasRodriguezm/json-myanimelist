@@ -65,28 +65,28 @@
   "pictures": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1015/138006.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1015/138006l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1015/138006.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1015/138006l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1015/138006.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1015/138006l.webp",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1015/138006.webp",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1015/138006l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1015/138006.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1015/138006l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1015/138006.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1015/138006l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1015/138006l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1015/138006l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1015/138006l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1015/138006l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1015/138006l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1015/138006l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1015/138006l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1015/138006l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1015/138006l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1015/138006l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1015/138006l.webp",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1015/138006l.webp",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1015/138006l.webp",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1015/138006l.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1015/138006l.webp",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1015/138006l.webp",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1015/138006l.webp",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1015/138006l.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1015/138006l.webp",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1015/138006l.webp"
     }
   },
   "broadcast": {
@@ -109,5 +109,540 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": null,
+  "simkl_id": 1990194,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "The Journey's End",
+      "aired": "2023-09-29T23:00:00+09:00",
+      "airedDate": "2023-09-29T23:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/14/146256642a3afd9c8e_w.webp",
+      "imageUrl": "https://simkl.in/episodes/14/146256642a3afd9c8e_w.webp",
+      "description": "The world celebrates the Demon King`s defeat at the hands of the Hero and his companions. Now that their great adventure is over, what will Frieren the mage do next?"
+    },
+    {
+      "episode": 2,
+      "episodeNumber": 2,
+      "title": "It Didn't Have to Be Magic...",
+      "aired": "2023-09-29T23:00:00+09:00",
+      "airedDate": "2023-09-29T23:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/14/1462566275fbb93b05_w.webp",
+      "imageUrl": "https://simkl.in/episodes/14/1462566275fbb93b05_w.webp",
+      "description": "Frieren instructs Fern in the use of magic while deciphering a grimoire for Heiter."
+    },
+    {
+      "episode": 3,
+      "episodeNumber": 3,
+      "title": "Killing Magic",
+      "aired": "2023-09-29T23:00:00+09:00",
+      "airedDate": "2023-09-29T23:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/14/14625660018c9cccdf_w.webp",
+      "imageUrl": "https://simkl.in/episodes/14/14625660018c9cccdf_w.webp",
+      "description": "While retracing the path she took on her adventure with her former traveling companions, Frieren confronts an old enemy."
+    },
+    {
+      "episode": 4,
+      "episodeNumber": 4,
+      "title": "The Land Where Souls Rest",
+      "aired": "2023-09-29T23:00:00+09:00",
+      "airedDate": "2023-09-29T23:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/14/146256588087a67451_w.webp",
+      "imageUrl": "https://simkl.in/episodes/14/146256588087a67451_w.webp",
+      "description": "Frieren and Fern pay a visit to Eisen, who requests their help in finding the notes of Flamme the Legendary Mage."
+    },
+    {
+      "episode": 5,
+      "episodeNumber": 5,
+      "title": "Phantoms of the Dead",
+      "aired": "2023-10-06T23:00:00+09:00",
+      "airedDate": "2023-10-06T23:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/14/1465592205f8295702_w.webp",
+      "imageUrl": "https://simkl.in/episodes/14/1465592205f8295702_w.webp",
+      "description": "Frieren and Fern investigate ghost sightings at a village where people have started going missing."
+    },
+    {
+      "episode": 6,
+      "episodeNumber": 6,
+      "title": "The Hero of the Village",
+      "aired": "2023-10-13T23:00:00+09:00",
+      "airedDate": "2023-10-13T23:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/14/14674160957b26d4c9_w.webp",
+      "imageUrl": "https://simkl.in/episodes/14/14674160957b26d4c9_w.webp",
+      "description": "Frieren and Fern enlist Stark`s help to fight the solar dragon - but is he up to the task?"
+    },
+    {
+      "episode": 7,
+      "episodeNumber": 7,
+      "title": "Like a Fairy Tale",
+      "aired": "2023-10-20T23:00:00+09:00",
+      "airedDate": "2023-10-20T23:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/14/146852886f8f1e57ff_w.webp",
+      "imageUrl": "https://simkl.in/episodes/14/146852886f8f1e57ff_w.webp",
+      "description": "After reflecting on the transient nature of the past as it exists in people`s collective memories, Frieren unexpectedly runs into a sworn enemy."
+    },
+    {
+      "episode": 8,
+      "episodeNumber": 8,
+      "title": "Frieren the Slayer",
+      "aired": "2023-10-27T23:00:00+09:00",
+      "airedDate": "2023-10-27T23:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/14/147020148d21f73fec_w.webp",
+      "imageUrl": "https://simkl.in/episodes/14/147020148d21f73fec_w.webp",
+      "description": "As tensions in Graf Granat`s domain reach a breaking point, Fern and Stark find their own resolve - and Frieren resumes an old duty."
+    },
+    {
+      "episode": 9,
+      "episodeNumber": 9,
+      "title": "Aura the Guillotine",
+      "aired": "2023-11-03T23:00:00+09:00",
+      "airedDate": "2023-11-03T23:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/14/147278566e6985271f_w.webp",
+      "imageUrl": "https://simkl.in/episodes/14/147278566e6985271f_w.webp",
+      "description": "While Fern and Stark make a temporary retreat with Graf Granat, Frieren`s true foe awaits her outside the city."
+    },
+    {
+      "episode": 10,
+      "episodeNumber": 10,
+      "title": "A Powerful Mage",
+      "aired": "2023-11-10T23:00:00+09:00",
+      "airedDate": "2023-11-10T23:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/14/14795018aa6c7d8e0d_w.webp",
+      "imageUrl": "https://simkl.in/episodes/14/14795018aa6c7d8e0d_w.webp",
+      "description": "Frieren`s many years of training under her teacher Flamme are tested in her confrontation with Aura the Guillotine. Will Aura`s scales find her wanting?"
+    },
+    {
+      "episode": 11,
+      "episodeNumber": 11,
+      "title": "Winter in the Northern Lands",
+      "aired": "2023-11-17T23:00:00+09:00",
+      "airedDate": "2023-11-17T23:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/14/14829094d746aefb75_w.webp",
+      "imageUrl": "https://simkl.in/episodes/14/14829094d746aefb75_w.webp",
+      "description": "Frieren and her companions continue their journey through the northern lands, but obstacles both natural and manmade still stand in their way."
+    },
+    {
+      "episode": 12,
+      "episodeNumber": 12,
+      "title": "A Real Hero",
+      "aired": "2023-11-24T23:00:00+09:00",
+      "airedDate": "2023-11-24T23:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/14/14859000458c095348_w.webp",
+      "imageUrl": "https://simkl.in/episodes/14/14859000458c095348_w.webp",
+      "description": "Deep in the mountains of the northern lands, Frieren and her party arrive at the Village of the Sword, where they have another job to do."
+    },
+    {
+      "episode": 13,
+      "episodeNumber": 13,
+      "title": "Aversion to One's Own Kind",
+      "aired": "2023-12-01T23:00:00+09:00",
+      "airedDate": "2023-12-01T23:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/14/148910905745f10b9e_w.webp",
+      "imageUrl": "https://simkl.in/episodes/14/148910905745f10b9e_w.webp",
+      "description": "While passing by a village in the woods of the northern lands, Frieren and party meet Sein, a gifted priest who is nonetheless corrupt enough to give even Heiter a run for his money. But what happened in his past?"
+    },
+    {
+      "episode": 14,
+      "episodeNumber": 14,
+      "title": "Privilege of the Young",
+      "aired": "2023-12-08T23:00:00+09:00",
+      "airedDate": "2023-12-08T23:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/14/149108612f829264e4_w.webp",
+      "imageUrl": "https://simkl.in/episodes/14/149108612f829264e4_w.webp",
+      "description": "The party arrives in a large and lively town with a bustling shopping district that Frieren once visited with Himmel, but something seems to have come up between Fern and Stark."
+    },
+    {
+      "episode": 15,
+      "episodeNumber": 15,
+      "title": "Smells Like Trouble",
+      "aired": "2023-12-15T23:00:00+09:00",
+      "airedDate": "2023-12-15T23:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/14/14948873786041a26e_w.webp",
+      "imageUrl": "https://simkl.in/episodes/14/14948873786041a26e_w.webp",
+      "description": "When the party happens upon a town whose inhabitants are all mysteriously asleep, it`s time for their newest traveling companion to prove his mettle."
+    },
+    {
+      "episode": 16,
+      "episodeNumber": 16,
+      "title": "Long-Lived Friends",
+      "aired": "2023-12-22T23:00:00+09:00",
+      "airedDate": "2023-12-22T23:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/14/14974131e59c8d59d2_w.webp",
+      "imageUrl": "https://simkl.in/episodes/14/14974131e59c8d59d2_w.webp",
+      "description": "Frieren pays a visit to Old Man Voll, a long-lived friend of hers, with traveling companions in tow."
+    },
+    {
+      "episode": 17,
+      "episodeNumber": 17,
+      "title": "Take Care",
+      "aired": "2024-01-05T23:00:00+09:00",
+      "airedDate": "2024-01-05T23:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/15/150032939b2183d341_w.webp",
+      "imageUrl": "https://simkl.in/episodes/15/150032939b2183d341_w.webp",
+      "description": "Now that Sein finally has a lead on the whereabouts of his long-lost friend, is it time for him and Frieren`s party to part ways?"
+    },
+    {
+      "episode": 18,
+      "episodeNumber": 18,
+      "title": "First-Class Mage Exam",
+      "aired": "2024-01-12T23:00:00+09:00",
+      "airedDate": "2024-01-12T23:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/15/15130297eb3d0d59ce_w.webp",
+      "imageUrl": "https://simkl.in/episodes/15/15130297eb3d0d59ce_w.webp",
+      "description": "Frieren and party finally arrive in Äußerst, ready to undergo the first-class mage exam, and meet a number of colorful characters who are there to do the same."
+    },
+    {
+      "episode": 19,
+      "episodeNumber": 19,
+      "title": "Well-Laid Plans",
+      "aired": "2024-01-19T23:00:00+09:00",
+      "airedDate": "2024-01-19T23:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/15/151660031e80948f02_w.webp",
+      "imageUrl": "https://simkl.in/episodes/15/151660031e80948f02_w.webp",
+      "description": "Frieren and her new teammates hatch a plan to capture a Stille - but are the other teams just going to stand by and let it happen?"
+    },
+    {
+      "episode": 20,
+      "episodeNumber": 20,
+      "title": "Necessary Killing",
+      "aired": "2024-01-26T23:00:00+09:00",
+      "airedDate": "2024-01-26T23:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/15/152046210ee6502fa4_w.webp",
+      "imageUrl": "https://simkl.in/episodes/15/152046210ee6502fa4_w.webp",
+      "description": "The first-class mage exam intensifies as fighting breaks out between the participants - and what`s at stake might even be worth killing for."
+    },
+    {
+      "episode": 21,
+      "episodeNumber": 21,
+      "title": "The World of Magic",
+      "aired": "2024-02-02T23:00:00+09:00",
+      "airedDate": "2024-02-02T23:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/15/15241029c1f5ed4953_w.webp",
+      "imageUrl": "https://simkl.in/episodes/15/15241029c1f5ed4953_w.webp",
+      "description": "Frieren, Kanne, and Lawine struggle with the 13th party over possession of the Stille, but there`ll be more surprises in store before their battle, and the first test, reach their conclusion."
+    },
+    {
+      "episode": 22,
+      "episodeNumber": 22,
+      "title": "Future Enemies",
+      "aired": "2024-02-09T23:00:00+09:00",
+      "airedDate": "2024-02-09T23:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/15/15279183b12b4c7e51_w.webp",
+      "imageUrl": "https://simkl.in/episodes/15/15279183b12b4c7e51_w.webp",
+      "description": "After the conclusion of the first test, the exam participants have some time to kill in town. What do mages get up to on their days off?"
+    },
+    {
+      "episode": 23,
+      "episodeNumber": 23,
+      "title": "Conquering the Labyrinth",
+      "aired": "2024-02-16T23:00:00+09:00",
+      "airedDate": "2024-02-16T23:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/15/15325315890df5313f_w.webp",
+      "imageUrl": "https://simkl.in/episodes/15/15325315890df5313f_w.webp",
+      "description": "The aspiring first-class mages now face their second test: conquering the Ruins of the King`s Tomb. A simple task, or so the proctor claims, but there`s a reason this particular dungeon remains unexplored."
+    },
+    {
+      "episode": 24,
+      "episodeNumber": 24,
+      "title": "Perfect Replicas",
+      "aired": "2024-02-23T23:00:00+09:00",
+      "airedDate": "2024-02-23T23:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/15/15359905ef96067f4b_w.webp",
+      "imageUrl": "https://simkl.in/episodes/15/15359905ef96067f4b_w.webp",
+      "description": "Due to the Spiegel, a legendary monster that can create perfect replicas of others, the test-takers who would conquer the Ruins of the King`s Tomb must first face the ultimate enemy: themselves."
+    },
+    {
+      "episode": 25,
+      "episodeNumber": 25,
+      "title": "A Fatal Vulnerability",
+      "aired": "2024-03-01T23:00:00+09:00",
+      "airedDate": "2024-03-01T23:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/15/153868773c3bd3cab6_w.webp",
+      "imageUrl": "https://simkl.in/episodes/15/153868773c3bd3cab6_w.webp",
+      "description": "A perfect imitation of Frieren stands between the test-takers and victory, but Fern believes she knows how to win. Is it time for the student to surpass the master?"
+    },
+    {
+      "episode": 26,
+      "episodeNumber": 26,
+      "title": "The Height of Magic",
+      "aired": "2024-03-08T23:00:00+09:00",
+      "airedDate": "2024-03-08T23:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/15/15437029faa5c6953a_w.webp",
+      "imageUrl": "https://simkl.in/episodes/15/15437029faa5c6953a_w.webp",
+      "description": null
+    },
+    {
+      "episode": 27,
+      "episodeNumber": 27,
+      "title": "An Era of Humans",
+      "aired": "2024-03-15T23:00:00+09:00",
+      "airedDate": "2024-03-15T23:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/15/15467647eb5597d204_w.webp",
+      "imageUrl": "https://simkl.in/episodes/15/15467647eb5597d204_w.webp",
+      "description": "With the second test behind them, only one remains - but first, Frieren and Fern need to settle an important matter in town. What awaits them in the third test?"
+    },
+    {
+      "episode": 28,
+      "episodeNumber": 28,
+      "title": "It Would Be Embarrassing When We Met Again",
+      "aired": "2024-03-22T23:00:00+09:00",
+      "airedDate": "2024-03-22T23:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/15/154872257cbf0117a3_w.webp",
+      "imageUrl": "https://simkl.in/episodes/15/154872257cbf0117a3_w.webp",
+      "description": "As the first-class mage exam concludes and the test-takers go their separate ways, farewell leads to departure - but the next stage of Frieren`s journey has only just begun."
+    }
+  ],
+  "specials_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Magic Episode 1: Magic to Say What You Are Thinking",
+      "aired": "2023-10-11T23:00:00+09:00",
+      "airedDate": "2023-10-11T23:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": "Frieren, Heiter, and Eisen test the spell that causes the user to say whatever they are thinking on Himmel, who begins to wax-poetic about his looks aloud. The three of them agree that it would be unbearable to listen to it long term."
+    },
+    {
+      "episode": 2,
+      "episodeNumber": 2,
+      "title": "Magic Episode 2: Magic to Just Remove Alcohol from Booze",
+      "aired": "2023-10-25T23:00:00+09:00",
+      "airedDate": "2023-10-25T23:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": "After using the spell that removes just the alcohol from an alcoholic drink, Frieren, Himmel, and Eisen taste the drink and can`t tell the difference. They then urge Heiter to try the drink, but he immediately guesses that the drink isn`t alcoholic, to which the party all call him a Corrupt Priest."
+    },
+    {
+      "episode": 3,
+      "episodeNumber": 3,
+      "title": "Magic Episode 3: Magic to Wake Up at the Right Time at Morning",
+      "aired": "2023-11-15T23:00:00+09:00",
+      "airedDate": "2023-11-15T23:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": "Frieren, Heiter, and Eisen test the spell that causes the user to say whatever they are thinking on Himmel, who begins to wax-poetic about his looks aloud. The three of them agree that it would be unbearable to listen to it long term."
+    },
+    {
+      "episode": 4,
+      "episodeNumber": 4,
+      "title": "Magic Episode 4: Magic to Make a Good Scent Come from the Body",
+      "aired": "2023-11-29T23:00:00+09:00",
+      "airedDate": "2023-11-29T23:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": "Frieren and Fern wonder what type of good smell the spell produces. They try it on Stark, and find that he smells like grilled meat. The two conclude that the smell is based on the user`s definition of a good smell. Stark asks what`s for dinner, and both Frieren and Fern exclaim that they want meat, scaring Stark."
+    },
+    {
+      "episode": 5,
+      "episodeNumber": 5,
+      "title": "Magic Special Episode: Magic to Make for a Merry Dining Table",
+      "aired": "2023-12-14T23:00:00+09:00",
+      "airedDate": "2023-12-14T23:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": "Frieren`s Party test the spell, which produces a bottle of Ajipon. They try the sauce with meat and find that it is delicious. Stark wonders if the sauce would taste good with dragon meat, and Frieren and Fern tell him to go defeat a dragon on his own so they can see."
+    },
+    {
+      "episode": 6,
+      "episodeNumber": 6,
+      "title": "Magic Episode 5: Magic to Improve Luck",
+      "aired": "2023-12-27T23:00:00+09:00",
+      "airedDate": "2023-12-27T23:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": "Frieren`s Party test the spell on Stark, who proceeds to have exceptional luck. The path they pick has no monsters and he wins a grand prize. Seeing this, Sein asks Frieren to cast the spell on him. He then goes gambling, but later returns with no clothes. Stark wonders if the spell didn`t work, but Frieren says that Sein is just bad."
+    },
+    {
+      "episode": 7,
+      "episodeNumber": 7,
+      "title": "Magic Episode 6: Magic to Remove Annoying Oil Stains",
+      "aired": "2024-01-10T23:00:00+09:00",
+      "airedDate": "2024-01-10T23:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": "Sein has the idea of using the spell for profit by charging people who need tough oil stains removed from their pots and pans. However, because they offer to clean the first pot or pan for free, everyone only brings one pot or pan, and it ends up being volunteer work for Frieren."
+    },
+    {
+      "episode": 8,
+      "episodeNumber": 8,
+      "title": "Magic Episode 7: Magic to Speak Extremely Fast Without Faltering",
+      "aired": "2024-01-24T23:00:00+09:00",
+      "airedDate": "2024-01-24T23:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": "Frieren and Heiter try the spell out on the taciturn Eisen. At first the spell doesn`t seem to have worked, but when they ask him about a recent battle, both his speech and his movements increase in speed. Frieren and Heiter conclude that it`s good for people to have their own manner of speech."
+    },
+    {
+      "episode": 9,
+      "episodeNumber": 9,
+      "title": "Magic Episode 8: Magic to Understand the Feelings of a Fish",
+      "aired": "2024-02-07T23:00:00+09:00",
+      "airedDate": "2024-02-07T23:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": "Frieren and Fern decide to test the spell on fish that Stark has caught while he gathers firewood. The fish speak pitifully and bemoan their family`s bad luck, as their father was caught the day before. They wonder if they will be roasted or simmered. Frieren and Fern lose the appetite for fish and ask Stark to release them to his shock."
+    },
+    {
+      "episode": 10,
+      "episodeNumber": 10,
+      "title": "Magic Episode 9: Magic to Improve Luck (Part 2)",
+      "aired": "2024-02-19T23:00:00+09:00",
+      "airedDate": "2024-02-19T23:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": "Frieren`s Party encounter three treasure chests. Fern cautions that at least one of them must be a mimic, so Stark suggests using the magic that brings good luck. The first chest contains gold and treasure, and the second chest contains a rare grimoire. To their dismay, Frieren insists on opening the third chest, which is a mimic. She gets caught and yells that it is dark and scary inside, and Fern wonders if Frieren did this on purpose."
+    },
+    {
+      "episode": 11,
+      "episodeNumber": 11,
+      "title": "Magic Episode 10: Magic to Develop a Weird Sentence Ender",
+      "aired": "2024-03-11T23:00:00+09:00",
+      "airedDate": "2024-03-11T23:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 12,
+      "episodeNumber": 12,
+      "title": "Magic Episode 11: Magic to Completely Remove Filth from Clothes",
+      "aired": "2024-03-24T23:00:00+09:00",
+      "airedDate": "2024-03-24T23:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": "Frieren`s Party encounter three treasure chests. Fern cautions that at least one of them must be a mimic, so Stark suggests using the magic that brings good luck. The first chest contains gold and treasure, and the second chest contains a rare grimoire. To their dismay, Frieren insists on opening the third chest, which is a mimic. She gets caught and yells that it is dark and scary inside, and Fern wonders if Frieren did this on purpose."
+    },
+    {
+      "episode": 13,
+      "episodeNumber": 13,
+      "title": "Magic Episode 12: Magic to Grow Taller",
+      "aired": "2025-04-02T23:00:00+09:00",
+      "airedDate": "2025-04-02T23:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 14,
+      "episodeNumber": 14,
+      "title": "Magic Episode 13: Magic to Have a Full Stomach",
+      "aired": "2025-05-07T23:00:00+09:00",
+      "airedDate": "2025-05-07T23:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 15,
+      "episodeNumber": 15,
+      "title": "Magic Episode 14: Magic to Slash Almost Anything",
+      "aired": "2025-06-04T23:00:00+09:00",
+      "airedDate": "2025-06-04T23:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 16,
+      "episodeNumber": 16,
+      "title": "Magic Episode 15: Magic to Move at High Speeds",
+      "aired": "2025-07-02T23:00:00+09:00",
+      "airedDate": "2025-07-02T23:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 17,
+      "episodeNumber": 17,
+      "title": "Magic Episode 16: Magic to Make Your Surroundings Cool",
+      "aired": "2025-08-06T23:00:00+09:00",
+      "airedDate": "2025-08-06T23:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 18,
+      "episodeNumber": 18,
+      "title": "Magic Episode 17: Magic to Seal Special Techniques",
+      "aired": "2025-09-03T23:00:00+09:00",
+      "airedDate": "2025-09-03T23:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 19,
+      "episodeNumber": 19,
+      "title": "Journey's Memory Special Video",
+      "aired": "2024-03-23T23:00:00+09:00",
+      "airedDate": "2024-03-23T23:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 20,
+      "episodeNumber": 20,
+      "title": "Episode S20",
+      "aired": "2024-03-29T23:00:00+09:00",
+      "airedDate": "2024-03-29T23:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 21,
+      "episodeNumber": 21,
+      "title": "Episode S21",
+      "aired": "2023-09-24T23:00:00+09:00",
+      "airedDate": "2023-09-24T23:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 22,
+      "episodeNumber": 22,
+      "title": "Episode S22",
+      "aired": "2023-09-29T23:00:00+09:00",
+      "airedDate": "2023-09-29T23:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 23,
+      "episodeNumber": 23,
+      "title": "Episode S23",
+      "aired": "2023-12-04T23:00:00+09:00",
+      "airedDate": "2023-12-04T23:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 24,
+      "episodeNumber": 24,
+      "title": "Episode S24",
+      "aired": "2024-02-13T23:00:00+09:00",
+      "airedDate": "2024-02-13T23:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 25,
+      "episodeNumber": 25,
+      "title": "Completed Screening Theater Greeting Event",
+      "aired": "2023-09-23T23:00:00+09:00",
+      "airedDate": "2023-09-23T23:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ]
 }

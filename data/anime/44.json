@@ -73,28 +73,28 @@
   "pictures": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1656/137618.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1656/137618l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1656/137618.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1656/137618l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1656/137618.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1656/137618l.webp",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1656/137618.webp",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1656/137618l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1656/137618.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1656/137618l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1656/137618.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1656/137618l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1656/137618l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1656/137618l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1656/137618l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1656/137618l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1656/137618l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1656/137618l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1656/137618l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1656/137618l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1656/137618l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1656/137618l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1656/137618l.webp",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1656/137618l.webp",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1656/137618l.webp",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1656/137618l.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1656/137618l.webp",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1656/137618l.webp",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1656/137618l.webp",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1656/137618l.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1656/137618l.webp",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1656/137618l.webp"
     }
   },
   "broadcast": null,
@@ -110,5 +110,60 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": null,
+  "simkl_id": 39604,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "The Man of the Slashing Sword",
+      "aired": "1999-02-20T00:00:00+09:00",
+      "airedDate": "1999-02-20T00:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 2,
+      "episodeNumber": 2,
+      "title": "The Lost Cat",
+      "aired": "1999-04-21T00:00:00+09:00",
+      "airedDate": "1999-04-21T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/2020132c6fc5ce1ac_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/2020132c6fc5ce1ac_w.webp",
+      "description": null
+    },
+    {
+      "episode": 3,
+      "episodeNumber": 3,
+      "title": "The Previous Night at the Mountain Home",
+      "aired": "1999-06-19T00:00:00+09:00",
+      "airedDate": "1999-06-19T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/63/6389681bec615097_w.webp",
+      "imageUrl": "https://simkl.in/episodes/63/6389681bec615097_w.webp",
+      "description": null
+    },
+    {
+      "episode": 4,
+      "episodeNumber": 4,
+      "title": "The Cross-Shaped Wound",
+      "aired": "1999-09-22T00:00:00+09:00",
+      "airedDate": "1999-09-22T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/202013635619203cf_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/202013635619203cf_w.webp",
+      "description": null
+    }
+  ],
+  "specials_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Director's Cut",
+      "aired": "1999-12-18T00:00:00+09:00",
+      "airedDate": "1999-12-18T00:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ]
 }

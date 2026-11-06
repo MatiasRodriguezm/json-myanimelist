@@ -31,8 +31,8 @@
   "num_episodes": null,
   "score": 7.22,
   "mean": 7.22,
-  "numListUsers": 22649,
-  "num_list_users": 22649,
+  "numListUsers": 22657,
+  "num_list_users": 22657,
   "genres": [
     {
       "id": 2,
@@ -104,5 +104,89 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": null,
+  "simkl_id": 2505906,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "From Another World",
+      "aired": "2026-10-07T23:45:00+09:00",
+      "airedDate": "2026-10-07T23:45:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/208145014c5b59cd0d_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/208145014c5b59cd0d_w.webp",
+      "description": null
+    },
+    {
+      "episode": 2,
+      "episodeNumber": 2,
+      "title": "The Legend Begins",
+      "aired": "2026-10-14T23:45:00+09:00",
+      "airedDate": "2026-10-14T23:45:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20853897f887d4335f_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20853897f887d4335f_w.webp",
+      "description": null
+    },
+    {
+      "episode": 3,
+      "episodeNumber": 3,
+      "title": "All in the Same Boat",
+      "aired": "2026-10-21T23:45:00+09:00",
+      "airedDate": "2026-10-21T23:45:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20898239d11f123f7e_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20898239d11f123f7e_w.webp",
+      "description": null
+    },
+    {
+      "episode": 4,
+      "episodeNumber": 4,
+      "title": "Our Battle",
+      "aired": "2026-10-28T23:45:00+09:00",
+      "airedDate": "2026-10-28T23:45:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20943239afd03265ed_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20943239afd03265ed_w.webp",
+      "description": null
+    },
+    {
+      "episode": 5,
+      "episodeNumber": 5,
+      "title": "Episode 5",
+      "aired": "2026-11-04T23:45:00+09:00",
+      "airedDate": "2026-11-04T23:45:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/209912018ecab25a33_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/209912018ecab25a33_w.webp",
+      "description": null
+    },
+    {
+      "episode": 6,
+      "episodeNumber": 6,
+      "title": "Episode 6",
+      "aired": "2026-11-11T23:45:00+09:00",
+      "airedDate": "2026-11-11T23:45:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 7,
+      "episodeNumber": 7,
+      "title": "Episode 7",
+      "aired": "2026-11-18T23:45:00+09:00",
+      "airedDate": "2026-11-18T23:45:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 8,
+      "episodeNumber": 8,
+      "title": "Episode 8",
+      "aired": "2026-11-25T23:45:00+09:00",
+      "airedDate": "2026-11-25T23:45:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ],
+  "specials_data": []
 }

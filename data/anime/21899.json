@@ -34,8 +34,8 @@
   "num_episodes": 2,
   "score": 8.41,
   "mean": 8.41,
-  "numListUsers": 49373,
-  "num_list_users": 49373,
+  "numListUsers": 49371,
+  "num_list_users": 49371,
   "genres": [
     {
       "id": 1,
@@ -116,5 +116,29 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": null,
+  "simkl_id": 47312,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Shinsengumi Crisis Arc",
+      "aired": "2012-08-26T00:00:00+09:00",
+      "airedDate": "2012-08-26T00:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 2,
+      "episodeNumber": 2,
+      "title": "Kabukichou Four Devas Arc",
+      "aired": "2012-08-26T00:00:00+09:00",
+      "airedDate": "2012-08-26T00:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ],
+  "specials_data": []
 }

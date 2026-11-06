@@ -32,8 +32,8 @@
   "num_episodes": 1,
   "score": null,
   "mean": null,
-  "numListUsers": 48660,
-  "num_list_users": 48660,
+  "numListUsers": 48668,
+  "num_list_users": 48668,
   "genres": [
     {
       "id": 7,
@@ -90,5 +90,19 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": null,
+  "simkl_id": 1814376,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Complete Movie",
+      "aired": "2026-11-20T00:00:00+09:00",
+      "airedDate": "2026-11-20T00:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ],
+  "specials_data": []
 }

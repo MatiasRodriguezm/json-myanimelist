@@ -29,8 +29,8 @@
   "num_episodes": 1,
   "score": 8.59,
   "mean": 8.59,
-  "numListUsers": 843822,
-  "num_list_users": 843822,
+  "numListUsers": 843831,
+  "num_list_users": 843831,
   "genres": [
     {
       "id": 8,
@@ -95,5 +95,30 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": null,
+  "simkl_id": 911137,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Complete Movie",
+      "aired": "2019-06-15T00:00:00+09:00",
+      "airedDate": "2019-06-15T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/1755020194ca5567cd_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/1755020194ca5567cd_w.webp",
+      "description": null
+    }
+  ],
+  "specials_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Opening Day Stage Greeting",
+      "aired": "2019-11-27T00:00:00+09:00",
+      "airedDate": "2019-11-27T00:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ]
 }

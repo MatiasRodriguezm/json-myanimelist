@@ -32,8 +32,8 @@
   "num_episodes": null,
   "score": 7.43,
   "mean": 7.43,
-  "numListUsers": 30597,
-  "num_list_users": 30597,
+  "numListUsers": 30622,
+  "num_list_users": 30622,
   "genres": [
     {
       "id": 1,
@@ -109,5 +109,89 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": null,
+  "simkl_id": 2716148,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Item",
+      "aired": "2026-10-03T22:30:00+09:00",
+      "airedDate": "2026-10-03T22:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/2082731952693aa7f8_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/2082731952693aa7f8_w.webp",
+      "description": null
+    },
+    {
+      "episode": 2,
+      "episodeNumber": 2,
+      "title": "Saiai Kinuhata - Newcomer",
+      "aired": "2026-10-16T22:30:00+09:00",
+      "airedDate": "2026-10-16T22:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20884371945d7517cb_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20884371945d7517cb_w.webp",
+      "description": null
+    },
+    {
+      "episode": 3,
+      "episodeNumber": 3,
+      "title": "Choubi Hanano: The Fifth",
+      "aired": "2026-10-23T22:30:00+09:00",
+      "airedDate": "2026-10-23T22:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/209351879c4f59f21a_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/209351879c4f59f21a_w.webp",
+      "description": null
+    },
+    {
+      "episode": 4,
+      "episodeNumber": 4,
+      "title": "Mitori Kouzaku: Liquid Shadow",
+      "aired": "2026-10-30T22:30:00+09:00",
+      "airedDate": "2026-10-30T22:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/209766337155b11cca_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/209766337155b11cca_w.webp",
+      "description": null
+    },
+    {
+      "episode": 5,
+      "episodeNumber": 5,
+      "title": "Episode 5",
+      "aired": "2026-11-06T22:30:00+09:00",
+      "airedDate": "2026-11-06T22:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/21/210227856cbb0108d8_w.webp",
+      "imageUrl": "https://simkl.in/episodes/21/210227856cbb0108d8_w.webp",
+      "description": null
+    },
+    {
+      "episode": 6,
+      "episodeNumber": 6,
+      "title": "Episode 6",
+      "aired": "2026-11-13T22:30:00+09:00",
+      "airedDate": "2026-11-13T22:30:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 7,
+      "episodeNumber": 7,
+      "title": "Episode 7",
+      "aired": "2026-11-20T22:30:00+09:00",
+      "airedDate": "2026-11-20T22:30:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 8,
+      "episodeNumber": 8,
+      "title": "Episode 8",
+      "aired": "2026-11-27T22:30:00+09:00",
+      "airedDate": "2026-11-27T22:30:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ],
+  "specials_data": []
 }

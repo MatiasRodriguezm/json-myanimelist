@@ -29,8 +29,8 @@
   "num_episodes": 8,
   "score": null,
   "mean": null,
-  "numListUsers": 6649,
-  "num_list_users": 6649,
+  "numListUsers": 6653,
+  "num_list_users": 6653,
   "genres": [
     {
       "id": 10,
@@ -99,5 +99,19 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": null,
+  "simkl_id": 2735128,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Episode 1",
+      "aired": "2026-12-01T00:00:00+09:00",
+      "airedDate": "2026-12-01T00:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ],
+  "specials_data": []
 }

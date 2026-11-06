@@ -32,8 +32,8 @@
   "num_episodes": 25,
   "score": 8.92,
   "mean": 8.92,
-  "numListUsers": 1993481,
-  "num_list_users": 1993481,
+  "numListUsers": 1993511,
+  "num_list_users": 1993511,
   "genres": [
     {
       "id": 46,
@@ -113,5 +113,520 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": null,
+  "simkl_id": 41541,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "The Day a Demon Awakens",
+      "aired": "2008-04-06T17:00:00+09:00",
+      "airedDate": "2008-04-06T17:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/17575901c751fc5a59_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/17575901c751fc5a59_w.webp",
+      "description": "It’s a year after the battle between the Black Knights and the Britannian army. Zero is dead, and only a handful of Black Knights remain. But Lelouch is alive with no memory of the last year. Is it a trick or all part of a greater plan?"
+    },
+    {
+      "episode": 2,
+      "episodeNumber": 2,
+      "title": "Plan for Independent Japan",
+      "aired": "2008-04-13T17:00:00+09:00",
+      "airedDate": "2008-04-13T17:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/175759033b8ea18afd_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/175759033b8ea18afd_w.webp",
+      "description": "With his memories back, Lelouch brings Zero to life once more. But there’s a year’s worth of work to rebuild and still many unknown variables. What new advantages will the Britannian army have against them, and is Zero up to the task to face them again?"
+    },
+    {
+      "episode": 3,
+      "episodeNumber": 3,
+      "title": "Imprisoned in Campus",
+      "aired": "2008-04-20T17:00:00+09:00",
+      "airedDate": "2008-04-20T17:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/17575905d14bb5765d_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/17575905d14bb5765d_w.webp",
+      "description": "Lelouch tries to get clues about Nunnally’s whereabouts, but no one around him remembers her. To find her, he’ll have to figure out his mysterious new brother, Rolo. But he’ll have to do it while maintaining the guise that his memory hasn’t returned."
+    },
+    {
+      "episode": 4,
+      "episodeNumber": 4,
+      "title": "Counterattack at the Gallows",
+      "aired": "2008-04-27T17:00:00+09:00",
+      "airedDate": "2008-04-27T17:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/1757590713bdc8a8fa_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/1757590713bdc8a8fa_w.webp",
+      "description": "Lelouch only has a short time to save the imprisoned Black Knights and regain his followers. But he also needs to figure out Rolo and his role in Britannian’s game. Will this boy and his Geass keep Lelouch from bringing back the Black Knights?"
+    },
+    {
+      "episode": 5,
+      "episodeNumber": 5,
+      "title": "Knights of the Round",
+      "aired": "2008-05-04T17:00:00+09:00",
+      "airedDate": "2008-05-04T17:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/175759098e3b4826dd_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/175759098e3b4826dd_w.webp",
+      "description": "Suzaku returns to Ashford Academy to monitor Lelouch, determined to see if the other has regained his memories. Lelouch must take more care around the Britannian soldier. But when Suzaku plays an unexpected card, Lelouch’s guard may fall to pieces."
+    },
+    {
+      "episode": 6,
+      "episodeNumber": 6,
+      "title": "Surprise Attack over the Pacific",
+      "aired": "2008-05-11T17:00:00+09:00",
+      "airedDate": "2008-05-11T17:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/175759111558d3f5a2_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/175759111558d3f5a2_w.webp",
+      "description": "Nunnally is set to be the new Viceroy of Area 11, and Lelouch will take every chance to get her back. But the reunion he wants may not go quite as planned. Has Nunnally chosen Suzaku over her beloved brother?"
+    },
+    {
+      "episode": 7,
+      "episodeNumber": 7,
+      "title": "The Abandoned Mask",
+      "aired": "2008-05-18T17:00:00+09:00",
+      "airedDate": "2008-05-18T17:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/17575913e6ff11b9f1_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/17575913e6ff11b9f1_w.webp",
+      "description": "When Nunnally reveals her plans on starting the Nippon special zone again, Lelouch realizes that he may no longer be needed at her side. Has Zero’s purpose been lost? Has the time come to drop the mask and stop his game?"
+    },
+    {
+      "episode": 8,
+      "episodeNumber": 8,
+      "title": "One Million Miracles",
+      "aired": "2008-05-25T17:00:00+09:00",
+      "airedDate": "2008-05-25T17:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/175759152b64eeef9e_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/175759152b64eeef9e_w.webp",
+      "description": "Zero agrees to join the Nippon special zone, much to the surprise of the Black Knights. He makes a deal with the Britannian army that will lead to his exile. But exile is the same as running away; has Zero forsaken the Japanese and his plans?"
+    },
+    {
+      "episode": 9,
+      "episodeNumber": 9,
+      "title": "A Bride in the Vermilion Forbidden City",
+      "aired": "2008-06-08T17:00:00+09:00",
+      "airedDate": "2008-06-08T17:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/17575917044380bbf6_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/17575917044380bbf6_w.webp",
+      "description": "A wedding is set to occur between the empress of the Chinese Federation and the first prince of Britannia. If the Chinese Federation turns on the Black Knights, everything they’ve work towards could come to an end. Will Zero dare to crash a royal wedding?"
+    },
+    {
+      "episode": 10,
+      "episodeNumber": 10,
+      "title": "When Shen Hu Wins Glory",
+      "aired": "2008-06-15T17:00:00+09:00",
+      "airedDate": "2008-06-15T17:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/175759192deb7f31ba_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/175759192deb7f31ba_w.webp",
+      "description": "Zero absconds with the empress, taking her out of the Vermilion City. Before he can get far, they are stopped by an unknown Knightmare. The Chinese Federation gains the advantage, taking one of the Black Knights hostage. Can the Knights afford the loss?"
+    },
+    {
+      "episode": 11,
+      "episodeNumber": 11,
+      "title": "Power of Passion",
+      "aired": "2008-06-22T17:00:00+09:00",
+      "airedDate": "2008-06-22T17:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/175759211b9f414cba_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/175759211b9f414cba_w.webp",
+      "description": "The Black Knights continue their fight against the Chinese, but the battle takes a turn for the worse when the Britannians back the Eunuchs. They no longer care about the empress’ wellbeing, meaning Zero may have lost his bargaining chip…and the battle."
+    },
+    {
+      "episode": 12,
+      "episodeNumber": 12,
+      "title": "Love Attack!",
+      "aired": "2008-06-29T17:00:00+09:00",
+      "airedDate": "2008-06-29T17:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/17575923eb5594f59e_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/17575923eb5594f59e_w.webp",
+      "description": "The Knights of Round have become students at Ashford Academy right as Lelouch has returned. But he has other worries, like the countless dates his stand-in set up while he was away. Lelouch must take on his next challenge—Cupid Day!"
+    },
+    {
+      "episode": 13,
+      "episodeNumber": 13,
+      "title": "Assassin from the Past",
+      "aired": "2008-07-06T17:00:00+09:00",
+      "airedDate": "2008-07-06T17:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/17575925a4b68e0380_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/17575925a4b68e0380_w.webp",
+      "description": "Jeremiah seeks out Lelouch to end their dance once and for all. With his ability to cancel Lelouch’s Geass power, Jeremiah may be more of a threat than expected. Or will an unexpected connection change their dynamic?"
+    },
+    {
+      "episode": 14,
+      "episodeNumber": 14,
+      "title": "Geass Hunt",
+      "aired": "2008-07-13T17:00:00+09:00",
+      "airedDate": "2008-07-13T17:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/175759278aa8570df6_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/175759278aa8570df6_w.webp",
+      "description": "With Shirley’s death hanging over him, Lelouch directs his anger towards the Geass power. He makes his first contact with the mysterious V.V. and declares war. Meanwhile, Suzaku plans to take drastic measures to force answers about Lelouch out of Kallen."
+    },
+    {
+      "episode": 15,
+      "episodeNumber": 15,
+      "title": "The Cs' World",
+      "aired": "2008-07-20T17:00:00+09:00",
+      "airedDate": "2008-07-20T17:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/17575929a35883a955_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/17575929a35883a955_w.webp",
+      "description": "Finally, Lelouch comes face to face with his father. Everything he’s planned and schemed has led to this confrontation. But when C.C. shows up, suddenly the truth about his contract and her past change everything he thought he understood."
+    },
+    {
+      "episode": 16,
+      "episodeNumber": 16,
+      "title": "United Federation of Nations Resolution Number One",
+      "aired": "2008-07-27T17:00:00+09:00",
+      "airedDate": "2008-07-27T17:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/1757593129dab75025_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/1757593129dab75025_w.webp",
+      "description": "The emperor is missing, and Zero takes the chance to ratify the United Federation of Nations. With the 47 nations involved, they will have enough backing to declare war on the Britannian Empire, finally freeing their countries. But nothing is ever so easy…"
+    },
+    {
+      "episode": 17,
+      "episodeNumber": 17,
+      "title": "The Taste of Humiliation",
+      "aired": "2008-08-03T17:00:00+09:00",
+      "airedDate": "2008-08-03T17:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/17575933f858790144_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/17575933f858790144_w.webp",
+      "description": "While the war rages on, Lelouch begs for Suzaku’s help in making sure Nunnally will be safe. But with the death of Euphemia and Shirley still heavy in his heart, will Suzaku be able to do this for Zero, the murderer, or is it for Lelouch, his oldest friend?"
+    },
+    {
+      "episode": 18,
+      "episodeNumber": 18,
+      "title": "Final Battle Tokyo II",
+      "aired": "2008-08-10T17:00:00+09:00",
+      "airedDate": "2008-08-10T17:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/17575935eeadcc2726_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/17575935eeadcc2726_w.webp",
+      "description": "The battle for Tokyo fills the sky. The Black Knights take out the power gaining temporary advantage, but when Suzaku appears, he threatens to use Britannian’s most terrifying weapon: the F.L.E.I.J.A. But to fire such a devastating weapon…is it worth it?"
+    },
+    {
+      "episode": 19,
+      "episodeNumber": 19,
+      "title": "Betrayal",
+      "aired": "2008-08-17T17:00:00+09:00",
+      "airedDate": "2008-08-17T17:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/17575937225e5ec87a_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/17575937225e5ec87a_w.webp",
+      "description": "Nunnally is gone. Lelouch cannot deal with the grief, and as he locks himself away, Prince Schneizel calls a temporary ceasefire to reveal the truth behind Zero to his Black Knights. When they learn of his Geass, will this be the end of the Black Knights?"
+    },
+    {
+      "episode": 20,
+      "episodeNumber": 20,
+      "title": "Emperor Dismissed",
+      "aired": "2008-08-24T17:00:00+09:00",
+      "airedDate": "2008-08-24T17:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/175759396d294a7be0_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/175759396d294a7be0_w.webp",
+      "description": "Lelouch has lost everything and knows the only thing left is to take out his father, the Emperor. But he’s not the only one bent on seeking him out. Suzaku, on Schneizel’s orders, plans to assassinate the Emperor. What awaits the two on Kamine Island?"
+    },
+    {
+      "episode": 21,
+      "episodeNumber": 21,
+      "title": "The Ragnarok Connection",
+      "aired": "2008-08-31T17:00:00+09:00",
+      "airedDate": "2008-08-31T17:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/17575941ed2899221b_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/17575941ed2899221b_w.webp",
+      "description": "Having trapped himself and his father, Lelouch finally demands the truth behind his mother’s death. When Marianne herself appears, everything that Lelouch thought he knew crumbles around him. It’s time to face the truth from the beginning."
+    },
+    {
+      "episode": 22,
+      "episodeNumber": 22,
+      "title": "Emperor Lelouch",
+      "aired": "2008-09-07T17:00:00+09:00",
+      "airedDate": "2008-09-07T17:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/17575943397fe92ef9_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/17575943397fe92ef9_w.webp",
+      "description": "Lelouch has overtaken the empire, establishing himself as Emperor. He starts by abolishing the aristocracy and announcing Suzaku as the Knight of Zero. Lelouch announces that Britannia will join the U.F.N., but Schneizel makes an unexpected move."
+    },
+    {
+      "episode": 23,
+      "episodeNumber": 23,
+      "title": "Schneizel's Guise",
+      "aired": "2008-09-14T17:00:00+09:00",
+      "airedDate": "2008-09-14T17:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/1757594520026a7f83_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/1757594520026a7f83_w.webp",
+      "description": "Nunnally has declared Lelouch and Suzaku as her enemies. By siding with Schneizel she is allowing the use of the F.L.E.I.J.A., but she has been led to believe the destructive weapon would be used only when necessary. However, Schneizel has other plans"
+    },
+    {
+      "episode": 24,
+      "episodeNumber": 24,
+      "title": "The Grip of Damocles",
+      "aired": "2008-09-21T17:00:00+09:00",
+      "airedDate": "2008-09-21T17:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/1757594763933f669c_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/1757594763933f669c_w.webp",
+      "description": "The Black Knights fight a close battle with Schneizel, neither side giving way. Before the F.L.E.I.J.A.’s can destroy them all, Lelouch must outsmart the brother he has never beaten and face the sister he has spent his life protecting."
+    },
+    {
+      "episode": 25,
+      "episodeNumber": 25,
+      "title": "Re;",
+      "aired": "2008-09-28T17:00:00+09:00",
+      "airedDate": "2008-09-28T17:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/175759492d51ce1bfe_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/175759492d51ce1bfe_w.webp",
+      "description": "Lelouch makes his final move; Zero Requiem takes action."
+    }
+  ],
+  "specials_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Picture Drama 1",
+      "aired": "2008-08-22T17:00:00+09:00",
+      "airedDate": "2008-08-22T17:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/175758839dcc725630_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/175758839dcc725630_w.webp",
+      "description": null
+    },
+    {
+      "episode": 2,
+      "episodeNumber": 2,
+      "title": "Picture Drama 2",
+      "aired": "2008-09-26T17:00:00+09:00",
+      "airedDate": "2008-09-26T17:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/17575863785520846b_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/17575863785520846b_w.webp",
+      "description": null
+    },
+    {
+      "episode": 3,
+      "episodeNumber": 3,
+      "title": "Picture Drama 3",
+      "aired": "2008-10-24T17:00:00+09:00",
+      "airedDate": "2008-10-24T17:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/175758659403103683_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/175758659403103683_w.webp",
+      "description": null
+    },
+    {
+      "episode": 4,
+      "episodeNumber": 4,
+      "title": "Picture Drama 4",
+      "aired": "2008-11-21T17:00:00+09:00",
+      "airedDate": "2008-11-21T17:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/175758674ae9bfcf85_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/175758674ae9bfcf85_w.webp",
+      "description": null
+    },
+    {
+      "episode": 5,
+      "episodeNumber": 5,
+      "title": "Picture Drama 5",
+      "aired": "2008-12-19T17:00:00+09:00",
+      "airedDate": "2008-12-19T17:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/1757587126c11db778_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/1757587126c11db778_w.webp",
+      "description": null
+    },
+    {
+      "episode": 6,
+      "episodeNumber": 6,
+      "title": "Picture Drama 6",
+      "aired": "2009-01-23T17:00:00+09:00",
+      "airedDate": "2009-01-23T17:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/1757587374015de4b9_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/1757587374015de4b9_w.webp",
+      "description": null
+    },
+    {
+      "episode": 7,
+      "episodeNumber": 7,
+      "title": "Picture Drama 7",
+      "aired": "2009-02-20T17:00:00+09:00",
+      "airedDate": "2009-02-20T17:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/1757587558aee9b363_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/1757587558aee9b363_w.webp",
+      "description": null
+    },
+    {
+      "episode": 8,
+      "episodeNumber": 8,
+      "title": "Picture Drama 8",
+      "aired": "2009-03-27T17:00:00+09:00",
+      "airedDate": "2009-03-27T17:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/1757587792c0e84f88_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/1757587792c0e84f88_w.webp",
+      "description": null
+    },
+    {
+      "episode": 9,
+      "episodeNumber": 9,
+      "title": "Picture Drama 9",
+      "aired": "2009-04-24T17:00:00+09:00",
+      "airedDate": "2009-04-24T17:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/175758796cc5767ff2_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/175758796cc5767ff2_w.webp",
+      "description": null
+    },
+    {
+      "episode": 10,
+      "episodeNumber": 10,
+      "title": "Picture Drama 10",
+      "aired": "2015-09-25T17:00:00+09:00",
+      "airedDate": "2015-09-25T17:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/175758699829de13e6_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/175758699829de13e6_w.webp",
+      "description": null
+    },
+    {
+      "episode": 11,
+      "episodeNumber": 11,
+      "title": "Omake Flash \"Baba Theater Redux\" Short 1",
+      "aired": true,
+      "airedDate": true,
+      "thumbnail": "https://simkl.in/episodes/17/17575855af5df10445_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/17575855af5df10445_w.webp",
+      "description": null
+    },
+    {
+      "episode": 12,
+      "episodeNumber": 12,
+      "title": "Omake Flash \"Baba Theater Redux\" Short 2",
+      "aired": true,
+      "airedDate": true,
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 13,
+      "episodeNumber": 13,
+      "title": "Omake Flash \"Baba Theater Redux\" Short 3",
+      "aired": true,
+      "airedDate": true,
+      "thumbnail": "https://simkl.in/episodes/17/17575859a7445e8b6a_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/17575859a7445e8b6a_w.webp",
+      "description": null
+    },
+    {
+      "episode": 14,
+      "episodeNumber": 14,
+      "title": "Omake Flash \"Baba Theater Redux\" Short 4",
+      "aired": true,
+      "airedDate": true,
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 15,
+      "episodeNumber": 15,
+      "title": "Omake Flash \"Baba Theater Redux\" Short 5",
+      "aired": true,
+      "airedDate": true,
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 16,
+      "episodeNumber": 16,
+      "title": "Omake Flash \"Baba Theater Redux\" Short 6",
+      "aired": true,
+      "airedDate": true,
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 17,
+      "episodeNumber": 17,
+      "title": "Omake Flash \"Baba Theater Redux\" Short 7",
+      "aired": true,
+      "airedDate": true,
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 18,
+      "episodeNumber": 18,
+      "title": "Omake Flash \"Baba Theater Redux\" Short 8",
+      "aired": true,
+      "airedDate": true,
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 19,
+      "episodeNumber": 19,
+      "title": "Omake Flash \"Baba Theater Redux\" Short 9",
+      "aired": true,
+      "airedDate": true,
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 20,
+      "episodeNumber": 20,
+      "title": "The Miraculous Birthday",
+      "aired": "2010-04-23T17:00:00+09:00",
+      "airedDate": "2010-04-23T17:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/17575881a4112fb3a4_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/17575881a4112fb3a4_w.webp",
+      "description": "A festival is approaching, and Ashford Academy is busily and peacefully -- or as peacefully as it gets, anyway -- preparing to it. However, terrorists attack and seize control of the school, interrupting the students` activities. Now Lelouch and his friends must thwart the terrorist attack."
+    },
+    {
+      "episode": 21,
+      "episodeNumber": 21,
+      "title": "Code Geass: The Miraculous Birthday Omake Flash \"Baba Theater Redux\" Short",
+      "aired": "2010-04-23T17:00:00+09:00",
+      "airedDate": "2010-04-23T17:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 22,
+      "episodeNumber": 22,
+      "title": "Soubou no Oz Picture Drama 1",
+      "aired": "2013-01-10T17:00:00+09:00",
+      "airedDate": "2013-01-10T17:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 23,
+      "episodeNumber": 23,
+      "title": "Soubou no Oz Picture Drama 2",
+      "aired": "2013-01-10T17:00:00+09:00",
+      "airedDate": "2013-01-10T17:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 24,
+      "episodeNumber": 24,
+      "title": "Soubou no Oz Picture Drama 3",
+      "aired": "2013-01-10T17:00:00+09:00",
+      "airedDate": "2013-01-10T17:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 25,
+      "episodeNumber": 25,
+      "title": "Soubou no Oz Picture Drama 4",
+      "aired": "2013-01-10T17:00:00+09:00",
+      "airedDate": "2013-01-10T17:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 26,
+      "episodeNumber": 26,
+      "title": "Soubou no Oz Picture Drama 5",
+      "aired": "2013-01-10T17:00:00+09:00",
+      "airedDate": "2013-01-10T17:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ]
 }

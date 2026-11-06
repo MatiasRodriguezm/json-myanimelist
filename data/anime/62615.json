@@ -31,8 +31,8 @@
   "num_episodes": 12,
   "score": 6.54,
   "mean": 6.54,
-  "numListUsers": 8538,
-  "num_list_users": 8538,
+  "numListUsers": 8542,
+  "num_list_users": 8542,
   "genres": [
     {
       "id": 50,
@@ -100,5 +100,89 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": null,
+  "simkl_id": 2892686,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Where Should I Go?",
+      "aired": "2026-10-09T00:00:00+09:00",
+      "airedDate": "2026-10-09T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/2076253179e88f9d29_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/2076253179e88f9d29_w.webp",
+      "description": null
+    },
+    {
+      "episode": 2,
+      "episodeNumber": 2,
+      "title": "What Is the Tetsuryo Club?",
+      "aired": "2026-10-16T00:00:00+09:00",
+      "airedDate": "2026-10-16T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/2085327950ae8ec943_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/2085327950ae8ec943_w.webp",
+      "description": null
+    },
+    {
+      "episode": 3,
+      "episodeNumber": 3,
+      "title": "Working Is... Hard Work.",
+      "aired": "2026-10-23T00:00:00+09:00",
+      "airedDate": "2026-10-23T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/209416452e9b27d605_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/209416452e9b27d605_w.webp",
+      "description": null
+    },
+    {
+      "episode": 4,
+      "episodeNumber": 4,
+      "title": "How's the Weather over There?",
+      "aired": "2026-10-30T00:00:00+09:00",
+      "airedDate": "2026-10-30T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20941647cc979d793d_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20941647cc979d793d_w.webp",
+      "description": null
+    },
+    {
+      "episode": 5,
+      "episodeNumber": 5,
+      "title": "Episode 5",
+      "aired": "2026-11-06T00:00:00+09:00",
+      "airedDate": "2026-11-06T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/209903573445383db9_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/209903573445383db9_w.webp",
+      "description": null
+    },
+    {
+      "episode": 6,
+      "episodeNumber": 6,
+      "title": "Episode 6",
+      "aired": "2026-11-13T00:00:00+09:00",
+      "airedDate": "2026-11-13T00:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 7,
+      "episodeNumber": 7,
+      "title": "Episode 7",
+      "aired": "2026-11-20T00:00:00+09:00",
+      "airedDate": "2026-11-20T00:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 8,
+      "episodeNumber": 8,
+      "title": "Episode 8",
+      "aired": "2026-11-27T00:00:00+09:00",
+      "airedDate": "2026-11-27T00:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ],
+  "specials_data": []
 }

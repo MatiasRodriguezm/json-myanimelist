@@ -31,8 +31,8 @@
   "num_episodes": 1,
   "score": 8.17,
   "mean": 8.17,
-  "numListUsers": 75588,
-  "num_list_users": 75588,
+  "numListUsers": 75591,
+  "num_list_users": 75591,
   "genres": [
     {
       "id": 4,
@@ -101,5 +101,69 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": null,
+  "simkl_id": 43094,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "The God Was Discarded / The God Goes to the Hot Spring",
+      "aired": "2013-08-20T00:00:00+09:00",
+      "airedDate": "2013-08-20T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/17587723553445abe3_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/17587723553445abe3_w.webp",
+      "description": null
+    },
+    {
+      "episode": 2,
+      "episodeNumber": 2,
+      "title": "The God Leaps into the Past",
+      "aired": "2015-08-20T00:00:00+09:00",
+      "airedDate": "2015-08-20T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/175877251998f91d66_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/175877251998f91d66_w.webp",
+      "description": null
+    },
+    {
+      "episode": 3,
+      "episodeNumber": 3,
+      "title": "The Fox Falls in Love",
+      "aired": "2015-12-18T00:00:00+09:00",
+      "airedDate": "2015-12-18T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/1758772734851372c5_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/1758772734851372c5_w.webp",
+      "description": null
+    },
+    {
+      "episode": 4,
+      "episodeNumber": 4,
+      "title": "The God Becomes a Bride",
+      "aired": "2016-04-20T00:00:00+09:00",
+      "airedDate": "2016-04-20T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/17587729e23ee2acec_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/17587729e23ee2acec_w.webp",
+      "description": null
+    },
+    {
+      "episode": 5,
+      "episodeNumber": 5,
+      "title": "The God Meets Someone",
+      "aired": "2016-08-19T00:00:00+09:00",
+      "airedDate": "2016-08-19T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/1758773135f9a6ded0_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/1758773135f9a6ded0_w.webp",
+      "description": null
+    },
+    {
+      "episode": 6,
+      "episodeNumber": 6,
+      "title": "The Goddess Will Be Happy",
+      "aired": "2016-12-20T00:00:00+09:00",
+      "airedDate": "2016-12-20T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/1758773385a5940940_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/1758773385a5940940_w.webp",
+      "description": null
+    }
+  ],
+  "specials_data": []
 }

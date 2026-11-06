@@ -31,8 +31,8 @@
   "num_episodes": 12,
   "score": null,
   "mean": null,
-  "numListUsers": 19188,
-  "num_list_users": 19188,
+  "numListUsers": 19199,
+  "num_list_users": 19199,
   "genres": [
     {
       "id": 10,
@@ -100,5 +100,19 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": null,
+  "simkl_id": 3012818,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Episode 1",
+      "aired": "2027-01-04T23:00:00+09:00",
+      "airedDate": "2027-01-04T23:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ],
+  "specials_data": []
 }

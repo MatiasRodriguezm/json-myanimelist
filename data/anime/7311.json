@@ -33,8 +33,8 @@
   "num_episodes": 1,
   "score": 8.6,
   "mean": 8.6,
-  "numListUsers": 658714,
-  "num_list_users": 658714,
+  "numListUsers": 658721,
+  "num_list_users": 658721,
   "genres": [
     {
       "id": 46,
@@ -103,5 +103,80 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": null,
+  "simkl_id": 40278,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Complete Movie",
+      "aired": "2010-02-06T00:00:00+09:00",
+      "airedDate": "2010-02-06T00:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": "Kyon wakes up on December 18th, and he finds everything a bit...off. Like the strange fact that Haruhi is absent. Except she`s not just missing school, she`s missing entirely, and no one seems to remember her!"
+    }
+  ],
+  "specials_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "Location Hunting Video: \"Kounan Hospital\" Chapter",
+      "aired": "2010-12-18T00:00:00+09:00",
+      "airedDate": "2010-12-18T00:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 2,
+      "episodeNumber": 2,
+      "title": "BGM Recording Scenery (Victor Studio & Australia)",
+      "aired": "2010-12-18T00:00:00+09:00",
+      "airedDate": "2010-12-18T00:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 3,
+      "episodeNumber": 3,
+      "title": "Stage Greeting 1 (Tokyo / Shinjuku WALD 9 & Ikebukuro Cinema Sunshine)",
+      "aired": "2010-12-18T00:00:00+09:00",
+      "airedDate": "2010-12-18T00:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 4,
+      "episodeNumber": 4,
+      "title": "Stage Greeting 2 (Kyoto / Kyoto Cinema)",
+      "aired": "2010-12-18T00:00:00+09:00",
+      "airedDate": "2010-12-18T00:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 5,
+      "episodeNumber": 5,
+      "title": "Cutting, Dubbing, Video Editing: Work Landscape",
+      "aired": "2010-12-18T00:00:00+09:00",
+      "airedDate": "2010-12-18T00:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 6,
+      "episodeNumber": 6,
+      "title": "Theme Song \"Yasashii Boukyaku\" PV Making Video",
+      "aired": "2010-12-18T00:00:00+09:00",
+      "airedDate": "2010-12-18T00:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ]
 }

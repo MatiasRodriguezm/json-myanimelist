@@ -29,8 +29,8 @@
   "num_episodes": 4,
   "score": 8.41,
   "mean": 8.41,
-  "numListUsers": 188695,
-  "num_list_users": 188695,
+  "numListUsers": 188700,
+  "num_list_users": 188700,
   "genres": [
     {
       "id": 4,
@@ -66,28 +66,28 @@
   "pictures": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/3/81250.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/81250l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/3/81250.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/3/81250l.webp"
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/81250.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/81250l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/3/81250.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/3/81250l.jpg"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/3/81250.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/3/81250l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/3/81250.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/81250l.jpg"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/3/81250l.webp",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/3/81250l.webp",
-      "image_url": "https://cdn.myanimelist.net/images/anime/3/81250l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/3/81250l.webp",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/81250l.webp",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/3/81250l.webp",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/3/81250l.webp",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/3/81250l.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/81250l.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/3/81250l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/3/81250l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/3/81250l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/81250l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/3/81250l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/81250l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/3/81250l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/3/81250l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/3/81250l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/81250l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/3/81250l.jpg"
     }
   },
   "broadcast": null,
@@ -103,5 +103,69 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": null,
+  "simkl_id": 43094,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "The God Was Discarded / The God Goes to the Hot Spring",
+      "aired": "2013-08-20T00:00:00+09:00",
+      "airedDate": "2013-08-20T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/17587723553445abe3_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/17587723553445abe3_w.webp",
+      "description": null
+    },
+    {
+      "episode": 2,
+      "episodeNumber": 2,
+      "title": "The God Leaps into the Past",
+      "aired": "2015-08-20T00:00:00+09:00",
+      "airedDate": "2015-08-20T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/175877251998f91d66_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/175877251998f91d66_w.webp",
+      "description": null
+    },
+    {
+      "episode": 3,
+      "episodeNumber": 3,
+      "title": "The Fox Falls in Love",
+      "aired": "2015-12-18T00:00:00+09:00",
+      "airedDate": "2015-12-18T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/1758772734851372c5_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/1758772734851372c5_w.webp",
+      "description": null
+    },
+    {
+      "episode": 4,
+      "episodeNumber": 4,
+      "title": "The God Becomes a Bride",
+      "aired": "2016-04-20T00:00:00+09:00",
+      "airedDate": "2016-04-20T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/17587729e23ee2acec_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/17587729e23ee2acec_w.webp",
+      "description": null
+    },
+    {
+      "episode": 5,
+      "episodeNumber": 5,
+      "title": "The God Meets Someone",
+      "aired": "2016-08-19T00:00:00+09:00",
+      "airedDate": "2016-08-19T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/1758773135f9a6ded0_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/1758773135f9a6ded0_w.webp",
+      "description": null
+    },
+    {
+      "episode": 6,
+      "episodeNumber": 6,
+      "title": "The Goddess Will Be Happy",
+      "aired": "2016-12-20T00:00:00+09:00",
+      "airedDate": "2016-12-20T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/1758773385a5940940_w.webp",
+      "imageUrl": "https://simkl.in/episodes/17/1758773385a5940940_w.webp",
+      "description": null
+    }
+  ],
+  "specials_data": []
 }

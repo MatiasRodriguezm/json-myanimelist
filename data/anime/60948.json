@@ -32,8 +32,8 @@
   "num_episodes": 13,
   "score": 6.84,
   "mean": 6.84,
-  "numListUsers": 37450,
-  "num_list_users": 37450,
+  "numListUsers": 37482,
+  "num_list_users": 37482,
   "genres": [
     {
       "id": 1,
@@ -105,5 +105,89 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": null,
+  "simkl_id": 2706956,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "First Space Colony Visit",
+      "aired": "2026-10-04T21:30:00+09:00",
+      "airedDate": "2026-10-04T21:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/2081538575c00297fa_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/2081538575c00297fa_w.webp",
+      "description": null
+    },
+    {
+      "episode": 2,
+      "episodeNumber": 2,
+      "title": "Mimi the Girl",
+      "aired": "2026-10-11T21:30:00+09:00",
+      "airedDate": "2026-10-11T21:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20859581ff611a6b01_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20859581ff611a6b01_w.webp",
+      "description": null
+    },
+    {
+      "episode": 3,
+      "episodeNumber": 3,
+      "title": "Elma",
+      "aired": "2026-10-18T21:30:00+09:00",
+      "airedDate": "2026-10-18T21:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/209091716f26a93f83_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/209091716f26a93f83_w.webp",
+      "description": null
+    },
+    {
+      "episode": 4,
+      "episodeNumber": 4,
+      "title": "A New Daily Life",
+      "aired": "2026-10-25T21:30:00+09:00",
+      "airedDate": "2026-10-25T21:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/2094916596f996556e_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/2094916596f996556e_w.webp",
+      "description": null
+    },
+    {
+      "episode": 5,
+      "episodeNumber": 5,
+      "title": "Episode 5",
+      "aired": "2026-11-01T21:30:00+09:00",
+      "airedDate": "2026-11-01T21:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20990947b99b522ce0_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20990947b99b522ce0_w.webp",
+      "description": null
+    },
+    {
+      "episode": 6,
+      "episodeNumber": 6,
+      "title": "Episode 6",
+      "aired": "2026-11-08T21:30:00+09:00",
+      "airedDate": "2026-11-08T21:30:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 7,
+      "episodeNumber": 7,
+      "title": "Episode 7",
+      "aired": "2026-11-15T21:30:00+09:00",
+      "airedDate": "2026-11-15T21:30:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 8,
+      "episodeNumber": 8,
+      "title": "Episode 8",
+      "aired": "2026-11-22T21:30:00+09:00",
+      "airedDate": "2026-11-22T21:30:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ],
+  "specials_data": []
 }

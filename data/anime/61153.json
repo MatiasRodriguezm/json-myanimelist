@@ -32,8 +32,8 @@
   "num_episodes": null,
   "score": 7.05,
   "mean": 7.05,
-  "numListUsers": 32868,
-  "num_list_users": 32868,
+  "numListUsers": 32887,
+  "num_list_users": 32887,
   "genres": [
     {
       "id": 1,
@@ -105,5 +105,89 @@
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": null,
+  "simkl_id": 2733174,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "episodeNumber": 1,
+      "title": "The Great Saint Awakens",
+      "aired": "2026-10-03T22:00:00+09:00",
+      "airedDate": "2026-10-03T22:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20809199ef433075b1_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20809199ef433075b1_w.webp",
+      "description": null
+    },
+    {
+      "episode": 2,
+      "episodeNumber": 2,
+      "title": "Fia and the Knight Brigade",
+      "aired": "2026-10-03T22:00:00+09:00",
+      "airedDate": "2026-10-03T22:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/208147874ad6acc0b2_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/208147874ad6acc0b2_w.webp",
+      "description": null
+    },
+    {
+      "episode": 3,
+      "episodeNumber": 3,
+      "title": "The Saints' State of Being",
+      "aired": "2026-10-10T22:00:00+09:00",
+      "airedDate": "2026-10-10T22:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20859047f6020e0074_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20859047f6020e0074_w.webp",
+      "description": null
+    },
+    {
+      "episode": 4,
+      "episodeNumber": 4,
+      "title": "The Fourth Monster Tamer Knight Brigade",
+      "aired": "2026-10-17T22:00:00+09:00",
+      "airedDate": "2026-10-17T22:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20903397daeebdfb5f_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/20903397daeebdfb5f_w.webp",
+      "description": null
+    },
+    {
+      "episode": 5,
+      "episodeNumber": 5,
+      "title": "Calamitous Monsters",
+      "aired": "2026-10-24T22:00:00+09:00",
+      "airedDate": "2026-10-24T22:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/209487055a962d9fad_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/209487055a962d9fad_w.webp",
+      "description": null
+    },
+    {
+      "episode": 6,
+      "episodeNumber": 6,
+      "title": "A Plan to Capture the Black King",
+      "aired": "2026-10-31T22:00:00+09:00",
+      "airedDate": "2026-10-31T22:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/209967474951acd28d_w.webp",
+      "imageUrl": "https://simkl.in/episodes/20/209967474951acd28d_w.webp",
+      "description": null
+    },
+    {
+      "episode": 7,
+      "episodeNumber": 7,
+      "title": "Episode 7",
+      "aired": "2026-11-07T22:00:00+09:00",
+      "airedDate": "2026-11-07T22:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 8,
+      "episodeNumber": 8,
+      "title": "Episode 8",
+      "aired": "2026-11-14T22:00:00+09:00",
+      "airedDate": "2026-11-14T22:00:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    }
+  ],
+  "specials_data": []
 }
