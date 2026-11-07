@@ -27,10 +27,10 @@
   },
   "episodes": 12,
   "num_episodes": 12,
-  "score": 7.31,
-  "mean": 7.31,
-  "numListUsers": 35914,
-  "num_list_users": 35914,
+  "score": 7.3,
+  "mean": 7.3,
+  "numListUsers": 35970,
+  "num_list_users": 35970,
   "genres": [
     {
       "id": 1,
@@ -95,7 +95,7 @@
     {
       "episode": 4,
       "episodeNumber": 4,
-      "title": "Episode 4",
+      "title": "Child of Kishin: Hayate Todoroki",
       "aired": "2026-10-23T23:30:00+09:00",
       "airedDate": "2026-10-23T23:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/2093523920a264f7c1_w.webp",
@@ -105,7 +105,7 @@
     {
       "episode": 5,
       "episodeNumber": 5,
-      "title": "Episode 5",
+      "title": "New Blood",
       "aired": "2026-10-30T23:30:00+09:00",
       "airedDate": "2026-10-30T23:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20983931c18d04700c_w.webp",
@@ -115,11 +115,11 @@
     {
       "episode": 6,
       "episodeNumber": 6,
-      "title": "Episode 6",
+      "title": "Out of Focus",
       "aired": "2026-11-06T23:30:00+09:00",
       "airedDate": "2026-11-06T23:30:00+09:00",
-      "thumbnail": null,
-      "imageUrl": null,
+      "thumbnail": "https://simkl.in/episodes/21/210284538d6a3578f1_w.webp",
+      "imageUrl": "https://simkl.in/episodes/21/210284538d6a3578f1_w.webp",
       "description": null
     },
     {
@@ -162,6 +162,56 @@
       "airedDate": "2026-10-01T23:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20976639ba29fb2fbc_w.webp",
       "imageUrl": "https://simkl.in/episodes/20/20976639ba29fb2fbc_w.webp",
+      "description": null
+    },
+    {
+      "episode": 3,
+      "episodeNumber": 3,
+      "title": "Oni and Momo Too Episode 25",
+      "aired": "2026-10-06T23:30:00+09:00",
+      "airedDate": "2026-10-06T23:30:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 4,
+      "episodeNumber": 4,
+      "title": "Oni and Momo Too Episode 26",
+      "aired": "2026-10-20T23:30:00+09:00",
+      "airedDate": "2026-10-20T23:30:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 5,
+      "episodeNumber": 5,
+      "title": "Oni and Momo Too Episode 27",
+      "aired": "2026-11-03T23:30:00+09:00",
+      "airedDate": "2026-11-03T23:30:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 6,
+      "episodeNumber": 6,
+      "title": "Oni and Momo Too Episode 28",
+      "aired": true,
+      "airedDate": true,
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 7,
+      "episodeNumber": 7,
+      "title": "Oni and Momo Too Episode 29",
+      "aired": true,
+      "airedDate": true,
+      "thumbnail": null,
+      "imageUrl": null,
       "description": null
     }
   ],
