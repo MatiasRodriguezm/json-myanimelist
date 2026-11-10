@@ -59,7 +59,12 @@
       "name": "TMS Entertainment"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1337/154500l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1841/154538l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1812/158683l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1506/159677l.jpg"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
@@ -92,30 +97,53 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1506/159677l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1506/159677l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1506/159677l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1506/159677l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1506/159677l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1506/159677l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1506/159677l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1506/159677l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1506/159677l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1506/159677l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1337/154500l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1337/154500l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1337/154500l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1337/154500l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1337/154500l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1337/154500l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1337/154500l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1337/154500l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1337/154500l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1337/154500l.jpg"
     }
   },
   "broadcast": null,
   "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "popularity": 3278,
+  "num_scoring_users": 2,
+  "nsfw": "white",
+  "created_at": "2025-12-20T08:28:37+00:00",
+  "updated_at": "2026-08-21T18:58:17+00:00",
+  "source": "manga",
+  "rating": "r",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 60285,
+        "title": "Sakamoto Days Part 2",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1758/148719.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1758/148719l.webp"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    }
+  ],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": "7",
+      "completed": "1",
+      "on_hold": "9",
+      "dropped": 0,
+      "plan_to_watch": "62705"
+    },
+    "num_list_users": 62722
+  },
+  "mal_details_updated_at": "2026-11-10T01:34:29.463Z"
 }

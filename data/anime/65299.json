@@ -43,7 +43,9 @@
       "name": "Dynamo Pictures"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1158/160810l.jpg"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
@@ -78,17 +80,52 @@
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 17485,
+  "popularity": 23417,
+  "num_scoring_users": 28,
+  "nsfw": "white",
+  "created_at": "2026-10-31T15:29:01+00:00",
+  "updated_at": "2026-11-01T08:16:12+00:00",
+  "source": "game",
+  "rating": "g",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 27539,
+        "title": "Pikmin Short Movies",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1715/113121.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1715/113121l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 65301,
+        "title": "Pikmin Close to You",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1237/160829.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1237/160829l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    }
+  ],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": "110",
+      "completed": 0,
+      "on_hold": "25",
+      "dropped": "14",
+      "plan_to_watch": "82"
+    },
+    "num_list_users": 231
+  },
+  "mal_details_updated_at": "2026-11-10T01:37:39.312Z"
 }

@@ -31,8 +31,8 @@
   "num_episodes": null,
   "score": 8.72,
   "mean": 8.72,
-  "numListUsers": 2744598,
-  "num_list_users": 2744598,
+  "numListUsers": 2744615,
+  "num_list_users": 2744615,
   "genres": [
     {
       "id": 1,
@@ -57,7 +57,28 @@
       "name": "Toei Animation"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/5/19082l.jpg",
+    "https://cdn.myanimelist.net/images/anime/11/20870l.jpg",
+    "https://cdn.myanimelist.net/images/anime/5/20871l.jpg",
+    "https://cdn.myanimelist.net/images/anime/10/66965l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1178/92469l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1386/100624l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1249/102615l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1056/109094l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1460/110427l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1245/113406l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1451/114315l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1706/114807l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1460/119974l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1011/120243l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1113/121055l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1860/123979l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1026/135253l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1207/137897l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1244/138851l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1810/139965l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/9F7daAmibx8ZHTE17CdM5FAwiHE.png",
   "tmdb_id": "37854",
@@ -11868,8 +11889,8 @@
       "episode": 1181,
       "episodeNumber": 1181,
       "title": "Episode 1181",
-      "aired": true,
-      "airedDate": true,
+      "aired": null,
+      "airedDate": null,
       "thumbnail": null,
       "imageUrl": null,
       "description": null
@@ -11878,8 +11899,8 @@
       "episode": 1182,
       "episodeNumber": 1182,
       "title": "Episode 1182",
-      "aired": true,
-      "airedDate": true,
+      "aired": null,
+      "airedDate": null,
       "thumbnail": null,
       "imageUrl": null,
       "description": null
@@ -11888,8 +11909,8 @@
       "episode": 1183,
       "episodeNumber": 1183,
       "title": "Episode 1183",
-      "aired": true,
-      "airedDate": true,
+      "aired": null,
+      "airedDate": null,
       "thumbnail": null,
       "imageUrl": null,
       "description": null
@@ -11898,8 +11919,8 @@
       "episode": 1184,
       "episodeNumber": 1184,
       "title": "Episode 1184",
-      "aired": true,
-      "airedDate": true,
+      "aired": null,
+      "airedDate": null,
       "thumbnail": null,
       "imageUrl": null,
       "description": null
@@ -12431,16 +12452,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1244/138851l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1244/138851l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1244/138851l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1244/138851l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1244/138851l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1244/138851l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1244/138851l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1244/138851l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1244/138851l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1244/138851l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/5/19082l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/5/19082l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/5/19082l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/5/19082l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/5/19082l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/5/19082l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/5/19082l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/5/19082l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/19082l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/5/19082l.jpg"
     }
   },
   "broadcast": {
@@ -12451,17 +12472,1255 @@
     "timezone": "Asia/Tokyo",
     "string": "sunday 23:15"
   },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
+  "rank": 62,
+  "popularity": 17,
+  "num_scoring_users": 1567236,
+  "nsfw": "white",
+  "created_at": "2005-11-11T01:20:50+00:00",
+  "updated_at": "2026-08-23T10:56:18+00:00",
+  "source": "manga",
+  "rating": "pg_13",
+  "background": "The anime had a hiatus from October 13, 2024, to April 6, 2025. The anime switched to a seasonal release model starting from April 5, 2026.\n\nThe airing time was Wednesdays 19:00 between October 20, 1999 - March 2001. The airing time was changed to Sundays 19:30 between April 2001 - December 2004. The airing time was changed to Sundays 9:30 between October 6, 2006 - October 13, 2024. The airing time was again changed to Sundays 23:15 on April 6, 2025.\n\nSeveral anime-original arcs have been adapted into light novels, and the series has inspired 50+ video games as of 2023.\n\nIn June 2004, One Piece was licensed in North America by 4Kids Entertainment, which partnered with Viz Media for home video distribution. As One Piece proved unsuitable for their target demographic, 4Kids Entertainment censored the show to meet their standards, and, in December 2006, they stopped its production. In April 2007, Funimation took over the series licensing, providing an uncut version that remained faithful to the original release.\n\nIn Japan, the anime's first 574 episodes were released exclusively on DVD by Avex Pictures from February 21, 2001, to December 4, 2013. Blu-rays also became available with the DVDs starting on January 8, 2014. In North America, Viz Media released the anime on DVD between February 28, 2006, and June 26, 2007. Funimation has re-released and continued the series since May 27, 2008. From March 23, 2021, the DVDs were accompanied by Blu-rays as well.",
+  "related_anime": [
+    {
+      "node": {
+        "id": 459,
+        "title": "One Piece Movie 01",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1770/97704.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1770/97704l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 460,
+        "title": "One Piece Movie 02: Nejimaki-jima no Daibouken",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1939/97699.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1939/97699l.webp"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 461,
+        "title": "One Piece Movie 03: Chinjuu-jima no Chopper Oukoku",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1017/97698.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1017/97698l.webp"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 462,
+        "title": "One Piece Movie 04: Dead End no Bouken",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1100/116767.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1100/116767l.webp"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 463,
+        "title": "One Piece Movie 05: Norowareta Seiken",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/2/25413.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/2/25413l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 464,
+        "title": "One Piece Movie 06: Omatsuri Danshaku to Himitsu no Shima",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1328/147315.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1328/147315l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 465,
+        "title": "One Piece Movie 07: Karakuri-jou no Mecha Kyohei",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/9/20927.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/9/20927l.webp"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 466,
+        "title": "One Piece: Taose! Kaizoku Ganzack",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1365/154275.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1365/154275l.webp"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 813,
+        "title": "Dragon Ball Z",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1277/142022.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1277/142022l.jpg"
+        }
+      },
+      "relation_type": "character",
+      "relation_type_formatted": "Character"
+    },
+    {
+      "node": {
+        "id": 1094,
+        "title": "One Piece: Umi no Heso no Daibouken-hen",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/6/20923.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/6/20923l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 1237,
+        "title": "One Piece: Oounabara ni Hirake! Dekkai Dekkai Chichi no Yume!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/6/20850.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/6/20850l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 1238,
+        "title": "One Piece: Mamore! Saigo no Oobutai",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/5/77108.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/5/77108l.webp"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 2020,
+        "title": "One Piece: Nenmatsu Tokubetsu Kikaku! Mugiwara no Luffy Oyabun Torimonochou",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1888/146083.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1888/146083l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 2107,
+        "title": "One Piece Movie 08: Episode of Alabasta - Sabaku no Oujo to Kaizoku-tachi",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/13/21760.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/13/21760l.jpg"
+        }
+      },
+      "relation_type": "summary",
+      "relation_type_formatted": "Summary"
+    },
+    {
+      "node": {
+        "id": 2385,
+        "title": "One Piece: Jango no Dance Carnival",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1691/140427.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1691/140427l.webp"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 2386,
+        "title": "One Piece: Yume no Soccer Ou!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1065/145480.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1065/145480l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 2490,
+        "title": "One Piece: Mezase! Kaizoku Yakyuu Ou",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1961/145481.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1961/145481l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 3848,
+        "title": "One Piece Movie 09: Episode of Chopper Plus - Fuyu ni Saku, Kiseki no Sakura",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1709/135258.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1709/135258l.webp"
+        }
+      },
+      "relation_type": "alternative_version",
+      "relation_type_formatted": "Alternative version"
+    },
+    {
+      "node": {
+        "id": 4155,
+        "title": "One Piece Film: Strong World",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1192/116784.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1192/116784l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 5252,
+        "title": "One Piece: Romance Dawn Story",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1400/138596.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1400/138596l.webp"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 8171,
+        "title": "One Piece Recap",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/9/20706.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/9/20706l.jpg"
+        }
+      },
+      "relation_type": "summary",
+      "relation_type_formatted": "Summary"
+    },
+    {
+      "node": {
+        "id": 8740,
+        "title": "One Piece Film: Strong World Episode 0",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1172/109469.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1172/109469l.webp"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 9999,
+        "title": "One Piece 3D: Mugiwara Chase",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/4/32455.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/4/32455l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 10033,
+        "title": "Toriko",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1757/100671.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1757/100671l.jpg"
+        }
+      },
+      "relation_type": "character",
+      "relation_type_formatted": "Character"
+    },
+    {
+      "node": {
+        "id": 12001,
+        "title": "One Piece 3D: Gekisou! Trap Coaster",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/4/33839.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/4/33839l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 12859,
+        "title": "One Piece Film: Z",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/6/44297.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/6/44297l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 15323,
+        "title": "One Piece: Episode of Nami - Koukaishi no Namida to Nakama no Kizuna",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/5/41415.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/5/41415l.webp"
+        }
+      },
+      "relation_type": "summary",
+      "relation_type_formatted": "Summary"
+    },
+    {
+      "node": {
+        "id": 16143,
+        "title": "One Piece: Kinkyuu Kikaku One Piece Kanzen Kouryakuhou",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/13/45414.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/13/45414l.jpg"
+        }
+      },
+      "relation_type": "summary",
+      "relation_type_formatted": "Summary"
+    },
+    {
+      "node": {
+        "id": 16239,
+        "title": "One Piece: Episode of Luffy - Hand Island no Bouken",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/8/52463.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/8/52463l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 16468,
+        "title": "One Piece: Glorious Island",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/7/85476.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/7/85476l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 19123,
+        "title": "One Piece: Episode of Merry - Mou Hitori no Nakama no Monogatari",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/9/61015.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/9/61015l.webp"
+        }
+      },
+      "relation_type": "summary",
+      "relation_type_formatted": "Summary"
+    },
+    {
+      "node": {
+        "id": 22661,
+        "title": "One Piece: Cry Heart",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/13/60173.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/13/60173l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 23933,
+        "title": "Kyutai Panic Adventure!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/9/62123.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/9/62123l.jpg"
+        }
+      },
+      "relation_type": "character",
+      "relation_type_formatted": "Character"
+    },
+    {
+      "node": {
+        "id": 23935,
+        "title": "Kyutai Panic Adventure Returns!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/3/62121.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/3/62121l.jpg"
+        }
+      },
+      "relation_type": "character",
+      "relation_type_formatted": "Character"
+    },
+    {
+      "node": {
+        "id": 25161,
+        "title": "One Piece 3D2Y: Ace no Shi wo Koete! Luffy Nakama to no Chikai",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/3/64755.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/3/64755l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 28683,
+        "title": "One Piece: Episode of Alabasta - Prologue",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/12/69239.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/12/69239l.jpg"
+        }
+      },
+      "relation_type": "summary",
+      "relation_type_formatted": "Summary"
+    },
+    {
+      "node": {
+        "id": 31289,
+        "title": "One Piece: Episode of Sabo - 3 Kyoudai no Kizuna Kiseki no Saikai to Uketsugareru Ishi",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1373/106587.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1373/106587l.jpg"
+        }
+      },
+      "relation_type": "summary",
+      "relation_type_formatted": "Summary"
+    },
+    {
+      "node": {
+        "id": 31490,
+        "title": "One Piece Film: Gold",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1081/137690.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1081/137690l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 32051,
+        "title": "One Piece: Adventure of Nebulandia",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/5/77050.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/5/77050l.webp"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 32437,
+        "title": "One Piece: Long Ring Long Land-hen",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/12/83503.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/12/83503l.jpg"
+        }
+      },
+      "relation_type": "summary",
+      "relation_type_formatted": "Summary"
+    },
+    {
+      "node": {
+        "id": 33338,
+        "title": "One Piece: Heart of Gold",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1673/120160.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1673/120160l.webp"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 33606,
+        "title": "One Piece Film: Gold Episode 0 - 711 ver.",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/4/83792.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/4/83792l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 34165,
+        "title": "Oishi-sa Hajikeru! One Piece",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1010/154096.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1010/154096l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 36215,
+        "title": "One Piece: Episode of East Blue - Luffy to 4-nin no Nakama no Daibouken",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/87473.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/87473l.jpg"
+        }
+      },
+      "relation_type": "summary",
+      "relation_type_formatted": "Summary"
+    },
+    {
+      "node": {
+        "id": 36239,
+        "title": "Sono Me ga Mitsumeru Mono",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/2/87540.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/2/87540l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 37902,
+        "title": "One Piece: Episode of Sorajima",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1533/92968.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1533/92968l.webp"
+        }
+      },
+      "relation_type": "summary",
+      "relation_type_formatted": "Summary"
+    },
+    {
+      "node": {
+        "id": 38234,
+        "title": "One Piece Movie 14: Stampede",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1221/100550.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1221/100550l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 38419,
+        "title": "Tokyo One Piece Tower: Tongari Shima no Dai Hihou",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1203/95013.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1203/95013l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 40181,
+        "title": "Look Plus One Piece Special Movie",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1541/102314.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1541/102314l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 40970,
+        "title": "A-ra-shi: Reborn",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1160/105219.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1160/105219l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 50385,
+        "title": "One Piece Characters Log",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1358/119490.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1358/119490l.jpg"
+        }
+      },
+      "relation_type": "summary",
+      "relation_type_formatted": "Summary"
+    },
+    {
+      "node": {
+        "id": 50410,
+        "title": "One Piece Film: Red",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1668/125323.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1668/125323l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 50696,
+        "title": "One Piece: Barto no Himitsu no Heya!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1385/120283.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1385/120283l.jpg"
+        }
+      },
+      "relation_type": "summary",
+      "relation_type_formatted": "Summary"
+    },
+    {
+      "node": {
+        "id": 51162,
+        "title": "One Piece: Otoshidama Special - Tokubetsu Hou Mugiwara Kaizokudan no Himitsu!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1916/121232.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1916/121232l.jpg"
+        }
+      },
+      "relation_type": "summary",
+      "relation_type_formatted": "Summary"
+    },
+    {
+      "node": {
+        "id": 51163,
+        "title": "One Piece: Mugiwara no Ichimi kara no Kansen Yobou Message",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1564/121266.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1564/121266l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 52139,
+        "title": "Hungry Days x Bump of Chicken: Kinen Satsuei",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1762/124614.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1762/124614l.jpg"
+        }
+      },
+      "relation_type": "character",
+      "relation_type_formatted": "Character"
+    },
+    {
+      "node": {
+        "id": 52199,
+        "title": "One Piece: Dai Tettei Kaibou! Kouzuki Oden Densetsu!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1059/124766.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1059/124766l.jpg"
+        }
+      },
+      "relation_type": "summary",
+      "relation_type_formatted": "Summary"
+    },
+    {
+      "node": {
+        "id": 52921,
+        "title": "One Piece: Densetsu no Log! Akagami no Shanks!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1517/127442.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1517/127442l.jpg"
+        }
+      },
+      "relation_type": "summary",
+      "relation_type_formatted": "Summary"
+    },
+    {
+      "node": {
+        "id": 53235,
+        "title": "One Piece: Dai Tettei Kaibou! Gekitou! 5-nin no Shin Sedai",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1360/128759.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1360/128759l.jpg"
+        }
+      },
+      "relation_type": "summary",
+      "relation_type_formatted": "Summary"
+    },
+    {
+      "node": {
+        "id": 53878,
+        "title": "One Piece: Uchuu tte Omoshiree! Hoshizora Jima-hen",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1442/131890.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1442/131890l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 53880,
+        "title": "One Piece The Planetarium",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1348/131891.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1348/131891l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 53890,
+        "title": "One Piece: Dai Gekisen Tokushuu! Mugiwara no Ichimi vs. Tobi Roppou",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1816/131928.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1816/131928l.jpg"
+        }
+      },
+      "relation_type": "summary",
+      "relation_type_formatted": "Summary"
+    },
+    {
+      "node": {
+        "id": 55289,
+        "title": "One Piece: Dai Gekisen Tokushuu! Zoro vs. Ookanban!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1197/135856.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1197/135856l.jpg"
+        }
+      },
+      "relation_type": "summary",
+      "relation_type_formatted": "Summary"
+    },
+    {
+      "node": {
+        "id": 55647,
+        "title": "One Piece: Dai Gekisen Tokushuu! Hangeki Doumei vs. Big Mom",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1981/136443.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1981/136443l.jpg"
+        }
+      },
+      "relation_type": "summary",
+      "relation_type_formatted": "Summary"
+    },
+    {
+      "node": {
+        "id": 56015,
+        "title": "Miraijima",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1776/137220.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1776/137220l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 56055,
+        "title": "Monsters: Ippyaku Sanjou Hiryuu Jigoku",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1119/149725.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1119/149725l.jpg"
+        }
+      },
+      "relation_type": "character",
+      "relation_type_formatted": "Character"
+    },
+    {
+      "node": {
+        "id": 57413,
+        "title": "Xfit x One Piece",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1234/145392.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1234/145392l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 57556,
+        "title": "One Piece: Dai Tokushuu! Momonosuke no Mei Shougun e no Michi",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1569/140420.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1569/140420l.jpg"
+        }
+      },
+      "relation_type": "summary",
+      "relation_type_formatted": "Summary"
+    },
+    {
+      "node": {
+        "id": 57557,
+        "title": "The One Piece",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1914/159659.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1914/159659l.jpg"
+        }
+      },
+      "relation_type": "alternative_version",
+      "relation_type_formatted": "Alternative version"
+    },
+    {
+      "node": {
+        "id": 58015,
+        "title": "One Piece: Dai Tannou Kikaku! \"Shi no Gekai\" Trafalgar Law",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1868/141248.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1868/141248l.jpg"
+        }
+      },
+      "relation_type": "summary",
+      "relation_type_formatted": "Summary"
+    },
+    {
+      "node": {
+        "id": 58307,
+        "title": "One Piece x Kawaisouni: Kono Boushi wo Omae ni Azukeru",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1548/141799.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1548/141799l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 58663,
+        "title": "One Piece: Innen no Log! Mugiwara no Ichimi to Cipher Pol",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1446/142604.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1446/142604l.jpg"
+        }
+      },
+      "relation_type": "summary",
+      "relation_type_formatted": "Summary"
+    },
+    {
+      "node": {
+        "id": 59029,
+        "title": "One Piece: Kizamareru Rekishi! Gekidou no Shinkyuu Yonkou!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1946/143496.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1946/143496l.jpg"
+        }
+      },
+      "relation_type": "summary",
+      "relation_type_formatted": "Summary"
+    },
+    {
+      "node": {
+        "id": 59596,
+        "title": "One Piece: Araburu Henkaku no Log: Anyaku Suru Kakumeigun!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1031/144856.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1031/144856l.jpg"
+        }
+      },
+      "relation_type": "summary",
+      "relation_type_formatted": "Summary"
+    },
+    {
+      "node": {
+        "id": 59801,
+        "title": "UHA Mikakutou x One Piece",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1095/145431.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1095/145431l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 59822,
+        "title": "Star Wars x One Piece",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1546/145460.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1546/145460l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 59832,
+        "title": "Annecy Festival 60th Anniversary PVs",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1717/145485.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1717/145485l.jpg"
+        }
+      },
+      "relation_type": "character",
+      "relation_type_formatted": "Character"
+    },
+    {
+      "node": {
+        "id": 59908,
+        "title": "One Piece: Yuruganu Seigi! Kaigun no Hokoritakaki Log!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1754/145686.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1754/145686l.jpg"
+        }
+      },
+      "relation_type": "summary",
+      "relation_type_formatted": "Summary"
+    },
+    {
+      "node": {
+        "id": 59959,
+        "title": "Schick x One Piece",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1864/145777.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1864/145777l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 60022,
+        "title": "One Piece Fan Letter",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1455/146229.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1455/146229l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 60108,
+        "title": "One Piece: Gyojin Tou-hen",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1928/146063.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1928/146063l.jpg"
+        }
+      },
+      "relation_type": "alternative_version",
+      "relation_type_formatted": "Alternative version"
+    },
+    {
+      "node": {
+        "id": 60790,
+        "title": "Luffy, Law",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1629/147603.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1629/147603l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 61393,
+        "title": "One Piece Egghead Arc Recap",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1405/149053.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1405/149053l.jpg"
+        }
+      },
+      "relation_type": "summary",
+      "relation_type_formatted": "Summary"
+    },
+    {
+      "node": {
+        "id": 61674,
+        "title": "One Piece: Dr. Chopper no Bouken Karte - Chichi to Musume no Ballad",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1584/149734.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1584/149734l.jpg"
+        }
+      },
+      "relation_type": "summary",
+      "relation_type_formatted": "Summary"
+    },
+    {
+      "node": {
+        "id": 61892,
+        "title": "One Piece: Dr. Chopper no Bouken Karte - Shinyuu-tachi no Crossroad",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1991/150670.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1991/150670l.jpg"
+        }
+      },
+      "relation_type": "summary",
+      "relation_type_formatted": "Summary"
+    },
+    {
+      "node": {
+        "id": 62233,
+        "title": "One Piece: Heroines",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1993/151415.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1993/151415l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 62394,
+        "title": "One Piece: Dr. Chopper no Bouken Karte - Hokoritakaki Gigant Dream",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1000/151805.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1000/151805l.jpg"
+        }
+      },
+      "relation_type": "summary",
+      "relation_type_formatted": "Summary"
+    },
+    {
+      "node": {
+        "id": 62593,
+        "title": "One Piece: Dr. Chopper no Bouken Karte - Uragirimono-tachi no Masquerade",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1402/152287.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1402/152287l.jpg"
+        }
+      },
+      "relation_type": "summary",
+      "relation_type_formatted": "Summary"
+    },
+    {
+      "node": {
+        "id": 62969,
+        "title": "One Piece: Dr. Chopper no Bouken Karte - Tensai ga Nokoshita \"Last Records\"",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1668/153651.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1668/153651l.jpg"
+        }
+      },
+      "relation_type": "summary",
+      "relation_type_formatted": "Summary"
+    },
+    {
+      "node": {
+        "id": 63224,
+        "title": "Tenshi to Akuma",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1550/154782.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1550/154782l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 64858,
+        "title": "One Piece Film: God Valley",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1170/159705.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1170/159705l.webp"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 64859,
+        "title": "One Piece Film: Baad",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1396/159706.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1396/159706l.webp"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 65305,
+        "title": "Fortnite Treasure Hunters",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1401/160838.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1401/160838l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 6702,
+        "title": "Fairy Tail",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/5/18179.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/5/18179l.webp"
+        }
+      },
+      "num_recommendations": 76
+    },
+    {
+      "node": {
+        "id": 11061,
+        "title": "Hunter x Hunter (2011)",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1337/99013.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1337/99013l.jpg"
+        }
+      },
+      "num_recommendations": 65
+    },
+    {
+      "node": {
+        "id": 20,
+        "title": "Naruto",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1141/142503.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1141/142503l.jpg"
+        }
+      },
+      "num_recommendations": 49
+    },
+    {
+      "node": {
+        "id": 918,
+        "title": "Gintama",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/73274.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/73274l.jpg"
+        }
+      },
+      "num_recommendations": 24
+    },
+    {
+      "node": {
+        "id": 223,
+        "title": "Dragon Ball",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1887/92364.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1887/92364l.jpg"
+        }
+      },
+      "num_recommendations": 19
+    },
+    {
+      "node": {
+        "id": 10033,
+        "title": "Toriko",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1757/100671.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1757/100671l.jpg"
+        }
+      },
+      "num_recommendations": 17
+    },
+    {
+      "node": {
+        "id": 813,
+        "title": "Dragon Ball Z",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1277/142022.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1277/142022l.jpg"
+        }
+      },
+      "num_recommendations": 17
+    },
+    {
+      "node": {
+        "id": 34572,
+        "title": "Black Clover",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/2/88336.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/2/88336l.jpg"
+        }
+      },
+      "num_recommendations": 16
+    },
+    {
+      "node": {
+        "id": 1735,
+        "title": "Naruto: Shippuuden",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1565/111305.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1565/111305l.jpg"
+        }
+      },
+      "num_recommendations": 16
+    },
+    {
+      "node": {
+        "id": 269,
+        "title": "Bleach",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1541/147774.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1541/147774l.jpg"
+        }
+      },
+      "num_recommendations": 13
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "1950269",
+      "completed": "40",
+      "on_hold": "334679",
+      "dropped": "223388",
+      "plan_to_watch": "235819"
+    },
+    "num_list_users": 2744195
+  },
+  "mal_details_updated_at": "2026-11-10T01:27:28.409Z"
 }

@@ -57,7 +57,16 @@
       "name": "Madhouse"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/7/20451l.jpg",
+    "https://cdn.myanimelist.net/images/anime/9/21498l.jpg",
+    "https://cdn.myanimelist.net/images/anime/3/22530l.jpg",
+    "https://cdn.myanimelist.net/images/anime/3/22531l.jpg",
+    "https://cdn.myanimelist.net/images/anime/13/22532l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1528/107948l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1001/121564l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1079/138100l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/koBa94NxTaGe2FoDzlXMuJptsv0.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/mbDyY5qEDKVQNvuHk71OvxH8Cjg.png",
   "tmdb_id": "13916",
@@ -601,16 +610,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1079/138100l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1079/138100l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1079/138100l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1079/138100l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1079/138100l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1079/138100l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1079/138100l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1079/138100l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1079/138100l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1079/138100l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/7/20451l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/7/20451l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/20451l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/7/20451l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/20451l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/7/20451l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/7/20451l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/7/20451l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/20451l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/7/20451l.jpg"
     }
   },
   "broadcast": {
@@ -621,17 +630,151 @@
     "timezone": "Asia/Tokyo",
     "string": "wednesday 00:56"
   },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 103,
+  "popularity": 2,
+  "num_scoring_users": 3065739,
+  "nsfw": "white",
+  "created_at": "2006-10-04T03:39:19+00:00",
+  "updated_at": "2024-03-06T11:24:14+00:00",
+  "source": "manga",
+  "rating": "r",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 2994,
+        "title": "Death Note: Rewrite",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/13/8518.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/13/8518l.jpg"
+        }
+      },
+      "relation_type": "summary",
+      "relation_type_formatted": "Summary"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 1575,
+        "title": "Code Geass: Hangyaku no Lelouch",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1032/135088.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1032/135088l.jpg"
+        }
+      },
+      "num_recommendations": 647
+    },
+    {
+      "node": {
+        "id": 19,
+        "title": "Monster",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/18793.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/18793l.jpg"
+        }
+      },
+      "num_recommendations": 117
+    },
+    {
+      "node": {
+        "id": 23283,
+        "title": "Zankyou no Terror",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1417/117422.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1417/117422l.jpg"
+        }
+      },
+      "num_recommendations": 95
+    },
+    {
+      "node": {
+        "id": 10620,
+        "title": "Mirai Nikki (TV)",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/13/33465.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/13/33465l.webp"
+        }
+      },
+      "num_recommendations": 71
+    },
+    {
+      "node": {
+        "id": 13601,
+        "title": "Psycho-Pass",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1314/142015.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1314/142015l.webp"
+        }
+      },
+      "num_recommendations": 66
+    },
+    {
+      "node": {
+        "id": 40911,
+        "title": "Yuukoku no Moriarty",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1464/108330.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1464/108330l.jpg"
+        }
+      },
+      "num_recommendations": 54
+    },
+    {
+      "node": {
+        "id": 2904,
+        "title": "Code Geass: Hangyaku no Lelouch R2",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1088/135089.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1088/135089l.webp"
+        }
+      },
+      "num_recommendations": 54
+    },
+    {
+      "node": {
+        "id": 28223,
+        "title": "Death Parade",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/5/71553.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/5/71553l.jpg"
+        }
+      },
+      "num_recommendations": 51
+    },
+    {
+      "node": {
+        "id": 5040,
+        "title": "One Outs",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/7/21065.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/7/21065l.webp"
+        }
+      },
+      "num_recommendations": 47
+    },
+    {
+      "node": {
+        "id": 37779,
+        "title": "Yakusoku no Neverland",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1830/118780.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1830/118780l.webp"
+        }
+      },
+      "num_recommendations": 41
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "219469",
+      "completed": "3659790",
+      "on_hold": "119227",
+      "dropped": "131980",
+      "plan_to_watch": "258213"
+    },
+    "num_list_users": 4388679
+  },
+  "mal_details_updated_at": "2026-11-10T01:27:11.555Z"
 }

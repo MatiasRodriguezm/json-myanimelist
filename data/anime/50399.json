@@ -34,8 +34,8 @@
   "num_episodes": 12,
   "score": 8.63,
   "mean": 8.63,
-  "numListUsers": 68345,
-  "num_list_users": 68345,
+  "numListUsers": 68385,
+  "num_list_users": 68385,
   "genres": [
     {
       "id": 1,
@@ -68,7 +68,14 @@
       "name": "Red Dog Culture House"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1500/139118l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1262/139127l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1607/139154l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1203/139210l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1050/157518l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1263/157519l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/xPzeiPXPpdUJNHAnCZMeFmbxDPc.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/wmDQDJQvXSTirGCJ3Xg4Ey7fSrs.png",
   "tmdb_id": "112398",
@@ -199,42 +206,100 @@
   "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1203/139210.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1203/139210l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1203/139210.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1203/139210l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1203/139210.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1203/139210l.webp",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1203/139210.webp",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1203/139210l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1203/139210.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1203/139210l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1203/139210.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1203/139210l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1203/139210l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1203/139210l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1203/139210l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1203/139210l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1203/139210l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1203/139210l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1203/139210l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1203/139210l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1203/139210l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1203/139210l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1500/139118l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1500/139118l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1500/139118l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1500/139118l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1500/139118l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1500/139118l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1500/139118l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1500/139118l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1500/139118l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1500/139118l.jpg"
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
+  "rank": 101,
+  "popularity": 3120,
+  "num_scoring_users": 27026,
+  "nsfw": "white",
+  "created_at": "2021-11-20T13:20:44+00:00",
+  "updated_at": "2026-08-21T16:29:23+00:00",
+  "source": "web_novel",
+  "rating": "pg_13",
+  "background": "Adaptation based on a Chinese web novel of the same name, written by Mo Xiang Tong Xiu (墨香铜臭). The show falls into the xianxia genre (a fantasy genre influence by Taoism, Buddhism, and Chinese mythology).\n",
+  "related_anime": [
+    {
+      "node": {
+        "id": 44070,
+        "title": "Tian Guan Cifu Special",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1043/110306.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1043/110306l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    },
+    {
+      "node": {
+        "id": 60988,
+        "title": "Tian Guan Cifu Short Films",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1174/149943.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1174/149943l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 37208,
+        "title": "Mo Dao Zu Shi",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1908/153734.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1908/153734l.webp"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 30346,
+        "title": "Doukyuusei",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/3/78606.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/3/78606l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "7358",
+      "completed": "34813",
+      "on_hold": "1250",
+      "dropped": "925",
+      "plan_to_watch": "24000"
+    },
+    "num_list_users": 68346
+  },
+  "mal_details_updated_at": "2026-11-10T01:30:39.507Z"
 }

@@ -57,7 +57,12 @@
       "name": "Production I.G"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1480/126965l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1911/138691l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1665/140360l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1925/142361l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/zr1MDQCPVB5uJEHxiO6Tukn4OjH.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/p5FxSYg0sOqnOQqfT8LLFxDyfI6.png",
   "tmdb_id": "60863",
@@ -111,30 +116,77 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1665/140360l.webp",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1665/140360l.webp",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1665/140360l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1665/140360l.webp",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1665/140360l.webp",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1665/140360l.webp",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1665/140360l.webp",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1665/140360l.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1665/140360l.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1665/140360l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1480/126965l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1480/126965l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1480/126965l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1480/126965l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1480/126965l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1480/126965l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1480/126965l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1480/126965l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1480/126965l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1480/126965l.jpg"
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 104,
+  "popularity": 1197,
+  "num_scoring_users": 119621,
+  "nsfw": "white",
+  "created_at": "2022-08-13T09:10:00+00:00",
+  "updated_at": "2025-03-02T13:33:03+00:00",
+  "source": "manga",
+  "rating": "pg_13",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 40776,
+        "title": "Haikyuu!! To the Top Part 2",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1453/106768.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1453/106768l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    },
+    {
+      "node": {
+        "id": 58967,
+        "title": "Haikyuu!! Movie: vs. Chiisana Kyojin",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1970/159635.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1970/159635l.jpg"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    },
+    {
+      "node": {
+        "id": 61125,
+        "title": "Haikyuu!! Bakemono-tachi no Iku Tokoro",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1212/159636.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1212/159636l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    }
+  ],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": "7026",
+      "completed": "158719",
+      "on_hold": "1397",
+      "dropped": "463",
+      "plan_to_watch": "77868"
+    },
+    "num_list_users": 245473
+  },
+  "mal_details_updated_at": "2026-11-10T01:30:47.347Z"
 }

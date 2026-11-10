@@ -49,7 +49,11 @@
       "name": "MAPPA"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/6/85548l.jpg",
+    "https://cdn.myanimelist.net/images/anime/7/87387l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1083/94762l.jpg"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
@@ -211,15 +215,15 @@
   ],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/6/85548.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/6/85548l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/6/85548.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/6/85548l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/6/85548.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/6/85548l.webp",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/6/85548.webp",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/6/85548l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/6/85548.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/6/85548l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/6/85548.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/6/85548l.webp"
   },
   "trailer": {
     "images": {
@@ -236,17 +240,40 @@
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
+  "rank": 793,
+  "popularity": 2582,
+  "num_scoring_users": 40072,
+  "nsfw": "white",
+  "created_at": "2017-04-10T10:06:21+00:00",
+  "updated_at": "2025-07-09T21:25:56+00:00",
+  "source": "original",
+  "rating": "pg_13",
+  "background": "Yuri!!! on Ice: Yuri Plisetsky GPF in Barcelona EX - Welcome to The Madness is bonus footage that was included in the sixth volume of the Yuri!!! on Ice Blu-ray and DVD, which was released by Avex Pictures in Japan on May 26, 2017. A complementary manga by series co-creator Mitsurou Kubo was distributed to those who purchased all six volumes of the Blu-ray or DVD from a single participating retailer.",
+  "related_anime": [
+    {
+      "node": {
+        "id": 32995,
+        "title": "Yuri!!! on Ice",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/6/81149.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/6/81149l.jpg"
+        }
+      },
+      "relation_type": "parent_story",
+      "relation_type_formatted": "Parent story"
+    }
+  ],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": "2035",
+      "completed": "65187",
+      "on_hold": "660",
+      "dropped": "795",
+      "plan_to_watch": "24866"
+    },
+    "num_list_users": 93543
+  },
+  "mal_details_updated_at": "2026-11-10T01:28:50.708Z"
 }

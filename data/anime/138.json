@@ -57,7 +57,15 @@
       "name": "Nippon Animation"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1/138l.jpg",
+    "https://cdn.myanimelist.net/images/anime/2/14102l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1376/97181l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1807/122318l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1022/122319l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1902/122320l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1889/154798l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/575sxZXNNulSlIz7DvtWH5r4lkC.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/qDSB90QFXHQayEOgtN5kqFzbOlw.png",
   "tmdb_id": "45952",
@@ -160,30 +168,144 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1902/122320l.webp",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1902/122320l.webp",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1902/122320l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1902/122320l.webp",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1902/122320l.webp",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1902/122320l.webp",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1902/122320l.webp",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1902/122320l.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1902/122320l.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1902/122320l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1/138l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1/138l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1/138l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1/138l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1/138l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1/138l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1/138l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1/138l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1/138l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1/138l.jpg"
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 470,
+  "popularity": 1539,
+  "num_scoring_users": 93610,
+  "nsfw": "white",
+  "created_at": "2005-11-11T14:50:39+00:00",
+  "updated_at": "2023-01-29T18:32:45+00:00",
+  "source": "manga",
+  "rating": "pg_13",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 137,
+        "title": "Hunter x Hunter: Original Video Animation",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1/137.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1/137l.webp"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    },
+    {
+      "node": {
+        "id": 139,
+        "title": "Hunter x Hunter: Greed Island Final",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1/139.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1/139l.jpg"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    },
+    {
+      "node": {
+        "id": 11061,
+        "title": "Hunter x Hunter (2011)",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1337/99013.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1337/99013l.jpg"
+        }
+      },
+      "relation_type": "alternative_version",
+      "relation_type_formatted": "Alternative version"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 11757,
+        "title": "Sword Art Online",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/11/39717.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/11/39717l.jpg"
+        }
+      },
+      "num_recommendations": 9
+    },
+    {
+      "node": {
+        "id": 481,
+        "title": "Yu☆Gi☆Oh! Duel Monsters",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/3/77055.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/3/77055l.jpg"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 1469,
+        "title": "Monster Farm: Enbanseki no Himitsu",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1044/113641.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1044/113641l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 8,
+        "title": "Bouken Ou Beet",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/7/21569.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/7/21569l.webp"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 13185,
+        "title": "Juusen Battle Monsuno",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/11/40891.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/11/40891l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 232,
+        "title": "Cardcaptor Sakura",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/8/60781.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/8/60781l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "4173",
+      "completed": "156307",
+      "on_hold": "1287",
+      "dropped": "1252",
+      "plan_to_watch": "21874"
+    },
+    "num_list_users": 184893
+  },
+  "mal_details_updated_at": "2026-11-10T01:27:07.765Z"
 }

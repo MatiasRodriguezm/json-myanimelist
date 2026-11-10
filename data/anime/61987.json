@@ -32,8 +32,8 @@
   "num_episodes": 12,
   "score": 8.61,
   "mean": 8.61,
-  "numListUsers": 226363,
-  "num_list_users": 226363,
+  "numListUsers": 226378,
+  "num_list_users": 226378,
   "genres": [
     {
       "id": 8,
@@ -58,7 +58,14 @@
       "name": "OLM"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1508/150885l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1501/152170l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1862/152811l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1536/154571l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1949/159521l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1028/160277l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/6JpmIe9cJcbG6hecyN6ml8AG6RC.png",
   "tmdb_id": "220542",
@@ -242,16 +249,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1028/160277l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1028/160277l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1028/160277l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1028/160277l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1028/160277l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1028/160277l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1028/160277l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1028/160277l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1028/160277l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1028/160277l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1508/150885l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1508/150885l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1508/150885l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1508/150885l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1508/150885l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1508/150885l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1508/150885l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1508/150885l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1508/150885l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1508/150885l.jpg"
     }
   },
   "broadcast": {
@@ -262,17 +269,100 @@
     "timezone": "Asia/Tokyo",
     "string": "friday 23:00"
   },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
+  "rank": 114,
+  "popularity": 1285,
+  "num_scoring_users": 18841,
+  "nsfw": "white",
+  "created_at": "2025-07-04T14:50:46+00:00",
+  "updated_at": "2026-10-03T05:07:24+00:00",
+  "source": "light_novel",
+  "rating": "pg_13",
+  "background": "Kusuriya no Hitorigoto 3rd Season aired on Nippon TV's Friday Anime Night block.",
+  "related_anime": [
+    {
+      "node": {
+        "id": 58514,
+        "title": "Kusuriya no Hitorigoto 2nd Season",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1025/147458.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1025/147458l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    },
+    {
+      "node": {
+        "id": 62841,
+        "title": "Kusuriya no Hitorigoto 3rd Season Part 2",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1667/152812.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1667/152812l.webp"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    },
+    {
+      "node": {
+        "id": 65097,
+        "title": "AIYOU",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1900/160353.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1900/160353l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 65119,
+        "title": "Maomao no Hitorigoto 3rd Season",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1870/160412.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1870/160412l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 65189,
+        "title": "Kumo wo Nuke Kazashimo e Watashi dake",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1474/160536.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1474/160536l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 30123,
+        "title": "Akagami no Shirayuki-hime",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/75764.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/75764l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "105060",
+      "completed": "42",
+      "on_hold": "1326",
+      "dropped": "248",
+      "plan_to_watch": "119671"
+    },
+    "num_list_users": 226347
+  },
+  "mal_details_updated_at": "2026-11-10T01:32:56.271Z"
 }

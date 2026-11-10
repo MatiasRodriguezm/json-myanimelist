@@ -57,7 +57,14 @@
       "name": "Studio Ghibli"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/3/55143l.jpg",
+    "https://cdn.myanimelist.net/images/anime/6/79597l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1127/116848l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1618/138716l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1082/138717l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1390/138718l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/m4TUa2ciEWSlk37rOsjiSIvZDXE.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/hkUi1Z15Ymj9GNamWQkzUhehLuy.png",
   "tmdb_id": "129",
@@ -149,42 +156,163 @@
   ],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/6/79597.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/6/79597l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/6/79597.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/6/79597l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/6/79597.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/6/79597l.webp",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/6/79597.webp",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/6/79597l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/6/79597.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/6/79597l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/6/79597.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/6/79597l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/6/79597l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/6/79597l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/6/79597l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/6/79597l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/6/79597l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/6/79597l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/6/79597l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/6/79597l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/6/79597l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/6/79597l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/3/55143l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/3/55143l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/55143l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/3/55143l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/55143l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/3/55143l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/3/55143l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/3/55143l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/55143l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/3/55143l.jpg"
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
+  "rank": 49,
+  "popularity": 45,
+  "num_scoring_users": 1435193,
+  "nsfw": "white",
+  "created_at": "2005-11-12T07:05:54+00:00",
+  "updated_at": "2024-11-26T03:03:29+00:00",
+  "source": "original",
+  "rating": "pg",
+  "background": "Sen to Chihiro no Kamikakushi held the record of being the highest-grossing film in Japanese history from 2001 until 2020. As of December 2020, it has amassed a total of 31.68 billion yen from Japanese box office sales and a total of $395.8 million worldwide. \n\nThis critically acclaimed film has won numerous awards, including the Academy Award—more commonly known as the \"Oscar\"—for Best Animated Feature at the 75th Academy Awards in 2003 as well as the Golden Bear at the 2002 Berlin International Film Festival (alongside Bloody Sunday). It is also among the top 10 in the British Film Institute's list of the \"50 films you should see by the age of 14.\" \n\nThe English version of Sen to Chihiro no Kamikakushi was dubbed by Walt Disney Pictures and premiered in 2002. The film was released on DVD and VHS formats in North America by Buena Vista Home Entertainment in 2003.",
   "related_anime": [],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 431,
+        "title": "Howl no Ugoku Shiro",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1470/138723.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1470/138723l.jpg"
+        }
+      },
+      "num_recommendations": 27
+    },
+    {
+      "node": {
+        "id": 4081,
+        "title": "Natsume Yuujinchou",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1681/108439.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1681/108439l.webp"
+        }
+      },
+      "num_recommendations": 14
+    },
+    {
+      "node": {
+        "id": 28805,
+        "title": "Bakemono no Ko",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/11/73540.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/11/73540l.jpg"
+        }
+      },
+      "num_recommendations": 10
+    },
+    {
+      "node": {
+        "id": 10408,
+        "title": "Hotarubi no Mori e",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1599/112267.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1599/112267l.webp"
+        }
+      },
+      "num_recommendations": 8
+    },
+    {
+      "node": {
+        "id": 9760,
+        "title": "Hoshi wo Ou Kodomo",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1000/133740.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1000/133740l.jpg"
+        }
+      },
+      "num_recommendations": 8
+    },
+    {
+      "node": {
+        "id": 164,
+        "title": "Mononoke Hime",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1355/147277.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1355/147277l.webp"
+        }
+      },
+      "num_recommendations": 6
+    },
+    {
+      "node": {
+        "id": 10259,
+        "title": "Da Yu Hai Tang (Movie)",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/5/83826.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/5/83826l.webp"
+        }
+      },
+      "num_recommendations": 6
+    },
+    {
+      "node": {
+        "id": 512,
+        "title": "Majo no Takkyuubin",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1579/140483.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1579/140483l.jpg"
+        }
+      },
+      "num_recommendations": 6
+    },
+    {
+      "node": {
+        "id": 457,
+        "title": "Mushishi",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/2/73862.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/2/73862l.jpg"
+        }
+      },
+      "num_recommendations": 6
+    },
+    {
+      "node": {
+        "id": 523,
+        "title": "Tonari no Totoro",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1110/147278.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1110/147278l.jpg"
+        }
+      },
+      "num_recommendations": 5
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "30932",
+      "completed": "1866894",
+      "on_hold": "5255",
+      "dropped": "2515",
+      "plan_to_watch": "158084"
+    },
+    "num_list_users": 2063680
+  },
+  "mal_details_updated_at": "2026-11-10T01:27:24.575Z"
 }

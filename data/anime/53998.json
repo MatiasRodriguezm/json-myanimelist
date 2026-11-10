@@ -57,7 +57,15 @@
       "name": "Studio Pierrot"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1018/136667l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1013/136669l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1549/136929l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1558/138056l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1164/138058l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1420/138670l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1988/138671l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/jEImh4O7mcYuwuAeryGZo3G6hg6.png",
   "tmdb_id": "30984",
@@ -219,28 +227,28 @@
   ],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1164/138058.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1164/138058l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1164/138058.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1164/138058l.webp"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1164/138058.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1164/138058l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1164/138058.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1164/138058l.jpg"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1164/138058.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1164/138058l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1164/138058.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1164/138058l.jpg"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1164/138058l.webp",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1164/138058l.webp",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1164/138058l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1164/138058l.webp",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1164/138058l.webp",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1164/138058l.webp",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1164/138058l.webp",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1164/138058l.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1164/138058l.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1164/138058l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1018/136667l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1018/136667l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1018/136667l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1018/136667l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1018/136667l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1018/136667l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1018/136667l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1018/136667l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1018/136667l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1018/136667l.jpg"
     }
   },
   "broadcast": {
@@ -251,17 +259,64 @@
     "timezone": "Asia/Tokyo",
     "string": "saturday 23:00"
   },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
+  "rank": 64,
+  "popularity": 613,
+  "num_scoring_users": 256842,
+  "nsfw": "white",
+  "created_at": "2022-12-26T01:14:19+00:00",
+  "updated_at": "2024-10-02T16:04:22+00:00",
+  "source": "manga",
+  "rating": "r",
+  "background": "Bleach: Sennen Kessen-hen - Ketsubetsu-tan was released on Blu-ray and DVD by Aniplex on February 28, 2024. It adapts volumes 61-67 of the original manga.",
+  "related_anime": [
+    {
+      "node": {
+        "id": 41467,
+        "title": "Bleach: Sennen Kessen-hen",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1908/135431.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1908/135431l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    },
+    {
+      "node": {
+        "id": 56442,
+        "title": "Bleach: Sennen Kessen-hen - Ketsubetsu-tan Recap",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1364/138054.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1364/138054l.jpg"
+        }
+      },
+      "relation_type": "summary",
+      "relation_type_formatted": "Summary"
+    },
+    {
+      "node": {
+        "id": 56784,
+        "title": "Bleach: Sennen Kessen-hen - Soukoku-tan",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1595/144074.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1595/144074l.jpg"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    }
+  ],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": "37094",
+      "completed": "334135",
+      "on_hold": "3932",
+      "dropped": "2099",
+      "plan_to_watch": "69568"
+    },
+    "num_list_users": 446828
+  },
+  "mal_details_updated_at": "2026-11-10T01:30:54.452Z"
 }

@@ -27,8 +27,8 @@
   },
   "episodes": null,
   "num_episodes": null,
-  "score": 6.58,
-  "mean": 6.58,
+  "score": 6.59,
+  "mean": 6.59,
   "numListUsers": 3669,
   "num_list_users": 3669,
   "genres": [
@@ -51,7 +51,13 @@
       "name": "Production I.G"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1327/146160l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1494/151689l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1956/155696l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1705/158571l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1193/160014l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/lHIfDwuhQcLVI8bncg2gXATgINz.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/pFfXK7C1wU3v9RCSGN6tEy5ptPh.png",
   "tmdb_id": "299144",
@@ -434,16 +440,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1705/158571l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1705/158571l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1705/158571l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1705/158571l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1705/158571l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1705/158571l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1705/158571l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1705/158571l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1705/158571l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1705/158571l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1327/146160l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1327/146160l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1327/146160l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1327/146160l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1327/146160l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1327/146160l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1327/146160l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1327/146160l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1327/146160l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1327/146160l.jpg"
     }
   },
   "broadcast": {
@@ -454,17 +460,40 @@
     "timezone": "Asia/Tokyo",
     "string": "saturday 09:25"
   },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 7615,
+  "popularity": 10800,
+  "num_scoring_users": 651,
+  "nsfw": "white",
+  "created_at": "2024-10-20T11:30:43+00:00",
+  "updated_at": "2026-09-12T10:33:41+00:00",
+  "source": "other",
+  "rating": "pg",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 35777,
+        "title": "Rilakkuma to Kaoru-san",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1582/100702.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1582/100702l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    }
+  ],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": "1670",
+      "completed": "2",
+      "on_hold": "170",
+      "dropped": "364",
+      "plan_to_watch": "1459"
+    },
+    "num_list_users": 3665
+  },
+  "mal_details_updated_at": "2026-11-10T01:32:23.718Z"
 }

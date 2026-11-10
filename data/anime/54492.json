@@ -62,7 +62,12 @@
       "name": "TOHO animation STUDIO"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1235/133405l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1674/137009l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1271/137043l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1708/138033l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/6JpmIe9cJcbG6hecyN6ml8AG6RC.png",
   "tmdb_id": "220542",
@@ -586,16 +591,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1708/138033l.webp",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1708/138033l.webp",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1708/138033l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1708/138033l.webp",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1708/138033l.webp",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1708/138033l.webp",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1708/138033l.webp",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1708/138033l.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1708/138033l.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1708/138033l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1235/133405l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1235/133405l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1235/133405l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1235/133405l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1235/133405l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1235/133405l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1235/133405l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1235/133405l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1235/133405l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1235/133405l.jpg"
     }
   },
   "broadcast": {
@@ -606,17 +611,163 @@
     "timezone": "Asia/Tokyo",
     "string": "sunday 01:05"
   },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
+  "rank": 32,
+  "popularity": 228,
+  "num_scoring_users": 526389,
+  "nsfw": "white",
+  "created_at": "2023-02-16T01:27:09+00:00",
+  "updated_at": "2026-04-18T20:27:44+00:00",
+  "source": "light_novel",
+  "rating": "pg_13",
+  "background": "Kusuriya no Hitorigoto was released on Blu-ray in four volumes from January 24, 2024, to July 17, 2024.",
+  "related_anime": [
+    {
+      "node": {
+        "id": 56975,
+        "title": "Maomao no Hitorigoto",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1756/139266.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1756/139266l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 58514,
+        "title": "Kusuriya no Hitorigoto 2nd Season",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1025/147458.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1025/147458l.jpg"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 50590,
+        "title": "Koukyuu no Karasu",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1932/127228.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1932/127228l.webp"
+        }
+      },
+      "num_recommendations": 18
+    },
+    {
+      "node": {
+        "id": 25013,
+        "title": "Akatsuki no Yona",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/9/64225.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/9/64225l.jpg"
+        }
+      },
+      "num_recommendations": 14
+    },
+    {
+      "node": {
+        "id": 30123,
+        "title": "Akagami no Shirayuki-hime",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/75764.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/75764l.jpg"
+        }
+      },
+      "num_recommendations": 10
+    },
+    {
+      "node": {
+        "id": 957,
+        "title": "Saiunkoku Monogatari",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1976/139963.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1976/139963l.jpg"
+        }
+      },
+      "num_recommendations": 9
+    },
+    {
+      "node": {
+        "id": 56980,
+        "title": "Karasu wa Aruji wo Erabanai",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1084/142685.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1084/142685l.webp"
+        }
+      },
+      "num_recommendations": 9
+    },
+    {
+      "node": {
+        "id": 39468,
+        "title": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1582/101697.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1582/101697l.jpg"
+        }
+      },
+      "num_recommendations": 7
+    },
+    {
+      "node": {
+        "id": 8425,
+        "title": "Gosick",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/11/27906.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/11/27906l.webp"
+        }
+      },
+      "num_recommendations": 6
+    },
+    {
+      "node": {
+        "id": 38691,
+        "title": "Dr. Stone",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1613/102576.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1613/102576l.jpg"
+        }
+      },
+      "num_recommendations": 6
+    },
+    {
+      "node": {
+        "id": 58600,
+        "title": "Ameku Takao no Suiri Karte",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1096/147327.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1096/147327l.webp"
+        }
+      },
+      "num_recommendations": 6
+    },
+    {
+      "node": {
+        "id": 61483,
+        "title": "Tenmaku no Jaadugar",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1098/158891.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1098/158891l.jpg"
+        }
+      },
+      "num_recommendations": 6
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "112341",
+      "completed": "627323",
+      "on_hold": "17144",
+      "dropped": "10627",
+      "plan_to_watch": "157296"
+    },
+    "num_list_users": 924731
+  },
+  "mal_details_updated_at": "2026-11-10T01:30:57.265Z"
 }

@@ -29,10 +29,10 @@
   },
   "episodes": null,
   "num_episodes": null,
-  "score": 6.61,
-  "mean": 6.61,
-  "numListUsers": 29797,
-  "num_list_users": 29797,
+  "score": 6.6,
+  "mean": 6.6,
+  "numListUsers": 29803,
+  "num_list_users": 29803,
   "genres": [
     {
       "id": 10,
@@ -57,7 +57,10 @@
       "name": "Bakkka"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1008/156031l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1760/159941l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/3knNVqZlEdwYPwYBWQechjvRzx0.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/rrfcUelVro1vO4vR9ZjE2vrUKNe.png",
   "tmdb_id": "316694",
@@ -160,16 +163,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1760/159941l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1760/159941l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1760/159941l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1760/159941l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1760/159941l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1760/159941l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1760/159941l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1760/159941l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1760/159941l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1760/159941l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1008/156031l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1008/156031l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1008/156031l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1008/156031l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1008/156031l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1008/156031l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1008/156031l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1008/156031l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1008/156031l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1008/156031l.jpg"
     }
   },
   "broadcast": {
@@ -180,17 +183,52 @@
     "timezone": "Asia/Tokyo",
     "string": "monday 22:00"
   },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 7406,
+  "popularity": 4808,
+  "num_scoring_users": 4343,
+  "nsfw": "white",
+  "created_at": "2026-03-11T14:08:55+00:00",
+  "updated_at": "2026-10-05T14:44:13+00:00",
+  "source": "web_manga",
+  "rating": "pg_13",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 65257,
+        "title": "Chiisana Bokura",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1111/160688.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1111/160688l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 56690,
+        "title": "Re:Monster",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1523/141680.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1523/141680l.webp"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "19405",
+      "completed": "3",
+      "on_hold": "348",
+      "dropped": "1130",
+      "plan_to_watch": "8916"
+    },
+    "num_list_users": 29802
+  },
+  "mal_details_updated_at": "2026-11-10T01:35:48.455Z"
 }

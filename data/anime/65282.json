@@ -47,7 +47,9 @@
       "name": "StudioXD"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1671/160756l.jpg"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
@@ -83,16 +85,39 @@
   },
   "broadcast": null,
   "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "popularity": 30417,
+  "num_scoring_users": 33,
+  "nsfw": "white",
+  "created_at": "2026-10-29T13:49:37+00:00",
+  "updated_at": "2026-10-30T11:38:19+00:00",
+  "source": "original",
+  "rating": "pg_13",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 44042,
+        "title": "Holo no Graffiti",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1259/110227.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1259/110227l.jpg"
+        }
+      },
+      "relation_type": "character",
+      "relation_type_formatted": "Character"
+    }
+  ],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": "3",
+      "completed": "50",
+      "on_hold": "3",
+      "dropped": "5",
+      "plan_to_watch": "9"
+    },
+    "num_list_users": 70
+  },
+  "mal_details_updated_at": "2026-11-10T01:37:37.021Z"
 }

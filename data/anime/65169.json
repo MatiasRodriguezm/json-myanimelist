@@ -29,8 +29,8 @@
   "num_episodes": 12,
   "score": 6.43,
   "mean": 6.43,
-  "numListUsers": 1218,
-  "num_list_users": 1218,
+  "numListUsers": 1219,
+  "num_list_users": 1219,
   "genres": [
     {
       "id": 4,
@@ -47,7 +47,9 @@
       "name": "Front Wing"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1432/160506l.jpg"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
@@ -89,17 +91,40 @@
     "timezone": "Asia/Tokyo",
     "string": "sunday 00:00"
   },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 8544,
+  "popularity": 14849,
+  "num_scoring_users": 162,
+  "nsfw": "white",
+  "created_at": "2026-10-11T11:13:17+00:00",
+  "updated_at": "2026-10-11T12:22:18+00:00",
+  "source": "web_manga",
+  "rating": "pg_13",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 63509,
+        "title": "Dark Summoner to Dekiteiru",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1357/159860.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1357/159860l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    }
+  ],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": "716",
+      "completed": 0,
+      "on_hold": "36",
+      "dropped": "85",
+      "plan_to_watch": "381"
+    },
+    "num_list_users": 1218
+  },
+  "mal_details_updated_at": "2026-11-10T01:37:20.869Z"
 }

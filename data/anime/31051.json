@@ -57,7 +57,11 @@
       "name": "Production I.G"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/10/74628l.jpg",
+    "https://cdn.myanimelist.net/images/anime/2/74642l.jpg",
+    "https://cdn.myanimelist.net/images/anime/13/77323l.jpg"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
@@ -441,30 +445,65 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/13/77323l.webp",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/13/77323l.webp",
-      "image_url": "https://cdn.myanimelist.net/images/anime/13/77323l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/13/77323l.webp",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/13/77323l.webp",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/13/77323l.webp",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/13/77323l.webp",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/13/77323l.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/13/77323l.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/13/77323l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/10/74628l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/10/74628l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/74628l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/10/74628l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/74628l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/10/74628l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/10/74628l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/10/74628l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/74628l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/10/74628l.jpg"
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 623,
+  "popularity": 2172,
+  "num_scoring_users": 62857,
+  "nsfw": "white",
+  "created_at": "2015-06-19T02:27:01+00:00",
+  "updated_at": "2023-01-09T01:32:18+00:00",
+  "source": "manga",
+  "rating": "pg_13",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 24415,
+        "title": "Kuroko no Basket 3rd Season",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/4/68299.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/4/68299l.jpg"
+        }
+      },
+      "relation_type": "parent_story",
+      "relation_type_formatted": "Parent story"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 16916,
+        "title": "Kuroko no Basket: Tip Off",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/76803.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/76803l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "3027",
+      "completed": "101249",
+      "on_hold": "698",
+      "dropped": "658",
+      "plan_to_watch": "14460"
+    },
+    "num_list_users": 120092
+  },
+  "mal_details_updated_at": "2026-11-10T01:28:30.505Z"
 }

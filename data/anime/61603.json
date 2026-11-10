@@ -29,8 +29,8 @@
   "num_episodes": null,
   "score": 8.25,
   "mean": 8.25,
-  "numListUsers": 52162,
-  "num_list_users": 52162,
+  "numListUsers": 52168,
+  "num_list_users": 52168,
   "genres": [
     {
       "id": 42,
@@ -51,7 +51,11 @@
       "name": "TMS Entertainment"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1832/149517l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1979/156039l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1295/158726l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/87IQdOn34p1z2KTdM4IZ1N8bWaH.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/ebDfNsW9uCNCfEEZ6E8bWpeI63Q.png",
   "tmdb_id": "126437",
@@ -154,16 +158,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1295/158726l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1295/158726l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1295/158726l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1295/158726l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1295/158726l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1295/158726l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1295/158726l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1295/158726l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1295/158726l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1295/158726l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1832/149517l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1832/149517l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1832/149517l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1832/149517l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1832/149517l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1832/149517l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1832/149517l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1832/149517l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1832/149517l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1832/149517l.jpg"
     }
   },
   "broadcast": {
@@ -174,17 +178,40 @@
     "timezone": "Asia/Tokyo",
     "string": "sunday 17:00"
   },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 387,
+  "popularity": 3631,
+  "num_scoring_users": 4781,
+  "nsfw": "white",
+  "created_at": "2025-04-29T15:56:24+00:00",
+  "updated_at": "2026-10-04T16:44:09+00:00",
+  "source": "manga",
+  "rating": "pg_13",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 49052,
+        "title": "Ao Ashi",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1731/120871.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1731/120871l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    }
+  ],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": "24431",
+      "completed": "4",
+      "on_hold": "448",
+      "dropped": "204",
+      "plan_to_watch": "27079"
+    },
+    "num_list_users": 52166
+  },
+  "mal_details_updated_at": "2026-11-10T01:32:49.501Z"
 }

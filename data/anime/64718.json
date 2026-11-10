@@ -31,8 +31,8 @@
   "num_episodes": null,
   "score": 5.95,
   "mean": 5.95,
-  "numListUsers": 4027,
-  "num_list_users": 4027,
+  "numListUsers": 4028,
+  "num_list_users": 4028,
   "genres": [
     {
       "id": 60,
@@ -45,7 +45,9 @@
       "name": "AtoriE"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1800/159261l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/tRKExfBgUi4LzZ4z1bZ0W7RRg6w.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/2tOo2AGDUzIxuoJB9xZ4NjUy85W.png",
   "tmdb_id": "334103",
@@ -208,17 +210,40 @@
     "timezone": "Asia/Tokyo",
     "string": "saturday 08:00"
   },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 11349,
+  "popularity": 10519,
+  "num_scoring_users": 303,
+  "nsfw": "white",
+  "created_at": "2026-07-31T16:02:26+00:00",
+  "updated_at": "2026-09-27T22:36:53+00:00",
+  "source": "4_koma_manga",
+  "rating": "pg_13",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 9539,
+        "title": "Cardfight!! Vanguard",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1856/113654.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1856/113654l.jpg"
+        }
+      },
+      "relation_type": "parent_story",
+      "relation_type_formatted": "Parent story"
+    }
+  ],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": "1415",
+      "completed": "1",
+      "on_hold": "86",
+      "dropped": "230",
+      "plan_to_watch": "2296"
+    },
+    "num_list_users": 4028
+  },
+  "mal_details_updated_at": "2026-11-10T01:36:30.325Z"
 }

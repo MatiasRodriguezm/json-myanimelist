@@ -29,10 +29,10 @@
   },
   "episodes": 12,
   "num_episodes": 12,
-  "score": 6.46,
-  "mean": 6.46,
-  "numListUsers": 34576,
-  "num_list_users": 34576,
+  "score": 6.45,
+  "mean": 6.45,
+  "numListUsers": 34580,
+  "num_list_users": 34580,
   "genres": [
     {
       "id": 1,
@@ -53,7 +53,10 @@
       "name": "Zero-G"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1968/158143l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1190/159644l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/oL459mgvcnc3jL90K7zkfvXQu0.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/8OsfCGXIj6dc65ln2Cr567zh2sj.png",
   "tmdb_id": "200777",
@@ -156,16 +159,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1190/159644l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1190/159644l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1190/159644l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1190/159644l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1190/159644l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1190/159644l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1190/159644l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1190/159644l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1190/159644l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1190/159644l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1968/158143l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1968/158143l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1968/158143l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1968/158143l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1968/158143l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1968/158143l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1968/158143l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1968/158143l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1968/158143l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1968/158143l.jpg"
     }
   },
   "broadcast": {
@@ -176,17 +179,40 @@
     "timezone": "Asia/Tokyo",
     "string": "friday 01:28"
   },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 8359,
+  "popularity": 4507,
+  "num_scoring_users": 2697,
+  "nsfw": "white",
+  "created_at": "2026-05-22T11:02:14+00:00",
+  "updated_at": "2026-10-08T19:01:44+00:00",
+  "source": "light_novel",
+  "rating": "pg_13",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 51711,
+        "title": "Hyouken no Majutsushi ga Sekai wo Suberu",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1049/131580.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1049/131580l.webp"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    }
+  ],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": "14730",
+      "completed": "9",
+      "on_hold": "434",
+      "dropped": "788",
+      "plan_to_watch": "18614"
+    },
+    "num_list_users": 34575
+  },
+  "mal_details_updated_at": "2026-11-10T01:36:10.288Z"
 }

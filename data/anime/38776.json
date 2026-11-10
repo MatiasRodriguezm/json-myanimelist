@@ -38,7 +38,9 @@
     }
   ],
   "studios": [],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1980/96936l.jpg"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
@@ -80,17 +82,27 @@
     "timezone": "Asia/Tokyo",
     "string": "sunday"
   },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 18958,
+  "popularity": 15062,
+  "num_scoring_users": 78,
+  "nsfw": "white",
+  "created_at": "2018-12-03T07:02:57+00:00",
+  "updated_at": "2018-12-03T12:14:13+00:00",
+  "source": "web_manga",
+  "rating": "pg_13",
   "background": null,
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": "520",
+      "completed": 0,
+      "on_hold": "56",
+      "dropped": "352",
+      "plan_to_watch": "232"
+    },
+    "num_list_users": 1160
+  },
+  "mal_details_updated_at": "2026-11-10T01:29:09.925Z"
 }

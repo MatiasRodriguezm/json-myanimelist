@@ -61,7 +61,12 @@
       "name": "Production I.G"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/6/13175l.jpg",
+    "https://cdn.myanimelist.net/images/anime/7/14187l.jpg",
+    "https://cdn.myanimelist.net/images/anime/12/25079l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1367/96011l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/93Zwr1UckwikK8ZAcL9KmxKhszu.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/1dV7yTS1n8ZBvRwgB6ijw8mlrQW.png",
   "tmdb_id": "36250",
@@ -104,30 +109,89 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/12/25079l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/12/25079l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/12/25079l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/12/25079l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/25079l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/12/25079l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/12/25079l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/12/25079l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/25079l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/12/25079l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/6/13175l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/6/13175l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/6/13175l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/6/13175l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/6/13175l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/6/13175l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/6/13175l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/6/13175l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/6/13175l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/6/13175l.jpg"
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
+  "rank": 736,
+  "popularity": 2898,
+  "num_scoring_users": 36488,
+  "nsfw": "white",
+  "created_at": "2008-07-15T21:22:32+00:00",
+  "updated_at": "2023-08-02T05:10:18+00:00",
+  "source": "manga",
+  "rating": "pg_13",
+  "background": "Bundled with the limited editions of the 14th and 15th volumes of the xxxHOLiC manga.",
+  "related_anime": [
+    {
+      "node": {
+        "id": 3091,
+        "title": "xxxHOLiC◆Kei",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/9/8626.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/9/8626l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    },
+    {
+      "node": {
+        "id": 4938,
+        "title": "Tsubasa: Shunraiki",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/9/33841.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/9/33841l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 6864,
+        "title": "xxxHOLiC Rou",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/9/25080.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/9/25080l.jpg"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 4938,
+        "title": "Tsubasa: Shunraiki",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/9/33841.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/9/33841l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "2078",
+      "completed": "52212",
+      "on_hold": "948",
+      "dropped": "593",
+      "plan_to_watch": "21258"
+    },
+    "num_list_users": 77089
+  },
+  "mal_details_updated_at": "2026-11-10T01:30:33.819Z"
 }

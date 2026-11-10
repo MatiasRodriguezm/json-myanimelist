@@ -59,7 +59,14 @@
       "name": "B.COOL STUDIO"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1190/147034l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1232/148474l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1492/150628l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1389/152049l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1604/154509l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1363/157436l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/4b0oKiGtlwX19b0y6tQQC1ea0o5.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/vXGfIlREc2VnzuLD86Huz7T4SMc.png",
   "tmdb_id": "272059",
@@ -322,30 +329,200 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1492/150628l.webp",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1492/150628l.webp",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1492/150628l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1492/150628l.webp",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1492/150628l.webp",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1492/150628l.webp",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1492/150628l.webp",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1492/150628l.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1492/150628l.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1492/150628l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1190/147034l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1190/147034l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1190/147034l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1190/147034l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1190/147034l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1190/147034l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1190/147034l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1190/147034l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1190/147034l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1190/147034l.jpg"
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 88,
+  "popularity": 1057,
+  "num_scoring_users": 124552,
+  "nsfw": "white",
+  "created_at": "2022-10-29T13:20:01+00:00",
+  "updated_at": "2026-07-23T20:20:52+00:00",
+  "source": "original",
+  "rating": "pg_13",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 35044,
+        "title": "Tu Bian Yingxiong Leaf",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1655/116700.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1655/116700l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 61633,
+        "title": "Tu Bian Yingxiong X Concept Movie",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1496/149633.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1496/149633l.jpg"
+        }
+      },
+      "relation_type": "character",
+      "relation_type_formatted": "Character"
+    },
+    {
+      "node": {
+        "id": 61719,
+        "title": "Tu Bian Yingxiong X Character Story Movie",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1454/159138.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1454/159138l.jpg"
+        }
+      },
+      "relation_type": "character",
+      "relation_type_formatted": "Character"
+    },
+    {
+      "node": {
+        "id": 62576,
+        "title": "Tu Bian Yingxiong X Character Concept Movie",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1703/159139.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1703/159139l.jpg"
+        }
+      },
+      "relation_type": "character",
+      "relation_type_formatted": "Character"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 31964,
+        "title": "Boku no Hero Academia",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/78745.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/10/78745l.webp"
+        }
+      },
+      "num_recommendations": 4
+    },
+    {
+      "node": {
+        "id": 54449,
+        "title": "Ishura",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1364/140875.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1364/140875l.jpg"
+        }
+      },
+      "num_recommendations": 3
+    },
+    {
+      "node": {
+        "id": 9941,
+        "title": "Tiger & Bunny",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/13/29466.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/13/29466l.jpg"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 30276,
+        "title": "One Punch Man",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/12/76049.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/12/76049l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 54853,
+        "title": "Maou 2099",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1675/144605.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1675/144605l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 59306,
+        "title": "Zhan Shen: Fanchen Shenyu",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1514/144274.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1514/144274l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 34561,
+        "title": "Re:Creators",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/11/85469.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/11/85469l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 55830,
+        "title": "Fate/strange Fake",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1752/150192.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1752/150192l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 58476,
+        "title": "Fanpai Chushihua",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1806/156215.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1806/156215l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 35848,
+        "title": "Promare",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1008/101845.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1008/101845l.webp"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "56477",
+      "completed": "125158",
+      "on_hold": "10970",
+      "dropped": "10425",
+      "plan_to_watch": "70439"
+    },
+    "num_list_users": 273469
+  },
+  "mal_details_updated_at": "2026-11-10T01:30:50.853Z"
 }

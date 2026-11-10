@@ -55,7 +55,10 @@
       "name": "Animation Do"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/7/72645l.jpg",
+    "https://cdn.myanimelist.net/images/anime/6/73125l.jpg"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
@@ -249,30 +252,87 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/6/73125l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/6/73125l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/6/73125l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/6/73125l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/6/73125l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/6/73125l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/6/73125l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/6/73125l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/6/73125l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/6/73125l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/7/72645l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/7/72645l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/72645l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/7/72645l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/72645l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/7/72645l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/7/72645l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/7/72645l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/72645l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/7/72645l.jpg"
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 1013,
+  "popularity": 2478,
+  "num_scoring_users": 47696,
+  "nsfw": "white",
+  "created_at": "2014-08-28T07:48:58+00:00",
+  "updated_at": "2023-07-11T05:15:17+00:00",
+  "source": "original",
+  "rating": "pg_13",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 22265,
+        "title": "Free! Eternal Summer",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1719/108886.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1719/108886l.webp"
+        }
+      },
+      "relation_type": "parent_story",
+      "relation_type_formatted": "Parent story"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 25303,
+        "title": "Haikyuu!! Lev Genzan!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1498/96643.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1498/96643l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 853,
+        "title": "Ouran Koukou Host Club",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/2/71992.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/2/71992l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 32995,
+        "title": "Yuri!!! on Ice",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/6/81149.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/6/81149l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "2267",
+      "completed": "76552",
+      "on_hold": "919",
+      "dropped": "1248",
+      "plan_to_watch": "18515"
+    },
+    "num_list_users": 99501
+  },
+  "mal_details_updated_at": "2026-11-10T01:27:46.280Z"
 }

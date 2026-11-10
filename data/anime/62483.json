@@ -55,7 +55,10 @@
       "name": "Live2D Creative Studio"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1600/152034l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1157/156595l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/9ICPxPLDJFpnSAtUrzl2OIVlct.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/jUlj6x0yuOufCv1TKA3o6CD49lM.png",
   "tmdb_id": "300700",
@@ -88,16 +91,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1157/156595l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1157/156595l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1157/156595l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1157/156595l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1157/156595l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1157/156595l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1157/156595l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1157/156595l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1157/156595l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1157/156595l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1600/152034l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1600/152034l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1600/152034l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1600/152034l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1600/152034l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1600/152034l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1600/152034l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1600/152034l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1600/152034l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1600/152034l.jpg"
     }
   },
   "broadcast": {
@@ -109,16 +112,26 @@
     "string": "sunday 23:30"
   },
   "rank": null,
-  "popularity": null,
+  "popularity": 8798,
   "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
+  "nsfw": "white",
+  "created_at": "2025-09-13T08:30:15+00:00",
+  "updated_at": "2026-09-21T17:41:01+00:00",
+  "source": "original",
   "rating": null,
-  "background": null,
+  "background": "Kaze wo Tsugumono aired on CBC and TBS' Agaru Anime block.",
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": 0,
+      "completed": 0,
+      "on_hold": 0,
+      "dropped": 0,
+      "plan_to_watch": "6632"
+    },
+    "num_list_users": 6632
+  },
+  "mal_details_updated_at": "2026-11-10T01:33:06.010Z"
 }

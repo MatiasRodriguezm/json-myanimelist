@@ -61,7 +61,15 @@
       "name": "ufotable"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1687/143891l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1465/146881l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1681/148216l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1921/150778l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1728/151186l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1097/151557l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1022/151866l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/w3H7PDwwss5SLuMQ8UBrAProasG.png",
   "tmdb_id": "1311031",
@@ -125,30 +133,100 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1681/148216l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1681/148216l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1681/148216l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1681/148216l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1681/148216l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1681/148216l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1681/148216l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1681/148216l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1681/148216l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1681/148216l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1687/143891l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1687/143891l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1687/143891l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1687/143891l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1687/143891l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1687/143891l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1687/143891l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1687/143891l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1687/143891l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1687/143891l.jpg"
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 92,
+  "popularity": 618,
+  "num_scoring_users": 248163,
+  "nsfw": "white",
+  "created_at": "2024-06-30T15:19:23+00:00",
+  "updated_at": "2026-07-31T06:47:34+00:00",
+  "source": "manga",
+  "rating": "r",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 55701,
+        "title": "Kimetsu no Yaiba: Hashira Geiko-hen",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1565/142711.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1565/142711l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    },
+    {
+      "node": {
+        "id": 62184,
+        "title": "Kimetsu no Yaiba Movie: Mugenjou-hen Manner Eizou",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1858/151344.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1858/151344l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 62546,
+        "title": "Kimetsu no Yaiba Movie 2: Mugenjou-hen",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1000/152184.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1000/152184l.jpg"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 11061,
+        "title": "Hunter x Hunter (2011)",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1337/99013.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1337/99013l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 57555,
+        "title": "Chainsaw Man Movie: Reze-hen",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1763/150638.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1763/150638l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "19332",
+      "completed": "312542",
+      "on_hold": "2511",
+      "dropped": "503",
+      "plan_to_watch": "109440"
+    },
+    "num_list_users": 444328
+  },
+  "mal_details_updated_at": "2026-11-10T01:32:12.264Z"
 }

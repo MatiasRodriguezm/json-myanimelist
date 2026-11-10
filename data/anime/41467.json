@@ -57,7 +57,18 @@
       "name": "Studio Pierrot"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1785/106505l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1596/106575l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1256/120125l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1412/121030l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1731/124971l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1959/124973l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1764/126627l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1355/131912l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1908/135431l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1761/136672l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/jEImh4O7mcYuwuAeryGZo3G6hg6.png",
   "tmdb_id": "30984",
@@ -281,16 +292,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1908/135431l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1908/135431l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1908/135431l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1908/135431l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1908/135431l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1908/135431l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1908/135431l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1908/135431l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1908/135431l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1908/135431l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1785/106505l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1785/106505l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1785/106505l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1785/106505l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1785/106505l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1785/106505l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1785/106505l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1785/106505l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1785/106505l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1785/106505l.jpg"
     }
   },
   "broadcast": {
@@ -301,17 +312,187 @@
     "timezone": "Asia/Tokyo",
     "string": "tuesday 00:00"
   },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
+  "rank": 16,
+  "popularity": 321,
+  "num_scoring_users": 404858,
+  "nsfw": "white",
+  "created_at": "2020-03-18T09:10:15+00:00",
+  "updated_at": "2024-10-02T16:04:07+00:00",
+  "source": "manga",
+  "rating": "r",
+  "background": "Bleach: Sennen Kessen-hen adapts volume 55 to volume 61 of the original manga.\n\nIt was released on Blu-ray on April 26, 2023.",
+  "related_anime": [
+    {
+      "node": {
+        "id": 269,
+        "title": "Bleach",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1541/147774.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1541/147774l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    },
+    {
+      "node": {
+        "id": 51060,
+        "title": "Rapport",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1227/146883.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1227/146883l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 53998,
+        "title": "Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1164/138058.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1164/138058l.jpg"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    },
+    {
+      "node": {
+        "id": 60049,
+        "title": "Reaper",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1140/145932.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1140/145932l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 40748,
+        "title": "Jujutsu Kaisen",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1171/109222.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1171/109222l.webp"
+        }
+      },
+      "num_recommendations": 3
+    },
+    {
+      "node": {
+        "id": 34572,
+        "title": "Black Clover",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/2/88336.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/2/88336l.jpg"
+        }
+      },
+      "num_recommendations": 3
+    },
+    {
+      "node": {
+        "id": 38000,
+        "title": "Kimetsu no Yaiba",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1286/99889.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1286/99889l.jpg"
+        }
+      },
+      "num_recommendations": 3
+    },
+    {
+      "node": {
+        "id": 6811,
+        "title": "InuYasha: Kanketsu-hen",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/7/75570.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/7/75570l.webp"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 41433,
+        "title": "Akudama Drive",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1468/109172.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1468/109172l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 42307,
+        "title": "Subarashiki Kono Sekai The Animation",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1016/111566.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1016/111566l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 44511,
+        "title": "Chainsaw Man",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1806/126216.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1806/126216l.webp"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 21,
+        "title": "One Piece",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1244/138851.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1244/138851l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 31964,
+        "title": "Boku no Hero Academia",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/78745.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/10/78745l.webp"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 50410,
+        "title": "One Piece Film: Red",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1668/125323.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1668/125323l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "91906",
+      "completed": "477614",
+      "on_hold": "9135",
+      "dropped": "6058",
+      "plan_to_watch": "157190"
+    },
+    "num_list_users": 741903
+  },
+  "mal_details_updated_at": "2026-11-10T01:30:16.015Z"
 }

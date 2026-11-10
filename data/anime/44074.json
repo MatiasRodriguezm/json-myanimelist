@@ -67,7 +67,16 @@
       "name": "LAN Studio"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1458/113542l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1135/114867l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1734/116330l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1592/116331l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1667/120147l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1584/124835l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1955/157451l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1101/157452l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/w3agwUSMpJ4X9t1jGrDtqqRPjDQ.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/afS3wRroucg2Tku3tH0NNmyurST.png",
   "tmdb_id": "123542",
@@ -221,30 +230,248 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1135/114867l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1135/114867l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1135/114867l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1135/114867l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1135/114867l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1135/114867l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1135/114867l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1135/114867l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1135/114867l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1135/114867l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1458/113542l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1458/113542l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1458/113542l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1458/113542l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1458/113542l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1458/113542l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1458/113542l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1458/113542l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1458/113542l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1458/113542l.jpg"
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 72,
+  "popularity": 536,
+  "num_scoring_users": 198624,
+  "nsfw": "white",
+  "created_at": "2020-11-21T15:26:51+00:00",
+  "updated_at": "2025-12-29T18:43:45+00:00",
+  "source": "original",
+  "rating": "pg_13",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 49200,
+        "title": "Shiguang Dailiren Fanwai Pian: Biwu Zhaoqin",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1301/156792.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1301/156792l.webp"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 49413,
+        "title": "Shiguang Dailiren II",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1897/137108.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1897/137108l.jpg"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    },
+    {
+      "node": {
+        "id": 49652,
+        "title": "Shiguang Dailiren Special: Xiaoyao Sanren de Weituo",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1914/117361.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1914/117361l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 50105,
+        "title": "Shiguang Zhaoxiangguan de Richang",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1522/118752.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1522/118752l.webp"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 50202,
+        "title": "Shiguang Dailiren x Wanglaoji: Guanjian Shike Hai de Kan Guang Lu a!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1791/122224.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1791/122224l.jpg"
+        }
+      },
+      "relation_type": "character",
+      "relation_type_formatted": "Character"
+    },
+    {
+      "node": {
+        "id": 51665,
+        "title": "Shiguang Dailiren x Vatti: Nan Qin Na Yi Wan Mifang Da Gongkai!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1825/123136.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1825/123136l.jpg"
+        }
+      },
+      "relation_type": "character",
+      "relation_type_formatted": "Character"
+    },
+    {
+      "node": {
+        "id": 51824,
+        "title": "Shiguang Dailiren x realme: Shenmi Q Xiansheng de Weituo",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1764/131855.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1764/131855l.jpg"
+        }
+      },
+      "relation_type": "character",
+      "relation_type_formatted": "Character"
+    },
+    {
+      "node": {
+        "id": 51825,
+        "title": "Shiguang Dailiren x Laneige: Cheng Xiaoshi Po Fang Weiji",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1706/131856.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1706/131856l.jpg"
+        }
+      },
+      "relation_type": "character",
+      "relation_type_formatted": "Character"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 9253,
+        "title": "Steins;Gate",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1935/127974.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1935/127974l.jpg"
+        }
+      },
+      "num_recommendations": 25
+    },
+    {
+      "node": {
+        "id": 31043,
+        "title": "Boku dake ga Inai Machi",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/77957.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/77957l.jpg"
+        }
+      },
+      "num_recommendations": 15
+    },
+    {
+      "node": {
+        "id": 42249,
+        "title": "Tokyo Revengers",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1839/122012.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1839/122012l.webp"
+        }
+      },
+      "num_recommendations": 9
+    },
+    {
+      "node": {
+        "id": 28223,
+        "title": "Death Parade",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/5/71553.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/5/71553l.jpg"
+        }
+      },
+      "num_recommendations": 7
+    },
+    {
+      "node": {
+        "id": 40046,
+        "title": "Id:Invaded",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1889/105337.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1889/105337l.jpg"
+        }
+      },
+      "num_recommendations": 7
+    },
+    {
+      "node": {
+        "id": 33352,
+        "title": "Violet Evergarden",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1795/95088.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1795/95088l.webp"
+        }
+      },
+      "num_recommendations": 6
+    },
+    {
+      "node": {
+        "id": 37522,
+        "title": "Pet",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1399/94794.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1399/94794l.webp"
+        }
+      },
+      "num_recommendations": 4
+    },
+    {
+      "node": {
+        "id": 34102,
+        "title": "Sakurada Reset",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/5/87743.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/5/87743l.jpg"
+        }
+      },
+      "num_recommendations": 4
+    },
+    {
+      "node": {
+        "id": 32281,
+        "title": "Kimi no Na wa.",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/5/87048.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/5/87048l.jpg"
+        }
+      },
+      "num_recommendations": 4
+    },
+    {
+      "node": {
+        "id": 47194,
+        "title": "Summertime Render",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1120/120796.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1120/120796l.jpg"
+        }
+      },
+      "num_recommendations": 3
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "49061",
+      "completed": "231376",
+      "on_hold": "15089",
+      "dropped": "9787",
+      "plan_to_watch": "197153"
+    },
+    "num_list_users": 502466
+  },
+  "mal_details_updated_at": "2026-11-10T01:30:23.694Z"
 }

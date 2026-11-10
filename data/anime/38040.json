@@ -62,7 +62,12 @@
       "name": "J.C.Staff"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1892/93231l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1907/96074l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1129/117109l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1638/119321l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/wqpTrmGiqMJ6onAq3zrBhfomIJl.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/ruE6Hfmoogfx0UKoXc8H6a3oq8M.png",
   "tmdb_id": "532067",
@@ -95,30 +100,77 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1638/119321l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1638/119321l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1638/119321l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1638/119321l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1638/119321l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1638/119321l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1638/119321l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1638/119321l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1638/119321l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1638/119321l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1892/93231l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1892/93231l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1892/93231l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1892/93231l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1892/93231l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1892/93231l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1892/93231l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1892/93231l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1892/93231l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1892/93231l.jpg"
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
+  "rank": 234,
+  "popularity": 237,
+  "num_scoring_users": 574107,
+  "nsfw": "white",
+  "created_at": "2018-07-21T22:12:10+00:00",
+  "updated_at": "2024-04-02T21:02:28+00:00",
+  "source": "light_novel",
+  "rating": "pg_13",
+  "background": "Kono Subarashii Sekai ni Shukufuku wo!: Kurenai Densetsu adapts volume 5 of Natsume Akatsuki's light novel series of the same name. ",
+  "related_anime": [
+    {
+      "node": {
+        "id": 32937,
+        "title": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/2/83188.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/2/83188l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    },
+    {
+      "node": {
+        "id": 49458,
+        "title": "Kono Subarashii Sekai ni Shukufuku wo! 3",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1758/141268.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1758/141268l.jpg"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 15335,
+        "title": "Gintama Movie 2: Kanketsu-hen - Yorozuya yo Eien Nare",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/51723.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/51723l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "20751",
+      "completed": "752757",
+      "on_hold": "4473",
+      "dropped": "3837",
+      "plan_to_watch": "126337"
+    },
+    "num_list_users": 908155
+  },
+  "mal_details_updated_at": "2026-11-10T01:29:06.344Z"
 }

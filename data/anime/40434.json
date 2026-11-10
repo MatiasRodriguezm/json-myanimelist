@@ -78,7 +78,13 @@
       "name": "B.CMAY PICTURES"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1797/108863l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1247/116487l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1634/116782l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1453/153737l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1661/153738l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/mDIMt1vr7hcZRlcUz5hHY2q2M6r.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/mrvndOpCCoyAQ0BXTdQsii7AwG6.png",
   "tmdb_id": "80732",
@@ -221,30 +227,88 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1634/116782l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1634/116782l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1634/116782l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1634/116782l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1634/116782l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1634/116782l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1634/116782l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1634/116782l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1634/116782l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1634/116782l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1797/108863l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1797/108863l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1797/108863l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1797/108863l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1797/108863l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1797/108863l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1797/108863l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1797/108863l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1797/108863l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1797/108863l.jpg"
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 97,
+  "popularity": 2488,
+  "num_scoring_users": 35973,
+  "nsfw": "white",
+  "created_at": "2019-09-23T21:36:06+00:00",
+  "updated_at": "2025-12-03T18:54:11+00:00",
+  "source": "web_novel",
+  "rating": "r",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 38450,
+        "title": "Mo Dao Zu Shi: Xian Yun Pian",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1404/106707.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1404/106707l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    },
+    {
+      "node": {
+        "id": 40435,
+        "title": "Mo Dao Zu Shi Q",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1210/122883.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1210/122883l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 40730,
+        "title": "Tian Guan Cifu",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1319/109301.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1319/109301l.webp"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 41923,
+        "title": "Yi Nian Yong Heng",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1517/155868.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1517/155868l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "8903",
+      "completed": "47151",
+      "on_hold": "1731",
+      "dropped": "1465",
+      "plan_to_watch": "39752"
+    },
+    "num_list_users": 99002
+  },
+  "mal_details_updated_at": "2026-11-10T01:29:16.398Z"
 }

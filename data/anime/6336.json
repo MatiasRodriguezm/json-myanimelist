@@ -61,7 +61,15 @@
       "name": "Sunrise"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/7/14464l.jpg",
+    "https://cdn.myanimelist.net/images/anime/4/30270l.jpg",
+    "https://cdn.myanimelist.net/images/anime/11/31775l.jpg",
+    "https://cdn.myanimelist.net/images/anime/2/38521l.jpg",
+    "https://cdn.myanimelist.net/images/anime/8/43571l.jpg",
+    "https://cdn.myanimelist.net/images/anime/12/50459l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1209/95286l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/qpAwEOyajTvZpHO3c6GZQcBzhrJ.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/rq5NY5zVwkZBhYf7KY4uz3PzBUn.png",
   "tmdb_id": "45500",
@@ -875,30 +883,274 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/12/50459l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/12/50459l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/12/50459l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/12/50459l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/50459l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/12/50459l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/12/50459l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/12/50459l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/50459l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/12/50459l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/7/14464l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/7/14464l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/14464l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/7/14464l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/14464l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/7/14464l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/7/14464l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/7/14464l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/14464l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/7/14464l.jpg"
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
+  "rank": 622,
+  "popularity": 2316,
+  "num_scoring_users": 55778,
+  "nsfw": "white",
+  "created_at": "2009-04-09T01:24:25+00:00",
+  "updated_at": "2025-10-17T22:26:12+00:00",
+  "source": "novel",
+  "rating": "pg_13",
+  "background": "Mobile Suit Gundam Unicorn was awarded the Tokyo Anime Award in the OVA category twice in a row, in 2011 and 2012.",
+  "related_anime": [
+    {
+      "node": {
+        "id": 87,
+        "title": "Kidou Senshi Gundam: Gyakushuu no Char",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1523/92371.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1523/92371l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    },
+    {
+      "node": {
+        "id": 88,
+        "title": "Kidou Senshi Gundam F91",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1637/95288.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1637/95288l.jpg"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    },
+    {
+      "node": {
+        "id": 23943,
+        "title": "Kidou Senshi Gundam UC: One of Seventy Two",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/62067.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/62067l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 24371,
+        "title": "Kidou Senshi Gundam Unicorn: Episode EX - Hyakunen no Kodoku",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/4/62957.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/4/62957l.jpg"
+        }
+      },
+      "relation_type": "summary",
+      "relation_type_formatted": "Summary"
+    },
+    {
+      "node": {
+        "id": 32792,
+        "title": "Kidou Senshi Gundam Unicorn RE:0096",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1831/132807.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1831/132807l.jpg"
+        }
+      },
+      "relation_type": "alternative_version",
+      "relation_type_formatted": "Alternative version"
+    },
+    {
+      "node": {
+        "id": 35224,
+        "title": "Kidou Senshi Gundam: Twilight Axis",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/7/85773.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/7/85773l.jpg"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    },
+    {
+      "node": {
+        "id": 37764,
+        "title": "Kidou Senshi Gundam NT",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1552/95706.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1552/95706l.jpg"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    },
+    {
+      "node": {
+        "id": 38739,
+        "title": "Kidou Senshi Gundam UC Perfectibility",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1042/96713.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1042/96713l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 40464,
+        "title": "Kidou Senshi Gundam: Hikaru Inochi Chronicle U.C.",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1417/103338.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1417/103338l.jpg"
+        }
+      },
+      "relation_type": "summary",
+      "relation_type_formatted": "Summary"
+    },
+    {
+      "node": {
+        "id": 42380,
+        "title": "Re:I Am",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1381/108366.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1381/108366l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 49941,
+        "title": "Gundam UC x Nike SB",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1088/118083.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1088/118083l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 50084,
+        "title": "Kidou Senshi Gundam UC: Zenwa Digest - Banagher no Tabiji",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1913/118723.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1913/118723l.jpg"
+        }
+      },
+      "relation_type": "summary",
+      "relation_type_formatted": "Summary"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 6772,
+        "title": "Break Blade Movie 1: Kakusei no Toki",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/68079.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/68079l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 237,
+        "title": "Koukyoushihen Eureka Seven",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/12/34443.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/12/34443l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 8888,
+        "title": "Code Geass: Boukoku no Akito 1 - Yokuryuu wa Maiorita",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/41401.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/41401l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 12029,
+        "title": "Uchuu Senkan Yamato 2199",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/2/36607.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/2/36607l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 31251,
+        "title": "Kidou Senshi Gundam: Tekketsu no Orphans",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/6/75879.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/6/75879l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 85,
+        "title": "Kidou Senshi Zeta Gundam",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/6/11153.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/6/11153l.webp"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 86,
+        "title": "Kidou Senshi Gundam ZZ",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1964/149469.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1964/149469l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 3927,
+        "title": "Kidou Senshi Gundam 00 Second Season",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/9/12782.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/9/12782l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "11798",
+      "completed": "63996",
+      "on_hold": "5144",
+      "dropped": "2523",
+      "plan_to_watch": "25853"
+    },
+    "num_list_users": 109314
+  },
+  "mal_details_updated_at": "2026-11-10T01:34:43.184Z"
 }

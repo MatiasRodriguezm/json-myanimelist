@@ -63,7 +63,12 @@
       "name": "A-1 Pictures"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/4/64979l.jpg",
+    "https://cdn.myanimelist.net/images/anime/4/64981l.jpg",
+    "https://cdn.myanimelist.net/images/anime/9/71941l.jpg",
+    "https://cdn.myanimelist.net/images/anime/12/74392l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/5U0dYTkHXPhoExNnEm5iKrpDqtr.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/wFe5m9XtZHf7m9D1R29LrhAmatr.png",
   "tmdb_id": "50712",
@@ -106,30 +111,154 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/12/74392l.webp",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/12/74392l.webp",
-      "image_url": "https://cdn.myanimelist.net/images/anime/12/74392l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/12/74392l.webp",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/74392l.webp",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/12/74392l.webp",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/12/74392l.webp",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/12/74392l.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/74392l.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/12/74392l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/4/64979l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/4/64979l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/64979l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/4/64979l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/64979l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/4/64979l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/4/64979l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/4/64979l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/64979l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/4/64979l.jpg"
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
+  "rank": 706,
+  "popularity": 1043,
+  "num_scoring_users": 136473,
+  "nsfw": "white",
+  "created_at": "2014-03-22T09:21:51+00:00",
+  "updated_at": "2024-10-06T16:08:25+00:00",
+  "source": "manga",
+  "rating": "r",
+  "background": "Episodes 1 and 2 were previewed at screenings in multiple cities across Japan on October 25 and November 15, 2014. The DVDs and BDs were released on January 28 and February 25, 2015.",
+  "related_anime": [
+    {
+      "node": {
+        "id": 22145,
+        "title": "Kuroshitsuji: Book of Circus",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/6/64811.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/6/64811l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    },
+    {
+      "node": {
+        "id": 31812,
+        "title": "Kuroshitsuji Movie: Book of the Atlantic",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/9/85792.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/9/85792l.jpg"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 16592,
+        "title": "Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/4/51463.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/4/51463l.webp"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 40046,
+        "title": "Id:Invaded",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1889/105337.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1889/105337l.jpg"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 4896,
+        "title": "Umineko no Naku Koro ni",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/17709.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/10/17709l.webp"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 2251,
+        "title": "Baccano!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/3/14547.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/3/14547l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 32998,
+        "title": "91 Days",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/13/80515.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/13/80515l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 57635,
+        "title": "Kamonohashi Ron no Kindan Suiri 2nd Season",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1917/144334.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1917/144334l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 28497,
+        "title": "Rokka no Yuusha",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/9/74374.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/9/74374l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 8425,
+        "title": "Gosick",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/11/27906.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/11/27906l.webp"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "7516",
+      "completed": "205129",
+      "on_hold": "2714",
+      "dropped": "2239",
+      "plan_to_watch": "58993"
+    },
+    "num_list_users": 276591
+  },
+  "mal_details_updated_at": "2026-11-10T01:27:36.538Z"
 }

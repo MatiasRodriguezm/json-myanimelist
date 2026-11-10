@@ -55,7 +55,12 @@
       "name": "Bones"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1619/91789l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1319/92084l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1838/93535l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1739/93536l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/3ILMlmC30QUnYkY3XEBOyJ82Dqu.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/ztteKox6S97uwEuEF2lsaFxaJmg.png",
   "tmdb_id": "65930",
@@ -369,16 +374,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1319/92084l.webp",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1319/92084l.webp",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1319/92084l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1319/92084l.webp",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1319/92084l.webp",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1319/92084l.webp",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1319/92084l.webp",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1319/92084l.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1319/92084l.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1319/92084l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1619/91789l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1619/91789l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1619/91789l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1619/91789l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1619/91789l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1619/91789l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1619/91789l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1619/91789l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1619/91789l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1619/91789l.jpg"
     }
   },
   "broadcast": {
@@ -389,17 +394,187 @@
     "timezone": "Asia/Tokyo",
     "string": "saturday 17:30"
   },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 807,
+  "popularity": 25,
+  "num_scoring_users": 1585536,
+  "nsfw": "white",
+  "created_at": "2017-09-29T07:06:39+00:00",
+  "updated_at": "2024-01-28T15:04:45+00:00",
+  "source": "manga",
+  "rating": "pg_13",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 33486,
+        "title": "Boku no Hero Academia 2nd Season",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/12/85221.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/12/85221l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    },
+    {
+      "node": {
+        "id": 36896,
+        "title": "Boku no Hero Academia the Movie 1: Futari no Hero",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1736/93138.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1736/93138l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 38408,
+        "title": "Boku no Hero Academia 4th Season",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1412/107914.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1412/107914l.jpg"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    },
+    {
+      "node": {
+        "id": 42603,
+        "title": "Boku no Hero Academia: Ikinokore! Kesshi no Survival Kunren",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1345/108741.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1345/108741l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 11061,
+        "title": "Hunter x Hunter (2011)",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1337/99013.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1337/99013l.jpg"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 24833,
+        "title": "Ansatsu Kyoushitsu",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/5/75639.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/5/75639l.jpg"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 34134,
+        "title": "One Punch Man 2nd Season",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1247/122044.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1247/122044l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 34566,
+        "title": "Boruto: Naruto Next Generations",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1091/99847.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1091/99847l.webp"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 35044,
+        "title": "Tu Bian Yingxiong Leaf",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1655/116700.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1655/116700l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 20,
+        "title": "Naruto",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1141/142503.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1141/142503l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 21,
+        "title": "One Piece",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1244/138851.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1244/138851l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 2001,
+        "title": "Tengen Toppa Gurren Lagann",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/4/5123.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/4/5123l.webp"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 36649,
+        "title": "Banana Fish",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1190/93472.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1190/93472l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 1604,
+        "title": "Katekyou Hitman Reborn!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1531/142751.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1531/142751l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "136287",
+      "completed": "2114175",
+      "on_hold": "23184",
+      "dropped": "25655",
+      "plan_to_watch": "124328"
+    },
+    "num_list_users": 2423629
+  },
+  "mal_details_updated_at": "2026-11-10T01:28:54.957Z"
 }

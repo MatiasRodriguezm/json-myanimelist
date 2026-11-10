@@ -70,7 +70,11 @@
       "name": "SILVER LINK."
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1801/151244l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1626/156999l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1582/159858l.jpg"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
@@ -103,30 +107,53 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1582/159858l.webp",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1582/159858l.webp",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1582/159858l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1582/159858l.webp",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1582/159858l.webp",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1582/159858l.webp",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1582/159858l.webp",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1582/159858l.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1582/159858l.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1582/159858l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1801/151244l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1801/151244l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1801/151244l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1801/151244l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1801/151244l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1801/151244l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1801/151244l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1801/151244l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1801/151244l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1801/151244l.jpg"
     }
   },
   "broadcast": null,
   "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "popularity": 2502,
+  "num_scoring_users": 157,
+  "nsfw": "white",
+  "created_at": "2023-09-24T08:37:06+00:00",
+  "updated_at": "2026-09-04T03:06:26+00:00",
+  "source": "light_novel",
+  "rating": "pg_13",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 47790,
+        "title": "Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1928/117620.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1928/117620l.webp"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    }
+  ],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": "518",
+      "completed": "3",
+      "on_hold": "182",
+      "dropped": "49",
+      "plan_to_watch": "97500"
+    },
+    "num_list_users": 98252
+  },
+  "mal_details_updated_at": "2026-11-10T01:31:01.489Z"
 }

@@ -59,7 +59,13 @@
       "name": "Shin-Ei Animation"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/6/23935l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1626/109538l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1972/133658l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1900/133660l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1634/159916l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/c2oiRa7V3bQzof4wVGzLXtWJ5QU.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/4PyFYwHjmD85jynyTwMKbKiZjZG.png",
   "tmdb_id": "65733",
@@ -7943,17 +7949,620 @@
     "timezone": "Asia/Tokyo",
     "string": "friday 19:00"
   },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 1208,
+  "popularity": 5268,
+  "num_scoring_users": 10439,
+  "nsfw": "white",
+  "created_at": "2010-04-24T19:45:34+00:00",
+  "updated_at": "2026-09-07T04:52:14+00:00",
+  "source": "manga",
+  "rating": "pg",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 2392,
+        "title": "Doraemon Movie 26: Nobita no Kyouryuu 2006",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/9/72431.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/9/72431l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 2471,
+        "title": "Doraemon (1979)",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/3/3953.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/3/3953l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    },
+    {
+      "node": {
+        "id": 2673,
+        "title": "Doraemon Movie 27: Nobita no Shin Makai Daibouken - 7-nin no Mahoutsukai",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/2/72432.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/2/72432l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 5096,
+        "title": "Doraemon Movie 28: Nobita to Midori no Kyojin Den",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/8/72433.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/8/72433l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 6930,
+        "title": "Doraemon Movie 29: Shin Nobita no Uchuu Kaitakushi",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/9/72434.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/9/72434l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 6988,
+        "title": "Doraemon Movie 30: Nobita no Ningyo Daikaisen",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/9/72435.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/9/72435l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 10534,
+        "title": "Doraemon Movie 31: Shin Nobita to Tetsujin Heidan - Habatake Tenshi-tachi",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/7/72436.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/7/72436l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 11053,
+        "title": "Doraemon Movie 32: Nobita to Kiseki no Shima - Animal Adventure",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/7/72437.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/7/72437l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 15925,
+        "title": "Doraemon Movie 33: Nobita no Himitsu Dougu Museum",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/4/72438.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/4/72438l.webp"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 19645,
+        "title": "Doraemon Movie 34: Shin Nobita no Daimakyou - Peko to 5-nin no Tankentai",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/13/72439.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/13/72439l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 21469,
+        "title": "Stand By Me Doraemon",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/9/65571.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/9/65571l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 25383,
+        "title": "Doraemon Movie 35: Nobita no Space Heroes",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/11/72404.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/11/72404l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 31201,
+        "title": "Doraemon Movie 36: Shin Nobita no Nippon Tanjou",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/7/78157.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/7/78157l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 33672,
+        "title": "Doraemon Movie 37: Nobita no Nankyoku Kachikochi Daibouken",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/5/84521.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/5/84521l.webp"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 35686,
+        "title": "Doraemon (2005) Specials",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1969/109880.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1969/109880l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 35740,
+        "title": "Doraemon Movie 38: Nobita no Takarajima",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/89830.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/89830l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 38530,
+        "title": "Doraemon Movie 39: Nobita no Getsumen Tansaki",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1369/102185.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1369/102185l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 40044,
+        "title": "Doraemon Movie 40: Nobita no Shin Kyouryuu",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1745/108659.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1745/108659l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 44025,
+        "title": "Doraemon Movie 41: Nobita no Little Star Wars",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1367/119333.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1367/119333l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 52318,
+        "title": "Doraemon Movie 42: Nobita to Sora no Utopia",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1299/131609.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1299/131609l.webp"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 53956,
+        "title": "Doraemon: Uchuu Fushigi Daitanken Planetarium",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1225/132040.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1225/132040l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 53957,
+        "title": "Doraemon: Uchuu Fushigi Daitanken Planetarium 2 - Taiyoukei no Himitsu",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1133/132041.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1133/132041l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 53959,
+        "title": "Doraemon: Uchuu Fushigi Daitanken Planetarium 3 - Ukyuu no Fushigi",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1155/132043.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1155/132043l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 55874,
+        "title": "Doraemon Movie 43: Nobita no Chikyuu Symphony",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1009/140131.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1009/140131l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 59713,
+        "title": "Planetarium Doraemon: Uchuu no Mokei",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1414/145206.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1414/145206l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 59836,
+        "title": "Doraemon 3D Short Movie",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1847/145555.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1847/145555l.webp"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 59844,
+        "title": "F-Chara All Stars Daishuugou: Doraemon & Perman - Kikiippatsu!?",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1744/145510.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1744/145510l.jpg"
+        }
+      },
+      "relation_type": "character",
+      "relation_type_formatted": "Character"
+    },
+    {
+      "node": {
+        "id": 59847,
+        "title": "21 Emon & Doraemon: Youkoso!! Hotel Tsuzureya e",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1618/145513.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1618/145513l.jpg"
+        }
+      },
+      "relation_type": "character",
+      "relation_type_formatted": "Character"
+    },
+    {
+      "node": {
+        "id": 59850,
+        "title": "Doraemon & Chinpui: Eri-sama Ai no Present Daisakusen",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1553/145517.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1553/145517l.jpg"
+        }
+      },
+      "relation_type": "character",
+      "relation_type_formatted": "Character"
+    },
+    {
+      "node": {
+        "id": 59851,
+        "title": "Kiteretsu Daihyakka & Doraemon: Korosuke no Hajimete no Otsukai",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1996/145519.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1996/145519l.jpg"
+        }
+      },
+      "relation_type": "character",
+      "relation_type_formatted": "Character"
+    },
+    {
+      "node": {
+        "id": 59852,
+        "title": "Pokonyan & Doraemon: Ponpoko-nyan de Koko Hore Nyan Nyan!?",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1103/145521.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1103/145521l.jpg"
+        }
+      },
+      "relation_type": "character",
+      "relation_type_formatted": "Character"
+    },
+    {
+      "node": {
+        "id": 59854,
+        "title": "Umeboshi Denka & Doraemon: Panparopan no Suppappa!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1922/145524.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1922/145524l.jpg"
+        }
+      },
+      "relation_type": "character",
+      "relation_type_formatted": "Character"
+    },
+    {
+      "node": {
+        "id": 59855,
+        "title": "Doraemon & F-Chara All Stars: Getsumen Race de Dai-Pinch!?",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1660/145525.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1660/145525l.jpg"
+        }
+      },
+      "relation_type": "character",
+      "relation_type_formatted": "Character"
+    },
+    {
+      "node": {
+        "id": 59856,
+        "title": "Doraemon Tanjou",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1397/145526.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1397/145526l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 59857,
+        "title": "Doraemon & F-Chara All Stars: Sukoshi Fushigi Express",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1283/145527.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1283/145527l.jpg"
+        }
+      },
+      "relation_type": "character",
+      "relation_type_formatted": "Character"
+    },
+    {
+      "node": {
+        "id": 59858,
+        "title": "Doraemon & SF Tanpen: Sora kara no Otoshidama",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1794/145528.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1794/145528l.jpg"
+        }
+      },
+      "relation_type": "character",
+      "relation_type_formatted": "Character"
+    },
+    {
+      "node": {
+        "id": 59859,
+        "title": "Doraemon & F-Chara All Stars: Yume no Machi, F Land",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1506/145529.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1506/145529l.jpg"
+        }
+      },
+      "relation_type": "character",
+      "relation_type_formatted": "Character"
+    },
+    {
+      "node": {
+        "id": 59980,
+        "title": "Doraemon Movie 44: Nobita no E Sekai Monogatari",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1143/146877.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1143/146877l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 62508,
+        "title": "Doraemon Movie 45: Shin Nobita no Kaitei Kiganjou",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1646/153726.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1646/153726l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 64920,
+        "title": "Doraemon Movie 46: Nobita no Jouki Jikansha",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1034/160099.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1034/160099l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 65200,
+        "title": "Planetarium Doraemon: Jikan no Himitsu",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1921/160576.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1921/160576l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 918,
+        "title": "Gintama",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/73274.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/73274l.jpg"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 6509,
+        "title": "Kiteretsu Daihyakka",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1872/133507.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1872/133507l.jpg"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 4936,
+        "title": "Ninja Hattori-kun",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/5/82502.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/5/82502l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 18845,
+        "title": "Ninja Hattori-kun (2012)",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/9/50285.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/9/50285l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 34012,
+        "title": "Isekai Shokudou",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/3/86666.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/3/86666l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 34550,
+        "title": "Warau Salesman New",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/3/85132.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/3/85132l.webp"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 1293,
+        "title": "Urusei Yatsura",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/9/17573.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/9/17573l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 516,
+        "title": "Keroro Gunsou",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1121/117792.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1121/117792l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 966,
+        "title": "Crayon Shin-chan",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/59897.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/59897l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "10448",
+      "completed": "7",
+      "on_hold": "3843",
+      "dropped": "4569",
+      "plan_to_watch": "5167"
+    },
+    "num_list_users": 24034
+  },
+  "mal_details_updated_at": "2026-11-10T01:37:53.293Z"
 }

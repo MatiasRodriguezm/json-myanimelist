@@ -43,7 +43,9 @@
     }
   ],
   "studios": [],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1569/146966l.jpg"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
@@ -79,16 +81,39 @@
   },
   "broadcast": null,
   "rank": null,
-  "popularity": null,
+  "popularity": 4262,
   "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "nsfw": "white",
+  "created_at": "2024-12-15T14:08:51+00:00",
+  "updated_at": "2024-12-15T14:17:20+00:00",
+  "source": "light_novel",
+  "rating": "pg_13",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 51648,
+        "title": "Nozomanu Fushi no Boukensha",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1008/140287.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1008/140287l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    }
+  ],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": "5",
+      "completed": 0,
+      "on_hold": "1",
+      "dropped": 0,
+      "plan_to_watch": "39057"
+    },
+    "num_list_users": 39063
+  },
+  "mal_details_updated_at": "2026-11-10T01:32:29.073Z"
 }

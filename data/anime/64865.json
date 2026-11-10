@@ -51,7 +51,9 @@
       "name": "LOCUS Animation Studio"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1431/159714l.jpg"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
@@ -86,17 +88,27 @@
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 17872,
+  "popularity": 24799,
+  "num_scoring_users": 8,
+  "nsfw": "white",
+  "created_at": "2026-08-23T18:39:33+00:00",
+  "updated_at": "2026-09-10T18:00:08+00:00",
+  "source": "web_manga",
+  "rating": "pg_13",
   "background": null,
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": "10",
+      "completed": "13",
+      "on_hold": "6",
+      "dropped": "24",
+      "plan_to_watch": "128"
+    },
+    "num_list_users": 181
+  },
+  "mal_details_updated_at": "2026-11-10T01:36:34.775Z"
 }

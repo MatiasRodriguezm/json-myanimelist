@@ -43,7 +43,9 @@
       "name": "OLM"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1552/119871l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/k2yStztk0X68RfSkexEXg9DpqkD.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/yc4tYpSjhr2ujYqRQuB7KhXtid5.png",
   "tmdb_id": "152271",
@@ -2607,17 +2609,52 @@
     "timezone": "Asia/Tokyo",
     "string": "saturday 07:00"
   },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
+  "rank": 13374,
+  "popularity": 10558,
+  "num_scoring_users": 480,
+  "nsfw": "white",
+  "created_at": "2021-11-21T18:29:40+00:00",
+  "updated_at": "2022-12-29T08:12:05+00:00",
+  "source": "game",
+  "rating": "pg",
+  "background": "The airing time was Saturdays 10:30 between January 8, 2022 and October 22, 2022 and Saturdays 10:00 beginning October 29, 2022 to September 30, 2023.  The airing time is Saturday 7:00 beginning October 7, 2023",
+  "related_anime": [
+    {
+      "node": {
+        "id": 41547,
+        "title": "Ninjala Episode 0",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1444/106767.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1444/106767l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 42658,
+        "title": "Ninjala",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1161/108830.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1161/108830l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    }
+  ],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": "1388",
+      "completed": 0,
+      "on_hold": "230",
+      "dropped": "803",
+      "plan_to_watch": "1559"
+    },
+    "num_list_users": 3980
+  },
+  "mal_details_updated_at": "2026-11-10T01:30:40.237Z"
 }

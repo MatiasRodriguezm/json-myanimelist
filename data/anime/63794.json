@@ -54,7 +54,10 @@
       "name": "Doga Kobo"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1702/156273l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1052/159561l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/s76eYQi6hcAcOVYpVd9hofdyt11.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/lxzrNYYgM51CtUAeXWzF5OMxiCF.png",
   "tmdb_id": "203737",
@@ -64,42 +67,65 @@
   "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1052/159561.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1052/159561l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1052/159561.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1052/159561l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1052/159561.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1052/159561l.webp",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1052/159561.webp",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1052/159561l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1052/159561.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1052/159561l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1052/159561.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1052/159561l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1052/159561l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1052/159561l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1052/159561l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1052/159561l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1052/159561l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1052/159561l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1052/159561l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1052/159561l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1052/159561l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1052/159561l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1702/156273l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1702/156273l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1702/156273l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1702/156273l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1702/156273l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1702/156273l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1702/156273l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1702/156273l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1702/156273l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1702/156273l.jpg"
     }
   },
   "broadcast": null,
   "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "popularity": 2895,
+  "num_scoring_users": 1,
+  "nsfw": "white",
+  "created_at": "2026-03-25T15:07:23+00:00",
+  "updated_at": "2026-08-16T12:06:09+00:00",
+  "source": "manga",
+  "rating": "pg_13",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 60058,
+        "title": "[Oshi no Ko] 3rd Season",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1979/153329.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1979/153329l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    }
+  ],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": "5",
+      "completed": 0,
+      "on_hold": "4",
+      "dropped": 0,
+      "plan_to_watch": "77212"
+    },
+    "num_list_users": 77221
+  },
+  "mal_details_updated_at": "2026-11-10T01:35:55.328Z"
 }

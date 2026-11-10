@@ -47,7 +47,11 @@
       "name": "Eiken"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/13/77617l.jpg",
+    "https://cdn.myanimelist.net/images/anime/12/84057l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1686/149949l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/6XELL0PJ3yPH7MFYtfq6sr9qOxB.jpg",
   "logo_url": null,
   "tmdb_id": "66569",
@@ -3260,16 +3264,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1686/149949l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1686/149949l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1686/149949l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1686/149949l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1686/149949l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1686/149949l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1686/149949l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1686/149949l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1686/149949l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1686/149949l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/13/77617l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/13/77617l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/13/77617l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/13/77617l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/13/77617l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/13/77617l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/13/77617l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/13/77617l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/13/77617l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/13/77617l.jpg"
     }
   },
   "broadcast": {
@@ -3280,17 +3284,86 @@
     "timezone": "Asia/Tokyo",
     "string": "saturday 04:52"
   },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 8537,
+  "popularity": 10376,
+  "num_scoring_users": 805,
+  "nsfw": "white",
+  "created_at": "2015-12-16T23:33:52+00:00",
+  "updated_at": "2026-05-08T23:51:45+00:00",
+  "source": "4_koma_manga",
+  "rating": "g",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 4286,
+        "title": "Bonobono (TV)",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/3/65867.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/3/65867l.jpg"
+        }
+      },
+      "relation_type": "alternative_version",
+      "relation_type_formatted": "Alternative version"
+    },
+    {
+      "node": {
+        "id": 36964,
+        "title": "Bonobono: Uchuu kara Kita Tomodachi",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/89540.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/89540l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 32571,
+        "title": "Shounen Ashibe: Go! Go! Goma-chan",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/4/79805.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/4/79805l.webp"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 2471,
+        "title": "Doraemon (1979)",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/3/3953.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/3/3953l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 12815,
+        "title": "Shirokuma Cafe",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/6/75649.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/6/75649l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "1619",
+      "completed": 0,
+      "on_hold": "481",
+      "dropped": "967",
+      "plan_to_watch": "1143"
+    },
+    "num_list_users": 4210
+  },
+  "mal_details_updated_at": "2026-11-10T01:28:38.598Z"
 }

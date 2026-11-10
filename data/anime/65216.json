@@ -50,7 +50,9 @@
     }
   ],
   "studios": [],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1567/160610l.jpg"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
@@ -85,17 +87,40 @@
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 16616,
+  "popularity": 30497,
+  "num_scoring_users": 5,
+  "nsfw": "white",
+  "created_at": "2026-10-19T11:03:01+00:00",
+  "updated_at": "2026-10-21T10:49:53+00:00",
+  "source": "original",
+  "rating": "pg",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 62680,
+        "title": "Dinoster: Gonglyongsuhodae 3rd Season",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1108/152498.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1108/152498l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    }
+  ],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": "15",
+      "completed": 0,
+      "on_hold": "2",
+      "dropped": "25",
+      "plan_to_watch": "21"
+    },
+    "num_list_users": 63
+  },
+  "mal_details_updated_at": "2026-11-10T01:37:29.333Z"
 }

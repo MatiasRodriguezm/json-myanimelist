@@ -29,8 +29,8 @@
   "num_episodes": 12,
   "score": 6.86,
   "mean": 6.86,
-  "numListUsers": 25599,
-  "num_list_users": 25599,
+  "numListUsers": 25600,
+  "num_list_users": 25600,
   "genres": [
     {
       "id": 62,
@@ -55,7 +55,11 @@
       "name": "Jumondou"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1649/152609l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1668/159885l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1732/159886l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/6tdkrWkbHlNZ8ZGn5blye4KTm57.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/vuetBPAN3TGi4XsRSsgiM6GV2F8.png",
   "tmdb_id": "303060",
@@ -158,16 +162,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1732/159886l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1732/159886l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1732/159886l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1732/159886l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1732/159886l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1732/159886l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1732/159886l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1732/159886l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1732/159886l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1732/159886l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1649/152609l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1649/152609l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1649/152609l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1649/152609l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1649/152609l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1649/152609l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1649/152609l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1649/152609l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1649/152609l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1649/152609l.jpg"
     }
   },
   "broadcast": {
@@ -178,17 +182,39 @@
     "timezone": "Asia/Tokyo",
     "string": "sunday 23:30"
   },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 5749,
+  "popularity": 5137,
+  "num_scoring_users": 2917,
+  "nsfw": "white",
+  "created_at": "2025-10-15T05:18:55+00:00",
+  "updated_at": "2026-10-04T16:39:38+00:00",
+  "source": "light_novel",
+  "rating": "pg_13",
   "background": null,
   "related_anime": [],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 61687,
+        "title": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku.",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1769/153376.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1769/153376l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "13758",
+      "completed": "5",
+      "on_hold": "278",
+      "dropped": "778",
+      "plan_to_watch": "10777"
+    },
+    "num_list_users": 25596
+  },
+  "mal_details_updated_at": "2026-11-10T01:34:13.370Z"
 }

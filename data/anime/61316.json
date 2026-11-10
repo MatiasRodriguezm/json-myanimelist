@@ -32,8 +32,8 @@
   "num_episodes": 19,
   "score": 9.06,
   "mean": 9.06,
-  "numListUsers": 369636,
-  "num_list_users": 369636,
+  "numListUsers": 369648,
+  "num_list_users": 369648,
   "genres": [
     {
       "id": 8,
@@ -66,7 +66,19 @@
       "name": "White Fox"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1070/148834l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1718/148835l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1794/148838l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1564/149905l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1815/149906l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1827/150917l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1497/153635l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1040/153636l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1540/155824l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1579/158534l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1446/158539l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/7ZruEnSnHD6Jx5mF0hBt1E306Vt.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/5cfRiR2U7m3DuCTRRwB7LeJYte8.png",
   "tmdb_id": "65942",
@@ -490,16 +502,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1540/155824l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1540/155824l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1540/155824l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1540/155824l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1540/155824l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1540/155824l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1540/155824l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1540/155824l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1540/155824l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1540/155824l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1070/148834l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1070/148834l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1070/148834l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1070/148834l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1070/148834l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1070/148834l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1070/148834l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1070/148834l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1070/148834l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1070/148834l.jpg"
     }
   },
   "broadcast": {
@@ -510,17 +522,108 @@
     "timezone": "Asia/Tokyo",
     "string": "wednesday 22:00"
   },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
+  "rank": 4,
+  "popularity": 763,
+  "num_scoring_users": 180038,
+  "nsfw": "white",
+  "created_at": "2025-03-26T15:47:32+00:00",
+  "updated_at": "2026-10-01T03:59:03+00:00",
+  "source": "light_novel",
+  "rating": "r",
+  "background": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season is comprised of two arcs. The first eleven episodes are subtitled Soushitsu-hen (Loss Arc). The latter eight, subtitled Dakkan-hen (Recapture Arc), began airing on August 12, 2026.",
+  "related_anime": [
+    {
+      "node": {
+        "id": 54857,
+        "title": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1706/144725.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1706/144725l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    },
+    {
+      "node": {
+        "id": 63830,
+        "title": "Re:Zero kara Hajimeru Break Time 4th Season",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1014/156363.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1014/156363l.jpg"
+        }
+      },
+      "relation_type": "spin_off",
+      "relation_type_formatted": "Spin-off"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 38524,
+        "title": "Shingeki no Kyojin Season 3 Part 2",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1517/100633.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1517/100633l.webp"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 35557,
+        "title": "Houseki no Kuni",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/3/88293.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/3/88293l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 49818,
+        "title": "Guimi Zhi Zhu: Xiaochou Pian",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1952/149229.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1952/149229l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 56009,
+        "title": "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1062/151911.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1062/151911l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 47194,
+        "title": "Summertime Render",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1120/120796.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1120/120796l.webp"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "121596",
+      "completed": "141528",
+      "on_hold": "5062",
+      "dropped": "2610",
+      "plan_to_watch": "98342"
+    },
+    "num_list_users": 369138
+  },
+  "mal_details_updated_at": "2026-11-10T01:32:42.735Z"
 }

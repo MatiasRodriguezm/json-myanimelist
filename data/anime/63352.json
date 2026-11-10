@@ -53,7 +53,9 @@
       "name": "Dongwoo A&E"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1705/155680l.jpg"
+  ],
   "backdrop_url": null,
   "logo_url": "https://image.tmdb.org/t/p/w500/zYDeMOP1xH2l7TuuX6tnBfwJoJg.png",
   "tmdb_id": "312123",
@@ -456,17 +458,52 @@
     "timezone": "Asia/Tokyo",
     "string": "sunday 09:30"
   },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 10610,
+  "popularity": 13826,
+  "num_scoring_users": 164,
+  "nsfw": "white",
+  "created_at": "2026-01-22T01:29:33+00:00",
+  "updated_at": "2026-02-27T11:19:21+00:00",
+  "source": "game",
+  "rating": "pg",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 23135,
+        "title": "PriPara",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/2/75258.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/2/75258l.webp"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 57946,
+        "title": "Himitsu no AiPri",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1913/145169.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1913/145169l.jpg"
+        }
+      },
+      "relation_type": "alternative_setting",
+      "relation_type_formatted": "Alternative setting"
+    }
+  ],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": "468",
+      "completed": 0,
+      "on_hold": "59",
+      "dropped": "221",
+      "plan_to_watch": "812"
+    },
+    "num_list_users": 1560
+  },
+  "mal_details_updated_at": "2026-11-10T01:34:42.386Z"
 }

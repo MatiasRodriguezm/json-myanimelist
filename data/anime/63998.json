@@ -63,7 +63,11 @@
       "name": "Yanchester"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1352/156963l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1111/160120l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1290/160849l.jpg"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": "320589",
@@ -96,30 +100,40 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1111/160120l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1111/160120l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1111/160120l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1111/160120l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1111/160120l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1111/160120l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1111/160120l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1111/160120l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1111/160120l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1111/160120l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1352/156963l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1352/156963l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1352/156963l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1352/156963l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1352/156963l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1352/156963l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1352/156963l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1352/156963l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1352/156963l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1352/156963l.jpg"
     }
   },
   "broadcast": null,
   "rank": null,
-  "popularity": null,
+  "popularity": 11560,
   "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
+  "nsfw": "white",
+  "created_at": "2026-04-22T01:52:15+00:00",
+  "updated_at": "2026-09-18T18:50:18+00:00",
+  "source": "light_novel",
   "rating": null,
   "background": null,
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": 0,
+      "completed": 0,
+      "on_hold": 0,
+      "dropped": 0,
+      "plan_to_watch": "3013"
+    },
+    "num_list_users": 3013
+  },
+  "mal_details_updated_at": "2026-11-10T01:36:05.023Z"
 }

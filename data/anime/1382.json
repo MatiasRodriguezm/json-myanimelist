@@ -64,7 +64,18 @@
       "name": "Sunrise"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/12/14006l.jpg",
+    "https://cdn.myanimelist.net/images/anime/10/16703l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1948/95432l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1614/95548l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1566/131972l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1516/132006l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1187/132740l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1960/132741l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1255/132742l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1614/155263l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/bmv8e9LQiNhl2KccYoa42RZm3WY.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/oeKkJdstVPGImPeeaBfAv9FbfeR.png",
   "tmdb_id": "45116",
@@ -167,30 +178,99 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1187/132740l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1187/132740l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1187/132740l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1187/132740l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1187/132740l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1187/132740l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1187/132740l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1187/132740l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1187/132740l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1187/132740l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/12/14006l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/12/14006l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/14006l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/12/14006l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/14006l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/12/14006l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/12/14006l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/12/14006l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/14006l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/12/14006l.jpg"
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 526,
+  "popularity": 6672,
+  "num_scoring_users": 5158,
+  "nsfw": "white",
+  "created_at": "2006-08-19T00:03:24+00:00",
+  "updated_at": "2023-09-02T22:31:51+00:00",
+  "source": "original",
+  "rating": "pg_13",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 890,
+        "title": "Yuusha-Ou GaoGaiGar",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/12/21183.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/12/21183l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    },
+    {
+      "node": {
+        "id": 4416,
+        "title": "Yuusha-Ou GaoGaiGar Final Grand Glorious Gathering",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/2/50385.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/2/50385l.jpg"
+        }
+      },
+      "relation_type": "alternative_version",
+      "relation_type_formatted": "Alternative version"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 2001,
+        "title": "Tengen Toppa Gurren Lagann",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/4/5123.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/4/5123l.webp"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 2734,
+        "title": "Mazinkaiser: Shitou! Ankoku Dai Shougun",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/5/51795.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/5/51795l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 8666,
+        "title": "Mazinkaiser SKL",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/13/75427.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/13/75427l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "727",
+      "completed": "7308",
+      "on_hold": "246",
+      "dropped": "345",
+      "plan_to_watch": "4509"
+    },
+    "num_list_users": 13135
+  },
+  "mal_details_updated_at": "2026-11-10T01:27:08.510Z"
 }

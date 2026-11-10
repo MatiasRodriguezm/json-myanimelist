@@ -74,7 +74,16 @@
       "name": "asread."
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/13/33465l.jpg",
+    "https://cdn.myanimelist.net/images/anime/2/33703l.jpg",
+    "https://cdn.myanimelist.net/images/anime/13/34635l.jpg",
+    "https://cdn.myanimelist.net/images/anime/9/35551l.jpg",
+    "https://cdn.myanimelist.net/images/anime/4/36967l.jpg",
+    "https://cdn.myanimelist.net/images/anime/2/80335l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1225/103245l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1059/128279l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/86JFnMyoj6Mk8P66QoT4NLkiMO7.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/As280mX4NzoS6foY4m7BgHhMK3J.png",
   "tmdb_id": "46671",
@@ -408,17 +417,175 @@
     "timezone": "Asia/Tokyo",
     "string": "sunday 23:00"
   },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
+  "rank": 2835,
+  "popularity": 39,
+  "num_scoring_users": 1289807,
+  "nsfw": "white",
+  "created_at": "2011-04-21T19:55:29+00:00",
+  "updated_at": "2026-04-15T03:51:14+00:00",
+  "source": "manga",
+  "rating": "r+",
+  "background": "Mirai Nikki also spawned a live-action television show with a different plot from the manga and anime, as well as a visual novel.",
+  "related_anime": [
+    {
+      "node": {
+        "id": 8460,
+        "title": "Mirai Nikki",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/22971.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/10/22971l.webp"
+        }
+      },
+      "relation_type": "alternative_version",
+      "relation_type_formatted": "Alternative version"
+    },
+    {
+      "node": {
+        "id": 12503,
+        "title": "Mirai Nikki (TV): Ura Mirai Nikki",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/2/38423.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/2/38423l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 16762,
+        "title": "Mirai Nikki: Redial",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1715/103523.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1715/103523l.webp"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 6880,
+        "title": "Deadman Wonderland",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/9/75299.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/9/75299l.webp"
+        }
+      },
+      "num_recommendations": 102
+    },
+    {
+      "node": {
+        "id": 5630,
+        "title": "Higashi no Eden",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/9/15033.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/9/15033l.webp"
+        }
+      },
+      "num_recommendations": 74
+    },
+    {
+      "node": {
+        "id": 14345,
+        "title": "Btooom!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/4/40977.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/4/40977l.jpg"
+        }
+      },
+      "num_recommendations": 73
+    },
+    {
+      "node": {
+        "id": 1535,
+        "title": "Death Note",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1079/138100.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1079/138100l.jpg"
+        }
+      },
+      "num_recommendations": 71
+    },
+    {
+      "node": {
+        "id": 226,
+        "title": "Elfen Lied",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1780/121555.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1780/121555l.webp"
+        }
+      },
+      "num_recommendations": 49
+    },
+    {
+      "node": {
+        "id": 16592,
+        "title": "Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/4/51463.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/4/51463l.webp"
+        }
+      },
+      "num_recommendations": 44
+    },
+    {
+      "node": {
+        "id": 38656,
+        "title": "Darwin's Game",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1016/107222.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1016/107222l.jpg"
+        }
+      },
+      "num_recommendations": 37
+    },
+    {
+      "node": {
+        "id": 11111,
+        "title": "Another",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/4/75509.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/4/75509l.jpg"
+        }
+      },
+      "num_recommendations": 32
+    },
+    {
+      "node": {
+        "id": 934,
+        "title": "Higurashi no Naku Koro ni",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/12/19634.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/12/19634l.jpg"
+        }
+      },
+      "num_recommendations": 31
+    },
+    {
+      "node": {
+        "id": 9253,
+        "title": "Steins;Gate",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1935/127974.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1935/127974l.webp"
+        }
+      },
+      "num_recommendations": 27
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "96642",
+      "completed": "1596440",
+      "on_hold": "53482",
+      "dropped": "83581",
+      "plan_to_watch": "334490"
+    },
+    "num_list_users": 2164635
+  },
+  "mal_details_updated_at": "2026-11-10T01:26:55.495Z"
 }

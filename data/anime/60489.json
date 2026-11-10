@@ -59,7 +59,10 @@
       "name": "Enishiya"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1444/146894l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1182/149879l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/6omimfVty4JD3LXzI5LHEGhXjwn.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/kpTUGoRI2PotlIYO6FZtuH4YWXh.png",
   "tmdb_id": "284445",
@@ -142,30 +145,164 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1182/149879l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1182/149879l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1182/149879l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1182/149879l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1182/149879l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1182/149879l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1182/149879l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1182/149879l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1182/149879l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1182/149879l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1444/146894l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1444/146894l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1444/146894l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1444/146894l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1444/146894l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1444/146894l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1444/146894l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1444/146894l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1444/146894l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1444/146894l.jpg"
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 54,
+  "popularity": 776,
+  "num_scoring_users": 204298,
+  "nsfw": "white",
+  "created_at": "2024-12-09T15:15:32+00:00",
+  "updated_at": "2026-07-31T13:22:57+00:00",
+  "source": "manga",
+  "rating": "r",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 64266,
+        "title": "Takopii no Genzai Movie: Arigatou, Mata Ashita",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1691/160653.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1691/160653l.jpg"
+        }
+      },
+      "relation_type": "summary",
+      "relation_type_formatted": "Summary"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 58883,
+        "title": "Dead Dead Demons Dededede Destruction (ONA)",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1528/143212.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1528/143212l.jpg"
+        }
+      },
+      "num_recommendations": 6
+    },
+    {
+      "node": {
+        "id": 31043,
+        "title": "Boku dake ga Inai Machi",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/77957.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/77957l.jpg"
+        }
+      },
+      "num_recommendations": 5
+    },
+    {
+      "node": {
+        "id": 43299,
+        "title": "Wonder Egg Priority",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1079/110751.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1079/110751l.jpg"
+        }
+      },
+      "num_recommendations": 5
+    },
+    {
+      "node": {
+        "id": 9756,
+        "title": "Mahou Shoujo Madoka☆Magica",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/11/55225.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/11/55225l.jpg"
+        }
+      },
+      "num_recommendations": 5
+    },
+    {
+      "node": {
+        "id": 934,
+        "title": "Higurashi no Naku Koro ni",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/12/19634.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/12/19634l.jpg"
+        }
+      },
+      "num_recommendations": 4
+    },
+    {
+      "node": {
+        "id": 34599,
+        "title": "Made in Abyss",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/6/86733.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/6/86733l.jpg"
+        }
+      },
+      "num_recommendations": 4
+    },
+    {
+      "node": {
+        "id": 838,
+        "title": "Narutaru: Mukuro Naru Hoshi Tama Taru Ko",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/12023.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/12023l.jpg"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 37517,
+        "title": "Happy Sugar Life",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1386/103920.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1386/103920l.jpg"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 30,
+        "title": "Shinseiki Evangelion",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1314/108941.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1314/108941l.jpg"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 9253,
+        "title": "Steins;Gate",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1935/127974.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1935/127974l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "34161",
+      "completed": "234001",
+      "on_hold": "5083",
+      "dropped": "3319",
+      "plan_to_watch": "87946"
+    },
+    "num_list_users": 364510
+  },
+  "mal_details_updated_at": "2026-11-10T01:32:28.310Z"
 }

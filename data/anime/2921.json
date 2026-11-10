@@ -57,7 +57,21 @@
       "name": "Tokyo Movie Shinsha"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/13/21340l.jpg",
+    "https://cdn.myanimelist.net/images/anime/3/45028l.jpg",
+    "https://cdn.myanimelist.net/images/anime/4/51807l.jpg",
+    "https://cdn.myanimelist.net/images/anime/7/52187l.jpg",
+    "https://cdn.myanimelist.net/images/anime/11/52189l.jpg",
+    "https://cdn.myanimelist.net/images/anime/13/52191l.jpg",
+    "https://cdn.myanimelist.net/images/anime/2/52193l.jpg",
+    "https://cdn.myanimelist.net/images/anime/3/52195l.jpg",
+    "https://cdn.myanimelist.net/images/anime/9/52197l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1358/92766l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1566/96747l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1685/96867l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1746/135424l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/tFwx94xIVKI5heRXdcmYLoI0GhU.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/iRrnxsatHRAjyntZUFRtgcIEgXh.png",
   "tmdb_id": "25117",
@@ -550,30 +564,143 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/3/45028l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/3/45028l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/3/45028l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/3/45028l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/45028l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/3/45028l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/3/45028l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/3/45028l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/45028l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/3/45028l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/13/21340l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/13/21340l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/13/21340l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/13/21340l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/13/21340l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/13/21340l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/13/21340l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/13/21340l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/13/21340l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/13/21340l.jpg"
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 37,
+  "popularity": 3038,
+  "num_scoring_users": 27710,
+  "nsfw": "white",
+  "created_at": "2007-08-05T11:33:15+00:00",
+  "updated_at": "2023-01-06T15:14:22+00:00",
+  "source": "manga",
+  "rating": "pg_13",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 2402,
+        "title": "Ashita no Joe",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/5/64671.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/5/64671l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    },
+    {
+      "node": {
+        "id": 2922,
+        "title": "Ashita no Joe 2 (Movie)",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/5/53557.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/5/53557l.jpg"
+        }
+      },
+      "relation_type": "alternative_version",
+      "relation_type_formatted": "Alternative version"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 263,
+        "title": "Hajime no Ippo",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/4/86334.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/4/86334l.jpg"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 1,
+        "title": "Cowboy Bebop",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/4/19644.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/4/19644l.jpg"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 22135,
+        "title": "Ping Pong the Animation",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1586/146565.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1586/146565l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 40729,
+        "title": "Nomad: Megalo Box 2",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1190/113352.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1190/113352l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 49387,
+        "title": "Vinland Saga Season 2",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1170/124312.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1170/124312l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 26,
+        "title": "Texhnolyze",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1027/131977.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1027/131977l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 2050,
+        "title": "Honoo no Tenkousei",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/79406.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/79406l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "5653",
+      "completed": "33287",
+      "on_hold": "1401",
+      "dropped": "1495",
+      "plan_to_watch": "29556"
+    },
+    "num_list_users": 71392
+  },
+  "mal_details_updated_at": "2026-11-10T01:28:22.823Z"
 }

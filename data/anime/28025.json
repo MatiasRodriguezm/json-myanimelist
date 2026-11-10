@@ -32,8 +32,8 @@
   "num_episodes": 4,
   "score": 8.08,
   "mean": 8.08,
-  "numListUsers": 450181,
-  "num_list_users": 450181,
+  "numListUsers": 450190,
+  "num_list_users": 450190,
   "genres": [
     {
       "id": 4,
@@ -62,7 +62,12 @@
       "name": "Shaft"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/6/68259l.jpg",
+    "https://cdn.myanimelist.net/images/anime/9/81103l.jpg",
+    "https://cdn.myanimelist.net/images/anime/8/81104l.jpg",
+    "https://cdn.myanimelist.net/images/anime/3/84002l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/cHII6sQ91q8H5EMONKCwCQMauCP.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/1PloWpJba8A3I0x8Ry92IGYromk.png",
   "tmdb_id": "46195",
@@ -123,15 +128,15 @@
   "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/6/68259.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/6/68259l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/6/68259.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/6/68259l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/6/68259.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/6/68259l.webp",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/6/68259.webp",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/6/68259l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/6/68259.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/6/68259l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/6/68259.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/6/68259l.webp"
   },
   "trailer": {
     "images": {
@@ -148,17 +153,76 @@
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
+  "rank": 650,
+  "popularity": 608,
+  "num_scoring_users": 255486,
+  "nsfw": "white",
+  "created_at": "2014-10-20T07:14:05+00:00",
+  "updated_at": "2024-09-05T01:03:24+00:00",
+  "source": "light_novel",
+  "rating": "r",
+  "background": "Tsukimonogatari adapts the first volume of NisiOisiN's Monogatari Series: Final Season.",
+  "related_anime": [
+    {
+      "node": {
+        "id": 21855,
+        "title": "Hanamonogatari",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/13/65755.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/13/65755l.webp"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    },
+    {
+      "node": {
+        "id": 31181,
+        "title": "Owarimonogatari",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/8/76479.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/8/76479l.webp"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    },
+    {
+      "node": {
+        "id": 32191,
+        "title": "Okitegami Kyouko no Bibouroku x Monogatari",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1591/123540.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1591/123540l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 22535,
+        "title": "Kiseijuu: Sei no Kakuritsu",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/3/73178.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/3/73178l.webp"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "10593",
+      "completed": "331282",
+      "on_hold": "4026",
+      "dropped": "1908",
+      "plan_to_watch": "102292"
+    },
+    "num_list_users": 450101
+  },
+  "mal_details_updated_at": "2026-11-10T01:27:52.259Z"
 }

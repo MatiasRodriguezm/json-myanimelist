@@ -38,7 +38,9 @@
     }
   ],
   "studios": [],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1052/160537l.jpg"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
@@ -74,16 +76,26 @@
   },
   "broadcast": null,
   "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
+  "popularity": 28652,
+  "num_scoring_users": 58,
+  "nsfw": "white",
+  "created_at": "2026-10-14T11:08:16+00:00",
+  "updated_at": "2026-10-15T13:13:38+00:00",
+  "source": "novel",
+  "rating": "pg_13",
+  "background": "The song was used as the theme song of the drama Blossom.",
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": "4",
+      "completed": "78",
+      "on_hold": "3",
+      "dropped": "6",
+      "plan_to_watch": "13"
+    },
+    "num_list_users": 104
+  },
+  "mal_details_updated_at": "2026-11-10T01:37:25.546Z"
 }

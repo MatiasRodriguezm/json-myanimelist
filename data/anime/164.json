@@ -57,7 +57,15 @@
       "name": "Studio Ghibli"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1/164l.jpg",
+    "https://cdn.myanimelist.net/images/anime/7/19538l.jpg",
+    "https://cdn.myanimelist.net/images/anime/10/19539l.jpg",
+    "https://cdn.myanimelist.net/images/anime/9/26570l.jpg",
+    "https://cdn.myanimelist.net/images/anime/6/75813l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1643/119089l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1355/147277l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/gl0jzn4BupSbL2qMVeqrjKkF9Js.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/zmLS3kmBxLlVS1yxRY4x9WiLMrw.png",
   "tmdb_id": "128",
@@ -109,42 +117,163 @@
   ],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1355/147277.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1355/147277l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1355/147277.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1355/147277l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1355/147277.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1355/147277l.webp",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1355/147277.webp",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1355/147277l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1355/147277.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1355/147277l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1355/147277.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1355/147277l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1355/147277l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1355/147277l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1355/147277l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1355/147277l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1355/147277l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1355/147277l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1355/147277l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1355/147277l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1355/147277l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1355/147277l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1/164l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1/164l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1/164l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1/164l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1/164l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1/164l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1/164l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1/164l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1/164l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1/164l.jpg"
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
+  "rank": 82,
+  "popularity": 110,
+  "num_scoring_users": 903089,
+  "nsfw": "white",
+  "created_at": "2005-11-12T05:38:23+00:00",
+  "updated_at": "2025-04-01T20:00:44+00:00",
+  "source": "original",
+  "rating": "pg_13",
+  "background": "In 1997, the film won Best Japanese Movie, Best Animation, and Japanese Movie Fans' Choice awards during the 52nd Mainichi Film Awards. In 1998, the film won the Best Picture award during the 21st Japan Academy Awards.",
   "related_anime": [],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 572,
+        "title": "Kaze no Tani no Nausicaä",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/75914.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/75914l.jpg"
+        }
+      },
+      "num_recommendations": 25
+    },
+    {
+      "node": {
+        "id": 457,
+        "title": "Mushishi",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/2/73862.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/2/73862l.jpg"
+        }
+      },
+      "num_recommendations": 16
+    },
+    {
+      "node": {
+        "id": 1140,
+        "title": "Giniro no Kami no Agito",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/9/83824.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/9/83824l.jpg"
+        }
+      },
+      "num_recommendations": 7
+    },
+    {
+      "node": {
+        "id": 199,
+        "title": "Sen to Chihiro no Kamikakushi",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/6/79597.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/6/79597l.webp"
+        }
+      },
+      "num_recommendations": 6
+    },
+    {
+      "node": {
+        "id": 431,
+        "title": "Howl no Ugoku Shiro",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1470/138723.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1470/138723l.jpg"
+        }
+      },
+      "num_recommendations": 5
+    },
+    {
+      "node": {
+        "id": 34599,
+        "title": "Made in Abyss",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/6/86733.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/6/86733l.jpg"
+        }
+      },
+      "num_recommendations": 5
+    },
+    {
+      "node": {
+        "id": 1827,
+        "title": "Seirei no Moribito",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/4/50337.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/4/50337l.webp"
+        }
+      },
+      "num_recommendations": 5
+    },
+    {
+      "node": {
+        "id": 1119,
+        "title": "Pokemon Movie 04: Celebi Toki wo Koeta Deai",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1906/94415.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1906/94415l.jpg"
+        }
+      },
+      "num_recommendations": 5
+    },
+    {
+      "node": {
+        "id": 9760,
+        "title": "Hoshi wo Ou Kodomo",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1000/133740.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1000/133740l.jpg"
+        }
+      },
+      "num_recommendations": 5
+    },
+    {
+      "node": {
+        "id": 38015,
+        "title": "Shika no Ou: Yuna to Yakusoku no Tabi",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1263/119932.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1263/119932l.webp"
+        }
+      },
+      "num_recommendations": 5
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "23564",
+      "completed": "1181961",
+      "on_hold": "5743",
+      "dropped": "2358",
+      "plan_to_watch": "192426"
+    },
+    "num_list_users": 1406052
+  },
+  "mal_details_updated_at": "2026-11-10T01:27:16.099Z"
 }

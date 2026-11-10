@@ -31,8 +31,8 @@
   "num_episodes": 10,
   "score": 8.08,
   "mean": 8.08,
-  "numListUsers": 2192258,
-  "num_list_users": 2192258,
+  "numListUsers": 2192300,
+  "num_list_users": 2192300,
   "genres": [
     {
       "id": 2,
@@ -61,7 +61,17 @@
       "name": "Studio Deen"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/3/76876l.jpg",
+    "https://cdn.myanimelist.net/images/anime/8/77831l.jpg",
+    "https://cdn.myanimelist.net/images/anime/10/81308l.jpg",
+    "https://cdn.myanimelist.net/images/anime/7/81309l.jpg",
+    "https://cdn.myanimelist.net/images/anime/3/81310l.jpg",
+    "https://cdn.myanimelist.net/images/anime/10/81311l.jpg",
+    "https://cdn.myanimelist.net/images/anime/8/81312l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1053/142747l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1895/142748l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/rvZJxD36tKoglL8fXoMMWKGQfM.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/9ao3YjNJuezcnxv9Bmr0NQk9FSf.png",
   "tmdb_id": "65844",
@@ -195,16 +205,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1895/142748l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1895/142748l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1895/142748l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1895/142748l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1895/142748l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1895/142748l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1895/142748l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1895/142748l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1895/142748l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1895/142748l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/3/76876l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/3/76876l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/76876l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/3/76876l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/76876l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/3/76876l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/3/76876l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/3/76876l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/76876l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/3/76876l.jpg"
     }
   },
   "broadcast": {
@@ -215,17 +225,223 @@
     "timezone": "Asia/Tokyo",
     "string": "thursday 01:05"
   },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
+  "rank": 642,
+  "popularity": 37,
+  "num_scoring_users": 1408546,
+  "nsfw": "white",
+  "created_at": "2015-05-25T09:13:07+00:00",
+  "updated_at": "2025-06-13T08:29:25+00:00",
+  "source": "light_novel",
+  "rating": "pg_13",
+  "background": "Kono Subarashii Sekai ni Shukufuku wo! adapts the first 2 volumes of Natsume Akatsuki's light novel series of the same name.",
+  "related_anime": [
+    {
+      "node": {
+        "id": 32380,
+        "title": "Kono Subarashii Sekai ni Shukufuku wo!: Kono Subarashii Choker ni Shukufuku wo!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1649/98516.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1649/98516l.webp"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 32937,
+        "title": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/2/83188.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/2/83188l.jpg"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    },
+    {
+      "node": {
+        "id": 38472,
+        "title": "Isekai Quartet",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1965/99667.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1965/99667l.jpg"
+        }
+      },
+      "relation_type": "character",
+      "relation_type_formatted": "Character"
+    },
+    {
+      "node": {
+        "id": 39988,
+        "title": "Isekai Quartet 2",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1030/103383.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1030/103383l.jpg"
+        }
+      },
+      "relation_type": "character",
+      "relation_type_formatted": "Character"
+    },
+    {
+      "node": {
+        "id": 41567,
+        "title": "Isekai Quartet Movie: Another World",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1222/122000.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1222/122000l.jpg"
+        }
+      },
+      "relation_type": "character",
+      "relation_type_formatted": "Character"
+    },
+    {
+      "node": {
+        "id": 51958,
+        "title": "Kono Subarashii Sekai ni Bakuen wo!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1626/135844.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1626/135844l.jpg"
+        }
+      },
+      "relation_type": "spin_off",
+      "relation_type_formatted": "Spin-off"
+    },
+    {
+      "node": {
+        "id": 61851,
+        "title": "Isekai Quartet 3",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1044/152103.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1044/152103l.webp"
+        }
+      },
+      "relation_type": "character",
+      "relation_type_formatted": "Character"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 31240,
+        "title": "Re:Zero kara Hajimeru Isekai Seikatsu",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1522/128039.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1522/128039l.jpg"
+        }
+      },
+      "num_recommendations": 53
+    },
+    {
+      "node": {
+        "id": 28121,
+        "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1172/148981.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1172/148981l.jpg"
+        }
+      },
+      "num_recommendations": 35
+    },
+    {
+      "node": {
+        "id": 38659,
+        "title": "Shinchou Yuusha: Kono Yuusha ga Ore Tueee Kuse ni Shinchou Sugiru",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1715/103419.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1715/103419l.jpg"
+        }
+      },
+      "num_recommendations": 29
+    },
+    {
+      "node": {
+        "id": 41456,
+        "title": "Sentouin, Haken shimasu!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1444/115118.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1444/115118l.webp"
+        }
+      },
+      "num_recommendations": 27
+    },
+    {
+      "node": {
+        "id": 19815,
+        "title": "No Game No Life",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1074/111944.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1074/111944l.jpg"
+        }
+      },
+      "num_recommendations": 23
+    },
+    {
+      "node": {
+        "id": 39292,
+        "title": "Princess Connect! Re:Dive",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1810/106070.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1810/106070l.jpg"
+        }
+      },
+      "num_recommendations": 23
+    },
+    {
+      "node": {
+        "id": 35203,
+        "title": "Isekai wa Smartphone to Tomo ni.",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/7/86794.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/7/86794l.jpg"
+        }
+      },
+      "num_recommendations": 19
+    },
+    {
+      "node": {
+        "id": 11757,
+        "title": "Sword Art Online",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/11/39717.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/11/39717l.jpg"
+        }
+      },
+      "num_recommendations": 15
+    },
+    {
+      "node": {
+        "id": 37105,
+        "title": "Grand Blue",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1302/94882.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1302/94882l.webp"
+        }
+      },
+      "num_recommendations": 14
+    },
+    {
+      "node": {
+        "id": 15809,
+        "title": "Hataraku Maou-sama!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/3/50177.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/3/50177l.jpg"
+        }
+      },
+      "num_recommendations": 11
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "98670",
+      "completed": "1779285",
+      "on_hold": "34854",
+      "dropped": "43676",
+      "plan_to_watch": "235258"
+    },
+    "num_list_users": 2191743
+  },
+  "mal_details_updated_at": "2026-11-10T01:28:29.091Z"
 }

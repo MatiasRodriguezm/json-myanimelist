@@ -8,7 +8,8 @@
     "start": "node index.js",
     "dev": "node --watch index.js",
     "sync": "node src/collector.js",
-    "sync:livechart": "node src/livechartScraper.js"
+    "sync:livechart": "node src/livechartScraper.js",
+    "enrich:details": "node src/enrichExisting.js"
   },
   "engines": {
     "node": ">=20"

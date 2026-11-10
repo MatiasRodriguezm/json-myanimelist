@@ -57,7 +57,11 @@
       "name": "ENGI"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1036/155036l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1429/156214l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1992/159780l.jpg"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
@@ -90,30 +94,53 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1992/159780l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1992/159780l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1992/159780l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1992/159780l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1992/159780l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1992/159780l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1992/159780l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1992/159780l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1992/159780l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1992/159780l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1036/155036l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1036/155036l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1036/155036l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1036/155036l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1036/155036l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1036/155036l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1036/155036l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1036/155036l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1036/155036l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1036/155036l.jpg"
     }
   },
   "broadcast": null,
   "rank": null,
-  "popularity": null,
+  "popularity": 6713,
   "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "nsfw": "white",
+  "created_at": "2026-01-17T05:57:56+00:00",
+  "updated_at": "2026-08-30T10:15:15+00:00",
+  "source": "manga",
+  "rating": "pg_13",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 61335,
+        "title": "Medalist 2nd Season",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1828/155038.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1828/155038l.webp"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    }
+  ],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": 0,
+      "completed": 0,
+      "on_hold": "2",
+      "dropped": 0,
+      "plan_to_watch": "12973"
+    },
+    "num_list_users": 12975
+  },
+  "mal_details_updated_at": "2026-11-10T01:34:40.857Z"
 }

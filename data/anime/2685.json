@@ -66,7 +66,14 @@
       "name": "Production I.G"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/10/8369l.jpg",
+    "https://cdn.myanimelist.net/images/anime/7/24883l.jpg",
+    "https://cdn.myanimelist.net/images/anime/5/24885l.jpg",
+    "https://cdn.myanimelist.net/images/anime/6/24887l.jpg",
+    "https://cdn.myanimelist.net/images/anime/4/49129l.jpg",
+    "https://cdn.myanimelist.net/images/anime/6/76630l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/6yEPWAfQQmkZTht21z9OYZP9f8E.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/hJJrDltSIDfZhQDF2GFKacGXPY.png",
   "tmdb_id": "37565",
@@ -119,30 +126,176 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/4/49129l.webp",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/4/49129l.webp",
-      "image_url": "https://cdn.myanimelist.net/images/anime/4/49129l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/4/49129l.webp",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/49129l.webp",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/4/49129l.webp",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/4/49129l.webp",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/4/49129l.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/49129l.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/4/49129l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/10/8369l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/10/8369l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/8369l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/10/8369l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/8369l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/10/8369l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/10/8369l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/10/8369l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/8369l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/10/8369l.jpg"
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
+  "rank": 384,
+  "popularity": 2429,
+  "num_scoring_users": 46933,
+  "nsfw": "white",
+  "created_at": "2007-06-19T16:19:49+00:00",
+  "updated_at": "2023-08-02T04:36:11+00:00",
+  "source": "manga",
+  "rating": "r",
+  "background": "Bundled with the limited editions of the 21st, 22nd, and 23rd volumes of the Tsubasa Chronicle manga.",
+  "related_anime": [
+    {
+      "node": {
+        "id": 969,
+        "title": "Tsubasa Chronicle 2nd Season",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/4/6554.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/4/6554l.webp"
+        }
+      },
+      "relation_type": "alternative_version",
+      "relation_type_formatted": "Alternative version"
+    },
+    {
+      "node": {
+        "id": 4938,
+        "title": "Tsubasa: Shunraiki",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/9/33841.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/9/33841l.jpg"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 156,
+        "title": "X",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/8/17167.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/8/17167l.webp"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 3701,
+        "title": "Kaiba",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1959/147908.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1959/147908l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 4081,
+        "title": "Natsume Yuujinchou",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1681/108439.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1681/108439l.webp"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 584,
+        "title": "Noein: Mou Hitori no Kimi e",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1087/152978.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1087/152978l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 2971,
+        "title": "Kyou kara Maou! R",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/7/22619.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/7/22619l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 232,
+        "title": "Cardcaptor Sakura",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/8/60781.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/8/60781l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 3091,
+        "title": "xxxHOLiC◆Kei",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/9/8626.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/9/8626l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 572,
+        "title": "Kaze no Tani no Nausicaä",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/75914.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/75914l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 14075,
+        "title": "Zetsuen no Tempest",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/7/42453.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/7/42453l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 1575,
+        "title": "Code Geass: Hangyaku no Lelouch",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1032/135088.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1032/135088l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "3114",
+      "completed": "66458",
+      "on_hold": "1691",
+      "dropped": "1218",
+      "plan_to_watch": "30078"
+    },
+    "num_list_users": 102559
+  },
+  "mal_details_updated_at": "2026-11-10T01:27:49.937Z"
 }

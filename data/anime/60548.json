@@ -51,7 +51,12 @@
       "name": "P.A. Works"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1963/147011l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1800/148268l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1561/150704l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1580/154606l.jpg"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
@@ -72,42 +77,65 @@
   "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1800/148268.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1800/148268l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1800/148268.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1800/148268l.webp"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1800/148268.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1800/148268l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1800/148268.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1800/148268l.jpg"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1800/148268.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1800/148268l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1800/148268.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1800/148268l.jpg"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1800/148268l.webp",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1800/148268l.webp",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1800/148268l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1800/148268l.webp",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1800/148268l.webp",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1800/148268l.webp",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1800/148268l.webp",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1800/148268l.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1800/148268l.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1800/148268l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1963/147011l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1963/147011l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1963/147011l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1963/147011l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1963/147011l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1963/147011l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1963/147011l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1963/147011l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1963/147011l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1963/147011l.jpg"
     }
   },
   "broadcast": null,
   "rank": null,
-  "popularity": null,
+  "popularity": 3909,
   "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "nsfw": "white",
+  "created_at": "2024-12-20T03:10:41+00:00",
+  "updated_at": "2026-08-16T07:03:51+00:00",
+  "source": "manga",
+  "rating": "pg_13",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 50416,
+        "title": "Skip to Loafer",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1518/138730.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1518/138730l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    }
+  ],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": "1",
+      "completed": 0,
+      "on_hold": "2",
+      "dropped": 0,
+      "plan_to_watch": "45907"
+    },
+    "num_list_users": 45910
+  },
+  "mal_details_updated_at": "2026-11-10T01:32:30.584Z"
 }

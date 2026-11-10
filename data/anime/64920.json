@@ -56,7 +56,10 @@
     }
   ],
   "studios": [],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1898/159906l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1034/160099l.jpg"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
@@ -89,30 +92,53 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1034/160099l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1034/160099l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1034/160099l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1034/160099l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1034/160099l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1034/160099l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1034/160099l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1034/160099l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1034/160099l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1034/160099l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1898/159906l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1898/159906l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1898/159906l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1898/159906l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1898/159906l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1898/159906l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1898/159906l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1898/159906l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1898/159906l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1898/159906l.jpg"
     }
   },
   "broadcast": null,
   "rank": null,
-  "popularity": null,
+  "popularity": 21010,
   "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "nsfw": "white",
+  "created_at": "2026-09-07T04:51:24+00:00",
+  "updated_at": "2026-09-07T04:55:29+00:00",
+  "source": "manga",
+  "rating": "pg",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 8687,
+        "title": "Doraemon (2005)",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/6/23935.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/6/23935l.jpg"
+        }
+      },
+      "relation_type": "parent_story",
+      "relation_type_formatted": "Parent story"
+    }
+  ],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": 0,
+      "completed": 0,
+      "on_hold": 0,
+      "dropped": 0,
+      "plan_to_watch": "361"
+    },
+    "num_list_users": 361
+  },
+  "mal_details_updated_at": "2026-11-10T01:36:35.587Z"
 }

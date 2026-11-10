@@ -31,8 +31,8 @@
   "num_episodes": null,
   "score": 7.67,
   "mean": 7.67,
-  "numListUsers": 9408,
-  "num_list_users": 9408,
+  "numListUsers": 9409,
+  "num_list_users": 9409,
   "genres": [
     {
       "id": 1,
@@ -61,7 +61,9 @@
       "name": "Toei Animation"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1706/154944l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/bOgsRcvQcetWXtVnPgKtYYf9aSV.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/j0QGp7ZpB1Fpwrz24JVtJ8H73Tc.png",
   "tmdb_id": "306721",
@@ -544,17 +546,373 @@
     "timezone": "Asia/Tokyo",
     "string": "sunday 08:30"
   },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 1566,
+  "popularity": 7662,
+  "num_scoring_users": 1646,
+  "nsfw": "white",
+  "created_at": "2025-12-01T08:20:00+00:00",
+  "updated_at": "2026-10-01T01:31:52+00:00",
+  "source": "original",
+  "rating": "g",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 603,
+        "title": "Futari wa Precure",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1512/142456.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1512/142456l.jpg"
+        }
+      },
+      "relation_type": "alternative_setting",
+      "relation_type_formatted": "Alternative setting"
+    },
+    {
+      "node": {
+        "id": 1534,
+        "title": "Futari wa Precure: Splash☆Star",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/3/7534.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/3/7534l.jpg"
+        }
+      },
+      "relation_type": "alternative_setting",
+      "relation_type_formatted": "Alternative setting"
+    },
+    {
+      "node": {
+        "id": 1929,
+        "title": "Futari wa Precure: Max Heart",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/3/7536.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/3/7536l.jpg"
+        }
+      },
+      "relation_type": "alternative_setting",
+      "relation_type_formatted": "Alternative setting"
+    },
+    {
+      "node": {
+        "id": 1932,
+        "title": "Yes! Precure 5",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/4/7535.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/4/7535l.jpg"
+        }
+      },
+      "relation_type": "alternative_setting",
+      "relation_type_formatted": "Alternative setting"
+    },
+    {
+      "node": {
+        "id": 3692,
+        "title": "Yes! Precure 5 GoGo!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1149/90381.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1149/90381l.webp"
+        }
+      },
+      "relation_type": "alternative_setting",
+      "relation_type_formatted": "Alternative setting"
+    },
+    {
+      "node": {
+        "id": 5684,
+        "title": "Fresh Precure!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/9/21267.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/9/21267l.webp"
+        }
+      },
+      "relation_type": "alternative_setting",
+      "relation_type_formatted": "Alternative setting"
+    },
+    {
+      "node": {
+        "id": 7645,
+        "title": "Heartcatch Precure!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/2/25915.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/2/25915l.webp"
+        }
+      },
+      "relation_type": "alternative_setting",
+      "relation_type_formatted": "Alternative setting"
+    },
+    {
+      "node": {
+        "id": 9893,
+        "title": "Suite Precure♪",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/3/32129.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/3/32129l.webp"
+        }
+      },
+      "relation_type": "alternative_setting",
+      "relation_type_formatted": "Alternative setting"
+    },
+    {
+      "node": {
+        "id": 12191,
+        "title": "Smile Precure!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/12/76179.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/12/76179l.jpg"
+        }
+      },
+      "relation_type": "alternative_setting",
+      "relation_type_formatted": "Alternative setting"
+    },
+    {
+      "node": {
+        "id": 16419,
+        "title": "Dokidoki! Precure",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/13/46363.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/13/46363l.jpg"
+        }
+      },
+      "relation_type": "alternative_setting",
+      "relation_type_formatted": "Alternative setting"
+    },
+    {
+      "node": {
+        "id": 21407,
+        "title": "Happiness Charge Precure!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1973/94568.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1973/94568l.jpg"
+        }
+      },
+      "relation_type": "alternative_setting",
+      "relation_type_formatted": "Alternative setting"
+    },
+    {
+      "node": {
+        "id": 28669,
+        "title": "Go! Princess Precure",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/88625.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/10/88625l.webp"
+        }
+      },
+      "relation_type": "alternative_setting",
+      "relation_type_formatted": "Alternative setting"
+    },
+    {
+      "node": {
+        "id": 31884,
+        "title": "Mahoutsukai Precure!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/2/78333.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/2/78333l.jpg"
+        }
+      },
+      "relation_type": "alternative_setting",
+      "relation_type_formatted": "Alternative setting"
+    },
+    {
+      "node": {
+        "id": 34290,
+        "title": "Kirakira☆Precure A La Mode",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/12/88612.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/12/88612l.jpg"
+        }
+      },
+      "relation_type": "alternative_setting",
+      "relation_type_formatted": "Alternative setting"
+    },
+    {
+      "node": {
+        "id": 36593,
+        "title": "Hug tto! Precure",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1220/92883.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1220/92883l.jpg"
+        }
+      },
+      "relation_type": "alternative_setting",
+      "relation_type_formatted": "Alternative setting"
+    },
+    {
+      "node": {
+        "id": 38578,
+        "title": "Star☆Twinkle Precure",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1585/97907.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1585/97907l.jpg"
+        }
+      },
+      "relation_type": "alternative_setting",
+      "relation_type_formatted": "Alternative setting"
+    },
+    {
+      "node": {
+        "id": 40610,
+        "title": "Healin' Good♡Precure",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1401/105084.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1401/105084l.jpg"
+        }
+      },
+      "relation_type": "alternative_setting",
+      "relation_type_formatted": "Alternative setting"
+    },
+    {
+      "node": {
+        "id": 44191,
+        "title": "Tropical-Rouge! Precure",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1184/110907.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1184/110907l.jpg"
+        }
+      },
+      "relation_type": "alternative_setting",
+      "relation_type_formatted": "Alternative setting"
+    },
+    {
+      "node": {
+        "id": 50281,
+        "title": "Delicious Party♡Precure",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1332/120430.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1332/120430l.jpg"
+        }
+      },
+      "relation_type": "alternative_setting",
+      "relation_type_formatted": "Alternative setting"
+    },
+    {
+      "node": {
+        "id": 53716,
+        "title": "Hirogaru Sky! Precure",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1762/135268.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1762/135268l.jpg"
+        }
+      },
+      "relation_type": "alternative_setting",
+      "relation_type_formatted": "Alternative setting"
+    },
+    {
+      "node": {
+        "id": 57390,
+        "title": "Wonderful Precure!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1852/140786.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1852/140786l.jpg"
+        }
+      },
+      "relation_type": "alternative_setting",
+      "relation_type_formatted": "Alternative setting"
+    },
+    {
+      "node": {
+        "id": 60407,
+        "title": "Kimi to Idol Precure♪",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1277/147358.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1277/147358l.jpg"
+        }
+      },
+      "relation_type": "alternative_setting",
+      "relation_type_formatted": "Alternative setting"
+    },
+    {
+      "node": {
+        "id": 63903,
+        "title": "Meitantei Precure! Movie: Fushigi na Niwa to 2-ri no Himitsu",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1808/158583.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1808/158583l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 64359,
+        "title": "Meitantei Conan: Hanamaru na Answer",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1677/158377.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1677/158377l.jpg"
+        }
+      },
+      "relation_type": "character",
+      "relation_type_formatted": "Character"
+    },
+    {
+      "node": {
+        "id": 65274,
+        "title": "Dual Shadow: Precure Villain Heroines",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1244/160729.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1244/160729l.jpg"
+        }
+      },
+      "relation_type": "alternative_setting",
+      "relation_type_formatted": "Alternative setting"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 7768,
+        "title": "Tantei Opera Milky Holmes",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/26676.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/26676l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 1567,
+        "title": "Kaitou Saint Tail",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/6/46607.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/6/46607l.webp"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 36593,
+        "title": "Hug tto! Precure",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1220/92883.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1220/92883l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 12191,
+        "title": "Smile Precure!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/12/76179.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/12/76179l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "5538",
+      "completed": "1",
+      "on_hold": "379",
+      "dropped": "465",
+      "plan_to_watch": "3009"
+    },
+    "num_list_users": 9392
+  },
+  "mal_details_updated_at": "2026-11-10T01:34:23.427Z"
 }

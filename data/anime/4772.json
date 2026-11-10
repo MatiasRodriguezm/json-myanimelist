@@ -55,7 +55,12 @@
       "name": "HAL Film Maker"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/8/9171l.jpg",
+    "https://cdn.myanimelist.net/images/anime/5/11078l.jpg",
+    "https://cdn.myanimelist.net/images/anime/4/14304l.jpg",
+    "https://cdn.myanimelist.net/images/anime/11/15053l.jpg"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
@@ -289,30 +294,53 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/11/15053l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/11/15053l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/11/15053l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/11/15053l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/15053l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/11/15053l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/11/15053l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/11/15053l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/15053l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/11/15053l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/8/9171l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/8/9171l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/8/9171l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/8/9171l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/8/9171l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/8/9171l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/8/9171l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/8/9171l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/9171l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/8/9171l.jpg"
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
+  "rank": 861,
+  "popularity": 5265,
+  "num_scoring_users": 10775,
+  "nsfw": "white",
+  "created_at": "2008-06-26T02:26:07+00:00",
+  "updated_at": "2024-06-30T23:56:30+00:00",
+  "source": "manga",
+  "rating": "g",
+  "background": "Aria the Origination: Sono Choppiri Himitsu no Basho ni... was included in the third DVD volume of Aria the Origination. While this episode was initially unaired, a digitally remastered version was shown on various broadcasting stations between July 1, 2016, and July 7, 2016, to celebrate the release of the Amanchu! anime, which shares the same original creator as the Aria series.\n\nThe special is based on chapter 39 of the manga.",
+  "related_anime": [
+    {
+      "node": {
+        "id": 3297,
+        "title": "Aria the Origination",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1431/132867.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1431/132867l.jpg"
+        }
+      },
+      "relation_type": "parent_story",
+      "relation_type_formatted": "Parent story"
+    }
+  ],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": "664",
+      "completed": "15466",
+      "on_hold": "358",
+      "dropped": "318",
+      "plan_to_watch": "7257"
+    },
+    "num_list_users": 24063
+  },
+  "mal_details_updated_at": "2026-11-10T01:30:28.845Z"
 }

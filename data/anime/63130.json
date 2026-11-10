@@ -55,7 +55,10 @@
       "name": "Bones Film"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1451/154475l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1273/156615l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/3ILMlmC30QUnYkY3XEBOyJ82Dqu.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/ztteKox6S97uwEuEF2lsaFxaJmg.png",
   "tmdb_id": "65930",
@@ -76,42 +79,77 @@
   "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1273/156615.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1273/156615l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1273/156615.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1273/156615l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1273/156615.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1273/156615l.webp",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1273/156615.webp",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1273/156615l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1273/156615.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1273/156615l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1273/156615.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1273/156615l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1273/156615l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1273/156615l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1273/156615l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1273/156615l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1273/156615l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1273/156615l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1273/156615l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1273/156615l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1273/156615l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1273/156615l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1451/154475l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1451/154475l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1451/154475l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1451/154475l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1451/154475l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1451/154475l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1451/154475l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1451/154475l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1451/154475l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1451/154475l.jpg"
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 631,
+  "popularity": 2823,
+  "num_scoring_users": 42446,
+  "nsfw": "white",
+  "created_at": "2025-12-20T03:07:57+00:00",
+  "updated_at": "2026-05-31T01:44:00+00:00",
+  "source": "manga",
+  "rating": "pg_13",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 60098,
+        "title": "Boku no Hero Academia: Final Season",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1959/151055.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1959/151055l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    },
+    {
+      "node": {
+        "id": 64107,
+        "title": "Boku no Hero Academia: I Am a Hero Too",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1397/159346.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1397/159346l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    }
+  ],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": "1732",
+      "completed": "58674",
+      "on_hold": "424",
+      "dropped": "165",
+      "plan_to_watch": "19326"
+    },
+    "num_list_users": 80321
+  },
+  "mal_details_updated_at": "2026-11-10T01:34:27.984Z"
 }

@@ -201,7 +201,8 @@ export class SimklClient {
 
         const cleanTitle = unescapeHtml(item.title) || (isSpecial ? `Especial ${epNum}` : `Episodio ${epNum}`);
         const cleanDesc = unescapeHtml(item.description) || null;
-        const dateStr = item.date || item.aired || null;
+        const dateStr = (typeof item.date === "string" && item.date.trim()) || 
+                        (typeof item.aired === "string" && item.aired.trim()) || null;
 
         // Construir URL completa de la miniatura en formato panorámico WebP
         let thumbUrl = null;

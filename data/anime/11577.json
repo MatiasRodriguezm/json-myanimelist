@@ -49,7 +49,15 @@
       "name": "White Fox"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/12/46591l.jpg",
+    "https://cdn.myanimelist.net/images/anime/4/46633l.jpg",
+    "https://cdn.myanimelist.net/images/anime/10/50319l.jpg",
+    "https://cdn.myanimelist.net/images/anime/11/56947l.jpg",
+    "https://cdn.myanimelist.net/images/anime/11/57281l.jpg",
+    "https://cdn.myanimelist.net/images/anime/12/57283l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1611/112806l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/nFKxirrjjSTbz2rryfJvvG5MLkV.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/6Y8CHT9IxcXsBuGBjfTVSWeM8nD.png",
   "tmdb_id": "225745",
@@ -82,30 +90,164 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1611/112806l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1611/112806l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1611/112806l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1611/112806l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1611/112806l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1611/112806l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1611/112806l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1611/112806l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1611/112806l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1611/112806l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/12/46591l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/12/46591l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/46591l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/12/46591l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/46591l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/12/46591l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/12/46591l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/12/46591l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/46591l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/12/46591l.jpg"
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
+  "rank": 198,
+  "popularity": 387,
+  "num_scoring_users": 389385,
+  "nsfw": "white",
+  "created_at": "2011-09-13T17:43:03+00:00",
+  "updated_at": "2023-01-18T16:38:10+00:00",
+  "source": "visual_novel",
+  "rating": "pg_13",
+  "background": "The series won the 2013 Newtype Anime Awards for Best Anime Film.",
+  "related_anime": [
+    {
+      "node": {
+        "id": 10863,
+        "title": "Steins;Gate: Oukoubakko no Poriomania",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1805/123188.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1805/123188l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 7311,
+        "title": "Suzumiya Haruhi no Shoushitsu",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1248/112352.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1248/112352l.jpg"
+        }
+      },
+      "num_recommendations": 17
+    },
+    {
+      "node": {
+        "id": 32281,
+        "title": "Kimi no Na wa.",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/5/87048.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/5/87048l.jpg"
+        }
+      },
+      "num_recommendations": 6
+    },
+    {
+      "node": {
+        "id": 1087,
+        "title": "Kimagure Orange☆Road",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1960/142715.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1960/142715l.jpg"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 38329,
+        "title": "Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1613/102179.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1613/102179l.jpg"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 4282,
+        "title": "Kara no Kyoukai Movie 5: Mujun Rasen",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1574/112838.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1574/112838l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 433,
+        "title": "Kumo no Mukou, Yakusoku no Basho",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1725/133738.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1725/133738l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 15335,
+        "title": "Gintama Movie 2: Kanketsu-hen - Yorozuya yo Eien Nare",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/51723.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/51723l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 49834,
+        "title": "Boku ga Aishita Subete no Kimi e",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1145/127594.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1145/127594l.webp"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 9253,
+        "title": "Steins;Gate",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1935/127974.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1935/127974l.webp"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 11981,
+        "title": "Mahou Shoujo Madoka☆Magica Movie 3: Hangyaku no Monogatari",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/5/54231.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/5/54231l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "11883",
+      "completed": "503140",
+      "on_hold": "3889",
+      "dropped": "1673",
+      "plan_to_watch": "133830"
+    },
+    "num_list_users": 654415
+  },
+  "mal_details_updated_at": "2026-11-10T01:27:00.178Z"
 }

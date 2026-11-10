@@ -59,7 +59,16 @@
       "name": "Studio Signpost"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1152/118865l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1595/121005l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1892/122522l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1915/122658l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1566/122794l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1406/123855l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1552/125124l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1748/134470l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/5CGM0vQpq0QBcslUXqoo0unlGPZ.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/njxcMoizy5vstTcBK9Sm4BnYaZB.png",
   "tmdb_id": "46437",
@@ -330,28 +339,28 @@
   "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1566/122794.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1566/122794l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1566/122794.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1566/122794l.webp"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1566/122794.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1566/122794l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1566/122794.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1566/122794l.jpg"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1566/122794.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1566/122794l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1566/122794.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1566/122794l.jpg"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1566/122794l.webp",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1566/122794l.webp",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1566/122794l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1566/122794l.webp",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1566/122794l.webp",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1566/122794l.webp",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1566/122794l.webp",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1566/122794l.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1566/122794l.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1566/122794l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1152/118865l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1152/118865l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1152/118865l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1152/118865l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1152/118865l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1152/118865l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1152/118865l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1152/118865l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1152/118865l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1152/118865l.jpg"
     }
   },
   "broadcast": {
@@ -362,17 +371,52 @@
     "timezone": "Asia/Tokyo",
     "string": "sunday 00:00"
   },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
+  "rank": 58,
+  "popularity": 2553,
+  "num_scoring_users": 43333,
+  "nsfw": "white",
+  "created_at": "2021-10-17T17:36:00+00:00",
+  "updated_at": "2026-01-19T13:09:59+00:00",
+  "source": "manga",
+  "rating": "r",
+  "background": "Kingdom 4th Season adapts chapters 364-441 of the original manga.\n\nKingdom 4th Season was released on Blu-ray in three volumes from August 26, 2022 to November 25, 2022.",
+  "related_anime": [
+    {
+      "node": {
+        "id": 40682,
+        "title": "Kingdom 3rd Season",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1443/111830.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1443/111830l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    },
+    {
+      "node": {
+        "id": 53223,
+        "title": "Kingdom 5th Season",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1050/139641.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1050/139641l.webp"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    }
+  ],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": "11178",
+      "completed": "52542",
+      "on_hold": "1438",
+      "dropped": "971",
+      "plan_to_watch": "28834"
+    },
+    "num_list_users": 94963
+  },
+  "mal_details_updated_at": "2026-11-10T01:30:37.386Z"
 }

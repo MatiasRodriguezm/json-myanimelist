@@ -57,7 +57,10 @@
       "name": "E&H Production"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1533/147025l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1726/160867l.jpg"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
@@ -90,30 +93,53 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1726/160867l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1726/160867l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1726/160867l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1726/160867l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1726/160867l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1726/160867l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1726/160867l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1726/160867l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1726/160867l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1726/160867l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1533/147025l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1533/147025l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1533/147025l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1533/147025l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1533/147025l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1533/147025l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1533/147025l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1533/147025l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1533/147025l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1533/147025l.jpg"
     }
   },
   "broadcast": null,
   "rank": null,
-  "popularity": null,
+  "popularity": 11798,
   "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "nsfw": "white",
+  "created_at": "2024-12-21T03:02:25+00:00",
+  "updated_at": "2026-11-04T10:11:00+00:00",
+  "source": "manga",
+  "rating": "pg_13",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 57325,
+        "title": "Ramen Akaneko",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1805/142211.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1805/142211l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    }
+  ],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": "1",
+      "completed": 0,
+      "on_hold": 0,
+      "dropped": 0,
+      "plan_to_watch": "2826"
+    },
+    "num_list_users": 2827
+  },
+  "mal_details_updated_at": "2026-11-10T01:32:31.362Z"
 }

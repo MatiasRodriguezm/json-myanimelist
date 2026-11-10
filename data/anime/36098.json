@@ -54,7 +54,12 @@
       "name": "Studio VOLN"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/11/90070l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1516/93290l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1768/93291l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1327/93483l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/YLyORLsYIjC0d1TFBSpJKk7piP.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/iOGhQzUidBzOj6pxKp7pBZkw2ta.png",
   "tmdb_id": "504253",
@@ -98,30 +103,151 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1768/93291l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1768/93291l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1768/93291l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1768/93291l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1768/93291l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1768/93291l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1768/93291l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1768/93291l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1768/93291l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1768/93291l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/11/90070l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/11/90070l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/90070l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/11/90070l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/90070l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/11/90070l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/11/90070l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/11/90070l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/90070l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/11/90070l.jpg"
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
+  "rank": 142,
+  "popularity": 158,
+  "num_scoring_users": 688685,
+  "nsfw": "white",
+  "created_at": "2017-08-07T00:59:17+00:00",
+  "updated_at": "2023-01-10T15:22:22+00:00",
+  "source": "novel",
+  "rating": "pg_13",
+  "background": "Kimi no Suizou wo Tabetai is an anime adaption of Yoru Sumino's novel of the same title. Originally a web novel published on the user-generated content site Shousetsuka ni Narou in 2014, it was subsequently re-published in 2015 by Futabasha. The English licensor, Seven Seas Entertainment released the novel in English on November 20, 2018.\n\nA Japanese live-action film based on the novel, which also shares the same title, premiered in Japan on July 28, 2017.\n\n(Source Wikipedia)",
   "related_anime": [],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 23273,
+        "title": "Shigatsu wa Kimi no Uso",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1405/143284.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1405/143284l.jpg"
+        }
+      },
+      "num_recommendations": 64
+    },
+    {
+      "node": {
+        "id": 28851,
+        "title": "Koe no Katachi",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1122/96435.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1122/96435l.jpg"
+        }
+      },
+      "num_recommendations": 22
+    },
+    {
+      "node": {
+        "id": 32281,
+        "title": "Kimi no Na wa.",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/5/87048.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/5/87048l.jpg"
+        }
+      },
+      "num_recommendations": 12
+    },
+    {
+      "node": {
+        "id": 27775,
+        "title": "Plastic Memories",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/4/72750.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/4/72750l.jpg"
+        }
+      },
+      "num_recommendations": 7
+    },
+    {
+      "node": {
+        "id": 40787,
+        "title": "Josee to Tora to Sakana-tachi",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1714/108892.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1714/108892l.jpg"
+        }
+      },
+      "num_recommendations": 5
+    },
+    {
+      "node": {
+        "id": 9989,
+        "title": "Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/5/79697.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/5/79697l.jpg"
+        }
+      },
+      "num_recommendations": 4
+    },
+    {
+      "node": {
+        "id": 587,
+        "title": "Hanbun no Tsuki ga Noboru Sora",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/75201.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/75201l.jpg"
+        }
+      },
+      "num_recommendations": 4
+    },
+    {
+      "node": {
+        "id": 1689,
+        "title": "Byousoku 5 Centimeter",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1410/112994.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1410/112994l.jpg"
+        }
+      },
+      "num_recommendations": 3
+    },
+    {
+      "node": {
+        "id": 12189,
+        "title": "Hyouka",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/13/50521.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/13/50521l.jpg"
+        }
+      },
+      "num_recommendations": 3
+    },
+    {
+      "node": {
+        "id": 4181,
+        "title": "Clannad: After Story",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1299/110774.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1299/110774l.jpg"
+        }
+      },
+      "num_recommendations": 3
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "28606",
+      "completed": "864618",
+      "on_hold": "6187",
+      "dropped": "2842",
+      "plan_to_watch": "249617"
+    },
+    "num_list_users": 1151870
+  },
+  "mal_details_updated_at": "2026-11-10T01:28:53.529Z"
 }

@@ -137,16 +137,82 @@ export class Collector {
       }
 
       let savedDetailsCount = 0;
+      let malEnrichedCount = 0;
+      let malReusedCount = 0;
       let simklEnrichedCount = 0;
       let simklReusedCount = 0;
       let tmdbEnrichedCount = 0;
       let tmdbReusedCount = 0;
       const enrichedMap = new Map();
 
+      let currentIndex = 0;
+      const totalCount = uniqueAnimeMap.size;
+
       for (const [id, summary] of uniqueAnimeMap) {
+        currentIndex++;
         let animeData = { ...summary };
         const existing = await Storage.loadAnimeDetails(id);
         const isFinished = (animeData.status || "").toLowerCase().includes("finish");
+
+        // 4.0. Enriquecimiento de Detalles completos de MyAnimeList (related_anime, recommendations, etc.)
+        const malAge = existing?.mal_details_updated_at
+          ? Date.now() - new Date(existing.mal_details_updated_at).getTime()
+          : Infinity;
+        // Finalizados: revalidar cada 30 días. En emisión o próximos: revalidar cada 5 días.
+        const maxMalAge = isFinished ? 30 * 24 * 60 * 60 * 1000 : 5 * 24 * 60 * 60 * 1000;
+        const canReuseMal = existing && existing.mal_details_updated_at && malAge < maxMalAge;
+
+        if (canReuseMal) {
+          animeData = {
+            ...animeData,
+            rank: existing.rank ?? animeData.rank,
+            popularity: existing.popularity ?? animeData.popularity,
+            num_scoring_users: existing.num_scoring_users ?? animeData.num_scoring_users,
+            nsfw: existing.nsfw ?? animeData.nsfw,
+            source: existing.source ?? animeData.source,
+            rating: existing.rating ?? animeData.rating,
+            background: existing.background ?? animeData.background,
+            related_anime: existing.related_anime || [],
+            related_manga: existing.related_manga || [],
+            recommendations: existing.recommendations || [],
+            statistics: existing.statistics ?? animeData.statistics,
+            mal_details_updated_at: existing.mal_details_updated_at,
+          };
+          malReusedCount++;
+        } else {
+          try {
+            const rawDetails = await this.mal.getAnimeDetails(id);
+            if (rawDetails && rawDetails.id) {
+              const fullDetails = toAnimeSummary(rawDetails);
+              animeData = {
+                ...fullDetails,
+                backdrop_url: existing?.backdrop_url || animeData.backdrop_url || null,
+                logo_url: existing?.logo_url || animeData.logo_url || null,
+                tmdb_id: existing?.tmdb_id || animeData.tmdb_id || null,
+                tmdb_updated_at: existing?.tmdb_updated_at || null,
+                simkl_id: existing?.simkl_id || animeData.simkl_id || null,
+                episodes_data: existing?.episodes_data || [],
+                specials_data: existing?.specials_data || [],
+                mal_details_updated_at: new Date().toISOString(),
+              };
+              malEnrichedCount++;
+            }
+          } catch (malErr) {
+            console.warn("[Collector] No se pudieron obtener detalles completos de MAL para anime " + id + " (" + summary.title + "):", malErr.message);
+            if (existing) {
+              animeData.related_anime = existing.related_anime || [];
+              animeData.related_manga = existing.related_manga || [];
+              animeData.recommendations = existing.recommendations || [];
+              animeData.background = existing.background || null;
+              animeData.source = existing.source || null;
+              animeData.mal_details_updated_at = existing.mal_details_updated_at || null;
+            }
+          }
+        }
+
+        if (currentIndex % 25 === 0 || currentIndex === totalCount) {
+          console.log("  [Collector] Detalle individual: " + currentIndex + "/" + totalCount + " procesados (MAL: " + malEnrichedCount + " nuevos, " + malReusedCount + " en caché)...");
+        }
 
         // 4.1. Enriquecimiento de Episodios Simkl
         if (existing && isFinished && Array.isArray(existing.episodes_data) && existing.episodes_data.length > 0) {
@@ -247,13 +313,26 @@ export class Collector {
       await Storage.saveDiscover(discoverData);
 
       console.log(`[Collector] ✓ Metadata: ${savedDetailsCount} animes guardados.`);
+      console.log(`[Collector]   -> MAL:   ${malEnrichedCount} detalles completos descargados, ${malReusedCount} reutilizados de caché.`);
       console.log(`[Collector]   -> Simkl: ${simklEnrichedCount} frescos, ${simklReusedCount} reutilizados de caché.`);
       console.log(`[Collector]   -> TMDb:  ${tmdbEnrichedCount} frescos, ${tmdbReusedCount} reutilizados de caché.`);
       console.log(`[Collector] ✓ home.json y discover.json actualizados con backdrops y clearlogos embebidos.`);
 
       // 5. Sincronizar días anteriores de LiveChart (Aislado con try/catch)
       try {
-        await syncLiveChart();
+        const lcPayload = await syncLiveChart();
+        if (lcPayload?.hiatus?.length > 0) {
+          for (const h of lcPayload.hiatus) {
+            if (h.malId && Storage.hasAnimeDetails(h.malId)) {
+              const details = await Storage.loadAnimeDetails(h.malId);
+              if (details) {
+                details.is_hiatus = true;
+                details.hiatus_note = h.note || "Hiatus";
+                await Storage.saveAnimeDetails(h.malId, details);
+              }
+            }
+          }
+        }
       } catch (lcError) {
         console.warn("[Collector] Advertencia: Falló recolección de LiveChart, conservando datos previos:", lcError.message);
       }
@@ -265,6 +344,8 @@ export class Collector {
         durationSeconds: Number(durationSeconds),
         uniqueAnimesInCatalog: uniqueAnimeMap.size,
         totalCachedAnimeFiles: (await Storage.getStats()).cachedAnimeCount,
+        malEnrichedCount,
+        malReusedCount,
         simklEnrichedCount,
         simklReusedCount,
         tmdbEnrichedCount,

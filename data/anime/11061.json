@@ -57,7 +57,23 @@
       "name": "Madhouse"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/5/37973l.jpg",
+    "https://cdn.myanimelist.net/images/anime/13/47129l.jpg",
+    "https://cdn.myanimelist.net/images/anime/4/49303l.jpg",
+    "https://cdn.myanimelist.net/images/anime/6/65771l.jpg",
+    "https://cdn.myanimelist.net/images/anime/10/66303l.jpg",
+    "https://cdn.myanimelist.net/images/anime/2/71839l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1639/92662l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1337/99013l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1813/109433l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1097/110402l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1735/117788l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1940/139867l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1236/145289l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1899/145290l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1805/145291l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/bFKKyCI89Xq98Gul8cGox8K3sZa.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/jTzF5T8Ob6oZRinUCnhbLqrxFsM.png",
   "tmdb_id": "46298",
@@ -1881,16 +1897,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1337/99013l.webp",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1337/99013l.webp",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1337/99013l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1337/99013l.webp",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1337/99013l.webp",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1337/99013l.webp",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1337/99013l.webp",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1337/99013l.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1337/99013l.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1337/99013l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/5/37973l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/5/37973l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/5/37973l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/5/37973l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/5/37973l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/5/37973l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/5/37973l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/5/37973l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/37973l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/5/37973l.jpg"
     }
   },
   "broadcast": {
@@ -1901,17 +1917,223 @@
     "timezone": "Asia/Tokyo",
     "string": "sunday 10:55"
   },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 9,
+  "popularity": 8,
+  "num_scoring_users": 2024214,
+  "nsfw": "white",
+  "created_at": "2011-07-27T08:41:39+00:00",
+  "updated_at": "2023-09-30T15:05:19+00:00",
+  "source": "manga",
+  "rating": "pg_13",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 136,
+        "title": "Hunter x Hunter",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1305/132237.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1305/132237l.jpg"
+        }
+      },
+      "relation_type": "alternative_version",
+      "relation_type_formatted": "Alternative version"
+    },
+    {
+      "node": {
+        "id": 137,
+        "title": "Hunter x Hunter: Original Video Animation",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1/137.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1/137l.webp"
+        }
+      },
+      "relation_type": "alternative_version",
+      "relation_type_formatted": "Alternative version"
+    },
+    {
+      "node": {
+        "id": 138,
+        "title": "Hunter x Hunter: Greed Island",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1902/122320.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1902/122320l.jpg"
+        }
+      },
+      "relation_type": "alternative_version",
+      "relation_type_formatted": "Alternative version"
+    },
+    {
+      "node": {
+        "id": 139,
+        "title": "Hunter x Hunter: Greed Island Final",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1/139.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1/139l.jpg"
+        }
+      },
+      "relation_type": "alternative_version",
+      "relation_type_formatted": "Alternative version"
+    },
+    {
+      "node": {
+        "id": 13271,
+        "title": "Hunter x Hunter Movie 1: Phantom Rouge",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/6/53073.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/6/53073l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 19951,
+        "title": "Hunter x Hunter Movie 2: The Last Mission",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/62337.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/62337l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 22049,
+        "title": "Just Awake",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/5/57897.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/5/57897l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 5114,
+        "title": "Fullmetal Alchemist: Brotherhood",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1208/94745.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1208/94745l.jpg"
+        }
+      },
+      "num_recommendations": 79
+    },
+    {
+      "node": {
+        "id": 21,
+        "title": "One Piece",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1244/138851.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1244/138851l.jpg"
+        }
+      },
+      "num_recommendations": 65
+    },
+    {
+      "node": {
+        "id": 392,
+        "title": "Yuu☆Yuu☆Hakusho",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1228/111372.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1228/111372l.webp"
+        }
+      },
+      "num_recommendations": 59
+    },
+    {
+      "node": {
+        "id": 20,
+        "title": "Naruto",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1141/142503.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1141/142503l.jpg"
+        }
+      },
+      "num_recommendations": 47
+    },
+    {
+      "node": {
+        "id": 34599,
+        "title": "Made in Abyss",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/6/86733.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/6/86733l.jpg"
+        }
+      },
+      "num_recommendations": 29
+    },
+    {
+      "node": {
+        "id": 31964,
+        "title": "Boku no Hero Academia",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/78745.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/10/78745l.webp"
+        }
+      },
+      "num_recommendations": 27
+    },
+    {
+      "node": {
+        "id": 40221,
+        "title": "Kami no Tou",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1702/106229.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1702/106229l.jpg"
+        }
+      },
+      "num_recommendations": 26
+    },
+    {
+      "node": {
+        "id": 14719,
+        "title": "JoJo no Kimyou na Bouken (TV)",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/3/40409.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/3/40409l.webp"
+        }
+      },
+      "num_recommendations": 21
+    },
+    {
+      "node": {
+        "id": 14513,
+        "title": "Magi: The Labyrinth of Magic",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/11/42773.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/11/42773l.jpg"
+        }
+      },
+      "num_recommendations": 20
+    },
+    {
+      "node": {
+        "id": 20899,
+        "title": "JoJo no Kimyou na Bouken Part 3: Stardust Crusaders",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/11/55267.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/11/55267l.webp"
+        }
+      },
+      "num_recommendations": 16
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "390375",
+      "completed": "2246714",
+      "on_hold": "155841",
+      "dropped": "72075",
+      "plan_to_watch": "395741"
+    },
+    "num_list_users": 3260746
+  },
+  "mal_details_updated_at": "2026-11-10T01:26:58.616Z"
 }

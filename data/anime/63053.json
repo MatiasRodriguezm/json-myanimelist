@@ -29,8 +29,8 @@
   "num_episodes": 12,
   "score": 5.61,
   "mean": 5.61,
-  "numListUsers": 7781,
-  "num_list_users": 7781,
+  "numListUsers": 7782,
+  "num_list_users": 7782,
   "genres": [
     {
       "id": 14,
@@ -55,7 +55,10 @@
       "name": "Studio Palette"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1494/153994l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1751/160122l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/9SR35fCLp6VmuPPxRjfPQLucyU5.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/9E27D5LzvBvI1onM1iWSKABR4na.png",
   "tmdb_id": "307903",
@@ -158,16 +161,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1751/160122l.webp",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1751/160122l.webp",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1751/160122l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1751/160122l.webp",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1751/160122l.webp",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1751/160122l.webp",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1751/160122l.webp",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1751/160122l.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1751/160122l.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1751/160122l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1494/153994l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1494/153994l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1494/153994l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1494/153994l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1494/153994l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1494/153994l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1494/153994l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1494/153994l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1494/153994l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1494/153994l.jpg"
     }
   },
   "broadcast": {
@@ -178,17 +181,39 @@
     "timezone": "Asia/Tokyo",
     "string": "saturday 23:45"
   },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 13101,
+  "popularity": 8251,
+  "num_scoring_users": 968,
+  "nsfw": "white",
+  "created_at": "2025-12-05T09:22:40+00:00",
+  "updated_at": "2026-10-10T20:19:47+00:00",
+  "source": "novel",
+  "rating": "pg_13",
   "background": null,
   "related_anime": [],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 38923,
+        "title": "Sinbi Apartment: Ghost Ball Bimil",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1393/97971.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1393/97971l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "3252",
+      "completed": "3",
+      "on_hold": "132",
+      "dropped": "847",
+      "plan_to_watch": "3547"
+    },
+    "num_list_users": 7781
+  },
+  "mal_details_updated_at": "2026-11-10T01:34:24.959Z"
 }

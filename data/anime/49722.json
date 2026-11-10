@@ -55,7 +55,11 @@
       "name": "Shin-Ei Animation"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1130/117960l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1611/121570l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1376/123398l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/t0voVZuqvQ0VlM2m45rVWZO5R52.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/7kUFLMkP093zcfbPaDFeE6uQXS1.png",
   "tmdb_id": "938567",
@@ -129,30 +133,53 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1376/123398l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1376/123398l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1376/123398l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1376/123398l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1376/123398l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1376/123398l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1376/123398l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1376/123398l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1376/123398l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1376/123398l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1130/117960l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1130/117960l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1130/117960l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1130/117960l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1130/117960l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1130/117960l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1130/117960l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1130/117960l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1130/117960l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1130/117960l.jpg"
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 244,
+  "popularity": 2476,
+  "num_scoring_users": 45735,
+  "nsfw": "white",
+  "created_at": "2021-09-01T12:40:59+00:00",
+  "updated_at": "2025-01-07T23:17:18+00:00",
+  "source": "manga",
+  "rating": "pg_13",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 49721,
+        "title": "Karakai Jouzu no Takagi-san 3",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1861/120361.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1861/120361l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    }
+  ],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": "3543",
+      "completed": "59935",
+      "on_hold": "1215",
+      "dropped": "814",
+      "plan_to_watch": "34047"
+    },
+    "num_list_users": 99554
+  },
+  "mal_details_updated_at": "2026-11-10T01:30:36.693Z"
 }

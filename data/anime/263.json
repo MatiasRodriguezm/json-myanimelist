@@ -54,7 +54,13 @@
       "name": "Madhouse"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/10/2025l.jpg",
+    "https://cdn.myanimelist.net/images/anime/9/8833l.jpg",
+    "https://cdn.myanimelist.net/images/anime/4/86334l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1688/96720l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1511/150521l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/uvCkSZwCTKnBtBOvDpcOvQA6xBg.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/qlJ4cCqnHNs8cPEZDlM67RwZIFQ.png",
   "tmdb_id": "42705",
@@ -838,16 +844,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/4/86334l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/4/86334l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/4/86334l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/4/86334l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/86334l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/4/86334l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/4/86334l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/4/86334l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/86334l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/4/86334l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/10/2025l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/10/2025l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/2025l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/10/2025l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/2025l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/10/2025l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/10/2025l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/10/2025l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/2025l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/10/2025l.jpg"
     }
   },
   "broadcast": {
@@ -858,17 +864,163 @@
     "timezone": "Asia/Tokyo",
     "string": "tuesday 00:50"
   },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 43,
+  "popularity": 338,
+  "num_scoring_users": 352688,
+  "nsfw": "white",
+  "created_at": "2005-11-13T07:03:04+00:00",
+  "updated_at": "2023-04-02T18:20:56+00:00",
+  "source": "manga",
+  "rating": "pg_13",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 264,
+        "title": "Hajime no Ippo: Champion Road",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1521/137978.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1521/137978l.jpg"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    },
+    {
+      "node": {
+        "id": 12069,
+        "title": "Hajime no Ippo: Boxer no Kobushi",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/2/84664.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/2/84664l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 1559,
+        "title": "Shijou Saikyou no Deshi Kenichi",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/9/75515.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/9/75515l.jpg"
+        }
+      },
+      "num_recommendations": 27
+    },
+    {
+      "node": {
+        "id": 36563,
+        "title": "Megalo Box",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1958/93533.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1958/93533l.jpg"
+        }
+      },
+      "num_recommendations": 13
+    },
+    {
+      "node": {
+        "id": 2402,
+        "title": "Ashita no Joe",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/5/64671.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/5/64671l.jpg"
+        }
+      },
+      "num_recommendations": 11
+    },
+    {
+      "node": {
+        "id": 21185,
+        "title": "Baby Steps",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/5/63361.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/5/63361l.webp"
+        }
+      },
+      "num_recommendations": 10
+    },
+    {
+      "node": {
+        "id": 34636,
+        "title": "Ballroom e Youkoso",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/5/86739.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/5/86739l.jpg"
+        }
+      },
+      "num_recommendations": 10
+    },
+    {
+      "node": {
+        "id": 15,
+        "title": "Eyeshield 21",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1079/133529.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1079/133529l.webp"
+        }
+      },
+      "num_recommendations": 10
+    },
+    {
+      "node": {
+        "id": 20583,
+        "title": "Haikyuu!!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/7/76014.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/7/76014l.jpg"
+        }
+      },
+      "num_recommendations": 8
+    },
+    {
+      "node": {
+        "id": 245,
+        "title": "Great Teacher Onizuka",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/13/11460.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/13/11460l.webp"
+        }
+      },
+      "num_recommendations": 8
+    },
+    {
+      "node": {
+        "id": 18179,
+        "title": "Yowamushi Pedal",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/5/53211.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/5/53211l.jpg"
+        }
+      },
+      "num_recommendations": 7
+    },
+    {
+      "node": {
+        "id": 11771,
+        "title": "Kuroko no Basket",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/11/50453.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/11/50453l.jpg"
+        }
+      },
+      "num_recommendations": 6
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "75622",
+      "completed": "400131",
+      "on_hold": "36552",
+      "dropped": "17750",
+      "plan_to_watch": "184501"
+    },
+    "num_list_users": 714556
+  },
+  "mal_details_updated_at": "2026-11-10T01:27:46.981Z"
 }

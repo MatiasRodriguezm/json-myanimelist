@@ -57,7 +57,9 @@
       "name": "Studio Chizu"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/9/35721l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/oMqgJMCaNIqeJtilc71D4nRqdmt.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/us5C2vFuEXbyREuomLuVEmU9Dyt.png",
   "tmdb_id": "110420",
@@ -174,17 +176,151 @@
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
+  "rank": 137,
+  "popularity": 252,
+  "num_scoring_users": 491260,
+  "nsfw": "white",
+  "created_at": "2011-12-13T07:55:59+00:00",
+  "updated_at": "2024-10-08T17:39:22+00:00",
+  "source": "original",
+  "rating": "pg_13",
+  "background": "Ookami Kodomo no Ame to Yuki  won the 2013 Japan Academy Prize for Animation of the Year, the 2012 Mainichi Film Award for Best Animation Film, and the 2013 Animation of the Year award at the Tokyo International Anime Fair. It won two awards at the Oslo Films from the South festival in Norway: the main award, the Silver Mirror, and the audience award. It won an Audience Award at 2013 New York International Children's Film Festival and the 2014 Best Anime Disc award from Home Media Magazine.",
+  "related_anime": [
+    {
+      "node": {
+        "id": 37418,
+        "title": "Ookami Kodomo no Ame to Yuki x House Shokuhin Stew CM",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1890/90862.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1890/90862l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 35851,
+        "title": "Sayonara no Asa ni Yakusoku no Hana wo Kazarou",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/11/89556.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/11/89556l.jpg"
+        }
+      },
+      "num_recommendations": 33
+    },
+    {
+      "node": {
+        "id": 10162,
+        "title": "Usagi Drop",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1460/98853.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1460/98853l.jpg"
+        }
+      },
+      "num_recommendations": 18
+    },
+    {
+      "node": {
+        "id": 523,
+        "title": "Tonari no Totoro",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1110/147278.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1110/147278l.jpg"
+        }
+      },
+      "num_recommendations": 11
+    },
+    {
+      "node": {
+        "id": 28805,
+        "title": "Bakemono no Ko",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/11/73540.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/11/73540l.jpg"
+        }
+      },
+      "num_recommendations": 9
+    },
+    {
+      "node": {
+        "id": 2236,
+        "title": "Toki wo Kakeru Shoujo",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1/2432.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1/2432l.webp"
+        }
+      },
+      "num_recommendations": 7
+    },
+    {
+      "node": {
+        "id": 4181,
+        "title": "Clannad: After Story",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1299/110774.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1299/110774l.jpg"
+        }
+      },
+      "num_recommendations": 7
+    },
+    {
+      "node": {
+        "id": 36936,
+        "title": "Mirai no Mirai",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1042/95674.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1042/95674l.jpg"
+        }
+      },
+      "num_recommendations": 5
+    },
+    {
+      "node": {
+        "id": 32281,
+        "title": "Kimi no Na wa.",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/5/87048.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/5/87048l.jpg"
+        }
+      },
+      "num_recommendations": 5
+    },
+    {
+      "node": {
+        "id": 16664,
+        "title": "Kaguya-hime no Monogatari",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1935/93606.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1935/93606l.webp"
+        }
+      },
+      "num_recommendations": 3
+    },
+    {
+      "node": {
+        "id": 1029,
+        "title": "Omoide Poroporo",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1289/138708.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1289/138708l.jpg"
+        }
+      },
+      "num_recommendations": 3
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "18169",
+      "completed": "634016",
+      "on_hold": "5182",
+      "dropped": "2102",
+      "plan_to_watch": "219211"
+    },
+    "num_list_users": 878680
+  },
+  "mal_details_updated_at": "2026-11-10T01:27:05.480Z"
 }

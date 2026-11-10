@@ -29,8 +29,8 @@
   "num_episodes": 1,
   "score": 8.63,
   "mean": 8.63,
-  "numListUsers": 68731,
-  "num_list_users": 68731,
+  "numListUsers": 68752,
+  "num_list_users": 68752,
   "genres": [
     {
       "id": 51,
@@ -55,7 +55,10 @@
       "name": "CygamesPictures"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1665/140628l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1427/142210l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/dXI7HXKQ1xeVUAaWMT67onX7XXJ.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/rCZKddqlYRnc5TJx8Eg8NaBJCWh.png",
   "tmdb_id": "1223178",
@@ -76,42 +79,77 @@
   "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1427/142210.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1427/142210l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1427/142210.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1427/142210l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1427/142210.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1427/142210l.webp",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1427/142210.webp",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1427/142210l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1427/142210.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1427/142210l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1427/142210.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1427/142210l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1427/142210l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1427/142210l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1427/142210l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1427/142210l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1427/142210l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1427/142210l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1427/142210l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1427/142210l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1427/142210l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1427/142210l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1665/140628l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1665/140628l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1665/140628l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1665/140628l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1665/140628l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1665/140628l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1665/140628l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1665/140628l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1665/140628l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1665/140628l.jpg"
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 102,
+  "popularity": 3106,
+  "num_scoring_users": 42758,
+  "nsfw": "white",
+  "created_at": "2023-12-27T15:41:49+00:00",
+  "updated_at": "2026-09-18T22:34:31+00:00",
+  "source": "game",
+  "rating": "pg_13",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 35249,
+        "title": "Uma Musume: Pretty Derby",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1478/91837.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1478/91837l.jpg"
+        }
+      },
+      "relation_type": "parent_story",
+      "relation_type_formatted": "Parent story"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 6675,
+        "title": "Redline",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/12/28553.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/12/28553l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "2574",
+      "completed": "51282",
+      "on_hold": "485",
+      "dropped": "305",
+      "plan_to_watch": "14031"
+    },
+    "num_list_users": 68677
+  },
+  "mal_details_updated_at": "2026-11-10T01:31:05.767Z"
 }

@@ -72,7 +72,11 @@
       "name": "Bones"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/9/19338l.jpg",
+    "https://cdn.myanimelist.net/images/anime/11/24483l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1493/91571l.jpg"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
@@ -944,42 +948,65 @@
   ],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1493/91571.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1493/91571l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1493/91571.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1493/91571l.webp"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1493/91571.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1493/91571l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1493/91571.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1493/91571l.jpg"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1493/91571.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1493/91571l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1493/91571.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1493/91571l.jpg"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1493/91571l.webp",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1493/91571l.webp",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1493/91571l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1493/91571l.webp",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1493/91571l.webp",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1493/91571l.webp",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1493/91571l.webp",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1493/91571l.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1493/91571l.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1493/91571l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/9/19338l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/9/19338l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/9/19338l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/9/19338l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/9/19338l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/9/19338l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/9/19338l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/9/19338l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/9/19338l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/9/19338l.jpg"
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
+  "rank": 768,
+  "popularity": 1643,
+  "num_scoring_users": 80197,
+  "nsfw": "white",
+  "created_at": "2009-04-28T11:20:26+00:00",
+  "updated_at": "2025-08-11T22:02:57+00:00",
+  "source": "manga",
+  "rating": "pg_13",
+  "background": "Fullmetal Alchemist: Brotherhood Specials was released on Blu-ray in North America as Fullmetal Alchemist: Brotherhood OVA Collection by Aniplex of America on November 20, 2018.",
+  "related_anime": [
+    {
+      "node": {
+        "id": 5114,
+        "title": "Fullmetal Alchemist: Brotherhood",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1208/94745.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1208/94745l.jpg"
+        }
+      },
+      "relation_type": "parent_story",
+      "relation_type_formatted": "Parent story"
+    }
+  ],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": "5513",
+      "completed": "122570",
+      "on_hold": "2840",
+      "dropped": "1250",
+      "plan_to_watch": "39210"
+    },
+    "num_list_users": 171383
+  },
+  "mal_details_updated_at": "2026-11-10T01:36:08.744Z"
 }

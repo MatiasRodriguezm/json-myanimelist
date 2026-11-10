@@ -54,7 +54,12 @@
       "name": "Bones"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/11/77308l.jpg",
+    "https://cdn.myanimelist.net/images/anime/5/79183l.jpg",
+    "https://cdn.myanimelist.net/images/anime/8/80356l.jpg",
+    "https://cdn.myanimelist.net/images/anime/13/82135l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/kP5duNJEbTfXpBs6CITsaZ88pQi.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/nH2KsyLFAj9hB0VZYVhpPkFeKPD.png",
   "tmdb_id": "67075",
@@ -268,16 +273,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/8/80356l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/8/80356l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/8/80356l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/8/80356l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/8/80356l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/8/80356l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/8/80356l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/8/80356l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/80356l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/8/80356l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/11/77308l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/11/77308l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/77308l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/11/77308l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/77308l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/11/77308l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/11/77308l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/11/77308l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/77308l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/11/77308l.jpg"
     }
   },
   "broadcast": {
@@ -288,17 +293,199 @@
     "timezone": "Asia/Tokyo",
     "string": "tuesday 00:00"
   },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 171,
+  "popularity": 27,
+  "num_scoring_users": 1452406,
+  "nsfw": "white",
+  "created_at": "2015-12-01T17:37:03+00:00",
+  "updated_at": "2024-10-07T04:09:11+00:00",
+  "source": "web_manga",
+  "rating": "pg_13",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 36616,
+        "title": "Mob Psycho 100: Reigen - Shirarezaru Kiseki no Reinouryokusha",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/7/89331.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/7/89331l.jpg"
+        }
+      },
+      "relation_type": "summary",
+      "relation_type_formatted": "Summary"
+    },
+    {
+      "node": {
+        "id": 37504,
+        "title": "Mob Psycho Mini",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1225/91141.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1225/91141l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 37510,
+        "title": "Mob Psycho 100 II",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1918/96303.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1918/96303l.jpg"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    },
+    {
+      "node": {
+        "id": 52134,
+        "title": "Mob Psycho 100: Tankoubon Hatsubai Kinen Anime",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1630/124609.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1630/124609l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 64597,
+        "title": "Mob Psycho 100: 10-shuunen Kinen Tokubetsu Eizou",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1554/158973.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1554/158973l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 30276,
+        "title": "One Punch Man",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/12/76049.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/12/76049l.jpg"
+        }
+      },
+      "num_recommendations": 167
+    },
+    {
+      "node": {
+        "id": 33255,
+        "title": "Saiki Kusuo no Ψ-nan",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1973/142750.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1973/142750l.jpg"
+        }
+      },
+      "num_recommendations": 69
+    },
+    {
+      "node": {
+        "id": 38409,
+        "title": "Cike Wu Liuqi",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1620/94968.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1620/94968l.jpg"
+        }
+      },
+      "num_recommendations": 18
+    },
+    {
+      "node": {
+        "id": 57334,
+        "title": "Dandadan",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1584/143719.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1584/143719l.webp"
+        }
+      },
+      "num_recommendations": 18
+    },
+    {
+      "node": {
+        "id": 36296,
+        "title": "Hinamatsuri",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1580/93526.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1580/93526l.jpg"
+        }
+      },
+      "num_recommendations": 14
+    },
+    {
+      "node": {
+        "id": 31964,
+        "title": "Boku no Hero Academia",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/78745.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/10/78745l.webp"
+        }
+      },
+      "num_recommendations": 11
+    },
+    {
+      "node": {
+        "id": 52211,
+        "title": "Mashle",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1218/135107.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1218/135107l.jpg"
+        }
+      },
+      "num_recommendations": 10
+    },
+    {
+      "node": {
+        "id": 40748,
+        "title": "Jujutsu Kaisen",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1171/109222.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1171/109222l.webp"
+        }
+      },
+      "num_recommendations": 9
+    },
+    {
+      "node": {
+        "id": 227,
+        "title": "FLCL",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/7/77356.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/7/77356l.webp"
+        }
+      },
+      "num_recommendations": 8
+    },
+    {
+      "node": {
+        "id": 41094,
+        "title": "Xian Wang de Richang Shenghuo",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1925/105508.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1925/105508l.webp"
+        }
+      },
+      "num_recommendations": 7
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "124431",
+      "completed": "1824158",
+      "on_hold": "47581",
+      "dropped": "35914",
+      "plan_to_watch": "340261"
+    },
+    "num_list_users": 2372345
+  },
+  "mal_details_updated_at": "2026-11-10T01:28:36.367Z"
 }

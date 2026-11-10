@@ -59,7 +59,12 @@
       "name": "TMS Entertainment"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1068/109346l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1081/111338l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1759/113268l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1085/114792l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/2vIjTPITEoHeetz1jU4UxyHL9tg.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/dTz8V2Pwt8bzPtvDKO4DEZcQbQB.png",
   "tmdb_id": "85991",
@@ -212,16 +217,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1085/114792l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1085/114792l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1085/114792l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1085/114792l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1085/114792l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1085/114792l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1085/114792l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1085/114792l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1085/114792l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1085/114792l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1068/109346l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1068/109346l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1068/109346l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1068/109346l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1068/109346l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1068/109346l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1068/109346l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1068/109346l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1068/109346l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1068/109346l.jpg"
     }
   },
   "broadcast": {
@@ -232,17 +237,163 @@
     "timezone": "Asia/Tokyo",
     "string": "tuesday 01:30"
   },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 19,
+  "popularity": 445,
+  "num_scoring_users": 288039,
+  "nsfw": "white",
+  "created_at": "2020-09-21T17:09:51+00:00",
+  "updated_at": "2023-08-03T16:57:23+00:00",
+  "source": "manga",
+  "rating": "pg_13",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 40417,
+        "title": "Fruits Basket 2nd Season",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1972/111635.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1972/111635l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    },
+    {
+      "node": {
+        "id": 49310,
+        "title": "Fruits Basket: Prelude",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1034/120096.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1034/120096l.jpg"
+        }
+      },
+      "relation_type": "summary",
+      "relation_type_formatted": "Summary"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 4181,
+        "title": "Clannad: After Story",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1299/110774.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1299/110774l.jpg"
+        }
+      },
+      "num_recommendations": 7
+    },
+    {
+      "node": {
+        "id": 33352,
+        "title": "Violet Evergarden",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1795/95088.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1795/95088l.webp"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 45577,
+        "title": "IDOLiSH7 Third Beat!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1646/115723.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1646/115723l.webp"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 31646,
+        "title": "3-gatsu no Lion",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1590/154000.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1590/154000l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 23273,
+        "title": "Shigatsu wa Kimi no Uso",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1405/143284.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1405/143284l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 16067,
+        "title": "Nagi no Asu kara",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/7/53549.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/7/53549l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 25013,
+        "title": "Akatsuki no Yona",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/9/64225.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/9/64225l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 33899,
+        "title": "IDOLiSH7",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1390/90828.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1390/90828l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 9656,
+        "title": "Kimi ni Todoke 2nd Season",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1311/121574.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1311/121574l.webp"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 56538,
+        "title": "Kimi ni Todoke 3rd Season",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1617/142448.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1617/142448l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "38807",
+      "completed": "356441",
+      "on_hold": "7889",
+      "dropped": "6427",
+      "plan_to_watch": "168548"
+    },
+    "num_list_users": 578112
+  },
+  "mal_details_updated_at": "2026-11-10T01:30:20.106Z"
 }

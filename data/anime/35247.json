@@ -57,7 +57,13 @@
       "name": "Shaft"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/6/87322l.jpg",
+    "https://cdn.myanimelist.net/images/anime/2/89401l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1239/96206l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1317/122614l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1684/142420l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/cHII6sQ91q8H5EMONKCwCQMauCP.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/1PloWpJba8A3I0x8Ry92IGYromk.png",
   "tmdb_id": "46195",
@@ -109,15 +115,15 @@
   ],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/6/87322.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/6/87322l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/6/87322.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/6/87322l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/6/87322.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/6/87322l.webp",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/6/87322.webp",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/6/87322l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/6/87322.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/6/87322l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/6/87322.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/6/87322l.webp"
   },
   "trailer": {
     "images": {
@@ -134,17 +140,64 @@
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
+  "rank": 29,
+  "popularity": 619,
+  "num_scoring_users": 214019,
+  "nsfw": "white",
+  "created_at": "2017-03-25T01:32:08+00:00",
+  "updated_at": "2024-02-04T16:41:33+00:00",
+  "source": "light_novel",
+  "rating": "r",
+  "background": "Owarimonogatari 2nd Season adapts the fifth volume of NisiOisiN's Monogatari Series: Final Season.",
+  "related_anime": [
+    {
+      "node": {
+        "id": 32268,
+        "title": "Koyomimonogatari",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/2/77744.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/2/77744l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    },
+    {
+      "node": {
+        "id": 36796,
+        "title": "Owarimonogatari 2nd Season Recaps",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/9/88962.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/9/88962l.webp"
+        }
+      },
+      "relation_type": "summary",
+      "relation_type_formatted": "Summary"
+    },
+    {
+      "node": {
+        "id": 36999,
+        "title": "Zoku Owarimonogatari",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1022/96168.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1022/96168l.webp"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    }
+  ],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": "19369",
+      "completed": "272012",
+      "on_hold": "5736",
+      "dropped": "3157",
+      "plan_to_watch": "144154"
+    },
+    "num_list_users": 444428
+  },
+  "mal_details_updated_at": "2026-11-10T01:28:50.012Z"
 }

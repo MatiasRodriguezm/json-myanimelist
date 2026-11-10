@@ -47,7 +47,9 @@
     }
   ],
   "studios": [],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1737/144634l.jpg"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
@@ -83,16 +85,39 @@
   },
   "broadcast": null,
   "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "popularity": 3666,
+  "num_scoring_users": 1,
+  "nsfw": "white",
+  "created_at": "2024-08-03T16:59:06+00:00",
+  "updated_at": "2024-08-04T01:04:52+00:00",
+  "source": "light_novel",
+  "rating": "pg_13",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 49613,
+        "title": "Chiyu Mahou no Machigatta Tsukaikata",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1733/140802.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1733/140802l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    }
+  ],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": "7",
+      "completed": 0,
+      "on_hold": "6",
+      "dropped": "1",
+      "plan_to_watch": "51264"
+    },
+    "num_list_users": 51278
+  },
+  "mal_details_updated_at": "2026-11-10T01:32:15.184Z"
 }

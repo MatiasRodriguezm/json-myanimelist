@@ -61,7 +61,12 @@
       "name": "MAPPA"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1915/110629l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1632/110707l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1806/126216l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1803/132254l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/fOUKSCbZzaoQKsO39enivHnWDid.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/8X3AdUA5q3owusAXOiCOn3FwXUa.png",
   "tmdb_id": "114410",
@@ -283,28 +288,28 @@
   ],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1806/126216.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1806/126216l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1806/126216.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1806/126216l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1806/126216.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1806/126216l.webp",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1806/126216.webp",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1806/126216l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1806/126216.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1806/126216l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1806/126216.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1806/126216l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1806/126216l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1806/126216l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1806/126216l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1806/126216l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1806/126216l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1806/126216l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1806/126216l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1806/126216l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1806/126216l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1806/126216l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1915/110629l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1915/110629l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1915/110629l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1915/110629l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1915/110629l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1915/110629l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1915/110629l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1915/110629l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1915/110629l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1915/110629l.jpg"
     }
   },
   "broadcast": {
@@ -315,17 +320,223 @@
     "timezone": "Asia/Tokyo",
     "string": "wednesday 00:00"
   },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
+  "rank": 223,
+  "popularity": 46,
+  "num_scoring_users": 1202199,
+  "nsfw": "white",
+  "created_at": "2020-12-09T12:09:06+00:00",
+  "updated_at": "2025-12-22T02:34:49+00:00",
+  "source": "manga",
+  "rating": "r",
+  "background": "Chainsaw Man was released in four volumes on Blu-ray and DVD from January 27, 2023, to April 28, 2023. It adapts chapters 1-38 of the original manga.",
+  "related_anime": [
+    {
+      "node": {
+        "id": 53405,
+        "title": "Zanki",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1228/145152.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1228/145152l.webp"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 53581,
+        "title": "In the Back Room",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1156/130896.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1156/130896l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 53640,
+        "title": "Jouzai",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1854/131329.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1854/131329l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 53641,
+        "title": "Dainouteki na Rendezvous",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1311/131330.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1311/131330l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 54026,
+        "title": "Fight Song",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1730/132170.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1730/132170l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 57555,
+        "title": "Chainsaw Man Movie: Reze-hen",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1763/150638.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1763/150638l.jpg"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    },
+    {
+      "node": {
+        "id": 62352,
+        "title": "Chainsaw Man Recap",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1929/151717.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1929/151717l.jpg"
+        }
+      },
+      "relation_type": "summary",
+      "relation_type_formatted": "Summary"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 40748,
+        "title": "Jujutsu Kaisen",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1171/109222.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1171/109222l.webp"
+        }
+      },
+      "num_recommendations": 52
+    },
+    {
+      "node": {
+        "id": 38668,
+        "title": "Dorohedoro",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1230/119278.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1230/119278l.jpg"
+        }
+      },
+      "num_recommendations": 18
+    },
+    {
+      "node": {
+        "id": 57334,
+        "title": "Dandadan",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1584/143719.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1584/143719l.webp"
+        }
+      },
+      "num_recommendations": 10
+    },
+    {
+      "node": {
+        "id": 46569,
+        "title": "Jigokuraku",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1075/131925.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1075/131925l.jpg"
+        }
+      },
+      "num_recommendations": 10
+    },
+    {
+      "node": {
+        "id": 35120,
+        "title": "Devilman: Crybaby",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/2/89973.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/2/89973l.webp"
+        }
+      },
+      "num_recommendations": 9
+    },
+    {
+      "node": {
+        "id": 42310,
+        "title": "Cyberpunk: Edgerunners",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1818/126435.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1818/126435l.jpg"
+        }
+      },
+      "num_recommendations": 6
+    },
+    {
+      "node": {
+        "id": 38000,
+        "title": "Kimetsu no Yaiba",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1286/99889.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1286/99889l.jpg"
+        }
+      },
+      "num_recommendations": 5
+    },
+    {
+      "node": {
+        "id": 384,
+        "title": "Gantz",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/13/5998.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/13/5998l.jpg"
+        }
+      },
+      "num_recommendations": 5
+    },
+    {
+      "node": {
+        "id": 22535,
+        "title": "Kiseijuu: Sei no Kakuritsu",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/3/73178.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/3/73178l.webp"
+        }
+      },
+      "num_recommendations": 5
+    },
+    {
+      "node": {
+        "id": 227,
+        "title": "FLCL",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/7/77356.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/7/77356l.webp"
+        }
+      },
+      "num_recommendations": 5
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "227266",
+      "completed": "1458937",
+      "on_hold": "30863",
+      "dropped": "31905",
+      "plan_to_watch": "302267"
+    },
+    "num_list_users": 2051238
+  },
+  "mal_details_updated_at": "2026-11-10T01:30:25.215Z"
 }

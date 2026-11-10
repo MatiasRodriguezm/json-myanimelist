@@ -53,7 +53,10 @@
       "name": "Millepensee"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1632/156344l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1605/160555l.jpg"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
@@ -86,30 +89,53 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1605/160555l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1605/160555l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1605/160555l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1605/160555l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1605/160555l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1605/160555l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1605/160555l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1605/160555l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1605/160555l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1605/160555l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1632/156344l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1632/156344l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1632/156344l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1632/156344l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1632/156344l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1632/156344l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1632/156344l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1632/156344l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1632/156344l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1632/156344l.jpg"
     }
   },
   "broadcast": null,
   "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "popularity": 4690,
+  "num_scoring_users": 2,
+  "nsfw": "white",
+  "created_at": "2026-03-28T07:13:39+00:00",
+  "updated_at": "2026-10-15T09:30:25+00:00",
+  "source": "light_novel",
+  "rating": "pg_13",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 56906,
+        "title": "Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta (TV Special)",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1150/155201.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1150/155201l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    }
+  ],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": "8",
+      "completed": "1",
+      "on_hold": "7",
+      "dropped": "1",
+      "plan_to_watch": "31685"
+    },
+    "num_list_users": 31702
+  },
+  "mal_details_updated_at": "2026-11-10T01:35:58.348Z"
 }

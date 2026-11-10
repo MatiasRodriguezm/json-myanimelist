@@ -29,8 +29,8 @@
   "num_episodes": null,
   "score": 8.21,
   "mean": 8.21,
-  "numListUsers": 53926,
-  "num_list_users": 53926,
+  "numListUsers": 53943,
+  "num_list_users": 53943,
   "genres": [
     {
       "id": 1,
@@ -59,7 +59,10 @@
       "name": "Toei Animation"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1015/155108l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1624/159991l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/aFlyMKCE5hAR0OyUSMSbihFHgif.png",
   "tmdb_id": "312359",
@@ -150,28 +153,28 @@
   "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1624/159991.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1624/159991l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1624/159991.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1624/159991l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1624/159991.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1624/159991l.webp",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1624/159991.webp",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1624/159991l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1624/159991.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1624/159991l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1624/159991.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1624/159991l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1624/159991l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1624/159991l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1624/159991l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1624/159991l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1624/159991l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1624/159991l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1624/159991l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1624/159991l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1624/159991l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1624/159991l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1015/155108l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1015/155108l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1015/155108l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1015/155108l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1015/155108l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1015/155108l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1015/155108l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1015/155108l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1015/155108l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1015/155108l.jpg"
     }
   },
   "broadcast": {
@@ -182,17 +185,52 @@
     "timezone": "Asia/Tokyo",
     "string": "sunday 23:15"
   },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 439,
+  "popularity": 3564,
+  "num_scoring_users": 7039,
+  "nsfw": "white",
+  "created_at": "2026-01-25T09:22:20+00:00",
+  "updated_at": "2026-10-11T15:55:49+00:00",
+  "source": "manga",
+  "rating": "pg_13",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 14837,
+        "title": "Dragon Ball Z Movie 14: Kami to Kami",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1734/93678.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1734/93678l.webp"
+        }
+      },
+      "relation_type": "alternative_version",
+      "relation_type_formatted": "Alternative version"
+    },
+    {
+      "node": {
+        "id": 30694,
+        "title": "Dragon Ball Super",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/7/74606.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/7/74606l.jpg"
+        }
+      },
+      "relation_type": "alternative_version",
+      "relation_type_formatted": "Alternative version"
+    }
+  ],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": "29527",
+      "completed": "6",
+      "on_hold": "457",
+      "dropped": "388",
+      "plan_to_watch": "23552"
+    },
+    "num_list_users": 53930
+  },
+  "mal_details_updated_at": "2026-11-10T01:34:43.967Z"
 }

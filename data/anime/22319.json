@@ -33,8 +33,8 @@
   "num_episodes": 12,
   "score": 7.79,
   "mean": 7.79,
-  "numListUsers": 3106691,
-  "num_list_users": 3106691,
+  "numListUsers": 3106768,
+  "num_list_users": 3106768,
   "genres": [
     {
       "id": 1,
@@ -75,7 +75,12 @@
       "name": "Studio Pierrot"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/11/60011l.jpg",
+    "https://cdn.myanimelist.net/images/anime/6/74916l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1517/92767l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1498/134443l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/jnwRlthXIgJB75Mt9GEl93Dczki.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/9u3baMv9AZ9znK9ecPjQQVoyEl8.png",
   "tmdb_id": "61374",
@@ -259,16 +264,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1498/134443l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1498/134443l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1498/134443l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1498/134443l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1498/134443l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1498/134443l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1498/134443l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1498/134443l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1498/134443l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1498/134443l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/11/60011l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/11/60011l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/60011l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/11/60011l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/60011l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/11/60011l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/11/60011l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/11/60011l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/60011l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/11/60011l.jpg"
     }
   },
   "broadcast": {
@@ -279,17 +284,175 @@
     "timezone": "Asia/Tokyo",
     "string": "friday 00:00"
   },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 1224,
+  "popularity": 11,
+  "num_scoring_users": 2032066,
+  "nsfw": "white",
+  "created_at": "2014-01-29T09:14:28+00:00",
+  "updated_at": "2024-10-02T16:19:27+00:00",
+  "source": "manga",
+  "rating": "r",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 27899,
+        "title": "Tokyo Ghoul √A",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1889/123307.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1889/123307l.webp"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    },
+    {
+      "node": {
+        "id": 30458,
+        "title": "Tokyo Ghoul: \"Jack\"",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1739/123152.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1739/123152l.jpg"
+        }
+      },
+      "relation_type": "spin_off",
+      "relation_type_formatted": "Spin-off"
+    },
+    {
+      "node": {
+        "id": 31297,
+        "title": "Tokyo Ghoul: \"Pinto\"",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/3/78666.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/3/78666l.jpg"
+        }
+      },
+      "relation_type": "spin_off",
+      "relation_type_formatted": "Spin-off"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 22535,
+        "title": "Kiseijuu: Sei no Kakuritsu",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/3/73178.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/3/73178l.webp"
+        }
+      },
+      "num_recommendations": 171
+    },
+    {
+      "node": {
+        "id": 31580,
+        "title": "Ajin",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/13/77968.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/13/77968l.jpg"
+        }
+      },
+      "num_recommendations": 48
+    },
+    {
+      "node": {
+        "id": 16498,
+        "title": "Shingeki no Kyojin",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/47347.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/47347l.jpg"
+        }
+      },
+      "num_recommendations": 43
+    },
+    {
+      "node": {
+        "id": 6880,
+        "title": "Deadman Wonderland",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/9/75299.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/9/75299l.webp"
+        }
+      },
+      "num_recommendations": 33
+    },
+    {
+      "node": {
+        "id": 7724,
+        "title": "Shiki",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1531/119165.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1531/119165l.jpg"
+        }
+      },
+      "num_recommendations": 23
+    },
+    {
+      "node": {
+        "id": 35928,
+        "title": "Devils Line",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1053/98838.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1053/98838l.webp"
+        }
+      },
+      "num_recommendations": 15
+    },
+    {
+      "node": {
+        "id": 19315,
+        "title": "Pupa",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1117/121859.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1117/121859l.jpg"
+        }
+      },
+      "num_recommendations": 13
+    },
+    {
+      "node": {
+        "id": 22199,
+        "title": "Akame ga Kill!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1429/95946.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1429/95946l.jpg"
+        }
+      },
+      "num_recommendations": 13
+    },
+    {
+      "node": {
+        "id": 1535,
+        "title": "Death Note",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1079/138100.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1079/138100l.jpg"
+        }
+      },
+      "num_recommendations": 12
+    },
+    {
+      "node": {
+        "id": 26243,
+        "title": "Owari no Seraph",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1879/148979.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1879/148979l.jpg"
+        }
+      },
+      "num_recommendations": 11
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "119314",
+      "completed": "2627370",
+      "on_hold": "39534",
+      "dropped": "65881",
+      "plan_to_watch": "254267"
+    },
+    "num_list_users": 3106366
+  },
+  "mal_details_updated_at": "2026-11-10T01:27:32.819Z"
 }

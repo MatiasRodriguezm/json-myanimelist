@@ -53,7 +53,11 @@
       "name": "Actas"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1833/119627l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1258/136970l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1652/138188l.jpg"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
@@ -397,30 +401,77 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1652/138188l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1652/138188l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1652/138188l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1652/138188l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1652/138188l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1652/138188l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1652/138188l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1652/138188l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1652/138188l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1652/138188l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1833/119627l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1833/119627l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1833/119627l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1833/119627l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1833/119627l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1833/119627l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1833/119627l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1833/119627l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1833/119627l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1833/119627l.jpg"
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
+  "rank": 242,
+  "popularity": 4839,
+  "num_scoring_users": 10954,
+  "nsfw": "white",
+  "created_at": "2019-02-02T11:12:15+00:00",
+  "updated_at": "2024-09-30T14:54:30+00:00",
+  "source": "original",
+  "rating": "pg_13",
+  "background": "Girls & Panzer: Saishuushou Part 4 was released on Blu-ray and DVD in Japan on March 27, 2024.",
+  "related_anime": [
+    {
+      "node": {
+        "id": 39166,
+        "title": "Girls & Panzer: Saishuushou Part 3",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1894/119214.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1894/119214l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    },
+    {
+      "node": {
+        "id": 39168,
+        "title": "Girls & Panzer: Saishuushou Part 5",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1928/159811.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1928/159811l.jpg"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    },
+    {
+      "node": {
+        "id": 58606,
+        "title": "Girls & Panzer: Saishuushou Part 4 Specials",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1079/142459.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1079/142459l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    }
+  ],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": "1119",
+      "completed": "14661",
+      "on_hold": "295",
+      "dropped": "217",
+      "plan_to_watch": "13021"
+    },
+    "num_list_users": 29313
+  },
+  "mal_details_updated_at": "2026-11-10T01:29:11.385Z"
 }

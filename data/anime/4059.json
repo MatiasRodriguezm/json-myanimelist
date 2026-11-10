@@ -53,7 +53,15 @@
       "name": "Kyoto Animation"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/11/9735l.jpg",
+    "https://cdn.myanimelist.net/images/anime/10/10041l.jpg",
+    "https://cdn.myanimelist.net/images/anime/11/17039l.jpg",
+    "https://cdn.myanimelist.net/images/anime/5/18889l.jpg",
+    "https://cdn.myanimelist.net/images/anime/12/19620l.jpg",
+    "https://cdn.myanimelist.net/images/anime/8/20467l.jpg",
+    "https://cdn.myanimelist.net/images/anime/9/27509l.jpg"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
@@ -317,30 +325,131 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/12/19620l.webp",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/12/19620l.webp",
-      "image_url": "https://cdn.myanimelist.net/images/anime/12/19620l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/12/19620l.webp",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/19620l.webp",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/12/19620l.webp",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/12/19620l.webp",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/12/19620l.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/19620l.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/12/19620l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/11/9735l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/11/9735l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/9735l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/11/9735l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/9735l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/11/9735l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/11/9735l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/11/9735l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/9735l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/11/9735l.jpg"
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 880,
+  "popularity": 898,
+  "num_scoring_users": 213190,
+  "nsfw": "white",
+  "created_at": "2008-03-06T09:49:33+00:00",
+  "updated_at": "2022-04-29T18:24:22+00:00",
+  "source": "visual_novel",
+  "rating": "pg_13",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 2167,
+        "title": "Clannad",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1804/95033.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1804/95033l.jpg"
+        }
+      },
+      "relation_type": "alternative_setting",
+      "relation_type_formatted": "Alternative setting"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 1689,
+        "title": "Byousoku 5 Centimeter",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1410/112994.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1410/112994l.jpg"
+        }
+      },
+      "num_recommendations": 4
+    },
+    {
+      "node": {
+        "id": 35677,
+        "title": "Liz to Aoi Tori",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1638/93032.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1638/93032l.jpg"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 811,
+        "title": "I''s Pure",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1555/134512.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1555/134512l.webp"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 5216,
+        "title": "D.C.if: Da Capo if",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/2/25445.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/2/25445l.webp"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 7054,
+        "title": "Kaichou wa Maid-sama!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/6/25254.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/6/25254l.webp"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 8676,
+        "title": "Amagami SS",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/78699.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/78699l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 39175,
+        "title": "Cider no You ni Kotoba ga Wakiagaru",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1952/116031.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1952/116031l.webp"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "3095",
+      "completed": "288869",
+      "on_hold": "1240",
+      "dropped": "998",
+      "plan_to_watch": "29333"
+    },
+    "num_list_users": 323535
+  },
+  "mal_details_updated_at": "2026-11-10T01:29:17.825Z"
 }

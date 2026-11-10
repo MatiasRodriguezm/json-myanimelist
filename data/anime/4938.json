@@ -66,7 +66,12 @@
       "name": "Production I.G"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/13/14186l.jpg",
+    "https://cdn.myanimelist.net/images/anime/9/33841l.jpg",
+    "https://cdn.myanimelist.net/images/anime/10/76631l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1975/116552l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/6yEPWAfQQmkZTht21z9OYZP9f8E.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/hJJrDltSIDfZhQDF2GFKacGXPY.png",
   "tmdb_id": "37565",
@@ -97,42 +102,133 @@
   "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/9/33841.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/9/33841l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/9/33841.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/9/33841l.webp"
+      "image_url": "https://cdn.myanimelist.net/images/anime/9/33841.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/9/33841l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/9/33841.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/9/33841l.jpg"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/9/33841.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/9/33841l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/9/33841.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/33841l.jpg"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/9/33841l.webp",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/9/33841l.webp",
-      "image_url": "https://cdn.myanimelist.net/images/anime/9/33841l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/9/33841l.webp",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/9/33841l.webp",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/9/33841l.webp",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/9/33841l.webp",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/9/33841l.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/9/33841l.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/9/33841l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/13/14186l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/13/14186l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/13/14186l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/13/14186l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/13/14186l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/13/14186l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/13/14186l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/13/14186l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/13/14186l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/13/14186l.jpg"
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
+  "rank": 649,
+  "popularity": 3183,
+  "num_scoring_users": 31167,
+  "nsfw": "white",
+  "created_at": "2008-07-17T23:27:43+00:00",
+  "updated_at": "2023-08-02T04:46:53+00:00",
+  "source": "manga",
+  "rating": "r",
+  "background": "Bundled with the limited editions of the 26th and 27th volumes of the Tsubasa Chronicle manga.",
+  "related_anime": [
+    {
+      "node": {
+        "id": 2685,
+        "title": "Tsubasa: Tokyo Revelations",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/4/49129.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/4/49129l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    },
+    {
+      "node": {
+        "id": 4918,
+        "title": "xxxHOLiC Shunmuki",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/12/25079.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/12/25079l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 4918,
+        "title": "xxxHOLiC Shunmuki",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/12/25079.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/12/25079l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 8311,
+        "title": "Tegamibachi Reverse",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/4/26472.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/4/26472l.webp"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 150,
+        "title": "Blood+",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/10183.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/10183l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 13667,
+        "title": "Naruto: Shippuuden Movie 6 - Road to Ninja",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1620/94336.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1620/94336l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 21639,
+        "title": "Yu☆Gi☆Oh! Arc-V",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/62939.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/10/62939l.webp"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "1834",
+      "completed": "45236",
+      "on_hold": "959",
+      "dropped": "653",
+      "plan_to_watch": "17249"
+    },
+    "num_list_users": 65931
+  },
+  "mal_details_updated_at": "2026-11-10T01:30:34.561Z"
 }

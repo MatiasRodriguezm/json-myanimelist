@@ -55,7 +55,11 @@
       "name": "Bones"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/3/54465l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1009/98400l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1886/128266l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/n5J23cWQW4FUWhifL530qEkstFY.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/vxhNbXPyiGCtrN58zE6g9HO0W6e.png",
   "tmdb_id": "64710",
@@ -198,16 +202,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1886/128266l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1886/128266l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1886/128266l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1886/128266l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1886/128266l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1886/128266l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1886/128266l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1886/128266l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1886/128266l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1886/128266l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/3/54465l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/3/54465l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/54465l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/3/54465l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/54465l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/3/54465l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/3/54465l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/3/54465l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/54465l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/3/54465l.jpg"
     }
   },
   "broadcast": {
@@ -218,17 +222,187 @@
     "timezone": "Asia/Tokyo",
     "string": "sunday 23:30"
   },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
+  "rank": 870,
+  "popularity": 29,
+  "num_scoring_users": 1359923,
+  "nsfw": "white",
+  "created_at": "2013-09-14T21:49:16+00:00",
+  "updated_at": "2026-07-20T04:57:53+00:00",
+  "source": "manga",
+  "rating": "pg_13",
+  "background": "Aside from the anime and manga there is a mobile game titled Noragami -Kami to Enishi-.",
+  "related_anime": [
+    {
+      "node": {
+        "id": 20767,
+        "title": "Noragami OVA",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/7/77177.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/7/77177l.webp"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 30503,
+        "title": "Noragami Aragoto",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1689/94850.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1689/94850l.webp"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    },
+    {
+      "node": {
+        "id": 32700,
+        "title": "Heart Realize",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/5/78492.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/5/78492l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 35773,
+        "title": "Noraneko",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/2/88357.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/2/88357l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 14713,
+        "title": "Kamisama Hajimemashita",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/3/85429.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/3/85429l.jpg"
+        }
+      },
+      "num_recommendations": 39
+    },
+    {
+      "node": {
+        "id": 9919,
+        "title": "Ao no Exorcist",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/75195.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/75195l.jpg"
+        }
+      },
+      "num_recommendations": 34
+    },
+    {
+      "node": {
+        "id": 18153,
+        "title": "Kyoukai no Kanata",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/3/85468.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/3/85468l.webp"
+        }
+      },
+      "num_recommendations": 27
+    },
+    {
+      "node": {
+        "id": 3588,
+        "title": "Soul Eater",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1071/149486.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1071/149486l.webp"
+        }
+      },
+      "num_recommendations": 26
+    },
+    {
+      "node": {
+        "id": 39534,
+        "title": "Jibaku Shounen Hanako-kun",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1050/111687.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1050/111687l.webp"
+        }
+      },
+      "num_recommendations": 25
+    },
+    {
+      "node": {
+        "id": 15809,
+        "title": "Hataraku Maou-sama!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/3/50177.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/3/50177l.jpg"
+        }
+      },
+      "num_recommendations": 23
+    },
+    {
+      "node": {
+        "id": 11633,
+        "title": "Blood Lad",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/11/47677.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/11/47677l.jpg"
+        }
+      },
+      "num_recommendations": 21
+    },
+    {
+      "node": {
+        "id": 40748,
+        "title": "Jujutsu Kaisen",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1171/109222.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1171/109222l.webp"
+        }
+      },
+      "num_recommendations": 17
+    },
+    {
+      "node": {
+        "id": 269,
+        "title": "Bleach",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1541/147774.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1541/147774l.jpg"
+        }
+      },
+      "num_recommendations": 13
+    },
+    {
+      "node": {
+        "id": 5081,
+        "title": "Bakemonogatari",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/11/75274.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/11/75274l.jpg"
+        }
+      },
+      "num_recommendations": 12
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "99347",
+      "completed": "1776540",
+      "on_hold": "48344",
+      "dropped": "41636",
+      "plan_to_watch": "380733"
+    },
+    "num_list_users": 2346600
+  },
+  "mal_details_updated_at": "2026-11-10T01:27:26.132Z"
 }

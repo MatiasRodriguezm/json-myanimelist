@@ -33,8 +33,8 @@
   "num_episodes": 3,
   "score": 8.11,
   "mean": 8.11,
-  "numListUsers": 148359,
-  "num_list_users": 148359,
+  "numListUsers": 148361,
+  "num_list_users": 148361,
   "genres": [
     {
       "id": 2,
@@ -55,7 +55,12 @@
       "name": "Studio Pierrot"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/8/75974l.jpg",
+    "https://cdn.myanimelist.net/images/anime/3/79914l.jpg",
+    "https://cdn.myanimelist.net/images/anime/6/79915l.jpg",
+    "https://cdn.myanimelist.net/images/anime/7/83974l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/8ysVo7GTYYtr4Xiua5pYoJ4rMGI.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/cFH0hORyqHzpFHSRzty8JqHbBuV.png",
   "tmdb_id": "61461",
@@ -132,17 +137,74 @@
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 588,
+  "popularity": 1837,
+  "num_scoring_users": 76723,
+  "nsfw": "white",
+  "created_at": "2015-03-20T07:10:40+00:00",
+  "updated_at": "2026-01-20T02:19:58+00:00",
+  "source": "manga",
+  "rating": "pg_13",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 25013,
+        "title": "Akatsuki no Yona",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/9/64225.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/9/64225l.jpg"
+        }
+      },
+      "relation_type": "parent_story",
+      "relation_type_formatted": "Parent story"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 27633,
+        "title": "Gekkan Shoujo Nozaki-kun Specials",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/9/66871.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/9/66871l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 52991,
+        "title": "Sousou no Frieren",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1015/138006.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1015/138006l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 35851,
+        "title": "Sayonara no Asa ni Yakusoku no Hana wo Kazarou",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/11/89556.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/11/89556l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "9241",
+      "completed": "106936",
+      "on_hold": "3803",
+      "dropped": "1388",
+      "plan_to_watch": "26969"
+    },
+    "num_list_users": 148337
+  },
+  "mal_details_updated_at": "2026-11-10T01:28:27.612Z"
 }

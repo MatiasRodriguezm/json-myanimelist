@@ -72,7 +72,9 @@
       "name": "Sunrise"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/12/26966l.jpg"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
@@ -139,17 +141,40 @@
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 373,
+  "popularity": 3796,
+  "num_scoring_users": 21337,
+  "nsfw": "white",
+  "created_at": "2010-10-26T17:42:06+00:00",
+  "updated_at": "2023-01-16T22:44:03+00:00",
+  "source": "manga",
+  "rating": "pg_13",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 7472,
+        "title": "Gintama Movie 1: Shinyaku Benizakura-hen",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/4/28803.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/4/28803l.webp"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    }
+  ],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": "1461",
+      "completed": "33504",
+      "on_hold": "558",
+      "dropped": "566",
+      "plan_to_watch": "12322"
+    },
+    "num_list_users": 48411
+  },
+  "mal_details_updated_at": "2026-11-10T01:37:57.044Z"
 }

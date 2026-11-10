@@ -73,7 +73,16 @@
       "name": "Sunrise"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/2/33345l.jpg",
+    "https://cdn.myanimelist.net/images/anime/6/33489l.jpg",
+    "https://cdn.myanimelist.net/images/anime/6/33491l.jpg",
+    "https://cdn.myanimelist.net/images/anime/5/33493l.jpg",
+    "https://cdn.myanimelist.net/images/anime/3/36969l.jpg",
+    "https://cdn.myanimelist.net/images/anime/4/36971l.jpg",
+    "https://cdn.myanimelist.net/images/anime/4/50361l.jpg",
+    "https://cdn.myanimelist.net/images/anime/2/73247l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/3gVl0IvJMbhOnAvH9V0Q1Y1HnXE.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/2GFz7E2Z1UWiWqOv2YGIbIaAWrH.png",
   "tmdb_id": "57041",
@@ -605,28 +614,28 @@
   ],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/4/50361.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/50361l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/4/50361.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/4/50361l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/50361.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/50361l.webp",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/4/50361.webp",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/4/50361l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/4/50361.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/4/50361l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/4/50361.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/4/50361l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/4/50361l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/4/50361l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/4/50361l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/4/50361l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/50361l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/4/50361l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/4/50361l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/4/50361l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/50361l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/4/50361l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/2/33345l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/2/33345l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/2/33345l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/2/33345l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/2/33345l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/2/33345l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/2/33345l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/2/33345l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/2/33345l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/2/33345l.jpg"
     }
   },
   "broadcast": {
@@ -637,17 +646,199 @@
     "timezone": "Asia/Tokyo",
     "string": "monday 18:00"
   },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 12,
+  "popularity": 411,
+  "num_scoring_users": 261755,
+  "nsfw": "white",
+  "created_at": "2010-12-06T15:47:56+00:00",
+  "updated_at": "2024-03-04T09:27:01+00:00",
+  "source": "manga",
+  "rating": "pg_13",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 918,
+        "title": "Gintama",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/73274.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/73274l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    },
+    {
+      "node": {
+        "id": 9863,
+        "title": "SKET Dance",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/9/73974.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/9/73974l.jpg"
+        }
+      },
+      "relation_type": "character",
+      "relation_type_formatted": "Character"
+    },
+    {
+      "node": {
+        "id": 15417,
+        "title": "Gintama': Enchousen",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1452/123686.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1452/123686l.jpg"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    },
+    {
+      "node": {
+        "id": 21899,
+        "title": "Gintama: Yorinuki Gintama-san on Theater 2D",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1172/90571.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1172/90571l.jpg"
+        }
+      },
+      "relation_type": "summary",
+      "relation_type_formatted": "Summary"
+    },
+    {
+      "node": {
+        "id": 56544,
+        "title": "Gintama on Theater 2D: Baragaki-hen",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1579/150207.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1579/150207l.jpg"
+        }
+      },
+      "relation_type": "summary",
+      "relation_type_formatted": "Summary"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 9863,
+        "title": "SKET Dance",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/9/73974.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/9/73974l.jpg"
+        }
+      },
+      "num_recommendations": 5
+    },
+    {
+      "node": {
+        "id": 11843,
+        "title": "Danshi Koukousei no Nichijou",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/3/33257.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/3/33257l.jpg"
+        }
+      },
+      "num_recommendations": 4
+    },
+    {
+      "node": {
+        "id": 37105,
+        "title": "Grand Blue",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1302/94882.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1302/94882l.webp"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 2026,
+        "title": "Hayate no Gotoku!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/7/73932.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/7/73932l.webp"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 4192,
+        "title": "Hayate no Gotoku!!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1015/142749.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1015/142749l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 9513,
+        "title": "Beelzebub",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/3/28013.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/3/28013l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 114,
+        "title": "Sakigake!! Cromartie Koukou",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1782/130913.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1782/130913l.webp"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 24,
+        "title": "School Rumble",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1465/142014.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1465/142014l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 16211,
+        "title": "Bakumatsu Gijinden Roman",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/9/43673.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/9/43673l.webp"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 13535,
+        "title": "Binbougami ga!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/8/39333.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/8/39333l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "49235",
+      "completed": "311022",
+      "on_hold": "18530",
+      "dropped": "12763",
+      "plan_to_watch": "232924"
+    },
+    "num_list_users": 624474
+  },
+  "mal_details_updated_at": "2026-11-10T01:37:59.355Z"
 }

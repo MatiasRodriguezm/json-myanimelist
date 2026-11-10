@@ -56,7 +56,12 @@
       "name": "Bones"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/3/17469l.jpg",
+    "https://cdn.myanimelist.net/images/anime/6/21971l.jpg",
+    "https://cdn.myanimelist.net/images/anime/3/25014l.jpg",
+    "https://cdn.myanimelist.net/images/anime/8/25015l.jpg"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
@@ -228,15 +233,15 @@
   ],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/3/17469.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/17469l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/3/17469.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/3/17469l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/17469.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/17469l.webp",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/3/17469.webp",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/3/17469l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/3/17469.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/3/17469l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/3/17469.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/3/17469l.webp"
   },
   "trailer": {
     "images": {
@@ -253,17 +258,86 @@
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 960,
+  "popularity": 1065,
+  "num_scoring_users": 148971,
+  "nsfw": "white",
+  "created_at": "2009-10-13T08:56:00+00:00",
+  "updated_at": "2025-05-14T12:05:31+00:00",
+  "source": "original",
+  "rating": "r",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 2025,
+        "title": "Darker than Black: Kuro no Keiyakusha",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/5/19570.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/5/19570l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    },
+    {
+      "node": {
+        "id": 6573,
+        "title": "Darker than Black: Ryuusei no Gemini",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1189/134110.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1189/134110l.webp"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 4725,
+        "title": "Ga-Rei: Zero",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/9/83975.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/9/83975l.webp"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 570,
+        "title": "Jin-Rou",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1323/103343.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1323/103343l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 33352,
+        "title": "Violet Evergarden",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1795/95088.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1795/95088l.webp"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "6788",
+      "completed": "207012",
+      "on_hold": "3290",
+      "dropped": "1970",
+      "plan_to_watch": "53083"
+    },
+    "num_list_users": 272143
+  },
+  "mal_details_updated_at": "2026-11-10T01:37:46.541Z"
 }

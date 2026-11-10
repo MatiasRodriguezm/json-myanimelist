@@ -55,7 +55,22 @@
       "name": "Studio Pierrot"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/8/3552l.jpg",
+    "https://cdn.myanimelist.net/images/anime/2/19747l.jpg",
+    "https://cdn.myanimelist.net/images/anime/3/20349l.jpg",
+    "https://cdn.myanimelist.net/images/anime/9/21683l.jpg",
+    "https://cdn.myanimelist.net/images/anime/3/24168l.jpg",
+    "https://cdn.myanimelist.net/images/anime/12/29773l.jpg",
+    "https://cdn.myanimelist.net/images/anime/2/78197l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1957/107460l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1931/134422l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1489/140535l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1782/142056l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1541/147774l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1716/150353l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1811/155281l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/jEImh4O7mcYuwuAeryGZo3G6hg6.png",
   "tmdb_id": "30984",
@@ -3849,16 +3864,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1541/147774l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1541/147774l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1541/147774l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1541/147774l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1541/147774l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1541/147774l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1541/147774l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1541/147774l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1541/147774l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1541/147774l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/8/3552l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/8/3552l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/8/3552l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/8/3552l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/8/3552l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/8/3552l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/8/3552l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/8/3552l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/3552l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/8/3552l.jpg"
     }
   },
   "broadcast": {
@@ -3869,17 +3884,295 @@
     "timezone": "Asia/Tokyo",
     "string": "tuesday 18:00"
   },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
+  "rank": 752,
+  "popularity": 32,
+  "num_scoring_users": 1292564,
+  "nsfw": "white",
+  "created_at": "2005-11-13T16:20:41+00:00",
+  "updated_at": "2024-10-06T00:41:04+00:00",
+  "source": "manga",
+  "rating": "pg_13",
+  "background": "Bleach adapts the first 54 volumes of Tite Kubo's manga series of the same name. In addition, 4 anime-original arcs were broadcast in-between and during the adaptations of original arcs of the manga.",
+  "related_anime": [
+    {
+      "node": {
+        "id": 762,
+        "title": "Bleach: Memories in the Rain",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1022/129092.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1022/129092l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 834,
+        "title": "Bleach: The Sealed Sword Frenzy",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1/834.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1/834l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 1686,
+        "title": "Bleach Movie 1: Memories of Nobody",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1834/134488.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1834/134488l.webp"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 2889,
+        "title": "Bleach Movie 2: The DiamondDust Rebellion - Mou Hitotsu no Hyourinmaru",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1502/134489.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1502/134489l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 4835,
+        "title": "Bleach Movie 3: Fade to Black - Kimi no Na wo Yobu",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1633/134491.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1633/134491l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 8247,
+        "title": "Bleach Movie 4: Jigoku-hen",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1554/134492.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1554/134492l.webp"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 35118,
+        "title": "Bleach KaraBuri!: Gotei Juusan Yatai Daisakusen!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1826/137751.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1826/137751l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 38810,
+        "title": "Bleach: Gotei 13 Omake",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1260/97246.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1260/97246l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 39476,
+        "title": "Houkiboshi",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1001/99637.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1001/99637l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 41467,
+        "title": "Bleach: Sennen Kessen-hen",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1908/135431.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1908/135431l.jpg"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    },
+    {
+      "node": {
+        "id": 41468,
+        "title": "Burn the Witch",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1993/108967.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1993/108967l.jpg"
+        }
+      },
+      "relation_type": "alternative_setting",
+      "relation_type_formatted": "Alternative setting"
+    },
+    {
+      "node": {
+        "id": 54171,
+        "title": "Bleach: Shuku! Rukia Dakkan! Kagayaku! Shinigami Juuban Shoubu! Mitai Shinigami Doon to Misemasu Special",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1141/132608.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1141/132608l.jpg"
+        }
+      },
+      "relation_type": "summary",
+      "relation_type_formatted": "Summary"
+    },
+    {
+      "node": {
+        "id": 60048,
+        "title": "Bleach 20th PV",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1357/145984.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1357/145984l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 40748,
+        "title": "Jujutsu Kaisen",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1171/109222.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1171/109222l.webp"
+        }
+      },
+      "num_recommendations": 44
+    },
+    {
+      "node": {
+        "id": 392,
+        "title": "Yuu☆Yuu☆Hakusho",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1228/111372.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1228/111372l.webp"
+        }
+      },
+      "num_recommendations": 41
+    },
+    {
+      "node": {
+        "id": 1735,
+        "title": "Naruto: Shippuuden",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1565/111305.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1565/111305l.jpg"
+        }
+      },
+      "num_recommendations": 34
+    },
+    {
+      "node": {
+        "id": 20,
+        "title": "Naruto",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1141/142503.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1141/142503l.jpg"
+        }
+      },
+      "num_recommendations": 33
+    },
+    {
+      "node": {
+        "id": 1536,
+        "title": "Busou Renkin",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/6/75566.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/6/75566l.webp"
+        }
+      },
+      "num_recommendations": 21
+    },
+    {
+      "node": {
+        "id": 1482,
+        "title": "D.Gray-man",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/13/75194.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/13/75194l.jpg"
+        }
+      },
+      "num_recommendations": 20
+    },
+    {
+      "node": {
+        "id": 38000,
+        "title": "Kimetsu no Yaiba",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1286/99889.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1286/99889l.jpg"
+        }
+      },
+      "num_recommendations": 20
+    },
+    {
+      "node": {
+        "id": 3588,
+        "title": "Soul Eater",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1071/149486.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1071/149486l.webp"
+        }
+      },
+      "num_recommendations": 19
+    },
+    {
+      "node": {
+        "id": 34572,
+        "title": "Black Clover",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/2/88336.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/2/88336l.jpg"
+        }
+      },
+      "num_recommendations": 17
+    },
+    {
+      "node": {
+        "id": 1818,
+        "title": "Claymore",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/3/21834.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/3/21834l.jpg"
+        }
+      },
+      "num_recommendations": 15
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "387811",
+      "completed": "1182483",
+      "on_hold": "203842",
+      "dropped": "226196",
+      "plan_to_watch": "265345"
+    },
+    "num_list_users": 2265677
+  },
+  "mal_details_updated_at": "2026-11-10T01:27:50.683Z"
 }

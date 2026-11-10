@@ -51,11 +51,14 @@
       "name": "DLE"
     }
   ],
-  "pictures": [],
-  "backdrop_url": "https://image.tmdb.org/t/p/w1280/6xFW6WBy6dcn1OlNpGCsoAxyoYK.jpg",
-  "logo_url": "https://image.tmdb.org/t/p/w500/w2CVe5bTNx1JIMdxpO6Uj86qHs2.png",
-  "tmdb_id": "319455",
-  "tmdb_updated_at": "2026-11-08T21:26:47.200Z",
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1966/153554l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1899/155697l.jpg"
+  ],
+  "backdrop_url": null,
+  "logo_url": null,
+  "tmdb_id": null,
+  "tmdb_updated_at": "2026-11-06T22:04:57.781Z",
   "simkl_id": 3042350,
   "episodes_data": [
     {
@@ -434,16 +437,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1899/155697l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1899/155697l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1899/155697l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1899/155697l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1899/155697l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1899/155697l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1899/155697l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1899/155697l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1899/155697l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1899/155697l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1966/153554l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1966/153554l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1966/153554l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1966/153554l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1966/153554l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1966/153554l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1966/153554l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1966/153554l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1966/153554l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1966/153554l.jpg"
     }
   },
   "broadcast": {
@@ -454,17 +457,40 @@
     "timezone": "Asia/Tokyo",
     "string": "sunday 07:00"
   },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 20889,
+  "popularity": 20821,
+  "num_scoring_users": 18,
+  "nsfw": "white",
+  "created_at": "2025-11-13T07:08:51+00:00",
+  "updated_at": "2026-03-07T23:56:29+00:00",
+  "source": "manga",
+  "rating": "g",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 32571,
+        "title": "Shounen Ashibe: Go! Go! Goma-chan",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/4/79805.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/4/79805l.webp"
+        }
+      },
+      "relation_type": "parent_story",
+      "relation_type_formatted": "Parent story"
+    }
+  ],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": "48",
+      "completed": 0,
+      "on_hold": "14",
+      "dropped": "131",
+      "plan_to_watch": "182"
+    },
+    "num_list_users": 375
+  },
+  "mal_details_updated_at": "2026-11-10T01:34:18.518Z"
 }

@@ -48,7 +48,9 @@
       "name": "Kyoto Animation"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/9/89993l.jpg"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
@@ -255,17 +257,40 @@
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 282,
+  "popularity": 739,
+  "num_scoring_users": 227005,
+  "nsfw": "white",
+  "created_at": "2018-01-11T04:42:40+00:00",
+  "updated_at": "2024-10-04T16:04:24+00:00",
+  "source": "light_novel",
+  "rating": "pg_13",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 33352,
+        "title": "Violet Evergarden",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1795/95088.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1795/95088l.webp"
+        }
+      },
+      "relation_type": "parent_story",
+      "relation_type_formatted": "Parent story"
+    }
+  ],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": "5734",
+      "completed": "310967",
+      "on_hold": "1737",
+      "dropped": "788",
+      "plan_to_watch": "60456"
+    },
+    "num_list_users": 379682
+  },
+  "mal_details_updated_at": "2026-11-10T01:28:59.948Z"
 }

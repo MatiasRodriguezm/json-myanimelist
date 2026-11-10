@@ -59,7 +59,12 @@
       "name": "A-1 Pictures"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1139/124762l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1714/128615l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1670/130060l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1204/132001l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/bCzkRouaqLUSpSP5KHuObo8Fam5.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/z5Fo4IrwpqXhwqkWoGUStrR2OKl.png",
   "tmdb_id": "997317",
@@ -81,30 +86,99 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1670/130060l.webp",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1670/130060l.webp",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1670/130060l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1670/130060l.webp",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1670/130060l.webp",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1670/130060l.webp",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1670/130060l.webp",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1670/130060l.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1670/130060l.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1670/130060l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1139/124762l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1139/124762l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1139/124762l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1139/124762l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1139/124762l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1139/124762l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1139/124762l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1139/124762l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1139/124762l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1139/124762l.jpg"
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 67,
+  "popularity": 692,
+  "num_scoring_users": 230087,
+  "nsfw": "white",
+  "created_at": "2022-06-24T16:12:12+00:00",
+  "updated_at": "2026-05-10T00:23:31+00:00",
+  "source": "manga",
+  "rating": "pg_13",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 43608,
+        "title": "Kaguya-sama wa Kokurasetai: Ultra Romantic",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1160/122627.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1160/122627l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    },
+    {
+      "node": {
+        "id": 61903,
+        "title": "Kaguya-sama wa Kokurasetai: Otona e no Kaidan",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1112/150697.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1112/150697l.jpg"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 145,
+        "title": "Kareshi Kanojo no Jijou",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1222/108880.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1222/108880l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 42897,
+        "title": "Horimiya",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1695/111486.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1695/111486l.webp"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 56538,
+        "title": "Kimi ni Todoke 3rd Season",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1617/142448.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1617/142448l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "13462",
+      "completed": "298727",
+      "on_hold": "2813",
+      "dropped": "1123",
+      "plan_to_watch": "86708"
+    },
+    "num_list_users": 402833
+  },
+  "mal_details_updated_at": "2026-11-10T01:30:45.263Z"
 }

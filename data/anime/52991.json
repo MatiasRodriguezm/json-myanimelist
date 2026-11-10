@@ -62,7 +62,23 @@
       "name": "Madhouse"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1675/127908l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1218/134045l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1667/135908l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1875/136959l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1553/137254l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1015/138006l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1531/139077l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1036/140549l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1227/150425l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1514/150426l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1405/150427l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1954/150428l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1289/150429l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1211/150430l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1231/150431l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/rBOnrVlck7BIlGeWVlzYiZeg4l2.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/yQuc8JcBxRWXfRHrNUSM47gCXOo.png",
   "tmdb_id": "209867",
@@ -616,16 +632,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1015/138006l.webp",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1015/138006l.webp",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1015/138006l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1015/138006l.webp",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1015/138006l.webp",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1015/138006l.webp",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1015/138006l.webp",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1015/138006l.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1015/138006l.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1015/138006l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1675/127908l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1675/127908l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1675/127908l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1675/127908l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1675/127908l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1675/127908l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1675/127908l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1675/127908l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1675/127908l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1675/127908l.jpg"
     }
   },
   "broadcast": {
@@ -636,17 +652,187 @@
     "timezone": "Asia/Tokyo",
     "string": "friday 23:00"
   },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
+  "rank": 1,
+  "popularity": 95,
+  "num_scoring_users": 951926,
+  "nsfw": "white",
+  "created_at": "2022-09-09T10:01:30+00:00",
+  "updated_at": "2026-03-16T23:55:04+00:00",
+  "source": "manga",
+  "rating": "pg_13",
+  "background": "Sousou no Frieren was released on Blu-ray and DVD in seven volumes from January 24, 2024, to July 17, 2024. The series aired on Nippon TV's Friday Anime Night block.",
+  "related_anime": [
+    {
+      "node": {
+        "id": 56805,
+        "title": "Yuusha",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1947/138863.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1947/138863l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 56885,
+        "title": "Sousou no Frieren: ●● no Mahou",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1045/150038.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1045/150038l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 58313,
+        "title": "Haru (2024)",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1434/142159.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1434/142159l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 59978,
+        "title": "Sousou no Frieren 2nd Season",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1921/154528.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1921/154528l.jpg"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 33352,
+        "title": "Violet Evergarden",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1795/95088.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1795/95088l.webp"
+        }
+      },
+      "num_recommendations": 31
+    },
+    {
+      "node": {
+        "id": 41025,
+        "title": "Fumetsu no Anata e",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1880/118484.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1880/118484l.jpg"
+        }
+      },
+      "num_recommendations": 19
+    },
+    {
+      "node": {
+        "id": 35851,
+        "title": "Sayonara no Asa ni Yakusoku no Hana wo Kazarou",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/11/89556.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/11/89556l.jpg"
+        }
+      },
+      "num_recommendations": 15
+    },
+    {
+      "node": {
+        "id": 52701,
+        "title": "Dungeon Meshi",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1711/142478.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1711/142478l.jpg"
+        }
+      },
+      "num_recommendations": 14
+    },
+    {
+      "node": {
+        "id": 40571,
+        "title": "Majo no Tabitabi",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1802/108501.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1802/108501l.jpg"
+        }
+      },
+      "num_recommendations": 12
+    },
+    {
+      "node": {
+        "id": 39535,
+        "title": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1530/117776.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1530/117776l.jpg"
+        }
+      },
+      "num_recommendations": 10
+    },
+    {
+      "node": {
+        "id": 457,
+        "title": "Mushishi",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/2/73862.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/2/73862l.jpg"
+        }
+      },
+      "num_recommendations": 9
+    },
+    {
+      "node": {
+        "id": 486,
+        "title": "Kino no Tabi: The Beautiful World",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1763/95397.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1763/95397l.jpg"
+        }
+      },
+      "num_recommendations": 9
+    },
+    {
+      "node": {
+        "id": 2966,
+        "title": "Ookami to Koushinryou",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/5/59401.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/5/59401l.jpg"
+        }
+      },
+      "num_recommendations": 7
+    },
+    {
+      "node": {
+        "id": 59459,
+        "title": "Silent Witch: Chinmoku no Majo no Kakushigoto",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1669/149732.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1669/149732l.jpg"
+        }
+      },
+      "num_recommendations": 6
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "242429",
+      "completed": "1021338",
+      "on_hold": "31950",
+      "dropped": "26083",
+      "plan_to_watch": "219812"
+    },
+    "num_list_users": 1541612
+  },
+  "mal_details_updated_at": "2026-11-10T01:25:14.328Z"
 }

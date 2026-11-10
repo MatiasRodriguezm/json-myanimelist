@@ -59,7 +59,13 @@
       "name": "CloverWorks"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1733/93120l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1111/93561l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1453/96823l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1903/96943l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1830/118780l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/u7Q2C10SQlhPoKm7ersFL5f991q.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/o4dhM6xk4Ux7Z3FqtSiZdyeRsyC.png",
   "tmdb_id": "83097",
@@ -202,16 +208,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1830/118780l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1830/118780l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1830/118780l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1830/118780l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1830/118780l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1830/118780l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1830/118780l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1830/118780l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1830/118780l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1830/118780l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1733/93120l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1733/93120l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1733/93120l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1733/93120l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1733/93120l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1733/93120l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1733/93120l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1733/93120l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1733/93120l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1733/93120l.jpg"
     }
   },
   "broadcast": {
@@ -222,17 +228,163 @@
     "timezone": "Asia/Tokyo",
     "string": "friday 01:05"
   },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 188,
+  "popularity": 38,
+  "num_scoring_users": 1419667,
+  "nsfw": "white",
+  "created_at": "2018-04-24T02:20:12+00:00",
+  "updated_at": "2024-11-28T12:23:27+00:00",
+  "source": "manga",
+  "rating": "r",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 39617,
+        "title": "Yakusoku no Neverland 2nd Season",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1815/110626.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1815/110626l.jpg"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    },
+    {
+      "node": {
+        "id": 47616,
+        "title": "Yakusoku no Neverland: Michishirube",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1097/111813.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1097/111813l.webp"
+        }
+      },
+      "relation_type": "summary",
+      "relation_type_formatted": "Summary"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 16498,
+        "title": "Shingeki no Kyojin",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/47347.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/47347l.jpg"
+        }
+      },
+      "num_recommendations": 52
+    },
+    {
+      "node": {
+        "id": 34599,
+        "title": "Made in Abyss",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/6/86733.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/6/86733l.jpg"
+        }
+      },
+      "num_recommendations": 47
+    },
+    {
+      "node": {
+        "id": 1535,
+        "title": "Death Note",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1079/138100.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1079/138100l.jpg"
+        }
+      },
+      "num_recommendations": 41
+    },
+    {
+      "node": {
+        "id": 43439,
+        "title": "Shadows House",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1424/113342.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1424/113342l.jpg"
+        }
+      },
+      "num_recommendations": 24
+    },
+    {
+      "node": {
+        "id": 31043,
+        "title": "Boku dake ga Inai Machi",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/77957.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/77957l.jpg"
+        }
+      },
+      "num_recommendations": 21
+    },
+    {
+      "node": {
+        "id": 13125,
+        "title": "Shinsekai yori",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1549/136389.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1549/136389l.jpg"
+        }
+      },
+      "num_recommendations": 20
+    },
+    {
+      "node": {
+        "id": 9756,
+        "title": "Mahou Shoujo Madoka☆Magica",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/11/55225.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/11/55225l.jpg"
+        }
+      },
+      "num_recommendations": 9
+    },
+    {
+      "node": {
+        "id": 35849,
+        "title": "Darling in the FranXX",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1614/90408.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1614/90408l.webp"
+        }
+      },
+      "num_recommendations": 8
+    },
+    {
+      "node": {
+        "id": 24765,
+        "title": "Gakkougurashi!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1798/91548.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1798/91548l.webp"
+        }
+      },
+      "num_recommendations": 8
+    },
+    {
+      "node": {
+        "id": 38000,
+        "title": "Kimetsu no Yaiba",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1286/99889.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1286/99889l.jpg"
+        }
+      },
+      "num_recommendations": 8
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "103350",
+      "completed": "1769812",
+      "on_hold": "29640",
+      "dropped": "36266",
+      "plan_to_watch": "252689"
+    },
+    "num_list_users": 2191757
+  },
+  "mal_details_updated_at": "2026-11-10T01:29:03.510Z"
 }

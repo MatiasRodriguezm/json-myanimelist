@@ -67,7 +67,11 @@
       "name": "Sunrise"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/3/7803l.jpg",
+    "https://cdn.myanimelist.net/images/anime/4/8522l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1897/139500l.jpg"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
@@ -2171,30 +2175,53 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1897/139500l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1897/139500l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1897/139500l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1897/139500l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1897/139500l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1897/139500l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1897/139500l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1897/139500l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1897/139500l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1897/139500l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/3/7803l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/3/7803l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/7803l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/3/7803l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/7803l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/3/7803l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/3/7803l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/3/7803l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/7803l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/3/7803l.jpg"
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
+  "rank": 658,
+  "popularity": 3305,
+  "num_scoring_users": 32042,
+  "nsfw": "white",
+  "created_at": "2007-08-09T12:10:59+00:00",
+  "updated_at": "2026-08-16T15:29:37+00:00",
+  "source": "manga",
+  "rating": "pg_13",
+  "background": "Gintama: Nanigoto mo Saiyo ga Kanjin nano de Tasho Senobisuru Kurai ga Choudoyoi was featured at the 2005 Jump Festa Anime Tour.",
+  "related_anime": [
+    {
+      "node": {
+        "id": 918,
+        "title": "Gintama",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/73274.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/73274l.jpg"
+        }
+      },
+      "relation_type": "parent_story",
+      "relation_type_formatted": "Parent story"
+    }
+  ],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": "1211",
+      "completed": "47024",
+      "on_hold": "547",
+      "dropped": "493",
+      "plan_to_watch": "12506"
+    },
+    "num_list_users": 61781
+  },
+  "mal_details_updated_at": "2026-11-10T01:28:23.533Z"
 }

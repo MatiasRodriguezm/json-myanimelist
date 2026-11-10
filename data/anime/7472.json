@@ -71,7 +71,11 @@
       "name": "Sunrise"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/6/17902l.jpg",
+    "https://cdn.myanimelist.net/images/anime/4/28803l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1214/94252l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/3gVl0IvJMbhOnAvH9V0Q1Y1HnXE.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/2GFz7E2Z1UWiWqOv2YGIbIaAWrH.png",
   "tmdb_id": "57041",
@@ -125,30 +129,88 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/4/28803l.webp",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/4/28803l.webp",
-      "image_url": "https://cdn.myanimelist.net/images/anime/4/28803l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/4/28803l.webp",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/28803l.webp",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/4/28803l.webp",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/4/28803l.webp",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/4/28803l.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/28803l.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/4/28803l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/6/17902l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/6/17902l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/6/17902l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/6/17902l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/6/17902l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/6/17902l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/6/17902l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/6/17902l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/6/17902l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/6/17902l.jpg"
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
+  "rank": 152,
+  "popularity": 1578,
+  "num_scoring_users": 103470,
+  "nsfw": "white",
+  "created_at": "2009-11-08T16:34:48+00:00",
+  "updated_at": "2023-05-05T17:13:02+00:00",
+  "source": "manga",
+  "rating": "r",
+  "background": "Gintama Movie 1: Shinyaku Benizakura-hen is a remake of episodes 58-61 of Gintama.",
+  "related_anime": [
+    {
+      "node": {
+        "id": 918,
+        "title": "Gintama",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/73274.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/73274l.jpg"
+        }
+      },
+      "relation_type": "alternative_version",
+      "relation_type_formatted": "Alternative version"
+    },
+    {
+      "node": {
+        "id": 9735,
+        "title": "Gintama: Shinyaku Benizakura-hen",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/12/26966.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/12/26966l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 38249,
+        "title": "Saiki Kusuo no Ψ-nan: Kanketsu-hen",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1159/95661.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1159/95661l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 2107,
+        "title": "One Piece Movie 08: Episode of Alabasta - Sabaku no Oujo to Kaizoku-tachi",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/13/21760.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/13/21760l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "3615",
+      "completed": "137681",
+      "on_hold": "1261",
+      "dropped": "1099",
+      "plan_to_watch": "36375"
+    },
+    "num_list_users": 180031
+  },
+  "mal_details_updated_at": "2026-11-10T01:37:47.319Z"
 }

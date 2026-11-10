@@ -29,8 +29,8 @@
   "num_episodes": null,
   "score": 8.89,
   "mean": 8.89,
-  "numListUsers": 175257,
-  "num_list_users": 175257,
+  "numListUsers": 175274,
+  "num_list_users": 175274,
   "genres": [
     {
       "id": 1,
@@ -51,7 +51,15 @@
       "name": "Studio Pierrot"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1636/150908l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1424/150913l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1717/154518l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1602/158830l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1857/160133l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1954/160282l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1953/160924l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/qu9epTZh29fGUkY7ZYc9PVsv0Ig.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/j9ZZ7WV5pwLLXbbebyGdMUxbqrc.png",
   "tmdb_id": "73223",
@@ -154,16 +162,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1857/160133l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1857/160133l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1857/160133l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1857/160133l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1857/160133l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1857/160133l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1857/160133l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1857/160133l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1857/160133l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1857/160133l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1636/150908l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1636/150908l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1636/150908l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1636/150908l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1636/150908l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1636/150908l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1636/150908l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1636/150908l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1636/150908l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1636/150908l.jpg"
     }
   },
   "broadcast": {
@@ -174,17 +182,40 @@
     "timezone": "Asia/Tokyo",
     "string": "saturday 23:00"
   },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 26,
+  "popularity": 1614,
+  "num_scoring_users": 20779,
+  "nsfw": "white",
+  "created_at": "2025-07-03T09:02:46+00:00",
+  "updated_at": "2026-09-27T22:53:38+00:00",
+  "source": "manga",
+  "rating": "pg_13",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 34572,
+        "title": "Black Clover",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/2/88336.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/2/88336l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    }
+  ],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": "84442",
+      "completed": "23",
+      "on_hold": "1546",
+      "dropped": "504",
+      "plan_to_watch": "88748"
+    },
+    "num_list_users": 175263
+  },
+  "mal_details_updated_at": "2026-11-10T01:32:54.806Z"
 }

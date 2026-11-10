@@ -63,7 +63,12 @@
       "name": "Cloud Art"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1000/153727l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1581/159362l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1754/159363l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1983/159660l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/3GrgC6X96kCzwQzeWhOcdn3Ol66.jpg",
   "logo_url": null,
   "tmdb_id": "332444",
@@ -296,30 +301,53 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1754/159363l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1754/159363l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1754/159363l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1754/159363l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1754/159363l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1754/159363l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1754/159363l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1754/159363l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1754/159363l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1754/159363l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1000/153727l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1000/153727l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1000/153727l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1000/153727l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1000/153727l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1000/153727l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1000/153727l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1000/153727l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1000/153727l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1000/153727l.jpg"
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
+  "rank": 22960,
+  "popularity": 15597,
+  "num_scoring_users": 99,
+  "nsfw": "white",
+  "created_at": "2025-11-21T18:34:41+00:00",
+  "updated_at": "2026-10-19T20:00:02+00:00",
+  "source": "web_novel",
+  "rating": "pg_13",
+  "background": "Episodes 79-104 of Zhu Xian. \n\nAdaptation of Xiao Ding's (萧鼎) web novel of the same title.",
+  "related_anime": [
+    {
+      "node": {
+        "id": 61784,
+        "title": "Zhu Xian 3rd Season",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1953/150409.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1953/150409l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    }
+  ],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": "372",
+      "completed": 0,
+      "on_hold": "31",
+      "dropped": "55",
+      "plan_to_watch": "560"
+    },
+    "num_list_users": 1018
+  },
+  "mal_details_updated_at": "2026-11-10T01:34:21.889Z"
 }

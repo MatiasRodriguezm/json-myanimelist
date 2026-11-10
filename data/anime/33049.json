@@ -53,7 +53,14 @@
       "name": "ufotable"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1829/92753l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1599/93798l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1946/94988l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1946/97565l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1974/98158l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1065/117105l.jpg"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
@@ -225,42 +232,144 @@
   ],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1974/98158.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1974/98158l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1974/98158.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1974/98158l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1974/98158.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1974/98158l.webp",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1974/98158.webp",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1974/98158l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1974/98158.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1974/98158l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1974/98158.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1974/98158l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1974/98158l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1974/98158l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1974/98158l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1974/98158l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1974/98158l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1974/98158l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1974/98158l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1974/98158l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1974/98158l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1974/98158l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1829/92753l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1829/92753l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1829/92753l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1829/92753l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1829/92753l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1829/92753l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1829/92753l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1829/92753l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1829/92753l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1829/92753l.jpg"
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
+  "rank": 191,
+  "popularity": 611,
+  "num_scoring_users": 267112,
+  "nsfw": "white",
+  "created_at": "2016-03-27T06:59:30+00:00",
+  "updated_at": "2024-10-02T16:16:06+00:00",
+  "source": "visual_novel",
+  "rating": "r",
+  "background": "The Fate/Stay Night: Heaven's Feel movie trilogy is based on the third route of Type-Moon's visual novel, Fate/Stay Night. Originally released in 2004 for Microsoft Windows, Fate/Stay Night later received an enhanced port featuring full voice acting, new soundtracks and bonus content―titled Fate/Stay Night: Réalta Nua―which was released for the PS2, PS Vita as well as iOS and Android systems.",
+  "related_anime": [
+    {
+      "node": {
+        "id": 25537,
+        "title": "Fate/stay night Movie: Heaven's Feel - I. Presage Flower",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1274/102213.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1274/102213l.webp"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    },
+    {
+      "node": {
+        "id": 33050,
+        "title": "Fate/stay night Movie: Heaven's Feel - III. Spring Song",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1142/112957.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1142/112957l.jpg"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 3782,
+        "title": "Kara no Kyoukai Movie 2: Satsujin Kousatsu (Zen)",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/3/21737.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/3/21737l.webp"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 3783,
+        "title": "Kara no Kyoukai Movie 3: Tsuukaku Zanryuu",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/4/21735.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/4/21735l.jpg"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 4789,
+        "title": "ef: A Tale of Melodies.",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1675/131993.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1675/131993l.webp"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 10087,
+        "title": "Fate/Zero",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1887/117644.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1887/117644l.webp"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 39565,
+        "title": "Boku no Hero Academia the Movie 2: Heroes:Rising",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1019/103292.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1019/103292l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 3785,
+        "title": "Evangelion Movie 3: Q",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/9/43201.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/9/43201l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "10328",
+      "completed": "340190",
+      "on_hold": "2523",
+      "dropped": "1444",
+      "plan_to_watch": "94538"
+    },
+    "num_list_users": 449023
+  },
+  "mal_details_updated_at": "2026-11-10T01:28:41.464Z"
 }

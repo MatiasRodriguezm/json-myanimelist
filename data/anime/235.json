@@ -31,8 +31,8 @@
   "num_episodes": null,
   "score": 8.18,
   "mean": 8.18,
-  "numListUsers": 383394,
-  "num_list_users": 383394,
+  "numListUsers": 383396,
+  "num_list_users": 383396,
   "genres": [
     {
       "id": 2,
@@ -61,7 +61,17 @@
       "name": "TMS Entertainment"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/5/22905l.jpg",
+    "https://cdn.myanimelist.net/images/anime/5/22906l.jpg",
+    "https://cdn.myanimelist.net/images/anime/4/24371l.jpg",
+    "https://cdn.myanimelist.net/images/anime/3/24372l.jpg",
+    "https://cdn.myanimelist.net/images/anime/2/44233l.jpg",
+    "https://cdn.myanimelist.net/images/anime/7/75199l.jpg",
+    "https://cdn.myanimelist.net/images/anime/3/76258l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1656/91191l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1593/138525l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/z67lpMtm8YGykJO4p89meuNMvj8.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/vX0VEwZViadujTUGcL0EU5orV8p.png",
   "tmdb_id": "30983",
@@ -12373,28 +12383,28 @@
   ],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/7/75199.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/75199l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/7/75199.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/7/75199l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/75199.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/75199l.webp",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/7/75199.webp",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/7/75199l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/7/75199.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/7/75199l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/7/75199.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/7/75199l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/7/75199l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/7/75199l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/7/75199l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/7/75199l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/75199l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/7/75199l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/7/75199l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/7/75199l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/75199l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/7/75199l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/5/22905l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/5/22905l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/5/22905l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/5/22905l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/5/22905l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/5/22905l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/5/22905l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/5/22905l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/22905l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/5/22905l.jpg"
     }
   },
   "broadcast": {
@@ -12405,17 +12415,1111 @@
     "timezone": "Asia/Tokyo",
     "string": "saturday 18:00"
   },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
+  "rank": 495,
+  "popularity": 735,
+  "num_scoring_users": 172031,
+  "nsfw": "white",
+  "created_at": "2005-11-13T02:32:28+00:00",
+  "updated_at": "2026-09-05T21:40:51+00:00",
+  "source": "manga",
+  "rating": "pg_13",
+  "background": "In 2003, FUNimation licensed the first 104 episodes of the series for North American production under the name Case Closed. They later decided to stop pursuing more episodes past episode 123 due to poor sales. In 2014, Crunchyroll obtained a license to stream simulcast episodes of Detective Conan on their website starting with episode 754. \n\nWinner of the Animation Award (DIVE Award) of the 2010 Japanese Movie Critics Awards.",
+  "related_anime": [
+    {
+      "node": {
+        "id": 779,
+        "title": "Meitantei Conan Movie 01: Tokei Jikake no Matenrou",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/3/77131.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/3/77131l.webp"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 780,
+        "title": "Meitantei Conan Movie 02: 14-banme no Target",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1900/94316.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1900/94316l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 781,
+        "title": "Meitantei Conan Movie 03: Seikimatsu no Majutsushi",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1831/94317.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1831/94317l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 1363,
+        "title": "Meitantei Conan Movie 04: Hitomi no Naka no Ansatsusha",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1196/94319.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1196/94319l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 1364,
+        "title": "Meitantei Conan Movie 05: Tengoku e no Countdown",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1144/92654.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1144/92654l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 1365,
+        "title": "Meitantei Conan Movie 06: Baker Street no Bourei",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1400/94320.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1400/94320l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 1366,
+        "title": "Meitantei Conan Movie 07: Meikyuu no Crossroad",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/20984.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/20984l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 1367,
+        "title": "Meitantei Conan Movie 08: Ginyoku no Magician",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/2/20982.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/2/20982l.webp"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 1368,
+        "title": "Meitantei Conan OVA 06: Kieta Daiya wo Oe! Conan & Heiji VS Kid!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/31137.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/10/31137l.webp"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 1369,
+        "title": "Meitantei Conan OVA 01: Conan vs. Kid vs. Yaiba - Houtou Soudatsu Daikessen!!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1699/108610.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1699/108610l.webp"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 1505,
+        "title": "Meitantei Conan Movie 09: Suihei Senjou no Strategy",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/8/20983.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/8/20983l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 1506,
+        "title": "Meitantei Conan Movie 10: Tantei-tachi no Requiem",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1919/94322.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1919/94322l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 2171,
+        "title": "Meitantei Conan Movie 11: Konpeki no Jolly Roger",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1765/94323.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1765/94323l.webp"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 2512,
+        "title": "Meitantei Conan OVA 02: 16-nin no Yougisha!?",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/71317.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/10/71317l.webp"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 2513,
+        "title": "Meitantei Conan OVA 03: Conan to Heiji to Kieta Shounen",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/13/72319.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/13/72319l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 2514,
+        "title": "Meitantei Conan OVA 04: Conan to Kid to Crystal Mother",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/2/31141.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/2/31141l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 2515,
+        "title": "Meitantei Conan OVA 05: Target wa Kogorou!! Shounen Tanteidan Maruhi Report",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/31143.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/31143l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 2597,
+        "title": "Meitantei Conan OVA 07: Agasa kara no Chousenjou! Agasa vs Conan & Shounen Tanteidan",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/12/31145.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/12/31145l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 4447,
+        "title": "Meitantei Conan Movie 12: Senritsu no Full Score",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/6/22766.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/6/22766l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 5348,
+        "title": "Meitantei Conan Magic File 2: Kudou Shinichi Nazo no Kabe to Kuro Lab Jiken",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1509/124723.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1509/124723l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 5460,
+        "title": "Meitantei Conan Movie 13: Shikkoku no Chaser",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/2/22558.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/2/22558l.webp"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 5578,
+        "title": "Aoyama Goushou Tanpenshuu",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/2/28783.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/2/28783l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 6115,
+        "title": "Lupin III vs. Meitantei Conan",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1849/134190.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1849/134190l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 6198,
+        "title": "Meitantei Conan OVA 08: Joshikousei Tantei Suzuki Sonoko no Jikenbo",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1982/111465.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1982/111465l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 6231,
+        "title": "Meitantei Conan Magic File 3: Shinichi to Ran Mahjong Pai to Tanabata no Omoide",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/9/37977.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/9/37977l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 6438,
+        "title": "Meitantei Conan OVA 09: 10-nengo no Stranger",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/5/14746.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/5/14746l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 6467,
+        "title": "Meitantei Conan Movie 14: Tenkuu no Lost Ship",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/7/22312.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/7/22312l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 7303,
+        "title": "Meitantei Conan: Kuro no Soshiki to Taiketsu no Rekishi",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1309/121762.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1309/121762l.jpg"
+        }
+      },
+      "relation_type": "summary",
+      "relation_type_formatted": "Summary"
+    },
+    {
+      "node": {
+        "id": 8310,
+        "title": "Magic Kaito",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1946/149930.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1946/149930l.jpg"
+        }
+      },
+      "relation_type": "alternative_setting",
+      "relation_type_formatted": "Alternative setting"
+    },
+    {
+      "node": {
+        "id": 8331,
+        "title": "Meitantei Conan Magic File 4: Osaka Okonomiyaki Odyssey",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/2/21912.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/2/21912l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 8609,
+        "title": "Meitantei Conan OVA 10: Kid in Trap Island",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/7/23698.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/7/23698l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 9785,
+        "title": "Meitantei Conan: Conan vs. Kid - Shark & Jewel",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1864/138513.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1864/138513l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 9786,
+        "title": "Meitantei Conan: Conan vs. Kid - Shikkoku no Sniper",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/13/27102.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/13/27102l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 9963,
+        "title": "Meitantei Conan Movie 15: Chinmoku no Quarter",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/9/32035.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/9/32035l.webp"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 10531,
+        "title": "Meitantei Conan Magic File 5: Niigata - Tokyo Omiyage Capriccio",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/6/28938.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/6/28938l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 10703,
+        "title": "Meitantei Conan OVA 11: London kara no Maru Hi Shirei",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/11/29489.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/11/29489l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 10766,
+        "title": "Meitantei Conan vs. Wooo",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/7/29671.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/7/29671l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 12117,
+        "title": "Meitantei Conan Movie 16: 11-ninme no Striker",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/8/37511.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/8/37511l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 13837,
+        "title": "Meitantei Conan Bonus File: Fantasista no Hana",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/13/38385.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/13/38385l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 13839,
+        "title": "Meitantei Conan OVA 12: Excalibur no Kiseki",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/5/59513.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/5/59513l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 14735,
+        "title": "Meitantei Conan Movie 17: Zekkai no Private Eye",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/4/47419.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/4/47419l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 18429,
+        "title": "Lupin III vs. Meitantei Conan: The Movie",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/4/51663.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/4/51663l.jpg"
+        }
+      },
+      "relation_type": "character",
+      "relation_type_formatted": "Character"
+    },
+    {
+      "node": {
+        "id": 21419,
+        "title": "Meitantei Conan Movie 18: Ijigen no Sniper",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/11/60289.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/11/60289l.webp"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 21867,
+        "title": "Edogawa Conan Shissou Jiken: Shijou Saiaku no Futsukakan",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1533/133822.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1533/133822l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 24169,
+        "title": "Meitantei Conan: Toubousha Mouri Kogorou",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1183/152900.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1183/152900l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 25517,
+        "title": "Magic Kaito 1412",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/3/67807.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/3/67807l.jpg"
+        }
+      },
+      "relation_type": "alternative_setting",
+      "relation_type_formatted": "Alternative setting"
+    },
+    {
+      "node": {
+        "id": 28479,
+        "title": "Meitantei Conan Movie 19: Gouka no Himawari",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/5/73618.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/5/73618l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 32005,
+        "title": "Meitantei Conan Movie 20: Junkoku no Nightmare",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/78894.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/78894l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 33145,
+        "title": "Meitantei Conan: Nazo no Suisei Kaijuu wo Oe!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/2/81490.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/2/81490l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 33148,
+        "title": "Meitantei Conan: Jomon Taiken Yatte Miyou!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/13/81492.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/13/81492l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 33149,
+        "title": "Meitantei Conan: Internet Nazo no Mail Jiken",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/11/85629.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/11/85629l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 33150,
+        "title": "Meitantei Conan: Pyramid kara no Chousenjou!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1876/152181.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1876/152181l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 33151,
+        "title": "Meitantei Conan: Kodai Kyouryuu no Nazo ni Semare!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/79627.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/79627l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 33152,
+        "title": "Meitantei Conan: Machi Tanken! Doubutsu Mark wo Get Seyo!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/12/79628.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/12/79628l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 34036,
+        "title": "Meitantei Conan: Episode One - Chiisaku Natta Meitantei",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/5/81968.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/5/81968l.jpg"
+        }
+      },
+      "relation_type": "alternative_version",
+      "relation_type_formatted": "Alternative version"
+    },
+    {
+      "node": {
+        "id": 34430,
+        "title": "Meitantei Conan Movie 21: Karakurenai no Love Letter",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/2/83919.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/2/83919l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 35798,
+        "title": "Meitantei Conan Movie 22: Zero no Shikkounin",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/12/90104.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/12/90104l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 36269,
+        "title": "Meitantei Conan: Bouhan Guide",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/7/87607.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/7/87607l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 36760,
+        "title": "Meitantei Conan: Hoshikage no Majutsushi",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/3/88889.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/3/88889l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 38770,
+        "title": "Meitantei Conan Movie 23: Konjou no Fist",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1010/98309.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1010/98309l.webp"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 39764,
+        "title": "Meitantei Conan Movie 24: Hiiro no Dangan",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1306/112616.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1306/112616l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 40348,
+        "title": "Shounen Sunday CM: Meitantei Conan",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1661/102859.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1661/102859l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 42476,
+        "title": "Meitantei Conan: Shakunetsu no Ginga Tetsudou",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1318/108547.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1318/108547l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 47413,
+        "title": "Meitantei Conan: Hiiro no Fuzai Shoumei",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1234/117118.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1234/117118l.jpg"
+        }
+      },
+      "relation_type": "summary",
+      "relation_type_formatted": "Summary"
+    },
+    {
+      "node": {
+        "id": 49320,
+        "title": "Meitantei Conan Movie 25: Halloween no Hanayome",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1744/120789.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1744/120789l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 49611,
+        "title": "Meitantei Conan: Necchuushou no Nazo wo Toke!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1761/117190.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1761/117190l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 50010,
+        "title": "Meitantei Conan: Hannin no Hanzawa-san",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1560/125527.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1560/125527l.webp"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 50012,
+        "title": "Meitantei Conan: Zero no Tea Time",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1445/121082.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1445/121082l.webp"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 51782,
+        "title": "Meitantei Conan: Honchou no Keiji Koi Monogatari - Kekkon Zenya",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1774/123682.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1774/123682l.webp"
+        }
+      },
+      "relation_type": "summary",
+      "relation_type_formatted": "Summary"
+    },
+    {
+      "node": {
+        "id": 53540,
+        "title": "Meitantei Conan Movie 26: Kurogane no Submarine",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1138/133101.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1138/133101l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 53780,
+        "title": "Meitantei Conan: Haibara Ai Monogatari - Kurogane no Mystery Train",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1285/131672.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1285/131672l.jpg"
+        }
+      },
+      "relation_type": "summary",
+      "relation_type_formatted": "Summary"
+    },
+    {
+      "node": {
+        "id": 53976,
+        "title": "Meitantei Conan: Tantei-tachi no Starry Night",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1409/132067.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1409/132067l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 54864,
+        "title": "Meitantei Conan: Keisatsu Gakkou-hen Wild Police Story - Case. Furuya Rei",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1039/140414.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1039/140414l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 55134,
+        "title": "Meitantei Conan: TDK Video Head Cleaner",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1241/135597.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1241/135597l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 56785,
+        "title": "Meitantei Conan Movie 27: 100-man Dollar no Michishirube",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1888/141209.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1888/141209l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 57441,
+        "title": "Meitantei Conan vs. Kaitou Kid",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1411/140221.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1411/140221l.jpg"
+        }
+      },
+      "relation_type": "summary",
+      "relation_type_formatted": "Summary"
+    },
+    {
+      "node": {
+        "id": 60445,
+        "title": "Meitantei Conan Movie 28: Sekigan no Flashback",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1036/148145.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1036/148145l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 62061,
+        "title": "Meitantei Conan: Senkou no Payload",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1164/151063.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1164/151063l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 62387,
+        "title": "Meitantei Conan Movie 29: Highway no Datenshi",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1788/155583.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1788/155583l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 64359,
+        "title": "Meitantei Conan: Hanamaru na Answer",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1677/158377.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1677/158377l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 64913,
+        "title": "Meitantei Conan: 30-gou Satsujin Jiken",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1008/160011.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1008/160011l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 1535,
+        "title": "Death Note",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1079/138100.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1079/138100l.jpg"
+        }
+      },
+      "num_recommendations": 18
+    },
+    {
+      "node": {
+        "id": 31043,
+        "title": "Boku dake ga Inai Machi",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/77957.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/77957l.jpg"
+        }
+      },
+      "num_recommendations": 14
+    },
+    {
+      "node": {
+        "id": 2076,
+        "title": "Kindaichi Shounen no Jikenbo",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1702/120440.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1702/120440l.jpg"
+        }
+      },
+      "num_recommendations": 14
+    },
+    {
+      "node": {
+        "id": 407,
+        "title": "Tantei Gakuen Q",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1/407.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1/407l.jpg"
+        }
+      },
+      "num_recommendations": 11
+    },
+    {
+      "node": {
+        "id": 8425,
+        "title": "Gosick",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/11/27906.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/11/27906l.webp"
+        }
+      },
+      "num_recommendations": 10
+    },
+    {
+      "node": {
+        "id": 341,
+        "title": "Spiral: Suiri no Kizuna",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1771/92118.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1771/92118l.jpg"
+        }
+      },
+      "num_recommendations": 9
+    },
+    {
+      "node": {
+        "id": 12189,
+        "title": "Hyouka",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/13/50521.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/13/50521l.jpg"
+        }
+      },
+      "num_recommendations": 7
+    },
+    {
+      "node": {
+        "id": 244,
+        "title": "Agatha Christie no Meitantei Poirot to Marple",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/6/3149.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/6/3149l.jpg"
+        }
+      },
+      "num_recommendations": 5
+    },
+    {
+      "node": {
+        "id": 2985,
+        "title": "Majin Tantei Nougami Neuro",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/12/20930.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/12/20930l.jpg"
+        }
+      },
+      "num_recommendations": 4
+    },
+    {
+      "node": {
+        "id": 10568,
+        "title": "Kamisama no Memochou",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/13/75202.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/13/75202l.webp"
+        }
+      },
+      "num_recommendations": 3
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "180880",
+      "completed": "3",
+      "on_hold": "78866",
+      "dropped": "51179",
+      "plan_to_watch": "72357"
+    },
+    "num_list_users": 383285
+  },
+  "mal_details_updated_at": "2026-11-10T01:27:37.273Z"
 }

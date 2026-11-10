@@ -71,7 +71,9 @@
       "name": "Bandai Namco Pictures"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/12/89603l.jpg"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
@@ -364,17 +366,75 @@
     "timezone": "Asia/Tokyo",
     "string": "monday 01:35"
   },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 40,
+  "popularity": 1207,
+  "num_scoring_users": 118253,
+  "nsfw": "white",
+  "created_at": "2017-11-20T05:11:48+00:00",
+  "updated_at": "2024-11-11T01:57:03+00:00",
+  "source": "manga",
+  "rating": "pg_13",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 35843,
+        "title": "Gintama. Porori-hen",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/11/88325.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/11/88325l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    },
+    {
+      "node": {
+        "id": 37491,
+        "title": "Gintama. Shirogane no Tamashii-hen - Kouhan-sen",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1776/96566.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1776/96566l.webp"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 21,
+        "title": "One Piece",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1244/138851.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1244/138851l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 5114,
+        "title": "Fullmetal Alchemist: Brotherhood",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1208/94745.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1208/94745l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "13473",
+      "completed": "151695",
+      "on_hold": "3460",
+      "dropped": "2351",
+      "plan_to_watch": "71507"
+    },
+    "num_list_users": 242486
+  },
+  "mal_details_updated_at": "2026-11-10T01:28:57.119Z"
 }

@@ -75,7 +75,18 @@
       "name": "Sunrise"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/12/7239l.jpg",
+    "https://cdn.myanimelist.net/images/anime/11/8307l.jpg",
+    "https://cdn.myanimelist.net/images/anime/7/8438l.jpg",
+    "https://cdn.myanimelist.net/images/anime/2/22442l.jpg",
+    "https://cdn.myanimelist.net/images/anime/10/22443l.jpg",
+    "https://cdn.myanimelist.net/images/anime/9/60557l.jpg",
+    "https://cdn.myanimelist.net/images/anime/10/73274l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1694/95903l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1696/109498l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1631/110791l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/3gVl0IvJMbhOnAvH9V0Q1Y1HnXE.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/2GFz7E2Z1UWiWqOv2YGIbIaAWrH.png",
   "tmdb_id": "57041",
@@ -2179,16 +2190,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/10/73274l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/10/73274l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/10/73274l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/10/73274l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/73274l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/10/73274l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/10/73274l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/10/73274l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/73274l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/10/73274l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/12/7239l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/12/7239l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/7239l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/12/7239l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/7239l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/12/7239l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/12/7239l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/12/7239l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/7239l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/12/7239l.jpg"
     }
   },
   "broadcast": {
@@ -2199,17 +2210,307 @@
     "timezone": "Asia/Tokyo",
     "string": "thursday 18:00"
   },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
+  "rank": 20,
+  "popularity": 148,
+  "num_scoring_users": 430549,
+  "nsfw": "white",
+  "created_at": "2006-04-20T15:03:52+00:00",
+  "updated_at": "2026-08-22T21:40:22+00:00",
+  "source": "manga",
+  "rating": "pg_13",
+  "background": "Gintama adapts chapters 1-292 of original manga.\n\nThe series received high-definition reruns of older episodes by TV Tokyo from April 5, 2010, to March 28, 2011, under the name Yorinuki Gintama-san, which included 51 selected episodes as well as four new opening and ending songs.",
+  "related_anime": [
+    {
+      "node": {
+        "id": 2951,
+        "title": "Gintama: Nanigoto mo Saisho ga Kanjin nanode Tashou Senobisuru Kurai ga Choudoyoi",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1897/139500.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1897/139500l.webp"
+        }
+      },
+      "relation_type": "alternative_version",
+      "relation_type_formatted": "Alternative version"
+    },
+    {
+      "node": {
+        "id": 6945,
+        "title": "Gintama: Shiroyasha Koutan",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/6/16161.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/6/16161l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 7472,
+        "title": "Gintama Movie 1: Shinyaku Benizakura-hen",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/4/28803.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/4/28803l.webp"
+        }
+      },
+      "relation_type": "alternative_version",
+      "relation_type_formatted": "Alternative version"
+    },
+    {
+      "node": {
+        "id": 9969,
+        "title": "Gintama'",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/4/50361.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/4/50361l.webp"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    },
+    {
+      "node": {
+        "id": 10643,
+        "title": "Gintama: Dai Hanseikai",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1725/110927.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1725/110927l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 15335,
+        "title": "Gintama Movie 2: Kanketsu-hen - Yorozuya yo Eien Nare",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/51723.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/51723l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 19261,
+        "title": "Gintama x Mameshiba",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1370/110954.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1370/110954l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 21899,
+        "title": "Gintama: Yorinuki Gintama-san on Theater 2D",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1172/90571.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1172/90571l.jpg"
+        }
+      },
+      "relation_type": "alternative_version",
+      "relation_type_formatted": "Alternative version"
+    },
+    {
+      "node": {
+        "id": 37864,
+        "title": "Yinhun x KFC",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1868/126448.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1868/126448l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 40323,
+        "title": "Gintama: Monster Strike-hen",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1806/124660.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1806/124660l.jpg"
+        }
+      },
+      "relation_type": "character",
+      "relation_type_formatted": "Character"
+    },
+    {
+      "node": {
+        "id": 54757,
+        "title": "3-nen Z-gumi Ginpachi-sensei",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1823/154120.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1823/154120l.webp"
+        }
+      },
+      "relation_type": "spin_off",
+      "relation_type_formatted": "Spin-off"
+    },
+    {
+      "node": {
+        "id": 57670,
+        "title": "Gintama x Meta Quest 3 Collaboration CM",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1212/141421.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1212/141421l.webp"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 62277,
+        "title": "Gintama Movie 3: Yoshiwara Daienjou",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1599/154487.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1599/154487l.jpg"
+        }
+      },
+      "relation_type": "alternative_version",
+      "relation_type_formatted": "Alternative version"
+    },
+    {
+      "node": {
+        "id": 62640,
+        "title": "Jantama x Gintama Collab Kettei Promotion Anime",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1045/152401.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1045/152401l.webp"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 9863,
+        "title": "SKET Dance",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/9/73974.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/9/73974l.jpg"
+        }
+      },
+      "num_recommendations": 68
+    },
+    {
+      "node": {
+        "id": 11843,
+        "title": "Danshi Koukousei no Nichijou",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/3/33257.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/3/33257l.jpg"
+        }
+      },
+      "num_recommendations": 51
+    },
+    {
+      "node": {
+        "id": 33255,
+        "title": "Saiki Kusuo no Ψ-nan",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1973/142750.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1973/142750l.jpg"
+        }
+      },
+      "num_recommendations": 43
+    },
+    {
+      "node": {
+        "id": 21,
+        "title": "One Piece",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1244/138851.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1244/138851l.jpg"
+        }
+      },
+      "num_recommendations": 24
+    },
+    {
+      "node": {
+        "id": 9513,
+        "title": "Beelzebub",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/3/28013.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/3/28013l.jpg"
+        }
+      },
+      "num_recommendations": 22
+    },
+    {
+      "node": {
+        "id": 30276,
+        "title": "One Punch Man",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/12/76049.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/12/76049l.jpg"
+        }
+      },
+      "num_recommendations": 16
+    },
+    {
+      "node": {
+        "id": 245,
+        "title": "Great Teacher Onizuka",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/13/11460.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/13/11460l.webp"
+        }
+      },
+      "num_recommendations": 16
+    },
+    {
+      "node": {
+        "id": 1,
+        "title": "Cowboy Bebop",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/4/19644.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/4/19644l.jpg"
+        }
+      },
+      "num_recommendations": 14
+    },
+    {
+      "node": {
+        "id": 2026,
+        "title": "Hayate no Gotoku!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/7/73932.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/7/73932l.webp"
+        }
+      },
+      "num_recommendations": 14
+    },
+    {
+      "node": {
+        "id": 45,
+        "title": "Rurouni Kenshin: Meiji Kenkaku Romantan",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1346/119505.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1346/119505l.jpg"
+        }
+      },
+      "num_recommendations": 14
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "221793",
+      "completed": "365987",
+      "on_hold": "131775",
+      "dropped": "61175",
+      "plan_to_watch": "393439"
+    },
+    "num_list_users": 1174169
+  },
+  "mal_details_updated_at": "2026-11-10T01:37:54.797Z"
 }

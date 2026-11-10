@@ -67,7 +67,9 @@
       "name": "Bandai Namco Pictures"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1694/110521l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/3gVl0IvJMbhOnAvH9V0Q1Y1HnXE.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/2GFz7E2Z1UWiWqOv2YGIbIaAWrH.png",
   "tmdb_id": "57041",
@@ -98,15 +100,15 @@
   "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1694/110521.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1694/110521l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1694/110521.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1694/110521l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1694/110521.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1694/110521l.webp",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1694/110521.webp",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1694/110521l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1694/110521.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1694/110521l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1694/110521.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1694/110521l.webp"
   },
   "trailer": {
     "images": {
@@ -123,17 +125,52 @@
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 192,
+  "popularity": 2529,
+  "num_scoring_users": 49035,
+  "nsfw": "white",
+  "created_at": "2020-11-22T14:10:26+00:00",
+  "updated_at": "2023-01-17T16:27:52+00:00",
+  "source": "manga",
+  "rating": "pg_13",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 37491,
+        "title": "Gintama. Shirogane no Tamashii-hen - Kouhan-sen",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1776/96566.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1776/96566l.webp"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    },
+    {
+      "node": {
+        "id": 39486,
+        "title": "Gintama: The Final",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1245/116760.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1245/116760l.jpg"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    }
+  ],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": "3326",
+      "completed": "64125",
+      "on_hold": "976",
+      "dropped": "625",
+      "plan_to_watch": "27358"
+    },
+    "num_list_users": 96410
+  },
+  "mal_details_updated_at": "2026-11-10T01:30:24.472Z"
 }

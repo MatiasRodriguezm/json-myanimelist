@@ -61,7 +61,15 @@
       "name": "A-1 Pictures"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/8/28499l.jpg",
+    "https://cdn.myanimelist.net/images/anime/5/29355l.jpg",
+    "https://cdn.myanimelist.net/images/anime/12/32583l.jpg",
+    "https://cdn.myanimelist.net/images/anime/8/33499l.jpg",
+    "https://cdn.myanimelist.net/images/anime/9/34831l.jpg",
+    "https://cdn.myanimelist.net/images/anime/10/75195l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1628/145409l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/wJzHFl5mq6JFbD6equTleJuzlnk.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/xwuurUmMt8RVmwlpdYW4g3IWRgN.png",
   "tmdb_id": "38464",
@@ -445,16 +453,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/10/75195l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/10/75195l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/10/75195l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/10/75195l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/75195l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/10/75195l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/10/75195l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/10/75195l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/75195l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/10/75195l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/8/28499l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/8/28499l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/8/28499l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/8/28499l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/8/28499l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/8/28499l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/8/28499l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/8/28499l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/28499l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/8/28499l.jpg"
     }
   },
   "broadcast": {
@@ -465,17 +473,187 @@
     "timezone": "Asia/Tokyo",
     "string": "sunday 17:00"
   },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
+  "rank": 2341,
+  "popularity": 43,
+  "num_scoring_users": 1229431,
+  "nsfw": "white",
+  "created_at": "2010-11-29T19:19:26+00:00",
+  "updated_at": "2024-10-03T21:49:10+00:00",
+  "source": "manga",
+  "rating": "pg_13",
+  "background": "Ao no Exorcist was licensed by Aniplex and simulcasted in North America. Due to the fact that the source material is on-going, the anime adaption of Ao no Exorcist diverges from it at key points, leading to an anime-exclusive ending. ",
+  "related_anime": [
+    {
+      "node": {
+        "id": 10647,
+        "title": "Ao no Exorcist: Ura Ex",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/11/38149.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/11/38149l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 11266,
+        "title": "Ao no Exorcist: Kuro no Iede",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/11/73495.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/11/73495l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 11737,
+        "title": "Ao no Exorcist Movie",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/7/42005.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/7/42005l.webp"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 33506,
+        "title": "Ao no Exorcist: Kyoto Fujouou-hen",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/5/85201.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/5/85201l.jpg"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 20507,
+        "title": "Noragami",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1886/128266.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1886/128266l.jpg"
+        }
+      },
+      "num_recommendations": 34
+    },
+    {
+      "node": {
+        "id": 3588,
+        "title": "Soul Eater",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1071/149486.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1071/149486l.jpg"
+        }
+      },
+      "num_recommendations": 31
+    },
+    {
+      "node": {
+        "id": 1482,
+        "title": "D.Gray-man",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/13/75194.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/13/75194l.jpg"
+        }
+      },
+      "num_recommendations": 28
+    },
+    {
+      "node": {
+        "id": 5114,
+        "title": "Fullmetal Alchemist: Brotherhood",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1208/94745.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1208/94745l.jpg"
+        }
+      },
+      "num_recommendations": 16
+    },
+    {
+      "node": {
+        "id": 38671,
+        "title": "Enen no Shouboutai",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1664/103275.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1664/103275l.jpg"
+        }
+      },
+      "num_recommendations": 14
+    },
+    {
+      "node": {
+        "id": 11633,
+        "title": "Blood Lad",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/11/47677.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/11/47677l.webp"
+        }
+      },
+      "num_recommendations": 14
+    },
+    {
+      "node": {
+        "id": 40748,
+        "title": "Jujutsu Kaisen",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1171/109222.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1171/109222l.webp"
+        }
+      },
+      "num_recommendations": 13
+    },
+    {
+      "node": {
+        "id": 34572,
+        "title": "Black Clover",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/2/88336.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/2/88336l.jpg"
+        }
+      },
+      "num_recommendations": 12
+    },
+    {
+      "node": {
+        "id": 20,
+        "title": "Naruto",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1141/142503.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1141/142503l.jpg"
+        }
+      },
+      "num_recommendations": 11
+    },
+    {
+      "node": {
+        "id": 15809,
+        "title": "Hataraku Maou-sama!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/3/50177.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/3/50177l.jpg"
+        }
+      },
+      "num_recommendations": 11
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "90260",
+      "completed": "1600892",
+      "on_hold": "52260",
+      "dropped": "63571",
+      "plan_to_watch": "269360"
+    },
+    "num_list_users": 2076343
+  },
+  "mal_details_updated_at": "2026-11-10T01:37:58.577Z"
 }

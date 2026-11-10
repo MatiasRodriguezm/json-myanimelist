@@ -66,7 +66,10 @@
       "name": "J.C.Staff"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1970/154694l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1008/160499l.jpg"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
@@ -99,30 +102,53 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1008/160499l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1008/160499l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1008/160499l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1008/160499l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1008/160499l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1008/160499l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1008/160499l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1008/160499l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1008/160499l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1008/160499l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1970/154694l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1970/154694l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1970/154694l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1970/154694l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1970/154694l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1970/154694l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1970/154694l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1970/154694l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1970/154694l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1970/154694l.jpg"
     }
   },
   "broadcast": null,
   "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "popularity": 3718,
+  "num_scoring_users": 2,
+  "nsfw": "white",
+  "created_at": "2025-12-28T18:43:57+00:00",
+  "updated_at": "2025-12-28T18:45:30+00:00",
+  "source": "web_manga",
+  "rating": "r",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 52807,
+        "title": "One Punch Man 3",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1168/148347.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1168/148347l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    }
+  ],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": "8",
+      "completed": "1",
+      "on_hold": "7",
+      "dropped": "1",
+      "plan_to_watch": "50002"
+    },
+    "num_list_users": 50019
+  },
+  "mal_details_updated_at": "2026-11-10T01:34:34.717Z"
 }

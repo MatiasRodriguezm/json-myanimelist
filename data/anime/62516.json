@@ -52,7 +52,10 @@
       "name": "Science SARU"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1444/152105l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1671/154516l.jpg"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
@@ -74,30 +77,53 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1671/154516l.webp",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1671/154516l.webp",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1671/154516l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1671/154516l.webp",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1671/154516l.webp",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1671/154516l.webp",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1671/154516l.webp",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1671/154516l.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1671/154516l.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1671/154516l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1444/152105l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1444/152105l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1444/152105l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1444/152105l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1444/152105l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1444/152105l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1444/152105l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1444/152105l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1444/152105l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1444/152105l.jpg"
     }
   },
   "broadcast": null,
   "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "popularity": 1810,
+  "num_scoring_users": 4,
+  "nsfw": "white",
+  "created_at": "2025-09-18T17:18:32+00:00",
+  "updated_at": "2025-12-21T05:51:07+00:00",
+  "source": "manga",
+  "rating": "r",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 60543,
+        "title": "Dandadan 2nd Season",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1721/149001.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1721/149001l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    }
+  ],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": "11",
+      "completed": "2",
+      "on_hold": "5",
+      "dropped": 0,
+      "plan_to_watch": "151344"
+    },
+    "num_list_users": 151362
+  },
+  "mal_details_updated_at": "2026-11-10T01:33:07.477Z"
 }

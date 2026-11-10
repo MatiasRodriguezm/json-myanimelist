@@ -31,8 +31,8 @@
   "num_episodes": 2,
   "score": null,
   "mean": null,
-  "numListUsers": 4454,
-  "num_list_users": 4454,
+  "numListUsers": 4455,
+  "num_list_users": 4455,
   "genres": [
     {
       "id": 8,
@@ -61,7 +61,12 @@
       "name": "Sunrise"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1275/155032l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1557/157677l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1372/159662l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1974/160684l.jpg"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
@@ -83,30 +88,53 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1974/160684l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1974/160684l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1974/160684l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1974/160684l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1974/160684l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1974/160684l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1974/160684l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1974/160684l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1974/160684l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1974/160684l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1275/155032l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1275/155032l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1275/155032l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1275/155032l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1275/155032l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1275/155032l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1275/155032l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1275/155032l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1275/155032l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1275/155032l.jpg"
     }
   },
   "broadcast": null,
   "rank": null,
-  "popularity": null,
+  "popularity": 10171,
   "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
+  "nsfw": "white",
+  "created_at": "2026-01-17T04:24:18+00:00",
+  "updated_at": "2026-05-12T03:12:30+00:00",
+  "source": "original",
   "rating": null,
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 2582,
+        "title": "Soukou Kihei Votoms",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1295/91064.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1295/91064l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    }
+  ],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": 0,
+      "completed": "1",
+      "on_hold": 0,
+      "dropped": 0,
+      "plan_to_watch": "4454"
+    },
+    "num_list_users": 4455
+  },
+  "mal_details_updated_at": "2026-11-10T01:34:40.047Z"
 }

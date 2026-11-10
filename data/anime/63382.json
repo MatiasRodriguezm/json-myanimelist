@@ -29,8 +29,8 @@
   "num_episodes": 25,
   "score": 7.45,
   "mean": 7.45,
-  "numListUsers": 43614,
-  "num_list_users": 43614,
+  "numListUsers": 43619,
+  "num_list_users": 43619,
   "genres": [
     {
       "id": 10,
@@ -47,7 +47,12 @@
       "name": "Konami animation"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1116/155161l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1000/159223l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1362/160050l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1393/160054l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/5obfnImCRn0LzQnRb4jxuCJRlxd.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/riCiNoSEkHZzHtMg1RUXPxgGcgc.png",
   "tmdb_id": "312850",
@@ -311,16 +316,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1000/159223l.webp",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1000/159223l.webp",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1000/159223l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1000/159223l.webp",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1000/159223l.webp",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1000/159223l.webp",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1000/159223l.webp",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1000/159223l.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1000/159223l.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1000/159223l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1116/155161l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1116/155161l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1116/155161l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1116/155161l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1116/155161l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1116/155161l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1116/155161l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1116/155161l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1116/155161l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1116/155161l.jpg"
     }
   },
   "broadcast": {
@@ -331,17 +336,108 @@
     "timezone": "Asia/Tokyo",
     "string": "tuesday 21:25"
   },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 2453,
+  "popularity": 4034,
+  "num_scoring_users": 5207,
+  "nsfw": "white",
+  "created_at": "2026-01-28T09:37:58+00:00",
+  "updated_at": "2026-10-07T09:41:46+00:00",
+  "source": "light_novel",
+  "rating": "pg_13",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 65138,
+        "title": "Respawn!!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1174/160439.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1174/160439l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 65196,
+        "title": "Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei shita Kamigoroshi no Bujin no Karei Naru Musouroku Mini Anime",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1771/160556.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1771/160556l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 50481,
+        "title": "Eiyuuou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1044/129594.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1044/129594l.webp"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 59846,
+        "title": "Saigo ni Hitotsu dake Onegai shitemo Yoroshii deshou ka",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1190/151754.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1190/151754l.jpg"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 42072,
+        "title": "Kenja no Deshi wo Nanoru Kenja",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1583/119223.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1583/119223l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 60810,
+        "title": "Majutsushi Kunon wa Mieteiru",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1704/154459.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1704/154459l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 48316,
+        "title": "Kage no Jitsuryokusha ni Naritakute!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1091/128729.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1091/128729l.webp"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "24028",
+      "completed": "3",
+      "on_hold": "467",
+      "dropped": "941",
+      "plan_to_watch": "18175"
+    },
+    "num_list_users": 43614
+  },
+  "mal_details_updated_at": "2026-11-10T01:34:44.748Z"
 }

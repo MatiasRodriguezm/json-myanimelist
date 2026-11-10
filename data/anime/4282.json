@@ -71,7 +71,16 @@
       "name": "ufotable"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/11/7992l.jpg",
+    "https://cdn.myanimelist.net/images/anime/8/15223l.jpg",
+    "https://cdn.myanimelist.net/images/anime/6/27321l.jpg",
+    "https://cdn.myanimelist.net/images/anime/12/51739l.jpg",
+    "https://cdn.myanimelist.net/images/anime/4/75851l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1574/112838l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1872/138084l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1935/158320l.jpg"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
@@ -285,30 +294,200 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1574/112838l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1574/112838l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1574/112838l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1574/112838l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1574/112838l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1574/112838l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1574/112838l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1574/112838l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1574/112838l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1574/112838l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/11/7992l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/11/7992l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/7992l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/11/7992l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/7992l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/11/7992l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/11/7992l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/11/7992l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/7992l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/11/7992l.jpg"
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
+  "rank": 169,
+  "popularity": 1135,
+  "num_scoring_users": 141203,
+  "nsfw": "white",
+  "created_at": "2008-04-10T12:39:50+00:00",
+  "updated_at": "2024-10-08T20:34:58+00:00",
+  "source": "light_novel",
+  "rating": "r",
+  "background": "Includes claymation short which was shown before the movie in theaters.",
+  "related_anime": [
+    {
+      "node": {
+        "id": 4280,
+        "title": "Kara no Kyoukai Movie 4: Garan no Dou",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/9/21736.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/9/21736l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    },
+    {
+      "node": {
+        "id": 5204,
+        "title": "Kara no Kyoukai Movie 6: Boukyaku Rokuon",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/2/21739.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/2/21739l.jpg"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    },
+    {
+      "node": {
+        "id": 6624,
+        "title": "Kara no Kyoukai Remix: Gate of Seventh Heaven",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/11/15175.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/11/15175l.webp"
+        }
+      },
+      "relation_type": "summary",
+      "relation_type_formatted": "Summary"
+    },
+    {
+      "node": {
+        "id": 23697,
+        "title": "Kara no Kyoukai: Manner Movies",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/4/78704.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/4/78704l.webp"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 2251,
+        "title": "Baccano!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/3/14547.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/3/14547l.jpg"
+        }
+      },
+      "num_recommendations": 5
+    },
+    {
+      "node": {
+        "id": 437,
+        "title": "Perfect Blue",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1254/134212.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1254/134212l.jpg"
+        }
+      },
+      "num_recommendations": 5
+    },
+    {
+      "node": {
+        "id": 10087,
+        "title": "Fate/Zero",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1887/117644.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1887/117644l.webp"
+        }
+      },
+      "num_recommendations": 3
+    },
+    {
+      "node": {
+        "id": 468,
+        "title": "Innocence",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/75628.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/75628l.jpg"
+        }
+      },
+      "num_recommendations": 3
+    },
+    {
+      "node": {
+        "id": 32,
+        "title": "Shinseiki Evangelion Movie: Air/Magokoro wo, Kimi ni",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1404/98182.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1404/98182l.jpg"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 28701,
+        "title": "Fate/stay night: Unlimited Blade Works 2nd Season",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1881/124810.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1881/124810l.webp"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 339,
+        "title": "Serial Experiments Lain",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1718/91550.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1718/91550l.webp"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 5177,
+        "title": "Denpa-teki na Kanojo",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1722/111810.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1722/111810l.jpg"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 6811,
+        "title": "InuYasha: Kanketsu-hen",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/7/75570.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/7/75570l.webp"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 1556,
+        "title": "Kikoushi Enma",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/8/50391.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/8/50391l.webp"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "5651",
+      "completed": "181437",
+      "on_hold": "2292",
+      "dropped": "1098",
+      "plan_to_watch": "66341"
+    },
+    "num_list_users": 256819
+  },
+  "mal_details_updated_at": "2026-11-10T01:30:19.350Z"
 }

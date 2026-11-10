@@ -44,7 +44,9 @@
     }
   ],
   "studios": [],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1433/134811l.jpg"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
@@ -86,17 +88,27 @@
     "timezone": "Asia/Tokyo",
     "string": "monday 01:00"
   },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 20841,
+  "popularity": 15842,
+  "num_scoring_users": 60,
+  "nsfw": "white",
+  "created_at": "2023-03-26T05:52:32+00:00",
+  "updated_at": "2023-03-26T07:19:15+00:00",
+  "source": "original",
+  "rating": "g",
   "background": null,
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": "490",
+      "completed": 0,
+      "on_hold": "40",
+      "dropped": "211",
+      "plan_to_watch": "212"
+    },
+    "num_list_users": 953
+  },
+  "mal_details_updated_at": "2026-11-10T01:30:59.382Z"
 }

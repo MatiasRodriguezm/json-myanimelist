@@ -55,7 +55,9 @@
       "name": "A-1 Pictures"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1112/150697l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/dJ8yrSokdTMnhKJw06MllSfCegb.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/56munppXDVJXSBt1GcttOrKMKnH.png",
   "tmdb_id": "83121",
@@ -101,17 +103,52 @@
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 160,
+  "popularity": 2088,
+  "num_scoring_users": 63452,
+  "nsfw": "white",
+  "created_at": "2025-06-22T14:19:17+00:00",
+  "updated_at": "2026-01-31T23:06:23+00:00",
+  "source": "manga",
+  "rating": "pg_13",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 52198,
+        "title": "Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1670/130060.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1670/130060l.webp"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    },
+    {
+      "node": {
+        "id": 63212,
+        "title": "Kaguya-sama wa Kokurasetai Movie",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1195/154761.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1195/154761l.jpg"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    }
+  ],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": "4315",
+      "completed": "82306",
+      "on_hold": "1079",
+      "dropped": "274",
+      "plan_to_watch": "38215"
+    },
+    "num_list_users": 126189
+  },
+  "mal_details_updated_at": "2026-11-10T01:32:53.293Z"
 }

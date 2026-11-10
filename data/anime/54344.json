@@ -29,8 +29,8 @@
   "num_episodes": null,
   "score": 6.62,
   "mean": 6.62,
-  "numListUsers": 14603,
-  "num_list_users": 14603,
+  "numListUsers": 14605,
+  "num_list_users": 14605,
   "genres": [
     {
       "id": 1,
@@ -63,7 +63,10 @@
       "name": "SynergySP"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1711/152746l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1518/160127l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/a5ibYt8Ri2w74TR99lbP2aHyFMY.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/oPcuaK02bY2Gcs6qViDHn7mB98k.png",
   "tmdb_id": "337277",
@@ -166,16 +169,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1518/160127l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1518/160127l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1518/160127l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1518/160127l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1518/160127l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1518/160127l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1518/160127l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1518/160127l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1518/160127l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1518/160127l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1711/152746l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1711/152746l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1711/152746l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1711/152746l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1711/152746l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1711/152746l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1711/152746l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1711/152746l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1711/152746l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1711/152746l.jpg"
     }
   },
   "broadcast": {
@@ -186,17 +189,40 @@
     "timezone": "Asia/Tokyo",
     "string": "tuesday 02:00"
   },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 7317,
+  "popularity": 6377,
+  "num_scoring_users": 869,
+  "nsfw": "white",
+  "created_at": "2023-01-30T00:08:35+00:00",
+  "updated_at": "2026-03-02T12:45:23+00:00",
+  "source": "light_novel",
+  "rating": "r",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 33003,
+        "title": "Mahou Shoujo Ikusei Keikaku",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/2/81087.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/2/81087l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    }
+  ],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": "3866",
+      "completed": "3",
+      "on_hold": "173",
+      "dropped": "387",
+      "plan_to_watch": "10175"
+    },
+    "num_list_users": 14604
+  },
+  "mal_details_updated_at": "2026-11-10T01:30:55.857Z"
 }

@@ -57,7 +57,10 @@
       "name": "Shaft"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/9/59247l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1170/121597l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/cHII6sQ91q8H5EMONKCwCQMauCP.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/1PloWpJba8A3I0x8Ry92IGYromk.png",
   "tmdb_id": "46195",
@@ -161,30 +164,145 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1170/121597l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1170/121597l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1170/121597l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1170/121597l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1170/121597l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1170/121597l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1170/121597l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1170/121597l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1170/121597l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1170/121597l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/9/59247l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/9/59247l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/9/59247l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/9/59247l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/9/59247l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/9/59247l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/9/59247l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/9/59247l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/9/59247l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/9/59247l.jpg"
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
+  "rank": 930,
+  "popularity": 431,
+  "num_scoring_users": 362130,
+  "nsfw": "white",
+  "created_at": "2012-09-27T18:28:12+00:00",
+  "updated_at": "2024-12-17T22:59:18+00:00",
+  "source": "light_novel",
+  "rating": "r",
+  "background": "Nekomonogatari: Kuro adapts the sixth and final volume of NisiOisiN's Monogatari Series: First Season.",
+  "related_anime": [
+    {
+      "node": {
+        "id": 5081,
+        "title": "Bakemonogatari",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/11/75274.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/11/75274l.jpg"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    },
+    {
+      "node": {
+        "id": 31758,
+        "title": "Kizumonogatari III: Reiketsu-hen",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1084/112813.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1084/112813l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    },
+    {
+      "node": {
+        "id": 32268,
+        "title": "Koyomimonogatari",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/2/77744.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/2/77744l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 38971,
+        "title": "Nekomonogatari: Kuro Recap",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1145/98159.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1145/98159l.jpg"
+        }
+      },
+      "relation_type": "summary",
+      "relation_type_formatted": "Summary"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 9922,
+        "title": "Oretachi ni Tsubasa wa Nai: Under the Innocent Sky.",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/9/75449.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/9/75449l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 15225,
+        "title": "Hentai Ouji to Warawanai Neko.",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/3/75788.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/3/75788l.webp"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 21603,
+        "title": "Mekakucity Actors",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/11/61519.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/11/61519l.webp"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 31043,
+        "title": "Boku dake ga Inai Machi",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/77957.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/77957l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 37451,
+        "title": "Boogiepop wa Warawanai (2019)",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1135/95454.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1135/95454l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "13851",
+      "completed": "470751",
+      "on_hold": "5038",
+      "dropped": "2966",
+      "plan_to_watch": "104557"
+    },
+    "num_list_users": 597163
+  },
+  "mal_details_updated_at": "2026-11-10T01:27:13.818Z"
 }

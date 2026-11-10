@@ -31,8 +31,8 @@
   "num_episodes": 10,
   "score": 8.72,
   "mean": 8.72,
-  "numListUsers": 297564,
-  "num_list_users": 297564,
+  "numListUsers": 297567,
+  "num_list_users": 297567,
   "genres": [
     {
       "id": 50,
@@ -73,7 +73,9 @@
       "name": "Artland"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/9/68095l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/8ysRHGV3URjOJT7u7NkZiFjvObk.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/xFiCp8wraCYN2l2aYJPI4hLxniT.png",
   "tmdb_id": "26867",
@@ -247,17 +249,98 @@
     "timezone": "Asia/Tokyo",
     "string": "sunday 00:30"
   },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 61,
+  "popularity": 964,
+  "num_scoring_users": 118217,
+  "nsfw": "white",
+  "created_at": "2014-06-16T10:15:21+00:00",
+  "updated_at": "2023-04-20T11:10:56+00:00",
+  "source": "manga",
+  "rating": "pg_13",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 21939,
+        "title": "Mushishi Zoku Shou",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/13/58533.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/13/58533l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    },
+    {
+      "node": {
+        "id": 24687,
+        "title": "Mushishi Zoku Shou: Odoro no Michi",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/8/63539.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/8/63539l.webp"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    },
+    {
+      "node": {
+        "id": 28957,
+        "title": "Mushishi Zoku Shou: Suzu no Shizuku",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/9/72689.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/9/72689l.jpg"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 2890,
+        "title": "Gake no Ue no Ponyo",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1331/138727.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1331/138727l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 22789,
+        "title": "Barakamon",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1426/111248.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1426/111248l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 4081,
+        "title": "Natsume Yuujinchou",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1681/108439.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1681/108439l.webp"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "17824",
+      "completed": "150307",
+      "on_hold": "7225",
+      "dropped": "3804",
+      "plan_to_watch": "118348"
+    },
+    "num_list_users": 297508
+  },
+  "mal_details_updated_at": "2026-11-10T01:27:41.848Z"
 }

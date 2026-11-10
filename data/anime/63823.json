@@ -29,8 +29,8 @@
   "num_episodes": null,
   "score": null,
   "mean": null,
-  "numListUsers": 157,
-  "num_list_users": 157,
+  "numListUsers": 158,
+  "num_list_users": 158,
   "genres": [
     {
       "id": 10,
@@ -51,7 +51,10 @@
       "name": "OLM Digital"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1109/156355l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1063/159391l.jpg"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
@@ -73,16 +76,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1063/159391l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1063/159391l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1063/159391l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1063/159391l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1063/159391l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1063/159391l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1063/159391l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1063/159391l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1063/159391l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1063/159391l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1109/156355l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1109/156355l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1109/156355l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1109/156355l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1109/156355l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1109/156355l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1109/156355l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1109/156355l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1109/156355l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1109/156355l.jpg"
     }
   },
   "broadcast": {
@@ -93,17 +96,40 @@
     "timezone": "Asia/Tokyo",
     "string": "sunday 09:15"
   },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 20088,
+  "popularity": 25668,
+  "num_scoring_users": 10,
+  "nsfw": "white",
+  "created_at": "2026-03-28T09:52:03+00:00",
+  "updated_at": "2026-08-08T03:05:53+00:00",
+  "source": "original",
+  "rating": "pg",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 61290,
+        "title": "Punirunes: Puni 3",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1095/150294.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1095/150294l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    }
+  ],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": "24",
+      "completed": 0,
+      "on_hold": "6",
+      "dropped": "40",
+      "plan_to_watch": "87"
+    },
+    "num_list_users": 157
+  },
+  "mal_details_updated_at": "2026-11-10T01:35:59.065Z"
 }

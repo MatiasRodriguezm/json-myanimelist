@@ -58,7 +58,11 @@
       "name": "feel."
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/5/79651l.jpg",
+    "https://cdn.myanimelist.net/images/anime/3/83076l.jpg",
+    "https://cdn.myanimelist.net/images/anime/13/84052l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/5VL7HC4aeLhepAaGxaQBUBWgIGo.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/w2fUbCyKjxYQweKRyIo9usNxA7Z.png",
   "tmdb_id": "65676",
@@ -91,30 +95,76 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/13/84052l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/13/84052l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/13/84052l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/13/84052l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/13/84052l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/13/84052l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/13/84052l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/13/84052l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/13/84052l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/13/84052l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/5/79651l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/5/79651l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/5/79651l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/5/79651l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/5/79651l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/5/79651l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/5/79651l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/5/79651l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/79651l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/5/79651l.jpg"
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 748,
+  "popularity": 1037,
+  "num_scoring_users": 162901,
+  "nsfw": "white",
+  "created_at": "2016-04-08T19:31:07+00:00",
+  "updated_at": "2022-10-18T02:48:25+00:00",
+  "source": "light_novel",
+  "rating": "pg_13",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 23847,
+        "title": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/11/75376.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/11/75376l.jpg"
+        }
+      },
+      "relation_type": "parent_story",
+      "relation_type_formatted": "Parent story"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 11887,
+        "title": "Kokoro Connect",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/2/39665.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/2/39665l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 38483,
+        "title": "Ore wo Suki nano wa Omae dake ka yo",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1348/102797.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1348/102797l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "6048",
+      "completed": "237555",
+      "on_hold": "1514",
+      "dropped": "991",
+      "plan_to_watch": "33391"
+    },
+    "num_list_users": 279499
+  },
+  "mal_details_updated_at": "2026-11-10T01:28:42.901Z"
 }

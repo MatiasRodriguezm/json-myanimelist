@@ -58,7 +58,16 @@
       "name": "A-1 Pictures"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1079/109928l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1148/110479l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1950/114826l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1430/118919l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1092/121616l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1160/122627l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1636/124771l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1302/132243l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/dJ8yrSokdTMnhKJw06MllSfCegb.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/56munppXDVJXSBt1GcttOrKMKnH.png",
   "tmdb_id": "83121",
@@ -242,16 +251,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1160/122627l.webp",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1160/122627l.webp",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1160/122627l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1160/122627l.webp",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1160/122627l.webp",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1160/122627l.webp",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1160/122627l.webp",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1160/122627l.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1160/122627l.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1160/122627l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1079/109928l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1079/109928l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1079/109928l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1079/109928l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1079/109928l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1079/109928l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1079/109928l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1079/109928l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1079/109928l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1079/109928l.jpg"
     }
   },
   "broadcast": {
@@ -262,17 +271,175 @@
     "timezone": "Asia/Tokyo",
     "string": "saturday 00:00"
   },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 17,
+  "popularity": 162,
+  "num_scoring_users": 657397,
+  "nsfw": "white",
+  "created_at": "2020-10-25T09:14:33+00:00",
+  "updated_at": "2026-01-02T03:20:31+00:00",
+  "source": "manga",
+  "rating": "pg_13",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 40591,
+        "title": "Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1764/106659.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1764/106659l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    },
+    {
+      "node": {
+        "id": 50325,
+        "title": "Kaguya-sama wa Kokurasetai: Ultra Romantic Teaser PV - Ishigami Yuu wa Kataritai",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1265/119435.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1265/119435l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 52198,
+        "title": "Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1670/130060.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1670/130060l.webp"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 52578,
+        "title": "Boku no Kokoro no Yabai Yatsu",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1545/133887.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1545/133887l.jpg"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 4224,
+        "title": "Toradora!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/13/22128.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/13/22128l.webp"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 49520,
+        "title": "Aharen-san wa Hakarenai",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1612/120636.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1612/120636l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 35860,
+        "title": "Karakai Jouzu no Takagi-san",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1591/95091.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1591/95091l.webp"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 37786,
+        "title": "Yagate Kimi ni Naru",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1783/96153.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1783/96153l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 53865,
+        "title": "Yozakura-san Chi no Daisakusen",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1674/143715.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1674/143715l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 42249,
+        "title": "Tokyo Revengers",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1839/122012.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1839/122012l.webp"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 61501,
+        "title": "Kanan-sama wa Akumade Choroi",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1681/154996.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1681/154996l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 38483,
+        "title": "Ore wo Suki nano wa Omae dake ka yo",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1348/102797.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1348/102797l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 38101,
+        "title": "5-toubun no Hanayome",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1819/97947.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1819/97947l.webp"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "94592",
+      "completed": "793138",
+      "on_hold": "16738",
+      "dropped": "13165",
+      "plan_to_watch": "229220"
+    },
+    "num_list_users": 1146853
+  },
+  "mal_details_updated_at": "2026-11-10T01:30:21.540Z"
 }

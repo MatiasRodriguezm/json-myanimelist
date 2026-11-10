@@ -43,7 +43,9 @@
       "name": "Mimoid"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1490/160639l.jpg"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
@@ -79,16 +81,26 @@
   },
   "broadcast": null,
   "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "popularity": 30565,
+  "num_scoring_users": 30,
+  "nsfw": "white",
+  "created_at": "2026-10-21T11:09:39+00:00",
+  "updated_at": "2026-10-21T11:09:39+00:00",
+  "source": "original",
+  "rating": "pg_13",
   "background": null,
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": "2",
+      "completed": "42",
+      "on_hold": "1",
+      "dropped": "5",
+      "plan_to_watch": "6"
+    },
+    "num_list_users": 56
+  },
+  "mal_details_updated_at": "2026-11-10T01:37:30.082Z"
 }

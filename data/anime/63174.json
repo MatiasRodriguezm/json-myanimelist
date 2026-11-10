@@ -31,8 +31,8 @@
   "num_episodes": null,
   "score": null,
   "mean": null,
-  "numListUsers": 20052,
-  "num_list_users": 20052,
+  "numListUsers": 20054,
+  "num_list_users": 20054,
   "genres": [
     {
       "id": 4,
@@ -53,7 +53,9 @@
       "name": "SynergySP"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1678/154623l.jpg"
+  ],
   "backdrop_url": null,
   "logo_url": "https://image.tmdb.org/t/p/w500/9p78tIGQHH2WrTTn6yeLAf9Y6FI.png",
   "tmdb_id": "309176",
@@ -107,16 +109,26 @@
     "string": "friday 00:26"
   },
   "rank": null,
-  "popularity": null,
+  "popularity": 5666,
   "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
+  "nsfw": "white",
+  "created_at": "2025-12-25T09:23:11+00:00",
+  "updated_at": "2026-10-15T10:16:29+00:00",
+  "source": "web_manga",
   "rating": null,
-  "background": null,
+  "background": "Jirai nan desu ka? Chihara-san aired on MBS and TBS' Super Animeism Turbo block.",
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": "6",
+      "completed": 0,
+      "on_hold": "3",
+      "dropped": 0,
+      "plan_to_watch": "20044"
+    },
+    "num_list_users": 20053
+  },
+  "mal_details_updated_at": "2026-11-10T01:34:33.195Z"
 }

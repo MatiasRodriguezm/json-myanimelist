@@ -67,7 +67,16 @@
       "name": "APPP"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/7/10216l.jpg",
+    "https://cdn.myanimelist.net/images/anime/3/12016l.jpg",
+    "https://cdn.myanimelist.net/images/anime/6/12021l.jpg",
+    "https://cdn.myanimelist.net/images/anime/10/19210l.jpg",
+    "https://cdn.myanimelist.net/images/anime/10/19211l.jpg",
+    "https://cdn.myanimelist.net/images/anime/3/62867l.jpg",
+    "https://cdn.myanimelist.net/images/anime/10/74480l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1228/106413l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/v3w1ttzuqoBWaJ17w8lv4AATMdo.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/9Ki5asRlmeu9q5Vi0hI4aFF6Lu2.png",
   "tmdb_id": "34105",
@@ -179,42 +188,163 @@
   ],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/3/62867.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/62867l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/3/62867.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/3/62867l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/62867.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/62867l.webp",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/3/62867.webp",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/3/62867l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/3/62867.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/3/62867l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/3/62867.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/3/62867l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/3/62867l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/3/62867l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/3/62867l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/3/62867l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/62867l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/3/62867l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/3/62867l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/3/62867l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/62867l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/3/62867l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/7/10216l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/7/10216l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/10216l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/7/10216l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/10216l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/7/10216l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/7/10216l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/7/10216l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/10216l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/7/10216l.jpg"
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 701,
+  "popularity": 574,
+  "num_scoring_users": 251618,
+  "nsfw": "white",
+  "created_at": "2005-11-13T07:05:30+00:00",
+  "updated_at": "2025-03-02T12:20:48+00:00",
+  "source": "manga",
+  "rating": "r+",
   "background": null,
   "related_anime": [],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 245,
+        "title": "Great Teacher Onizuka",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/13/11460.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/13/11460l.webp"
+        }
+      },
+      "num_recommendations": 56
+    },
+    {
+      "node": {
+        "id": 37105,
+        "title": "Grand Blue",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1302/94882.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1302/94882l.webp"
+        }
+      },
+      "num_recommendations": 6
+    },
+    {
+      "node": {
+        "id": 918,
+        "title": "Gintama",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/73274.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/73274l.jpg"
+        }
+      },
+      "num_recommendations": 3
+    },
+    {
+      "node": {
+        "id": 133,
+        "title": "Green Green",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/7/75251.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/7/75251l.jpg"
+        }
+      },
+      "num_recommendations": 3
+    },
+    {
+      "node": {
+        "id": 486,
+        "title": "Kino no Tabi: The Beautiful World",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1763/95397.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1763/95397l.jpg"
+        }
+      },
+      "num_recommendations": 3
+    },
+    {
+      "node": {
+        "id": 114,
+        "title": "Sakigake!! Cromartie Koukou",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1782/130913.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1782/130913l.webp"
+        }
+      },
+      "num_recommendations": 3
+    },
+    {
+      "node": {
+        "id": 1470,
+        "title": "City Hunter",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/8/20587.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/8/20587l.webp"
+        }
+      },
+      "num_recommendations": 3
+    },
+    {
+      "node": {
+        "id": 579,
+        "title": "Battle Programmer Shirase",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1561/152505.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1561/152505l.jpg"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 6,
+        "title": "Trigun",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1130/120002.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1130/120002l.jpg"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 263,
+        "title": "Hajime no Ippo",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/4/86334.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/4/86334l.jpg"
+        }
+      },
+      "num_recommendations": 2
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "20070",
+      "completed": "312640",
+      "on_hold": "8163",
+      "dropped": "7275",
+      "plan_to_watch": "123349"
+    },
+    "num_list_users": 471497
+  },
+  "mal_details_updated_at": "2026-11-10T01:27:49.172Z"
 }

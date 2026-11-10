@@ -62,7 +62,17 @@
       "name": "Shaft"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/2/49291l.jpg",
+    "https://cdn.myanimelist.net/images/anime/3/52585l.jpg",
+    "https://cdn.myanimelist.net/images/anime/5/54231l.jpg",
+    "https://cdn.myanimelist.net/images/anime/9/54867l.jpg",
+    "https://cdn.myanimelist.net/images/anime/10/58547l.jpg",
+    "https://cdn.myanimelist.net/images/anime/7/61919l.jpg",
+    "https://cdn.myanimelist.net/images/anime/6/71911l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1678/135181l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1729/145888l.jpg"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
@@ -176,30 +186,200 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/5/54231l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/5/54231l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/5/54231l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/5/54231l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/5/54231l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/5/54231l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/5/54231l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/5/54231l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/54231l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/5/54231l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/2/49291l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/2/49291l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/2/49291l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/2/49291l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/2/49291l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/2/49291l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/2/49291l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/2/49291l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/2/49291l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/2/49291l.jpg"
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
+  "rank": 162,
+  "popularity": 636,
+  "num_scoring_users": 257186,
+  "nsfw": "white",
+  "created_at": "2011-11-08T17:22:03+00:00",
+  "updated_at": "2026-09-28T23:53:44+00:00",
+  "source": "original",
+  "rating": "pg_13",
+  "background": "Mahou Shoujo Madoka☆Magica Movie 3: Hangyaku no Monogatari is an original story which takes place after the events of the previous films. The film was released in Japanese theaters by Warner Bros. Pictures on October 26, 2013, with a manga adaptation by Hanokage released by Houbunsha between November 2013 and January 2014.\n\nThe movie was one of 19 animated films submitted for Best Animated Feature for the 86th Academy Awards, but was not nominated. The film earned 2.25 billion yen in the Japanese box office. It was nominated for the Japan Academy Prize for Animation of the Year at the 37th Japan Academy Prize and won the Best Theatrical Film Award at the 19th Animation Kobe Awards.",
+  "related_anime": [
+    {
+      "node": {
+        "id": 9756,
+        "title": "Mahou Shoujo Madoka☆Magica",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/11/55225.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/11/55225l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    },
+    {
+      "node": {
+        "id": 11979,
+        "title": "Mahou Shoujo Madoka☆Magica Movie 2: Eien no Monogatari",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/6/42265.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/6/42265l.webp"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    },
+    {
+      "node": {
+        "id": 23831,
+        "title": "Mahou Shoujo Madoka☆Magica Movie 3: Hangyaku no Monogatari - Magica Quartet x Nisioisin",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/5/61633.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/5/61633l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 48820,
+        "title": "Mahou Shoujo Madoka☆Magica Movie 4: Walpurgis no Kaiten",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1064/160017.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1064/160017l.jpg"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 32,
+        "title": "Shinseiki Evangelion Movie: Air/Magokoro wo, Kimi ni",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1404/98182.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1404/98182l.jpg"
+        }
+      },
+      "num_recommendations": 18
+    },
+    {
+      "node": {
+        "id": 3785,
+        "title": "Evangelion Movie 3: Q",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/9/43201.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/9/43201l.jpg"
+        }
+      },
+      "num_recommendations": 3
+    },
+    {
+      "node": {
+        "id": 7311,
+        "title": "Suzumiya Haruhi no Shoushitsu",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1248/112352.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1248/112352l.jpg"
+        }
+      },
+      "num_recommendations": 3
+    },
+    {
+      "node": {
+        "id": 30,
+        "title": "Shinseiki Evangelion",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1314/108941.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1314/108941l.jpg"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 31758,
+        "title": "Kizumonogatari III: Reiketsu-hen",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1084/112813.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1084/112813l.jpg"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 820,
+        "title": "Ginga Eiyuu Densetsu",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1976/142016.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1976/142016l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 6610,
+        "title": "Ibara no Ou",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/9/87056.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/9/87056l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 1889,
+        "title": "Higurashi no Naku Koro ni Kai",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/12/14114.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/12/14114l.webp"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 5785,
+        "title": "G-9",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/4/81190.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/4/81190l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 25907,
+        "title": "Glass no Hana to Kowasu Sekai",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/11/77289.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/11/77289l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "8587",
+      "completed": "331785",
+      "on_hold": "3032",
+      "dropped": "1708",
+      "plan_to_watch": "88386"
+    },
+    "num_list_users": 433498
+  },
+  "mal_details_updated_at": "2026-11-10T01:27:02.441Z"
 }

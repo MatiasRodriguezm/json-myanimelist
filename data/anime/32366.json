@@ -57,7 +57,13 @@
       "name": "Bandai Namco Pictures"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/8/79704l.jpg",
+    "https://cdn.myanimelist.net/images/anime/12/80432l.jpg",
+    "https://cdn.myanimelist.net/images/anime/8/81479l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1265/133572l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1962/133573l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/3gVl0IvJMbhOnAvH9V0Q1Y1HnXE.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/2GFz7E2Z1UWiWqOv2YGIbIaAWrH.png",
   "tmdb_id": "57041",
@@ -100,30 +106,65 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1962/133573l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1962/133573l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1962/133573l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1962/133573l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1962/133573l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1962/133573l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1962/133573l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1962/133573l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1962/133573l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1962/133573l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/8/79704l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/8/79704l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/8/79704l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/8/79704l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/8/79704l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/8/79704l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/8/79704l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/8/79704l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/79704l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/8/79704l.jpg"
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 264,
+  "popularity": 2566,
+  "num_scoring_users": 49720,
+  "nsfw": "white",
+  "created_at": "2015-12-19T19:50:10+00:00",
+  "updated_at": "2023-01-24T00:15:46+00:00",
+  "source": "manga",
+  "rating": "pg_13",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 28977,
+        "title": "Gintama°",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/3/72078.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/3/72078l.jpg"
+        }
+      },
+      "relation_type": "parent_story",
+      "relation_type_formatted": "Parent story"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 1949,
+        "title": "Mahou no Chocolate",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1055/112163.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1055/112163l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "3553",
+      "completed": "67793",
+      "on_hold": "1035",
+      "dropped": "805",
+      "plan_to_watch": "21183"
+    },
+    "num_list_users": 94369
+  },
+  "mal_details_updated_at": "2026-11-10T01:28:39.309Z"
 }

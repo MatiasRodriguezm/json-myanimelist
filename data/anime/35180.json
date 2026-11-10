@@ -53,7 +53,13 @@
       "name": "Shaft"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/3/88469l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1325/96912l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1429/100628l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1818/108774l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1745/108775l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/mLzJpP9YRexGbvgiqunirAM5HAA.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/4716QMHw5W11TP3BEGdEvJoWLWl.png",
   "tmdb_id": "65336",
@@ -327,17 +333,163 @@
     "timezone": "Asia/Tokyo",
     "string": "saturday 23:00"
   },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 25,
+  "popularity": 615,
+  "num_scoring_users": 218521,
+  "nsfw": "white",
+  "created_at": "2017-03-18T15:14:28+00:00",
+  "updated_at": "2026-03-20T13:11:55+00:00",
+  "source": "manga",
+  "rating": "pg_13",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 31646,
+        "title": "3-gatsu no Lion",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1590/154000.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1590/154000l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    },
+    {
+      "node": {
+        "id": 38864,
+        "title": "Lion meets HachiClo",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1565/97675.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1565/97675l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 4181,
+        "title": "Clannad: After Story",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1299/110774.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1299/110774l.jpg"
+        }
+      },
+      "num_recommendations": 3
+    },
+    {
+      "node": {
+        "id": 38080,
+        "title": "Kono Oto Tomare!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1464/99881.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1464/99881l.jpg"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 28851,
+        "title": "Koe no Katachi",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1122/96435.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1122/96435l.jpg"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 23273,
+        "title": "Shigatsu wa Kimi no Uso",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1405/143284.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1405/143284l.jpg"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 51614,
+        "title": "Ao no Orchestra",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1832/133754.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1832/133754l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 23847,
+        "title": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/11/75376.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/11/75376l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 120,
+        "title": "Fruits Basket",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/4/75204.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/4/75204l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 22789,
+        "title": "Barakamon",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1426/111248.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1426/111248l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 16,
+        "title": "Hachimitsu to Clover",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1301/133577.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1301/133577l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 37965,
+        "title": "Kaze ga Tsuyoku Fuiteiru",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1936/129119.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1936/129119l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "28207",
+      "completed": "256769",
+      "on_hold": "11417",
+      "dropped": "6483",
+      "plan_to_watch": "142581"
+    },
+    "num_list_users": 445457
+  },
+  "mal_details_updated_at": "2026-11-10T01:28:49.297Z"
 }

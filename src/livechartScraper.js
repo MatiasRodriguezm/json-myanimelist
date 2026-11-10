@@ -169,6 +169,77 @@ export async function preloadSeasonMappings(existingMap = {}) {
 }
 
 /**
+ * Obtiene los animes en hiatus (pausa) desde LiveChart (release_statuses=16).
+ */
+export async function fetchHiatusAnime(malMap = {}) {
+  try {
+    const url = "https://www.livechart.me/anime?release_statuses=16";
+    const html = await fetchHtml(url);
+    const $ = cheerio.load(html);
+    const hiatusList = [];
+
+    $("article.lc-anime-card-abs, article").each((_, el) => {
+      const card = $(el);
+      const rawId =
+        card.attr("data-anime-item-id") ||
+        card.find('a[href^="/anime/"]').first().attr("href")?.split("/")[2];
+      const liveChartId = parseInt(rawId, 10);
+      if (!liveChartId || isNaN(liveChartId)) return;
+
+      let malId = malMap[liveChartId] || null;
+      if (!malId) {
+        card.find('.related-links a, a[href*="myanimelist.net"]').each((_, a) => {
+          const href = $(a).attr("href") || "";
+          const m = href.match(MAL_ID_REGEX);
+          if (m) {
+            malId = parseInt(m[1] || m[2], 10);
+          }
+        });
+      }
+
+      const title =
+        card.attr("data-anime-item-romanized-native-title") ||
+        card.find(".lc-anime-details-card__title, [data-anime-item-romanized-native-title], h3").first().text().trim() ||
+        "";
+
+      const noteText =
+        card.find(".lc-scheduling-note-gist__message, [class*='scheduling-note'], [class*='release-state']").text().trim() ||
+        "Hiatus";
+
+      const epMatch = card.text().match(/(?:EP|Episode)\s*(\d+)/i);
+      const episode = epMatch ? parseInt(epMatch[1], 10) : 1;
+
+      const img = card.find("img");
+      const posterUrl = img.attr("src") || "";
+
+      hiatusList.push({
+        liveChartId,
+        live_chart_id: liveChartId,
+        malId: malId || null,
+        mal_id: malId || null,
+        title,
+        episode,
+        note: noteText,
+        posterUrl,
+        poster_url: posterUrl,
+        isHiatus: true,
+        is_hiatus: true,
+      });
+
+      if (malId) {
+        malMap[liveChartId] = malId;
+      }
+    });
+
+    console.log(`[LiveChartScraper] Animes en hiatus detectados: ${hiatusList.length}`);
+    return hiatusList;
+  } catch (err) {
+    console.warn("[LiveChartScraper] Error al obtener animes en hiatus:", err.message);
+    return [];
+  }
+}
+
+/**
  * Resuelve el malId de un anime individual si aún no está mapeado.
  */
 async function resolveSingleMalId(liveChartId) {
@@ -362,12 +433,16 @@ export async function syncLiveChart(daysBack = 14) {
     finalDays[d] = mergedDays[d];
   }
 
+  // 5.5 Obtener animes actualmente en Hiatus (pausa)
+  const hiatusList = await fetchHiatusAnime(malMap);
+
   const payload = {
     updatedAt: new Date().toISOString(),
     daysCount: Object.keys(finalDays).length,
     startDate: sortedDates[sortedDates.length - 1] || null,
     endDate: sortedDates[0] || null,
     days: finalDays,
+    hiatus: hiatusList,
     malMapping: malMap,
   };
 

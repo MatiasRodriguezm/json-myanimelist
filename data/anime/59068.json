@@ -61,7 +61,10 @@
       "name": "Trigger"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1796/143572l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1830/158890l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/xC5GyeIzLsSRizJE5LedGShNgBa.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/rIEILsWo5ARUeThCc4hGYzG9SGo.png",
   "tmdb_id": "207784",
@@ -94,30 +97,53 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1830/158890l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1830/158890l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1830/158890l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1830/158890l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1830/158890l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1830/158890l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1830/158890l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1830/158890l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1830/158890l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1830/158890l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1796/143572l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1796/143572l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1796/143572l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1796/143572l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1796/143572l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1796/143572l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1796/143572l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1796/143572l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1796/143572l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1796/143572l.jpg"
     }
   },
   "broadcast": null,
   "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "popularity": 2090,
+  "num_scoring_users": 1,
+  "nsfw": "white",
+  "created_at": "2024-06-13T14:19:00+00:00",
+  "updated_at": "2026-07-05T02:09:34+00:00",
+  "source": "manga",
+  "rating": "r",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 52701,
+        "title": "Dungeon Meshi",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1711/142478.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1711/142478l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    }
+  ],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": "4",
+      "completed": "1",
+      "on_hold": "5",
+      "dropped": "1",
+      "plan_to_watch": "126277"
+    },
+    "num_list_users": 126288
+  },
+  "mal_details_updated_at": "2026-11-10T01:31:15.259Z"
 }

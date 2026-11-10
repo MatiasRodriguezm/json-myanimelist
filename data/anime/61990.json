@@ -31,8 +31,8 @@
   "num_episodes": 10,
   "score": 8.16,
   "mean": 8.16,
-  "numListUsers": 212856,
-  "num_list_users": 212856,
+  "numListUsers": 212883,
+  "num_list_users": 212883,
   "genres": [
     {
       "id": 1,
@@ -53,7 +53,12 @@
       "name": "Trigger"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1451/150888l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1169/158763l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1880/158764l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1431/160542l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/bknKZO7DWVYKeByuJMnGI46PFZg.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/sNhrCQwDbvu6hGm8yKNQAh3njKf.png",
   "tmdb_id": "105248",
@@ -176,30 +181,87 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1431/160542l.webp",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1431/160542l.webp",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1431/160542l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1431/160542l.webp",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1431/160542l.webp",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1431/160542l.webp",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1431/160542l.webp",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1431/160542l.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1431/160542l.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1431/160542l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1451/150888l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1451/150888l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1451/150888l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1451/150888l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1451/150888l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1451/150888l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1451/150888l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1451/150888l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1451/150888l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1451/150888l.jpg"
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 517,
+  "popularity": 1360,
+  "num_scoring_users": 77579,
+  "nsfw": "white",
+  "created_at": "2025-07-04T21:56:45+00:00",
+  "updated_at": "2026-10-30T06:10:15+00:00",
+  "source": "game",
+  "rating": "r",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 42310,
+        "title": "Cyberpunk: Edgerunners",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1818/126435.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1818/126435l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 6,
+        "title": "Trigun",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1130/120002.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1130/120002l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 47,
+        "title": "Akira",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1408/114012.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1408/114012l.webp"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 227,
+        "title": "FLCL",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/7/77356.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/7/77356l.webp"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "22498",
+      "completed": "89443",
+      "on_hold": "771",
+      "dropped": "396",
+      "plan_to_watch": "99759"
+    },
+    "num_list_users": 212867
+  },
+  "mal_details_updated_at": "2026-11-10T01:32:57.034Z"
 }

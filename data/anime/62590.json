@@ -55,7 +55,11 @@
       "name": "Aisle"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1232/152283l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1990/155811l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1903/159928l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/1Ik6i72QjVRNQ3N475uxiFxRrv9.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/kfp8LJ7K5ay237K9lfvBFWIylbY.png",
   "tmdb_id": "276288",
@@ -138,16 +142,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1903/159928l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1903/159928l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1903/159928l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1903/159928l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1903/159928l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1903/159928l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1903/159928l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1903/159928l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1903/159928l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1903/159928l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1232/152283l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1232/152283l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1232/152283l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1232/152283l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1232/152283l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1232/152283l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1232/152283l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1232/152283l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1232/152283l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1232/152283l.jpg"
     }
   },
   "broadcast": {
@@ -158,17 +162,40 @@
     "timezone": "Asia/Tokyo",
     "string": "sunday 23:45"
   },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 5710,
+  "popularity": 8218,
+  "num_scoring_users": 627,
+  "nsfw": "white",
+  "created_at": "2025-09-28T15:27:28+00:00",
+  "updated_at": "2026-10-04T20:36:24+00:00",
+  "source": "web_manga",
+  "rating": "pg_13",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 60260,
+        "title": "Hotel Inhumans",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1900/150443.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1900/150443l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    }
+  ],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": "3126",
+      "completed": "1",
+      "on_hold": "109",
+      "dropped": "188",
+      "plan_to_watch": "4442"
+    },
+    "num_list_users": 7866
+  },
+  "mal_details_updated_at": "2026-11-10T01:34:09.523Z"
 }

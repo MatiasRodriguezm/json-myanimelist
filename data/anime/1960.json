@@ -55,7 +55,13 @@
       "name": "TMS Entertainment"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1/1960l.jpg",
+    "https://cdn.myanimelist.net/images/anime/5/29285l.jpg",
+    "https://cdn.myanimelist.net/images/anime/6/29287l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1902/111797l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1906/132030l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/c8db6dTAt0uLjYyQ4kyJrgZpmjQ.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/oGtCWnDtzn3oZNQ0CnCzN92KQho.png",
   "tmdb_id": "56389",
@@ -14509,16 +14515,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1902/111797l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1902/111797l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1902/111797l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1902/111797l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1902/111797l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1902/111797l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1902/111797l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1902/111797l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1902/111797l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1902/111797l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1/1960l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1/1960l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1/1960l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1/1960l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1/1960l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1/1960l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1/1960l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1/1960l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1/1960l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1/1960l.jpg"
     }
   },
   "broadcast": {
@@ -14529,17 +14535,1322 @@
     "timezone": "Asia/Tokyo",
     "string": "friday 16:20"
   },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 5995,
+  "popularity": 9699,
+  "num_scoring_users": 1574,
+  "nsfw": "white",
+  "created_at": "2007-02-18T18:45:21+00:00",
+  "updated_at": "2026-10-17T08:05:27+00:00",
+  "source": "picture_book",
+  "rating": "pg",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 9007,
+        "title": "Sore Ike! Anpanman: Black Nose to Mahou no Uta",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/24923.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/24923l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 9446,
+        "title": "Sore Ike! Anpanman: Niji no Pyramid",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/12/26142.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/12/26142l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 9451,
+        "title": "Sore Ike! Anpanman: Ningyohime no Namida",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/8/26291.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/8/26291l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 10056,
+        "title": "Sore Ike! Anpanman: Kyouryuu Nosshii no Daibouken",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/6/28052.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/6/28052l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 10057,
+        "title": "Sore Ike! Anpanman: Tobe! Tobe! Chibigon",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/4/27773.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/4/27773l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 10058,
+        "title": "Sore Ike! Anpanman: Yuurei Sen wo Yattsukero!!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1054/132029.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1054/132029l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 10059,
+        "title": "Sore Ike! Anpanman: Tsumikijou no Himitsu",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/12/27775.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/12/27775l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 10060,
+        "title": "Sore Ike! Anpanman: Soratobu Ehon to Glass no Kutsu",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/11/28053.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/11/28053l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 10061,
+        "title": "Sore Ike! Anpanman: Baikinman no Gyakushuu",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/12/27777.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/12/27777l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 10684,
+        "title": "Sore Ike! Anpanman: Sukue! Kokorin to Kiseki no Hoshi",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/49479.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/49479l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 10685,
+        "title": "Sore Ike! Anpanman: Utatte Teasobi! Anpanman to Mori no Takara",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/12/59303.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/12/59303l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 11791,
+        "title": "Sore Ike! Anpanman: Ruby no Negai",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/5/32959.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/5/32959l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 14381,
+        "title": "Sore Ike! Anpanman: Yomigaere Bananajima",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/3/39427.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/3/39427l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 16988,
+        "title": "Sore Ike! Anpanman: Anpanman to Christmas no Hoshi",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/8/45570.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/8/45570l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 17004,
+        "title": "Sore Ike! Anpanman: Franken-Robo-kun's Surprised Christmas",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/4/45572.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/4/45572l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 17006,
+        "title": "Sore Ike! Anpanman: Sing! Dance! Everybody's Christmas",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/6/45574.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/6/45574l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 17213,
+        "title": "Sore Ike! Anpanman: Dadandan to Futago no Hoshi",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/8/45969.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/8/45969l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 17215,
+        "title": "Sore Ike! Anpanman: Happy no Daibouken",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/3/45971.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/3/45971l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 17219,
+        "title": "Sore Ike! Anpanman: Roll to Laura Ukigumojou no Himitsu",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/11/45975.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/11/45975l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 18355,
+        "title": "Sore Ike! Anpanman: Minna de Teasobi - Anpanman to Itazura Obake",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/2/49477.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/2/49477l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 18357,
+        "title": "Sore Ike! Anpanman: Tobase! Kibou no Handkerchief",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/9/49475.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/9/49475l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 18591,
+        "title": "Sore Ike! Anpanman: Inochi no Hoshi no Dolly",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/6/49667.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/6/49667l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 19433,
+        "title": "Sore Ike! Anpanman: Omusubiman",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/9/52081.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/9/52081l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 19557,
+        "title": "Anpanman to Hajimeyou! Iro, Kazu, Katachi Wakaru ka na Iro, Katachi",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/13/52397.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/13/52397l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 20113,
+        "title": "Sore Ike! Anpanman: Tekka no Maki-chan to Kin no Kamameshidon",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/7/53597.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/7/53597l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 21291,
+        "title": "Sore Ike! Anpanman: Minami no Umi wo Sukue!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/4/56227.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/4/56227l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 21293,
+        "title": "Sore Ike! Anpanman: Shabondama no Purun",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/9/56229.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/9/56229l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 21295,
+        "title": "Sore Ike! Anpanman: Tenohira wo Taiyou ni",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/9/56241.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/9/56241l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 21297,
+        "title": "Sore Ike! Anpanman: Yakisobapanman to Black Sabotenman",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/9/56233.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/9/56233l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 21933,
+        "title": "Sore Ike! Anpanman: Anpanman to Happy Otanjoubi",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/8/57671.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/8/57671l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 21935,
+        "title": "Sore Ike! Anpanman: Anpanman to Okashina Nakama",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/7/57673.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/7/57673l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 21937,
+        "title": "Sore Ike! Anpanman: Anpanman to Yukai na Nakama-tachi",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1141/138951.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1141/138951l.webp"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 21941,
+        "title": "Sore Ike! Anpanman: Anpanman no Jin-Jin-Jingle Bells",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/7/57679.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/7/57679l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 21943,
+        "title": "Sore Ike! Anpanman: Baikinman to 3-bai Punch",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/5/57681.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/5/57681l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 21945,
+        "title": "Sore Ike! Anpanman: Baikinman vs. Baikinman!?",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/2/57699.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/2/57699l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 21947,
+        "title": "Sore Ike! Anpanman: Gomira no Hoshi",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/3/57701.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/3/57701l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 21951,
+        "title": "Sore Ike! Anpanman: Hiya Hiya Hiyariko to Babu Babu Baikinman",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1907/139297.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1907/139297l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 21953,
+        "title": "Sore Ike! Anpanman: Horrorman to Hora Horako",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/9/57705.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/9/57705l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 21955,
+        "title": "Sore Ike! Anpanman: Kokin-chan to Namida no Christmas",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/57707.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/57707l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 21957,
+        "title": "Sore Ike! Anpanman: Kokin-chan to Aoi Namida",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/7/57709.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/7/57709l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 21959,
+        "title": "Sore Ike! Anpanman: Kuroyuki-hime to Mote Mote Baikinman",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/11/57711.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/11/57711l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 21961,
+        "title": "Sore Ike! Anpanman: Minna Atsumare! Anpanman World",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/8/57713.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/8/57713l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 21963,
+        "title": "Sore Ike! Anpanman: Tsukiko to Shiratama - Tokimeki Dancing",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/4/57715.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/4/57715l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 21967,
+        "title": "Sore Ike! Anpanman: Yousei Rinrin no Himitsu",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/2/57717.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/2/57717l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 21969,
+        "title": "Sore Ike! Anpanman: Yumeneko no Kuni no Nyanii",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/7/57719.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/7/57719l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 21971,
+        "title": "Sore Ike! Anpanman: Yuuki no Hana ga Hiraku Toki",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/2/57721.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/2/57721l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 21973,
+        "title": "Sore Ike! Anpanman: Anpanman to Oyakusoku",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/12/57687.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/12/57687l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 21975,
+        "title": "Sore Ike! Anpanman: Outa to Teasobi Tanoshii ne",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/4/57691.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/4/57691l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 22035,
+        "title": "Sore Ike! Anpanman: Lyrical☆Magical Mahou no Gakkou",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/57819.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/57819l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 23617,
+        "title": "Sore Ike! Anpanman: Ringo Boy to Minna no Negai",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1227/119343.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1227/119343l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 27371,
+        "title": "Sore Ike! Anpanman: Bokura wa Hero",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/11/66455.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/11/66455l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 27373,
+        "title": "Sore Ike! Anpanman: Otanjoubi Series",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/4/66457.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/4/66457l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 27491,
+        "title": "Sore Ike! Anpanman: Kaiketsu Naganegiman to Doremi-hime",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/8/66661.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/8/66661l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 27493,
+        "title": "Sore Ike! Anpanman: Yuuki no Honoo to Christmas",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/13/66663.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/13/66663l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 27495,
+        "title": "Sore Ike! Anpanman: Kaiketsu Naganegiman to Yakisobapanman",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1062/139624.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1062/139624l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 27497,
+        "title": "Sore Ike! Anpanman: Kieta Jam Ojisan",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/4/66667.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/4/66667l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 27569,
+        "title": "Sore Ike! Anpanman: Hashire! Wakuwaku Anpanman Grand Prix",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/3/66775.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/3/66775l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 27571,
+        "title": "Sore Ike! Anpanman: Keito no Shiro no Christmas",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/4/66777.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/4/66777l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 27683,
+        "title": "Sore Ike! Anpanman: Rhythm de Teasobi - Anpanman to Fushigi na Parasol",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/6/67007.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/6/67007l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 32676,
+        "title": "Sore Ike! Anpanman: Omocha no Hoshi no Nanda to Runda",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1664/127023.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1664/127023l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 39002,
+        "title": "Sore Ike! Anpanman: Kirameke! Ice no Kuni no Vanilla-hime",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1759/127119.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1759/127119l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 39109,
+        "title": "Yuuki no Hana ga Hiraku Toki: Yanase Takashi to Anpanman no Monogatari",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1432/98577.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1432/98577l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 39827,
+        "title": "Sore Ike! Anpanman no Hiragana Asobi: Hajimete no AIUEO",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1950/101032.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1950/101032l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 41028,
+        "title": "Sore Ike! Anpanman: Fuwa Fuwa Fuwaly to Kumo no Kuni",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1128/159526.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1128/159526l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 49391,
+        "title": "Sore Ike! Anpanman: Rhythm de Utaou! Anpanman Natsumatsuri",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1671/116397.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1671/116397l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 52452,
+        "title": "Sore Ike! Anpanman: Dororin to Bakeru Carnival",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1652/125724.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1652/125724l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 52473,
+        "title": "Sore Ike! Anpanman: Tanoshiku Teasobi Mama ni Natta Kokin-chan!?",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1406/125699.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1406/125699l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 53942,
+        "title": "Sore Ike! Anpanman: Hoshi no Iro to Sora no Iro",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1860/132022.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1860/132022l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 53943,
+        "title": "Sore Ike! Anpanman: SLman to Hoshi wo Utsusou",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1371/132023.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1371/132023l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 53944,
+        "title": "Sore Ike! Anpanman: 12 Seiza wo Sukui Dase",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1367/132024.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1367/132024l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 53945,
+        "title": "Sore Ike! Anpanman: Hoshizora wo Kaese",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1786/132025.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1786/132025l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 53948,
+        "title": "Sore Ike! Anpanman: Chibi Ookami to Tsuki no Fushigi",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1889/132031.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1889/132031l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 54135,
+        "title": "Sore Ike! Anpanman Movie: Roboly to Pokapoka Present",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1431/136549.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1431/136549l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 55516,
+        "title": "Anpanman ga Umareta Hi",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1969/136172.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1969/136172l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 58240,
+        "title": "Sore Ike! Anpanman: Christmas da! Minna Atsumare",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1042/141626.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1042/141626l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 58991,
+        "title": "Sore Ike! Anpanman: Happy Otanjoubi Series",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1198/143426.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1198/143426l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 59146,
+        "title": "Sore Ike! Anpanman Movie: Baikinman to Ehon no Lulun",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1146/143727.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1146/143727l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 60308,
+        "title": "Sore Ike! Anpanman: Anpanman to Black Christmas",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1054/146529.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1054/146529l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 60309,
+        "title": "Sore Ike! Anpanman: Meringue Sisters no Christmas",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1660/146530.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1660/146530l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 60322,
+        "title": "Sore Ike! Anpanman: Bokura no Christmas Concert",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1795/146553.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1795/146553l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 60323,
+        "title": "Sore Ike! Anpanman: Anpanman to Merry Christmas",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1542/146554.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1542/146554l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 60364,
+        "title": "Sore Ike! Anpanman: Anpanman no Christmas Show",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1034/146632.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1034/146632l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 60365,
+        "title": "Sore Ike! Anpanman: Anpanman to Chiisana Santa no Christmas",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1665/146633.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1665/146633l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 60383,
+        "title": "Sore Ike! Anpanman: Black Santa to Suteki na Present",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1194/146658.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1194/146658l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 60384,
+        "title": "Sore Ike! Anpanman: Ganbare Cream Panda! Christmas no Bouken",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1349/146659.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1349/146659l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 60392,
+        "title": "Sore Ike! Anpanman: Akahana Chappie Yuuki no Christmas",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1002/146670.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1002/146670l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 60393,
+        "title": "Sore Ike! Anpanman: Anpanman to Gomira no Shiro no Christmas",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1439/146671.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1439/146671l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 60404,
+        "title": "Sore Ike! Anpanman: Doremifa Shima no Christmas",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1023/146716.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1023/146716l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 60405,
+        "title": "Sore Ike! Anpanman: Kagayake! Burikid no Christmas Tree",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1322/146717.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1322/146717l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 60422,
+        "title": "Sore Ike! Anpanman: Anpanman to Santa-san e no Tegami",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1969/146759.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1969/146759l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 60423,
+        "title": "Sore Ike! Anpanman: Baikinman to Suteki na Christmas Cake",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1572/146760.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1572/146760l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 60430,
+        "title": "Sore Ike! Anpanman: Poppo-chan no Kirakira Christmas",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1979/146780.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1979/146780l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 60431,
+        "title": "Sore Ike! Anpanman: Kokin-chan to Christmas no Okurimono",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1017/146781.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1017/146781l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 60438,
+        "title": "Sore Ike! Anpanman: Anpanman to Hajimete no Christmas Night",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1822/146797.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1822/146797l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 60439,
+        "title": "Sore Ike! Anpanman: Santa ni Natta Chibi wo Ookami-kun",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1502/146798.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1502/146798l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 60471,
+        "title": "Sore Ike! Anpanman: Santa-san wo Sukue! Koori no Shiro no Christmas",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1645/146860.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1645/146860l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 60472,
+        "title": "Sore Ike! Anpanman: Tetsu no Hoshi no Iron Christmas",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1567/146861.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1567/146861l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 60491,
+        "title": "Sore Ike! Anpanman: Chibikko Santa no Niconico Christmas",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1766/146896.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1766/146896l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 60492,
+        "title": "Sore Ike! Anpanman: Akachanman to Baikin Santa",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1292/146898.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1292/146898l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 60962,
+        "title": "Sore Ike! Anpanman: Chapon no Hero!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1706/148366.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1706/148366l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 62812,
+        "title": "Anpanman to Hajimeyou! Kisetsu no Uta",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1369/152727.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1369/152727l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 63356,
+        "title": "Sore Ike! Anpanman: Pantan to Yakusoku no Hoshi",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1907/155086.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1907/155086l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 65201,
+        "title": "Sore Ike! Anpanman: Hoshizora wo Kaese (2024)",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1883/160577.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1883/160577l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 65228,
+        "title": "Soreike! Anpanman: Norimono Iro-iro Daibouken",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1817/160644.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1817/160644l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 65229,
+        "title": "Soreike! Anpanman: Panya-san te Donnatoko?",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1175/160645.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1175/160645l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 9768,
+        "title": "Shima Shima Tora no Shimajirou",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/4/27049.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/4/27049l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 2287,
+        "title": "Kakutou Ryouri Densetsu Bistro Recipe",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1715/105092.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1715/105092l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 5201,
+        "title": "Salad Juu Yuushi Tomatoman",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/4/32445.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/4/32445l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "1780",
+      "completed": 0,
+      "on_hold": "629",
+      "dropped": "1274",
+      "plan_to_watch": "1480"
+    },
+    "num_list_users": 5163
+  },
+  "mal_details_updated_at": "2026-11-10T01:27:22.988Z"
 }

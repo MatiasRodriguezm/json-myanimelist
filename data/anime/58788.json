@@ -50,7 +50,11 @@
       "name": "Shuka"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1138/142838l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1238/151864l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1791/154233l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/nUBAxPUHcHefOo0mgLT01g0fEyZ.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/sK73gj0s4HIwkqdxPZlYZ6hgWAJ.png",
   "tmdb_id": "253476",
@@ -203,16 +207,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1791/154233l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1791/154233l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1791/154233l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1791/154233l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1791/154233l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1791/154233l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1791/154233l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1791/154233l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1791/154233l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1791/154233l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1138/142838l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1138/142838l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1138/142838l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1138/142838l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1138/142838l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1138/142838l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1138/142838l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1138/142838l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1138/142838l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1138/142838l.jpg"
     }
   },
   "broadcast": {
@@ -223,17 +227,138 @@
     "timezone": "Asia/Tokyo",
     "string": "sunday 23:00"
   },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 66,
+  "popularity": 2003,
+  "num_scoring_users": 49463,
+  "nsfw": "white",
+  "created_at": "2024-05-03T10:28:20+00:00",
+  "updated_at": "2026-06-30T12:49:48+00:00",
+  "source": "manga",
+  "rating": "pg_13",
   "background": null,
   "related_anime": [],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 31646,
+        "title": "3-gatsu no Lion",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1590/154000.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1590/154000l.jpg"
+        }
+      },
+      "num_recommendations": 5
+    },
+    {
+      "node": {
+        "id": 59619,
+        "title": "Ame to Kimi to",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1329/150512.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1329/150512l.jpg"
+        }
+      },
+      "num_recommendations": 4
+    },
+    {
+      "node": {
+        "id": 10162,
+        "title": "Usagi Drop",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1460/98853.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1460/98853l.jpg"
+        }
+      },
+      "num_recommendations": 3
+    },
+    {
+      "node": {
+        "id": 13585,
+        "title": "Natsuyuki Rendezvous",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/11/38181.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/11/38181l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 27989,
+        "title": "Hibike! Euphonium",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1517/142072.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1517/142072l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 35839,
+        "title": "Sora yori mo Tooi Basho",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/6/89879.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/6/89879l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 32948,
+        "title": "Fune wo Amu",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/5/81624.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/5/81624l.webp"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 32526,
+        "title": "Love Live! Sunshine!!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/8/80791.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/8/80791l.webp"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 59597,
+        "title": "Witch Watch",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1526/150689.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1526/150689l.webp"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 58125,
+        "title": "Look Back",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1716/142633.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1716/142633l.webp"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "17746",
+      "completed": "53856",
+      "on_hold": "2657",
+      "dropped": "2134",
+      "plan_to_watch": "56564"
+    },
+    "num_list_users": 132957
+  },
+  "mal_details_updated_at": "2026-11-10T01:31:12.992Z"
 }

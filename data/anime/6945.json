@@ -65,7 +65,11 @@
       "name": "Sunrise"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/6/16161l.jpg",
+    "https://cdn.myanimelist.net/images/anime/12/24962l.jpg",
+    "https://cdn.myanimelist.net/images/anime/13/24963l.jpg"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
@@ -2157,42 +2161,77 @@
   ],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/6/16161.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/6/16161l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/6/16161.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/6/16161l.webp"
+      "image_url": "https://cdn.myanimelist.net/images/anime/6/16161.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/6/16161l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/6/16161.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/6/16161l.jpg"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/6/16161.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/6/16161l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/6/16161.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/16161l.jpg"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/6/16161l.webp",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/6/16161l.webp",
-      "image_url": "https://cdn.myanimelist.net/images/anime/6/16161l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/6/16161l.webp",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/6/16161l.webp",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/6/16161l.webp",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/6/16161l.webp",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/6/16161l.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/6/16161l.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/6/16161l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/6/16161l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/6/16161l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/6/16161l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/6/16161l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/6/16161l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/6/16161l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/6/16161l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/6/16161l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/6/16161l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/6/16161l.jpg"
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 273,
+  "popularity": 2912,
+  "num_scoring_users": 37241,
+  "nsfw": "white",
+  "created_at": "2009-08-06T12:26:19+00:00",
+  "updated_at": "2026-08-26T07:28:51+00:00",
+  "source": "manga",
+  "rating": "pg_13",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 918,
+        "title": "Gintama",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/73274.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/73274l.jpg"
+        }
+      },
+      "relation_type": "parent_story",
+      "relation_type_formatted": "Parent story"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 30514,
+        "title": "Nisekoimonogatari",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1940/121746.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1940/121746l.webp"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "1924",
+      "completed": "55097",
+      "on_hold": "713",
+      "dropped": "670",
+      "plan_to_watch": "18155"
+    },
+    "num_list_users": 76559
+  },
+  "mal_details_updated_at": "2026-11-10T01:37:44.949Z"
 }

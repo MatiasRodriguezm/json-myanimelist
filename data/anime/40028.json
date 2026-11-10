@@ -70,7 +70,19 @@
       "name": "MAPPA"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1661/101764l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1873/103180l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1384/107759l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1086/109406l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1773/109409l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1536/109462l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1505/110414l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1000/110531l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1142/110532l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1441/110935l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1824/110939l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/rqbCbjB19amtOtFQbb3K2lgm2zv.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/eHMfVTIwen9anB4HuvQlFRGZFms.png",
   "tmdb_id": "1429",
@@ -304,16 +316,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1000/110531l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1000/110531l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1000/110531l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1000/110531l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1000/110531l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1000/110531l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1000/110531l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1000/110531l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1000/110531l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1000/110531l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1661/101764l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1661/101764l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1661/101764l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1661/101764l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1661/101764l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1661/101764l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1661/101764l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1661/101764l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1661/101764l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1661/101764l.jpg"
     }
   },
   "broadcast": {
@@ -324,17 +336,187 @@
     "timezone": "Asia/Tokyo",
     "string": "monday 00:10"
   },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
+  "rank": 41,
+  "popularity": 28,
+  "num_scoring_users": 1564026,
+  "nsfw": "white",
+  "created_at": "2019-06-30T16:47:58+00:00",
+  "updated_at": "2024-07-05T07:08:22+00:00",
+  "source": "manga",
+  "rating": "r",
+  "background": "Shingeki no Kyojin: The Final Season adapts content from volumes 23-28 of Hajime Isayama's award-winning manga.",
+  "related_anime": [
+    {
+      "node": {
+        "id": 38524,
+        "title": "Shingeki no Kyojin Season 3 Part 2",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1517/100633.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1517/100633l.webp"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    },
+    {
+      "node": {
+        "id": 48583,
+        "title": "Shingeki no Kyojin: The Final Season Part 2",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1948/120625.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1948/120625l.jpg"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    },
+    {
+      "node": {
+        "id": 49627,
+        "title": "Shingeki no Kyojin: The Final Season Specials",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1470/117265.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1470/117265l.webp"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 51618,
+        "title": "Boku no Sensou",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1454/122669.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1454/122669l.webp"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 32615,
+        "title": "Youjo Senki",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/5/82890.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/5/82890l.jpg"
+        }
+      },
+      "num_recommendations": 8
+    },
+    {
+      "node": {
+        "id": 41457,
+        "title": "86",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1987/117507.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1987/117507l.jpg"
+        }
+      },
+      "num_recommendations": 8
+    },
+    {
+      "node": {
+        "id": 37521,
+        "title": "Vinland Saga",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1500/103005.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1500/103005l.webp"
+        }
+      },
+      "num_recommendations": 6
+    },
+    {
+      "node": {
+        "id": 820,
+        "title": "Ginga Eiyuu Densetsu",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1976/142016.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1976/142016l.jpg"
+        }
+      },
+      "num_recommendations": 5
+    },
+    {
+      "node": {
+        "id": 1575,
+        "title": "Code Geass: Hangyaku no Lelouch",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1032/135088.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1032/135088l.jpg"
+        }
+      },
+      "num_recommendations": 5
+    },
+    {
+      "node": {
+        "id": 2904,
+        "title": "Code Geass: Hangyaku no Lelouch R2",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1088/135089.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1088/135089l.webp"
+        }
+      },
+      "num_recommendations": 3
+    },
+    {
+      "node": {
+        "id": 38000,
+        "title": "Kimetsu no Yaiba",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1286/99889.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1286/99889l.jpg"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 28623,
+        "title": "Koutetsujou no Kabaneri",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/12/79164.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/12/79164l.webp"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 5114,
+        "title": "Fullmetal Alchemist: Brotherhood",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1208/94745.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1208/94745l.jpg"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 165,
+        "title": "RahXephon",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/13/75168.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/13/75168l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "293319",
+      "completed": "1841465",
+      "on_hold": "27225",
+      "dropped": "19222",
+      "plan_to_watch": "169855"
+    },
+    "num_list_users": 2351086
+  },
+  "mal_details_updated_at": "2026-11-10T01:29:14.968Z"
 }

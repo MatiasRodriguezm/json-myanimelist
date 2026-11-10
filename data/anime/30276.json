@@ -32,8 +32,8 @@
   "num_episodes": 12,
   "score": 8.47,
   "mean": 8.47,
-  "numListUsers": 3573960,
-  "num_list_users": 3573960,
+  "numListUsers": 3574022,
+  "num_list_users": 3574022,
   "genres": [
     {
       "id": 1,
@@ -66,7 +66,10 @@
       "name": "Madhouse"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/7/72533l.jpg",
+    "https://cdn.myanimelist.net/images/anime/12/76049l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/s0w8JbuNNxL1YgaHeDWih12C3jG.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/s4c20xXgSDjbYAcpKchuWRU3zuR.png",
   "tmdb_id": "63926",
@@ -450,16 +453,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/12/76049l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/12/76049l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/12/76049l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/12/76049l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/76049l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/12/76049l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/12/76049l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/12/76049l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/76049l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/12/76049l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/7/72533l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/7/72533l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/72533l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/7/72533l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/72533l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/7/72533l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/7/72533l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/7/72533l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/72533l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/7/72533l.jpg"
     }
   },
   "broadcast": {
@@ -470,17 +473,199 @@
     "timezone": "Asia/Tokyo",
     "string": "monday 01:05"
   },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
+  "rank": 180,
+  "popularity": 4,
+  "num_scoring_users": 2456196,
+  "nsfw": "white",
+  "created_at": "2015-03-07T09:52:13+00:00",
+  "updated_at": "2025-08-27T23:03:33+00:00",
+  "source": "web_manga",
+  "rating": "r",
+  "background": "Episodes 1 and 2 were previewed at a screening in Saitama city cultural center (small hall) on September 6, 2015. Regular broadcasting began on October 5, 2015.\n\nOne Punch Man is based on Yusuke Murata's manga remake of ONE's original web comic. The anime adapts the first seven volumes of the manga.",
+  "related_anime": [
+    {
+      "node": {
+        "id": 31704,
+        "title": "One Punch Man: Road to Hero",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1802/124744.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1802/124744l.webp"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 31772,
+        "title": "One Punch Man Specials",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1452/97840.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1452/97840l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 34134,
+        "title": "One Punch Man 2nd Season",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1247/122044.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1247/122044l.jpg"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    },
+    {
+      "node": {
+        "id": 39652,
+        "title": "One Punch Man 2nd Season Commemorative Special",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1550/123539.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1550/123539l.webp"
+        }
+      },
+      "relation_type": "summary",
+      "relation_type_formatted": "Summary"
+    },
+    {
+      "node": {
+        "id": 49895,
+        "title": "Go! Saitama",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1644/151134.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1644/151134l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 32182,
+        "title": "Mob Psycho 100",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/8/80356.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/8/80356l.jpg"
+        }
+      },
+      "num_recommendations": 167
+    },
+    {
+      "node": {
+        "id": 31964,
+        "title": "Boku no Hero Academia",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/78745.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/10/78745l.webp"
+        }
+      },
+      "num_recommendations": 95
+    },
+    {
+      "node": {
+        "id": 52211,
+        "title": "Mashle",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1218/135107.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1218/135107l.jpg"
+        }
+      },
+      "num_recommendations": 30
+    },
+    {
+      "node": {
+        "id": 33255,
+        "title": "Saiki Kusuo no Ψ-nan",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1973/142750.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1973/142750l.jpg"
+        }
+      },
+      "num_recommendations": 28
+    },
+    {
+      "node": {
+        "id": 29803,
+        "title": "Overlord",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1945/136600.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1945/136600l.jpg"
+        }
+      },
+      "num_recommendations": 20
+    },
+    {
+      "node": {
+        "id": 918,
+        "title": "Gintama",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/73274.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/73274l.jpg"
+        }
+      },
+      "num_recommendations": 16
+    },
+    {
+      "node": {
+        "id": 9941,
+        "title": "Tiger & Bunny",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/13/29466.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/13/29466l.jpg"
+        }
+      },
+      "num_recommendations": 11
+    },
+    {
+      "node": {
+        "id": 15809,
+        "title": "Hataraku Maou-sama!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/3/50177.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/3/50177l.jpg"
+        }
+      },
+      "num_recommendations": 11
+    },
+    {
+      "node": {
+        "id": 15315,
+        "title": "Mondaiji-tachi ga Isekai kara Kuru Sou desu yo?",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/12/43369.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/12/43369l.webp"
+        }
+      },
+      "num_recommendations": 10
+    },
+    {
+      "node": {
+        "id": 813,
+        "title": "Dragon Ball Z",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1277/142022.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1277/142022l.jpg"
+        }
+      },
+      "num_recommendations": 9
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "151450",
+      "completed": "3125316",
+      "on_hold": "48266",
+      "dropped": "46899",
+      "plan_to_watch": "201761"
+    },
+    "num_list_users": 3573692
+  },
+  "mal_details_updated_at": "2026-11-10T01:28:26.904Z"
 }

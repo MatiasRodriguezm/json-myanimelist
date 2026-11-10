@@ -67,7 +67,20 @@
       "name": "Sunrise"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/6/5856l.jpg",
+    "https://cdn.myanimelist.net/images/anime/10/18746l.jpg",
+    "https://cdn.myanimelist.net/images/anime/6/43639l.jpg",
+    "https://cdn.myanimelist.net/images/anime/5/49343l.jpg",
+    "https://cdn.myanimelist.net/images/anime/13/63109l.jpg",
+    "https://cdn.myanimelist.net/images/anime/10/73246l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1073/91139l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1032/135088l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1036/144877l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1571/144879l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1542/144881l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1847/144883l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/ez2DKt7E1PI06OoXwQS5pvl840B.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/q1AHD0oorRWXmlyZ1njjVBZJQ8.png",
   "tmdb_id": "31724",
@@ -591,16 +604,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1032/135088l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1032/135088l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1032/135088l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1032/135088l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1032/135088l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1032/135088l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1032/135088l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1032/135088l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1032/135088l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1032/135088l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/6/5856l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/6/5856l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/6/5856l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/6/5856l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/6/5856l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/6/5856l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/6/5856l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/6/5856l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/6/5856l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/6/5856l.jpg"
     }
   },
   "broadcast": {
@@ -611,17 +624,355 @@
     "timezone": "Asia/Tokyo",
     "string": "friday 01:25"
   },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
+  "rank": 63,
+  "popularity": 23,
+  "num_scoring_users": 1552257,
+  "nsfw": "white",
+  "created_at": "2006-10-15T12:17:18+00:00",
+  "updated_at": "2025-12-07T12:25:06+00:00",
+  "source": "original",
+  "rating": "r+",
+  "background": "Code Geass: Hangyaku no Lelouch is an original anime series by Sunrise animation studio with original character designs by the all-female Japanese manga artist group Clamp. Manga and light novels based off the show have been published by Kadokawa Shoten. The show has sold millions of DVDs and Blu-ray volumes and is extremely popular in both Japan and North America. The show is known for its multi-genre appeal and for its diverse cast of characters who face many moral dilemmas over the course of the series.\n\nThe series won: \"The Best Anime TV Series\" award at the 2007 Tokyo International Anime Fair, \"The Best TV animation\" award at the twelfth Animation Kobe, and \"The Most Popular Anime\" award at the Animage 's 29th Annual Anime Grand Prix.\n\nThe series was rebroadcasted during October 2021 on the Animeism programming block to celebrate its 15th anniversary.",
+  "related_anime": [
+    {
+      "node": {
+        "id": 1953,
+        "title": "Code Geass: Hangyaku no Lelouch Picture Drama",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/7/23278.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/7/23278l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 2124,
+        "title": "Code Geass: Hangyaku no Lelouch Recaps",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/7/22569.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/7/22569l.jpg"
+        }
+      },
+      "relation_type": "summary",
+      "relation_type_formatted": "Summary"
+    },
+    {
+      "node": {
+        "id": 2904,
+        "title": "Code Geass: Hangyaku no Lelouch R2",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1088/135089.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1088/135089l.webp"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    },
+    {
+      "node": {
+        "id": 4596,
+        "title": "Code Geass: Hangyaku no Lelouch Special Edition - Black Rebellion",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/6/23532.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/6/23532l.jpg"
+        }
+      },
+      "relation_type": "summary",
+      "relation_type_formatted": "Summary"
+    },
+    {
+      "node": {
+        "id": 8888,
+        "title": "Code Geass: Boukoku no Akito 1 - Yokuryuu wa Maiorita",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/41401.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/41401l.jpg"
+        }
+      },
+      "relation_type": "alternative_setting",
+      "relation_type_formatted": "Alternative setting"
+    },
+    {
+      "node": {
+        "id": 12685,
+        "title": "Code Geass: Hangyaku no Lelouch - Nunnally in Wonderland",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/7/36175.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/7/36175l.jpg"
+        }
+      },
+      "relation_type": "spin_off",
+      "relation_type_formatted": "Spin-off"
+    },
+    {
+      "node": {
+        "id": 15197,
+        "title": "Code Geass: Boukoku no Akito 2 - Hikisakareshi Yokuryuu",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/9/56243.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/9/56243l.jpg"
+        }
+      },
+      "relation_type": "alternative_setting",
+      "relation_type_formatted": "Alternative setting"
+    },
+    {
+      "node": {
+        "id": 15199,
+        "title": "Code Geass: Boukoku no Akito 3 - Kagayaku Mono Ten yori Otsu",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/12/72698.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/12/72698l.jpg"
+        }
+      },
+      "relation_type": "alternative_setting",
+      "relation_type_formatted": "Alternative setting"
+    },
+    {
+      "node": {
+        "id": 15201,
+        "title": "Code Geass: Boukoku no Akito 4 - Nikushimi no Kioku kara",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/6/74757.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/6/74757l.webp"
+        }
+      },
+      "relation_type": "alternative_setting",
+      "relation_type_formatted": "Alternative setting"
+    },
+    {
+      "node": {
+        "id": 17277,
+        "title": "Code Geass: Soubou no Oz Picture Drama",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/9/61133.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/9/61133l.webp"
+        }
+      },
+      "relation_type": "alternative_setting",
+      "relation_type_formatted": "Alternative setting"
+    },
+    {
+      "node": {
+        "id": 30711,
+        "title": "Code Geass: Boukoku no Akito 5 - Itoshiki Mono-tachi e",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/2/77640.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/2/77640l.jpg"
+        }
+      },
+      "relation_type": "alternative_setting",
+      "relation_type_formatted": "Alternative setting"
+    },
+    {
+      "node": {
+        "id": 33155,
+        "title": "Code Geass: Hangyaku no Lelouch Picture Drama - Hajimari no Zenya",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/7/88061.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/7/88061l.webp"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 34438,
+        "title": "Code Geass: Hangyaku no Lelouch I - Koudou",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/6/87709.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/6/87709l.webp"
+        }
+      },
+      "relation_type": "alternative_version",
+      "relation_type_formatted": "Alternative version"
+    },
+    {
+      "node": {
+        "id": 34439,
+        "title": "Code Geass: Hangyaku no Lelouch II - Handou",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/13/89275.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/13/89275l.jpg"
+        }
+      },
+      "relation_type": "alternative_version",
+      "relation_type_formatted": "Alternative version"
+    },
+    {
+      "node": {
+        "id": 40334,
+        "title": "Code Geass: Hangyaku no Lelouch Picture Drama - Kiseki no Anniversary",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1633/102839.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1633/102839l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 40836,
+        "title": "Code Geass: Hangyaku no Lelouch Picture Drama - Kamen Kokuhaku Taikai",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1041/109950.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1041/109950l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 41075,
+        "title": "Code Geass: Hangyaku no Lelouch DVD Magazine Picture Drama",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1566/105441.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1566/105441l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 63066,
+        "title": "Code Geass: Hoshi Oi no Aspal",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1632/160879.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1632/160879l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 1535,
+        "title": "Death Note",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1079/138100.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1079/138100l.jpg"
+        }
+      },
+      "num_recommendations": 647
+    },
+    {
+      "node": {
+        "id": 10793,
+        "title": "Guilty Crown",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1566/133912.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1566/133912l.webp"
+        }
+      },
+      "num_recommendations": 53
+    },
+    {
+      "node": {
+        "id": 22729,
+        "title": "Aldnoah.Zero",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/7/60263.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/7/60263l.jpg"
+        }
+      },
+      "num_recommendations": 39
+    },
+    {
+      "node": {
+        "id": 2581,
+        "title": "Kidou Senshi Gundam 00",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/3/13200.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/3/13200l.jpg"
+        }
+      },
+      "num_recommendations": 28
+    },
+    {
+      "node": {
+        "id": 19815,
+        "title": "No Game No Life",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1074/111944.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1074/111944l.jpg"
+        }
+      },
+      "num_recommendations": 26
+    },
+    {
+      "node": {
+        "id": 41457,
+        "title": "86",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1987/117507.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1987/117507l.jpg"
+        }
+      },
+      "num_recommendations": 25
+    },
+    {
+      "node": {
+        "id": 820,
+        "title": "Ginga Eiyuu Densetsu",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1976/142016.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1976/142016l.jpg"
+        }
+      },
+      "num_recommendations": 25
+    },
+    {
+      "node": {
+        "id": 16668,
+        "title": "Kakumeiki Valvrave",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/3/49251.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/3/49251l.jpg"
+        }
+      },
+      "num_recommendations": 21
+    },
+    {
+      "node": {
+        "id": 2001,
+        "title": "Tengen Toppa Gurren Lagann",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/4/5123.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/4/5123l.webp"
+        }
+      },
+      "num_recommendations": 17
+    },
+    {
+      "node": {
+        "id": 2025,
+        "title": "Darker than Black: Kuro no Keiyakusha",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/5/19570.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/5/19570l.jpg"
+        }
+      },
+      "num_recommendations": 16
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "128027",
+      "completed": "1882682",
+      "on_hold": "68246",
+      "dropped": "51020",
+      "plan_to_watch": "393839"
+    },
+    "num_list_users": 2523814
+  },
+  "mal_details_updated_at": "2026-11-10T01:27:14.592Z"
 }

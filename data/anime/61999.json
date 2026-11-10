@@ -29,8 +29,8 @@
   "num_episodes": null,
   "score": 6.92,
   "mean": 6.92,
-  "numListUsers": 27549,
-  "num_list_users": 27549,
+  "numListUsers": 27558,
+  "num_list_users": 27558,
   "genres": [
     {
       "id": 1,
@@ -51,7 +51,11 @@
       "name": "100studio"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1668/150903l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1249/156304l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1299/159977l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/d63e5W3rWWuMIDcrUgmZTauMbna.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/mzzv48m0o3nvgMyNpbi8J4Ri6IC.png",
   "tmdb_id": "295420",
@@ -154,16 +158,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1299/159977l.webp",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1299/159977l.webp",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1299/159977l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1299/159977l.webp",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1299/159977l.webp",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1299/159977l.webp",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1299/159977l.webp",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1299/159977l.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1299/159977l.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1299/159977l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1668/150903l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1668/150903l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1668/150903l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1668/150903l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1668/150903l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1668/150903l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1668/150903l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1668/150903l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1668/150903l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1668/150903l.jpg"
     }
   },
   "broadcast": {
@@ -174,17 +178,52 @@
     "timezone": "Asia/Tokyo",
     "string": "saturday 17:30"
   },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 5366,
+  "popularity": 4983,
+  "num_scoring_users": 2692,
+  "nsfw": "white",
+  "created_at": "2025-07-05T18:17:48+00:00",
+  "updated_at": "2026-10-10T13:18:46+00:00",
+  "source": "manga",
+  "rating": "r",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 63811,
+        "title": "Shuiro no Kamen Part 2",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1360/156303.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1360/156303l.jpg"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 20853,
+        "title": "Hitsugi no Chaika",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/4/61781.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/4/61781l.webp"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "13008",
+      "completed": "3",
+      "on_hold": "375",
+      "dropped": "885",
+      "plan_to_watch": "13279"
+    },
+    "num_list_users": 27550
+  },
+  "mal_details_updated_at": "2026-11-10T01:32:57.785Z"
 }

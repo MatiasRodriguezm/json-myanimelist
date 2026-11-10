@@ -29,8 +29,8 @@
   "num_episodes": 13,
   "score": 7.82,
   "mean": 7.82,
-  "numListUsers": 3367452,
-  "num_list_users": 3367452,
+  "numListUsers": 3367536,
+  "num_list_users": 3367536,
   "genres": [
     {
       "id": 1,
@@ -55,7 +55,19 @@
       "name": "Bones"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/9/76970l.jpg",
+    "https://cdn.myanimelist.net/images/anime/2/77692l.jpg",
+    "https://cdn.myanimelist.net/images/anime/10/78745l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1109/92566l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1618/92567l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1600/92568l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1262/92569l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1949/92570l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1985/96688l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1136/114625l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1647/114626l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/3ILMlmC30QUnYkY3XEBOyJ82Dqu.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/ztteKox6S97uwEuEF2lsaFxaJmg.png",
   "tmdb_id": "65930",
@@ -379,16 +391,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/10/78745l.webp",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/10/78745l.webp",
-      "image_url": "https://cdn.myanimelist.net/images/anime/10/78745l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/10/78745l.webp",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/78745l.webp",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/10/78745l.webp",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/10/78745l.webp",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/10/78745l.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/78745l.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/10/78745l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/9/76970l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/9/76970l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/9/76970l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/9/76970l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/9/76970l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/9/76970l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/9/76970l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/9/76970l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/9/76970l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/9/76970l.jpg"
     }
   },
   "broadcast": {
@@ -399,17 +411,187 @@
     "timezone": "Asia/Tokyo",
     "string": "sunday 17:00"
   },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
+  "rank": 1125,
+  "popularity": 6,
+  "num_scoring_users": 2277148,
+  "nsfw": "white",
+  "created_at": "2015-10-27T08:31:53+00:00",
+  "updated_at": "2025-11-09T23:52:28+00:00",
+  "source": "manga",
+  "rating": "pg_13",
+  "background": "Mangaka Kouhei Horikoshi has noted that American superhero comics are the inspiration for the series, and has based character pages on logos for Marvel and DC comic characters.",
+  "related_anime": [
+    {
+      "node": {
+        "id": 33486,
+        "title": "Boku no Hero Academia 2nd Season",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/12/85221.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/12/85221l.jpg"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    },
+    {
+      "node": {
+        "id": 33929,
+        "title": "Boku no Hero Academia: Sukue! Kyuujo Kunren!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1812/111684.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1812/111684l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 35262,
+        "title": "Boku no Hero Academia: Hero Note",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1089/121748.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1089/121748l.jpg"
+        }
+      },
+      "relation_type": "summary",
+      "relation_type_formatted": "Summary"
+    },
+    {
+      "node": {
+        "id": 60593,
+        "title": "Vigilante: Boku no Hero Academia Illegals",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1538/148604.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1538/148604l.webp"
+        }
+      },
+      "relation_type": "spin_off",
+      "relation_type_formatted": "Spin-off"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 30276,
+        "title": "One Punch Man",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/12/76049.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/12/76049l.jpg"
+        }
+      },
+      "num_recommendations": 95
+    },
+    {
+      "node": {
+        "id": 34572,
+        "title": "Black Clover",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/2/88336.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/2/88336l.jpg"
+        }
+      },
+      "num_recommendations": 48
+    },
+    {
+      "node": {
+        "id": 20,
+        "title": "Naruto",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1141/142503.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1141/142503l.jpg"
+        }
+      },
+      "num_recommendations": 29
+    },
+    {
+      "node": {
+        "id": 24833,
+        "title": "Ansatsu Kyoushitsu",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/5/75639.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/5/75639l.jpg"
+        }
+      },
+      "num_recommendations": 28
+    },
+    {
+      "node": {
+        "id": 11061,
+        "title": "Hunter x Hunter (2011)",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1337/99013.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1337/99013l.jpg"
+        }
+      },
+      "num_recommendations": 27
+    },
+    {
+      "node": {
+        "id": 20583,
+        "title": "Haikyuu!!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/7/76014.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/7/76014l.jpg"
+        }
+      },
+      "num_recommendations": 25
+    },
+    {
+      "node": {
+        "id": 9941,
+        "title": "Tiger & Bunny",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/13/29466.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/13/29466l.jpg"
+        }
+      },
+      "num_recommendations": 23
+    },
+    {
+      "node": {
+        "id": 33489,
+        "title": "Little Witch Academia (TV)",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1520/147248.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1520/147248l.webp"
+        }
+      },
+      "num_recommendations": 21
+    },
+    {
+      "node": {
+        "id": 38000,
+        "title": "Kimetsu no Yaiba",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1286/99889.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1286/99889l.jpg"
+        }
+      },
+      "num_recommendations": 16
+    },
+    {
+      "node": {
+        "id": 28999,
+        "title": "Charlotte",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1826/147276.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1826/147276l.jpg"
+        }
+      },
+      "num_recommendations": 14
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "147821",
+      "completed": "2947393",
+      "on_hold": "34410",
+      "dropped": "52297",
+      "plan_to_watch": "185232"
+    },
+    "num_list_users": 3367153
+  },
+  "mal_details_updated_at": "2026-11-10T01:28:34.121Z"
 }

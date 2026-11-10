@@ -55,7 +55,10 @@
       "name": "Bones"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1448/118899l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1228/125011l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/kP5duNJEbTfXpBs6CITsaZ88pQi.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/nH2KsyLFAj9hB0VZYVhpPkFeKPD.png",
   "tmdb_id": "67075",
@@ -247,28 +250,28 @@
   ],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1228/125011.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1228/125011l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1228/125011.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1228/125011l.webp"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1228/125011.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1228/125011l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1228/125011.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1228/125011l.jpg"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1228/125011.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1228/125011l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1228/125011.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1228/125011l.jpg"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1228/125011l.webp",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1228/125011l.webp",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1228/125011l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1228/125011l.webp",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1228/125011l.webp",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1228/125011l.webp",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1228/125011l.webp",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1228/125011l.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1228/125011l.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1228/125011l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1448/118899l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1448/118899l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1448/118899l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1448/118899l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1448/118899l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1448/118899l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1448/118899l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1448/118899l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1448/118899l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1448/118899l.jpg"
     }
   },
   "broadcast": {
@@ -279,17 +282,129 @@
     "timezone": "Asia/Tokyo",
     "string": "thursday 00:00"
   },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 60,
+  "popularity": 246,
+  "num_scoring_users": 469734,
+  "nsfw": "white",
+  "created_at": "2021-10-19T12:54:06+00:00",
+  "updated_at": "2024-10-07T04:10:23+00:00",
+  "source": "web_manga",
+  "rating": "pg_13",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 37510,
+        "title": "Mob Psycho 100 II",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1918/96303.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1918/96303l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 40542,
+        "title": "Saiki Kusuo no Ψ-nan: Ψ-shidou-hen",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1993/119022.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1993/119022l.jpg"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 30276,
+        "title": "One Punch Man",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/12/76049.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/12/76049l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 33255,
+        "title": "Saiki Kusuo no Ψ-nan",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1973/142750.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1973/142750l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 34134,
+        "title": "One Punch Man 2nd Season",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1247/122044.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1247/122044l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 41345,
+        "title": "Noblesse",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1903/111646.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1903/111646l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 1210,
+        "title": "NHK ni Youkoso!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/3/52675.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/3/52675l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 49918,
+        "title": "Boku no Hero Academia 6th Season",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1483/126005.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1483/126005l.webp"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 59002,
+        "title": "Hazure Skill \"Kinomi Master\": Skill no Mi (Tabetara Shinu) wo Mugen ni Taberareru You ni Natta Ken ni Tsuite",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1703/146128.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1703/146128l.webp"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "81783",
+      "completed": "591238",
+      "on_hold": "16836",
+      "dropped": "6622",
+      "plan_to_watch": "200900"
+    },
+    "num_list_users": 897379
+  },
+  "mal_details_updated_at": "2026-11-10T01:30:38.093Z"
 }

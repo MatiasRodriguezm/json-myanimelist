@@ -61,7 +61,11 @@
       "name": "TMS Entertainment"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/8/80071l.jpg",
+    "https://cdn.myanimelist.net/images/anime/13/83410l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1542/148441l.jpg"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
@@ -144,30 +148,53 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1542/148441l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1542/148441l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1542/148441l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1542/148441l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1542/148441l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1542/148441l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1542/148441l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1542/148441l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1542/148441l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1542/148441l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/8/80071l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/8/80071l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/8/80071l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/8/80071l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/8/80071l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/8/80071l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/8/80071l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/8/80071l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/80071l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/8/80071l.jpg"
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 510,
+  "popularity": 2937,
+  "num_scoring_users": 37863,
+  "nsfw": "white",
+  "created_at": "2016-05-20T14:14:42+00:00",
+  "updated_at": "2025-06-12T00:07:07+00:00",
+  "source": "manga",
+  "rating": "pg_13",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 30709,
+        "title": "Kamisama Hajimemashita: Kako-hen",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/3/81250.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/3/81250l.webp"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    }
+  ],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": "1849",
+      "completed": "58555",
+      "on_hold": "557",
+      "dropped": "404",
+      "plan_to_watch": "14238"
+    },
+    "num_list_users": 75603
+  },
+  "mal_details_updated_at": "2026-11-10T01:28:43.607Z"
 }

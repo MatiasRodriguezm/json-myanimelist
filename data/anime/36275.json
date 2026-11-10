@@ -59,7 +59,10 @@
       "name": "Shuka"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/10/87615l.jpg",
+    "https://cdn.myanimelist.net/images/anime/4/88037l.jpg"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
@@ -221,15 +224,15 @@
   ],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/10/87615.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/87615l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/10/87615.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/10/87615l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/87615.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/87615l.webp",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/10/87615.webp",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/10/87615l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/10/87615.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/10/87615l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/10/87615.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/10/87615l.webp"
   },
   "trailer": {
     "images": {
@@ -246,17 +249,40 @@
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 236,
+  "popularity": 3533,
+  "num_scoring_users": 24644,
+  "nsfw": "white",
+  "created_at": "2017-09-07T11:50:11+00:00",
+  "updated_at": "2024-03-06T11:35:43+00:00",
+  "source": "manga",
+  "rating": "pg_13",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 34591,
+        "title": "Natsume Yuujinchou Roku",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/6/84416.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/6/84416l.webp"
+        }
+      },
+      "relation_type": "parent_story",
+      "relation_type_formatted": "Parent story"
+    }
+  ],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": "2260",
+      "completed": "35909",
+      "on_hold": "747",
+      "dropped": "435",
+      "plan_to_watch": "15518"
+    },
+    "num_list_users": 54869
+  },
+  "mal_details_updated_at": "2026-11-10T01:28:54.242Z"
 }

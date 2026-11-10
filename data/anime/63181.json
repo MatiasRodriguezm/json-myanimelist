@@ -29,8 +29,8 @@
   "num_episodes": 12,
   "score": 7.29,
   "mean": 7.29,
-  "numListUsers": 36360,
-  "num_list_users": 36360,
+  "numListUsers": 36367,
+  "num_list_users": 36367,
   "genres": [
     {
       "id": 1,
@@ -55,7 +55,11 @@
       "name": "Studio Hibari"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1243/154648l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1377/160010l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1332/160147l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/k7h9p81H6X6TGV70TgOp4TmjXco.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/5KJjTVvl4ZDFJNHT5NV6etyBHCy.png",
   "tmdb_id": "253811",
@@ -229,16 +233,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1332/160147l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1332/160147l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1332/160147l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1332/160147l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1332/160147l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1332/160147l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1332/160147l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1332/160147l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1332/160147l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1332/160147l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1243/154648l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1243/154648l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1243/154648l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1243/154648l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1243/154648l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1243/154648l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1243/154648l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1243/154648l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1243/154648l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1243/154648l.jpg"
     }
   },
   "broadcast": {
@@ -249,17 +253,64 @@
     "timezone": "Asia/Tokyo",
     "string": "friday 23:30"
   },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
+  "rank": 3283,
+  "popularity": 4404,
+  "num_scoring_users": 2848,
+  "nsfw": "white",
+  "created_at": "2025-12-26T16:58:44+00:00",
+  "updated_at": "2026-10-02T23:38:04+00:00",
+  "source": "manga",
+  "rating": "r",
+  "background": "Tougen Anki: Nikko Kegon no Taki-hen aired on Nippon TV's Friday Anime Night block.",
+  "related_anime": [
+    {
+      "node": {
+        "id": 58811,
+        "title": "Tougen Anki",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1474/150666.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1474/150666l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    },
+    {
+      "node": {
+        "id": 65023,
+        "title": "Tougen Anki: Nikko Kegon no Taki-hen Part 2",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1466/160148.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1466/160148l.jpg"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    },
+    {
+      "node": {
+        "id": 65135,
+        "title": "Onimomomomo 2nd Season",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1332/160435.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1332/160435l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    }
+  ],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": "15632",
+      "completed": "8",
+      "on_hold": "422",
+      "dropped": "335",
+      "plan_to_watch": "19966"
+    },
+    "num_list_users": 36363
+  },
+  "mal_details_updated_at": "2026-11-10T01:34:33.955Z"
 }

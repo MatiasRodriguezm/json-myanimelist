@@ -79,7 +79,13 @@
       "name": "Production I.G"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/2/8062l.jpg",
+    "https://cdn.myanimelist.net/images/anime/4/29816l.jpg",
+    "https://cdn.myanimelist.net/images/anime/8/65827l.jpg",
+    "https://cdn.myanimelist.net/images/anime/3/85128l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1280/149613l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/2rvFW70UeOMCTXGmYHij1bwHCiu.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/4CpyLRaTyMKJyurf1vwg8p82S1i.png",
   "tmdb_id": "1095",
@@ -171,42 +177,147 @@
   ],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/3/85128.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/85128l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/3/85128.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/3/85128l.webp"
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/85128.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/85128l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/3/85128.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/3/85128l.jpg"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/3/85128.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/3/85128l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/3/85128.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/85128l.jpg"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/3/85128l.webp",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/3/85128l.webp",
-      "image_url": "https://cdn.myanimelist.net/images/anime/3/85128l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/3/85128l.webp",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/85128l.webp",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/3/85128l.webp",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/3/85128l.webp",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/3/85128l.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/85128l.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/3/85128l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/2/8062l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/2/8062l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/2/8062l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/2/8062l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/2/8062l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/2/8062l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/2/8062l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/2/8062l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/2/8062l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/2/8062l.jpg"
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
+  "rank": 609,
+  "popularity": 2306,
+  "num_scoring_users": 50878,
+  "nsfw": "white",
+  "created_at": "2006-10-14T09:14:42+00:00",
+  "updated_at": "2025-10-17T21:49:51+00:00",
+  "source": "manga",
+  "rating": "r",
+  "background": "Koukaku Kidoutai: Stand Alone Complex - Solid State Society won the Packaged Work Award at the 2007 Animation Kobe Awards.",
+  "related_anime": [
+    {
+      "node": {
+        "id": 801,
+        "title": "Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1646/135390.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1646/135390l.webp"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    },
+    {
+      "node": {
+        "id": 3447,
+        "title": "Koukaku Kidoutai: Stand Alone Complex - Solid State Society - Uchikoma na Hibi",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/8/5699.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/8/5699l.webp"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 10090,
+        "title": "Koukaku Kidoutai: Stand Alone Complex - Solid State Society 3D",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1621/149612.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1621/149612l.jpg"
+        }
+      },
+      "relation_type": "alternative_version",
+      "relation_type_formatted": "Alternative version"
+    },
+    {
+      "node": {
+        "id": 10870,
+        "title": "Koukaku Kidoutai: Stand Alone Complex - Tachikoma na Hibi (TV)",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/4/30022.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/4/30022l.webp"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 38799,
+        "title": "Koukaku Kidoutai: SAC_2045",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1213/106702.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1213/106702l.webp"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 492,
+        "title": "Armitage III: Dual-Matrix",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1903/127567.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1903/127567l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 2746,
+        "title": "Vexille: 2077 Nihon Sakoku",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/9/79923.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/9/79923l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 13601,
+        "title": "Psycho-Pass",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1314/142015.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1314/142015l.webp"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "2537",
+      "completed": "70740",
+      "on_hold": "1206",
+      "dropped": "587",
+      "plan_to_watch": "34795"
+    },
+    "num_list_users": 109865
+  },
+  "mal_details_updated_at": "2026-11-10T01:27:13.056Z"
 }

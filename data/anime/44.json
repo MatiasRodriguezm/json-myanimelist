@@ -70,7 +70,20 @@
       "name": "Studio Deen"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/4/7076l.jpg",
+    "https://cdn.myanimelist.net/images/anime/7/9565l.jpg",
+    "https://cdn.myanimelist.net/images/anime/12/9566l.jpg",
+    "https://cdn.myanimelist.net/images/anime/9/13160l.jpg",
+    "https://cdn.myanimelist.net/images/anime/3/36133l.jpg",
+    "https://cdn.myanimelist.net/images/anime/3/83143l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1899/94562l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1807/102419l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1391/120839l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1656/137618l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1595/137749l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1798/141803l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/xogL7RDFo7c21nrGDabYT9FFzTH.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/y6wr1ukaqRzWRlRUBahkyAB1SNT.png",
   "tmdb_id": "28136",
@@ -144,30 +157,164 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1656/137618l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1656/137618l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1656/137618l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1656/137618l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1656/137618l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1656/137618l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1656/137618l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1656/137618l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1656/137618l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1656/137618l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/4/7076l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/4/7076l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/7076l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/4/7076l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/7076l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/4/7076l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/4/7076l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/4/7076l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/7076l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/4/7076l.jpg"
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 71,
+  "popularity": 976,
+  "num_scoring_users": 145178,
+  "nsfw": "white",
+  "created_at": "2005-11-11T05:54:34+00:00",
+  "updated_at": "2023-12-14T09:55:38+00:00",
+  "source": "manga",
+  "rating": "r",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 45,
+        "title": "Rurouni Kenshin: Meiji Kenkaku Romantan",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1346/119505.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1346/119505l.jpg"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 67,
+        "title": "Basilisk: Kouga Ninpou Chou",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1103/133549.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1103/133549l.webp"
+        }
+      },
+      "num_recommendations": 9
+    },
+    {
+      "node": {
+        "id": 617,
+        "title": "Juubee Ninpuuchou",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1520/145971.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1520/145971l.webp"
+        }
+      },
+      "num_recommendations": 5
+    },
+    {
+      "node": {
+        "id": 2418,
+        "title": "Stranger: Mukou Hadan",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/9/87066.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/9/87066l.jpg"
+        }
+      },
+      "num_recommendations": 4
+    },
+    {
+      "node": {
+        "id": 1292,
+        "title": "Afro Samurai",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/3/15874.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/3/15874l.jpg"
+        }
+      },
+      "num_recommendations": 4
+    },
+    {
+      "node": {
+        "id": 33,
+        "title": "Kenpuu Denki Berserk",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1384/119988.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1384/119988l.jpg"
+        }
+      },
+      "num_recommendations": 3
+    },
+    {
+      "node": {
+        "id": 2216,
+        "title": "Shigurui",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1440/115872.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1440/115872l.jpg"
+        }
+      },
+      "num_recommendations": 3
+    },
+    {
+      "node": {
+        "id": 570,
+        "title": "Jin-Rou",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1323/103343.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1323/103343l.jpg"
+        }
+      },
+      "num_recommendations": 3
+    },
+    {
+      "node": {
+        "id": 205,
+        "title": "Samurai Champloo",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1370/135212.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1370/135212l.jpg"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 578,
+        "title": "Hotaru no Haka",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1485/141208.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1485/141208l.webp"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 4725,
+        "title": "Ga-Rei: Zero",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/9/83975.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/9/83975l.webp"
+        }
+      },
+      "num_recommendations": 2
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "10878",
+      "completed": "188195",
+      "on_hold": "4002",
+      "dropped": "2672",
+      "plan_to_watch": "89304"
+    },
+    "num_list_users": 295051
+  },
+  "mal_details_updated_at": "2026-11-10T01:30:22.974Z"
 }

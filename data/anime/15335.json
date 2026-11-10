@@ -78,7 +78,13 @@
       "name": "Sunrise"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/8/47621l.jpg",
+    "https://cdn.myanimelist.net/images/anime/12/49197l.jpg",
+    "https://cdn.myanimelist.net/images/anime/3/51279l.jpg",
+    "https://cdn.myanimelist.net/images/anime/10/51723l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1741/155092l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/3gVl0IvJMbhOnAvH9V0Q1Y1HnXE.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/2GFz7E2Z1UWiWqOv2YGIbIaAWrH.png",
   "tmdb_id": "57041",
@@ -142,30 +148,132 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/10/51723l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/10/51723l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/10/51723l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/10/51723l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/51723l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/10/51723l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/10/51723l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/10/51723l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/51723l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/10/51723l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/8/47621l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/8/47621l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/8/47621l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/8/47621l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/8/47621l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/8/47621l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/8/47621l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/8/47621l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/47621l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/8/47621l.jpg"
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 27,
+  "popularity": 1105,
+  "num_scoring_users": 146450,
+  "nsfw": "white",
+  "created_at": "2012-08-26T22:06:53+00:00",
+  "updated_at": "2026-09-06T13:05:27+00:00",
+  "source": "manga",
+  "rating": "pg_13",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 15417,
+        "title": "Gintama': Enchousen",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1452/123686.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1452/123686l.jpg"
+        }
+      },
+      "relation_type": "parent_story",
+      "relation_type_formatted": "Parent story"
+    },
+    {
+      "node": {
+        "id": 19261,
+        "title": "Gintama x Mameshiba",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1370/110954.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1370/110954l.jpg"
+        }
+      },
+      "relation_type": "character",
+      "relation_type_formatted": "Character"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 7311,
+        "title": "Suzumiya Haruhi no Shoushitsu",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1248/112352.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1248/112352l.jpg"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 13667,
+        "title": "Naruto: Shippuuden Movie 6 - Road to Ninja",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1620/94336.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1620/94336l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 11577,
+        "title": "Steins;Gate Movie: Fuka Ryouiki no Déjà vu",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1611/112806.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1611/112806l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 10165,
+        "title": "Nichijou",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/3/75617.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/3/75617l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 30276,
+        "title": "One Punch Man",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/12/76049.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/12/76049l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 38040,
+        "title": "Kono Subarashii Sekai ni Shukufuku wo! Movie: Kurenai Densetsu",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1638/119321.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1638/119321l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "7159",
+      "completed": "188036",
+      "on_hold": "1931",
+      "dropped": "2044",
+      "plan_to_watch": "66732"
+    },
+    "num_list_users": 265902
+  },
+  "mal_details_updated_at": "2026-11-10T01:27:10.800Z"
 }

@@ -55,7 +55,10 @@
       "name": "Sublimation"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1368/156418l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1575/160606l.jpg"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
@@ -88,16 +91,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1575/160606l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1575/160606l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1575/160606l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1575/160606l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1575/160606l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1575/160606l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1575/160606l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1575/160606l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1575/160606l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1575/160606l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1368/156418l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1368/156418l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1368/156418l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1368/156418l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1368/156418l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1368/156418l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1368/156418l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1368/156418l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1368/156418l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1368/156418l.jpg"
     }
   },
   "broadcast": {
@@ -109,16 +112,87 @@
     "string": "sunday 22:30"
   },
   "rank": null,
-  "popularity": null,
+  "popularity": 9999,
   "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
+  "nsfw": "white",
+  "created_at": "2026-03-31T09:26:09+00:00",
+  "updated_at": "2026-10-22T18:29:08+00:00",
+  "source": "other",
   "rating": null,
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 15051,
+        "title": "Love Live! School Idol Project",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/11/56849.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/11/56849l.jpg"
+        }
+      },
+      "relation_type": "alternative_setting",
+      "relation_type_formatted": "Alternative setting"
+    },
+    {
+      "node": {
+        "id": 32526,
+        "title": "Love Live! Sunshine!!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/8/80791.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/8/80791l.webp"
+        }
+      },
+      "relation_type": "alternative_setting",
+      "relation_type_formatted": "Alternative setting"
+    },
+    {
+      "node": {
+        "id": 40879,
+        "title": "Love Live! Nijigasaki Gakuen School Idol Doukoukai",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1393/109203.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1393/109203l.webp"
+        }
+      },
+      "relation_type": "alternative_setting",
+      "relation_type_formatted": "Alternative setting"
+    },
+    {
+      "node": {
+        "id": 41169,
+        "title": "Love Live! Superstar!!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1758/115692.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1758/115692l.jpg"
+        }
+      },
+      "relation_type": "alternative_setting",
+      "relation_type_formatted": "Alternative setting"
+    },
+    {
+      "node": {
+        "id": 61806,
+        "title": "Love Live! Hasunosora Jogakuin School Idol Club Movie: Bloom Garden Party",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1035/154122.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1035/154122l.webp"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    }
+  ],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": "1",
+      "completed": 0,
+      "on_hold": 0,
+      "dropped": 0,
+      "plan_to_watch": "4692"
+    },
+    "num_list_users": 4693
+  },
+  "mal_details_updated_at": "2026-11-10T01:36:00.488Z"
 }

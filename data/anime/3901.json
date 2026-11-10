@@ -65,7 +65,10 @@
       "name": "Brain's Base"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/2/9128l.jpg",
+    "https://cdn.myanimelist.net/images/anime/7/9129l.jpg"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
@@ -339,30 +342,76 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/7/9129l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/7/9129l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/7/9129l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/7/9129l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/9129l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/7/9129l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/7/9129l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/7/9129l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/9129l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/7/9129l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/2/9128l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/2/9128l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/2/9128l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/2/9128l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/2/9128l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/2/9128l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/2/9128l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/2/9128l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/2/9128l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/2/9128l.jpg"
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
+  "rank": 655,
+  "popularity": 1513,
+  "num_scoring_users": 117093,
+  "nsfw": "white",
+  "created_at": "2008-02-09T22:38:35+00:00",
+  "updated_at": "2024-01-05T05:12:25+00:00",
+  "source": "light_novel",
+  "rating": "r",
+  "background": "The Baccano! Specials are based on 1931 The Grand Punk Railroad Revisited, a bonus novel that came with the Baccano! drama CD The Grand Punk Railroad. The bonus novel was later expanded into 1931 Another Junk Railroad, the 14th novel of the main light novel series.",
+  "related_anime": [
+    {
+      "node": {
+        "id": 2251,
+        "title": "Baccano!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/3/14547.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/3/14547l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 6746,
+        "title": "Durarara!!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/71772.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/71772l.jpg"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 2251,
+        "title": "Baccano!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/3/14547.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/3/14547l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "2794",
+      "completed": "151602",
+      "on_hold": "1872",
+      "dropped": "1202",
+      "plan_to_watch": "31013"
+    },
+    "num_list_users": 188483
+  },
+  "mal_details_updated_at": "2026-11-10T01:29:10.655Z"
 }

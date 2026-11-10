@@ -62,7 +62,12 @@
       "name": "Shuka"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/7/88298l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1653/94844l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1250/94846l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1680/105411l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/ly6x27OmL3Zefm2tbrTIAiBI1q5.jpg",
   "logo_url": null,
   "tmdb_id": "507411",
@@ -95,30 +100,89 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1250/94846l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1250/94846l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1250/94846l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1250/94846l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1250/94846l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1250/94846l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1250/94846l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1250/94846l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1250/94846l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1250/94846l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/7/88298l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/7/88298l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/88298l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/7/88298l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/88298l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/7/88298l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/7/88298l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/7/88298l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/88298l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/7/88298l.jpg"
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 218,
+  "popularity": 2726,
+  "num_scoring_users": 31508,
+  "nsfw": "white",
+  "created_at": "2017-10-08T06:54:56+00:00",
+  "updated_at": "2024-03-06T11:35:53+00:00",
+  "source": "manga",
+  "rating": "pg_13",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 34591,
+        "title": "Natsume Yuujinchou Roku",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/6/84416.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/6/84416l.webp"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    },
+    {
+      "node": {
+        "id": 42894,
+        "title": "Natsume Yuujinchou: Ishi Okoshi to Ayashiki Raihousha",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1992/111560.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1992/111560l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 55823,
+        "title": "Natsume Yuujinchou Shichi",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1270/145168.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1270/145168l.jpg"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 28957,
+        "title": "Mushishi Zoku Shou: Suzu no Shizuku",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/9/72689.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/9/72689l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "3062",
+      "completed": "43032",
+      "on_hold": "951",
+      "dropped": "543",
+      "plan_to_watch": "38188"
+    },
+    "num_list_users": 85776
+  },
+  "mal_details_updated_at": "2026-11-10T01:28:55.674Z"
 }

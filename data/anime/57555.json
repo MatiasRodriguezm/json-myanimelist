@@ -61,7 +61,16 @@
       "name": "MAPPA"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1211/140419l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1258/147105l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1714/147106l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1773/148746l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1763/150638l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1964/151711l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1640/152067l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1420/152408l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/gqTz24ZRsCP6AKjARmEivY7m0cK.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/zLyOxg32q3DcMAgABXcKLWIXxTH.png",
   "tmdb_id": "1218925",
@@ -94,30 +103,165 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1763/150638l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1763/150638l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1763/150638l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1763/150638l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1763/150638l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1763/150638l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1763/150638l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1763/150638l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1763/150638l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1763/150638l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1211/140419l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1211/140419l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1211/140419l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1211/140419l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1211/140419l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1211/140419l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1211/140419l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1211/140419l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1211/140419l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1211/140419l.jpg"
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 6,
+  "popularity": 447,
+  "num_scoring_users": 377534,
+  "nsfw": "white",
+  "created_at": "2023-12-17T06:40:35+00:00",
+  "updated_at": "2026-06-24T00:14:59+00:00",
+  "source": "manga",
+  "rating": "r",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 44511,
+        "title": "Chainsaw Man",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1806/126216.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1806/126216l.webp"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    },
+    {
+      "node": {
+        "id": 63143,
+        "title": "Chainsaw Man: Shikaku-hen",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1432/154522.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1432/154522l.jpg"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 49303,
+        "title": "Alice to Therese no Maboroshi Koujou",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1429/137275.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1429/137275l.jpg"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 31758,
+        "title": "Kizumonogatari III: Reiketsu-hen",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1084/112813.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1084/112813l.jpg"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 36649,
+        "title": "Banana Fish",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1190/93472.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1190/93472l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 40456,
+        "title": "Kimetsu no Yaiba Movie: Mugen Ressha-hen",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1704/106947.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1704/106947l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 37981,
+        "title": "Kaijuu no Kodomo",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1103/99778.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1103/99778l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 60057,
+        "title": "Chao Neng Lifang: Chaofan Pian",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1759/145944.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1759/145944l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 16782,
+        "title": "Kotonoha no Niwa",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1597/112995.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1597/112995l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 22319,
+        "title": "Tokyo Ghoul",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1498/134443.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1498/134443l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 59192,
+        "title": "Kimetsu no Yaiba Movie 1: Mugenjou-hen - Akaza Sairai",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1681/148216.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1681/148216l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "14249",
+      "completed": "453732",
+      "on_hold": "1916",
+      "dropped": "755",
+      "plan_to_watch": "103919"
+    },
+    "num_list_users": 574571
+  },
+  "mal_details_updated_at": "2026-11-10T01:31:02.921Z"
 }

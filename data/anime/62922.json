@@ -32,8 +32,8 @@
   "num_episodes": null,
   "score": 6.27,
   "mean": 6.27,
-  "numListUsers": 32782,
-  "num_list_users": 32782,
+  "numListUsers": 32797,
+  "num_list_users": 32797,
   "genres": [
     {
       "id": 1,
@@ -50,7 +50,11 @@
       "name": "SynergySP"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1786/153526l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1050/158789l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1498/159735l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/4ncuq4Qo0NrSZBnxM3PABeROyVT.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/v8S7tFMqpiAYn65Xfu0kH9rCvYL.png",
   "tmdb_id": "333622",
@@ -153,16 +157,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1498/159735l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1498/159735l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1498/159735l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1498/159735l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1498/159735l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1498/159735l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1498/159735l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1498/159735l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1498/159735l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1498/159735l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1786/153526l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1786/153526l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1786/153526l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1786/153526l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1786/153526l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1786/153526l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1786/153526l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1786/153526l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1786/153526l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1786/153526l.jpg"
     }
   },
   "broadcast": {
@@ -173,17 +177,27 @@
     "timezone": "Asia/Tokyo",
     "string": "sunday 01:30"
   },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
+  "rank": 9558,
+  "popularity": 4614,
+  "num_scoring_users": 4308,
+  "nsfw": "white",
+  "created_at": "2025-11-12T04:06:26+00:00",
+  "updated_at": "2026-09-30T19:39:12+00:00",
+  "source": "web_manga",
+  "rating": "pg_13",
+  "background": "Kashita Maryoku wa \"Revo Barai\" de Kyousei Choushuu aired on TV Asahi's NUMAnimation block.",
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": "21171",
+      "completed": "7",
+      "on_hold": "371",
+      "dropped": "879",
+      "plan_to_watch": "10359"
+    },
+    "num_list_users": 32787
+  },
+  "mal_details_updated_at": "2026-11-10T01:34:17.549Z"
 }

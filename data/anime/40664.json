@@ -55,7 +55,15 @@
       "name": "Kinema Citrus"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1473/104121l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1848/105759l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1880/111121l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1655/114440l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1378/119190l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1410/125700l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1562/132186l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/8fBQX8o5jGolmObNMeOBca5nZ8D.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/hEIcteOWb556heL20hRUD0EX8lE.png",
   "tmdb_id": "645440",
@@ -119,30 +127,133 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1378/119190l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1378/119190l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1378/119190l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1378/119190l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1378/119190l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1378/119190l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1378/119190l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1378/119190l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1378/119190l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1378/119190l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1473/104121l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1473/104121l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1473/104121l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1473/104121l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1473/104121l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1473/104121l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1473/104121l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1473/104121l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1473/104121l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1473/104121l.jpg"
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
+  "rank": 155,
+  "popularity": 5003,
+  "num_scoring_users": 11710,
+  "nsfw": "white",
+  "created_at": "2019-11-03T12:27:48+00:00",
+  "updated_at": "2023-08-02T03:42:35+00:00",
+  "source": "original",
+  "rating": "pg_13",
+  "background": "Shoujo☆Kageki Revue Starlight Movie was originally scheduled to premiere in theaters on May 21, 2021 but was delayed due to the COVID-19 pandemic and Japan's extended period of state of emergency. The film premiered in North America as Revue Starlight: The Movie at Anime Central 2022 on May 20, 2022, and in theaters on June 5, 2022.\n\nThe movie was released on Blu-ray in Japan on December 22, 2021.",
+  "related_anime": [
+    {
+      "node": {
+        "id": 35503,
+        "title": "Shoujo☆Kageki Revue Starlight",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1165/93552.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1165/93552l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    },
+    {
+      "node": {
+        "id": 40665,
+        "title": "Shoujo☆Kageki Revue Starlight: Rondo Rondo Rondo",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1542/108494.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1542/108494l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    },
+    {
+      "node": {
+        "id": 63295,
+        "title": "Starlight Project (Shinsaku Animation Zoku-hen)",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1449/154962.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1449/154962l.jpg"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 2607,
+        "title": "Birth",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/11/3521.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/11/3521l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 440,
+        "title": "Shoujo Kakumei Utena",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1078/95285.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1078/95285l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 3786,
+        "title": "Shin Evangelion Movie:||",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1422/113533.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1422/113533l.webp"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 55791,
+        "title": "[Oshi no Ko] 2nd Season",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1006/143302.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1006/143302l.webp"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 62896,
+        "title": "Chou Kaguya-hime!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1951/160671.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1951/160671l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "1340",
+      "completed": "14439",
+      "on_hold": "323",
+      "dropped": "394",
+      "plan_to_watch": "10770"
+    },
+    "num_list_users": 27266
+  },
+  "mal_details_updated_at": "2026-11-10T01:29:18.541Z"
 }

@@ -63,7 +63,17 @@
       "name": "TMS Entertainment"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/12/29588l.jpg",
+    "https://cdn.myanimelist.net/images/anime/5/29590l.jpg",
+    "https://cdn.myanimelist.net/images/anime/5/55839l.jpg",
+    "https://cdn.myanimelist.net/images/anime/8/75546l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1042/151917l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1234/151918l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1268/151920l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1807/151921l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1357/151922l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/xqi7xzgzed2TyVuoXBmm6neYGee.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/wVHam8qA84YIKnxULun7NCeqyYE.png",
   "tmdb_id": "42444",
@@ -375,42 +385,176 @@
   ],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/8/75546.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/75546l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/8/75546.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/8/75546l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/8/75546.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/75546l.webp",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/8/75546.webp",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/8/75546l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/8/75546.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/8/75546l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/8/75546.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/8/75546l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/8/75546l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/8/75546l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/8/75546l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/8/75546l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/8/75546l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/8/75546l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/8/75546l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/8/75546l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/75546l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/8/75546l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/12/29588l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/12/29588l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/29588l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/12/29588l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/29588l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/12/29588l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/12/29588l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/12/29588l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/29588l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/12/29588l.jpg"
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 773,
+  "popularity": 2197,
+  "num_scoring_users": 64464,
+  "nsfw": "white",
+  "created_at": "2009-03-11T09:46:50+00:00",
+  "updated_at": "2025-02-12T19:42:59+00:00",
+  "source": "manga",
+  "rating": "pg_13",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 9130,
+        "title": "Saint Seiya: The Lost Canvas - Meiou Shinwa 2",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/12/29597.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/12/29597l.webp"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 25013,
+        "title": "Akatsuki no Yona",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/9/64225.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/9/64225l.jpg"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 1735,
+        "title": "Naruto: Shippuuden",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1565/111305.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1565/111305l.jpg"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 7058,
+        "title": "Uragiri wa Boku no Namae wo Shitteiru",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1639/120408.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1639/120408l.webp"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 6702,
+        "title": "Fairy Tail",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/5/18179.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/5/18179l.webp"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 1254,
+        "title": "Saint Seiya",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1180/133782.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1180/133782l.jpg"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 156,
+        "title": "X",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/8/17167.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/8/17167l.webp"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 5962,
+        "title": "Metal Fight Beyblade",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/13/21387.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/13/21387l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 14513,
+        "title": "Magi: The Labyrinth of Magic",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/11/42773.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/11/42773l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 16498,
+        "title": "Shingeki no Kyojin",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/47347.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/47347l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 269,
+        "title": "Bleach",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1541/147774.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1541/147774l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "6089",
+      "completed": "81262",
+      "on_hold": "3054",
+      "dropped": "2941",
+      "plan_to_watch": "24759"
+    },
+    "num_list_users": 118105
+  },
+  "mal_details_updated_at": "2026-11-10T01:32:51.794Z"
 }

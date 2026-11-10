@@ -29,8 +29,8 @@
   "num_episodes": 1,
   "score": null,
   "mean": null,
-  "numListUsers": 17794,
-  "num_list_users": 17794,
+  "numListUsers": 17795,
+  "num_list_users": 17795,
   "genres": [
     {
       "id": 1,
@@ -67,7 +67,10 @@
       "name": "Fugaku"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1190/156795l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1661/160694l.jpg"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
@@ -100,30 +103,53 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1661/160694l.webp",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1661/160694l.webp",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1661/160694l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1661/160694l.webp",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1661/160694l.webp",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1661/160694l.webp",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1661/160694l.webp",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1661/160694l.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1661/160694l.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1661/160694l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1190/156795l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1190/156795l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1190/156795l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1190/156795l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1190/156795l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1190/156795l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1190/156795l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1190/156795l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1190/156795l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1190/156795l.jpg"
     }
   },
   "broadcast": null,
   "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "popularity": 5944,
+  "num_scoring_users": 1,
+  "nsfw": "white",
+  "created_at": "2026-04-10T13:53:16+00:00",
+  "updated_at": "2026-10-25T09:49:04+00:00",
+  "source": "light_novel",
+  "rating": "r",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 52196,
+        "title": "Date A Live V",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1659/141438.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1659/141438l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    }
+  ],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": "2",
+      "completed": "1",
+      "on_hold": "2",
+      "dropped": 0,
+      "plan_to_watch": "17790"
+    },
+    "num_list_users": 17795
+  },
+  "mal_details_updated_at": "2026-11-10T01:36:02.700Z"
 }

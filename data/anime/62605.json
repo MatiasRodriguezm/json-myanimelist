@@ -61,7 +61,9 @@
       "name": "Maho Film"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1327/155810l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/jzClrwXum9MbdHPnherNQ8FaCzV.jpg",
   "logo_url": null,
   "tmdb_id": "324599",
@@ -97,16 +99,26 @@
   },
   "broadcast": null,
   "rank": null,
-  "popularity": null,
+  "popularity": 9020,
   "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
+  "nsfw": "white",
+  "created_at": "2025-10-01T03:06:59+00:00",
+  "updated_at": "2026-05-03T22:08:22+00:00",
+  "source": "light_novel",
   "rating": null,
   "background": null,
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": "1",
+      "completed": 0,
+      "on_hold": "1",
+      "dropped": 0,
+      "plan_to_watch": "6215"
+    },
+    "num_list_users": 6217
+  },
+  "mal_details_updated_at": "2026-11-10T01:34:10.290Z"
 }

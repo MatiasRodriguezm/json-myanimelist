@@ -29,8 +29,8 @@
   "num_episodes": 4,
   "score": 8.41,
   "mean": 8.41,
-  "numListUsers": 188750,
-  "num_list_users": 188750,
+  "numListUsers": 188756,
+  "num_list_users": 188756,
   "genres": [
     {
       "id": 4,
@@ -63,7 +63,11 @@
       "name": "TMS Entertainment"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/3/81250l.jpg",
+    "https://cdn.myanimelist.net/images/anime/13/81264l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1477/147517l.jpg"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
@@ -159,17 +163,86 @@
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 225,
+  "popularity": 1511,
+  "num_scoring_users": 93174,
+  "nsfw": "white",
+  "created_at": "2015-05-01T18:11:32+00:00",
+  "updated_at": "2024-10-06T16:30:15+00:00",
+  "source": "manga",
+  "rating": "pg_13",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 25681,
+        "title": "Kamisama Hajimemashita◎",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/8/69187.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/8/69187l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    },
+    {
+      "node": {
+        "id": 33323,
+        "title": "Kamisama Hajimemashita: Kamisama, Shiawase ni Naru",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1542/148441.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1542/148441l.jpg"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 2973,
+        "title": "Fire Tripper",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/5/11984.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/5/11984l.webp"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 249,
+        "title": "InuYasha",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1589/95329.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1589/95329l.webp"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 31043,
+        "title": "Boku dake ga Inai Machi",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/77957.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/77957l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "10082",
+      "completed": "136675",
+      "on_hold": "2894",
+      "dropped": "1731",
+      "plan_to_watch": "37345"
+    },
+    "num_list_users": 188727
+  },
+  "mal_details_updated_at": "2026-11-10T01:28:28.343Z"
 }

@@ -61,7 +61,17 @@
       "name": "Sunrise"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1/81l.jpg",
+    "https://cdn.myanimelist.net/images/anime/4/12473l.jpg",
+    "https://cdn.myanimelist.net/images/anime/5/12476l.jpg",
+    "https://cdn.myanimelist.net/images/anime/6/15797l.jpg",
+    "https://cdn.myanimelist.net/images/anime/9/17617l.jpg",
+    "https://cdn.myanimelist.net/images/anime/11/23531l.jpg",
+    "https://cdn.myanimelist.net/images/anime/9/75618l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1617/97109l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1402/109063l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/nhpOoh7cHkxgsd58v7f55xamW3j.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/sXFtZ6mtDa5KgFvpYK3jKIGMFcB.png",
   "tmdb_id": "43887",
@@ -355,30 +365,212 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/9/75618l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/9/75618l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/9/75618l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/9/75618l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/9/75618l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/9/75618l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/9/75618l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/9/75618l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/9/75618l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/9/75618l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1/81l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1/81l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1/81l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1/81l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1/81l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1/81l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1/81l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1/81l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1/81l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1/81l.jpg"
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
+  "rank": 770,
+  "popularity": 2530,
+  "num_scoring_users": 52625,
+  "nsfw": "white",
+  "created_at": "2005-11-11T13:35:32+00:00",
+  "updated_at": "2026-03-05T12:00:18+00:00",
+  "source": "original",
+  "rating": "pg_13",
+  "background": "After the death of Director Takeyuki Kanda on July 27, 1996, the release of the remaining six episodes was delayed. Nearly one year later in 1997, Umanosuke Iida took over the project and completed the series on July 25, 1999.",
+  "related_anime": [
+    {
+      "node": {
+        "id": 80,
+        "title": "Kidou Senshi Gundam",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/5/88524.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/5/88524l.jpg"
+        }
+      },
+      "relation_type": "parent_story",
+      "relation_type_formatted": "Parent story"
+    },
+    {
+      "node": {
+        "id": 83,
+        "title": "Kidou Senshi Gundam: Dai 08 MS Shoutai - Miller's Report",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1132/100198.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1132/100198l.jpg"
+        }
+      },
+      "relation_type": "summary",
+      "relation_type_formatted": "Summary"
+    },
+    {
+      "node": {
+        "id": 5723,
+        "title": "Kidou Senshi Gundam: Uchuu Seiki Yowa",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/8/28180.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/8/28180l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 17717,
+        "title": "Kidou Senshi Gundam: Dai 08 MS Shoutai - Sanjigen to no Tatakai",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/6/47409.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/6/47409l.webp"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 40464,
+        "title": "Kidou Senshi Gundam: Hikaru Inochi Chronicle U.C.",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1417/103338.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1417/103338l.jpg"
+        }
+      },
+      "relation_type": "summary",
+      "relation_type_formatted": "Summary"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 71,
+        "title": "Full Metal Panic!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/2/75259.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/2/75259l.jpg"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 2257,
+        "title": "Taiyou no Kiba Dougram",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/9/14395.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/9/14395l.webp"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 2582,
+        "title": "Soukou Kihei Votoms",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1295/91064.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1295/91064l.jpg"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 1215,
+        "title": "Kidou Senshi Gundam SEED C.E. 73: Stargazer",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1013/91082.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1013/91082l.jpg"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 3256,
+        "title": "Soukou Kihei Votoms: Pailsen Files",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/4/5264.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/4/5264l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 27631,
+        "title": "God Eater",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/7/73852.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/7/73852l.webp"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 58,
+        "title": "Blue Gender",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1029/158153.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1029/158153l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 758,
+        "title": "RahXephon: Tagen Hensoukyoku",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1771/94881.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1771/94881l.webp"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 73,
+        "title": "Full Metal Panic! The Second Raid",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/11/75261.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/11/75261l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 10092,
+        "title": "Break Blade Movie 6: Doukoku no Toride",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/4/68089.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/4/68089l.webp"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "4491",
+      "completed": "66398",
+      "on_hold": "2093",
+      "dropped": "1235",
+      "plan_to_watch": "22137"
+    },
+    "num_list_users": 96354
+  },
+  "mal_details_updated_at": "2026-11-10T01:37:49.159Z"
 }

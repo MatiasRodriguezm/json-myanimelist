@@ -63,7 +63,16 @@
       "name": "DandeLion Animation Studio"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1308/111087l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1121/124964l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1431/125198l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1663/125199l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1705/125200l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1922/125201l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1955/128243l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1745/129284l.jpg"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
@@ -84,42 +93,65 @@
   "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1745/129284.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1745/129284l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1745/129284.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1745/129284l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1745/129284.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1745/129284l.webp",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1745/129284.webp",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1745/129284l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1745/129284.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1745/129284l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1745/129284.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1745/129284l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1745/129284l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1745/129284l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1745/129284l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1745/129284l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1745/129284l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1745/129284l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1745/129284l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1745/129284l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1745/129284l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1745/129284l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1308/111087l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1308/111087l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1308/111087l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1308/111087l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1308/111087l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1308/111087l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1308/111087l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1308/111087l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1308/111087l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1308/111087l.jpg"
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
+  "rank": 68,
+  "popularity": 2799,
+  "num_scoring_users": 38691,
+  "nsfw": "white",
+  "created_at": "2021-01-07T05:16:26+00:00",
+  "updated_at": "2024-04-05T19:47:22+00:00",
+  "source": "manga",
+  "rating": "pg_13",
+  "background": "The movie partially adapts the chapters between 223 to 276 from the manga while incorporating original scenes created for the film.\n\nIt won the Best Animation of the Year award at the Japan Academy Film Prize in 2023. It also won the awards for Anime of the Year - Film, Best Director, Best Writer, and Best Visual Arts at the 2024 Tokyo Anime Award Festival.",
+  "related_anime": [
+    {
+      "node": {
+        "id": 170,
+        "title": "Slam Dunk",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/12/86890.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/12/86890l.webp"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    }
+  ],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": "4378",
+      "completed": "47239",
+      "on_hold": "777",
+      "dropped": "607",
+      "plan_to_watch": "28670"
+    },
+    "num_list_users": 81671
+  },
+  "mal_details_updated_at": "2026-11-10T01:30:27.396Z"
 }

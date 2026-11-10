@@ -29,8 +29,8 @@
   "num_episodes": null,
   "score": 7.44,
   "mean": 7.44,
-  "numListUsers": 21408,
-  "num_list_users": 21408,
+  "numListUsers": 21413,
+  "num_list_users": 21413,
   "genres": [
     {
       "id": 1,
@@ -51,7 +51,10 @@
       "name": "SILVER LINK."
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1680/159861l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1807/160135l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/xlMVEbNl7ZBGFyhX2WEhQ8Kifm4.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/r8mTtuEErutYLiyj7Cj9arOdNGD.png",
   "tmdb_id": "216467",
@@ -154,16 +157,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1807/160135l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1807/160135l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1807/160135l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1807/160135l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1807/160135l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1807/160135l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1807/160135l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1807/160135l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1807/160135l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1807/160135l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1680/159861l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1680/159861l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1680/159861l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1680/159861l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1680/159861l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1680/159861l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1680/159861l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1680/159861l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1680/159861l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1680/159861l.jpg"
     }
   },
   "broadcast": {
@@ -174,17 +177,40 @@
     "timezone": "Asia/Tokyo",
     "string": "sunday 17:00"
   },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 2529,
+  "popularity": 5542,
+  "num_scoring_users": 1350,
+  "nsfw": "white",
+  "created_at": "2026-06-28T10:53:36+00:00",
+  "updated_at": "2026-10-11T15:10:32+00:00",
+  "source": "manga",
+  "rating": "pg_13",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 60055,
+        "title": "Yozakura-san Chi no Daisakusen 2nd Season",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1230/155783.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1230/155783l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    }
+  ],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": "7300",
+      "completed": "6",
+      "on_hold": "292",
+      "dropped": "156",
+      "plan_to_watch": "13657"
+    },
+    "num_list_users": 21411
+  },
+  "mal_details_updated_at": "2026-11-10T01:36:21.610Z"
 }

@@ -64,7 +64,10 @@
       "name": "Shuka"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/3/84887l.jpg",
+    "https://cdn.myanimelist.net/images/anime/2/84888l.jpg"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
@@ -241,17 +244,40 @@
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 327,
+  "popularity": 3590,
+  "num_scoring_users": 24643,
+  "nsfw": "white",
+  "created_at": "2016-12-14T00:34:55+00:00",
+  "updated_at": "2024-03-06T11:35:58+00:00",
+  "source": "manga",
+  "rating": "pg_13",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 32983,
+        "title": "Natsume Yuujinchou Go",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/11/81755.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/11/81755l.jpg"
+        }
+      },
+      "relation_type": "parent_story",
+      "relation_type_formatted": "Parent story"
+    }
+  ],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": "1813",
+      "completed": "36255",
+      "on_hold": "634",
+      "dropped": "374",
+      "plan_to_watch": "14150"
+    },
+    "num_list_users": 53226
+  },
+  "mal_details_updated_at": "2026-11-10T01:28:47.893Z"
 }

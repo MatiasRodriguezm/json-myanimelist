@@ -57,7 +57,10 @@
       "name": "studio MOTHER"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1129/152182l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1874/152186l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/gBDN15D1hk1Pi3696t1dGiUx3r4.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/uL9uuGsW4kLl1Absn8J4OPR5OyY.png",
   "tmdb_id": "1551201",
@@ -78,15 +81,15 @@
   "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1129/152182.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1129/152182l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1129/152182.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1129/152182l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1129/152182.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1129/152182l.webp",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1129/152182.webp",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1129/152182l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1129/152182.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1129/152182l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1129/152182.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1129/152182l.webp"
   },
   "trailer": {
     "images": {
@@ -103,17 +106,52 @@
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 781,
+  "popularity": 4186,
+  "num_scoring_users": 20808,
+  "nsfw": "gray",
+  "created_at": "2025-09-22T16:39:05+00:00",
+  "updated_at": "2026-03-01T07:54:23+00:00",
+  "source": "light_novel",
+  "rating": "pg_13",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 60326,
+        "title": "Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri! (※Muri ja Nakatta!?)",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1887/150496.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1887/150496l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 18245,
+        "title": "White Album 2",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1674/142746.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1674/142746l.webp"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "2065",
+      "completed": "26148",
+      "on_hold": "406",
+      "dropped": "298",
+      "plan_to_watch": "11304"
+    },
+    "num_list_users": 40221
+  },
+  "mal_details_updated_at": "2026-11-10T01:33:09.786Z"
 }

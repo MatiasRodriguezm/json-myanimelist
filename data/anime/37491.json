@@ -73,7 +73,15 @@
       "name": "Bandai Namco Pictures"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1587/91094l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1518/95051l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1387/95113l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1776/96566l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1173/109633l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1152/109754l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1419/115065l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/3gVl0IvJMbhOnAvH9V0Q1Y1HnXE.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/2GFz7E2Z1UWiWqOv2YGIbIaAWrH.png",
   "tmdb_id": "57041",
@@ -224,28 +232,28 @@
   "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1776/96566.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1776/96566l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1776/96566.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1776/96566l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1776/96566.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1776/96566l.webp",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1776/96566.webp",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1776/96566l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1776/96566.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1776/96566l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1776/96566.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1776/96566l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1776/96566l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1776/96566l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1776/96566l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1776/96566l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1776/96566l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1776/96566l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1776/96566l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1776/96566l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1776/96566l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1776/96566l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1587/91094l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1587/91094l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1587/91094l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1587/91094l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1587/91094l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1587/91094l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1587/91094l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1587/91094l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1587/91094l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1587/91094l.jpg"
     }
   },
   "broadcast": {
@@ -256,17 +264,52 @@
     "timezone": "Asia/Tokyo",
     "string": "monday 01:35"
   },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
+  "rank": 28,
+  "popularity": 1261,
+  "num_scoring_users": 109397,
+  "nsfw": "white",
+  "created_at": "2018-03-16T00:47:26+00:00",
+  "updated_at": "2024-11-11T01:56:51+00:00",
+  "source": "manga",
+  "rating": "pg_13",
+  "background": "Gintama. Shirogane no Tamashii-hen - Kouhan-sen was released on Blu-ray and DVD from October 24, 2018, to February 27, 2019.",
+  "related_anime": [
+    {
+      "node": {
+        "id": 36838,
+        "title": "Gintama. Shirogane no Tamashii-hen",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/12/89603.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/12/89603l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    },
+    {
+      "node": {
+        "id": 44087,
+        "title": "Gintama: The Semi-Final",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1694/110521.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1694/110521l.webp"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    }
+  ],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": "11445",
+      "completed": "142396",
+      "on_hold": "3020",
+      "dropped": "2174",
+      "plan_to_watch": "71901"
+    },
+    "num_list_users": 230936
+  },
+  "mal_details_updated_at": "2026-11-10T01:29:01.389Z"
 }

@@ -58,7 +58,9 @@
       "name": "MAPPA"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1432/154522l.jpg"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
@@ -94,16 +96,39 @@
   },
   "broadcast": null,
   "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "popularity": 2648,
+  "num_scoring_users": 1,
+  "nsfw": "white",
+  "created_at": "2025-12-21T07:48:53+00:00",
+  "updated_at": "2025-12-21T21:55:22+00:00",
+  "source": "manga",
+  "rating": "r",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 57555,
+        "title": "Chainsaw Man Movie: Reze-hen",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1763/150638.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1763/150638l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    }
+  ],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": "4",
+      "completed": "1",
+      "on_hold": "5",
+      "dropped": 0,
+      "plan_to_watch": "89475"
+    },
+    "num_list_users": 89485
+  },
+  "mal_details_updated_at": "2026-11-10T01:34:30.946Z"
 }

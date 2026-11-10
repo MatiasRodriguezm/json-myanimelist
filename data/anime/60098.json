@@ -57,7 +57,16 @@
       "name": "Bones Film"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1766/146050l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1370/146328l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1441/148713l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1276/150585l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1959/151055l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1814/153616l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1152/154205l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1092/154229l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/3ILMlmC30QUnYkY3XEBOyJ82Dqu.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/ztteKox6S97uwEuEF2lsaFxaJmg.png",
   "tmdb_id": "65930",
@@ -190,16 +199,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1959/151055l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1959/151055l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1959/151055l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1959/151055l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1959/151055l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1959/151055l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1959/151055l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1959/151055l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1959/151055l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1959/151055l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1766/146050l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1766/146050l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1766/146050l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1766/146050l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1766/146050l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1766/146050l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1766/146050l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1766/146050l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1766/146050l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1766/146050l.jpg"
     }
   },
   "broadcast": {
@@ -210,17 +219,64 @@
     "timezone": "Asia/Tokyo",
     "string": "saturday 17:30"
   },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 65,
+  "popularity": 788,
+  "num_scoring_users": 194431,
+  "nsfw": "white",
+  "created_at": "2024-10-12T11:22:54+00:00",
+  "updated_at": "2026-02-26T22:53:12+00:00",
+  "source": "manga",
+  "rating": "pg_13",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 54789,
+        "title": "Boku no Hero Academia 7th Season",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1573/157212.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1573/157212l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    },
+    {
+      "node": {
+        "id": 63130,
+        "title": "Boku no Hero Academia: More",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1273/156615.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1273/156615l.webp"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 53865,
+        "title": "Yozakura-san Chi no Daisakusen",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1674/143715.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1674/143715l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "27436",
+      "completed": "250389",
+      "on_hold": "3077",
+      "dropped": "1812",
+      "plan_to_watch": "75869"
+    },
+    "num_list_users": 358583
+  },
+  "mal_details_updated_at": "2026-11-10T01:32:22.713Z"
 }

@@ -53,7 +53,17 @@
       "name": "A-1 Pictures"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1502/128320l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1329/132201l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1679/132203l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1462/132204l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1319/132205l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1723/132206l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1472/132207l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1410/132208l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1220/136619l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/3wUOyQbIOFNLPObXa7Iae8RzJ87.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/vWozUkiKsqThqw4bHHjB5t0J2YR.png",
   "tmdb_id": "1145612",
@@ -74,42 +84,101 @@
   "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1220/136619.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1220/136619l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1220/136619.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1220/136619l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1220/136619.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1220/136619l.webp",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1220/136619.webp",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1220/136619l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1220/136619.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1220/136619l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1220/136619.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1220/136619l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1220/136619l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1220/136619l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1220/136619l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1220/136619l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1220/136619l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1220/136619l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1220/136619l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1220/136619l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1220/136619l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1220/136619l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1502/128320l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1502/128320l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1502/128320l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1502/128320l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1502/128320l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1502/128320l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1502/128320l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1502/128320l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1502/128320l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1502/128320l.jpg"
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 542,
+  "popularity": 2031,
+  "num_scoring_users": 71053,
+  "nsfw": "white",
+  "created_at": "2022-09-24T07:50:54+00:00",
+  "updated_at": "2024-10-02T16:28:54+00:00",
+  "source": "light_novel",
+  "rating": "r",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 356,
+        "title": "Fate/stay night",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/4/30327.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/4/30327l.jpg"
+        }
+      },
+      "relation_type": "alternative_setting",
+      "relation_type_formatted": "Alternative setting"
+    },
+    {
+      "node": {
+        "id": 38959,
+        "title": "Lord El-Melloi II-sei no Jikenbo: Rail Zeppelin Grace Note",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1107/111530.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1107/111530l.jpg"
+        }
+      },
+      "relation_type": "character",
+      "relation_type_formatted": "Character"
+    },
+    {
+      "node": {
+        "id": 40982,
+        "title": "Fate/strange Fake PV",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1124/105177.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1124/105177l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 55830,
+        "title": "Fate/strange Fake",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1752/150192.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1752/150192l.jpg"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    }
+  ],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": "4666",
+      "completed": "91942",
+      "on_hold": "860",
+      "dropped": "395",
+      "plan_to_watch": "32417"
+    },
+    "num_list_users": 130280
+  },
+  "mal_details_updated_at": "2026-11-10T01:30:48.741Z"
 }

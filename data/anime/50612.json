@@ -51,7 +51,12 @@
       "name": "TMS Entertainment"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1488/120136l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1588/124405l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1860/124426l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1071/124921l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/lN13BPAEnc5iXmoxxBQHOZ1ScfZ.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/hnCHjH1xvqDDGLrt7vL7Ur0oy5c.png",
   "tmdb_id": "86031",
@@ -95,30 +100,77 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1071/124921l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1071/124921l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1071/124921l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1071/124921l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1071/124921l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1071/124921l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1071/124921l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1071/124921l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1071/124921l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1071/124921l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1488/120136l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1488/120136l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1488/120136l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1488/120136l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1488/120136l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1488/120136l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1488/120136l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1488/120136l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1488/120136l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1488/120136l.jpg"
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
+  "rank": 605,
+  "popularity": 682,
+  "num_scoring_users": 236840,
+  "nsfw": "white",
+  "created_at": "2021-12-19T09:53:40+00:00",
+  "updated_at": "2025-12-10T20:01:07+00:00",
+  "source": "manga",
+  "rating": "pg_13",
+  "background": "Dr. Stone: Ryuusui adapts chapters 84-89 of the manga.",
+  "related_anime": [
+    {
+      "node": {
+        "id": 40852,
+        "title": "Dr. Stone: Stone Wars",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1711/110614.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1711/110614l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    },
+    {
+      "node": {
+        "id": 48549,
+        "title": "Dr. Stone: New World",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1316/136268.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1316/136268l.webp"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 6951,
+        "title": "Yu☆Gi☆Oh! Movie: Chou Yuugou! Toki wo Koeta Kizuna",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/3/30085.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/3/30085l.webp"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "10393",
+      "completed": "339279",
+      "on_hold": "1908",
+      "dropped": "1217",
+      "plan_to_watch": "55557"
+    },
+    "num_list_users": 408354
+  },
+  "mal_details_updated_at": "2026-11-10T01:30:40.958Z"
 }

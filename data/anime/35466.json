@@ -51,7 +51,10 @@
       "name": "TMS Entertainment"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1326/91060l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1566/91061l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/j8gNkno0nWmwAsIJd19wa3wryn6.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/y8pc5cm8pHi1bVKCv1j91CTnRSk.png",
   "tmdb_id": "66941",
@@ -135,30 +138,143 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1566/91061l.webp",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1566/91061l.webp",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1566/91061l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1566/91061l.webp",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1566/91061l.webp",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1566/91061l.webp",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1566/91061l.webp",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1566/91061l.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1566/91061l.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1566/91061l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1326/91060l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1326/91060l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1326/91060l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1326/91060l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1326/91060l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1326/91060l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1326/91060l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1326/91060l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1326/91060l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1326/91060l.jpg"
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 444,
+  "popularity": 598,
+  "num_scoring_users": 271884,
+  "nsfw": "white",
+  "created_at": "2017-04-23T13:07:56+00:00",
+  "updated_at": "2023-01-25T14:47:54+00:00",
+  "source": "web_manga",
+  "rating": "pg_13",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 30015,
+        "title": "ReLIFE",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/3/82149.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/3/82149l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    },
+    {
+      "node": {
+        "id": 37921,
+        "title": "ReLIFE: Kanketsu-hen Specials",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1563/93020.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1563/93020l.webp"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 32281,
+        "title": "Kimi no Na wa.",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/5/87048.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/5/87048l.jpg"
+        }
+      },
+      "num_recommendations": 10
+    },
+    {
+      "node": {
+        "id": 30015,
+        "title": "ReLIFE",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/3/82149.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/3/82149l.jpg"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 31043,
+        "title": "Boku dake ga Inai Machi",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/77957.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/77957l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 1210,
+        "title": "NHK ni Youkoso!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/3/52675.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/3/52675l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 10863,
+        "title": "Steins;Gate: Oukoubakko no Poriomania",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1805/123188.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1805/123188l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 4181,
+        "title": "Clannad: After Story",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1299/110774.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1299/110774l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 40904,
+        "title": "Bokutachi no Remake",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1871/118309.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1871/118309l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "12261",
+      "completed": "362321",
+      "on_hold": "3670",
+      "dropped": "2813",
+      "plan_to_watch": "76136"
+    },
+    "num_list_users": 457201
+  },
+  "mal_details_updated_at": "2026-11-10T01:28:51.417Z"
 }

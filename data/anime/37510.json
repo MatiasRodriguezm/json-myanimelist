@@ -55,7 +55,12 @@
       "name": "Bones"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1793/93254l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1918/96303l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1331/126582l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1684/150513l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/kP5duNJEbTfXpBs6CITsaZ88pQi.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/nH2KsyLFAj9hB0VZYVhpPkFeKPD.png",
   "tmdb_id": "67075",
@@ -208,16 +213,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1918/96303l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1918/96303l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1918/96303l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1918/96303l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1918/96303l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1918/96303l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1918/96303l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1918/96303l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1918/96303l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1918/96303l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1793/93254l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1793/93254l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1793/93254l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1793/93254l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1793/93254l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1793/93254l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1793/93254l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1793/93254l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1793/93254l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1793/93254l.jpg"
     }
   },
   "broadcast": {
@@ -228,17 +233,175 @@
     "timezone": "Asia/Tokyo",
     "string": "monday 23:00"
   },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 45,
+  "popularity": 73,
+  "num_scoring_users": 1114787,
+  "nsfw": "white",
+  "created_at": "2018-03-18T10:14:35+00:00",
+  "updated_at": "2024-10-07T04:09:58+00:00",
+  "source": "web_manga",
+  "rating": "pg_13",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 32182,
+        "title": "Mob Psycho 100",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/8/80356.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/8/80356l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    },
+    {
+      "node": {
+        "id": 39651,
+        "title": "Mob Psycho 100: Dai Ikkai Rei toka Soudansho Ian Ryokou - Kokoro Mitasu Iyashi no Tabi",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1605/119301.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1605/119301l.webp"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 50172,
+        "title": "Mob Psycho 100 III",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1228/125011.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1228/125011l.jpg"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 30276,
+        "title": "One Punch Man",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/12/76049.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/12/76049l.jpg"
+        }
+      },
+      "num_recommendations": 6
+    },
+    {
+      "node": {
+        "id": 33255,
+        "title": "Saiki Kusuo no Ψ-nan",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1973/142750.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1973/142750l.jpg"
+        }
+      },
+      "num_recommendations": 5
+    },
+    {
+      "node": {
+        "id": 34612,
+        "title": "Saiki Kusuo no Ψ-nan 2",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1961/91383.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1961/91383l.jpg"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 24439,
+        "title": "Kekkai Sensen",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1449/142053.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1449/142053l.webp"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 36593,
+        "title": "Hug tto! Precure",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1220/92883.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1220/92883l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 38409,
+        "title": "Cike Wu Liuqi",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1620/94968.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1620/94968l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 40542,
+        "title": "Saiki Kusuo no Ψ-nan: Ψ-shidou-hen",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1993/119022.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1993/119022l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 41345,
+        "title": "Noblesse",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1903/111646.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1903/111646l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 9513,
+        "title": "Beelzebub",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/3/28013.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/3/28013l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 918,
+        "title": "Gintama",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/73274.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/73274l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "91933",
+      "completed": "1413202",
+      "on_hold": "21824",
+      "dropped": "9861",
+      "plan_to_watch": "229322"
+    },
+    "num_list_users": 1766142
+  },
+  "mal_details_updated_at": "2026-11-10T01:29:02.093Z"
 }

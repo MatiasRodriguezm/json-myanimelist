@@ -55,7 +55,14 @@
       "name": "CloverWorks"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1191/98976l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1833/99985l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1437/100691l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1613/102179l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1774/111679l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1646/154575l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/8165gnzhyRbkKfm3WFBINdkDQBR.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/3rRZjwkK4zkAd3CAq9Xlpn7sRK2.png",
   "tmdb_id": "82739",
@@ -99,30 +106,176 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1613/102179l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1613/102179l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1613/102179l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1613/102179l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1613/102179l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1613/102179l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1613/102179l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1613/102179l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1613/102179l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1613/102179l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1191/98976l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1191/98976l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1191/98976l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1191/98976l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1191/98976l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1191/98976l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1191/98976l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1191/98976l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1191/98976l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1191/98976l.jpg"
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
+  "rank": 122,
+  "popularity": 271,
+  "num_scoring_users": 533901,
+  "nsfw": "white",
+  "created_at": "2018-09-15T09:25:58+00:00",
+  "updated_at": "2023-01-10T14:39:11+00:00",
+  "source": "light_novel",
+  "rating": "pg_13",
+  "background": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai adapts volumes 6 and 7 of Hajime Kamoshida's Seishun Buta Series light novels.",
+  "related_anime": [
+    {
+      "node": {
+        "id": 37450,
+        "title": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1301/93586.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1301/93586l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    },
+    {
+      "node": {
+        "id": 53129,
+        "title": "Seishun Buta Yarou wa Odekake Sister no Yume wo Minai",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1540/134808.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1540/134808l.jpg"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 7311,
+        "title": "Suzumiya Haruhi no Shoushitsu",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1248/112352.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1248/112352l.jpg"
+        }
+      },
+      "num_recommendations": 10
+    },
+    {
+      "node": {
+        "id": 9253,
+        "title": "Steins;Gate",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1935/127974.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1935/127974l.jpg"
+        }
+      },
+      "num_recommendations": 8
+    },
+    {
+      "node": {
+        "id": 4181,
+        "title": "Clannad: After Story",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1299/110774.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1299/110774l.jpg"
+        }
+      },
+      "num_recommendations": 5
+    },
+    {
+      "node": {
+        "id": 32281,
+        "title": "Kimi no Na wa.",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/5/87048.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/5/87048l.jpg"
+        }
+      },
+      "num_recommendations": 4
+    },
+    {
+      "node": {
+        "id": 31043,
+        "title": "Boku dake ga Inai Machi",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/77957.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/77957l.jpg"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 37450,
+        "title": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1301/93586.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1301/93586l.jpg"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 36098,
+        "title": "Kimi no Suizou wo Tabetai",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1768/93291.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1768/93291l.jpg"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 11577,
+        "title": "Steins;Gate Movie: Fuka Ryouiki no Déjà vu",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1611/112806.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1611/112806l.jpg"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 1530,
+        "title": "Kanon (2006)",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1362/128746.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1362/128746l.webp"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 6547,
+        "title": "Angel Beats!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1244/111115.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1244/111115l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "20578",
+      "completed": "674703",
+      "on_hold": "4770",
+      "dropped": "2665",
+      "plan_to_watch": "141152"
+    },
+    "num_list_users": 843868
+  },
+  "mal_details_updated_at": "2026-11-10T01:29:07.765Z"
 }

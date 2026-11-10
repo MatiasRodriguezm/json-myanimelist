@@ -51,7 +51,10 @@
       "name": "Madhouse"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/4/10217l.jpg",
+    "https://cdn.myanimelist.net/images/anime/4/64737l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/uvCkSZwCTKnBtBOvDpcOvQA6xBg.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/qlJ4cCqnHNs8cPEZDlM67RwZIFQ.png",
   "tmdb_id": "42705",
@@ -84,30 +87,77 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/4/64737l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/4/64737l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/4/64737l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/4/64737l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/64737l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/4/64737l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/4/64737l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/4/64737l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/64737l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/4/64737l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/4/10217l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/4/10217l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/10217l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/4/10217l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/10217l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/4/10217l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/4/10217l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/4/10217l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/10217l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/4/10217l.jpg"
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 375,
+  "popularity": 2025,
+  "num_scoring_users": 80096,
+  "nsfw": "white",
+  "created_at": "2005-11-13T07:03:56+00:00",
+  "updated_at": "2023-01-20T15:08:05+00:00",
+  "source": "manga",
+  "rating": "pg_13",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 264,
+        "title": "Hajime no Ippo: Champion Road",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1521/137978.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1521/137978l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    },
+    {
+      "node": {
+        "id": 5258,
+        "title": "Hajime no Ippo: New Challenger",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/8/56617.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/8/56617l.jpg"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 2922,
+        "title": "Ashita no Joe 2 (Movie)",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/5/53557.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/5/53557l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "2443",
+      "completed": "110708",
+      "on_hold": "701",
+      "dropped": "539",
+      "plan_to_watch": "16890"
+    },
+    "num_list_users": 131281
+  },
+  "mal_details_updated_at": "2026-11-10T01:27:48.407Z"
 }

@@ -31,8 +31,8 @@
   "num_episodes": 12,
   "score": 7.54,
   "mean": 7.54,
-  "numListUsers": 57235,
-  "num_list_users": 57235,
+  "numListUsers": 57277,
+  "num_list_users": 57277,
   "genres": [
     {
       "id": 10,
@@ -53,7 +53,11 @@
       "name": "Diomedéa"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1662/155248l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1806/156103l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1165/160033l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/hEE9n9tZAjoT3eE5lL4MhZZ2DbB.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/5D9kwwmONWYhWiAAL0jMZ83Skgz.png",
   "tmdb_id": "313068",
@@ -156,16 +160,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1165/160033l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1165/160033l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1165/160033l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1165/160033l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1165/160033l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1165/160033l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1165/160033l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1165/160033l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1165/160033l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1165/160033l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1662/155248l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1662/155248l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1662/155248l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1662/155248l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1662/155248l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1662/155248l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1662/155248l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1662/155248l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1662/155248l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1662/155248l.jpg"
     }
   },
   "broadcast": {
@@ -176,17 +180,61 @@
     "timezone": "Asia/Tokyo",
     "string": "monday 21:30"
   },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 2040,
+  "popularity": 3445,
+  "num_scoring_users": 6305,
+  "nsfw": "white",
+  "created_at": "2026-02-02T13:45:21+00:00",
+  "updated_at": "2026-10-06T02:19:56+00:00",
+  "source": "light_novel",
+  "rating": "pg_13",
   "background": null,
   "related_anime": [],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 1562,
+        "title": "Yamato Nadeshiko Shichihenge♥",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/11/7701.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/11/7701l.webp"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 59459,
+        "title": "Silent Witch: Chinmoku no Majo no Kakushigoto",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1669/149732.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1669/149732l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 30123,
+        "title": "Akagami no Shirayuki-hime",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/75764.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/75764l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "30881",
+      "completed": "11",
+      "on_hold": "528",
+      "dropped": "808",
+      "plan_to_watch": "25006"
+    },
+    "num_list_users": 57234
+  },
+  "mal_details_updated_at": "2026-11-10T01:34:45.508Z"
 }

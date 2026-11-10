@@ -32,8 +32,8 @@
   "num_episodes": null,
   "score": null,
   "mean": null,
-  "numListUsers": 82112,
-  "num_list_users": 82112,
+  "numListUsers": 82114,
+  "num_list_users": 82114,
   "genres": [
     {
       "id": 1,
@@ -62,7 +62,11 @@
       "name": "C2C"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1851/148885l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1450/156167l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1058/160088l.jpg"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
@@ -95,16 +99,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1058/160088l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1058/160088l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1058/160088l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1058/160088l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1058/160088l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1058/160088l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1058/160088l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1058/160088l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1058/160088l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1058/160088l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1851/148885l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1851/148885l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1851/148885l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1851/148885l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1851/148885l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1851/148885l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1851/148885l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1851/148885l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1851/148885l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1851/148885l.jpg"
     }
   },
   "broadcast": {
@@ -116,16 +120,39 @@
     "string": "sunday 17:00"
   },
   "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "popularity": 2790,
+  "num_scoring_users": 1,
+  "nsfw": "white",
+  "created_at": "2025-03-30T08:54:56+00:00",
+  "updated_at": "2026-09-16T09:05:13+00:00",
+  "source": "manga",
+  "rating": "pg_13",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 58572,
+        "title": "Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su 2nd Season",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1996/147601.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1996/147601l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    }
+  ],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": "8",
+      "completed": "1",
+      "on_hold": "9",
+      "dropped": "1",
+      "plan_to_watch": "82094"
+    },
+    "num_list_users": 82113
+  },
+  "mal_details_updated_at": "2026-11-10T01:32:44.983Z"
 }

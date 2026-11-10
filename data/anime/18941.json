@@ -55,7 +55,10 @@
       "name": "The Answer Studio"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/9/50737l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1578/134338l.jpg"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
@@ -4978,17 +4981,268 @@
     "timezone": "Asia/Tokyo",
     "string": "saturday 08:30"
   },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 20818,
+  "popularity": 16138,
+  "num_scoring_users": 110,
+  "nsfw": "white",
+  "created_at": "2013-06-01T18:46:07+00:00",
+  "updated_at": "2025-01-03T20:41:45+00:00",
+  "source": "other",
+  "rating": "g",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 18939,
+        "title": "Shimajirou Hesoka",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/8/50735.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/8/50735l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    },
+    {
+      "node": {
+        "id": 18943,
+        "title": "Shimajirou no Wow! Movie 1: Shimajirou to Fufu no Daibouken: Sukue! Nanairo no Hana",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1235/93921.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1235/93921l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 20963,
+        "title": "Shimajirou no Wow! Movie 2: Shimajirou to Kujira no Uta",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/5/55323.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/5/55323l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 28293,
+        "title": "Shimajirou no Wow! Movie 3: Shimajirou to Ookinaki",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/11/72464.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/11/72464l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 32014,
+        "title": "Shimajirou no Wow! Movie 4: Shimajirou to Ehon no Kuni",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/7/78839.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/7/78839l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 34315,
+        "title": "Shimajirou no Wow! Movie 5: Shimajirou to Niji no Oasis",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/6/82636.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/6/82636l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 36727,
+        "title": "Shimajirou no Wow! Movie 6: Mahou no Shima no Daibouken",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1265/90942.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1265/90942l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 36759,
+        "title": "Shimajirou to Tanjoubi no Ohoshi-sama",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/88888.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/88888l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 38618,
+        "title": "Shimajirou no Wow! Movie 7: Shimajirou to Ururu no Hero Land",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1082/95967.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1082/95967l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 40621,
+        "title": "Shimajirou no Wow! Movie 8: Shimajirou to Soratobu Fune",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1203/103664.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1203/103664l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 53984,
+        "title": "Shimajirou to Otsuki-sama no Himitsu",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1339/132076.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1339/132076l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 53987,
+        "title": "Shimajirou to Nagareboshi no Negaigoto",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1715/132079.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1715/132079l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 54267,
+        "title": "Shimajirou to Uzumasa Ninja Daisakusen",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1750/132820.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1750/132820l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 54268,
+        "title": "Shimajirou no Wow! Movie 9: Shimajirou to Miracle-jima no Nanairo Carnation",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1162/147318.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1162/147318l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 54269,
+        "title": "Shimajirou no Wow! Movie 10: Shimajirou to Kirakira Oukoku no Oujisama",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1281/132822.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1281/132822l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 54402,
+        "title": "Qiaohu Tansuo Qimiao Shijie",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1263/133206.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1263/133206l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 54403,
+        "title": "Qiaohu Tansuo Qimiao Shijie 2nd Season",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1564/133207.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1564/133207l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 54404,
+        "title": "Qiaohu Tansuo Qimiao Shijie 3rd Season",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1623/133208.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1623/133208l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 56335,
+        "title": "Shimajirou no Wow! Movie 11: Shimajirou to Yuuki no Uta",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1358/147319.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1358/147319l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 65202,
+        "title": "Shimajirou to Uchuu Ongakukai",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1365/160578.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1365/160578l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    }
+  ],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": "255",
+      "completed": 0,
+      "on_hold": "51",
+      "dropped": "295",
+      "plan_to_watch": "283"
+    },
+    "num_list_users": 884
+  },
+  "mal_details_updated_at": "2026-11-10T01:27:20.647Z"
 }

@@ -53,7 +53,11 @@
       "name": "Shaft"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/2/62643l.jpg",
+    "https://cdn.myanimelist.net/images/anime/13/65755l.jpg",
+    "https://cdn.myanimelist.net/images/anime/2/65761l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/cHII6sQ91q8H5EMONKCwCQMauCP.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/1PloWpJba8A3I0x8Ry92IGYromk.png",
   "tmdb_id": "46195",
@@ -124,42 +128,133 @@
   "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/13/65755.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/13/65755l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/13/65755.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/13/65755l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/13/65755.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/13/65755l.webp",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/13/65755.webp",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/13/65755l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/13/65755.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/13/65755l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/13/65755.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/13/65755l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/13/65755l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/13/65755l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/13/65755l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/13/65755l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/13/65755l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/13/65755l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/13/65755l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/13/65755l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/13/65755l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/13/65755l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/2/62643l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/2/62643l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/2/62643l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/2/62643l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/2/62643l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/2/62643l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/2/62643l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/2/62643l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/2/62643l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/2/62643l.jpg"
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
+  "rank": 921,
+  "popularity": 590,
+  "num_scoring_users": 259816,
+  "nsfw": "white",
+  "created_at": "2013-12-29T19:22:52+00:00",
+  "updated_at": "2024-02-04T16:05:24+00:00",
+  "source": "light_novel",
+  "rating": "r",
+  "background": "Hanamonogatari adapts the third volume of NisiOisiN's Monogatari Series: Second Season.",
+  "related_anime": [
+    {
+      "node": {
+        "id": 17074,
+        "title": "Monogatari Series: Second Season",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1807/121534.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1807/121534l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    },
+    {
+      "node": {
+        "id": 28025,
+        "title": "Tsukimonogatari",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/6/68259.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/6/68259l.webp"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 26165,
+        "title": "Yuri Kuma Arashi",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/3/69203.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/3/69203l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 11771,
+        "title": "Kuroko no Basket",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/11/50453.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/11/50453l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 22265,
+        "title": "Free! Eternal Summer",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1719/108886.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1719/108886l.webp"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 2605,
+        "title": "Sayonara Zetsubou Sensei",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/5/6559.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/5/6559l.webp"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 35120,
+        "title": "Devilman: Crybaby",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/2/89973.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/2/89973l.webp"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "11347",
+      "completed": "335553",
+      "on_hold": "5116",
+      "dropped": "2398",
+      "plan_to_watch": "106377"
+    },
+    "num_list_users": 460791
+  },
+  "mal_details_updated_at": "2026-11-10T01:27:29.848Z"
 }

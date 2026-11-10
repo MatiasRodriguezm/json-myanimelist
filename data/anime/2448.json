@@ -53,7 +53,11 @@
       "name": "Production I.G"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/5/2829l.jpg",
+    "https://cdn.myanimelist.net/images/anime/8/85151l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1389/120071l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/2rvFW70UeOMCTXGmYHij1bwHCiu.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/4CpyLRaTyMKJyurf1vwg8p82S1i.png",
   "tmdb_id": "1095",
@@ -110,17 +114,64 @@
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 819,
+  "popularity": 4588,
+  "num_scoring_users": 11971,
+  "nsfw": "white",
+  "created_at": "2007-05-06T14:48:48+00:00",
+  "updated_at": "2025-10-17T21:50:09+00:00",
+  "source": "manga",
+  "rating": "r",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 801,
+        "title": "Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1646/135390.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1646/135390l.webp"
+        }
+      },
+      "relation_type": "full_story",
+      "relation_type_formatted": "Full story"
+    },
+    {
+      "node": {
+        "id": 2449,
+        "title": "Koukaku Kidoutai: Stand Alone Complex - The Laughing Man",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1127/141116.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1127/141116l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    },
+    {
+      "node": {
+        "id": 10948,
+        "title": "Koukaku Kidoutai: Stand Alone Complex 2nd GIG - Individual Eleven - Tachikoma na Hibi",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/5/30204.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/5/30204l.webp"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    }
+  ],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": "945",
+      "completed": "19615",
+      "on_hold": "499",
+      "dropped": "419",
+      "plan_to_watch": "11851"
+    },
+    "num_list_users": 33329
+  },
+  "mal_details_updated_at": "2026-11-10T01:27:39.640Z"
 }

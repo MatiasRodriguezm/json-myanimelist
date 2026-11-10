@@ -67,7 +67,19 @@
       "name": "OLM"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1896/131888l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1210/133296l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1831/133946l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1970/135281l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1066/137118l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1703/137216l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1628/139216l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1907/139359l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1949/142593l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1420/145459l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1772/148477l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/d0axpGojOqDag5lDa0eNSEtw11l.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/mYDlRCy9uvowwwyYWQbMj9HUKay.png",
   "tmdb_id": "220150",
@@ -1811,16 +1823,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1703/137216l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1703/137216l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1703/137216l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1703/137216l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1703/137216l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1703/137216l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1703/137216l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1703/137216l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1703/137216l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1703/137216l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1896/131888l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1896/131888l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1896/131888l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1896/131888l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1896/131888l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1896/131888l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1896/131888l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1896/131888l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1896/131888l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1896/131888l.jpg"
     }
   },
   "broadcast": {
@@ -1831,17 +1843,159 @@
     "timezone": "Asia/Tokyo",
     "string": "friday 18:55"
   },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
+  "rank": 2792,
+  "popularity": 4016,
+  "num_scoring_users": 11150,
+  "nsfw": "white",
+  "created_at": "2022-12-16T15:23:07+00:00",
+  "updated_at": "2025-03-21T18:28:05+00:00",
+  "source": "game",
+  "rating": "pg",
+  "background": "Pokemon (2023) features elements and settings from the 2022 Nintendo Switch games Pokémon Scarlet and Violet by Game Freak.",
+  "related_anime": [
+    {
+      "node": {
+        "id": 527,
+        "title": "Pokemon",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1787/140239.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1787/140239l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 53327,
+        "title": "Nanjyamo no Aibou wa Nanimono nanja!? (Donna Monja TV)",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1197/129096.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1197/129096l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 56218,
+        "title": "Houkago no Breath",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1252/140364.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1252/140364l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 56712,
+        "title": "Ghost Dive",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1852/138624.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1852/138624l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 57199,
+        "title": "Biri-Biri",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1001/139709.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1001/139709l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 57488,
+        "title": "Kabigon to Karakara",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1982/140236.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1982/140236l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 60799,
+        "title": "Discover Paldea",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1860/147638.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1860/147638l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 61027,
+        "title": "Ghost Rhyme",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1697/148035.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1697/148035l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 62885,
+        "title": "Iolite",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1553/153246.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1553/153246l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 237,
+        "title": "Koukyoushihen Eureka Seven",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/12/34443.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/12/34443l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 48661,
+        "title": "JoJo no Kimyou na Bouken Part 6: Stone Ocean",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1896/119844.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1896/119844l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "21433",
+      "completed": "2",
+      "on_hold": "6068",
+      "dropped": "4437",
+      "plan_to_watch": "12076"
+    },
+    "num_list_users": 44016
+  },
+  "mal_details_updated_at": "2026-11-10T01:30:53.008Z"
 }

@@ -51,7 +51,10 @@
       "name": "Lerche"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1663/144261l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1510/145714l.jpg"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
@@ -86,17 +89,52 @@
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 166,
+  "popularity": 4426,
+  "num_scoring_users": 12708,
+  "nsfw": "gray",
+  "created_at": "2024-02-24T10:46:23+00:00",
+  "updated_at": "2025-06-27T12:03:10+00:00",
+  "source": "manga",
+  "rating": "pg_13",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 54791,
+        "title": "Given Movie 2: Hiiragi Mix",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1095/140582.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1095/140582l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 59419,
+        "title": "Project Sekai Movie: Kowareta Sekai to Utaenai Miku",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1883/144526.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1883/144526l.webp"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "948",
+      "completed": "18093",
+      "on_hold": "389",
+      "dropped": "212",
+      "plan_to_watch": "16259"
+    },
+    "num_list_users": 35901
+  },
+  "mal_details_updated_at": "2026-11-10T01:31:09.319Z"
 }

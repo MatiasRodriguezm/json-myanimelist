@@ -32,8 +32,8 @@
   "num_episodes": null,
   "score": null,
   "mean": null,
-  "numListUsers": 47113,
-  "num_list_users": 47113,
+  "numListUsers": 47126,
+  "num_list_users": 47126,
   "genres": [
     {
       "id": 26,
@@ -50,7 +50,10 @@
       "name": "CloverWorks"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1896/148061l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1892/158854l.jpg"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": "284751",
@@ -83,16 +86,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1892/158854l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1892/158854l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1892/158854l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1892/158854l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1892/158854l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1892/158854l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1892/158854l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1892/158854l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1892/158854l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1892/158854l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1896/148061l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1896/148061l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1896/148061l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1896/148061l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1896/148061l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1896/148061l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1896/148061l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1896/148061l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1896/148061l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1896/148061l.jpg"
     }
   },
   "broadcast": {
@@ -104,16 +107,26 @@
     "string": "friday 23:00"
   },
   "rank": null,
-  "popularity": null,
+  "popularity": 3860,
   "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
+  "nsfw": "gray",
+  "created_at": "2025-02-19T11:48:17+00:00",
+  "updated_at": "2026-10-09T23:56:14+00:00",
+  "source": "web_manga",
   "rating": null,
   "background": null,
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": "5",
+      "completed": "1",
+      "on_hold": "4",
+      "dropped": 0,
+      "plan_to_watch": "47111"
+    },
+    "num_list_users": 47121
+  },
+  "mal_details_updated_at": "2026-11-10T01:32:38.926Z"
 }

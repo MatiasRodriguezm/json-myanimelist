@@ -56,7 +56,9 @@
       "name": "A-1 Pictures"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1775/158856l.jpg"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
@@ -92,16 +94,39 @@
   },
   "broadcast": null,
   "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "popularity": 3462,
+  "num_scoring_users": 1,
+  "nsfw": "white",
+  "created_at": "2026-07-03T22:53:26+00:00",
+  "updated_at": "2026-07-04T03:16:18+00:00",
+  "source": "web_manga",
+  "rating": "r",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 58567,
+        "title": "Ore dake Level Up na Ken Season 2: Arise from the Shadow",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1448/147351.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1448/147351l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    }
+  ],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": "5",
+      "completed": 0,
+      "on_hold": "3",
+      "dropped": "1",
+      "plan_to_watch": "56679"
+    },
+    "num_list_users": 56688
+  },
+  "mal_details_updated_at": "2026-11-10T01:36:26.006Z"
 }

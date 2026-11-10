@@ -43,7 +43,15 @@
       "name": "Eiken"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/9/25502l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1008/98996l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1056/106129l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1408/109528l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1677/109529l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1951/109530l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1081/157302l.jpg"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
@@ -11237,16 +11245,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1008/98996l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1008/98996l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1008/98996l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1008/98996l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1008/98996l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1008/98996l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1008/98996l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1008/98996l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1008/98996l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1008/98996l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/9/25502l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/9/25502l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/9/25502l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/9/25502l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/9/25502l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/9/25502l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/9/25502l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/9/25502l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/9/25502l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/9/25502l.jpg"
     }
   },
   "broadcast": {
@@ -11257,17 +11265,110 @@
     "timezone": "Asia/Tokyo",
     "string": "sunday 18:30"
   },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
+  "rank": 10197,
+  "popularity": 7295,
+  "num_scoring_users": 2070,
+  "nsfw": "white",
+  "created_at": "2007-04-29T21:39:08+00:00",
+  "updated_at": "2025-12-01T13:27:46+00:00",
+  "source": "4_koma_manga",
+  "rating": "g",
+  "background": "Sazae-san currently holds the Guinness World Record for the longest running animated television series.",
+  "related_anime": [
+    {
+      "node": {
+        "id": 28615,
+        "title": "Sazae-san: Dawn to Ikka de Hawaii Ryokou",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/7/69343.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/7/69343l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 35770,
+        "title": "Hungry Days: Aoharu ka yo.",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1637/105124.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1637/105124l.jpg"
+        }
+      },
+      "relation_type": "character",
+      "relation_type_formatted": "Character"
+    },
+    {
+      "node": {
+        "id": 47542,
+        "title": "Sazae-san: Valentine-hen",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1689/117165.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1689/117165l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 62250,
+        "title": "Sazae-san no Yukai na Tabi in Miyagi",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1351/151458.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1351/151458l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 6625,
+        "title": "Nono-chan",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/8/15177.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/8/15177l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 6149,
+        "title": "Chibi Maruko-chan (1995)",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1678/153148.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1678/153148l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 951,
+        "title": "Chibi Maruko-chan",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1760/145402.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1760/145402l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "3592",
+      "completed": 0,
+      "on_hold": "827",
+      "dropped": "2060",
+      "plan_to_watch": "4160"
+    },
+    "num_list_users": 10639
+  },
+  "mal_details_updated_at": "2026-11-10T01:27:38.784Z"
 }

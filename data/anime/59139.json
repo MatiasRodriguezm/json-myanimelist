@@ -51,7 +51,9 @@
     }
   ],
   "studios": [],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1055/143718l.jpg"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
@@ -87,16 +89,39 @@
   },
   "broadcast": null,
   "rank": null,
-  "popularity": null,
+  "popularity": 2803,
   "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "nsfw": "white",
+  "created_at": "2024-06-24T15:01:35+00:00",
+  "updated_at": "2024-06-24T15:03:09+00:00",
+  "source": "light_novel",
+  "rating": "pg_13",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 49889,
+        "title": "Tsuki ga Michibiku Isekai Douchuu 2nd Season",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1794/142621.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1794/142621l.webp"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    }
+  ],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": "5",
+      "completed": 0,
+      "on_hold": "4",
+      "dropped": "1",
+      "plan_to_watch": "81560"
+    },
+    "num_list_users": 81570
+  },
+  "mal_details_updated_at": "2026-11-10T01:32:11.535Z"
 }

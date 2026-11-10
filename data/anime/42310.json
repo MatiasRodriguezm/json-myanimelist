@@ -55,7 +55,15 @@
       "name": "Trigger"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1562/108236l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1818/126435l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1129/135442l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1832/144899l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1786/144908l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1127/152939l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1162/158613l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/bknKZO7DWVYKeByuJMnGI46PFZg.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/sNhrCQwDbvu6hGm8yKNQAh3njKf.png",
   "tmdb_id": "105248",
@@ -178,30 +186,176 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1818/126435l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1818/126435l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1818/126435l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1818/126435l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1818/126435l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1818/126435l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1818/126435l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1818/126435l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1818/126435l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1818/126435l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1562/108236l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1562/108236l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1562/108236l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1562/108236l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1562/108236l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1562/108236l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1562/108236l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1562/108236l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1562/108236l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1562/108236l.jpg"
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
+  "rank": 95,
+  "popularity": 163,
+  "num_scoring_users": 777932,
+  "nsfw": "white",
+  "created_at": "2020-06-25T16:33:19+00:00",
+  "updated_at": "2023-11-24T05:51:17+00:00",
+  "source": "game",
+  "rating": "r+",
+  "background": "Cyberpunk: Edgerunners is based on the Cyberpunk 2077 video game by CD Projekt Red. The series acts as a prequel to the game's story.",
+  "related_anime": [
+    {
+      "node": {
+        "id": 53013,
+        "title": "Let You Down",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1300/128136.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1300/128136l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 61990,
+        "title": "Cyberpunk: Edgerunners 2",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1431/160542.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1431/160542l.jpg"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 41433,
+        "title": "Akudama Drive",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1468/109172.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1468/109172l.jpg"
+        }
+      },
+      "num_recommendations": 26
+    },
+    {
+      "node": {
+        "id": 35120,
+        "title": "Devilman: Crybaby",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/2/89973.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/2/89973l.webp"
+        }
+      },
+      "num_recommendations": 17
+    },
+    {
+      "node": {
+        "id": 22199,
+        "title": "Akame ga Kill!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1429/95946.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1429/95946l.jpg"
+        }
+      },
+      "num_recommendations": 9
+    },
+    {
+      "node": {
+        "id": 1,
+        "title": "Cowboy Bebop",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/4/19644.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/4/19644l.jpg"
+        }
+      },
+      "num_recommendations": 8
+    },
+    {
+      "node": {
+        "id": 47,
+        "title": "Akira",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1408/114012.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1408/114012l.webp"
+        }
+      },
+      "num_recommendations": 7
+    },
+    {
+      "node": {
+        "id": 43,
+        "title": "Koukaku Kidoutai",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/82594.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/82594l.jpg"
+        }
+      },
+      "num_recommendations": 7
+    },
+    {
+      "node": {
+        "id": 44511,
+        "title": "Chainsaw Man",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1806/126216.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1806/126216l.webp"
+        }
+      },
+      "num_recommendations": 6
+    },
+    {
+      "node": {
+        "id": 2001,
+        "title": "Tengen Toppa Gurren Lagann",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/4/5123.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/4/5123l.webp"
+        }
+      },
+      "num_recommendations": 6
+    },
+    {
+      "node": {
+        "id": 46095,
+        "title": "Vivy: Fluorite Eye's Song",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1551/128960.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1551/128960l.jpg"
+        }
+      },
+      "num_recommendations": 5
+    },
+    {
+      "node": {
+        "id": 889,
+        "title": "Black Lagoon",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1906/121592.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1906/121592l.jpg"
+        }
+      },
+      "num_recommendations": 5
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "56839",
+      "completed": "943584",
+      "on_hold": "14755",
+      "dropped": "11856",
+      "plan_to_watch": "117430"
+    },
+    "num_list_users": 1144464
+  },
+  "mal_details_updated_at": "2026-11-10T01:30:18.604Z"
 }

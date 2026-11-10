@@ -55,7 +55,11 @@
       "name": "White Fox"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/8/73895l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1157/123187l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1805/123188l.jpg"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
@@ -349,30 +353,99 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1805/123188l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1805/123188l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1805/123188l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1805/123188l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1805/123188l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1805/123188l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1805/123188l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1805/123188l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1805/123188l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1805/123188l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/8/73895l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/8/73895l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/8/73895l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/8/73895l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/8/73895l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/8/73895l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/8/73895l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/8/73895l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/73895l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/8/73895l.jpg"
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 346,
+  "popularity": 558,
+  "num_scoring_users": 301539,
+  "nsfw": "white",
+  "created_at": "2011-06-25T17:00:24+00:00",
+  "updated_at": "2023-01-17T04:22:04+00:00",
+  "source": "visual_novel",
+  "rating": "pg_13",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 9253,
+        "title": "Steins;Gate",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1935/127974.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1935/127974l.webp"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    },
+    {
+      "node": {
+        "id": 11577,
+        "title": "Steins;Gate Movie: Fuka Ryouiki no Déjà vu",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1611/112806.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1611/112806l.jpg"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 2167,
+        "title": "Clannad",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1804/95033.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1804/95033l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 10638,
+        "title": "Denpa Onna to Seishun Otoko: Mayonaka no Taiyou",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/3/36709.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/3/36709l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 35466,
+        "title": "ReLIFE: Kanketsu-hen",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1566/91061.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1566/91061l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "6567",
+      "completed": "410943",
+      "on_hold": "2147",
+      "dropped": "1121",
+      "plan_to_watch": "62185"
+    },
+    "num_list_users": 482963
+  },
+  "mal_details_updated_at": "2026-11-10T01:26:57.051Z"
 }

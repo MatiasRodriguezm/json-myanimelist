@@ -58,7 +58,10 @@
       "name": "Studio M2"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1217/152123l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1601/157813l.jpg"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
@@ -80,30 +83,53 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1601/157813l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1601/157813l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1601/157813l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1601/157813l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1601/157813l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1601/157813l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1601/157813l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1601/157813l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1601/157813l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1601/157813l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1217/152123l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1217/152123l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1217/152123l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1217/152123l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1217/152123l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1217/152123l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1217/152123l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1217/152123l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1217/152123l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1217/152123l.jpg"
     }
   },
   "broadcast": null,
   "rank": null,
-  "popularity": null,
+  "popularity": 4269,
   "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "nsfw": "white",
+  "created_at": "2025-07-04T00:34:30+00:00",
+  "updated_at": "2026-10-30T12:13:06+00:00",
+  "source": "light_novel",
+  "rating": "r",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 31637,
+        "title": "Gate: Jieitai Kanochi nite, Kaku Tatakaeri Part 2",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/8/77382.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/8/77382l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    }
+  ],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": "3",
+      "completed": 0,
+      "on_hold": "1",
+      "dropped": 0,
+      "plan_to_watch": "38973"
+    },
+    "num_list_users": 38977
+  },
+  "mal_details_updated_at": "2026-11-10T01:32:55.522Z"
 }

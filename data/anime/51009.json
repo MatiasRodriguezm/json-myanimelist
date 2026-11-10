@@ -36,8 +36,8 @@
   "num_episodes": 23,
   "score": 8.69,
   "mean": 8.69,
-  "numListUsers": 1481732,
-  "num_list_users": 1481732,
+  "numListUsers": 1481828,
+  "num_list_users": 1481828,
   "genres": [
     {
       "id": 1,
@@ -66,7 +66,13 @@
       "name": "MAPPA"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1168/128144l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1676/128448l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1600/134703l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1792/138022l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1732/139397l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/3US5UXJSStOVozc6EwhGSMDguol.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/tEmqJ1k4MdjuaKaetn8wGyZGcyC.png",
   "tmdb_id": "95479",
@@ -350,16 +356,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1792/138022l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1792/138022l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1792/138022l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1792/138022l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1792/138022l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1792/138022l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1792/138022l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1792/138022l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1792/138022l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1792/138022l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1168/128144l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1168/128144l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1168/128144l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1168/128144l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1168/128144l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1168/128144l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1168/128144l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1168/128144l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1168/128144l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1168/128144l.jpg"
     }
   },
   "broadcast": {
@@ -370,17 +376,199 @@
     "timezone": "Asia/Tokyo",
     "string": "thursday 23:56"
   },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
+  "rank": 70,
+  "popularity": 104,
+  "num_scoring_users": 885536,
+  "nsfw": "white",
+  "created_at": "2022-02-12T10:05:19+00:00",
+  "updated_at": "2025-12-10T21:28:16+00:00",
+  "source": "manga",
+  "rating": "r",
+  "background": "Jujutsu Kaisen 2nd Season was released on Blu-ray and DVD in eight volumes from October 18, 2023, to May 22, 2024. ",
+  "related_anime": [
+    {
+      "node": {
+        "id": 40748,
+        "title": "Jujutsu Kaisen",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1171/109222.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1171/109222l.webp"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    },
+    {
+      "node": {
+        "id": 56243,
+        "title": "Jujutsu Kaisen 2nd Season Recaps",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1190/137716.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1190/137716l.jpg"
+        }
+      },
+      "relation_type": "summary",
+      "relation_type_formatted": "Summary"
+    },
+    {
+      "node": {
+        "id": 57658,
+        "title": "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1659/154920.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1659/154920l.jpg"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    },
+    {
+      "node": {
+        "id": 59654,
+        "title": "Jujutsu Kaisen Movie: Kaigyoku/Gyokusetsu",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1999/147023.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1999/147023l.jpg"
+        }
+      },
+      "relation_type": "summary",
+      "relation_type_formatted": "Summary"
+    },
+    {
+      "node": {
+        "id": 62392,
+        "title": "Jujutsu Kaisen Movie: Shibuya Jihen Tokubetsu Henshuu-ban x Shimetsu Kaiyuu Senkou Jouei",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1438/154138.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1438/154138l.jpg"
+        }
+      },
+      "relation_type": "summary",
+      "relation_type_formatted": "Summary"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 46569,
+        "title": "Jigokuraku",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1075/131925.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1075/131925l.jpg"
+        }
+      },
+      "num_recommendations": 3
+    },
+    {
+      "node": {
+        "id": 44511,
+        "title": "Chainsaw Man",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1806/126216.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1806/126216l.webp"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 22535,
+        "title": "Kiseijuu: Sei no Kakuritsu",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/3/73178.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/3/73178l.webp"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 48483,
+        "title": "Mieruko-chan",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1277/117155.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1277/117155l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 10087,
+        "title": "Fate/Zero",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1887/117644.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1887/117644l.webp"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 32983,
+        "title": "Natsume Yuujinchou Go",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/11/81755.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/11/81755l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 777,
+        "title": "Hellsing Ultimate",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1012/143965.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1012/143965l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 11061,
+        "title": "Hunter x Hunter (2011)",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1337/99013.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1337/99013l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 60285,
+        "title": "Sakamoto Days Part 2",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1758/148719.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1758/148719l.webp"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 41467,
+        "title": "Bleach: Sennen Kessen-hen",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1908/135431.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1908/135431l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "179559",
+      "completed": "1094959",
+      "on_hold": "19661",
+      "dropped": "12315",
+      "plan_to_watch": "174988"
+    },
+    "num_list_users": 1481482
+  },
+  "mal_details_updated_at": "2026-11-10T01:30:42.369Z"
 }

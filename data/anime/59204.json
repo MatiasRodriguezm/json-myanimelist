@@ -31,8 +31,8 @@
   "num_episodes": null,
   "score": 7.21,
   "mean": 7.21,
-  "numListUsers": 22850,
-  "num_list_users": 22850,
+  "numListUsers": 22852,
+  "num_list_users": 22852,
   "genres": [
     {
       "id": 2,
@@ -57,7 +57,13 @@
       "name": "E&H Production"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1984/143950l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1679/152682l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1349/156364l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1232/158887l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1478/160268l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/ovysGUJ9Qc7oWaiFbyWjwhw1vtc.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/lFNhd3XrhA90XawdnocusI9zwsS.png",
   "tmdb_id": "303272",
@@ -160,16 +166,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1478/160268l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1478/160268l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1478/160268l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1478/160268l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1478/160268l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1478/160268l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1478/160268l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1478/160268l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1478/160268l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1478/160268l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1984/143950l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1984/143950l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1984/143950l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1984/143950l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1984/143950l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1984/143950l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1984/143950l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1984/143950l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1984/143950l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1984/143950l.jpg"
     }
   },
   "broadcast": {
@@ -180,17 +186,76 @@
     "timezone": "Asia/Tokyo",
     "string": "wednesday 23:45"
   },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
+  "rank": 3758,
+  "popularity": 5384,
+  "num_scoring_users": 2075,
+  "nsfw": "white",
+  "created_at": "2024-07-02T03:07:17+00:00",
+  "updated_at": "2026-10-07T21:13:36+00:00",
+  "source": "manga",
+  "rating": "pg_13",
+  "background": "Magic Knight Rayearth (2026) aired on TV Asahi's IMAnimation W block.",
+  "related_anime": [
+    {
+      "node": {
+        "id": 435,
+        "title": "Magic Knight Rayearth",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1683/97042.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1683/97042l.jpg"
+        }
+      },
+      "relation_type": "alternative_version",
+      "relation_type_formatted": "Alternative version"
+    },
+    {
+      "node": {
+        "id": 1954,
+        "title": "Rayearth",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1824/97041.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1824/97041l.jpg"
+        }
+      },
+      "relation_type": "alternative_version",
+      "relation_type_formatted": "Alternative version"
+    },
+    {
+      "node": {
+        "id": 38372,
+        "title": "Magic Knight Rayearth Pilot",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1439/160469.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1439/160469l.jpg"
+        }
+      },
+      "relation_type": "alternative_version",
+      "relation_type_formatted": "Alternative version"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 14751,
+        "title": "Bishoujo Senshi Sailor Moon Crystal",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1209/133699.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1209/133699l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "9909",
+      "completed": "2",
+      "on_hold": "255",
+      "dropped": "605",
+      "plan_to_watch": "12081"
+    },
+    "num_list_users": 22852
+  },
+  "mal_details_updated_at": "2026-11-10T01:32:12.997Z"
 }

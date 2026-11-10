@@ -61,7 +61,17 @@
       "name": "ufotable"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1368/93482l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1466/99748l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1286/99889l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1310/100840l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1107/100990l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1628/103229l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1786/107453l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1588/108571l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1264/111392l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/nTvM4mhqNlHIvUkI1gVnW6XP7GG.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/ecghlDeabR3X3Vv8tXIOeXHQvQe.png",
   "tmdb_id": "85937",
@@ -344,16 +354,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1286/99889l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1286/99889l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1286/99889l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1286/99889l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1286/99889l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1286/99889l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1286/99889l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1286/99889l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1286/99889l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1286/99889l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1368/93482l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1368/93482l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1368/93482l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1368/93482l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1368/93482l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1368/93482l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1368/93482l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1368/93482l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1368/93482l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1368/93482l.jpg"
     }
   },
   "broadcast": {
@@ -364,17 +374,199 @@
     "timezone": "Asia/Tokyo",
     "string": "saturday 23:30"
   },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
+  "rank": 245,
+  "popularity": 5,
+  "num_scoring_users": 2416899,
+  "nsfw": "white",
+  "created_at": "2018-07-21T05:29:59+00:00",
+  "updated_at": "2024-11-17T15:10:57+00:00",
+  "source": "manga",
+  "rating": "r",
+  "background": "The anime covers chapters 1 to 53 of the manga.\n\nKimetsu no Yaiba won the Animation of the Year award in the Television category at the Tokyo Anime Award Festival in 2020.",
+  "related_anime": [
+    {
+      "node": {
+        "id": 40456,
+        "title": "Kimetsu no Yaiba Movie: Mugen Ressha-hen",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1704/106947.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1704/106947l.jpg"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    },
+    {
+      "node": {
+        "id": 47398,
+        "title": "Chuukou Ikkan!! Kimetsu Gakuen Monogatari: Valentine-hen",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1722/120098.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1722/120098l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 48861,
+        "title": "Chuukou Ikkan!! Kimetsu Gakuen Monogatari: Kimetsu no Utage Tokubetsu-hen",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1666/125846.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1666/125846l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 49926,
+        "title": "Kimetsu no Yaiba: Mugen Ressha-hen",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1065/118763.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1065/118763l.jpg"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    },
+    {
+      "node": {
+        "id": 61179,
+        "title": "Kimetsu no Yaiba x MLB",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1881/148416.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1881/148416l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 40748,
+        "title": "Jujutsu Kaisen",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1171/109222.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1171/109222l.webp"
+        }
+      },
+      "num_recommendations": 76
+    },
+    {
+      "node": {
+        "id": 37520,
+        "title": "Dororo",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1879/100467.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1879/100467l.jpg"
+        }
+      },
+      "num_recommendations": 45
+    },
+    {
+      "node": {
+        "id": 16498,
+        "title": "Shingeki no Kyojin",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/47347.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/47347l.jpg"
+        }
+      },
+      "num_recommendations": 22
+    },
+    {
+      "node": {
+        "id": 269,
+        "title": "Bleach",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1541/147774.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1541/147774l.jpg"
+        }
+      },
+      "num_recommendations": 20
+    },
+    {
+      "node": {
+        "id": 5114,
+        "title": "Fullmetal Alchemist: Brotherhood",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1208/94745.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1208/94745l.jpg"
+        }
+      },
+      "num_recommendations": 18
+    },
+    {
+      "node": {
+        "id": 31964,
+        "title": "Boku no Hero Academia",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/78745.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/10/78745l.webp"
+        }
+      },
+      "num_recommendations": 16
+    },
+    {
+      "node": {
+        "id": 11061,
+        "title": "Hunter x Hunter (2011)",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1337/99013.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1337/99013l.jpg"
+        }
+      },
+      "num_recommendations": 12
+    },
+    {
+      "node": {
+        "id": 249,
+        "title": "InuYasha",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1589/95329.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1589/95329l.webp"
+        }
+      },
+      "num_recommendations": 12
+    },
+    {
+      "node": {
+        "id": 9919,
+        "title": "Ao no Exorcist",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/75195.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/75195l.jpg"
+        }
+      },
+      "num_recommendations": 11
+    },
+    {
+      "node": {
+        "id": 26243,
+        "title": "Owari no Seraph",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1879/148979.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1879/148979l.webp"
+        }
+      },
+      "num_recommendations": 11
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "236377",
+      "completed": "2992776",
+      "on_hold": "49164",
+      "dropped": "53439",
+      "plan_to_watch": "198312"
+    },
+    "num_list_users": 3530068
+  },
+  "mal_details_updated_at": "2026-11-10T01:29:05.644Z"
 }

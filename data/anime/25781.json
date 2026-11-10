@@ -45,7 +45,12 @@
       "name": "Wit Studio"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/8/69497l.jpg",
+    "https://cdn.myanimelist.net/images/anime/10/73489l.jpg",
+    "https://cdn.myanimelist.net/images/anime/12/73490l.jpg",
+    "https://cdn.myanimelist.net/images/anime/11/73545l.jpg"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
@@ -88,30 +93,153 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/8/69497l.webp",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/8/69497l.webp",
-      "image_url": "https://cdn.myanimelist.net/images/anime/8/69497l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/8/69497l.webp",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/8/69497l.webp",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/8/69497l.webp",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/8/69497l.webp",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/8/69497l.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/69497l.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/8/69497l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/8/69497l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/8/69497l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/8/69497l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/8/69497l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/8/69497l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/8/69497l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/8/69497l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/8/69497l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/69497l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/8/69497l.jpg"
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
+  "rank": 220,
+  "popularity": 448,
+  "num_scoring_users": 341505,
+  "nsfw": "white",
+  "created_at": "2014-08-05T07:40:02+00:00",
+  "updated_at": "2023-01-24T00:23:07+00:00",
+  "source": "visual_novel",
+  "rating": "r",
+  "background": "Shingeki no Kyojin: Kuinaki Sentaku is based on the visual novel of the same name. The visual novel was bundled with the first press release of the 6th Blu-ray volume of the anime's 1st season and was supervised by Shingeki no Kyojin creator Hajime Isayama. It was later adapted into a 2-volume manga series which was serialized in shoujo magazine ARIA and illustrated by Hikaru Suruga.\n\nThe OVA was released for the Western audience when bundled with Kodansha Comics USA's Attack on Titan Special Edition manga. The first part of the OVA was included with the manga's 18th volume on April 5, 2016 while the second part was included with the 19th volume's release on August 2, 2016.",
+  "related_anime": [
+    {
+      "node": {
+        "id": 16498,
+        "title": "Shingeki no Kyojin",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/47347.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/47347l.jpg"
+        }
+      },
+      "relation_type": "parent_story",
+      "relation_type_formatted": "Parent story"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 44,
+        "title": "Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku-hen",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1656/137618.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1656/137618l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 19211,
+        "title": "Suisei no Gargantia Specials",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/8/51509.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/8/51509l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 22689,
+        "title": "Terra Formars: Bugs 2-hen",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1149/97842.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1149/97842l.webp"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 38480,
+        "title": "Toaru Kagaku no Accelerator",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1160/99995.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1160/99995l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 10161,
+        "title": "No.6",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1474/90768.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1474/90768l.webp"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 32998,
+        "title": "91 Days",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/13/80515.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/13/80515l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 36522,
+        "title": "Ling Qi 2",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1328/90485.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1328/90485l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 40911,
+        "title": "Yuukoku no Moriarty",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1464/108330.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1464/108330l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 45560,
+        "title": "Orient",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1576/119361.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1576/119361l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "12423",
+      "completed": "492289",
+      "on_hold": "3419",
+      "dropped": "1684",
+      "plan_to_watch": "64283"
+    },
+    "num_list_users": 574098
+  },
+  "mal_details_updated_at": "2026-11-10T01:27:45.528Z"
 }

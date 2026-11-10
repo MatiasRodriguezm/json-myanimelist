@@ -62,7 +62,14 @@
       "name": "Studio Deen"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1/401l.jpg",
+    "https://cdn.myanimelist.net/images/anime/13/28895l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1971/90877l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1421/92658l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1489/120837l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1458/154800l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/xogL7RDFo7c21nrGDabYT9FFzTH.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/y6wr1ukaqRzWRlRUBahkyAB1SNT.png",
   "tmdb_id": "28136",
@@ -105,30 +112,120 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1971/90877l.webp",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1971/90877l.webp",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1971/90877l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1971/90877l.webp",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1971/90877l.webp",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1971/90877l.webp",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1971/90877l.webp",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1971/90877l.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1971/90877l.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1971/90877l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1/401l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1/401l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1/401l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1/401l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1/401l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1/401l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1/401l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1/401l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1/401l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1/401l.jpg"
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 821,
+  "popularity": 2634,
+  "num_scoring_users": 48726,
+  "nsfw": "white",
+  "created_at": "2005-12-23T20:22:37+00:00",
+  "updated_at": "2022-04-17T23:11:04+00:00",
+  "source": "manga",
+  "rating": "r",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 45,
+        "title": "Rurouni Kenshin: Meiji Kenkaku Romantan",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1346/119505.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1346/119505l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 617,
+        "title": "Juubee Ninpuuchou",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1520/145971.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1520/145971l.webp"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 4981,
+        "title": "Casshern Sins",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/8/23336.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/8/23336l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 529,
+        "title": "Saishuu Heiki Kanojo",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1/529.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1/529l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 18153,
+        "title": "Kyoukai no Kanata",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/3/85468.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/3/85468l.webp"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 147,
+        "title": "Kimi ga Nozomu Eien",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/5/10227.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/5/10227l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 578,
+        "title": "Hotaru no Haka",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1485/141208.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1485/141208l.webp"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "1882",
+      "completed": "67798",
+      "on_hold": "894",
+      "dropped": "637",
+      "plan_to_watch": "19279"
+    },
+    "num_list_users": 90490
+  },
+  "mal_details_updated_at": "2026-11-10T01:29:15.677Z"
 }

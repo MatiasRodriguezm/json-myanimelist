@@ -33,8 +33,8 @@
   "num_episodes": 11,
   "score": 7.62,
   "mean": 7.62,
-  "numListUsers": 31972,
-  "num_list_users": 31972,
+  "numListUsers": 31974,
+  "num_list_users": 31974,
   "genres": [
     {
       "id": 4,
@@ -59,7 +59,11 @@
       "name": "feel."
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1342/152043l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1903/159669l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1102/160781l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/4BE1aoCu5mCG3ZJ7alNDQkB3oK4.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/ukWiOIWceHNGiS81CurwkfOSwWc.png",
   "tmdb_id": "261343",
@@ -173,16 +177,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1903/159669l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1903/159669l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1903/159669l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1903/159669l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1903/159669l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1903/159669l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1903/159669l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1903/159669l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1903/159669l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1903/159669l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1342/152043l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1342/152043l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1342/152043l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1342/152043l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1342/152043l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1342/152043l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1342/152043l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1342/152043l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1342/152043l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1342/152043l.jpg"
     }
   },
   "broadcast": {
@@ -193,17 +197,52 @@
     "timezone": "Asia/Tokyo",
     "string": "tuesday 23:00"
   },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 1718,
+  "popularity": 4673,
+  "num_scoring_users": 2336,
+  "nsfw": "white",
+  "created_at": "2025-09-13T11:22:57+00:00",
+  "updated_at": "2026-10-13T19:20:18+00:00",
+  "source": "light_novel",
+  "rating": "pg_13",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 59517,
+        "title": "Chitose-kun wa Ramune Bin no Naka",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1015/151233.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1015/151233l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    },
+    {
+      "node": {
+        "id": 65111,
+        "title": "Chitose-kun wa Ramune Bin no Naka Recap",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1012/160389.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1012/160389l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    }
+  ],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": "11421",
+      "completed": "2",
+      "on_hold": "271",
+      "dropped": "247",
+      "plan_to_watch": "20033"
+    },
+    "num_list_users": 31974
+  },
+  "mal_details_updated_at": "2026-11-10T01:33:06.730Z"
 }

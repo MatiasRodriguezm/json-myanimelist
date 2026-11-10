@@ -53,7 +53,12 @@
       "name": "Blade"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1870/148020l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1540/158788l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1755/160362l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1565/160612l.jpg"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": "284563",
@@ -86,30 +91,40 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1755/160362l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1755/160362l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1755/160362l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1755/160362l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1755/160362l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1755/160362l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1755/160362l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1755/160362l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1755/160362l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1755/160362l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1870/148020l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1870/148020l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1870/148020l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1870/148020l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1870/148020l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1870/148020l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1870/148020l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1870/148020l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1870/148020l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1870/148020l.jpg"
     }
   },
   "broadcast": null,
   "rank": null,
-  "popularity": null,
+  "popularity": 6124,
   "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
+  "nsfw": "white",
+  "created_at": "2025-02-16T16:06:59+00:00",
+  "updated_at": "2026-06-29T09:49:46+00:00",
+  "source": "light_novel",
   "rating": null,
   "background": null,
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": "2",
+      "completed": 0,
+      "on_hold": 0,
+      "dropped": 0,
+      "plan_to_watch": "16302"
+    },
+    "num_list_users": 16304
+  },
+  "mal_details_updated_at": "2026-11-10T01:32:38.164Z"
 }

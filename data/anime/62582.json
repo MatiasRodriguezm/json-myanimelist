@@ -29,8 +29,8 @@
   "num_episodes": 1,
   "score": 8.22,
   "mean": 8.22,
-  "numListUsers": 56909,
-  "num_list_users": 56909,
+  "numListUsers": 56914,
+  "num_list_users": 56914,
   "genres": [
     {
       "id": 8,
@@ -55,11 +55,19 @@
       "name": "CloverWorks"
     }
   ],
-  "pictures": [],
-  "backdrop_url": "https://image.tmdb.org/t/p/w1280/iR3R7012MUISPSejxeGFEXHfhDE.jpg",
-  "logo_url": "https://image.tmdb.org/t/p/w500/qK2KaZ7dhOkQ3jfDHWDxVLAktEm.png",
-  "tmdb_id": "1553200",
-  "tmdb_updated_at": "2026-11-09T14:32:25.751Z",
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1900/152264l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1120/154246l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1737/157092l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1202/158509l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1073/158510l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1031/158859l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1286/159781l.jpg"
+  ],
+  "backdrop_url": null,
+  "logo_url": null,
+  "tmdb_id": null,
+  "tmdb_updated_at": "2026-11-06T22:04:09.215Z",
   "simkl_id": 2890694,
   "episodes_data": [
     {
@@ -88,30 +96,53 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1286/159781l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1286/159781l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1286/159781l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1286/159781l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1286/159781l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1286/159781l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1286/159781l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1286/159781l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1286/159781l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1286/159781l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1900/152264l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1900/152264l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1900/152264l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1900/152264l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1900/152264l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1900/152264l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1900/152264l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1900/152264l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1900/152264l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1900/152264l.jpg"
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 433,
+  "popularity": 3454,
+  "num_scoring_users": 889,
+  "nsfw": "white",
+  "created_at": "2025-09-27T15:14:39+00:00",
+  "updated_at": "2026-06-17T00:30:58+00:00",
+  "source": "light_novel",
+  "rating": "pg_13",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 57433,
+        "title": "Seishun Buta Yarou wa Santa Claus no Yume wo Minai",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1823/149858.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1823/149858l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    }
+  ],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": "1611",
+      "completed": "914",
+      "on_hold": "628",
+      "dropped": "74",
+      "plan_to_watch": "53687"
+    },
+    "num_list_users": 56914
+  },
+  "mal_details_updated_at": "2026-11-10T01:34:08.005Z"
 }

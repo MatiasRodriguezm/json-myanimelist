@@ -128,16 +128,16 @@ export function createExpressApp(collector = null, malClient = new MalClient()) 
     }
 
     try {
-      // Paso 1: Verificar si ya existe en el disco / memoria
+      // Paso 1: Verificar si ya existe en el disco / memoria con detalles completos
       const cached = await Storage.loadAnimeDetails(animeId);
-      if (cached) {
+      if (cached && cached.mal_details_updated_at) {
         res.setHeader("X-Cache", "HIT");
         res.setHeader("Cache-Control", "public, max-age=86400"); // 24 horas
         return res.json(cached);
       }
 
-      // Paso 2: Si NO existe, consultarlo a MAL en tiempo real
-      console.log(`[API] Anime ID ${animeId} no estaba en caché. Consultando a MyAnimeList...`);
+      // Paso 2: Si NO existe o no tenía detalles completos, consultarlo a MAL en tiempo real
+      console.log(`[API] Anime ID ${animeId} no estaba completo en caché. Consultando a MyAnimeList...`);
       res.setHeader("X-Cache", "MISS");
 
       const malRaw = await malClient.getAnimeDetails(animeId);
@@ -145,10 +145,21 @@ export function createExpressApp(collector = null, malClient = new MalClient()) 
         return res.status(404).json({ error: "NOT_FOUND", message: `Anime ${animeId} no encontrado en MAL.` });
       }
 
-      // Paso 3: Mapear y guardar en disco de inmediato
+      // Paso 3: Mapear, fusionar con assets previos de Simkl/TMDb y guardar en disco
       const mapped = toAnimeSummary(malRaw);
-      await Storage.saveAnimeDetails(animeId, mapped);
-      console.log(`[API] ✓ Anime ID ${animeId} (${mapped.title}) guardado permanentemente en data/anime/${animeId}.json`);
+      const enriched = {
+        ...mapped,
+        backdrop_url: cached?.backdrop_url || null,
+        logo_url: cached?.logo_url || null,
+        tmdb_id: cached?.tmdb_id || null,
+        tmdb_updated_at: cached?.tmdb_updated_at || null,
+        simkl_id: cached?.simkl_id || null,
+        episodes_data: cached?.episodes_data || [],
+        specials_data: cached?.specials_data || [],
+        mal_details_updated_at: new Date().toISOString(),
+      };
+      await Storage.saveAnimeDetails(animeId, enriched);
+      console.log(`[API] ✓ Anime ID ${animeId} (${enriched.title}) guardado permanentemente con detalles completos en data/anime/${animeId}.json`);
 
       res.setHeader("Cache-Control", "public, max-age=86400");
       return res.json(mapped);

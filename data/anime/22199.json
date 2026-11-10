@@ -32,8 +32,8 @@
   "num_episodes": 24,
   "score": 7.48,
   "mean": 7.48,
-  "numListUsers": 2308149,
-  "num_list_users": 2308149,
+  "numListUsers": 2308185,
+  "num_list_users": 2308185,
   "genres": [
     {
       "id": 1,
@@ -58,7 +58,21 @@
       "name": "White Fox"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/11/59611l.jpg",
+    "https://cdn.myanimelist.net/images/anime/9/65351l.jpg",
+    "https://cdn.myanimelist.net/images/anime/7/75944l.jpg",
+    "https://cdn.myanimelist.net/images/anime/9/75945l.jpg",
+    "https://cdn.myanimelist.net/images/anime/11/75946l.jpg",
+    "https://cdn.myanimelist.net/images/anime/4/77259l.jpg",
+    "https://cdn.myanimelist.net/images/anime/5/81843l.jpg",
+    "https://cdn.myanimelist.net/images/anime/9/81844l.jpg",
+    "https://cdn.myanimelist.net/images/anime/3/81845l.jpg",
+    "https://cdn.myanimelist.net/images/anime/10/81846l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1429/95946l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1115/97001l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1975/158246l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/3XAGgklKkJhv5M9m5NkfhBYb7l8.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/x9PcCizBEh6YcYxl4gNYPoon9p2.png",
   "tmdb_id": "61223",
@@ -572,16 +586,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1429/95946l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1429/95946l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1429/95946l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1429/95946l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1429/95946l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1429/95946l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1429/95946l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1429/95946l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1429/95946l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1429/95946l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/11/59611l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/11/59611l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/59611l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/11/59611l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/59611l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/11/59611l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/11/59611l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/11/59611l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/59611l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/11/59611l.jpg"
     }
   },
   "broadcast": {
@@ -592,17 +606,163 @@
     "timezone": "Asia/Tokyo",
     "string": "monday 00:00"
   },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
+  "rank": 2297,
+  "popularity": 31,
+  "num_scoring_users": 1431889,
+  "nsfw": "white",
+  "created_at": "2014-01-20T15:10:34+00:00",
+  "updated_at": "2024-10-14T20:42:25+00:00",
+  "source": "manga",
+  "rating": "r",
+  "background": "Akame ga Kill! is the anime adaptation of Takahiro's shounen manga of the same title, which is illustrated by Tetsuya Tashiro and was serialized in Square Enix's Gangan Joker from April 2010 to December 2016. The anime follows the source material through the first eight volumes of the manga, incorporating events from later issues as well, before concluding with an original story arc that deviates from the manga.",
+  "related_anime": [
+    {
+      "node": {
+        "id": 25241,
+        "title": "AkaKill! Gekijou",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/6/64537.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/6/64537l.webp"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 26449,
+        "title": "Akame ga Kill! Recap",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1567/102409.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1567/102409l.jpg"
+        }
+      },
+      "relation_type": "summary",
+      "relation_type_formatted": "Summary"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 23755,
+        "title": "Nanatsu no Taizai",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/8/65409.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/8/65409l.jpg"
+        }
+      },
+      "num_recommendations": 39
+    },
+    {
+      "node": {
+        "id": 16498,
+        "title": "Shingeki no Kyojin",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/47347.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/47347l.jpg"
+        }
+      },
+      "num_recommendations": 18
+    },
+    {
+      "node": {
+        "id": 41433,
+        "title": "Akudama Drive",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1468/109172.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1468/109172l.jpg"
+        }
+      },
+      "num_recommendations": 18
+    },
+    {
+      "node": {
+        "id": 1575,
+        "title": "Code Geass: Hangyaku no Lelouch",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1032/135088.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1032/135088l.jpg"
+        }
+      },
+      "num_recommendations": 14
+    },
+    {
+      "node": {
+        "id": 22319,
+        "title": "Tokyo Ghoul",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1498/134443.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1498/134443l.jpg"
+        }
+      },
+      "num_recommendations": 13
+    },
+    {
+      "node": {
+        "id": 10620,
+        "title": "Mirai Nikki (TV)",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/13/33465.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/13/33465l.webp"
+        }
+      },
+      "num_recommendations": 11
+    },
+    {
+      "node": {
+        "id": 5114,
+        "title": "Fullmetal Alchemist: Brotherhood",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1208/94745.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1208/94745l.jpg"
+        }
+      },
+      "num_recommendations": 11
+    },
+    {
+      "node": {
+        "id": 18679,
+        "title": "Kill la Kill",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1464/111943.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1464/111943l.jpg"
+        }
+      },
+      "num_recommendations": 11
+    },
+    {
+      "node": {
+        "id": 42310,
+        "title": "Cyberpunk: Edgerunners",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1818/126435.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1818/126435l.jpg"
+        }
+      },
+      "num_recommendations": 9
+    },
+    {
+      "node": {
+        "id": 37349,
+        "title": "Goblin Slayer",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1719/95621.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1719/95621l.webp"
+        }
+      },
+      "num_recommendations": 8
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "99228",
+      "completed": "1795648",
+      "on_hold": "41133",
+      "dropped": "68618",
+      "plan_to_watch": "303050"
+    },
+    "num_list_users": 2307677
+  },
+  "mal_details_updated_at": "2026-11-10T01:27:32.023Z"
 }

@@ -58,7 +58,17 @@
       "name": "Production I.G"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/8/59955l.jpg",
+    "https://cdn.myanimelist.net/images/anime/4/60431l.jpg",
+    "https://cdn.myanimelist.net/images/anime/7/64053l.jpg",
+    "https://cdn.myanimelist.net/images/anime/6/66815l.jpg",
+    "https://cdn.myanimelist.net/images/anime/5/69833l.jpg",
+    "https://cdn.myanimelist.net/images/anime/11/69835l.jpg",
+    "https://cdn.myanimelist.net/images/anime/7/69837l.jpg",
+    "https://cdn.myanimelist.net/images/anime/12/69839l.jpg",
+    "https://cdn.myanimelist.net/images/anime/7/76014l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/zr1MDQCPVB5uJEHxiO6Tukn4OjH.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/p5FxSYg0sOqnOQqfT8LLFxDyfI6.png",
   "tmdb_id": "60863",
@@ -352,16 +362,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/7/76014l.webp",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/7/76014l.webp",
-      "image_url": "https://cdn.myanimelist.net/images/anime/7/76014l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/7/76014l.webp",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/76014l.webp",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/7/76014l.webp",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/7/76014l.webp",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/7/76014l.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/76014l.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/7/76014l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/8/59955l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/8/59955l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/8/59955l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/8/59955l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/8/59955l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/8/59955l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/8/59955l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/8/59955l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/59955l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/8/59955l.jpg"
     }
   },
   "broadcast": {
@@ -372,17 +382,211 @@
     "timezone": "Asia/Tokyo",
     "string": "sunday 17:00"
   },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
+  "rank": 210,
+  "popularity": 36,
+  "num_scoring_users": 1371428,
+  "nsfw": "white",
+  "created_at": "2013-09-22T17:50:56+00:00",
+  "updated_at": "2023-01-24T01:23:49+00:00",
+  "source": "manga",
+  "rating": "pg_13",
+  "background": "Haikyuu!! adapts the first 8 volumes of Haruichi Furudate's manga of the same name.",
+  "related_anime": [
+    {
+      "node": {
+        "id": 25303,
+        "title": "Haikyuu!! Lev Genzan!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1498/96643.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1498/96643l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 28891,
+        "title": "Haikyuu!! Second Season",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/9/76662.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/9/76662l.jpg"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    },
+    {
+      "node": {
+        "id": 29755,
+        "title": "Haikyuu!! Movie 1: Owari to Hajimari",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/8/76011.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/8/76011l.webp"
+        }
+      },
+      "relation_type": "summary",
+      "relation_type_formatted": "Summary"
+    },
+    {
+      "node": {
+        "id": 30364,
+        "title": "Haikyuu!! Movie 2: Shousha to Haisha",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/2/74813.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/2/74813l.webp"
+        }
+      },
+      "relation_type": "summary",
+      "relation_type_formatted": "Summary"
+    },
+    {
+      "node": {
+        "id": 31675,
+        "title": "Haikyuu!! Quest Picture Drama",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1061/98110.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1061/98110l.webp"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 40372,
+        "title": "Haikyuu!! (OVA)",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1618/102929.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1618/102929l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 11771,
+        "title": "Kuroko no Basket",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/11/50453.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/11/50453l.jpg"
+        }
+      },
+      "num_recommendations": 137
+    },
+    {
+      "node": {
+        "id": 18689,
+        "title": "Diamond no Ace",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/5/54235.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/5/54235l.jpg"
+        }
+      },
+      "num_recommendations": 40
+    },
+    {
+      "node": {
+        "id": 37965,
+        "title": "Kaze ga Tsuyoku Fuiteiru",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1936/129119.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1936/129119l.jpg"
+        }
+      },
+      "num_recommendations": 33
+    },
+    {
+      "node": {
+        "id": 18507,
+        "title": "Free!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/6/51107.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/6/51107l.jpg"
+        }
+      },
+      "num_recommendations": 30
+    },
+    {
+      "node": {
+        "id": 31964,
+        "title": "Boku no Hero Academia",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/78745.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/10/78745l.webp"
+        }
+      },
+      "num_recommendations": 25
+    },
+    {
+      "node": {
+        "id": 10800,
+        "title": "Chihayafuru",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1959/156735.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1959/156735l.jpg"
+        }
+      },
+      "num_recommendations": 17
+    },
+    {
+      "node": {
+        "id": 33899,
+        "title": "IDOLiSH7",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1390/90828.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1390/90828l.jpg"
+        }
+      },
+      "num_recommendations": 17
+    },
+    {
+      "node": {
+        "id": 18179,
+        "title": "Yowamushi Pedal",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/5/53211.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/5/53211l.jpg"
+        }
+      },
+      "num_recommendations": 17
+    },
+    {
+      "node": {
+        "id": 40679,
+        "title": "2.43: Seiin Koukou Danshi Volley-bu",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1907/110083.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1907/110083l.webp"
+        }
+      },
+      "num_recommendations": 16
+    },
+    {
+      "node": {
+        "id": 37403,
+        "title": "Ahiru no Sora",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1975/108030.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1975/108030l.webp"
+        }
+      },
+      "num_recommendations": 15
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "136555",
+      "completed": "1725528",
+      "on_hold": "56736",
+      "dropped": "51351",
+      "plan_to_watch": "243362"
+    },
+    "num_list_users": 2213532
+  },
+  "mal_details_updated_at": "2026-11-10T01:27:26.890Z"
 }

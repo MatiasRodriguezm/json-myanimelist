@@ -60,7 +60,12 @@
       "name": "Shaft"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1741/140952l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1793/142260l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1223/145353l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1142/146776l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/cHII6sQ91q8H5EMONKCwCQMauCP.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/1PloWpJba8A3I0x8Ry92IGYromk.png",
   "tmdb_id": "46195",
@@ -232,42 +237,113 @@
   ],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1142/146776.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1142/146776l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1142/146776.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1142/146776l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1142/146776.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1142/146776l.webp",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1142/146776.webp",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1142/146776l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1142/146776.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1142/146776l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1142/146776.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1142/146776l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1142/146776l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1142/146776l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1142/146776l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1142/146776l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1142/146776l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1142/146776l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1142/146776l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1142/146776l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1142/146776l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1142/146776l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1741/140952l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1741/140952l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1741/140952l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1741/140952l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1741/140952l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1741/140952l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1741/140952l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1741/140952l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1741/140952l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1741/140952l.jpg"
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
+  "rank": 98,
+  "popularity": 2310,
+  "num_scoring_users": 42686,
+  "nsfw": "white",
+  "created_at": "2024-01-18T09:13:30+00:00",
+  "updated_at": "2024-10-19T15:29:42+00:00",
+  "source": "light_novel",
+  "rating": "r",
+  "background": "Monogatari Series: Off & Monster Season was released on Blu-ray and DVD in seven volumes from December 11, 2024, to June 4, 2025.",
+  "related_anime": [
+    {
+      "node": {
+        "id": 36999,
+        "title": "Zoku Owarimonogatari",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1022/96168.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1022/96168l.webp"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    },
+    {
+      "node": {
+        "id": 59612,
+        "title": "Monogatari Series: Off & Monster Season - Zankoku Douwa: Utsukushi-hime",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1887/144936.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1887/144936l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 59825,
+        "title": "Undead",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1760/145472.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1760/145472l.webp"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 61968,
+        "title": "Monogatari Series: Off & Monster Season - Wazamonogatari: Karen Ogre",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1823/150866.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1823/150866l.jpg"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 37999,
+        "title": "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1295/106551.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1295/106551l.webp"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "15835",
+      "completed": "47270",
+      "on_hold": "3041",
+      "dropped": "1215",
+      "plan_to_watch": "42116"
+    },
+    "num_list_users": 109477
+  },
+  "mal_details_updated_at": "2026-11-10T01:31:07.168Z"
 }

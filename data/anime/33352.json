@@ -43,7 +43,14 @@
       "name": "Kyoto Animation"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1795/95088l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1503/95089l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1833/145304l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1035/145305l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1594/145306l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1349/145307l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/2e2AEk7Jmn8CztM62hoUyEEWw0B.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/1uXmDOhOTX95Z8LY3EWUcGWri0O.png",
   "tmdb_id": "75214",
@@ -257,17 +264,199 @@
     "timezone": "Asia/Tokyo",
     "string": "thursday 00:00"
   },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 74,
+  "popularity": 47,
+  "num_scoring_users": 1114485,
+  "nsfw": "white",
+  "created_at": "2016-05-27T11:13:55+00:00",
+  "updated_at": "2024-10-04T16:03:31+00:00",
+  "source": "light_novel",
+  "rating": "pg_13",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 37095,
+        "title": "Violet Evergarden: Kitto \"Ai\" wo Shiru Hi ga Kuru no Darou",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/9/89993.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/9/89993l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 37987,
+        "title": "Violet Evergarden Movie",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1825/110716.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1825/110716l.jpg"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    },
+    {
+      "node": {
+        "id": 39741,
+        "title": "Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1667/112943.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1667/112943l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 42166,
+        "title": "Violet Evergarden CMs",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1485/125509.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1485/125509l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 53672,
+        "title": "Violet Evergarden: Recollections",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1902/143097.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1902/143097l.jpg"
+        }
+      },
+      "relation_type": "summary",
+      "relation_type_formatted": "Summary"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 46095,
+        "title": "Vivy: Fluorite Eye's Song",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1551/128960.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1551/128960l.jpg"
+        }
+      },
+      "num_recommendations": 51
+    },
+    {
+      "node": {
+        "id": 52991,
+        "title": "Sousou no Frieren",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1015/138006.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1015/138006l.jpg"
+        }
+      },
+      "num_recommendations": 31
+    },
+    {
+      "node": {
+        "id": 23273,
+        "title": "Shigatsu wa Kimi no Uso",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1405/143284.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1405/143284l.jpg"
+        }
+      },
+      "num_recommendations": 20
+    },
+    {
+      "node": {
+        "id": 35062,
+        "title": "Mahoutsukai no Yome",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/3/88476.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/3/88476l.webp"
+        }
+      },
+      "num_recommendations": 16
+    },
+    {
+      "node": {
+        "id": 37497,
+        "title": "Irozuku Sekai no Ashita kara",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1424/93855.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1424/93855l.jpg"
+        }
+      },
+      "num_recommendations": 16
+    },
+    {
+      "node": {
+        "id": 35851,
+        "title": "Sayonara no Asa ni Yakusoku no Hana wo Kazarou",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/11/89556.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/11/89556l.jpg"
+        }
+      },
+      "num_recommendations": 15
+    },
+    {
+      "node": {
+        "id": 28223,
+        "title": "Death Parade",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/5/71553.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/5/71553l.jpg"
+        }
+      },
+      "num_recommendations": 13
+    },
+    {
+      "node": {
+        "id": 28851,
+        "title": "Koe no Katachi",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1122/96435.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1122/96435l.jpg"
+        }
+      },
+      "num_recommendations": 11
+    },
+    {
+      "node": {
+        "id": 41457,
+        "title": "86",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1987/117507.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1987/117507l.jpg"
+        }
+      },
+      "num_recommendations": 10
+    },
+    {
+      "node": {
+        "id": 4181,
+        "title": "Clannad: After Story",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1299/110774.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1299/110774l.jpg"
+        }
+      },
+      "num_recommendations": 8
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "142558",
+      "completed": "1317797",
+      "on_hold": "65530",
+      "dropped": "60703",
+      "plan_to_watch": "454946"
+    },
+    "num_list_users": 2041534
+  },
+  "mal_details_updated_at": "2026-11-10T01:28:44.337Z"
 }

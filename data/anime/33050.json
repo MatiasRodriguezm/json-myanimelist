@@ -53,7 +53,16 @@
       "name": "ufotable"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1336/100534l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1545/102397l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1400/104685l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1201/106081l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1071/106675l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1142/112957l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1465/113810l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1852/151195l.jpg"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
@@ -237,30 +246,87 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1142/112957l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1142/112957l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1142/112957l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1142/112957l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1142/112957l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1142/112957l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1142/112957l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1142/112957l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1142/112957l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1142/112957l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1336/100534l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1336/100534l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1336/100534l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1336/100534l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1336/100534l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1336/100534l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1336/100534l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1336/100534l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1336/100534l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1336/100534l.jpg"
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
+  "rank": 96,
+  "popularity": 662,
+  "num_scoring_users": 230025,
+  "nsfw": "white",
+  "created_at": "2016-03-27T07:00:57+00:00",
+  "updated_at": "2024-10-02T16:16:24+00:00",
+  "source": "visual_novel",
+  "rating": "r",
+  "background": "Fate/stay night Movie: Heaven's Feel - III. Spring Song was ranked the ninth highest grossing Japanese film of 2020 for the Japanese box office, generating 1.95 billion yen (aprox. $19,252,497 million) during its box office run. The opening weekend grossed 474 million yen, debuting at No. 1 at the Japanese box office.",
+  "related_anime": [
+    {
+      "node": {
+        "id": 33049,
+        "title": "Fate/stay night Movie: Heaven's Feel - II. Lost Butterfly",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1974/98158.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1974/98158l.webp"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 31758,
+        "title": "Kizumonogatari III: Reiketsu-hen",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1084/112813.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1084/112813l.jpg"
+        }
+      },
+      "num_recommendations": 4
+    },
+    {
+      "node": {
+        "id": 2593,
+        "title": "Kara no Kyoukai Movie 1: Fukan Fuukei",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/12/21741.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/12/21741l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 3786,
+        "title": "Shin Evangelion Movie:||",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1422/113533.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1422/113533l.webp"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "12172",
+      "completed": "289079",
+      "on_hold": "2698",
+      "dropped": "1409",
+      "plan_to_watch": "113815"
+    },
+    "num_list_users": 419173
+  },
+  "mal_details_updated_at": "2026-11-10T01:28:42.186Z"
 }

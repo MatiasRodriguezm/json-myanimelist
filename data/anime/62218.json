@@ -51,7 +51,14 @@
       "name": "Suoyi Technology Enabled Vision"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1898/151396l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1595/158600l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1475/158610l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1790/160205l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1739/160207l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1991/160323l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/fImqNRUlwVCxnLxlGoNmOdglSUe.jpg",
   "logo_url": null,
   "tmdb_id": "297924",
@@ -274,30 +281,40 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1790/160205l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1790/160205l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1790/160205l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1790/160205l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1790/160205l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1790/160205l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1790/160205l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1790/160205l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1790/160205l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1790/160205l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1898/151396l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1898/151396l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1898/151396l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1898/151396l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1898/151396l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1898/151396l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1898/151396l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1898/151396l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1898/151396l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1898/151396l.jpg"
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
+  "rank": 16531,
+  "popularity": 19560,
+  "num_scoring_users": 52,
+  "nsfw": "white",
+  "created_at": "2025-08-09T20:04:18+00:00",
+  "updated_at": "2026-10-19T19:42:17+00:00",
+  "source": "web_novel",
+  "rating": "pg_13",
+  "background": "Adaptation of Yu Luo Zhu Leng's (雨落竹冷) web novel of the same title.",
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": "171",
+      "completed": 0,
+      "on_hold": "14",
+      "dropped": "54",
+      "plan_to_watch": "227"
+    },
+    "num_list_users": 466
+  },
+  "mal_details_updated_at": "2026-11-10T01:33:01.632Z"
 }

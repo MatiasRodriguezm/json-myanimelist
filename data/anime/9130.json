@@ -63,7 +63,17 @@
       "name": "TMS Entertainment"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/7/29580l.jpg",
+    "https://cdn.myanimelist.net/images/anime/9/29583l.jpg",
+    "https://cdn.myanimelist.net/images/anime/10/29584l.jpg",
+    "https://cdn.myanimelist.net/images/anime/8/29596l.jpg",
+    "https://cdn.myanimelist.net/images/anime/12/29597l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1982/92780l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1023/106126l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1521/151924l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1252/151925l.jpg"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
@@ -375,42 +385,100 @@
   ],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/12/29597.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/29597l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/12/29597.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/12/29597l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/29597.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/29597l.webp",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/12/29597.webp",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/12/29597l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/12/29597.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/12/29597l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/12/29597.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/12/29597l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/12/29597l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/12/29597l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/12/29597l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/12/29597l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/29597l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/12/29597l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/12/29597l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/12/29597l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/29597l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/12/29597l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/7/29580l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/7/29580l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/29580l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/7/29580l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/29580l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/7/29580l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/7/29580l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/7/29580l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/29580l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/7/29580l.jpg"
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 582,
+  "popularity": 2790,
+  "num_scoring_users": 48368,
+  "nsfw": "white",
+  "created_at": "2010-07-04T00:54:16+00:00",
+  "updated_at": "2025-02-12T19:43:13+00:00",
+  "source": "manga",
+  "rating": "pg_13",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 1254,
+        "title": "Saint Seiya",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1180/133782.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1180/133782l.jpg"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    },
+    {
+      "node": {
+        "id": 6171,
+        "title": "Saint Seiya: The Lost Canvas - Meiou Shinwa",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/8/75546.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/8/75546l.webp"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 6702,
+        "title": "Fairy Tail",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/5/18179.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/5/18179l.webp"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 12293,
+        "title": "Campione! Matsurowanu Kamigami to Kamigoroshi no Maou",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/13/75662.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/13/75662l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "3173",
+      "completed": "63055",
+      "on_hold": "1344",
+      "dropped": "1145",
+      "plan_to_watch": "13382"
+    },
+    "num_list_users": 82099
+  },
+  "mal_details_updated_at": "2026-11-10T01:37:54.045Z"
 }

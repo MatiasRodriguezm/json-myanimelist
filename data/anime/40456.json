@@ -59,7 +59,16 @@
       "name": "ufotable"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1238/103624l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1286/106641l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1704/106947l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1191/108738l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1629/110558l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1840/114334l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1015/114572l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1209/116449l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/qjGrUmKW78MCFG8PTLDBp67S27p.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/xhPL1PDIweY7WTHC4fwGYgtGzvU.png",
   "tmdb_id": "635302",
@@ -92,30 +101,133 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1704/106947l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1704/106947l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1704/106947l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1704/106947l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1704/106947l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1704/106947l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1704/106947l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1704/106947l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1704/106947l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1704/106947l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1238/103624l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1238/103624l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1238/103624l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1238/103624l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1238/103624l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1238/103624l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1238/103624l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1238/103624l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1238/103624l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1238/103624l.jpg"
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
+  "rank": 147,
+  "popularity": 63,
+  "num_scoring_users": 1210051,
+  "nsfw": "white",
+  "created_at": "2019-09-28T17:30:35+00:00",
+  "updated_at": "2024-10-07T21:32:35+00:00",
+  "source": "manga",
+  "rating": "r",
+  "background": "The worldwide box office total for Kimetsu no Yaiba Movie: Mugen Ressha-hen is over $503 million from more than 41 million tickets sold, making it the highest-grossing film of 2020 as well as the highest-grossing anime and Japanese film of all time. It was the first time in the history of cinema that a non-Hollywood production topped the annual worldwide box office. It also became the highest-grossing R-rated animated film of all time. ",
+  "related_anime": [
+    {
+      "node": {
+        "id": 38000,
+        "title": "Kimetsu no Yaiba",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1286/99889.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1286/99889l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    },
+    {
+      "node": {
+        "id": 47778,
+        "title": "Kimetsu no Yaiba: Yuukaku-hen",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1908/120036.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1908/120036l.jpg"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    },
+    {
+      "node": {
+        "id": 49926,
+        "title": "Kimetsu no Yaiba: Mugen Ressha-hen",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1065/118763.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1065/118763l.jpg"
+        }
+      },
+      "relation_type": "alternative_version",
+      "relation_type_formatted": "Alternative version"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 13667,
+        "title": "Naruto: Shippuuden Movie 6 - Road to Ninja",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1620/94336.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1620/94336l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 57555,
+        "title": "Chainsaw Man Movie: Reze-hen",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1763/150638.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1763/150638l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 10417,
+        "title": "Gyo",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/9/31905.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/9/31905l.webp"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 32281,
+        "title": "Kimi no Na wa.",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/5/87048.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/5/87048l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 36896,
+        "title": "Boku no Hero Academia the Movie 1: Futari no Hero",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1736/93138.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1736/93138l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "32081",
+      "completed": "1604165",
+      "on_hold": "3832",
+      "dropped": "2696",
+      "plan_to_watch": "179742"
+    },
+    "num_list_users": 1822516
+  },
+  "mal_details_updated_at": "2026-11-10T01:29:17.108Z"
 }

@@ -51,7 +51,10 @@
       "name": "Bandai Namco Pictures"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1431/156315l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1135/159762l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/9V4zVVKqy7g2n6Vxts2DmXxuPiU.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/aJTV6IPzES9zpDMeklnLTXcb3CD.png",
   "tmdb_id": "316551",
@@ -154,16 +157,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1135/159762l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1135/159762l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1135/159762l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1135/159762l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1135/159762l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1135/159762l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1135/159762l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1135/159762l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1135/159762l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1135/159762l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1431/156315l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1431/156315l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1431/156315l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1431/156315l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1431/156315l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1431/156315l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1431/156315l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1431/156315l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1431/156315l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1431/156315l.jpg"
     }
   },
   "broadcast": {
@@ -174,17 +177,124 @@
     "timezone": "Asia/Tokyo",
     "string": "tuesday 23:00"
   },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 13324,
+  "popularity": 11220,
+  "num_scoring_users": 358,
+  "nsfw": "white",
+  "created_at": "2026-03-27T23:55:05+00:00",
+  "updated_at": "2026-10-07T06:43:42+00:00",
+  "source": "card_game",
+  "rating": "pg_13",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 5082,
+        "title": "Battle Spirits: Shounen Toppa Bashin",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/7/21150.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/7/21150l.webp"
+        }
+      },
+      "relation_type": "alternative_setting",
+      "relation_type_formatted": "Alternative setting"
+    },
+    {
+      "node": {
+        "id": 6901,
+        "title": "Battle Spirits: Shounen Gekiha Dan",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1029/132256.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1029/132256l.webp"
+        }
+      },
+      "relation_type": "alternative_setting",
+      "relation_type_formatted": "Alternative setting"
+    },
+    {
+      "node": {
+        "id": 9346,
+        "title": "Battle Spirits: Brave",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1151/135392.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1151/135392l.jpg"
+        }
+      },
+      "relation_type": "alternative_setting",
+      "relation_type_formatted": "Alternative setting"
+    },
+    {
+      "node": {
+        "id": 11017,
+        "title": "Battle Spirits: Heroes",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1421/135408.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1421/135408l.jpg"
+        }
+      },
+      "relation_type": "alternative_setting",
+      "relation_type_formatted": "Alternative setting"
+    },
+    {
+      "node": {
+        "id": 14913,
+        "title": "Battle Spirits: Sword Eyes",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/11/49195.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/11/49195l.jpg"
+        }
+      },
+      "relation_type": "alternative_setting",
+      "relation_type_formatted": "Alternative setting"
+    },
+    {
+      "node": {
+        "id": 19825,
+        "title": "Saikyou Ginga Ultimate Zero: Battle Spirits",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1462/132257.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1462/132257l.webp"
+        }
+      },
+      "relation_type": "alternative_setting",
+      "relation_type_formatted": "Alternative setting"
+    },
+    {
+      "node": {
+        "id": 27737,
+        "title": "Battle Spirits: Burning Soul",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1114/131733.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1114/131733l.jpg"
+        }
+      },
+      "relation_type": "alternative_setting",
+      "relation_type_formatted": "Alternative setting"
+    },
+    {
+      "node": {
+        "id": 32670,
+        "title": "Battle Spirits: Double Drive",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/13/79186.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/13/79186l.webp"
+        }
+      },
+      "relation_type": "alternative_setting",
+      "relation_type_formatted": "Alternative setting"
+    }
+  ],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": "1011",
+      "completed": "2",
+      "on_hold": "71",
+      "dropped": "474",
+      "plan_to_watch": "1737"
+    },
+    "num_list_users": 3295
+  },
+  "mal_details_updated_at": "2026-11-10T01:35:56.880Z"
 }

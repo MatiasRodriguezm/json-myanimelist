@@ -59,7 +59,12 @@
       "name": "Gallop"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/2/8519l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1839/132018l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1545/143309l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1072/154254l.jpg"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
@@ -17793,16 +17798,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1072/154254l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1072/154254l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1072/154254l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1072/154254l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1072/154254l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1072/154254l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1072/154254l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1072/154254l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1072/154254l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1072/154254l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/2/8519l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/2/8519l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/2/8519l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/2/8519l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/2/8519l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/2/8519l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/2/8519l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/2/8519l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/2/8519l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/2/8519l.jpg"
     }
   },
   "broadcast": {
@@ -17813,17 +17818,148 @@
     "timezone": "Asia/Tokyo",
     "string": "other 18:10"
   },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
+  "rank": 9005,
+  "popularity": 12086,
+  "num_scoring_users": 613,
+  "nsfw": "white",
+  "created_at": "2008-05-06T14:32:54+00:00",
+  "updated_at": "2026-07-20T02:36:15+00:00",
+  "source": "original",
+  "rating": "g",
+  "background": "The second season that aired in 1999 (episodes 91-180) was awarded the Excellence Award on the 3rd Japan Media Arts Festival.",
+  "related_anime": [
+    {
+      "node": {
+        "id": 16480,
+        "title": "Ojarumaru Yakusoku no Natsu Ojaru to Semira Movie",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/7/44464.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/7/44464l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 16482,
+        "title": "Ojarumaru: Mangetsu Road Kiki Ippatsu - Tama ni wa Maro mo Daibouken",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/4/44466.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/4/44466l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 30942,
+        "title": "Ojarumaru: Chitchai Mono no Ookina Chikara",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1555/98569.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1555/98569l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 31672,
+        "title": "Ojarumaru: Wasureta Mori no Hinata",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/4/76342.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/4/76342l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 35176,
+        "title": "Ojarumaru no Koutsuu Anzen",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/7/84788.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/7/84788l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 53939,
+        "title": "Planetarium Ojarumaru: Inseki Kozu ga Futte Kita!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1663/132019.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1663/132019l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 53940,
+        "title": "Ojarumaru: Mattari Planetarium",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1448/132020.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1448/132020l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 54094,
+        "title": "Ojarumaru Planetarium Special: Ginga ga Maro wo Yondeiru - Futari no Negai Boshi",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1947/132356.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1947/132356l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 54354,
+        "title": "Tobidasu Ojarumaru 3D: Maro wa Ousama",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1133/133093.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1133/133093l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 56518,
+        "title": "Ojarumaru: Heianchou Onigami Kessen",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1399/138213.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1399/138213l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    }
+  ],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": "825",
+      "completed": 0,
+      "on_hold": "289",
+      "dropped": "694",
+      "plan_to_watch": "789"
+    },
+    "num_list_users": 2597
+  },
+  "mal_details_updated_at": "2026-11-10T01:30:25.909Z"
 }

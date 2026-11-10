@@ -57,7 +57,13 @@
       "name": "Shaft"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/8/76487l.jpg",
+    "https://cdn.myanimelist.net/images/anime/3/81576l.jpg",
+    "https://cdn.myanimelist.net/images/anime/8/82911l.jpg",
+    "https://cdn.myanimelist.net/images/anime/5/82921l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1084/112813l.jpg"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
@@ -110,30 +116,155 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1084/112813l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1084/112813l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1084/112813l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1084/112813l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1084/112813l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1084/112813l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1084/112813l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1084/112813l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1084/112813l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1084/112813l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/8/76487l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/8/76487l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/8/76487l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/8/76487l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/8/76487l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/8/76487l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/8/76487l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/8/76487l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/76487l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/8/76487l.jpg"
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
+  "rank": 44,
+  "popularity": 507,
+  "num_scoring_users": 305170,
+  "nsfw": "white",
+  "created_at": "2015-10-03T17:22:50+00:00",
+  "updated_at": "2023-09-10T04:31:33+00:00",
+  "source": "light_novel",
+  "rating": "r",
+  "background": "The Kizumonogatari movie trilogy adapts the third volume of NisiOisiN's Monogatari Series: First Season.",
+  "related_anime": [
+    {
+      "node": {
+        "id": 15689,
+        "title": "Nekomonogatari: Kuro",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1170/121597.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1170/121597l.jpg"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    },
+    {
+      "node": {
+        "id": 31757,
+        "title": "Kizumonogatari II: Nekketsu-hen",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1981/112812.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1981/112812l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    },
+    {
+      "node": {
+        "id": 56609,
+        "title": "Kizumonogatari: Koyomi Vamp",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1279/140233.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1279/140233l.jpg"
+        }
+      },
+      "relation_type": "summary",
+      "relation_type_formatted": "Summary"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 33050,
+        "title": "Fate/stay night Movie: Heaven's Feel - III. Spring Song",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1142/112957.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1142/112957l.jpg"
+        }
+      },
+      "num_recommendations": 4
+    },
+    {
+      "node": {
+        "id": 11981,
+        "title": "Mahou Shoujo Madoka☆Magica Movie 3: Hangyaku no Monogatari",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/5/54231.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/5/54231l.jpg"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 57555,
+        "title": "Chainsaw Man Movie: Reze-hen",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1763/150638.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1763/150638l.jpg"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 22319,
+        "title": "Tokyo Ghoul",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1498/134443.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1498/134443l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 44511,
+        "title": "Chainsaw Man",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1806/126216.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1806/126216l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 37451,
+        "title": "Boogiepop wa Warawanai (2019)",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1135/95454.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1135/95454l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 875,
+        "title": "Mind Game",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1861/112656.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1861/112656l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "14446",
+      "completed": "386339",
+      "on_hold": "3342",
+      "dropped": "1872",
+      "plan_to_watch": "117735"
+    },
+    "num_list_users": 523734
+  },
+  "mal_details_updated_at": "2026-11-10T01:28:33.407Z"
 }

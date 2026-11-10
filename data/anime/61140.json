@@ -29,8 +29,8 @@
   "num_episodes": 23,
   "score": 6.44,
   "mean": 6.44,
-  "numListUsers": 12078,
-  "num_list_users": 12078,
+  "numListUsers": 12079,
+  "num_list_users": 12079,
   "genres": [
     {
       "id": 1,
@@ -51,7 +51,13 @@
       "name": "Konami animation"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1772/151303l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1562/152258l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1405/156377l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1827/159314l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1579/160352l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/sqfxKwR0mYva1LJlkMqIMNb2W36.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/mVemzOPsHUCFTFUAmPEueKDFTxC.png",
   "tmdb_id": "285710",
@@ -142,28 +148,28 @@
   "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1579/160352.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1579/160352l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1579/160352.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1579/160352l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1579/160352.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1579/160352l.webp",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1579/160352.webp",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1579/160352l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1579/160352.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1579/160352l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1579/160352.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1579/160352l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1579/160352l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1579/160352l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1579/160352l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1579/160352l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1579/160352l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1579/160352l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1579/160352l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1579/160352l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1579/160352l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1579/160352l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1772/151303l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1772/151303l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1772/151303l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1772/151303l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1772/151303l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1772/151303l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1772/151303l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1772/151303l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1772/151303l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1772/151303l.jpg"
     }
   },
   "broadcast": {
@@ -174,17 +180,39 @@
     "timezone": "Asia/Tokyo",
     "string": "tuesday 23:30"
   },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 8487,
+  "popularity": 6915,
+  "num_scoring_users": 1245,
+  "nsfw": "white",
+  "created_at": "2025-03-03T23:57:57+00:00",
+  "updated_at": "2026-10-13T16:31:03+00:00",
+  "source": "game",
+  "rating": "pg_13",
   "background": null,
   "related_anime": [],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 30911,
+        "title": "Tales of Zestiria the Cross",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1739/124338.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1739/124338l.webp"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "4510",
+      "completed": "1",
+      "on_hold": "214",
+      "dropped": "826",
+      "plan_to_watch": "6527"
+    },
+    "num_list_users": 12078
+  },
+  "mal_details_updated_at": "2026-11-10T01:32:39.672Z"
 }

@@ -57,7 +57,11 @@
       "name": "Production I.G"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/2/19477l.jpg",
+    "https://cdn.myanimelist.net/images/anime/9/25080l.jpg",
+    "https://cdn.myanimelist.net/images/anime/7/29111l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/93Zwr1UckwikK8ZAcL9KmxKhszu.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/1dV7yTS1n8ZBvRwgB6ijw8mlrQW.png",
   "tmdb_id": "36250",
@@ -100,30 +104,65 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/9/25080l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/9/25080l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/9/25080l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/9/25080l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/9/25080l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/9/25080l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/9/25080l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/9/25080l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/9/25080l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/9/25080l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/2/19477l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/2/19477l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/2/19477l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/2/19477l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/2/19477l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/2/19477l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/2/19477l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/2/19477l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/2/19477l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/2/19477l.jpg"
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
+  "rank": 503,
+  "popularity": 2703,
+  "num_scoring_users": 34742,
+  "nsfw": "white",
+  "created_at": "2009-07-22T09:04:23+00:00",
+  "updated_at": "2023-08-02T05:18:02+00:00",
+  "source": "manga",
+  "rating": "pg_13",
+  "background": "Bundled with the limited editions of the 17th and 19th volumes of the xxxHOLiC manga.",
+  "related_anime": [
+    {
+      "node": {
+        "id": 4918,
+        "title": "xxxHOLiC Shunmuki",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/12/25079.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/12/25079l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 457,
+        "title": "Mushishi",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/2/73862.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/2/73862l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "2841",
+      "completed": "60366",
+      "on_hold": "1210",
+      "dropped": "672",
+      "plan_to_watch": "22115"
+    },
+    "num_list_users": 87204
+  },
+  "mal_details_updated_at": "2026-11-10T01:37:44.155Z"
 }

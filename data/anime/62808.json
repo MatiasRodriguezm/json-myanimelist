@@ -58,7 +58,12 @@
       "name": "Sakura Create"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1511/155454l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1433/155455l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1985/160227l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1613/160883l.jpg"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": "314118",
@@ -91,30 +96,40 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1985/160227l.webp",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1985/160227l.webp",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1985/160227l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1985/160227l.webp",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1985/160227l.webp",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1985/160227l.webp",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1985/160227l.webp",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1985/160227l.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1985/160227l.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1985/160227l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1511/155454l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1511/155454l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1511/155454l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1511/155454l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1511/155454l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1511/155454l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1511/155454l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1511/155454l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1511/155454l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1511/155454l.jpg"
     }
   },
   "broadcast": null,
   "rank": null,
-  "popularity": null,
+  "popularity": 7147,
   "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
+  "nsfw": "white",
+  "created_at": "2025-10-17T11:45:18+00:00",
+  "updated_at": "2025-10-17T12:15:24+00:00",
+  "source": "manga",
   "rating": null,
   "background": null,
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": "2",
+      "completed": 0,
+      "on_hold": "1",
+      "dropped": 0,
+      "plan_to_watch": "11155"
+    },
+    "num_list_users": 11158
+  },
+  "mal_details_updated_at": "2026-11-10T01:34:14.136Z"
 }

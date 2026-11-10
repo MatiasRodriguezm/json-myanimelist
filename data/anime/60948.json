@@ -32,8 +32,8 @@
   "num_episodes": 13,
   "score": 6.84,
   "mean": 6.84,
-  "numListUsers": 38420,
-  "num_list_users": 38420,
+  "numListUsers": 38441,
+  "num_list_users": 38441,
   "genres": [
     {
       "id": 1,
@@ -58,7 +58,11 @@
       "name": "Studio A-CAT"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1287/147886l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1334/156252l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1889/160053l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/k5G4ALskmO8GcSOO3fN8fePa9Ny.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/2n7hXr6wbzFwwJ0rWLiEkQHZByy.png",
   "tmdb_id": "283692",
@@ -161,16 +165,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1889/160053l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1889/160053l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1889/160053l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1889/160053l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1889/160053l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1889/160053l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1889/160053l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1889/160053l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1889/160053l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1889/160053l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1287/147886l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1287/147886l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1287/147886l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1287/147886l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1287/147886l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1287/147886l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1287/147886l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1287/147886l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1287/147886l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1287/147886l.jpg"
     }
   },
   "broadcast": {
@@ -181,17 +185,61 @@
     "timezone": "Asia/Tokyo",
     "string": "sunday 21:30"
   },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 5848,
+  "popularity": 4287,
+  "num_scoring_users": 4865,
+  "nsfw": "white",
+  "created_at": "2025-02-06T06:01:40+00:00",
+  "updated_at": "2026-10-14T22:15:48+00:00",
+  "source": "light_novel",
+  "rating": "pg_13",
   "background": null,
   "related_anime": [],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 60154,
+        "title": "Ore wa Seikan Kokka no Akutoku Ryoushu!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1703/148600.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1703/148600l.jpg"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 2451,
+        "title": "Space Cobra",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/7/41437.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/7/41437l.webp"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 50461,
+        "title": "Otome Game Sekai wa Mob ni Kibishii Sekai desu",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1161/121462.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1161/121462l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "22464",
+      "completed": "4",
+      "on_hold": "483",
+      "dropped": "1085",
+      "plan_to_watch": "14395"
+    },
+    "num_list_users": 38431
+  },
+  "mal_details_updated_at": "2026-11-10T01:32:35.876Z"
 }

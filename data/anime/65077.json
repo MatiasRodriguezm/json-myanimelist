@@ -55,7 +55,9 @@
     }
   ],
   "studios": [],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1216/160273l.jpg"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
@@ -65,42 +67,65 @@
   "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1216/160273.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1216/160273l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1216/160273.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1216/160273l.webp"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1216/160273.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1216/160273l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1216/160273.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1216/160273l.jpg"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1216/160273.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1216/160273l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1216/160273.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1216/160273l.jpg"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1216/160273l.webp",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1216/160273l.webp",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1216/160273l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1216/160273l.webp",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1216/160273l.webp",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1216/160273l.webp",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1216/160273l.webp",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1216/160273l.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1216/160273l.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1216/160273l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1216/160273l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1216/160273l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1216/160273l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1216/160273l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1216/160273l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1216/160273l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1216/160273l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1216/160273l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1216/160273l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1216/160273l.jpg"
     }
   },
   "broadcast": null,
   "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "popularity": 3221,
+  "num_scoring_users": 5,
+  "nsfw": "white",
+  "created_at": "2026-09-27T15:42:46+00:00",
+  "updated_at": "2026-09-27T15:45:07+00:00",
+  "source": "light_novel",
+  "rating": "r",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 59193,
+        "title": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1527/158340.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1527/158340l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    }
+  ],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": "5",
+      "completed": "2",
+      "on_hold": "7",
+      "dropped": 0,
+      "plan_to_watch": "64663"
+    },
+    "num_list_users": 64677
+  },
+  "mal_details_updated_at": "2026-11-10T01:36:40.786Z"
 }

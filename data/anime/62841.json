@@ -53,7 +53,9 @@
     }
   ],
   "studios": [],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1667/152812l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/6JpmIe9cJcbG6hecyN6ml8AG6RC.png",
   "tmdb_id": "220542",
@@ -74,15 +76,15 @@
   "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1667/152812.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1667/152812l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1667/152812.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1667/152812l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1667/152812.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1667/152812l.webp",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1667/152812.webp",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1667/152812l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1667/152812.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1667/152812l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1667/152812.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1667/152812l.webp"
   },
   "trailer": {
     "images": {
@@ -100,16 +102,39 @@
   },
   "broadcast": null,
   "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "popularity": 3095,
+  "num_scoring_users": 3,
+  "nsfw": "white",
+  "created_at": "2025-10-22T11:03:14+00:00",
+  "updated_at": "2026-10-02T23:28:24+00:00",
+  "source": "light_novel",
+  "rating": "pg_13",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 61987,
+        "title": "Kusuriya no Hitorigoto 3rd Season",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1028/160277.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1028/160277l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    }
+  ],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": "6",
+      "completed": "4",
+      "on_hold": "5",
+      "dropped": 0,
+      "plan_to_watch": "69346"
+    },
+    "num_list_users": 69361
+  },
+  "mal_details_updated_at": "2026-11-10T01:34:14.878Z"
 }

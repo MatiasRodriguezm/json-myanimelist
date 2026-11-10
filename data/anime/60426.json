@@ -58,7 +58,13 @@
       "name": "Ke Yue Xue Zi"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1049/146765l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1572/153700l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1813/158609l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1460/159904l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1427/159993l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/wNQeJoNK7CKI0KVsCYQE3DrMAer.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/tAKfICoC2kjNAO2KyVtJc2zDY3.png",
   "tmdb_id": "336065",
@@ -241,30 +247,53 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1813/158609l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1813/158609l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1813/158609l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1813/158609l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1813/158609l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1813/158609l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1813/158609l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1813/158609l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1813/158609l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1813/158609l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1049/146765l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1049/146765l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1049/146765l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1049/146765l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1049/146765l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1049/146765l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1049/146765l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1049/146765l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1049/146765l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1049/146765l.jpg"
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
+  "rank": 17763,
+  "popularity": 16792,
+  "num_scoring_users": 24,
+  "nsfw": "white",
+  "created_at": "2024-12-01T08:30:28+00:00",
+  "updated_at": "2026-10-23T02:57:51+00:00",
+  "source": "manga",
+  "rating": "pg_13",
+  "background": "Episodes 168-183 of Huyao Xiao Hongniang.",
+  "related_anime": [
+    {
+      "node": {
+        "id": 59291,
+        "title": "Huyao Xiao Hongniang 12: Jing Hua Yuan Pian",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1747/144208.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1747/144208l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    }
+  ],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": "43",
+      "completed": "21",
+      "on_hold": "15",
+      "dropped": "40",
+      "plan_to_watch": "646"
+    },
+    "num_list_users": 765
+  },
+  "mal_details_updated_at": "2026-11-10T01:32:27.593Z"
 }

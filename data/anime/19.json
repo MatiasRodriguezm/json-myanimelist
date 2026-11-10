@@ -63,7 +63,13 @@
       "name": "Madhouse"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/2/5824l.jpg",
+    "https://cdn.myanimelist.net/images/anime/10/8618l.jpg",
+    "https://cdn.myanimelist.net/images/anime/10/13733l.jpg",
+    "https://cdn.myanimelist.net/images/anime/10/18793l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1573/132904l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/6T19aRp9zLMghZo1dTEwoNyreNZ.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/ddDLoUKdW7NTcf6FbtqlEmFws3P.png",
   "tmdb_id": "30981",
@@ -857,16 +863,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/10/18793l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/10/18793l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/10/18793l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/10/18793l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/18793l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/10/18793l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/10/18793l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/10/18793l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/18793l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/10/18793l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/2/5824l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/2/5824l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/2/5824l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/2/5824l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/2/5824l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/2/5824l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/2/5824l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/2/5824l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/2/5824l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/2/5824l.jpg"
     }
   },
   "broadcast": {
@@ -877,17 +883,163 @@
     "timezone": "Asia/Tokyo",
     "string": "wednesday 00:40"
   },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 24,
+  "popularity": 114,
+  "num_scoring_users": 531499,
+  "nsfw": "white",
+  "created_at": "2005-11-11T01:15:59+00:00",
+  "updated_at": "2025-08-15T17:37:15+00:00",
+  "source": "manga",
+  "rating": "r+",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 1109,
+        "title": "Monster Extra: Hottan",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/5/10372.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/5/10372l.jpg"
+        }
+      },
+      "relation_type": "summary",
+      "relation_type_formatted": "Summary"
+    },
+    {
+      "node": {
+        "id": 39332,
+        "title": "Monster Special Edition",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1226/99268.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1226/99268l.jpg"
+        }
+      },
+      "relation_type": "summary",
+      "relation_type_formatted": "Summary"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 1535,
+        "title": "Death Note",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1079/138100.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1079/138100l.jpg"
+        }
+      },
+      "num_recommendations": 117
+    },
+    {
+      "node": {
+        "id": 13601,
+        "title": "Psycho-Pass",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1314/142015.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1314/142015l.webp"
+        }
+      },
+      "num_recommendations": 18
+    },
+    {
+      "node": {
+        "id": 23283,
+        "title": "Zankyou no Terror",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1417/117422.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1417/117422l.jpg"
+        }
+      },
+      "num_recommendations": 13
+    },
+    {
+      "node": {
+        "id": 239,
+        "title": "Gankutsuou",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1910/138560.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1910/138560l.webp"
+        }
+      },
+      "num_recommendations": 13
+    },
+    {
+      "node": {
+        "id": 35737,
+        "title": "Pluto",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1021/138568.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1021/138568l.jpg"
+        }
+      },
+      "num_recommendations": 13
+    },
+    {
+      "node": {
+        "id": 820,
+        "title": "Ginga Eiyuu Densetsu",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1976/142016.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1976/142016l.jpg"
+        }
+      },
+      "num_recommendations": 11
+    },
+    {
+      "node": {
+        "id": 33,
+        "title": "Kenpuu Denki Berserk",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1384/119988.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1384/119988l.jpg"
+        }
+      },
+      "num_recommendations": 10
+    },
+    {
+      "node": {
+        "id": 37525,
+        "title": "Babylon",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1942/102707.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1942/102707l.jpg"
+        }
+      },
+      "num_recommendations": 9
+    },
+    {
+      "node": {
+        "id": 3002,
+        "title": "Gyakkyou Burai Kaiji: Ultimate Survivor",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/12/80032.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/12/80032l.jpg"
+        }
+      },
+      "num_recommendations": 8
+    },
+    {
+      "node": {
+        "id": 6114,
+        "title": "Rainbow: Nisha Rokubou no Shichinin",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/9/72697.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/9/72697l.jpg"
+        }
+      },
+      "num_recommendations": 6
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "184464",
+      "completed": "530278",
+      "on_hold": "98697",
+      "dropped": "45923",
+      "plan_to_watch": "513780"
+    },
+    "num_list_users": 1373142
+  },
+  "mal_details_updated_at": "2026-11-10T01:27:21.416Z"
 }

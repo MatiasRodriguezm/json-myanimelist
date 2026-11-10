@@ -47,7 +47,10 @@
       "name": "Lesprit"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1247/156572l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1551/159808l.jpg"
+  ],
   "backdrop_url": null,
   "logo_url": "https://image.tmdb.org/t/p/w500/v1k2JRs5IyzxsFm1A2kiNujmgs.png",
   "tmdb_id": "337195",
@@ -150,16 +153,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1551/159808l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1551/159808l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1551/159808l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1551/159808l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1551/159808l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1551/159808l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1551/159808l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1551/159808l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1551/159808l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1551/159808l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1247/156572l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1247/156572l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1247/156572l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1247/156572l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1247/156572l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1247/156572l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1247/156572l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1247/156572l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1247/156572l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1247/156572l.jpg"
     }
   },
   "broadcast": {
@@ -170,17 +173,40 @@
     "timezone": "Asia/Tokyo",
     "string": "saturday 16:29"
   },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 20872,
+  "popularity": 21108,
+  "num_scoring_users": 26,
+  "nsfw": "white",
+  "created_at": "2026-04-04T12:58:52+00:00",
+  "updated_at": "2026-09-01T00:40:20+00:00",
+  "source": "other",
+  "rating": "g",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 36107,
+        "title": "Shirotan: Shirotan ga Ippai!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/2/87256.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/2/87256l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    }
+  ],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": "86",
+      "completed": 0,
+      "on_hold": "5",
+      "dropped": "47",
+      "plan_to_watch": "217"
+    },
+    "num_list_users": 355
+  },
+  "mal_details_updated_at": "2026-11-10T01:36:01.894Z"
 }

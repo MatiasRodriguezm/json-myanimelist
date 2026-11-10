@@ -50,7 +50,10 @@
       "name": "P.A. Works"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/7/89555l.jpg",
+    "https://cdn.myanimelist.net/images/anime/11/89556l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/5nkKy7eEDsXqsxFLJy3GxZhE90J.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/D7PhxDJjShQcjgyhSfFCfI6YGc.png",
   "tmdb_id": "476292",
@@ -104,30 +107,151 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/11/89556l.webp",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/11/89556l.webp",
-      "image_url": "https://cdn.myanimelist.net/images/anime/11/89556l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/11/89556l.webp",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/89556l.webp",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/11/89556l.webp",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/11/89556l.webp",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/11/89556l.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/89556l.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/11/89556l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/7/89555l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/7/89555l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/89555l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/7/89555l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/89555l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/7/89555l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/7/89555l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/7/89555l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/89555l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/7/89555l.jpg"
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
+  "rank": 237,
+  "popularity": 529,
+  "num_scoring_users": 223054,
+  "nsfw": "white",
+  "created_at": "2017-07-06T00:28:01+00:00",
+  "updated_at": "2023-01-24T00:16:40+00:00",
+  "source": "original",
+  "rating": "pg_13",
+  "background": "Sayonara no Asa ni Yakusoku no Hana wo Kazarou, abbreviated as SayoAsa, is the directorial debut of screenwriter Mari Okada. Outside of Japan, the film made its international premiere at the 2018 Glasgow Film Festival. It went on to receive the Golden Goblet Award for Best Animation Film at the 21st Shanghai International Film Festival, and was named Best Feature Length Film in the Fantastic Discovery section at the 51st Sitges Film Festival. The film has earned more than 350 million yen in domestic box office revenues.",
   "related_anime": [],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 12355,
+        "title": "Ookami Kodomo no Ame to Yuki",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/9/35721.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/9/35721l.jpg"
+        }
+      },
+      "num_recommendations": 33
+    },
+    {
+      "node": {
+        "id": 52991,
+        "title": "Sousou no Frieren",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1015/138006.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1015/138006l.jpg"
+        }
+      },
+      "num_recommendations": 15
+    },
+    {
+      "node": {
+        "id": 33352,
+        "title": "Violet Evergarden",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1795/95088.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1795/95088l.webp"
+        }
+      },
+      "num_recommendations": 15
+    },
+    {
+      "node": {
+        "id": 41025,
+        "title": "Fumetsu no Anata e",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1880/118484.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1880/118484l.jpg"
+        }
+      },
+      "num_recommendations": 8
+    },
+    {
+      "node": {
+        "id": 28851,
+        "title": "Koe no Katachi",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1122/96435.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1122/96435l.jpg"
+        }
+      },
+      "num_recommendations": 5
+    },
+    {
+      "node": {
+        "id": 32281,
+        "title": "Kimi no Na wa.",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/5/87048.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/5/87048l.jpg"
+        }
+      },
+      "num_recommendations": 4
+    },
+    {
+      "node": {
+        "id": 36936,
+        "title": "Mirai no Mirai",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1042/95674.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1042/95674l.jpg"
+        }
+      },
+      "num_recommendations": 3
+    },
+    {
+      "node": {
+        "id": 4181,
+        "title": "Clannad: After Story",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1299/110774.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1299/110774l.jpg"
+        }
+      },
+      "num_recommendations": 3
+    },
+    {
+      "node": {
+        "id": 39575,
+        "title": "Somali to Mori no Kamisama",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1938/102796.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1938/102796l.jpg"
+        }
+      },
+      "num_recommendations": 3
+    },
+    {
+      "node": {
+        "id": 2966,
+        "title": "Ookami to Koushinryou",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/5/59401.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/5/59401l.jpg"
+        }
+      },
+      "num_recommendations": 2
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "18490",
+      "completed": "272862",
+      "on_hold": "4987",
+      "dropped": "2025",
+      "plan_to_watch": "209709"
+    },
+    "num_list_users": 508073
+  },
+  "mal_details_updated_at": "2026-11-10T01:28:52.810Z"
 }

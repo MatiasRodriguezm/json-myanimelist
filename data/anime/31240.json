@@ -66,7 +66,14 @@
       "name": "White Fox"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/10/75155l.jpg",
+    "https://cdn.myanimelist.net/images/anime/6/76191l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1522/128039l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1534/134863l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1269/151932l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1774/158146l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/7ZruEnSnHD6Jx5mF0hBt1E306Vt.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/5cfRiR2U7m3DuCTRRwB7LeJYte8.png",
   "tmdb_id": "65942",
@@ -600,16 +607,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1522/128039l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1522/128039l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1522/128039l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1522/128039l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1522/128039l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1522/128039l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1522/128039l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1522/128039l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1522/128039l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1522/128039l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/10/75155l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/10/75155l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/75155l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/10/75155l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/75155l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/10/75155l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/10/75155l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/10/75155l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/75155l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/10/75155l.jpg"
     }
   },
   "broadcast": {
@@ -620,17 +627,259 @@
     "timezone": "Asia/Tokyo",
     "string": "monday 01:05"
   },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
+  "rank": 399,
+  "popularity": 22,
+  "num_scoring_users": 1610479,
+  "nsfw": "white",
+  "created_at": "2015-07-13T23:58:43+00:00",
+  "updated_at": "2026-05-31T21:12:05+00:00",
+  "source": "light_novel",
+  "rating": "r",
+  "background": "Re:Zero kara Hajimeru Isekai Seikatsu adapts the first nine volumes of Tappei Nagatsuki's light novel series of the same title. \n\nAn edited version of the series, titled Re:Zero kara Hajimeru Isekai Seikatsu: Shin Henshuu-ban (Re: Zero -Starting Life In Another World- Director's Cut), received a rebroadcast starting January 1, 2020. Twenty-five episodes of the original series were combined into thirteen 49-minute long episodes with some scenes being slightly extended. The last four minutes of episode 13 featured new scenes that were later included at the beginning of the second season.",
+  "related_anime": [
+    {
+      "node": {
+        "id": 33142,
+        "title": "Re:Zero kara Hajimeru Break Time",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/8/81258.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/8/81258l.webp"
+        }
+      },
+      "relation_type": "spin_off",
+      "relation_type_formatted": "Spin-off"
+    },
+    {
+      "node": {
+        "id": 33569,
+        "title": "Re:Petit kara Hajimeru Isekai Seikatsu",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/8/81281.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/8/81281l.jpg"
+        }
+      },
+      "relation_type": "spin_off",
+      "relation_type_formatted": "Spin-off"
+    },
+    {
+      "node": {
+        "id": 36286,
+        "title": "Re:Zero kara Hajimeru Isekai Seikatsu - Memory Snow",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1081/95707.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1081/95707l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 38389,
+        "title": "He Wei Dao x Re:Cong Ling Kaishi de Yi Shijie Shenghuo",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1629/94819.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1629/94819l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 38414,
+        "title": "Re:Zero kara Hajimeru Isekai Seikatsu - Hyouketsu no Kizuna",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1238/104023.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1238/104023l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    },
+    {
+      "node": {
+        "id": 38472,
+        "title": "Isekai Quartet",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1965/99667.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1965/99667l.jpg"
+        }
+      },
+      "relation_type": "character",
+      "relation_type_formatted": "Character"
+    },
+    {
+      "node": {
+        "id": 39587,
+        "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1444/108005.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1444/108005l.jpg"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    },
+    {
+      "node": {
+        "id": 39988,
+        "title": "Isekai Quartet 2",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1030/103383.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1030/103383l.jpg"
+        }
+      },
+      "relation_type": "character",
+      "relation_type_formatted": "Character"
+    },
+    {
+      "node": {
+        "id": 41567,
+        "title": "Isekai Quartet Movie: Another World",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1222/122000.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1222/122000l.jpg"
+        }
+      },
+      "relation_type": "character",
+      "relation_type_formatted": "Character"
+    },
+    {
+      "node": {
+        "id": 61851,
+        "title": "Isekai Quartet 3",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1044/152103.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1044/152103l.webp"
+        }
+      },
+      "relation_type": "character",
+      "relation_type_formatted": "Character"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 9253,
+        "title": "Steins;Gate",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1935/127974.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1935/127974l.jpg"
+        }
+      },
+      "num_recommendations": 138
+    },
+    {
+      "node": {
+        "id": 30831,
+        "title": "Kono Subarashii Sekai ni Shukufuku wo!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1895/142748.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1895/142748l.webp"
+        }
+      },
+      "num_recommendations": 53
+    },
+    {
+      "node": {
+        "id": 31043,
+        "title": "Boku dake ga Inai Machi",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/77957.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/77957l.jpg"
+        }
+      },
+      "num_recommendations": 51
+    },
+    {
+      "node": {
+        "id": 47194,
+        "title": "Summertime Render",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1120/120796.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1120/120796l.jpg"
+        }
+      },
+      "num_recommendations": 49
+    },
+    {
+      "node": {
+        "id": 39535,
+        "title": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1530/117776.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1530/117776l.jpg"
+        }
+      },
+      "num_recommendations": 22
+    },
+    {
+      "node": {
+        "id": 35790,
+        "title": "Tate no Yuusha no Nariagari",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1490/101365.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1490/101365l.webp"
+        }
+      },
+      "num_recommendations": 21
+    },
+    {
+      "node": {
+        "id": 42249,
+        "title": "Tokyo Revengers",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1839/122012.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1839/122012l.webp"
+        }
+      },
+      "num_recommendations": 17
+    },
+    {
+      "node": {
+        "id": 9756,
+        "title": "Mahou Shoujo Madoka☆Magica",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/11/55225.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/11/55225l.jpg"
+        }
+      },
+      "num_recommendations": 16
+    },
+    {
+      "node": {
+        "id": 934,
+        "title": "Higurashi no Naku Koro ni",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/12/19634.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/12/19634l.jpg"
+        }
+      },
+      "num_recommendations": 16
+    },
+    {
+      "node": {
+        "id": 11757,
+        "title": "Sword Art Online",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/11/39717.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/11/39717l.jpg"
+        }
+      },
+      "num_recommendations": 12
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "160193",
+      "completed": "1966082",
+      "on_hold": "52873",
+      "dropped": "63805",
+      "plan_to_watch": "283524"
+    },
+    "num_list_users": 2526477
+  },
+  "mal_details_updated_at": "2026-11-10T01:28:31.216Z"
 }

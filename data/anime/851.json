@@ -64,7 +64,14 @@
       "name": "Studio Pierrot"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/4/36037l.jpg",
+    "https://cdn.myanimelist.net/images/anime/8/36039l.jpg",
+    "https://cdn.myanimelist.net/images/anime/2/43779l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1042/110294l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1744/125725l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1109/160310l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/dQkKZr3EAlV10kwV0bkCcMTvCtT.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/2ShEAoJhF4kSBY4OV5ruqCrEApF.png",
   "tmdb_id": "66041",
@@ -187,30 +194,151 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1042/110294l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1042/110294l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1042/110294l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1042/110294l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1042/110294l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1042/110294l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1042/110294l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1042/110294l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1042/110294l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1042/110294l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/4/36037l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/4/36037l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/36037l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/4/36037l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/36037l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/4/36037l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/4/36037l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/4/36037l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/36037l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/4/36037l.jpg"
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 644,
+  "popularity": 4138,
+  "num_scoring_users": 13176,
+  "nsfw": "white",
+  "created_at": "2006-04-08T01:40:52+00:00",
+  "updated_at": "2025-02-12T14:44:01+00:00",
+  "source": "manga",
+  "rating": "r",
   "background": null,
   "related_anime": [],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 42249,
+        "title": "Tokyo Revengers",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1839/122012.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1839/122012l.webp"
+        }
+      },
+      "num_recommendations": 5
+    },
+    {
+      "node": {
+        "id": 1913,
+        "title": "Shonan Junai Gumi!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1941/98123.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1941/98123l.jpg"
+        }
+      },
+      "num_recommendations": 4
+    },
+    {
+      "node": {
+        "id": 245,
+        "title": "Great Teacher Onizuka",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/13/11460.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/13/11460l.webp"
+        }
+      },
+      "num_recommendations": 4
+    },
+    {
+      "node": {
+        "id": 170,
+        "title": "Slam Dunk",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/12/86890.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/12/86890l.webp"
+        }
+      },
+      "num_recommendations": 4
+    },
+    {
+      "node": {
+        "id": 9513,
+        "title": "Beelzebub",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/3/28013.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/3/28013l.jpg"
+        }
+      },
+      "num_recommendations": 4
+    },
+    {
+      "node": {
+        "id": 9645,
+        "title": "Be-Bop Highschool",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1667/98768.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1667/98768l.webp"
+        }
+      },
+      "num_recommendations": 3
+    },
+    {
+      "node": {
+        "id": 268,
+        "title": "Golden Boy",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/3/62867.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/3/62867l.jpg"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 2463,
+        "title": "Shounan Bakusouzoku",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1338/141478.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1338/141478l.jpg"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 918,
+        "title": "Gintama",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/73274.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/73274l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 6293,
+        "title": "Koukou Butouden Crows",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/12/24261.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/12/24261l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "3045",
+      "completed": "15524",
+      "on_hold": "1575",
+      "dropped": "1066",
+      "plan_to_watch": "20172"
+    },
+    "num_list_users": 41382
+  },
+  "mal_details_updated_at": "2026-11-10T01:37:52.340Z"
 }

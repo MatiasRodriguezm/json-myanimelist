@@ -55,7 +55,15 @@
       "name": "Bones"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/10/14176l.jpg",
+    "https://cdn.myanimelist.net/images/anime/3/22396l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1988/105359l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1091/134883l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1746/159623l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1806/159624l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1413/159625l.jpg"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
@@ -367,42 +375,88 @@
   ],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1091/134883.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1091/134883l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1091/134883.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1091/134883l.webp"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1091/134883.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1091/134883l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1091/134883.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1091/134883l.jpg"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1091/134883.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1091/134883l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1091/134883.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1091/134883l.jpg"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1091/134883l.webp",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1091/134883l.webp",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1091/134883l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1091/134883l.webp",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1091/134883l.webp",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1091/134883l.webp",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1091/134883l.webp",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1091/134883l.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1091/134883l.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1091/134883l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/10/14176l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/10/14176l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/14176l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/10/14176l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/14176l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/10/14176l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/10/14176l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/10/14176l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/14176l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/10/14176l.jpg"
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 802,
+  "popularity": 2880,
+  "num_scoring_users": 38222,
+  "nsfw": "white",
+  "created_at": "2006-06-01T18:43:14+00:00",
+  "updated_at": "2025-02-10T22:09:54+00:00",
+  "source": "original",
+  "rating": "pg_13",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 202,
+        "title": "Wolf's Rain",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/5/59403.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/5/59403l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 32,
+        "title": "Shinseiki Evangelion Movie: Air/Magokoro wo, Kimi ni",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1404/98182.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1404/98182l.jpg"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 2966,
+        "title": "Ookami to Koushinryou",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/5/59401.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/5/59401l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "1884",
+      "completed": "52608",
+      "on_hold": "984",
+      "dropped": "652",
+      "plan_to_watch": "22027"
+    },
+    "num_list_users": 78155
+  },
+  "mal_details_updated_at": "2026-11-10T01:26:53.952Z"
 }

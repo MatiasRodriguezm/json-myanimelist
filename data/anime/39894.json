@@ -57,7 +57,22 @@
       "name": "Kyoto Animation"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1581/135564l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1043/137575l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1090/138252l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1905/139820l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1216/142086l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1461/142947l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1540/143483l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1931/143695l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1130/148511l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1344/148512l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1155/148513l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1853/148514l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1124/148515l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1484/148516l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/jErTDsVzUFwQm7Ox5Un9AsGxukV.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/jieCs8jpmUZZtrqNJChRvUdauCM.png",
   "tmdb_id": "62564",
@@ -491,16 +506,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1216/142086l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1216/142086l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1216/142086l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1216/142086l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1216/142086l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1216/142086l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1216/142086l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1216/142086l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1216/142086l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1216/142086l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1581/135564l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1581/135564l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1581/135564l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1581/135564l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1581/135564l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1581/135564l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1581/135564l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1581/135564l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1581/135564l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1581/135564l.jpg"
     }
   },
   "broadcast": {
@@ -511,17 +526,99 @@
     "timezone": "Asia/Tokyo",
     "string": "sunday 17:00"
   },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 53,
+  "popularity": 2423,
+  "num_scoring_users": 41792,
+  "nsfw": "white",
+  "created_at": "2019-06-01T10:15:47+00:00",
+  "updated_at": "2025-07-03T08:34:58+00:00",
+  "source": "novel",
+  "rating": "pg_13",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 51995,
+        "title": "Hibike! Euphonium: Ensemble Contest-hen",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1952/135162.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1952/135162l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    },
+    {
+      "node": {
+        "id": 58856,
+        "title": "Hibike! Euphonium 3: Extra Episodes",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1230/143099.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1230/143099l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 61230,
+        "title": "Saishuu Gakushou Hibike! Euphonium: Zenpen",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1014/155041.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1014/155041l.webp"
+        }
+      },
+      "relation_type": "alternative_version",
+      "relation_type_formatted": "Alternative version"
+    },
+    {
+      "node": {
+        "id": 64019,
+        "title": "Saishuu Gakushou Hibike! Euphonium: Kouhen",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1735/158372.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1735/158372l.jpg"
+        }
+      },
+      "relation_type": "alternative_version",
+      "relation_type_formatted": "Alternative version"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 35503,
+        "title": "Shoujo☆Kageki Revue Starlight",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1165/93552.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1165/93552l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 20583,
+        "title": "Haikyuu!!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/7/76014.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/7/76014l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "9160",
+      "completed": "47313",
+      "on_hold": "1806",
+      "dropped": "1129",
+      "plan_to_watch": "43725"
+    },
+    "num_list_users": 103133
+  },
+  "mal_details_updated_at": "2026-11-10T01:29:14.232Z"
 }

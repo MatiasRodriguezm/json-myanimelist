@@ -47,7 +47,9 @@
       "name": "Imageworks Studio"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1405/158562l.jpg"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
@@ -89,17 +91,27 @@
     "timezone": "Asia/Tokyo",
     "string": "sunday 07:00"
   },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 22794,
+  "popularity": 22654,
+  "num_scoring_users": 18,
+  "nsfw": "white",
+  "created_at": "2026-06-19T14:33:34+00:00",
+  "updated_at": "2026-06-20T07:05:14+00:00",
+  "source": "picture_book",
+  "rating": "g",
   "background": null,
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": "40",
+      "completed": 0,
+      "on_hold": "7",
+      "dropped": "45",
+      "plan_to_watch": "179"
+    },
+    "num_list_users": 271
+  },
+  "mal_details_updated_at": "2026-11-10T01:36:14.874Z"
 }

@@ -73,7 +73,11 @@
       "name": "Bandai Namco Pictures"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1582/151545l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1599/154487l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1830/159883l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/8qSFFK9AcMl2Ecp249f5J3Nr8MK.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/pM4k5NvbpX88RQxckH4flRRl570.png",
   "tmdb_id": "1530941",
@@ -106,30 +110,53 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1599/154487l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1599/154487l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1599/154487l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1599/154487l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1599/154487l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1599/154487l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1599/154487l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1599/154487l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1599/154487l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1599/154487l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1582/151545l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1582/151545l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1582/151545l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1582/151545l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1582/151545l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1582/151545l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1582/151545l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1582/151545l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1582/151545l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1582/151545l.jpg"
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
+  "rank": 42,
+  "popularity": 5871,
+  "num_scoring_users": 5350,
+  "nsfw": "white",
+  "created_at": "2025-08-16T12:21:20+00:00",
+  "updated_at": "2025-12-20T04:52:16+00:00",
+  "source": "manga",
+  "rating": "pg_13",
+  "background": "Gintama Movie 3: Yoshiwara Daienjou is a remake of episodes 139-146 of Gintama.",
+  "related_anime": [
+    {
+      "node": {
+        "id": 918,
+        "title": "Gintama",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/73274.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/73274l.jpg"
+        }
+      },
+      "relation_type": "alternative_version",
+      "relation_type_formatted": "Alternative version"
+    }
+  ],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": "648",
+      "completed": "6408",
+      "on_hold": "263",
+      "dropped": "148",
+      "plan_to_watch": "10788"
+    },
+    "num_list_users": 18255
+  },
+  "mal_details_updated_at": "2026-11-10T01:33:03.811Z"
 }

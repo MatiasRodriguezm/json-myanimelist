@@ -59,7 +59,10 @@
       "name": "Tezuka Productions"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1126/156454l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1384/160534l.jpg"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
@@ -92,16 +95,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1384/160534l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1384/160534l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1384/160534l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1384/160534l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1384/160534l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1384/160534l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1384/160534l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1384/160534l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1384/160534l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1384/160534l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1126/156454l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1126/156454l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1126/156454l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1126/156454l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1126/156454l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1126/156454l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1126/156454l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1126/156454l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1126/156454l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1126/156454l.jpg"
     }
   },
   "broadcast": {
@@ -113,16 +116,39 @@
     "string": "sunday 00:55"
   },
   "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "popularity": 6576,
+  "num_scoring_users": 1,
+  "nsfw": "white",
+  "created_at": "2026-04-01T17:02:10+00:00",
+  "updated_at": "2026-09-14T15:12:48+00:00",
+  "source": "manga",
+  "rating": "r",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 55911,
+        "title": "The Fable",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1254/141155.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1254/141155l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    }
+  ],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": "1",
+      "completed": 0,
+      "on_hold": "1",
+      "dropped": 0,
+      "plan_to_watch": "13578"
+    },
+    "num_list_users": 13580
+  },
+  "mal_details_updated_at": "2026-11-10T01:36:01.190Z"
 }

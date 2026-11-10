@@ -45,7 +45,11 @@
       "name": "Kyoto Animation"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1220/131436l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1022/139471l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1902/143097l.jpg"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
@@ -227,42 +231,65 @@
   ],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1902/143097.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1902/143097l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1902/143097.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1902/143097l.webp"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1902/143097.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1902/143097l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1902/143097.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1902/143097l.jpg"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1902/143097.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1902/143097l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1902/143097.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1902/143097l.jpg"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1902/143097l.webp",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1902/143097l.webp",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1902/143097l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1902/143097l.webp",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1902/143097l.webp",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1902/143097l.webp",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1902/143097l.webp",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1902/143097l.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1902/143097l.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1902/143097l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1220/131436l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1220/131436l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1220/131436l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1220/131436l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1220/131436l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1220/131436l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1220/131436l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1220/131436l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1220/131436l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1220/131436l.jpg"
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 221,
+  "popularity": 3677,
+  "num_scoring_users": 18216,
+  "nsfw": "white",
+  "created_at": "2022-11-24T14:48:01+00:00",
+  "updated_at": "2026-08-15T16:31:10+00:00",
+  "source": "light_novel",
+  "rating": "pg_13",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 33352,
+        "title": "Violet Evergarden",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1795/95088.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1795/95088l.webp"
+        }
+      },
+      "relation_type": "full_story",
+      "relation_type_formatted": "Full story"
+    }
+  ],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": "2455",
+      "completed": "29706",
+      "on_hold": "567",
+      "dropped": "519",
+      "plan_to_watch": "17730"
+    },
+    "num_list_users": 50977
+  },
+  "mal_details_updated_at": "2026-11-10T01:30:52.311Z"
 }

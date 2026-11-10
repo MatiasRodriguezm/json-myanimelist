@@ -44,7 +44,9 @@
     }
   ],
   "studios": [],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/6/72182l.jpg"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
@@ -228,17 +230,268 @@
     "timezone": "Asia/Tokyo",
     "string": "other 06:45"
   },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 12188,
+  "popularity": 12709,
+  "num_scoring_users": 129,
+  "nsfw": "white",
+  "created_at": "2015-02-22T06:39:36+00:00",
+  "updated_at": "2025-11-28T12:56:46+00:00",
+  "source": "original",
+  "rating": "g",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 13821,
+        "title": "Kamiusagi Rope tsuka, Natsuyasumi Rasuichi tte Maji ssuka!?",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/13/72178.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/13/72178l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    },
+    {
+      "node": {
+        "id": 30153,
+        "title": "Takarakuji x Rope",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/72184.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/10/72184l.webp"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 30654,
+        "title": "Ansatsu Kyoushitsu 2nd Season",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/8/77966.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/8/77966l.jpg"
+        }
+      },
+      "relation_type": "character",
+      "relation_type_formatted": "Character"
+    },
+    {
+      "node": {
+        "id": 35287,
+        "title": "Tire Kan x Kamiusagi Rope",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/7/84995.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/7/84995l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 35305,
+        "title": "Kamiusagi Rope x Tokyo Gas",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/7/85028.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/7/85028l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 35306,
+        "title": "Mori no Kaori x Kamiusagi Rope",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/12/85029.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/12/85029l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 35307,
+        "title": "Shiseido x Kamiusagi Rope",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/3/85030.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/3/85030l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 35308,
+        "title": "Lion x Kamiusagi Rope",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/6/85031.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/6/85031l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 35309,
+        "title": "Levain Cup x Kamiusagi Rope",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/12/85032.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/12/85032l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 35310,
+        "title": "Kamiusagi Rope & Taka no Tsume Collab Eizou-hen",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/12/85033.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/12/85033l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 35311,
+        "title": "Kamiusagi Rope x TOHO Cinemas",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/11/85034.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/11/85034l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 35312,
+        "title": "Kamiusagi Rope x TOHO Cinemas (Movies)",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/11/85035.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/11/85035l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 36564,
+        "title": "Kamiusagi Rope x Boruto: Naruto Next Generations",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/3/88377.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/3/88377l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 36724,
+        "title": "Felix x Kamiusagi Rope",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/3/88798.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/3/88798l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 37850,
+        "title": "Elleair x Kamiusagi Rope",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1377/92748.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1377/92748l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 37851,
+        "title": "Kamiusagi Rope x Wacoal",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1479/92749.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1479/92749l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 38299,
+        "title": "Nagano Toshi Gas x Kamiusagi Rope",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1192/93663.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1192/93663l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 40478,
+        "title": "Kamiusagi Rope x Ricordi",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1016/103357.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1016/103357l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 41136,
+        "title": "Kobara Support x Kamiusagi Rope",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1142/105613.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1142/105613l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 6525,
+        "title": "Peeping Life",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/23512.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/23512l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "993",
+      "completed": 0,
+      "on_hold": "74",
+      "dropped": "458",
+      "plan_to_watch": "652"
+    },
+    "num_list_users": 2177
+  },
+  "mal_details_updated_at": "2026-11-10T01:28:26.176Z"
 }

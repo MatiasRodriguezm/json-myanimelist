@@ -31,8 +31,8 @@
   "num_episodes": 26,
   "score": 6.8,
   "mean": 6.8,
-  "numListUsers": 109382,
-  "num_list_users": 109382,
+  "numListUsers": 109389,
+  "num_list_users": 109389,
   "genres": [
     {
       "id": 1,
@@ -61,7 +61,13 @@
       "name": "GoHands"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1502/145271l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1690/155778l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1863/158503l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1322/158711l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1556/160219l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/rQmzx7qyoK5YiXJHnv0jdgVlKyl.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/cViYa926pHMY1d1u5jkJkgmMugH.png",
   "tmdb_id": "270603",
@@ -324,16 +330,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1322/158711l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1322/158711l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1322/158711l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1322/158711l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1322/158711l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1322/158711l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1322/158711l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1322/158711l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1322/158711l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1322/158711l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1502/145271l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1502/145271l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1502/145271l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1502/145271l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1502/145271l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1502/145271l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1502/145271l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1502/145271l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1502/145271l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1502/145271l.jpg"
     }
   },
   "broadcast": {
@@ -344,17 +350,27 @@
     "timezone": "Asia/Tokyo",
     "string": "friday 00:26"
   },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
+  "rank": 6135,
+  "popularity": 2314,
+  "num_scoring_users": 22793,
+  "nsfw": "white",
+  "created_at": "2024-09-05T03:05:44+00:00",
+  "updated_at": "2026-09-25T02:23:16+00:00",
+  "source": "web_manga",
+  "rating": "r",
+  "background": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru aired on MBS and TBS' Super Animeism Turbo block.",
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": "67502",
+      "completed": "25",
+      "on_hold": "1808",
+      "dropped": "5042",
+      "plan_to_watch": "35007"
+    },
+    "num_list_users": 109384
+  },
+  "mal_details_updated_at": "2026-11-10T01:32:16.699Z"
 }

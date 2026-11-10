@@ -31,8 +31,8 @@
   "num_episodes": 1,
   "score": 8.93,
   "mean": 8.93,
-  "numListUsers": 2678139,
-  "num_list_users": 2678139,
+  "numListUsers": 2678219,
+  "num_list_users": 2678219,
   "genres": [
     {
       "id": 46,
@@ -53,7 +53,15 @@
       "name": "Kyoto Animation"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/6/79634l.jpg",
+    "https://cdn.myanimelist.net/images/anime/3/80136l.jpg",
+    "https://cdn.myanimelist.net/images/anime/10/80797l.jpg",
+    "https://cdn.myanimelist.net/images/anime/9/84678l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1122/96435l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1254/109618l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1347/134168l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/5lAMQMWpXMsirvtLLvW7cJgEPkU.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/ft2kEgH3VZsuPnob3DgfeSutsAD.png",
   "tmdb_id": "378064",
@@ -177,30 +185,164 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1122/96435l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1122/96435l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1122/96435l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1122/96435l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1122/96435l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1122/96435l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1122/96435l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1122/96435l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1122/96435l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1122/96435l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/6/79634l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/6/79634l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/6/79634l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/6/79634l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/6/79634l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/6/79634l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/6/79634l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/6/79634l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/6/79634l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/6/79634l.jpg"
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
+  "rank": 21,
+  "popularity": 19,
+  "num_scoring_users": 1840941,
+  "nsfw": "white",
+  "created_at": "2014-12-15T08:00:46+00:00",
+  "updated_at": "2024-09-16T20:40:52+00:00",
+  "source": "manga",
+  "rating": "pg_13",
+  "background": "Koe no Katachi won the following awards: Japanese Movie Critics Awards for Best Animation Feature Film in 2016; Japanese Academy Award for Excellent Animation of the Year in 2016; Tokyo Anime Award Festival for Anime of the Year (movie) & Best Screenplay / Original Story (Reiko Yoshida) in 2017; Japan Media Arts Festival for Animation Division - Excellence Award in 2017; Japan Movie Critics Awards for Best Animation of the Year in 2017; and Camera Japan Festival for Feature Film in 2017.",
+  "related_anime": [
+    {
+      "node": {
+        "id": 35566,
+        "title": "Koe no Katachi Specials",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1231/98784.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1231/98784l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 32281,
+        "title": "Kimi no Na wa.",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/5/87048.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/5/87048l.jpg"
+        }
+      },
+      "num_recommendations": 51
+    },
+    {
+      "node": {
+        "id": 40787,
+        "title": "Josee to Tora to Sakana-tachi",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1714/108892.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1714/108892l.jpg"
+        }
+      },
+      "num_recommendations": 31
+    },
+    {
+      "node": {
+        "id": 28725,
+        "title": "Kokoro ga Sakebitagatterunda.",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1245/112628.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1245/112628l.webp"
+        }
+      },
+      "num_recommendations": 24
+    },
+    {
+      "node": {
+        "id": 9989,
+        "title": "Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/5/79697.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/5/79697l.jpg"
+        }
+      },
+      "num_recommendations": 23
+    },
+    {
+      "node": {
+        "id": 36098,
+        "title": "Kimi no Suizou wo Tabetai",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1768/93291.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1768/93291l.jpg"
+        }
+      },
+      "num_recommendations": 22
+    },
+    {
+      "node": {
+        "id": 33352,
+        "title": "Violet Evergarden",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1795/95088.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1795/95088l.webp"
+        }
+      },
+      "num_recommendations": 11
+    },
+    {
+      "node": {
+        "id": 23273,
+        "title": "Shigatsu wa Kimi no Uso",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1405/143284.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1405/143284l.jpg"
+        }
+      },
+      "num_recommendations": 9
+    },
+    {
+      "node": {
+        "id": 55866,
+        "title": "Yubisaki to Renren",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1478/140828.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1478/140828l.jpg"
+        }
+      },
+      "num_recommendations": 9
+    },
+    {
+      "node": {
+        "id": 31043,
+        "title": "Boku dake ga Inai Machi",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/77957.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/77957l.jpg"
+        }
+      },
+      "num_recommendations": 6
+    },
+    {
+      "node": {
+        "id": 31646,
+        "title": "3-gatsu no Lion",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1590/154000.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1590/154000l.jpg"
+        }
+      },
+      "num_recommendations": 6
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "58401",
+      "completed": "2307994",
+      "on_hold": "7492",
+      "dropped": "3810",
+      "plan_to_watch": "299960"
+    },
+    "num_list_users": 2677657
+  },
+  "mal_details_updated_at": "2026-11-10T01:27:52.993Z"
 }

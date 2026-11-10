@@ -55,7 +55,10 @@
       "name": "Production I.G"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/7/30759l.jpg",
+    "https://cdn.myanimelist.net/images/anime/2/63279l.jpg"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
@@ -242,17 +245,40 @@
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
+  "rank": 935,
+  "popularity": 2936,
+  "num_scoring_users": 42892,
+  "nsfw": "white",
+  "created_at": "2011-07-30T20:51:15+00:00",
+  "updated_at": "2022-04-03T03:12:42+00:00",
+  "source": "manga",
+  "rating": "pg_13",
+  "background": "Usagi Drop Specials are four short episodes included with the Blu-ray and DVD release of Usagi Drop.",
+  "related_anime": [
+    {
+      "node": {
+        "id": 10162,
+        "title": "Usagi Drop",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1460/98853.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1460/98853l.jpg"
+        }
+      },
+      "relation_type": "parent_story",
+      "relation_type_formatted": "Parent story"
+    }
+  ],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": "1614",
+      "completed": "60981",
+      "on_hold": "883",
+      "dropped": "524",
+      "plan_to_watch": "11636"
+    },
+    "num_list_users": 75638
+  },
+  "mal_details_updated_at": "2026-11-10T01:26:59.387Z"
 }

@@ -57,7 +57,13 @@
       "name": "Madhouse"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/10/22268l.jpg",
+    "https://cdn.myanimelist.net/images/anime/6/56043l.jpg",
+    "https://cdn.myanimelist.net/images/anime/8/75529l.jpg",
+    "https://cdn.myanimelist.net/images/anime/13/77819l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1771/143104l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/9Sz85jzgFAt2NUWV6e9AfJUSRkM.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/8NcZWGDedMIfkH2NQNxZe4mV8JR.png",
   "tmdb_id": "12598",
@@ -181,30 +187,131 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/8/75529l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/8/75529l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/8/75529l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/8/75529l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/8/75529l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/8/75529l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/8/75529l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/8/75529l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/75529l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/8/75529l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/10/22268l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/10/22268l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/22268l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/10/22268l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/22268l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/10/22268l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/10/22268l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/10/22268l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/22268l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/10/22268l.jpg"
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 712,
+  "popularity": 861,
+  "num_scoring_users": 189431,
+  "nsfw": "white",
+  "created_at": "2008-07-13T05:52:57+00:00",
+  "updated_at": "2022-06-12T05:31:30+00:00",
+  "source": "manga",
+  "rating": "r+",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 1519,
+        "title": "Black Lagoon: The Second Barrage",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1701/152849.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1701/152849l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 777,
+        "title": "Hellsing Ultimate",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1012/143965.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1012/143965l.jpg"
+        }
+      },
+      "num_recommendations": 4
+    },
+    {
+      "node": {
+        "id": 11679,
+        "title": "Chainsaw Maid",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/6/32575.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/6/32575l.jpg"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 26,
+        "title": "Texhnolyze",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1027/131977.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1027/131977l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 8100,
+        "title": "Mardock Scramble: The First Compression",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/3/26215.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/3/26215l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 5356,
+        "title": "Canaan",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/4/75789.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/4/75789l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 52193,
+        "title": "Akiba Meido Sensou",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1217/129604.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1217/129604l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 36525,
+        "title": "Dorei-ku The Animation",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1801/90264.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1801/90264l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "10989",
+      "completed": "247937",
+      "on_hold": "4755",
+      "dropped": "2354",
+      "plan_to_watch": "71276"
+    },
+    "num_list_users": 337311
+  },
+  "mal_details_updated_at": "2026-11-10T01:30:32.429Z"
 }

@@ -70,7 +70,16 @@
       "name": "Production I.G"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/4/11131l.jpg",
+    "https://cdn.myanimelist.net/images/anime/12/23255l.jpg",
+    "https://cdn.myanimelist.net/images/anime/12/39305l.jpg",
+    "https://cdn.myanimelist.net/images/anime/13/83080l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1080/97658l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1404/98182l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1597/113123l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1543/146865l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/2NNKYsWXoO9w8fMctWX7utqyh95.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/jNIXy1QNfYKzHCarH043bjOjBOD.png",
   "tmdb_id": "890",
@@ -114,30 +123,176 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1404/98182l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1404/98182l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1404/98182l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1404/98182l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1404/98182l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1404/98182l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1404/98182l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1404/98182l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1404/98182l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1404/98182l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/4/11131l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/4/11131l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/11131l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/4/11131l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/11131l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/4/11131l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/4/11131l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/4/11131l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/11131l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/4/11131l.jpg"
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
+  "rank": 130,
+  "popularity": 178,
+  "num_scoring_users": 714108,
+  "nsfw": "white",
+  "created_at": "2005-11-11T01:37:28+00:00",
+  "updated_at": "2025-10-17T22:55:48+00:00",
+  "source": "original",
+  "rating": "r+",
+  "background": "Shinseiki Evangelion Movie: Air/Magokoro wo, Kimi ni is an alternate version of the series ending, which either supplements or replaces episodes 25 and 26, depending on how they are viewed.\n\nThe movie was awarded the Animage Anime Grand Prix prize for 1997, the Japan Academy Prize for Biggest Public Sensation of the Year, and Special Audience Choice Award by the 1997 Animation Kobe.",
+  "related_anime": [
+    {
+      "node": {
+        "id": 30,
+        "title": "Shinseiki Evangelion",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1314/108941.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1314/108941l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    },
+    {
+      "node": {
+        "id": 31,
+        "title": "Shinseiki Evangelion Movie: Shi to Shinsei",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1993/113122.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1993/113122l.webp"
+        }
+      },
+      "relation_type": "summary",
+      "relation_type_formatted": "Summary"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 11981,
+        "title": "Mahou Shoujo Madoka☆Magica Movie 3: Hangyaku no Monogatari",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/5/54231.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/5/54231l.jpg"
+        }
+      },
+      "num_recommendations": 18
+    },
+    {
+      "node": {
+        "id": 35120,
+        "title": "Devilman: Crybaby",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/2/89973.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/2/89973l.webp"
+        }
+      },
+      "num_recommendations": 11
+    },
+    {
+      "node": {
+        "id": 47,
+        "title": "Akira",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1408/114012.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1408/114012l.webp"
+        }
+      },
+      "num_recommendations": 9
+    },
+    {
+      "node": {
+        "id": 2761,
+        "title": "Densetsu Kyojin Ideon: Hatsudou-hen",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1146/91266.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1146/91266l.webp"
+        }
+      },
+      "num_recommendations": 6
+    },
+    {
+      "node": {
+        "id": 437,
+        "title": "Perfect Blue",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1254/134212.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1254/134212l.jpg"
+        }
+      },
+      "num_recommendations": 4
+    },
+    {
+      "node": {
+        "id": 7311,
+        "title": "Suzumiya Haruhi no Shoushitsu",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1248/112352.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1248/112352l.jpg"
+        }
+      },
+      "num_recommendations": 4
+    },
+    {
+      "node": {
+        "id": 51535,
+        "title": "Shingeki no Kyojin: The Final Season - Kanketsu-hen",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1279/131078.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1279/131078l.jpg"
+        }
+      },
+      "num_recommendations": 3
+    },
+    {
+      "node": {
+        "id": 4282,
+        "title": "Kara no Kyoukai Movie 5: Mujun Rasen",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1574/112838.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1574/112838l.jpg"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 790,
+        "title": "Ergo Proxy",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1183/136187.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1183/136187l.webp"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 1023,
+        "title": "Wolf's Rain OVA",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1091/134883.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1091/134883l.jpg"
+        }
+      },
+      "num_recommendations": 2
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "18733",
+      "completed": "912904",
+      "on_hold": "4459",
+      "dropped": "2761",
+      "plan_to_watch": "129997"
+    },
+    "num_list_users": 1068854
+  },
+  "mal_details_updated_at": "2026-11-10T01:28:34.872Z"
 }

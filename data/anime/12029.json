@@ -67,7 +67,19 @@
       "name": "AIC"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/2/36607l.jpg",
+    "https://cdn.myanimelist.net/images/anime/6/47827l.jpg",
+    "https://cdn.myanimelist.net/images/anime/7/47829l.jpg",
+    "https://cdn.myanimelist.net/images/anime/10/52857l.jpg",
+    "https://cdn.myanimelist.net/images/anime/3/52859l.jpg",
+    "https://cdn.myanimelist.net/images/anime/3/52861l.jpg",
+    "https://cdn.myanimelist.net/images/anime/8/52863l.jpg",
+    "https://cdn.myanimelist.net/images/anime/7/73254l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1937/95640l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1581/96758l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1536/98842l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/brYhQqpUjX1s6n6pBGquzeobEwr.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/ncREFdorzcBcTWrBHLItE9BEOf4.png",
   "tmdb_id": "45844",
@@ -474,17 +486,211 @@
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
+  "rank": 320,
+  "popularity": 2059,
+  "num_scoring_users": 42318,
+  "nsfw": "white",
+  "created_at": "2011-11-14T10:07:35+00:00",
+  "updated_at": "2023-01-14T04:18:42+00:00",
+  "source": "original",
+  "rating": "pg_13",
+  "background": "The series will be sold in the same theaters that show the Yamato movies on the same days, i.e. a simultaneous release.\n\nThe first two episodes of the TV series (which is the same as the OVA series) were pre-aired on the Family Gekijou cable and satellite channel on 6th and 7th of April, 2012. The rest of the episodes was aired on MBS & TBS beginning April 7, 2013.",
+  "related_anime": [
+    {
+      "node": {
+        "id": 1650,
+        "title": "Uchuu Senkan Yamato",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/12/16154.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/12/16154l.jpg"
+        }
+      },
+      "relation_type": "alternative_version",
+      "relation_type_formatted": "Alternative version"
+    },
+    {
+      "node": {
+        "id": 23249,
+        "title": "Uchuu Senkan Yamato 2199: Hoshimeguru Hakobune",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/2/67623.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/2/67623l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 23931,
+        "title": "Uchuu Senkan Yamato 2199: Tsuioku no Koukai",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/11/62689.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/11/62689l.webp"
+        }
+      },
+      "relation_type": "summary",
+      "relation_type_formatted": "Summary"
+    },
+    {
+      "node": {
+        "id": 33064,
+        "title": "Uchuu Senkan Yamato 2202: Ai no Senshi-tachi",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/7/84463.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/7/84463l.jpg"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    },
+    {
+      "node": {
+        "id": 40554,
+        "title": "\"Uchuu Senkan Yamato\" to Iu Jidai: Seireki 2202-nen no Sentaku",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1893/119194.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1893/119194l.jpg"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    },
+    {
+      "node": {
+        "id": 65124,
+        "title": "Uchuu Senkan Yamato √2199",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1054/160417.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1054/160417l.jpg"
+        }
+      },
+      "relation_type": "alternative_version",
+      "relation_type_formatted": "Alternative version"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 820,
+        "title": "Ginga Eiyuu Densetsu",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1976/142016.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1976/142016l.jpg"
+        }
+      },
+      "num_recommendations": 8
+    },
+    {
+      "node": {
+        "id": 39198,
+        "title": "Kanata no Astra",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1784/106428.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1784/106428l.jpg"
+        }
+      },
+      "num_recommendations": 4
+    },
+    {
+      "node": {
+        "id": 2002,
+        "title": "Heroic Age",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/12/50435.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/12/50435l.jpg"
+        }
+      },
+      "num_recommendations": 4
+    },
+    {
+      "node": {
+        "id": 2158,
+        "title": "Terra e... (TV)",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1013/117558.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1013/117558l.webp"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 19775,
+        "title": "Sidonia no Kishi",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/12/53257.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/12/53257l.jpg"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 30,
+        "title": "Shinseiki Evangelion",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1314/108941.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1314/108941l.jpg"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 17269,
+        "title": "Captain Herlock",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/5/62619.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/5/62619l.jpg"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 342,
+        "title": "Starship Operators",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1961/153265.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1961/153265l.jpg"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 29,
+        "title": "Zipang",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/13/75740.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/13/75740l.webp"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 949,
+        "title": "Top wo Nerae! Gunbuster",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1303/92309.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1303/92309l.webp"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "8653",
+      "completed": "50301",
+      "on_hold": "4428",
+      "dropped": "2686",
+      "plan_to_watch": "61932"
+    },
+    "num_list_users": 128000
+  },
+  "mal_details_updated_at": "2026-11-10T01:27:03.993Z"
 }

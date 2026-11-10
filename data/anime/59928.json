@@ -56,7 +56,11 @@
       "name": "Passione"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1924/145718l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1664/153382l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1944/159799l.jpg"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
@@ -66,42 +70,65 @@
   "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1944/159799.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1944/159799l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1944/159799.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1944/159799l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1944/159799.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1944/159799l.webp",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1944/159799.webp",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1944/159799l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1944/159799.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1944/159799l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1944/159799.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1944/159799l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1944/159799l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1944/159799l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1944/159799l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1944/159799l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1944/159799l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1944/159799l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1944/159799l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1944/159799l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1944/159799l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1944/159799l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1924/145718l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1924/145718l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1924/145718l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1924/145718l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1924/145718l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1924/145718l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1924/145718l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1924/145718l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1924/145718l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1924/145718l.jpg"
     }
   },
   "broadcast": null,
   "rank": null,
-  "popularity": null,
+  "popularity": 3744,
   "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "nsfw": "white",
+  "created_at": "2024-09-23T17:39:38+00:00",
+  "updated_at": "2026-08-31T10:03:52+00:00",
+  "source": "light_novel",
+  "rating": "pg_13",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 51122,
+        "title": "Ookami to Koushinryou: Merchant Meets the Wise Wolf",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1059/142414.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1059/142414l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    }
+  ],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": "5",
+      "completed": 0,
+      "on_hold": 0,
+      "dropped": 0,
+      "plan_to_watch": "49471"
+    },
+    "num_list_users": 49476
+  },
+  "mal_details_updated_at": "2026-11-10T01:32:20.375Z"
 }

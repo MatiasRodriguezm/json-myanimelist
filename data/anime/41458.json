@@ -49,7 +49,9 @@
       "name": "Directions"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1860/106477l.jpg"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
@@ -91,17 +93,27 @@
     "timezone": "Asia/Tokyo",
     "string": "tuesday 07:30"
   },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
+  "rank": 19786,
+  "popularity": 19381,
+  "num_scoring_users": 31,
+  "nsfw": "white",
+  "created_at": "2020-03-15T21:43:15+00:00",
+  "updated_at": "2020-03-19T08:25:42+00:00",
   "source": null,
-  "rating": null,
+  "rating": "pg",
   "background": null,
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": "105",
+      "completed": 0,
+      "on_hold": "32",
+      "dropped": "191",
+      "plan_to_watch": "150"
+    },
+    "num_list_users": 478
+  },
+  "mal_details_updated_at": "2026-11-10T01:29:20.716Z"
 }

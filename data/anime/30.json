@@ -74,7 +74,23 @@
       "name": "Tatsunoko Production"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/3/9715l.jpg",
+    "https://cdn.myanimelist.net/images/anime/12/21418l.jpg",
+    "https://cdn.myanimelist.net/images/anime/12/21419l.jpg",
+    "https://cdn.myanimelist.net/images/anime/11/21420l.jpg",
+    "https://cdn.myanimelist.net/images/anime/5/41855l.jpg",
+    "https://cdn.myanimelist.net/images/anime/3/75616l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1504/105553l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1672/108931l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1314/108941l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1013/109039l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1871/109180l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1299/117604l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1553/124400l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1167/145092l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1709/159000l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/2NNKYsWXoO9w8fMctWX7utqyh95.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/jNIXy1QNfYKzHCarH043bjOjBOD.png",
   "tmdb_id": "890",
@@ -558,16 +574,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1314/108941l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1314/108941l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1314/108941l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1314/108941l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1314/108941l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1314/108941l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1314/108941l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1314/108941l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1314/108941l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1314/108941l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/3/9715l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/3/9715l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/9715l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/3/9715l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/9715l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/3/9715l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/3/9715l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/3/9715l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/9715l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/3/9715l.jpg"
     }
   },
   "broadcast": {
@@ -578,17 +594,343 @@
     "timezone": "Asia/Tokyo",
     "string": "wednesday 18:30"
   },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
+  "rank": 259,
+  "popularity": 42,
+  "num_scoring_users": 1243462,
+  "nsfw": "white",
+  "created_at": "2005-11-11T01:35:10+00:00",
+  "updated_at": "2026-02-23T11:09:50+00:00",
+  "source": "original",
+  "rating": "pg_13",
+  "background": "Director Hideaki Anno's depression is what led to the dark themes of Shinseiki Evangelion. Budgetary problems and parental complaints about content led to the original ending being scrapped and replaced with an extremely limited-animation ending breaking from the main plot. A movie, Air/Magokoro wo, Kimi ni, was later made based in part on the original planned ending and in part on Anno's increasing frustration with the otaku fanbase. The series' mix of psychoanalysis, religious symbolism, and genre deconstruction proved extremely influential on mature anime in the late '90s onward. The Japan Media Arts Festival in 2006 ranked it as the most popular anime of all time. ",
+  "related_anime": [
+    {
+      "node": {
+        "id": 31,
+        "title": "Shinseiki Evangelion Movie: Shi to Shinsei",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1993/113122.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1993/113122l.webp"
+        }
+      },
+      "relation_type": "summary",
+      "relation_type_formatted": "Summary"
+    },
+    {
+      "node": {
+        "id": 32,
+        "title": "Shinseiki Evangelion Movie: Air/Magokoro wo, Kimi ni",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1404/98182.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1404/98182l.jpg"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    },
+    {
+      "node": {
+        "id": 2759,
+        "title": "Evangelion Movie 1: Jo",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/7/74975.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/7/74975l.jpg"
+        }
+      },
+      "relation_type": "alternative_version",
+      "relation_type_formatted": "Alternative version"
+    },
+    {
+      "node": {
+        "id": 3784,
+        "title": "Evangelion Movie 2: Ha",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/5/74983.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/5/74983l.jpg"
+        }
+      },
+      "relation_type": "alternative_version",
+      "relation_type_formatted": "Alternative version"
+    },
+    {
+      "node": {
+        "id": 3785,
+        "title": "Evangelion Movie 3: Q",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/9/43201.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/9/43201l.jpg"
+        }
+      },
+      "relation_type": "alternative_version",
+      "relation_type_formatted": "Alternative version"
+    },
+    {
+      "node": {
+        "id": 3786,
+        "title": "Shin Evangelion Movie:||",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1422/113533.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1422/113533l.jpg"
+        }
+      },
+      "relation_type": "alternative_version",
+      "relation_type_formatted": "Alternative version"
+    },
+    {
+      "node": {
+        "id": 4130,
+        "title": "Petit Eva: Evangelion@School",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/7593.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/7593l.jpg"
+        }
+      },
+      "relation_type": "spin_off",
+      "relation_type_formatted": "Spin-off"
+    },
+    {
+      "node": {
+        "id": 23023,
+        "title": "Peaceful Times (F02) Petit Film",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/2/84543.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/2/84543l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 28149,
+        "title": "Nihon Animator Mihonichi",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/11/71901.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/11/71901l.webp"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 31115,
+        "title": "Schick x Evangelion",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/3/74747.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/3/74747l.jpg"
+        }
+      },
+      "relation_type": "character",
+      "relation_type_formatted": "Character"
+    },
+    {
+      "node": {
+        "id": 41030,
+        "title": "Evangelion Shito, Hakata Shuurai",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1175/117752.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1175/117752l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 43745,
+        "title": "Attack Zero x Evangelion",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1662/110189.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1662/110189l.jpg"
+        }
+      },
+      "relation_type": "character",
+      "relation_type_formatted": "Character"
+    },
+    {
+      "node": {
+        "id": 43751,
+        "title": "Ayanami Rei, Hajimete no Kuchibeni",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1576/110060.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1576/110060l.webp"
+        }
+      },
+      "relation_type": "character",
+      "relation_type_formatted": "Character"
+    },
+    {
+      "node": {
+        "id": 47307,
+        "title": "Shin Gengou Nyankogelion",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1695/111498.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1695/111498l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 63018,
+        "title": "Evangelion: Chao Xianshi",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1087/153890.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1087/153890l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 63392,
+        "title": "Evangelion: Housou 30-shuunen Kinen Tokubetsu Kougyou",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1899/156991.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1899/156991l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 63534,
+        "title": "Shinseiki Evangelion (Shinsaku Series)",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1186/155596.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1186/155596l.webp"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 9756,
+        "title": "Mahou Shoujo Madoka☆Magica",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/11/55225.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/11/55225l.jpg"
+        }
+      },
+      "num_recommendations": 64
+    },
+    {
+      "node": {
+        "id": 339,
+        "title": "Serial Experiments Lain",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1718/91550.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1718/91550l.webp"
+        }
+      },
+      "num_recommendations": 59
+    },
+    {
+      "node": {
+        "id": 35849,
+        "title": "Darling in the FranXX",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1614/90408.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1614/90408l.webp"
+        }
+      },
+      "num_recommendations": 42
+    },
+    {
+      "node": {
+        "id": 165,
+        "title": "RahXephon",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/13/75168.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/13/75168l.jpg"
+        }
+      },
+      "num_recommendations": 40
+    },
+    {
+      "node": {
+        "id": 2001,
+        "title": "Tengen Toppa Gurren Lagann",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/4/5123.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/4/5123l.webp"
+        }
+      },
+      "num_recommendations": 36
+    },
+    {
+      "node": {
+        "id": 1690,
+        "title": "Bokura no",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1690/97048.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1690/97048l.jpg"
+        }
+      },
+      "num_recommendations": 31
+    },
+    {
+      "node": {
+        "id": 16498,
+        "title": "Shingeki no Kyojin",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/47347.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/47347l.jpg"
+        }
+      },
+      "num_recommendations": 30
+    },
+    {
+      "node": {
+        "id": 237,
+        "title": "Koukyoushihen Eureka Seven",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/12/34443.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/12/34443l.jpg"
+        }
+      },
+      "num_recommendations": 28
+    },
+    {
+      "node": {
+        "id": 440,
+        "title": "Shoujo Kakumei Utena",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1078/95285.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1078/95285l.jpg"
+        }
+      },
+      "num_recommendations": 24
+    },
+    {
+      "node": {
+        "id": 949,
+        "title": "Top wo Nerae! Gunbuster",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1303/92309.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1303/92309l.webp"
+        }
+      },
+      "num_recommendations": 20
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "130807",
+      "completed": "1491993",
+      "on_hold": "62483",
+      "dropped": "37299",
+      "plan_to_watch": "354341"
+    },
+    "num_list_users": 2076923
+  },
+  "mal_details_updated_at": "2026-11-10T01:28:25.427Z"
 }

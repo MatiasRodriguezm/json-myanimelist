@@ -58,7 +58,9 @@
       "name": "Lerche"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1031/115154l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/k76NuWGNLInN9WjhH7zhAcXBxvX.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/7pmbyITQ2fdMfqv9gwCxNnEkMaV.png",
   "tmdb_id": "88040",
@@ -104,17 +106,52 @@
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
+  "rank": 559,
+  "popularity": 2388,
+  "num_scoring_users": 47308,
+  "nsfw": "gray",
+  "created_at": "2021-05-26T13:22:21+00:00",
+  "updated_at": "2023-09-07T08:03:25+00:00",
+  "source": "manga",
+  "rating": "pg_13",
+  "background": "Given: Uragawa no Sonzai is bundled with the special edition of the seventh volume of the manga. It includes scenes that were not shown in Given Movie.",
+  "related_anime": [
+    {
+      "node": {
+        "id": 40421,
+        "title": "Given Movie 1",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1648/111422.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1648/111422l.jpg"
+        }
+      },
+      "relation_type": "parent_story",
+      "relation_type_formatted": "Parent story"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 40615,
+        "title": "Umibe no Étranger",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1668/108792.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1668/108792l.webp"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "1534",
+      "completed": "70078",
+      "on_hold": "455",
+      "dropped": "453",
+      "plan_to_watch": "32813"
+    },
+    "num_list_users": 105333
+  },
+  "mal_details_updated_at": "2026-11-10T01:30:33.128Z"
 }

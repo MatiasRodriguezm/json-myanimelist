@@ -59,7 +59,11 @@
       "name": "Shaft"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/3/72754l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1954/132952l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1913/146300l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/POCKoyMDc7YH50vlTyjicqJgqW.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/kqgRbdzbIY00BZsEIPYvuCPhEyE.png",
   "tmdb_id": "45893",
@@ -102,30 +106,76 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1913/146300l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1913/146300l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1913/146300l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1913/146300l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1913/146300l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1913/146300l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1913/146300l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1913/146300l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1913/146300l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1913/146300l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/3/72754l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/3/72754l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/72754l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/3/72754l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/72754l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/3/72754l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/3/72754l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/3/72754l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/72754l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/3/72754l.jpg"
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 561,
+  "popularity": 6019,
+  "num_scoring_users": 7351,
+  "nsfw": "white",
+  "created_at": "2013-03-08T11:54:54+00:00",
+  "updated_at": "2023-09-12T22:27:57+00:00",
+  "source": "4_koma_manga",
+  "rating": "pg_13",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 11239,
+        "title": "Hidamari Sketch x Honeycomb",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/2/50501.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/2/50501l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 7044,
+        "title": "Zan Sayonara Zetsubou Sensei Bangaichi",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/9/17699.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/9/17699l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 48411,
+        "title": "Aria the Benedizione",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1707/117069.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1707/117069l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "686",
+      "completed": "10854",
+      "on_hold": "237",
+      "dropped": "309",
+      "plan_to_watch": "5107"
+    },
+    "num_list_users": 17193
+  },
+  "mal_details_updated_at": "2026-11-10T01:27:19.140Z"
 }

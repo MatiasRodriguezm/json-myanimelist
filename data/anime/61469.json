@@ -33,8 +33,8 @@
   "num_episodes": null,
   "score": 9.03,
   "mean": 9.03,
-  "numListUsers": 256222,
-  "num_list_users": 256222,
+  "numListUsers": 256226,
+  "num_list_users": 256226,
   "genres": [
     {
       "id": 1,
@@ -75,7 +75,13 @@
       "name": "David Production"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1891/149307l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1723/152195l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1448/154111l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1228/154477l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1065/158884l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/l2gc2dPRUPe3bAfYCRTjc6uAMmB.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/bfcHax3WxaoqiRXzCkKjmd2myR8.png",
   "tmdb_id": "45790",
@@ -218,30 +224,98 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1065/158884l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1065/158884l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1065/158884l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1065/158884l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1065/158884l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1065/158884l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1065/158884l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1065/158884l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1065/158884l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1065/158884l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1891/149307l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1891/149307l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1891/149307l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1891/149307l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1891/149307l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1891/149307l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1891/149307l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1891/149307l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1891/149307l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1891/149307l.jpg"
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 10,
+  "popularity": 1144,
+  "num_scoring_users": 114358,
+  "nsfw": "white",
+  "created_at": "2025-04-12T12:07:07+00:00",
+  "updated_at": "2026-10-31T13:10:45+00:00",
+  "source": "manga",
+  "rating": "r",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 53273,
+        "title": "JoJo no Kimyou na Bouken Part 6: Stone Ocean Part 3",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1233/128920.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1233/128920l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 59636,
+        "title": "Uma Musume: Cinderella Gray",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1626/148097.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1626/148097l.jpg"
+        }
+      },
+      "num_recommendations": 4
+    },
+    {
+      "node": {
+        "id": 40532,
+        "title": "Appare-Ranman!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1087/111636.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1087/111636l.jpg"
+        }
+      },
+      "num_recommendations": 3
+    },
+    {
+      "node": {
+        "id": 6,
+        "title": "Trigun",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1130/120002.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1130/120002l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 30694,
+        "title": "Dragon Ball Super",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/7/74606.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/7/74606l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "186487",
+      "completed": "160",
+      "on_hold": "6805",
+      "dropped": "1936",
+      "plan_to_watch": "60697"
+    },
+    "num_list_users": 256085
+  },
+  "mal_details_updated_at": "2026-11-10T01:32:47.240Z"
 }

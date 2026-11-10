@@ -74,7 +74,17 @@
       "name": "Wit Studio"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/10/47347l.jpg",
+    "https://cdn.myanimelist.net/images/anime/13/55237l.jpg",
+    "https://cdn.myanimelist.net/images/anime/12/56785l.jpg",
+    "https://cdn.myanimelist.net/images/anime/12/56787l.jpg",
+    "https://cdn.myanimelist.net/images/anime/13/60591l.jpg",
+    "https://cdn.myanimelist.net/images/anime/11/60593l.jpg",
+    "https://cdn.myanimelist.net/images/anime/8/63799l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1409/104606l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1907/134102l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/rqbCbjB19amtOtFQbb3K2lgm2zv.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/eHMfVTIwen9anB4HuvQlFRGZFms.png",
   "tmdb_id": "1429",
@@ -518,17 +528,283 @@
     "timezone": "Asia/Tokyo",
     "string": "sunday 01:58"
   },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
+  "rank": 129,
+  "popularity": 1,
+  "num_scoring_users": 3127155,
+  "nsfw": "white",
+  "created_at": "2012-12-05T12:03:21+00:00",
+  "updated_at": "2024-08-17T18:09:07+00:00",
+  "source": "manga",
+  "rating": "r",
+  "background": "Shingeki no Kyojin adapts content from the first eight volumes of Hajime Isayama's award-winning manga of the same name. The anime won the Animation of the Year in the Television category at the Tokyo Anime Award Festival in 2014.",
+  "related_anime": [
+    {
+      "node": {
+        "id": 18397,
+        "title": "Shingeki no Kyojin OVA",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/9/59221.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/9/59221l.webp"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 19285,
+        "title": "Shingeki no Kyojin: Ano Hi Kara",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/3/51715.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/3/51715l.jpg"
+        }
+      },
+      "relation_type": "summary",
+      "relation_type_formatted": "Summary"
+    },
+    {
+      "node": {
+        "id": 19391,
+        "title": "Shingeki no Kyojin Picture Drama",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/8/53477.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/8/53477l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 23775,
+        "title": "Shingeki no Kyojin Movie 1: Guren no Yumiya",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/7/63283.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/7/63283l.jpg"
+        }
+      },
+      "relation_type": "summary",
+      "relation_type_formatted": "Summary"
+    },
+    {
+      "node": {
+        "id": 23777,
+        "title": "Shingeki no Kyojin Movie 2: Jiyuu no Tsubasa",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/2/72510.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/2/72510l.jpg"
+        }
+      },
+      "relation_type": "summary",
+      "relation_type_formatted": "Summary"
+    },
+    {
+      "node": {
+        "id": 25777,
+        "title": "Shingeki no Kyojin Season 2",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/4/84177.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/4/84177l.jpg"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    },
+    {
+      "node": {
+        "id": 25781,
+        "title": "Shingeki no Kyojin: Kuinaki Sentaku",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/8/69497.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/8/69497l.webp"
+        }
+      },
+      "relation_type": "spin_off",
+      "relation_type_formatted": "Spin-off"
+    },
+    {
+      "node": {
+        "id": 31374,
+        "title": "Shingeki! Kyojin Chuugakkou",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/3/75467.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/3/75467l.webp"
+        }
+      },
+      "relation_type": "spin_off",
+      "relation_type_formatted": "Spin-off"
+    },
+    {
+      "node": {
+        "id": 35122,
+        "title": "Shingeki no Kyotou",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/3/84716.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/3/84716l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 36106,
+        "title": "Shingeki no Kyojin: Lost Girls",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/3/89417.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/3/89417l.jpg"
+        }
+      },
+      "relation_type": "spin_off",
+      "relation_type_formatted": "Spin-off"
+    },
+    {
+      "node": {
+        "id": 42091,
+        "title": "Shingeki no Kyojin: Chronicle",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1786/110717.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1786/110717l.jpg"
+        }
+      },
+      "relation_type": "summary",
+      "relation_type_formatted": "Summary"
+    },
+    {
+      "node": {
+        "id": 49739,
+        "title": "Snickers x Shingeki no Kyojin",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1305/123620.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1305/123620l.jpg"
+        }
+      },
+      "relation_type": "character",
+      "relation_type_formatted": "Character"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 28623,
+        "title": "Koutetsujou no Kabaneri",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/12/79164.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/12/79164l.webp"
+        }
+      },
+      "num_recommendations": 109
+    },
+    {
+      "node": {
+        "id": 37779,
+        "title": "Yakusoku no Neverland",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1830/118780.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1830/118780l.webp"
+        }
+      },
+      "num_recommendations": 52
+    },
+    {
+      "node": {
+        "id": 26243,
+        "title": "Owari no Seraph",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1879/148979.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1879/148979l.jpg"
+        }
+      },
+      "num_recommendations": 48
+    },
+    {
+      "node": {
+        "id": 5114,
+        "title": "Fullmetal Alchemist: Brotherhood",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1208/94745.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1208/94745l.jpg"
+        }
+      },
+      "num_recommendations": 46
+    },
+    {
+      "node": {
+        "id": 41457,
+        "title": "86",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1987/117507.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1987/117507l.jpg"
+        }
+      },
+      "num_recommendations": 46
+    },
+    {
+      "node": {
+        "id": 20787,
+        "title": "Black Bullet",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1292/94693.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1292/94693l.jpg"
+        }
+      },
+      "num_recommendations": 45
+    },
+    {
+      "node": {
+        "id": 37521,
+        "title": "Vinland Saga",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1500/103005.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1500/103005l.webp"
+        }
+      },
+      "num_recommendations": 44
+    },
+    {
+      "node": {
+        "id": 22319,
+        "title": "Tokyo Ghoul",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1498/134443.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1498/134443l.jpg"
+        }
+      },
+      "num_recommendations": 43
+    },
+    {
+      "node": {
+        "id": 19775,
+        "title": "Sidonia no Kishi",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/12/53257.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/12/53257l.jpg"
+        }
+      },
+      "num_recommendations": 36
+    },
+    {
+      "node": {
+        "id": 1818,
+        "title": "Claymore",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/3/21834.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/3/21834l.jpg"
+        }
+      },
+      "num_recommendations": 32
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "222173",
+      "completed": "3912435",
+      "on_hold": "55689",
+      "dropped": "67807",
+      "plan_to_watch": "193407"
+    },
+    "num_list_users": 4451511
+  },
+  "mal_details_updated_at": "2026-11-10T01:27:16.883Z"
 }

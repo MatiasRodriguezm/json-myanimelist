@@ -63,7 +63,20 @@
       "name": "Kyoto Animation"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/13/17544l.jpg",
+    "https://cdn.myanimelist.net/images/anime/2/17779l.jpg",
+    "https://cdn.myanimelist.net/images/anime/9/17783l.jpg",
+    "https://cdn.myanimelist.net/images/anime/7/19595l.jpg",
+    "https://cdn.myanimelist.net/images/anime/8/21368l.jpg",
+    "https://cdn.myanimelist.net/images/anime/9/24646l.jpg",
+    "https://cdn.myanimelist.net/images/anime/9/27751l.jpg",
+    "https://cdn.myanimelist.net/images/anime/10/75900l.jpg",
+    "https://cdn.myanimelist.net/images/anime/9/75902l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1867/109034l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1248/112352l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1313/154130l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/gDlx60iOCQjTLH53ybjAPOUyVIp.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/oWx5Iz6akegr1138bA08BCarJAv.png",
   "tmdb_id": "42511",
@@ -157,30 +170,176 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1248/112352l.webp",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1248/112352l.webp",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1248/112352l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1248/112352l.webp",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1248/112352l.webp",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1248/112352l.webp",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1248/112352l.webp",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1248/112352l.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1248/112352l.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1248/112352l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/13/17544l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/13/17544l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/13/17544l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/13/17544l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/13/17544l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/13/17544l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/13/17544l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/13/17544l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/13/17544l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/13/17544l.jpg"
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
+  "rank": 119,
+  "popularity": 381,
+  "num_scoring_users": 333614,
+  "nsfw": "white",
+  "created_at": "2009-10-08T18:06:42+00:00",
+  "updated_at": "2026-05-18T00:27:01+00:00",
+  "source": "light_novel",
+  "rating": "pg_13",
+  "background": "Suzumiya Haruhi no Shoushitsu won the Theatrical Film Award at the Animation Kobe Awards in 2010. The film earned an estimated 200 million yen in its first week of release in Japan; it also placed in the top 10 for Japanese box office sales in its first weekend.\n\nThe film was released on Blu-ray and DVD in Japan on December 18, 2010. The movie was released on the same formats in North America by Bandai Entertainment as The Disappearance of Haruhi Suzumiya on September 20, 2011. It was later republished by Funimation Entertainment on May 30, 2017.\n",
+  "related_anime": [
+    {
+      "node": {
+        "id": 4382,
+        "title": "Suzumiya Haruhi no Yuuutsu (2009)",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/8/75377.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/8/75377l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    },
+    {
+      "node": {
+        "id": 26351,
+        "title": "Nagato Yuki-chan no Shoushitsu",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/3/73527.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/3/73527l.webp"
+        }
+      },
+      "relation_type": "alternative_version",
+      "relation_type_formatted": "Alternative version"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 11577,
+        "title": "Steins;Gate Movie: Fuka Ryouiki no Déjà vu",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1611/112806.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1611/112806l.jpg"
+        }
+      },
+      "num_recommendations": 17
+    },
+    {
+      "node": {
+        "id": 38329,
+        "title": "Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1613/102179.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1613/102179l.webp"
+        }
+      },
+      "num_recommendations": 10
+    },
+    {
+      "node": {
+        "id": 9253,
+        "title": "Steins;Gate",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1935/127974.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1935/127974l.jpg"
+        }
+      },
+      "num_recommendations": 10
+    },
+    {
+      "node": {
+        "id": 13667,
+        "title": "Naruto: Shippuuden Movie 6 - Road to Ninja",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1620/94336.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1620/94336l.jpg"
+        }
+      },
+      "num_recommendations": 5
+    },
+    {
+      "node": {
+        "id": 3652,
+        "title": "Higurashi no Naku Koro ni Rei",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/4/14113.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/4/14113l.jpg"
+        }
+      },
+      "num_recommendations": 5
+    },
+    {
+      "node": {
+        "id": 2236,
+        "title": "Toki wo Kakeru Shoujo",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1/2432.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1/2432l.webp"
+        }
+      },
+      "num_recommendations": 4
+    },
+    {
+      "node": {
+        "id": 32281,
+        "title": "Kimi no Na wa.",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/5/87048.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/5/87048l.jpg"
+        }
+      },
+      "num_recommendations": 4
+    },
+    {
+      "node": {
+        "id": 32,
+        "title": "Shinseiki Evangelion Movie: Air/Magokoro wo, Kimi ni",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1404/98182.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1404/98182l.jpg"
+        }
+      },
+      "num_recommendations": 4
+    },
+    {
+      "node": {
+        "id": 11981,
+        "title": "Mahou Shoujo Madoka☆Magica Movie 3: Hangyaku no Monogatari",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/5/54231.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/5/54231l.jpg"
+        }
+      },
+      "num_recommendations": 3
+    },
+    {
+      "node": {
+        "id": 36999,
+        "title": "Zoku Owarimonogatari",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1022/96168.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1022/96168l.webp"
+        }
+      },
+      "num_recommendations": 3
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "18694",
+      "completed": "425592",
+      "on_hold": "6916",
+      "dropped": "5576",
+      "plan_to_watch": "201937"
+    },
+    "num_list_users": 658715
+  },
+  "mal_details_updated_at": "2026-11-10T01:37:45.748Z"
 }

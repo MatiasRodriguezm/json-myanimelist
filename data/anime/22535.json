@@ -71,7 +71,15 @@
       "name": "Madhouse"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/6/60251l.jpg",
+    "https://cdn.myanimelist.net/images/anime/5/73085l.jpg",
+    "https://cdn.myanimelist.net/images/anime/3/73178l.jpg",
+    "https://cdn.myanimelist.net/images/anime/9/87459l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1754/91133l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1124/109867l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1584/109868l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/zfk6siC4KRXurG4jJzSXHy9szGQ.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/8oLjgf6yA5diemvMCFlh1E97dIG.png",
   "tmdb_id": "61459",
@@ -322,28 +330,28 @@
   "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/3/73178.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/73178l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/3/73178.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/3/73178l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/73178.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/73178l.webp",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/3/73178.webp",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/3/73178l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/3/73178.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/3/73178l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/3/73178.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/3/73178l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/3/73178l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/3/73178l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/3/73178l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/3/73178l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/73178l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/3/73178l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/3/73178l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/3/73178l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/73178l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/3/73178l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/6/60251l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/6/60251l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/6/60251l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/6/60251l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/6/60251l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/6/60251l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/6/60251l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/6/60251l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/6/60251l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/6/60251l.jpg"
     }
   },
   "broadcast": {
@@ -354,17 +362,138 @@
     "timezone": "Asia/Tokyo",
     "string": "thursday 01:29"
   },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
+  "rank": 311,
+  "popularity": 44,
+  "num_scoring_users": 1270279,
+  "nsfw": "white",
+  "created_at": "2014-02-06T15:37:45+00:00",
+  "updated_at": "2024-03-06T12:14:58+00:00",
+  "source": "manga",
+  "rating": "r",
+  "background": "The anime was simulcast by Crunchyroll outside of Asia.\n\nAside from the manga and anime, the series also has two live-action film adaptations.\n\nThe Chinese Ministry of Culture blacklisted Kiseijuu: Sei no Kakuritsu as well as 37 other works on June 9, 2015.",
   "related_anime": [],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 22319,
+        "title": "Tokyo Ghoul",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1498/134443.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1498/134443l.jpg"
+        }
+      },
+      "num_recommendations": 171
+    },
+    {
+      "node": {
+        "id": 35120,
+        "title": "Devilman: Crybaby",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/2/89973.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/2/89973l.webp"
+        }
+      },
+      "num_recommendations": 38
+    },
+    {
+      "node": {
+        "id": 34542,
+        "title": "Inuyashiki",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/7/88471.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/7/88471l.webp"
+        }
+      },
+      "num_recommendations": 20
+    },
+    {
+      "node": {
+        "id": 1535,
+        "title": "Death Note",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1079/138100.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1079/138100l.jpg"
+        }
+      },
+      "num_recommendations": 17
+    },
+    {
+      "node": {
+        "id": 31580,
+        "title": "Ajin",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/13/77968.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/13/77968l.jpg"
+        }
+      },
+      "num_recommendations": 15
+    },
+    {
+      "node": {
+        "id": 7724,
+        "title": "Shiki",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1531/119165.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1531/119165l.jpg"
+        }
+      },
+      "num_recommendations": 15
+    },
+    {
+      "node": {
+        "id": 330,
+        "title": "Midori no Hibi",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/13/56961.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/13/56961l.jpg"
+        }
+      },
+      "num_recommendations": 9
+    },
+    {
+      "node": {
+        "id": 16498,
+        "title": "Shingeki no Kyojin",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/47347.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/47347l.jpg"
+        }
+      },
+      "num_recommendations": 9
+    },
+    {
+      "node": {
+        "id": 6880,
+        "title": "Deadman Wonderland",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/9/75299.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/9/75299l.webp"
+        }
+      },
+      "num_recommendations": 8
+    },
+    {
+      "node": {
+        "id": 40748,
+        "title": "Jujutsu Kaisen",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1171/109222.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1171/109222l.webp"
+        }
+      },
+      "num_recommendations": 8
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "103748",
+      "completed": "1584448",
+      "on_hold": "48322",
+      "dropped": "39045",
+      "plan_to_watch": "298399"
+    },
+    "num_list_users": 2073962
+  },
+  "mal_details_updated_at": "2026-11-10T01:27:33.562Z"
 }

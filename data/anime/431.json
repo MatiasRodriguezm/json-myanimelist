@@ -59,7 +59,18 @@
       "name": "Studio Ghibli"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/13/2320l.jpg",
+    "https://cdn.myanimelist.net/images/anime/5/14648l.jpg",
+    "https://cdn.myanimelist.net/images/anime/12/33589l.jpg",
+    "https://cdn.myanimelist.net/images/anime/2/73441l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1977/127396l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1539/127896l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1609/138722l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1470/138723l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1539/138725l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1207/145439l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/nv5wwZou159v5OC61i4ElR7OqyY.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/wdTLajZyrh6yEeSqU5xrFATJh9Y.png",
   "tmdb_id": "4935",
@@ -103,30 +114,151 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1470/138723l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1470/138723l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1470/138723l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1470/138723l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1470/138723l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1470/138723l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1470/138723l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1470/138723l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1470/138723l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1470/138723l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/13/2320l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/13/2320l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/13/2320l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/13/2320l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/13/2320l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/13/2320l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/13/2320l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/13/2320l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/13/2320l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/13/2320l.jpg"
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
+  "rank": 81,
+  "popularity": 98,
+  "num_scoring_users": 1045291,
+  "nsfw": "white",
+  "created_at": "2005-12-26T06:56:40+00:00",
+  "updated_at": "2023-09-28T00:51:40+00:00",
+  "source": "novel",
+  "rating": "g",
+  "background": "Howl No Ugoku Shiro premiered at the Venice Film Festival in 2004 and was later released to Japanese theaters in November, making it one of only three Studio Ghibli films not to be released in July. \n\nIn 2004 the film won the Osella Awards for Technical Achievement in the 61st Venice Film Festival, the Best Japanese Movie Overall in the Mainichi Film Awards and an Excellence Prize, Animation in the Japan Media Arts Festival.  In 2005 the film won the Animation of the Year in the Tokyo International Anime Fair and the Audience Award in the Maui Film Festival. \n\nIn 2006 it was nominated for the Best Animated Feature in the 78th Academy Award, but lost to the movie Wallace and Gromit: The Curse of the Were-Rabbit.",
   "related_anime": [],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 199,
+        "title": "Sen to Chihiro no Kamikakushi",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/6/79597.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/6/79597l.webp"
+        }
+      },
+      "num_recommendations": 27
+    },
+    {
+      "node": {
+        "id": 513,
+        "title": "Tenkuu no Shiro Laputa",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/5/37799.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/5/37799l.jpg"
+        }
+      },
+      "num_recommendations": 7
+    },
+    {
+      "node": {
+        "id": 164,
+        "title": "Mononoke Hime",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1355/147277.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1355/147277l.webp"
+        }
+      },
+      "num_recommendations": 5
+    },
+    {
+      "node": {
+        "id": 512,
+        "title": "Majo no Takkyuubin",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1579/140483.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1579/140483l.jpg"
+        }
+      },
+      "num_recommendations": 5
+    },
+    {
+      "node": {
+        "id": 32902,
+        "title": "Mahoutsukai no Yome: Hoshi Matsu Hito",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/4/80587.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/4/80587l.jpg"
+        }
+      },
+      "num_recommendations": 3
+    },
+    {
+      "node": {
+        "id": 4551,
+        "title": "Hakushaku to Yousei",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/13/21898.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/13/21898l.jpg"
+        }
+      },
+      "num_recommendations": 3
+    },
+    {
+      "node": {
+        "id": 523,
+        "title": "Tonari no Totoro",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1110/147278.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1110/147278l.jpg"
+        }
+      },
+      "num_recommendations": 3
+    },
+    {
+      "node": {
+        "id": 35062,
+        "title": "Mahoutsukai no Yome",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/3/88476.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/3/88476l.webp"
+        }
+      },
+      "num_recommendations": 3
+    },
+    {
+      "node": {
+        "id": 97,
+        "title": "Last Exile",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/7/10888.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/7/10888l.webp"
+        }
+      },
+      "num_recommendations": 3
+    },
+    {
+      "node": {
+        "id": 33352,
+        "title": "Violet Evergarden",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1795/95088.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1795/95088l.webp"
+        }
+      },
+      "num_recommendations": 3
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "21078",
+      "completed": "1365489",
+      "on_hold": "4171",
+      "dropped": "1674",
+      "plan_to_watch": "127629"
+    },
+    "num_list_users": 1520041
+  },
+  "mal_details_updated_at": "2026-11-10T01:30:20.832Z"
 }

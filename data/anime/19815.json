@@ -61,7 +61,11 @@
       "name": "Madhouse"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/12/59115l.jpg",
+    "https://cdn.myanimelist.net/images/anime/5/69611l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1074/111944l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/7nq4Nu5kaggdGGYxzxGMxdI6aNJ.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/3SFmAlP4nGCD7vK2eDGQg3MZMRa.png",
   "tmdb_id": "60808",
@@ -265,16 +269,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1074/111944l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1074/111944l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1074/111944l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1074/111944l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1074/111944l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1074/111944l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1074/111944l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1074/111944l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1074/111944l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1074/111944l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/12/59115l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/12/59115l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/59115l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/12/59115l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/59115l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/12/59115l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/12/59115l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/12/59115l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/59115l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/12/59115l.jpg"
     }
   },
   "broadcast": {
@@ -285,17 +289,175 @@
     "timezone": "Asia/Tokyo",
     "string": "wednesday 21:30"
   },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
+  "rank": 728,
+  "popularity": 21,
+  "num_scoring_users": 1641479,
+  "nsfw": "white",
+  "created_at": "2013-07-30T11:07:48+00:00",
+  "updated_at": "2022-04-20T05:01:07+00:00",
+  "source": "light_novel",
+  "rating": "pg_13",
+  "background": "No Game No Life adapts the first three volumes of Yuu Kamiya's light novel series of the same title.",
+  "related_anime": [
+    {
+      "node": {
+        "id": 24991,
+        "title": "No Game No Life Specials",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/7/71783.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/7/71783l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 33674,
+        "title": "No Game No Life: Zero",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1085/90759.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1085/90759l.webp"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    },
+    {
+      "node": {
+        "id": 51157,
+        "title": "Satsuriku Tenshi Jibril PV",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1527/121206.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1527/121206l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 15315,
+        "title": "Mondaiji-tachi ga Isekai kara Kuru Sou desu yo?",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/12/43369.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/12/43369l.webp"
+        }
+      },
+      "num_recommendations": 97
+    },
+    {
+      "node": {
+        "id": 11757,
+        "title": "Sword Art Online",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/11/39717.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/11/39717l.jpg"
+        }
+      },
+      "num_recommendations": 51
+    },
+    {
+      "node": {
+        "id": 34933,
+        "title": "Kakegurui",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/3/86578.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/3/86578l.webp"
+        }
+      },
+      "num_recommendations": 33
+    },
+    {
+      "node": {
+        "id": 17265,
+        "title": "Log Horizon",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/5/84004.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/5/84004l.jpg"
+        }
+      },
+      "num_recommendations": 28
+    },
+    {
+      "node": {
+        "id": 1575,
+        "title": "Code Geass: Hangyaku no Lelouch",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1032/135088.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1032/135088l.jpg"
+        }
+      },
+      "num_recommendations": 26
+    },
+    {
+      "node": {
+        "id": 1535,
+        "title": "Death Note",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1079/138100.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1079/138100l.jpg"
+        }
+      },
+      "num_recommendations": 24
+    },
+    {
+      "node": {
+        "id": 30831,
+        "title": "Kono Subarashii Sekai ni Shukufuku wo!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1895/142748.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1895/142748l.webp"
+        }
+      },
+      "num_recommendations": 23
+    },
+    {
+      "node": {
+        "id": 29803,
+        "title": "Overlord",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1945/136600.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1945/136600l.jpg"
+        }
+      },
+      "num_recommendations": 20
+    },
+    {
+      "node": {
+        "id": 28223,
+        "title": "Death Parade",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/5/71553.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/5/71553l.jpg"
+        }
+      },
+      "num_recommendations": 13
+    },
+    {
+      "node": {
+        "id": 5040,
+        "title": "One Outs",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/7/21065.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/7/21065l.webp"
+        }
+      },
+      "num_recommendations": 11
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "96709",
+      "completed": "2100205",
+      "on_hold": "39050",
+      "dropped": "64663",
+      "plan_to_watch": "288565"
+    },
+    "num_list_users": 2589192
+  },
+  "mal_details_updated_at": "2026-11-10T01:27:23.803Z"
 }

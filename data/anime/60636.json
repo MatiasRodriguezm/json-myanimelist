@@ -31,8 +31,8 @@
   "num_episodes": 10,
   "score": 8.81,
   "mean": 8.81,
-  "numListUsers": 196105,
-  "num_list_users": 196105,
+  "numListUsers": 196111,
+  "num_list_users": 196111,
   "genres": [
     {
       "id": 1,
@@ -57,7 +57,16 @@
       "name": "Pierrot Films"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1046/147216l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1905/147227l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1488/150890l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1653/154517l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1907/154577l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1275/158595l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1566/158597l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1969/159702l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/jEImh4O7mcYuwuAeryGZo3G6hg6.png",
   "tmdb_id": "30984",
@@ -191,16 +200,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1275/158595l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1275/158595l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1275/158595l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1275/158595l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1275/158595l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1275/158595l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1275/158595l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1275/158595l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1275/158595l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1275/158595l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1046/147216l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1046/147216l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1046/147216l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1046/147216l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1046/147216l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1046/147216l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1046/147216l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1046/147216l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1046/147216l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1046/147216l.jpg"
     }
   },
   "broadcast": {
@@ -211,17 +220,64 @@
     "timezone": "Asia/Tokyo",
     "string": "saturday 23:00"
   },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 39,
+  "popularity": 1459,
+  "num_scoring_users": 72197,
+  "nsfw": "white",
+  "created_at": "2024-12-28T17:15:36+00:00",
+  "updated_at": "2026-10-26T19:56:23+00:00",
+  "source": "manga",
+  "rating": "r",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 56784,
+        "title": "Bleach: Sennen Kessen-hen - Soukoku-tan",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1595/144074.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1595/144074l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    },
+    {
+      "node": {
+        "id": 64688,
+        "title": "I-Bull",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1564/159184.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1564/159184l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 64721,
+        "title": "Rasen",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1387/159276.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1387/159276l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    }
+  ],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": "59730",
+      "completed": "60669",
+      "on_hold": "1628",
+      "dropped": "641",
+      "plan_to_watch": "73434"
+    },
+    "num_list_users": 196102
+  },
+  "mal_details_updated_at": "2026-11-10T01:32:35.128Z"
 }

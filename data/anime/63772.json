@@ -47,7 +47,11 @@
       "name": "Sunrise"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1610/156207l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1291/158202l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1504/159761l.jpg"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
@@ -69,30 +73,53 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1504/159761l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1504/159761l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1504/159761l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1504/159761l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1504/159761l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1504/159761l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1504/159761l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1504/159761l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1504/159761l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1504/159761l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1610/156207l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1610/156207l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1610/156207l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1610/156207l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1610/156207l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1610/156207l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1610/156207l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1610/156207l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1610/156207l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1610/156207l.jpg"
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 18885,
+  "popularity": 15242,
+  "num_scoring_users": 28,
+  "nsfw": "white",
+  "created_at": "2026-03-21T08:39:09+00:00",
+  "updated_at": "2026-05-25T09:33:36+00:00",
+  "source": "original",
+  "rating": "pg_13",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 59744,
+        "title": "Maebashi Witches",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1907/148540.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1907/148540l.jpg"
+        }
+      },
+      "relation_type": "full_story",
+      "relation_type_formatted": "Full story"
+    }
+  ],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": "30",
+      "completed": "42",
+      "on_hold": "11",
+      "dropped": "23",
+      "plan_to_watch": "1008"
+    },
+    "num_list_users": 1114
+  },
+  "mal_details_updated_at": "2026-11-10T01:35:54.571Z"
 }

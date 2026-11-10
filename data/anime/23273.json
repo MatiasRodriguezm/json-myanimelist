@@ -69,7 +69,18 @@
       "name": "A-1 Pictures"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/5/60465l.jpg",
+    "https://cdn.myanimelist.net/images/anime/3/67177l.jpg",
+    "https://cdn.myanimelist.net/images/anime/5/69957l.jpg",
+    "https://cdn.myanimelist.net/images/anime/3/72831l.jpg",
+    "https://cdn.myanimelist.net/images/anime/8/75643l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1715/143281l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1617/143282l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1055/143283l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1405/143284l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1108/143285l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/x6jWDL4H9TaBLGEvyej0qKiirBU.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/7bdP8GAH2chEw15K32YZD45cx80.png",
   "tmdb_id": "61663",
@@ -323,16 +334,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1405/143284l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1405/143284l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1405/143284l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1405/143284l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1405/143284l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1405/143284l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1405/143284l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1405/143284l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1405/143284l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1405/143284l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/5/60465l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/5/60465l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/5/60465l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/5/60465l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/5/60465l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/5/60465l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/5/60465l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/5/60465l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/60465l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/5/60465l.jpg"
     }
   },
   "broadcast": {
@@ -343,17 +354,151 @@
     "timezone": "Asia/Tokyo",
     "string": "friday 01:20"
   },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
+  "rank": 93,
+  "popularity": 24,
+  "num_scoring_users": 1498130,
+  "nsfw": "white",
+  "created_at": "2014-03-21T13:04:16+00:00",
+  "updated_at": "2025-07-21T09:55:14+00:00",
+  "source": "manga",
+  "rating": "pg_13",
+  "background": "Winner in the anime division of the 2016 Sugoi Japan® Awards.",
+  "related_anime": [
+    {
+      "node": {
+        "id": 28069,
+        "title": "Shigatsu wa Kimi no Uso: Moments",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/6/74156.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/6/74156l.webp"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 36098,
+        "title": "Kimi no Suizou wo Tabetai",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1768/93291.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1768/93291l.jpg"
+        }
+      },
+      "num_recommendations": 64
+    },
+    {
+      "node": {
+        "id": 31646,
+        "title": "3-gatsu no Lion",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1590/154000.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1590/154000l.jpg"
+        }
+      },
+      "num_recommendations": 63
+    },
+    {
+      "node": {
+        "id": 1698,
+        "title": "Nodame Cantabile",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/9/11986.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/9/11986l.jpg"
+        }
+      },
+      "num_recommendations": 46
+    },
+    {
+      "node": {
+        "id": 9989,
+        "title": "Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/5/79697.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/5/79697l.jpg"
+        }
+      },
+      "num_recommendations": 43
+    },
+    {
+      "node": {
+        "id": 4181,
+        "title": "Clannad: After Story",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1299/110774.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1299/110774l.jpg"
+        }
+      },
+      "num_recommendations": 37
+    },
+    {
+      "node": {
+        "id": 12531,
+        "title": "Sakamichi no Apollon",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1604/98654.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1604/98654l.jpg"
+        }
+      },
+      "num_recommendations": 28
+    },
+    {
+      "node": {
+        "id": 27775,
+        "title": "Plastic Memories",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/4/72750.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/4/72750l.jpg"
+        }
+      },
+      "num_recommendations": 24
+    },
+    {
+      "node": {
+        "id": 6547,
+        "title": "Angel Beats!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1244/111115.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1244/111115l.jpg"
+        }
+      },
+      "num_recommendations": 20
+    },
+    {
+      "node": {
+        "id": 33352,
+        "title": "Violet Evergarden",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1795/95088.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1795/95088l.webp"
+        }
+      },
+      "num_recommendations": 20
+    },
+    {
+      "node": {
+        "id": 38080,
+        "title": "Kono Oto Tomare!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1464/99881.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1464/99881l.jpg"
+        }
+      },
+      "num_recommendations": 14
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "129008",
+      "completed": "1808749",
+      "on_hold": "63910",
+      "dropped": "61417",
+      "plan_to_watch": "407701"
+    },
+    "num_list_users": 2470785
+  },
+  "mal_details_updated_at": "2026-11-10T01:27:35.794Z"
 }

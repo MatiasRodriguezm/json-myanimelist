@@ -48,7 +48,10 @@
     }
   ],
   "studios": [],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1428/156326l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1639/156327l.jpg"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
@@ -84,16 +87,39 @@
   },
   "broadcast": null,
   "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "popularity": 3639,
+  "num_scoring_users": 2,
+  "nsfw": "white",
+  "created_at": "2026-03-28T03:10:26+00:00",
+  "updated_at": "2026-03-28T03:24:50+00:00",
+  "source": "light_novel",
+  "rating": "r",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 56009,
+        "title": "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1062/151911.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1062/151911l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    }
+  ],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": "3",
+      "completed": "1",
+      "on_hold": "1",
+      "dropped": 0,
+      "plan_to_watch": "52056"
+    },
+    "num_list_users": 52061
+  },
+  "mal_details_updated_at": "2026-11-10T01:35:57.592Z"
 }

@@ -58,7 +58,14 @@
       "name": "Wit Studio"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/13/78932l.jpg",
+    "https://cdn.myanimelist.net/images/anime/4/80587l.jpg",
+    "https://cdn.myanimelist.net/images/anime/8/86362l.jpg",
+    "https://cdn.myanimelist.net/images/anime/12/86363l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1322/93987l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1951/151320l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/pjXffujvrhSYvoZcdV7RbeklxwL.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/iRJFlg0qVb6vdJzvoLXNuVe6USd.png",
   "tmdb_id": "67800",
@@ -152,30 +159,164 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/4/80587l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/4/80587l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/4/80587l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/4/80587l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/80587l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/4/80587l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/4/80587l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/4/80587l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/80587l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/4/80587l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/13/78932l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/13/78932l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/13/78932l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/13/78932l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/13/78932l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/13/78932l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/13/78932l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/13/78932l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/13/78932l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/13/78932l.jpg"
     }
   },
   "broadcast": null,
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
-  "background": null,
-  "related_anime": [],
+  "rank": 624,
+  "popularity": 952,
+  "num_scoring_users": 135440,
+  "nsfw": "white",
+  "created_at": "2016-03-09T15:28:37+00:00",
+  "updated_at": "2024-10-06T18:08:55+00:00",
+  "source": "manga",
+  "rating": "pg_13",
+  "background": "Mahoutsukai no Yome: Hoshi Matsu Hito takes place during episode 13 of Mahoutsukai no Yome.",
+  "related_anime": [
+    {
+      "node": {
+        "id": 35062,
+        "title": "Mahoutsukai no Yome",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/3/88476.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/3/88476l.webp"
+        }
+      },
+      "relation_type": "parent_story",
+      "relation_type_formatted": "Parent story"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 4081,
+        "title": "Natsume Yuujinchou",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1681/108439.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1681/108439l.webp"
+        }
+      },
+      "num_recommendations": 4
+    },
+    {
+      "node": {
+        "id": 431,
+        "title": "Howl no Ugoku Shiro",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1470/138723.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1470/138723l.jpg"
+        }
+      },
+      "num_recommendations": 3
+    },
+    {
+      "node": {
+        "id": 30123,
+        "title": "Akagami no Shirayuki-hime",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/75764.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/75764l.jpg"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 4551,
+        "title": "Hakushaku to Yousei",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/13/21898.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/13/21898l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 457,
+        "title": "Mushishi",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/2/73862.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/2/73862l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 5678,
+        "title": "Kobato.",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/8/79838.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/8/79838l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 36094,
+        "title": "Hakumei to Mikochi",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1250/91694.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1250/91694l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 10408,
+        "title": "Hotarubi no Mori e",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1599/112267.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1599/112267l.webp"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 44,
+        "title": "Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku-hen",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1656/137618.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1656/137618l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 199,
+        "title": "Sen to Chihiro no Kamikakushi",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/6/79597.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/6/79597l.webp"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "22048",
+      "completed": "183336",
+      "on_hold": "7532",
+      "dropped": "4916",
+      "plan_to_watch": "83834"
+    },
+    "num_list_users": 301666
+  },
+  "mal_details_updated_at": "2026-11-10T01:28:40.036Z"
 }

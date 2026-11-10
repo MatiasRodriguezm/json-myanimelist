@@ -51,7 +51,13 @@
       "name": "OLM"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1312/138299l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1670/140694l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1657/143183l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1394/145458l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1533/152273l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/qAq9RBeHZoTMDFqQZ2o4cE5CJIQ.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/sC8VGgUi1KSJpx9TjAWj8Z3Ee1A.png",
   "tmdb_id": "226688",
@@ -1555,16 +1561,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1394/145458l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1394/145458l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1394/145458l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1394/145458l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1394/145458l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1394/145458l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1394/145458l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1394/145458l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1394/145458l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1394/145458l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1312/138299l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1312/138299l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1312/138299l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1312/138299l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1312/138299l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1312/138299l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1312/138299l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1312/138299l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1312/138299l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1312/138299l.jpg"
     }
   },
   "broadcast": {
@@ -1575,17 +1581,111 @@
     "timezone": "Asia/Tokyo",
     "string": "friday 18:25"
   },
-  "rank": null,
-  "popularity": null,
-  "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "rank": 5881,
+  "popularity": 8180,
+  "num_scoring_users": 2155,
+  "nsfw": "white",
+  "created_at": "2023-09-07T03:08:30+00:00",
+  "updated_at": "2024-12-01T04:32:50+00:00",
+  "source": "manga",
+  "rating": "pg",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 288,
+        "title": "Bakuten Shoot Beyblade",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1429/127983.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1429/127983l.webp"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 5962,
+        "title": "Metal Fight Beyblade",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/13/21387.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/13/21387l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 31049,
+        "title": "Beyblade Burst",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/13/78786.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/13/78786l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 61882,
+        "title": "Cosmic Treat",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1826/150634.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1826/150634l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 61883,
+        "title": "Zoom Zoom",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1783/150635.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1783/150635l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    }
+  ],
   "related_manga": [],
-  "recommendations": [],
-  "statistics": null
+  "recommendations": [
+    {
+      "node": {
+        "id": 34034,
+        "title": "Pokemon Sun & Moon",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/11/84673.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/11/84673l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 42923,
+        "title": "SK∞",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1549/119195.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1549/119195l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "3904",
+      "completed": "2",
+      "on_hold": "852",
+      "dropped": "996",
+      "plan_to_watch": "2157"
+    },
+    "num_list_users": 7911
+  },
+  "mal_details_updated_at": "2026-11-10T01:31:00.788Z"
 }
