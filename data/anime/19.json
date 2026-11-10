@@ -63,13 +63,7 @@
       "name": "Madhouse"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/2/5824l.jpg",
-    "https://cdn.myanimelist.net/images/anime/10/8618l.jpg",
-    "https://cdn.myanimelist.net/images/anime/10/13733l.jpg",
-    "https://cdn.myanimelist.net/images/anime/10/18793l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1573/132904l.jpg"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/6T19aRp9zLMghZo1dTEwoNyreNZ.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/ddDLoUKdW7NTcf6FbtqlEmFws3P.png",
   "tmdb_id": "30981",
@@ -851,28 +845,28 @@
   ],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/10/18793.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/18793l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/10/18793.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/10/18793l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/18793.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/18793l.webp",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/10/18793.webp",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/10/18793l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/10/18793.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/10/18793l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/10/18793.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/10/18793l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/2/5824l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/2/5824l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/2/5824l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/2/5824l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/2/5824l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/2/5824l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/2/5824l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/2/5824l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/2/5824l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/2/5824l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/10/18793l.webp",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/10/18793l.webp",
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/18793l.webp",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/10/18793l.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/18793l.webp",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/10/18793l.webp",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/10/18793l.webp",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/10/18793l.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/18793l.webp",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/10/18793l.webp"
     }
   },
   "broadcast": {
@@ -887,8 +881,8 @@
   "popularity": 114,
   "num_scoring_users": 531499,
   "nsfw": "white",
-  "created_at": "2005-11-11T01:15:59+00:00",
-  "updated_at": "2025-08-15T17:37:15+00:00",
+  "created_at": null,
+  "updated_at": null,
   "source": "manga",
   "rating": "r+",
   "background": null,

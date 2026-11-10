@@ -53,9 +53,7 @@
     }
   ],
   "studios": [],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1667/152812l.jpg"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/6JpmIe9cJcbG6hecyN6ml8AG6RC.png",
   "tmdb_id": "220542",
@@ -76,15 +74,15 @@
   "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1667/152812.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1667/152812l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1667/152812.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1667/152812l.webp"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1667/152812.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1667/152812l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1667/152812.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1667/152812l.jpg"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1667/152812.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1667/152812l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1667/152812.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1667/152812l.jpg"
   },
   "trailer": {
     "images": {
@@ -105,8 +103,8 @@
   "popularity": 3095,
   "num_scoring_users": 3,
   "nsfw": "white",
-  "created_at": "2025-10-22T11:03:14+00:00",
-  "updated_at": "2026-10-02T23:28:24+00:00",
+  "created_at": null,
+  "updated_at": null,
   "source": "light_novel",
   "rating": "pg_13",
   "background": null,

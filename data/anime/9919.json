@@ -61,15 +61,7 @@
       "name": "A-1 Pictures"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/8/28499l.jpg",
-    "https://cdn.myanimelist.net/images/anime/5/29355l.jpg",
-    "https://cdn.myanimelist.net/images/anime/12/32583l.jpg",
-    "https://cdn.myanimelist.net/images/anime/8/33499l.jpg",
-    "https://cdn.myanimelist.net/images/anime/9/34831l.jpg",
-    "https://cdn.myanimelist.net/images/anime/10/75195l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1628/145409l.jpg"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/wJzHFl5mq6JFbD6equTleJuzlnk.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/xwuurUmMt8RVmwlpdYW4g3IWRgN.png",
   "tmdb_id": "38464",
@@ -441,28 +433,28 @@
   ],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/10/75195.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/75195l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/10/75195.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/10/75195l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/75195.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/75195l.webp",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/10/75195.webp",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/10/75195l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/10/75195.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/10/75195l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/10/75195.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/10/75195l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/8/28499l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/8/28499l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/8/28499l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/8/28499l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/8/28499l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/8/28499l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/8/28499l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/8/28499l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/28499l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/8/28499l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/10/75195l.webp",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/10/75195l.webp",
+      "image_url": "https://cdn.myanimelist.net/images/anime/10/75195l.webp",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/10/75195l.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/75195l.webp",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/10/75195l.webp",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/10/75195l.webp",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/10/75195l.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/75195l.webp",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/10/75195l.webp"
     }
   },
   "broadcast": {
@@ -477,8 +469,8 @@
   "popularity": 43,
   "num_scoring_users": 1229431,
   "nsfw": "white",
-  "created_at": "2010-11-29T19:19:26+00:00",
-  "updated_at": "2024-10-03T21:49:10+00:00",
+  "created_at": null,
+  "updated_at": null,
   "source": "manga",
   "rating": "pg_13",
   "background": "Ao no Exorcist was licensed by Aniplex and simulcasted in North America. Due to the fact that the source material is on-going, the anime adaption of Ao no Exorcist diverges from it at key points, leading to an anime-exclusive ending. ",

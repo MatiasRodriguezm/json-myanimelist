@@ -75,12 +75,7 @@
       "name": "Studio Pierrot"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/11/60011l.jpg",
-    "https://cdn.myanimelist.net/images/anime/6/74916l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1517/92767l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1498/134443l.jpg"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/jnwRlthXIgJB75Mt9GEl93Dczki.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/9u3baMv9AZ9znK9ecPjQQVoyEl8.png",
   "tmdb_id": "61374",
@@ -252,28 +247,28 @@
   ],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1498/134443.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1498/134443l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1498/134443.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1498/134443l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1498/134443.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1498/134443l.webp",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1498/134443.webp",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1498/134443l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1498/134443.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1498/134443l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1498/134443.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1498/134443l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/11/60011l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/11/60011l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/11/60011l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/11/60011l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/60011l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/11/60011l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/11/60011l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/11/60011l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/60011l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/11/60011l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1498/134443l.webp",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1498/134443l.webp",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1498/134443l.webp",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1498/134443l.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1498/134443l.webp",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1498/134443l.webp",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1498/134443l.webp",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1498/134443l.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1498/134443l.webp",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1498/134443l.webp"
     }
   },
   "broadcast": {
@@ -288,8 +283,8 @@
   "popularity": 11,
   "num_scoring_users": 2032066,
   "nsfw": "white",
-  "created_at": "2014-01-29T09:14:28+00:00",
-  "updated_at": "2024-10-02T16:19:27+00:00",
+  "created_at": null,
+  "updated_at": null,
   "source": "manga",
   "rating": "r",
   "background": null,

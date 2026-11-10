@@ -31,8 +31,8 @@
   "num_episodes": 12,
   "score": 8.98,
   "mean": 8.98,
-  "numListUsers": 354842,
-  "num_list_users": 354842,
+  "numListUsers": 354846,
+  "num_list_users": 354846,
   "genres": [
     {
       "id": 1,
@@ -73,14 +73,7 @@
       "name": "Bandai Namco Pictures"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/11/82056l.jpg",
-    "https://cdn.myanimelist.net/images/anime/13/83077l.jpg",
-    "https://cdn.myanimelist.net/images/anime/9/83132l.jpg",
-    "https://cdn.myanimelist.net/images/anime/13/83412l.jpg",
-    "https://cdn.myanimelist.net/images/anime/3/83528l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1131/134947l.jpg"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/3gVl0IvJMbhOnAvH9V0Q1Y1HnXE.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/2GFz7E2Z1UWiWqOv2YGIbIaAWrH.png",
   "tmdb_id": "57041",
@@ -211,28 +204,28 @@
   "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/3/83528.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/83528l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/3/83528.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/3/83528l.webp"
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/83528.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/83528l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/3/83528.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/3/83528l.jpg"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/3/83528.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/3/83528l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/3/83528.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/83528l.jpg"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/11/82056l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/11/82056l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/11/82056l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/11/82056l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/82056l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/11/82056l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/11/82056l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/11/82056l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/82056l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/11/82056l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/3/83528l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/3/83528l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/83528l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/3/83528l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/83528l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/3/83528l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/3/83528l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/3/83528l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/83528l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/3/83528l.jpg"
     }
   },
   "broadcast": {
@@ -247,8 +240,8 @@
   "popularity": 807,
   "num_scoring_users": 162845,
   "nsfw": "white",
-  "created_at": "2016-09-21T07:58:22+00:00",
-  "updated_at": "2023-04-02T18:14:16+00:00",
+  "created_at": null,
+  "updated_at": null,
   "source": "manga",
   "rating": "pg_13",
   "background": null,

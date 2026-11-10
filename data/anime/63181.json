@@ -55,11 +55,7 @@
       "name": "Studio Hibari"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1243/154648l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1377/160010l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1332/160147l.jpg"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/k7h9p81H6X6TGV70TgOp4TmjXco.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/5KJjTVvl4ZDFJNHT5NV6etyBHCy.png",
   "tmdb_id": "253811",
@@ -202,8 +198,8 @@
       "episode": 6,
       "episodeNumber": 6,
       "title": "Oni and Momo Too Episode 28",
-      "aired": true,
-      "airedDate": true,
+      "aired": null,
+      "airedDate": null,
       "thumbnail": null,
       "imageUrl": null,
       "description": null
@@ -212,8 +208,8 @@
       "episode": 7,
       "episodeNumber": 7,
       "title": "Oni and Momo Too Episode 29",
-      "aired": true,
-      "airedDate": true,
+      "aired": null,
+      "airedDate": null,
       "thumbnail": null,
       "imageUrl": null,
       "description": null
@@ -233,16 +229,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1243/154648l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1243/154648l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1243/154648l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1243/154648l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1243/154648l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1243/154648l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1243/154648l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1243/154648l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1243/154648l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1243/154648l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1332/160147l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1332/160147l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1332/160147l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1332/160147l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1332/160147l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1332/160147l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1332/160147l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1332/160147l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1332/160147l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1332/160147l.jpg"
     }
   },
   "broadcast": {
@@ -257,8 +253,8 @@
   "popularity": 4404,
   "num_scoring_users": 2848,
   "nsfw": "white",
-  "created_at": "2025-12-26T16:58:44+00:00",
-  "updated_at": "2026-10-02T23:38:04+00:00",
+  "created_at": null,
+  "updated_at": null,
   "source": "manga",
   "rating": "r",
   "background": "Tougen Anki: Nikko Kegon no Taki-hen aired on Nippon TV's Friday Anime Night block.",

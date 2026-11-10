@@ -59,11 +59,15 @@
       "name": "Motion Magic"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1484/152571l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1693/158641l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1723/160935l.jpg"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-10T00:56:55.855Z",
+  "tmdb_updated_at": "2026-11-10T01:53:49.319Z",
   "simkl_id": null,
   "episodes_data": [],
   "specials_data": [],
@@ -81,30 +85,53 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1693/158641l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1693/158641l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1693/158641l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1693/158641l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1693/158641l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1693/158641l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1693/158641l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1693/158641l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1693/158641l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1693/158641l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1484/152571l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1484/152571l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1484/152571l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1484/152571l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1484/152571l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1484/152571l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1484/152571l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1484/152571l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1484/152571l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1484/152571l.jpg"
     }
   },
   "broadcast": null,
   "rank": null,
-  "popularity": null,
+  "popularity": 15950,
   "num_scoring_users": null,
-  "nsfw": null,
-  "created_at": null,
-  "updated_at": null,
-  "source": null,
-  "rating": null,
+  "nsfw": "white",
+  "created_at": "2025-10-14T18:56:48+00:00",
+  "updated_at": "2026-11-08T02:13:00+00:00",
+  "source": "web_novel",
+  "rating": "pg_13",
   "background": null,
-  "related_anime": [],
+  "related_anime": [
+    {
+      "node": {
+        "id": 62249,
+        "title": "Wu Dong Qian Kun 6th Season",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1661/157231.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1661/157231l.webp"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    }
+  ],
   "related_manga": [],
   "recommendations": [],
-  "statistics": null
+  "statistics": {
+    "status": {
+      "watching": 0,
+      "completed": 0,
+      "on_hold": 0,
+      "dropped": 0,
+      "plan_to_watch": "928"
+    },
+    "num_list_users": 928
+  },
+  "mal_details_updated_at": "2026-11-10T01:53:48.822Z"
 }

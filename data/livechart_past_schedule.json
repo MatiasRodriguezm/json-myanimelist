@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T00:58:54.542Z",
+  "updatedAt": "2026-11-10T01:55:40.970Z",
   "daysCount": 26,
   "startDate": "2026-10-22",
   "endDate": "2026-11-16",
@@ -5901,6 +5901,7 @@
       }
     ]
   },
+  "hiatus": [],
   "malMapping": {
     "319": 235,
     "321": 21,
@@ -5934,7 +5935,6 @@
     "11785": 54250,
     "11802": 54344,
     "12038": 56566,
-    "12102": 56853,
     "12295": 56234,
     "12324": 56613,
     "12343": 56735,
@@ -6160,46 +6160,5 @@
     "13855": 65079,
     "13871": 65196,
     "13872": 65209
-  },
-  "hiatus": [
-    {
-      "liveChartId": 321,
-      "live_chart_id": 321,
-      "malId": 21,
-      "mal_id": 21,
-      "title": "One Piece",
-      "episode": 1181,
-      "note": "EP1181–? · TV (JP)2027",
-      "posterUrl": "https://u.livechart.me/anime/321/poster_image/b121b16f4061e35e27b6d758b2e9503a.jpg/small.jpg",
-      "poster_url": "https://u.livechart.me/anime/321/poster_image/b121b16f4061e35e27b6d758b2e9503a.jpg/small.jpg",
-      "isHiatus": true,
-      "is_hiatus": true
-    },
-    {
-      "liveChartId": 10860,
-      "live_chart_id": 10860,
-      "malId": 50250,
-      "mal_id": 50250,
-      "title": "Chiikawa",
-      "episode": 1,
-      "note": "TV (JP)Release on hiatus",
-      "posterUrl": "https://u.livechart.me/anime/10860/poster_image/3cee686848dae173ee32df3e4885c919.webp/small.jpg",
-      "poster_url": "https://u.livechart.me/anime/10860/poster_image/3cee686848dae173ee32df3e4885c919.webp/small.jpg",
-      "isHiatus": true,
-      "is_hiatus": true
-    },
-    {
-      "liveChartId": 12102,
-      "live_chart_id": 12102,
-      "malId": 56853,
-      "mal_id": 56853,
-      "title": "I.CINNAMOROLL Animation",
-      "episode": 1,
-      "note": "Streaming - YTRelease on hiatus",
-      "posterUrl": "https://u.livechart.me/anime/12102/poster_image/cc7f866f2f841885315409fb19b63553.webp/small.jpg",
-      "poster_url": "https://u.livechart.me/anime/12102/poster_image/cc7f866f2f841885315409fb19b63553.webp/small.jpg",
-      "isHiatus": true,
-      "is_hiatus": true
-    }
-  ]
+  }
 }

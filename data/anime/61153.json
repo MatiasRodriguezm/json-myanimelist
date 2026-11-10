@@ -32,8 +32,8 @@
   "num_episodes": null,
   "score": 7.06,
   "mean": 7.06,
-  "numListUsers": 33536,
-  "num_list_users": 33536,
+  "numListUsers": 33537,
+  "num_list_users": 33537,
   "genres": [
     {
       "id": 1,
@@ -58,11 +58,7 @@
       "name": "Felix Film"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1999/148320l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1667/148703l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1454/156338l.jpg"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/wpNi39uaat5A1VhaVpdcQlKuMB5.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/uAhOxnSEwued04UICWHncQW1DcZ.png",
   "tmdb_id": "285899",
@@ -205,16 +201,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1999/148320l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1999/148320l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1999/148320l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1999/148320l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1999/148320l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1999/148320l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1999/148320l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1999/148320l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1999/148320l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1999/148320l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1454/156338l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1454/156338l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1454/156338l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1454/156338l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1454/156338l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1454/156338l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1454/156338l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1454/156338l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1454/156338l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1454/156338l.jpg"
     }
   },
   "broadcast": {
@@ -229,8 +225,8 @@
   "popularity": 4570,
   "num_scoring_users": 3892,
   "nsfw": "white",
-  "created_at": "2025-03-06T12:20:51+00:00",
-  "updated_at": "2026-09-07T10:33:29+00:00",
+  "created_at": null,
+  "updated_at": null,
   "source": "light_novel",
   "rating": "pg_13",
   "background": null,

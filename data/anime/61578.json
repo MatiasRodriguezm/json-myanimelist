@@ -31,8 +31,8 @@
   "num_episodes": 12,
   "score": 7.69,
   "mean": 7.69,
-  "numListUsers": 81400,
-  "num_list_users": 81400,
+  "numListUsers": 81421,
+  "num_list_users": 81421,
   "genres": [
     {
       "id": 4,
@@ -57,13 +57,7 @@
       "name": "Passione"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1410/149470l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1098/159407l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1917/159466l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1810/159933l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1877/160134l.jpg"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/kuYMjcQ6BeLTBYUR1l1T8W8ZMcf.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/bKvyj38ZrE7KWWh5iwQfc8jvm3k.png",
   "tmdb_id": "283938",
@@ -154,28 +148,28 @@
   "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1877/160134.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1877/160134l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1877/160134.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1877/160134l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1877/160134.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1877/160134l.webp",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1877/160134.webp",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1877/160134l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1877/160134.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1877/160134l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1877/160134.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1877/160134l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1410/149470l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1410/149470l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1410/149470l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1410/149470l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1410/149470l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1410/149470l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1410/149470l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1410/149470l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1410/149470l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1410/149470l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1877/160134l.webp",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1877/160134l.webp",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1877/160134l.webp",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1877/160134l.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1877/160134l.webp",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1877/160134l.webp",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1877/160134l.webp",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1877/160134l.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1877/160134l.webp",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1877/160134l.webp"
     }
   },
   "broadcast": {
@@ -190,8 +184,8 @@
   "popularity": 2807,
   "num_scoring_users": 9851,
   "nsfw": "white",
-  "created_at": "2025-04-27T09:48:53+00:00",
-  "updated_at": "2026-10-04T18:24:40+00:00",
+  "created_at": null,
+  "updated_at": null,
   "source": "4_koma_manga",
   "rating": "r+",
   "background": null,

@@ -57,13 +57,7 @@
       "name": "Shaft"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/6/87322l.jpg",
-    "https://cdn.myanimelist.net/images/anime/2/89401l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1239/96206l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1317/122614l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1684/142420l.jpg"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/cHII6sQ91q8H5EMONKCwCQMauCP.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/1PloWpJba8A3I0x8Ry92IGYromk.png",
   "tmdb_id": "46195",
@@ -115,15 +109,15 @@
   ],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/6/87322.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/6/87322l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/6/87322.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/6/87322l.webp"
+      "image_url": "https://cdn.myanimelist.net/images/anime/6/87322.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/6/87322l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/6/87322.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/6/87322l.jpg"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/6/87322.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/6/87322l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/6/87322.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/87322l.jpg"
   },
   "trailer": {
     "images": {
@@ -144,8 +138,8 @@
   "popularity": 619,
   "num_scoring_users": 214019,
   "nsfw": "white",
-  "created_at": "2017-03-25T01:32:08+00:00",
-  "updated_at": "2024-02-04T16:41:33+00:00",
+  "created_at": null,
+  "updated_at": null,
   "source": "light_novel",
   "rating": "r",
   "background": "Owarimonogatari 2nd Season adapts the fifth volume of NisiOisiN's Monogatari Series: Final Season.",
