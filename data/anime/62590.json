@@ -29,8 +29,8 @@
   "num_episodes": 13,
   "score": 6.87,
   "mean": 6.87,
-  "numListUsers": 7898,
-  "num_list_users": 7898,
+  "numListUsers": 7903,
+  "num_list_users": 7903,
   "genres": [
     {
       "id": 1,
@@ -85,7 +85,7 @@
     {
       "episode": 3,
       "episodeNumber": 3,
-      "title": "Episode 3",
+      "title": "A Sweet Job 1",
       "aired": "2026-10-18T23:45:00+09:00",
       "airedDate": "2026-10-18T23:45:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20909315055e5214d3_w.webp",
@@ -95,7 +95,7 @@
     {
       "episode": 4,
       "episodeNumber": 4,
-      "title": "Episode 4",
+      "title": "A Sweet Job 2, First Guest",
       "aired": "2026-10-25T23:45:00+09:00",
       "airedDate": "2026-10-25T23:45:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20949179d3cb7ff173_w.webp",
@@ -105,7 +105,7 @@
     {
       "episode": 5,
       "episodeNumber": 5,
-      "title": "Episode 5",
+      "title": "Follow-up",
       "aired": "2026-11-01T23:45:00+09:00",
       "airedDate": "2026-11-01T23:45:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/209909811156b41704_w.webp",
@@ -120,6 +120,36 @@
       "airedDate": "2026-11-08T23:45:00+09:00",
       "thumbnail": "https://simkl.in/episodes/21/21041075ead03786a1_w.webp",
       "imageUrl": "https://simkl.in/episodes/21/21041075ead03786a1_w.webp",
+      "description": null
+    },
+    {
+      "episode": 7,
+      "episodeNumber": 7,
+      "title": "Episode 7",
+      "aired": "2026-11-15T23:45:00+09:00",
+      "airedDate": "2026-11-15T23:45:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 8,
+      "episodeNumber": 8,
+      "title": "Episode 8",
+      "aired": "2026-11-22T23:45:00+09:00",
+      "airedDate": "2026-11-22T23:45:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
+      "description": null
+    },
+    {
+      "episode": 9,
+      "episodeNumber": 9,
+      "title": "Episode 9",
+      "aired": "2026-11-29T23:45:00+09:00",
+      "airedDate": "2026-11-29T23:45:00+09:00",
+      "thumbnail": null,
+      "imageUrl": null,
       "description": null
     }
   ],
