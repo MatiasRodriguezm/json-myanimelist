@@ -10,7 +10,8 @@
     "sync": "node src/collector.js",
     "sync:livechart": "node src/livechartScraper.js",
     "enrich:details": "node src/enrichExisting.js",
-    "sync:genres": "node src/genreSync.js"
+    "sync:genres": "node src/genreSync.js",
+    "sync:characters": "node src/characterSync.js"
   },
   "engines": {
     "node": ">=20"

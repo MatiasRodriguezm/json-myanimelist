@@ -315,5 +315,356 @@
     },
     "num_list_users": 159077
   },
-  "mal_details_updated_at": "2026-11-10T01:27:09.266Z"
+  "mal_details_updated_at": "2026-11-10T01:27:09.266Z",
+  "characters": [
+    {
+      "id": 30,
+      "name": "Gon Freecss",
+      "role": "Main",
+      "imageUrl": "https://cdn.myanimelist.net/images/characters/11/174517.jpg?s=c8133cf450dc6bf13ba52d6781759101"
+    },
+    {
+      "id": 13898,
+      "name": "Biscuit Krueger",
+      "role": "Main",
+      "imageUrl": "https://cdn.myanimelist.net/images/characters/5/194667.jpg?s=b2a4def7e985c1ca4f4aac63a511ffc5"
+    },
+    {
+      "id": 27,
+      "name": "Killua Zoldyck",
+      "role": "Main",
+      "imageUrl": "https://cdn.myanimelist.net/images/characters/2/327920.jpg?s=afd533ace6e7ce81ccf877d3d97880bb"
+    },
+    {
+      "id": 33301,
+      "name": "Abengane",
+      "role": "Supporting",
+      "imageUrl": "https://cdn.myanimelist.net/images/characters/2/146975.jpg?s=bd37ed958fec94799d650c75cd685684"
+    },
+    {
+      "id": 115555,
+      "name": "Amana",
+      "role": "Supporting",
+      "imageUrl": "https://cdn.myanimelist.net/images/characters/16/263121.jpg?s=0642851f12bfaa56d7031b30a0ce4d3b"
+    },
+    {
+      "id": 63541,
+      "name": "Amori",
+      "role": "Supporting",
+      "imageUrl": "https://cdn.myanimelist.net/images/characters/7/168123.jpg?s=6821afc47f00d44dd360fba59d4ea66a"
+    },
+    {
+      "id": 33356,
+      "name": "Asta",
+      "role": "Supporting",
+      "imageUrl": "https://cdn.myanimelist.net/images/characters/11/202559.jpg?s=2083351eed17864c5aa134d34be2231e"
+    },
+    {
+      "id": 33303,
+      "name": "Bara",
+      "role": "Supporting",
+      "imageUrl": "https://cdn.myanimelist.net/images/characters/11/194991.jpg?s=97695dfe62bb3657486ad6cb1dae29a9"
+    },
+    {
+      "id": 33283,
+      "name": "Barry",
+      "role": "Supporting",
+      "imageUrl": "https://cdn.myanimelist.net/images/characters/13/198593.jpg?s=db2298fdcf39d5c14d70df0cddcf5a78"
+    },
+    {
+      "id": 33348,
+      "name": "Battera",
+      "role": "Supporting",
+      "imageUrl": "https://cdn.myanimelist.net/images/characters/10/146965.jpg?s=611ab1b10959052c1f330f2ad4ca075a"
+    },
+    {
+      "id": 33284,
+      "name": "Bopobo",
+      "role": "Supporting",
+      "imageUrl": "https://cdn.myanimelist.net/images/characters/15/198279.jpg?s=1692a70becf217e635a25436190ebbfb"
+    },
+    {
+      "id": 5828,
+      "name": "Franklin Bordeaux",
+      "role": "Supporting",
+      "imageUrl": "https://cdn.myanimelist.net/images/characters/13/183365.jpg?s=9eb11f81cd41ff3bfa349a765b978372"
+    },
+    {
+      "id": 89145,
+      "name": "Breath of Archangel",
+      "role": "Supporting",
+      "imageUrl": "https://cdn.myanimelist.net/images/characters/15/215477.jpg?s=5611a4a63ff2e8d3109fb1ed15c5c3d7"
+    },
+    {
+      "id": 168014,
+      "name": "Cookie",
+      "role": "Supporting",
+      "imageUrl": "https://cdn.myanimelist.net/images/characters/14/372801.jpg?s=2cae798b97d3a534c5020f5b99e9282e"
+    },
+    {
+      "id": 33352,
+      "name": "Eeta",
+      "role": "Supporting",
+      "imageUrl": "https://cdn.myanimelist.net/images/characters/5/203217.jpg?s=c052df7a20d58a0b9f272d766e17c0d9"
+    },
+    {
+      "id": 33351,
+      "name": "Elena",
+      "role": "Supporting",
+      "imageUrl": "https://cdn.myanimelist.net/images/characters/3/202525.jpg?s=c2e95da98ae1a60059490a4eb80a8cea"
+    },
+    {
+      "id": 20678,
+      "name": "Mito Freecss",
+      "role": "Supporting",
+      "imageUrl": "https://cdn.myanimelist.net/images/characters/8/47876.jpg?s=b2a958f4b498a98255dd111c594a46af"
+    },
+    {
+      "id": 26,
+      "name": "Ging Freecss",
+      "role": "Supporting",
+      "imageUrl": "https://cdn.myanimelist.net/images/characters/2/231795.jpg?s=a02e50645c7dc0816f3e7108cbef2c42"
+    },
+    {
+      "id": 33300,
+      "name": "Genthru",
+      "role": "Supporting",
+      "imageUrl": "https://cdn.myanimelist.net/images/characters/9/552880.jpg?s=2b5512a022414a3df5a13947a2579f5c"
+    },
+    {
+      "id": 33299,
+      "name": "Goreinu",
+      "role": "Supporting",
+      "imageUrl": "https://cdn.myanimelist.net/images/characters/2/198499.jpg?s=544e05da19db1b4a83b34ce139e8e801"
+    },
+    {
+      "id": 5831,
+      "name": "Nobunaga Hazama",
+      "role": "Supporting",
+      "imageUrl": "https://cdn.myanimelist.net/images/characters/14/183367.jpg?s=7e8818e2920ec5846ef09c776c151592"
+    },
+    {
+      "id": 63543,
+      "name": "Imori",
+      "role": "Supporting",
+      "imageUrl": "https://cdn.myanimelist.net/images/characters/8/168125.jpg?s=dcdc862479e2a97d189b866ef861df91"
+    },
+    {
+      "id": 141393,
+      "name": "Jispar",
+      "role": "Supporting",
+      "imageUrl": "https://cdn.myanimelist.net/images/characters/5/358189.jpg?s=1ad58dde7931ec8f26c5b3253e9fb54c"
+    },
+    {
+      "id": 33357,
+      "name": "Kazsule",
+      "role": "Supporting",
+      "imageUrl": "https://cdn.myanimelist.net/images/characters/9/199999.jpg?s=225658de287d021e6c6a34bdf0c79696"
+    },
+    {
+      "id": 33355,
+      "name": "Kess",
+      "role": "Supporting",
+      "imageUrl": "https://cdn.myanimelist.net/images/characters/3/198583.jpg?s=8eaf941b312a0621ec45e64107e71395"
+    },
+    {
+      "id": 61955,
+      "name": "Kiriko",
+      "role": "Supporting",
+      "imageUrl": "https://cdn.myanimelist.net/images/characters/13/204939.jpg?s=43debd08a7f72e48b639e83ca763b897"
+    },
+    {
+      "id": 20594,
+      "name": "Kite",
+      "role": "Supporting",
+      "imageUrl": "https://cdn.myanimelist.net/images/characters/5/203429.jpg?s=682fcc486dc7f39ddb369bc7f69e4e2e"
+    },
+    {
+      "id": 5830,
+      "name": "Machi Komachine",
+      "role": "Supporting",
+      "imageUrl": "https://cdn.myanimelist.net/images/characters/4/182389.jpg?s=2917ed42c768d10f35b49cce9808ebd6"
+    },
+    {
+      "id": 28,
+      "name": "Kurapika",
+      "role": "Supporting",
+      "imageUrl": "https://cdn.myanimelist.net/images/characters/3/549312.jpg?s=fc4bb9699591fdf742c7fee5593c961e"
+    },
+    {
+      "id": 145749,
+      "name": "Kyuu",
+      "role": "Supporting",
+      "imageUrl": "https://cdn.myanimelist.net/images/characters/14/315472.jpg?s=444c849fd0bcbedfe18711dceb7be890"
+    },
+    {
+      "id": 33353,
+      "name": "List",
+      "role": "Supporting",
+      "imageUrl": "https://cdn.myanimelist.net/images/characters/3/202531.jpg?s=b7489da7c81ce896fa88aed29c2efce4"
+    },
+    {
+      "id": 58,
+      "name": "Chrollo Lucilfer",
+      "role": "Supporting",
+      "imageUrl": "https://cdn.myanimelist.net/images/characters/4/182387.jpg?s=82532b8deca18069b86e7f598e0ca914"
+    },
+    {
+      "id": 5834,
+      "name": "Phinks Magkav",
+      "role": "Supporting",
+      "imageUrl": "https://cdn.myanimelist.net/images/characters/4/193009.jpg?s=f22bd5d9e9e5c4000e7356ae8be626cc"
+    },
+    {
+      "id": 31,
+      "name": "Hisoka Morow",
+      "role": "Supporting",
+      "imageUrl": "https://cdn.myanimelist.net/images/characters/3/174561.jpg?s=74fd92ebbe0d14dec69aeba8eff36bb9"
+    },
+    {
+      "id": 5833,
+      "name": "Shizuku Murasaki",
+      "role": "Supporting",
+      "imageUrl": "https://cdn.myanimelist.net/images/characters/10/178469.jpg?s=427e08a13cdc14d8cd4fc2410c7bbf9e"
+    },
+    {
+      "id": 5827,
+      "name": "Bonolenov Ndongo",
+      "role": "Supporting",
+      "imageUrl": "https://cdn.myanimelist.net/images/characters/4/220909.jpg?s=0ae14bd37529eac617fdb2885ff15c61"
+    },
+    {
+      "id": 14489,
+      "name": "Isaac Netero",
+      "role": "Supporting",
+      "imageUrl": "https://cdn.myanimelist.net/images/characters/7/257355.jpg?s=1371e4c5acb62a73bf7843b25b58d25d"
+    },
+    {
+      "id": 80779,
+      "name": "Nickes",
+      "role": "Supporting",
+      "imageUrl": "https://cdn.myanimelist.net/images/characters/3/199283.jpg?s=b7f64314322b198bf1a4123c965e6678"
+    },
+    {
+      "id": 33354,
+      "name": "No. 0",
+      "role": "Supporting",
+      "imageUrl": "https://cdn.myanimelist.net/images/characters/7/172387.jpg?s=00012a795037f92da14755fb1bb8c4f8"
+    },
+    {
+      "id": 17564,
+      "name": "Neon Nostrade",
+      "role": "Supporting",
+      "imageUrl": "https://cdn.myanimelist.net/images/characters/16/185665.jpg?s=b97ad3b24dc1bd09b536d04ac0a0731b"
+    },
+    {
+      "id": 18108,
+      "name": "Light Nostrade",
+      "role": "Supporting",
+      "imageUrl": "https://cdn.myanimelist.net/images/characters/10/190354.jpg?s=bad2a77864cf3adf8135453f834e14ef"
+    },
+    {
+      "id": 29,
+      "name": "Leorio Paladiknight",
+      "role": "Supporting",
+      "imageUrl": "https://cdn.myanimelist.net/images/characters/11/549311.jpg?s=ba86161de766b11580c7fbdf23849cbc"
+    },
+    {
+      "id": 24279,
+      "name": "Ponzu",
+      "role": "Supporting",
+      "imageUrl": "https://cdn.myanimelist.net/images/characters/13/155619.jpg?s=f76a4e32fa66b12ed7a42c984e4cbea9"
+    },
+    {
+      "id": 3195,
+      "name": "Feitan Portor",
+      "role": "Supporting",
+      "imageUrl": "https://cdn.myanimelist.net/images/characters/10/174721.jpg?s=bf0a62d8405521bfb141e131c363f73d"
+    },
+    {
+      "id": 33350,
+      "name": "Puhat",
+      "role": "Supporting",
+      "imageUrl": "https://cdn.myanimelist.net/images/characters/11/146969.jpg?s=fbe9c9797003416ebd59355539864abb"
+    },
+    {
+      "id": 22518,
+      "name": "Razor",
+      "role": "Supporting",
+      "imageUrl": "https://cdn.myanimelist.net/images/characters/9/172385.jpg?s=99d31aab5dcf4f96d94ca1dca8d255f5"
+    },
+    {
+      "id": 5832,
+      "name": "Shalnark Ryuseih",
+      "role": "Supporting",
+      "imageUrl": "https://cdn.myanimelist.net/images/characters/7/178463.jpg?s=365015871815a4c95e857758cb9f1a51"
+    },
+    {
+      "id": 12515,
+      "name": "Senritsu",
+      "role": "Supporting",
+      "imageUrl": "https://cdn.myanimelist.net/images/characters/7/146977.jpg?s=928669cc0e151e0399b1eec9a5950911"
+    },
+    {
+      "id": 55949,
+      "name": "Sommy",
+      "role": "Supporting",
+      "imageUrl": "https://cdn.myanimelist.net/images/characters/10/154625.jpg?s=e526d1dcaf03377c7f2af001971a0132"
+    },
+    {
+      "id": 33304,
+      "name": "Sub",
+      "role": "Supporting",
+      "imageUrl": "https://cdn.myanimelist.net/images/characters/14/198539.jpg?s=154ab63a522eaf96265f30d43e626779"
+    },
+    {
+      "id": 53561,
+      "name": "Todo",
+      "role": "Supporting",
+      "imageUrl": "https://cdn.myanimelist.net/images/characters/13/147077.jpg?s=2d457f48df808c66440912ce287cd68c"
+    },
+    {
+      "id": 22522,
+      "name": "Tonpa",
+      "role": "Supporting",
+      "imageUrl": "https://cdn.myanimelist.net/images/characters/5/138893.jpg?s=cd92d2aec029df450cc2d425cb993012"
+    },
+    {
+      "id": 5829,
+      "name": "Koltopi Tounofmaill",
+      "role": "Supporting",
+      "imageUrl": "https://cdn.myanimelist.net/images/characters/14/185807.jpg?s=e5ff22a5f64715109536dfd9f3d9143d"
+    },
+    {
+      "id": 33285,
+      "name": "Tsezguerra",
+      "role": "Supporting",
+      "imageUrl": "https://cdn.myanimelist.net/images/characters/13/198497.jpg?s=11344aede3f36056dde84983e31e32db"
+    },
+    {
+      "id": 63539,
+      "name": "Umori",
+      "role": "Supporting",
+      "imageUrl": "https://cdn.myanimelist.net/images/characters/12/168121.jpg?s=994589e6494f66456d90e2a3906fef36"
+    },
+    {
+      "id": 33308,
+      "name": "Wdwune",
+      "role": "Supporting",
+      "imageUrl": "https://cdn.myanimelist.net/images/characters/12/202529.jpg?s=461c408cbdc02863e10488b9452bec2a"
+    },
+    {
+      "id": 118217,
+      "name": "Yabibi",
+      "role": "Supporting",
+      "imageUrl": "https://cdn.myanimelist.net/images/characters/7/273747.jpg?s=984c9318a5e16aab7248fffbf7c9f7ad"
+    },
+    {
+      "id": 6089,
+      "name": "Kalluto Zoldyck",
+      "role": "Supporting",
+      "imageUrl": "https://cdn.myanimelist.net/images/characters/2/246235.jpg?s=24e0366f5b53069bed3c60129f0d6af2"
+    }
+  ],
+  "characters_updated_at": "2026-11-14T23:15:46.910Z"
 }

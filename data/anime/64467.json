@@ -127,5 +127,26 @@
     },
     "num_list_users": 5381
   },
-  "mal_details_updated_at": "2026-11-10T01:36:18.483Z"
+  "mal_details_updated_at": "2026-11-10T01:36:18.483Z",
+  "characters": [
+    {
+      "id": 305432,
+      "name": "Ash",
+      "role": "Main",
+      "imageUrl": "https://cdn.myanimelist.net/images/characters/5/647666.jpg?s=938322b7be74b76a416d9a83149a0838"
+    },
+    {
+      "id": 298889,
+      "name": "Mao",
+      "role": "Main",
+      "imageUrl": "https://cdn.myanimelist.net/images/characters/12/636781.jpg?s=8c49214f6fe6df8ec5b34645e141b9e6"
+    },
+    {
+      "id": 298888,
+      "name": "Murabito",
+      "role": "Main",
+      "imageUrl": "https://cdn.myanimelist.net/images/characters/3/636780.jpg?s=a125049e36379b70e9d47043e6371cc4"
+    }
+  ],
+  "characters_updated_at": "2026-11-14T23:22:08.995Z"
 }
