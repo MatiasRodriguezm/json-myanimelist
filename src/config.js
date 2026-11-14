@@ -1,4 +1,4 @@
-import dotenv from "dotenv";
+﻿import dotenv from "dotenv";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 
@@ -20,6 +20,8 @@ export const config = {
     root: rootDir,
     data: path.join(rootDir, "data"),
     anime: path.join(rootDir, "data", "anime"),
+    genres: path.join(rootDir, "data", "genres"),
+    themes: path.join(rootDir, "data", "themes"),
     homeJson: path.join(rootDir, "data", "home.json"),
     discoverJson: path.join(rootDir, "data", "discover.json"),
     metadataIndexJson: path.join(rootDir, "data", "metadata_index.json"),

@@ -1,4 +1,4 @@
-import fs from "node:fs/promises";
+﻿import fs from "node:fs/promises";
 import fsSync from "node:fs";
 import path from "node:path";
 import { config } from "./config.js";
@@ -15,6 +15,8 @@ export class Storage {
   static async initDirectories() {
     await fs.mkdir(config.paths.data, { recursive: true });
     await fs.mkdir(config.paths.anime, { recursive: true });
+    if (config.paths.genres) await fs.mkdir(config.paths.genres, { recursive: true });
+    if (config.paths.themes) await fs.mkdir(config.paths.themes, { recursive: true });
   }
 
   /**
