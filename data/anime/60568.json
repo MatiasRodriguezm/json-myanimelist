@@ -31,8 +31,8 @@
   "num_episodes": 7,
   "score": 8.72,
   "mean": 8.72,
-  "numListUsers": 36686,
-  "num_list_users": 36686,
+  "numListUsers": 36687,
+  "num_list_users": 36687,
   "genres": [
     {
       "id": 1,
@@ -65,7 +65,7 @@
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-14T22:49:09.996Z",
+  "tmdb_updated_at": "2026-11-14T23:28:24.351Z",
   "simkl_id": 3198582,
   "episodes_data": [
     {
@@ -142,28 +142,28 @@
   "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1288/147047.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1288/147047l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1288/147047.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1288/147047l.webp"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1288/147047.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1288/147047l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1288/147047.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1288/147047l.jpg"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1288/147047.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1288/147047l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1288/147047.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1288/147047l.jpg"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1288/147047l.webp",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1288/147047l.webp",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1288/147047l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1288/147047l.webp",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1288/147047l.webp",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1288/147047l.webp",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1288/147047l.webp",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1288/147047l.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1288/147047l.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1288/147047l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1288/147047l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1288/147047l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1288/147047l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1288/147047l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1288/147047l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1288/147047l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1288/147047l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1288/147047l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1288/147047l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1288/147047l.jpg"
     }
   },
   "broadcast": null,
@@ -258,80 +258,5 @@
     },
     "num_list_users": 36158
   },
-  "mal_details_updated_at": "2026-11-10T01:32:32.125Z",
-  "characters": [
-    {
-      "id": 209610,
-      "name": "Zhong Bai",
-      "role": "Main",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/15/645766.jpg?s=94ff08d79cc3671996923f2e0b22575d"
-    },
-    {
-      "id": 209608,
-      "name": "Tang Fang",
-      "role": "Main",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/3/645775.jpg?s=f5e859af997473ad81f37b594e33ca3f"
-    },
-    {
-      "id": 299401,
-      "name": "Chao Guan",
-      "role": "Main",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/6/645768.jpg?s=27bcc8ee9b16768af2f2ba116d96c595"
-    },
-    {
-      "id": 301187,
-      "name": "Fu Bu",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/9/641694.jpg?s=f18186781c21fa5cac106e4df5c4d9cc"
-    },
-    {
-      "id": 301193,
-      "name": "Crux Star",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/7/645767.jpg?s=5f4cb8f241a77ce268308fe1fe6b5eb0"
-    },
-    {
-      "id": 301608,
-      "name": "Mingshuo He",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/9/641700.jpg?s=72cc2c66148d85a32143a6adc21dd84b"
-    },
-    {
-      "id": 301192,
-      "name": "Huo Hui",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/9/645785.jpg?s=317d58d4eb0ca807cb7929640e1fe020"
-    },
-    {
-      "id": 301195,
-      "name": "Protagonist Halo",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/8/645791.jpg?s=99e61ac48f95e2894e251b15ac2aca4d"
-    },
-    {
-      "id": 301194,
-      "name": "Jun Qian",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/6/641702.jpg?s=d0a900b5882011b196f878054f4d6c5b"
-    },
-    {
-      "id": 301188,
-      "name": "Deng Ran",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/3/641698.jpg?s=2f423cb40a9984c237df74eec180df72"
-    },
-    {
-      "id": 301190,
-      "name": "Vindicator",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/9/641706.jpg?s=62effff32eb5d6860ee93f07525625bf"
-    },
-    {
-      "id": 301185,
-      "name": "Xiao Yi",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/6/644378.jpg?s=0655b4a756953d1dae657da60d0a34c9"
-    }
-  ],
-  "characters_updated_at": "2026-11-14T23:20:24.285Z"
+  "mal_details_updated_at": "2026-11-10T01:32:32.125Z"
 }

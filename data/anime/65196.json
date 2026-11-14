@@ -29,8 +29,8 @@
   "num_episodes": null,
   "score": null,
   "mean": null,
-  "numListUsers": 253,
-  "num_list_users": 253,
+  "numListUsers": 254,
+  "num_list_users": 254,
   "genres": [
     {
       "id": 4,
@@ -55,7 +55,7 @@
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-14T22:48:07.911Z",
+  "tmdb_updated_at": "2026-11-14T23:26:54.894Z",
   "simkl_id": null,
   "episodes_data": [],
   "specials_data": [],
@@ -121,26 +121,5 @@
     },
     "num_list_users": 242
   },
-  "mal_details_updated_at": "2026-11-10T01:37:27.042Z",
-  "characters": [
-    {
-      "id": 301206,
-      "name": "Hildetaura Altoire",
-      "role": "Main",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/10/648964.jpg?s=e84ebacb4bfdc7d1dbf5d35b97ed6c8d"
-    },
-    {
-      "id": 285087,
-      "name": "Nia Liston",
-      "role": "Main",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/14/620706.jpg?s=9e13d8d4a1d755f544aebb1af2033cb4"
-    },
-    {
-      "id": 301205,
-      "name": "Lynokis Funk",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/10/648965.jpg?s=9872876f65f22c57450a01d22a466dde"
-    }
-  ],
-  "characters_updated_at": "2026-11-14T23:22:43.319Z"
+  "mal_details_updated_at": "2026-11-10T01:37:27.042Z"
 }

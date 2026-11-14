@@ -33,8 +33,8 @@
   "num_episodes": 12,
   "score": 7.29,
   "mean": 7.29,
-  "numListUsers": 34666,
-  "num_list_users": 34666,
+  "numListUsers": 34676,
+  "num_list_users": 34676,
   "genres": [
     {
       "id": 1,
@@ -146,28 +146,28 @@
   "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1208/160008.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1208/160008l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1208/160008.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1208/160008l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1208/160008.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1208/160008l.webp",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1208/160008.webp",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1208/160008l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1208/160008.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1208/160008l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1208/160008.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1208/160008l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1208/160008l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1208/160008l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1208/160008l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1208/160008l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1208/160008l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1208/160008l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1208/160008l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1208/160008l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1208/160008l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1208/160008l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1208/160008l.webp",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1208/160008l.webp",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1208/160008l.webp",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1208/160008l.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1208/160008l.webp",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1208/160008l.webp",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1208/160008l.webp",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1208/160008l.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1208/160008l.webp",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1208/160008l.webp"
     }
   },
   "broadcast": {
@@ -213,266 +213,5 @@
     },
     "num_list_users": 33589
   },
-  "mal_details_updated_at": "2026-11-10T01:32:18.164Z",
-  "characters": [
-    {
-      "id": 245549,
-      "name": "Romelia von Graham",
-      "role": "Main",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/9/648017.jpg?s=c82c519657192fbdcba1d5dc6ed1980b"
-    },
-    {
-      "id": 248834,
-      "name": "Albion",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/6/648018.jpg?s=7e4eefe69720898f0cec54227c47e10b"
-    },
-    {
-      "id": 303650,
-      "name": "Ben",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/7/649340.jpg?s=b108270948a13afd8a263e4830189b9d"
-    },
-    {
-      "id": 303652,
-      "name": "Borel",
-      "role": "Supporting",
-      "imageUrl": null
-    },
-    {
-      "id": 303649,
-      "name": "Bray",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/4/649768.jpg?s=2cede2395c316d136010e5f99591c011"
-    },
-    {
-      "id": 305342,
-      "name": "Cairo",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/15/647435.jpg?s=e14b2c9d4d3a31489da0e0d6ee3b5ed1"
-    },
-    {
-      "id": 305687,
-      "name": "Dars",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/13/648027.jpg?s=d5add6971e6e6181d7eda934dedc2e08"
-    },
-    {
-      "id": 245552,
-      "name": "Ekaterina",
-      "role": "Supporting",
-      "imageUrl": null
-    },
-    {
-      "id": 245551,
-      "name": "Elisabeth",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/7/648392.jpg?s=fb98d6f38d206460c699a7a9c1fb64e8"
-    },
-    {
-      "id": 305949,
-      "name": "Gallios",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/9/648394.jpg?s=187ebd1bb3b53002e2b7e04cf7165d1f"
-    },
-    {
-      "id": 305950,
-      "name": "Gamine",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/8/648395.jpg?s=ff4f28a70ba9a76f06c60e0456396d85"
-    },
-    {
-      "id": 303651,
-      "name": "Gatt",
-      "role": "Supporting",
-      "imageUrl": null
-    },
-    {
-      "id": 303644,
-      "name": "Glein",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/7/649341.jpg?s=ff1d24274d913cdfd70b0e3a074c1ba6"
-    },
-    {
-      "id": 306188,
-      "name": "Graves",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/15/648826.jpg?s=30f6e3cbf58719d1c5ac4e8d90206fb2"
-    },
-    {
-      "id": 303643,
-      "name": "Hans",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/12/648024.jpg?s=8c9d668c6f404096c8ab914bdd8d5acd"
-    },
-    {
-      "id": 303645,
-      "name": "Jinni",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/12/648026.jpg?s=40de97b560856ecce8869ed7a1b865ec"
-    },
-    {
-      "id": 305688,
-      "name": "Katan",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/9/648028.jpg?s=8d328ca3f9ddfe6767125ddb9d972757"
-    },
-    {
-      "id": 305345,
-      "name": "King Arban",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/4/647437.jpg?s=8122d1e6e56a262eea80868df433360c"
-    },
-    {
-      "id": 245550,
-      "name": "Henri Reus Lionel",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/12/649338.jpg?s=824129321fbcfe8a422eacc6061149a9"
-    },
-    {
-      "id": 306830,
-      "name": "Mary",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/16/649770.jpg?s=326a9c11f302848d21cf637dd7d72814"
-    },
-    {
-      "id": 247721,
-      "name": "Merrill",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/8/648827.jpg?s=ca541e1cad4ecb7e639ba7f3ebad57ea"
-    },
-    {
-      "id": 303653,
-      "name": "Miitya",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/2/649339.jpg?s=46e961dd6f59b0f24a0ad87f5b12d56c"
-    },
-    {
-      "id": 305347,
-      "name": "Minervo",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/11/647439.jpg?s=b48f28af1b67fcf7429546e9070c1b4d"
-    },
-    {
-      "id": 306831,
-      "name": "Nicolai",
-      "role": "Supporting",
-      "imageUrl": null
-    },
-    {
-      "id": 245890,
-      "name": "Pharmine",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/13/543738.jpg?s=bd7dae9f8e395b938bd767faac4f91ba"
-    },
-    {
-      "id": 248836,
-      "name": "Reyvan",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/4/648019.jpg?s=191e8793c1e27e235ea45c1a4b6cbcac"
-    },
-    {
-      "id": 260025,
-      "name": "Rhett",
-      "role": "Supporting",
-      "imageUrl": null
-    },
-    {
-      "id": 246017,
-      "name": "Serbeck Romes",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/12/648041.jpg?s=70bdeaf80ca631b886aeca67bd4cc0fb"
-    },
-    {
-      "id": 245553,
-      "name": "Ryoki",
-      "role": "Supporting",
-      "imageUrl": null
-    },
-    {
-      "id": 305685,
-      "name": "Sarah",
-      "role": "Supporting",
-      "imageUrl": null
-    },
-    {
-      "id": 303647,
-      "name": "Say",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/2/648025.jpg?s=d171e827d8d6f433919137d20b4c3881"
-    },
-    {
-      "id": 260026,
-      "name": "Seryure",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/15/649769.jpg?s=eef3c1bb09807789fa99a4cf6ba386d2"
-    },
-    {
-      "id": 247720,
-      "name": "Shuro",
-      "role": "Supporting",
-      "imageUrl": null
-    },
-    {
-      "id": 303646,
-      "name": "Tarth",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/3/648828.jpg?s=4ecfb2369c3d98601b2a9a5aedb43799"
-    },
-    {
-      "id": 260033,
-      "name": "Granbell von Andre",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/13/648022.jpg?s=ea74c70cc9462cf9ca80ced04bfbe206"
-    },
-    {
-      "id": 260037,
-      "name": "Otterheim von Berak",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/16/648021.jpg?s=b10ff82e473cca8c5ae0f7eb07df9a0c"
-    },
-    {
-      "id": 305344,
-      "name": "Mary-Anne von Graham",
-      "role": "Supporting",
-      "imageUrl": null
-    },
-    {
-      "id": 305343,
-      "name": "Wilhelm von Graham",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/14/647436.jpg?s=eb847320760145d72a129b604ca622c6"
-    },
-    {
-      "id": 260036,
-      "name": "Kyleren von Grenstorm",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/7/648020.jpg?s=a1433277a980af72bec3b5117710d0c7"
-    },
-    {
-      "id": 260035,
-      "name": "Ragnbell von Gyunos",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/9/648023.jpg?s=6cceec16686aaff290210e786d5323e4"
-    },
-    {
-      "id": 245559,
-      "name": "Zarya",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/5/543739.jpg?s=7d4dae24d0b16df91c253123781d83a1"
-    },
-    {
-      "id": 305346,
-      "name": "Zelgis",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/9/647438.jpg?s=2d29569c9e35a22fd36d7ba7e33aae30"
-    },
-    {
-      "id": 303648,
-      "name": "Zeze",
-      "role": "Supporting",
-      "imageUrl": null
-    }
-  ],
-  "characters_updated_at": "2026-11-14T23:20:09.520Z"
+  "mal_details_updated_at": "2026-11-10T01:32:18.164Z"
 }
