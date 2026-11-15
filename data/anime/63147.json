@@ -43,11 +43,13 @@
     }
   ],
   "studios": [],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1224/154534l.jpg"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T01:31:31.739Z",
+  "tmdb_updated_at": "2026-11-15T01:58:54.843Z",
   "simkl_id": 2971664,
   "episodes_data": [],
   "specials_data": [],
@@ -79,11 +81,11 @@
   },
   "broadcast": null,
   "rank": null,
-  "popularity": 2847,
+  "popularity": 2835,
   "num_scoring_users": 2,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2025-12-21T19:14:29+00:00",
+  "updated_at": "2026-07-29T02:05:18+00:00",
   "source": "manga",
   "rating": "pg_13",
   "background": null,
@@ -93,8 +95,8 @@
         "id": 59062,
         "title": "Gachiakuta",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1682/150432.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1682/150432l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1682/150432.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1682/150432l.jpg"
         }
       },
       "relation_type": "prequel",
@@ -105,13 +107,13 @@
   "recommendations": [],
   "statistics": {
     "status": {
-      "watching": "5",
-      "completed": "1",
-      "on_hold": "6",
-      "dropped": "1",
-      "plan_to_watch": "79762"
+      "watching": "6",
+      "completed": "3",
+      "on_hold": "4",
+      "dropped": "2",
+      "plan_to_watch": "80059"
     },
-    "num_list_users": 79775
+    "num_list_users": 80074
   },
-  "mal_details_updated_at": "2026-11-10T01:34:31.708Z"
+  "mal_details_updated_at": "2026-11-15T01:58:54.359Z"
 }

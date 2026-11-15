@@ -31,8 +31,8 @@
   "num_episodes": 12,
   "score": 7.05,
   "mean": 7.05,
-  "numListUsers": 29577,
-  "num_list_users": 29577,
+  "numListUsers": 29580,
+  "num_list_users": 29580,
   "genres": [
     {
       "id": 2,
@@ -57,7 +57,10 @@
       "name": "Aisle"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1499/157162l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1341/159753l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/bM9pGax5PQCvipy7zifscXsVJ8Z.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/dJV02YybQWx1RhhEwZdTLOPy1FB.png",
   "tmdb_id": "321518",
@@ -160,16 +163,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1341/159753l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1341/159753l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1341/159753l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1341/159753l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1341/159753l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1341/159753l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1341/159753l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1341/159753l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1341/159753l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1341/159753l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1499/157162l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1499/157162l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1499/157162l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1499/157162l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1499/157162l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1499/157162l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1499/157162l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1499/157162l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1499/157162l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1499/157162l.jpg"
     }
   },
   "broadcast": {
@@ -180,12 +183,12 @@
     "timezone": "Asia/Tokyo",
     "string": "wednesday 22:00"
   },
-  "rank": 4755,
-  "popularity": 4931,
-  "num_scoring_users": 3717,
+  "rank": 4701,
+  "popularity": 4827,
+  "num_scoring_users": 4037,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2026-05-01T04:08:18+00:00",
+  "updated_at": "2026-11-14T20:29:25+00:00",
   "source": "light_novel",
   "rating": "pg_13",
   "background": null,
@@ -197,8 +200,8 @@
         "id": 38790,
         "title": "Itai no wa Iya nanode Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1579/113812.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1579/113812l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1579/113812.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1579/113812l.jpg"
         }
       },
       "num_recommendations": 1
@@ -206,13 +209,13 @@
   ],
   "statistics": {
     "status": {
-      "watching": "17546",
-      "completed": "2",
-      "on_hold": "301",
-      "dropped": "671",
-      "plan_to_watch": "9639"
+      "watching": "18518",
+      "completed": "4",
+      "on_hold": "332",
+      "dropped": "732",
+      "plan_to_watch": "9990"
     },
-    "num_list_users": 28159
+    "num_list_users": 29576
   },
-  "mal_details_updated_at": "2026-11-10T01:36:07.261Z"
+  "mal_details_updated_at": "2026-11-15T01:55:20.203Z"
 }

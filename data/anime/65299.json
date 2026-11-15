@@ -43,11 +43,13 @@
       "name": "Dynamo Pictures"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1158/160810l.jpg"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T01:30:42.397Z",
+  "tmdb_updated_at": "2026-11-15T01:57:33.801Z",
   "simkl_id": null,
   "episodes_data": [],
   "specials_data": [],
@@ -78,12 +80,12 @@
     }
   },
   "broadcast": null,
-  "rank": 17485,
-  "popularity": 23417,
-  "num_scoring_users": 28,
+  "rank": 17495,
+  "popularity": 23173,
+  "num_scoring_users": 30,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2026-10-31T15:29:01+00:00",
+  "updated_at": "2026-11-01T08:16:12+00:00",
   "source": "game",
   "rating": "g",
   "background": null,
@@ -117,13 +119,13 @@
   "recommendations": [],
   "statistics": {
     "status": {
-      "watching": "110",
+      "watching": "112",
       "completed": 0,
       "on_hold": "25",
-      "dropped": "14",
-      "plan_to_watch": "82"
+      "dropped": "15",
+      "plan_to_watch": "91"
     },
-    "num_list_users": 231
+    "num_list_users": 243
   },
-  "mal_details_updated_at": "2026-11-10T01:37:39.312Z"
+  "mal_details_updated_at": "2026-11-15T01:57:33.231Z"
 }

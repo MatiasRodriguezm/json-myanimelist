@@ -32,8 +32,8 @@
   "num_episodes": null,
   "score": 6.51,
   "mean": 6.51,
-  "numListUsers": 5072,
-  "num_list_users": 5072,
+  "numListUsers": 5074,
+  "num_list_users": 5074,
   "genres": [
     {
       "id": 4,
@@ -58,7 +58,11 @@
       "name": "Bandai Namco Pictures"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1096/154574l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1729/159909l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1827/160110l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/qPJ7HP6w73k3FzsYsvnKHMfil8M.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/hrisHdxVN8QRnx7Pl5df9xtE5wy.png",
   "tmdb_id": "308977",
@@ -111,16 +115,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1827/160110l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1827/160110l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1827/160110l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1827/160110l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1827/160110l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1827/160110l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1827/160110l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1827/160110l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1827/160110l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1827/160110l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1096/154574l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1096/154574l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1096/154574l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1096/154574l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1096/154574l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1096/154574l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1096/154574l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1096/154574l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1096/154574l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1096/154574l.jpg"
     }
   },
   "broadcast": {
@@ -131,12 +135,12 @@
     "timezone": "Asia/Tokyo",
     "string": "saturday 09:30"
   },
-  "rank": 8630,
-  "popularity": 9781,
-  "num_scoring_users": 511,
+  "rank": 8037,
+  "popularity": 9749,
+  "num_scoring_users": 532,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2025-12-23T11:38:09+00:00",
+  "updated_at": "2026-10-07T07:09:47+00:00",
   "source": "manga",
   "rating": "pg_13",
   "background": null,
@@ -146,8 +150,8 @@
         "id": 516,
         "title": "Keroro Gunsou",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1121/117792.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1121/117792l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1121/117792.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1121/117792l.webp"
         }
       },
       "relation_type": "alternative_version",
@@ -158,13 +162,13 @@
   "recommendations": [],
   "statistics": {
     "status": {
-      "watching": "1955",
-      "completed": "1",
-      "on_hold": "88",
-      "dropped": "416",
-      "plan_to_watch": "2555"
+      "watching": "1980",
+      "completed": "2",
+      "on_hold": "94",
+      "dropped": "427",
+      "plan_to_watch": "2569"
     },
-    "num_list_users": 5015
+    "num_list_users": 5072
   },
-  "mal_details_updated_at": "2026-11-10T01:34:32.459Z"
+  "mal_details_updated_at": "2026-11-15T01:55:37.932Z"
 }

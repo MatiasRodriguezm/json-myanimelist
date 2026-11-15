@@ -29,8 +29,8 @@
   "num_episodes": null,
   "score": 6.81,
   "mean": 6.81,
-  "numListUsers": 801,
-  "num_list_users": 801,
+  "numListUsers": 802,
+  "num_list_users": 802,
   "genres": [
     {
       "id": 10,
@@ -38,11 +38,15 @@
     }
   ],
   "studios": [],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1666/146758l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1105/152259l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1876/152313l.jpg"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T01:30:06.131Z",
+  "tmdb_updated_at": "2026-11-15T01:55:27.046Z",
   "simkl_id": null,
   "episodes_data": [],
   "specials_data": [],
@@ -60,25 +64,25 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1105/152259l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1105/152259l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1105/152259l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1105/152259l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1105/152259l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1105/152259l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1105/152259l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1105/152259l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1105/152259l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1105/152259l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1666/146758l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1666/146758l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1666/146758l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1666/146758l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1666/146758l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1666/146758l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1666/146758l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1666/146758l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1666/146758l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1666/146758l.jpg"
     }
   },
   "broadcast": null,
   "rank": null,
-  "popularity": 16588,
-  "num_scoring_users": 168,
+  "popularity": 16567,
+  "num_scoring_users": 169,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2024-11-30T22:59:15+00:00",
+  "updated_at": "2026-10-30T21:13:38+00:00",
   "source": "game",
   "rating": "pg_13",
   "background": null,
@@ -88,8 +92,8 @@
         "id": 54312,
         "title": "Yuanshen: Hai Dengjie CM Duanpian - Ming Xiao Huanmeng",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1336/132963.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1336/132963l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1336/132963.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1336/132963l.webp"
         }
       },
       "relation_type": "other",
@@ -160,8 +164,8 @@
         "id": 58696,
         "title": "Yuanshen: Xuqu PV - Zhi Zhongmu de Huanyan",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1623/142653.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1623/142653l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1623/142653.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1623/142653l.webp"
         }
       },
       "relation_type": "other",
@@ -172,8 +176,8 @@
         "id": 59301,
         "title": "Yuanshen: Yin Ran PV - Yi Fan Liao Zhu Ming",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1806/144265.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1806/144265l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1806/144265.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1806/144265l.jpg"
         }
       },
       "relation_type": "other",
@@ -208,8 +212,8 @@
         "id": 60701,
         "title": "Yuanshen: Nata Yinxiang PV - Ran Dong Nata",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1829/147373.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1829/147373l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1829/147373.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1829/147373l.webp"
         }
       },
       "relation_type": "other",
@@ -220,8 +224,8 @@
         "id": 61919,
         "title": "KFC x Yuanshen Liandong PV: Daihao K - Duo Bao Qibing",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1052/150759.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1052/150759l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1052/150759.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1052/150759l.jpg"
         }
       },
       "relation_type": "other",
@@ -401,12 +405,12 @@
   "statistics": {
     "status": {
       "watching": "305",
-      "completed": 0,
+      "completed": "2",
       "on_hold": "156",
       "dropped": "74",
-      "plan_to_watch": "261"
+      "plan_to_watch": "264"
     },
-    "num_list_users": 796
+    "num_list_users": 801
   },
-  "mal_details_updated_at": "2026-11-10T01:32:26.835Z"
+  "mal_details_updated_at": "2026-11-15T01:55:26.400Z"
 }

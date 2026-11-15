@@ -29,8 +29,8 @@
   "num_episodes": 12,
   "score": 7.74,
   "mean": 7.74,
-  "numListUsers": 95951,
-  "num_list_users": 95951,
+  "numListUsers": 95959,
+  "num_list_users": 95959,
   "genres": [
     {
       "id": 13,
@@ -47,7 +47,11 @@
       "name": "David Production"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1069/154957l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1889/156269l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1172/159893l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/3zmB6PLnjf7rNNC2lnvinQtlJMx.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/jF0Y73x1pWq6noava9Cp900i8Tm.png",
   "tmdb_id": "320909",
@@ -211,16 +215,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1172/159893l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1172/159893l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1172/159893l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1172/159893l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1172/159893l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1172/159893l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1172/159893l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1172/159893l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1172/159893l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1172/159893l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1069/154957l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1069/154957l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1069/154957l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1069/154957l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1069/154957l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1069/154957l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1069/154957l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1069/154957l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1069/154957l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1069/154957l.jpg"
     }
   },
   "broadcast": {
@@ -231,12 +235,12 @@
     "timezone": "Asia/Tokyo",
     "string": "friday 23:30"
   },
-  "rank": 1331,
-  "popularity": 2597,
-  "num_scoring_users": 9278,
+  "rank": 1356,
+  "popularity": 2535,
+  "num_scoring_users": 10065,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2026-01-11T19:06:20+00:00",
+  "updated_at": "2026-10-10T02:18:32+00:00",
   "source": "web_manga",
   "rating": "r",
   "background": "Hotaru no Yomeiri aired on Fuji TV's noitaminA block.",
@@ -277,18 +281,29 @@
           "large": "https://cdn.myanimelist.net/images/anime/1428/143773l.jpg"
         }
       },
-      "num_recommendations": 2
+      "num_recommendations": 3
+    },
+    {
+      "node": {
+        "id": 44516,
+        "title": "Koroshi Ai",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1485/119329.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1485/119329l.jpg"
+        }
+      },
+      "num_recommendations": 1
     }
   ],
   "statistics": {
     "status": {
-      "watching": "47175",
-      "completed": "12",
-      "on_hold": "896",
-      "dropped": "1400",
-      "plan_to_watch": "43266"
+      "watching": "49409",
+      "completed": "19",
+      "on_hold": "966",
+      "dropped": "1539",
+      "plan_to_watch": "44017"
     },
-    "num_list_users": 92749
+    "num_list_users": 95950
   },
-  "mal_details_updated_at": "2026-11-10T01:34:39.312Z"
+  "mal_details_updated_at": "2026-11-15T01:55:05.391Z"
 }

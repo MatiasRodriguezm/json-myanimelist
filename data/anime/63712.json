@@ -31,8 +31,8 @@
   "num_episodes": 12,
   "score": 6.59,
   "mean": 6.59,
-  "numListUsers": 30456,
-  "num_list_users": 30456,
+  "numListUsers": 30458,
+  "num_list_users": 30458,
   "genres": [
     {
       "id": 10,
@@ -57,7 +57,10 @@
       "name": "Bakkka"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1008/156031l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1760/159941l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/3knNVqZlEdwYPwYBWQechjvRzx0.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/rrfcUelVro1vO4vR9ZjE2vrUKNe.png",
   "tmdb_id": "316694",
@@ -160,16 +163,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1760/159941l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1760/159941l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1760/159941l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1760/159941l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1760/159941l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1760/159941l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1760/159941l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1760/159941l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1760/159941l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1760/159941l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1008/156031l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1008/156031l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1008/156031l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1008/156031l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1008/156031l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1008/156031l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1008/156031l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1008/156031l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1008/156031l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1008/156031l.jpg"
     }
   },
   "broadcast": {
@@ -180,12 +183,12 @@
     "timezone": "Asia/Tokyo",
     "string": "monday 22:00"
   },
-  "rank": 7406,
-  "popularity": 4808,
-  "num_scoring_users": 4343,
+  "rank": 7556,
+  "popularity": 4768,
+  "num_scoring_users": 4497,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2026-03-11T14:08:55+00:00",
+  "updated_at": "2026-11-14T20:27:57+00:00",
   "source": "web_manga",
   "rating": "pg_13",
   "background": null,
@@ -210,8 +213,8 @@
         "id": 56690,
         "title": "Re:Monster",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1523/141680.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1523/141680l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1523/141680.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1523/141680l.jpg"
         }
       },
       "num_recommendations": 1
@@ -219,13 +222,13 @@
   ],
   "statistics": {
     "status": {
-      "watching": "19405",
+      "watching": "19849",
       "completed": "3",
-      "on_hold": "348",
-      "dropped": "1130",
-      "plan_to_watch": "8916"
+      "on_hold": "368",
+      "dropped": "1193",
+      "plan_to_watch": "9043"
     },
-    "num_list_users": 29802
+    "num_list_users": 30456
   },
-  "mal_details_updated_at": "2026-11-10T01:35:48.455Z"
+  "mal_details_updated_at": "2026-11-15T01:55:33.164Z"
 }

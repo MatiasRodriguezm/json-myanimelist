@@ -29,8 +29,8 @@
   "num_episodes": null,
   "score": null,
   "mean": null,
-  "numListUsers": 276,
-  "num_list_users": 276,
+  "numListUsers": 277,
+  "num_list_users": 277,
   "genres": [
     {
       "id": 15,
@@ -47,11 +47,13 @@
       "name": "Imageworks Studio"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1405/158562l.jpg"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T01:30:41.276Z",
+  "tmdb_updated_at": "2026-11-15T01:57:31.070Z",
   "simkl_id": 3273462,
   "episodes_data": [],
   "specials_data": [],
@@ -89,12 +91,12 @@
     "timezone": "Asia/Tokyo",
     "string": "sunday 07:00"
   },
-  "rank": 22794,
-  "popularity": 22654,
+  "rank": 22801,
+  "popularity": 22552,
   "num_scoring_users": 18,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2026-06-19T14:33:34+00:00",
+  "updated_at": "2026-06-20T07:05:14+00:00",
   "source": "picture_book",
   "rating": "g",
   "background": null,
@@ -103,13 +105,13 @@
   "recommendations": [],
   "statistics": {
     "status": {
-      "watching": "40",
+      "watching": "44",
       "completed": 0,
-      "on_hold": "7",
+      "on_hold": "6",
       "dropped": "45",
-      "plan_to_watch": "179"
+      "plan_to_watch": "181"
     },
-    "num_list_users": 271
+    "num_list_users": 276
   },
-  "mal_details_updated_at": "2026-11-10T01:36:14.874Z"
+  "mal_details_updated_at": "2026-11-15T01:57:30.496Z"
 }

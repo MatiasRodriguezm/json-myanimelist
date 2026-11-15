@@ -29,8 +29,8 @@
   "num_episodes": null,
   "score": 6.27,
   "mean": 6.27,
-  "numListUsers": 4714,
-  "num_list_users": 4714,
+  "numListUsers": 4716,
+  "num_list_users": 4716,
   "genres": [
     {
       "id": 10,
@@ -43,7 +43,9 @@
       "name": "Studio Massket"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1360/160091l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/8iJ4IPl8BPVOL7C6lFKq2zeLdDs.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/3QFPNNFs1v5GokLZaIEIX8BrNg9.png",
   "tmdb_id": "335788",
@@ -186,12 +188,12 @@
     "timezone": "Asia/Tokyo",
     "string": "friday 21:25"
   },
-  "rank": 9475,
-  "popularity": 10261,
-  "num_scoring_users": 448,
+  "rank": 9537,
+  "popularity": 9991,
+  "num_scoring_users": 497,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2026-09-16T11:57:30+00:00",
+  "updated_at": "2026-09-27T22:32:17+00:00",
   "source": "original",
   "rating": "pg_13",
   "background": null,
@@ -200,13 +202,13 @@
   "recommendations": [],
   "statistics": {
     "status": {
-      "watching": "1857",
-      "completed": "1",
-      "on_hold": "120",
-      "dropped": "293",
-      "plan_to_watch": "2063"
+      "watching": "2032",
+      "completed": "2",
+      "on_hold": "128",
+      "dropped": "316",
+      "plan_to_watch": "2238"
     },
-    "num_list_users": 4334
+    "num_list_users": 4716
   },
-  "mal_details_updated_at": "2026-11-10T01:36:38.523Z"
+  "mal_details_updated_at": "2026-11-15T01:55:44.121Z"
 }

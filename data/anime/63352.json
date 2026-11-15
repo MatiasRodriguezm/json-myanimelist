@@ -53,11 +53,13 @@
       "name": "Dongwoo A&E"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1705/155680l.jpg"
+  ],
   "backdrop_url": null,
   "logo_url": "https://image.tmdb.org/t/p/w500/zYDeMOP1xH2l7TuuX6tnBfwJoJg.png",
   "tmdb_id": "312123",
-  "tmdb_updated_at": "2026-11-15T01:30:17.191Z",
+  "tmdb_updated_at": "2026-11-15T01:56:42.262Z",
   "simkl_id": 3072650,
   "episodes_data": [
     {
@@ -456,12 +458,12 @@
     "timezone": "Asia/Tokyo",
     "string": "sunday 09:30"
   },
-  "rank": 10610,
-  "popularity": 13826,
+  "rank": 10566,
+  "popularity": 13822,
   "num_scoring_users": 164,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2026-01-22T01:29:33+00:00",
+  "updated_at": "2026-02-27T11:19:21+00:00",
   "source": "game",
   "rating": "pg",
   "background": null,
@@ -495,13 +497,13 @@
   "recommendations": [],
   "statistics": {
     "status": {
-      "watching": "468",
+      "watching": "471",
       "completed": 0,
-      "on_hold": "59",
+      "on_hold": "57",
       "dropped": "221",
-      "plan_to_watch": "812"
+      "plan_to_watch": "815"
     },
-    "num_list_users": 1560
+    "num_list_users": 1564
   },
-  "mal_details_updated_at": "2026-11-10T01:34:42.386Z"
+  "mal_details_updated_at": "2026-11-15T01:56:41.664Z"
 }

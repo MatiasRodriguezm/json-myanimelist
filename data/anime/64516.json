@@ -28,8 +28,8 @@
   "num_episodes": null,
   "score": null,
   "mean": null,
-  "numListUsers": 68113,
-  "num_list_users": 68113,
+  "numListUsers": 68137,
+  "num_list_users": 68137,
   "genres": [
     {
       "id": 10,
@@ -46,47 +46,49 @@
       "name": "BUG FILMS"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1928/158795l.jpg"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T01:31:33.616Z",
+  "tmdb_updated_at": "2026-11-15T01:58:58.890Z",
   "simkl_id": 3168140,
   "episodes_data": [],
   "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1928/158795.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1928/158795l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1928/158795.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1928/158795l.webp"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1928/158795.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1928/158795l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1928/158795.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1928/158795l.jpg"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1928/158795.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1928/158795l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1928/158795.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1928/158795l.jpg"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1928/158795l.webp",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1928/158795l.webp",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1928/158795l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1928/158795l.webp",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1928/158795l.webp",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1928/158795l.webp",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1928/158795l.webp",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1928/158795l.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1928/158795l.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1928/158795l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1928/158795l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1928/158795l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1928/158795l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1928/158795l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1928/158795l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1928/158795l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1928/158795l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1928/158795l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1928/158795l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1928/158795l.jpg"
     }
   },
   "broadcast": null,
   "rank": null,
-  "popularity": 3136,
-  "num_scoring_users": 1,
+  "popularity": 3129,
+  "num_scoring_users": 5,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2026-06-29T15:34:02+00:00",
+  "updated_at": "2026-06-29T16:07:00+00:00",
   "source": "manga",
   "rating": "pg_13",
   "background": null,
@@ -108,13 +110,13 @@
   "recommendations": [],
   "statistics": {
     "status": {
-      "watching": "4",
-      "completed": 0,
-      "on_hold": "1",
+      "watching": "7",
+      "completed": "1",
+      "on_hold": "2",
       "dropped": 0,
-      "plan_to_watch": "67673"
+      "plan_to_watch": "68103"
     },
-    "num_list_users": 67678
+    "num_list_users": 68113
   },
-  "mal_details_updated_at": "2026-11-10T01:36:23.021Z"
+  "mal_details_updated_at": "2026-11-15T01:58:58.139Z"
 }

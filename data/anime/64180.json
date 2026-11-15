@@ -53,11 +53,13 @@
       "name": "Imageworks Studio"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1782/158664l.jpg"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T01:30:08.950Z",
+  "tmdb_updated_at": "2026-11-15T01:55:32.794Z",
   "simkl_id": 3269450,
   "episodes_data": [
     {
@@ -216,12 +218,12 @@
     "timezone": "Asia/Tokyo",
     "string": "friday 00:00"
   },
-  "rank": 7519,
-  "popularity": 8842,
-  "num_scoring_users": 382,
+  "rank": 7521,
+  "popularity": 8808,
+  "num_scoring_users": 396,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2026-05-12T03:47:47+00:00",
+  "updated_at": "2026-10-01T23:57:48+00:00",
   "source": "web_manga",
   "rating": "pg_13",
   "background": null,
@@ -231,8 +233,8 @@
         "id": 59961,
         "title": "Kizu darake Seijo yori Houfuku wo Komete",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1546/145782.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1546/145782l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1546/145782.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1546/145782l.webp"
         }
       },
       "relation_type": "prequel",
@@ -243,13 +245,13 @@
   "recommendations": [],
   "statistics": {
     "status": {
-      "watching": "1865",
-      "completed": 0,
-      "on_hold": "98",
-      "dropped": "167",
-      "plan_to_watch": "4401"
+      "watching": "1906",
+      "completed": "1",
+      "on_hold": "102",
+      "dropped": "173",
+      "plan_to_watch": "4447"
     },
-    "num_list_users": 6531
+    "num_list_users": 6629
   },
-  "mal_details_updated_at": "2026-11-10T01:36:07.998Z"
+  "mal_details_updated_at": "2026-11-15T01:55:32.308Z"
 }

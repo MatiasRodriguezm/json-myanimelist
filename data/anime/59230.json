@@ -53,47 +53,50 @@
     }
   ],
   "studios": [],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1057/144079l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1549/144140l.jpg"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T01:31:45.568Z",
+  "tmdb_updated_at": "2026-11-15T01:59:45.446Z",
   "simkl_id": 2510234,
   "episodes_data": [],
   "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1549/144140.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1549/144140l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1549/144140.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1549/144140l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1549/144140.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1549/144140l.webp",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1549/144140.webp",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1549/144140l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1549/144140.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1549/144140l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1549/144140.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1549/144140l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1549/144140l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1549/144140l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1549/144140l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1549/144140l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1549/144140l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1549/144140l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1549/144140l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1549/144140l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1549/144140l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1549/144140l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1057/144079l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1057/144079l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1057/144079l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1057/144079l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1057/144079l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1057/144079l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1057/144079l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1057/144079l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1057/144079l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1057/144079l.jpg"
     }
   },
   "broadcast": null,
   "rank": null,
-  "popularity": 4098,
-  "num_scoring_users": 1,
+  "popularity": 4092,
+  "num_scoring_users": 2,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2024-07-07T02:09:42+00:00",
+  "updated_at": "2026-09-09T21:39:38+00:00",
   "source": "web_manga",
   "rating": null,
   "background": null,
@@ -102,13 +105,13 @@
   "recommendations": [],
   "statistics": {
     "status": {
-      "watching": "1",
-      "completed": 0,
-      "on_hold": "3",
+      "watching": "3",
+      "completed": "1",
+      "on_hold": "1",
       "dropped": 0,
-      "plan_to_watch": "42466"
+      "plan_to_watch": "42571"
     },
-    "num_list_users": 42470
+    "num_list_users": 42576
   },
-  "mal_details_updated_at": "2026-11-10T01:32:13.715Z"
+  "mal_details_updated_at": "2026-11-15T01:59:44.991Z"
 }

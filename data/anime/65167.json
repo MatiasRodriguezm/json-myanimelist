@@ -29,8 +29,8 @@
   "num_episodes": 12,
   "score": 5.99,
   "mean": 5.99,
-  "numListUsers": 647,
-  "num_list_users": 647,
+  "numListUsers": 649,
+  "num_list_users": 649,
   "genres": [
     {
       "id": 4,
@@ -38,11 +38,13 @@
     }
   ],
   "studios": [],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1958/160505l.jpg"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T01:30:18.163Z",
+  "tmdb_updated_at": "2026-11-15T01:56:44.386Z",
   "simkl_id": null,
   "episodes_data": [],
   "specials_data": [],
@@ -73,12 +75,12 @@
     }
   },
   "broadcast": null,
-  "rank": 18243,
-  "popularity": 17936,
-  "num_scoring_users": 101,
+  "rank": 11155,
+  "popularity": 17623,
+  "num_scoring_users": 112,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2026-10-11T11:06:25+00:00",
+  "updated_at": "2026-10-11T12:13:40+00:00",
   "source": "web_manga",
   "rating": "pg_13",
   "background": null,
@@ -100,13 +102,13 @@
   "recommendations": [],
   "statistics": {
     "status": {
-      "watching": "385",
-      "completed": 0,
+      "watching": "407",
+      "completed": "3",
       "on_hold": "21",
-      "dropped": "81",
-      "plan_to_watch": "123"
+      "dropped": "84",
+      "plan_to_watch": "132"
     },
-    "num_list_users": 610
+    "num_list_users": 647
   },
-  "mal_details_updated_at": "2026-11-10T01:37:20.028Z"
+  "mal_details_updated_at": "2026-11-15T01:56:43.750Z"
 }

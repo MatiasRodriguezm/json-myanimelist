@@ -53,11 +53,14 @@
       "name": "Tatsunoko Production"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1214/155284l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1084/160725l.jpg"
+  ],
   "backdrop_url": null,
   "logo_url": "https://image.tmdb.org/t/p/w500/9kSIn4sc5iANLcdgXM5aLHDVu85.png",
   "tmdb_id": "313215",
-  "tmdb_updated_at": "2026-11-15T01:31:07.523Z",
+  "tmdb_updated_at": "2026-11-15T01:58:08.253Z",
   "simkl_id": 3012818,
   "episodes_data": [
     {
@@ -86,16 +89,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1084/160725l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1084/160725l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1084/160725l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1084/160725l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1084/160725l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1084/160725l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1084/160725l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1084/160725l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1084/160725l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1084/160725l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1214/155284l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1214/155284l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1214/155284l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1214/155284l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1214/155284l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1214/155284l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1214/155284l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1214/155284l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1214/155284l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1214/155284l.jpg"
     }
   },
   "broadcast": {
@@ -107,11 +110,11 @@
     "string": "monday 23:00"
   },
   "rank": null,
-  "popularity": 5753,
+  "popularity": 5717,
   "num_scoring_users": 1,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2026-02-04T10:12:58+00:00",
+  "updated_at": "2026-10-28T07:12:02+00:00",
   "source": "manga",
   "rating": null,
   "background": null,
@@ -121,8 +124,8 @@
         "id": 39196,
         "title": "Mairimashita! Iruma-kun",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1009/103187.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1009/103187l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1009/103187.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1009/103187l.webp"
         }
       },
       "relation_type": "parent_story",
@@ -137,9 +140,9 @@
       "completed": "1",
       "on_hold": "3",
       "dropped": "1",
-      "plan_to_watch": "19391"
+      "plan_to_watch": "19682"
     },
-    "num_list_users": 19399
+    "num_list_users": 19690
   },
-  "mal_details_updated_at": "2026-11-10T01:35:40.844Z"
+  "mal_details_updated_at": "2026-11-15T01:58:07.827Z"
 }

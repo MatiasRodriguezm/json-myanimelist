@@ -29,8 +29,8 @@
   "num_episodes": 12,
   "score": 6.73,
   "mean": 6.73,
-  "numListUsers": 12011,
-  "num_list_users": 12011,
+  "numListUsers": 12012,
+  "num_list_users": 12012,
   "genres": [
     {
       "id": 50,
@@ -59,7 +59,11 @@
       "name": "Arvo Animation"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1351/152531l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1907/158537l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1874/160335l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/ru9Nc9HBAUjTVjngbgNUCdKRNa0.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/9aGLwUGjTRS2yOq7NtOchBxw9DP.png",
   "tmdb_id": "327765",
@@ -162,16 +166,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1874/160335l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1874/160335l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1874/160335l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1874/160335l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1874/160335l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1874/160335l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1874/160335l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1874/160335l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1874/160335l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1874/160335l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1351/152531l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1351/152531l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1351/152531l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1351/152531l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1351/152531l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1351/152531l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1351/152531l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1351/152531l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1351/152531l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1351/152531l.jpg"
     }
   },
   "broadcast": {
@@ -182,12 +186,12 @@
     "timezone": "Asia/Tokyo",
     "string": "tuesday 23:00"
   },
-  "rank": 6469,
-  "popularity": 6995,
-  "num_scoring_users": 1605,
+  "rank": 6536,
+  "popularity": 6937,
+  "num_scoring_users": 1690,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2025-10-12T15:46:00+00:00",
+  "updated_at": "2026-11-14T20:34:07+00:00",
   "source": "manga",
   "rating": "pg_13",
   "background": "Choujun! Choujou-senpai aired on Kansai TV and Fuji TV's Ka-Anival!! block.",
@@ -219,13 +223,13 @@
   ],
   "statistics": {
     "status": {
-      "watching": "6160",
-      "completed": "2",
-      "on_hold": "173",
-      "dropped": "813",
-      "plan_to_watch": "4592"
+      "watching": "6262",
+      "completed": "3",
+      "on_hold": "187",
+      "dropped": "877",
+      "plan_to_watch": "4682"
     },
-    "num_list_users": 11740
+    "num_list_users": 12011
   },
-  "mal_details_updated_at": "2026-11-10T01:34:11.845Z"
+  "mal_details_updated_at": "2026-11-15T01:55:29.399Z"
 }

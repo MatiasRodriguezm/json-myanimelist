@@ -67,7 +67,19 @@
       "name": "OLM"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1896/131888l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1210/133296l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1831/133946l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1970/135281l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1066/137118l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1703/137216l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1628/139216l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1907/139359l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1949/142593l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1420/145459l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1772/148477l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/d0axpGojOqDag5lDa0eNSEtw11l.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/mYDlRCy9uvowwwyYWQbMj9HUKay.png",
   "tmdb_id": "220150",
@@ -1811,16 +1823,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1703/137216l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1703/137216l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1703/137216l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1703/137216l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1703/137216l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1703/137216l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1703/137216l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1703/137216l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1703/137216l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1703/137216l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1896/131888l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1896/131888l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1896/131888l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1896/131888l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1896/131888l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1896/131888l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1896/131888l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1896/131888l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1896/131888l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1896/131888l.jpg"
     }
   },
   "broadcast": {
@@ -1831,12 +1843,12 @@
     "timezone": "Asia/Tokyo",
     "string": "friday 18:55"
   },
-  "rank": 2792,
-  "popularity": 4016,
-  "num_scoring_users": 11150,
+  "rank": 2793,
+  "popularity": 4017,
+  "num_scoring_users": 11161,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2022-12-16T15:23:07+00:00",
+  "updated_at": "2025-03-21T18:28:05+00:00",
   "source": "game",
   "rating": "pg",
   "background": "Pokemon (2023) features elements and settings from the 2022 Nintendo Switch games Pokémon Scarlet and Violet by Game Freak.",
@@ -1846,8 +1858,8 @@
         "id": 527,
         "title": "Pokemon",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1787/140239.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1787/140239l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1787/140239.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1787/140239l.webp"
         }
       },
       "relation_type": "other",
@@ -1977,13 +1989,13 @@
   ],
   "statistics": {
     "status": {
-      "watching": "21433",
-      "completed": "2",
-      "on_hold": "6068",
-      "dropped": "4437",
-      "plan_to_watch": "12076"
+      "watching": "21437",
+      "completed": "1",
+      "on_hold": "6085",
+      "dropped": "4450",
+      "plan_to_watch": "12086"
     },
-    "num_list_users": 44016
+    "num_list_users": 44059
   },
-  "mal_details_updated_at": "2026-11-10T01:30:53.008Z"
+  "mal_details_updated_at": "2026-11-15T01:55:14.001Z"
 }

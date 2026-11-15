@@ -49,11 +49,13 @@
     }
   ],
   "studios": [],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1195/154761l.jpg"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T01:31:44.879Z",
+  "tmdb_updated_at": "2026-11-15T01:59:43.706Z",
   "simkl_id": 2982148,
   "episodes_data": [],
   "specials_data": [],
@@ -85,11 +87,11 @@
   },
   "broadcast": null,
   "rank": null,
-  "popularity": 4068,
-  "num_scoring_users": 3,
+  "popularity": 4062,
+  "num_scoring_users": 1,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2025-12-31T14:29:14+00:00",
+  "updated_at": "2026-09-14T12:35:22+00:00",
   "source": "manga",
   "rating": "pg_13",
   "background": null,
@@ -99,8 +101,8 @@
         "id": 61903,
         "title": "Kaguya-sama wa Kokurasetai: Otona e no Kaidan",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1112/150697.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1112/150697l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1112/150697.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1112/150697l.webp"
         }
       },
       "relation_type": "prequel",
@@ -111,13 +113,13 @@
   "recommendations": [],
   "statistics": {
     "status": {
-      "watching": "1",
-      "completed": "2",
-      "on_hold": "3",
+      "watching": "2",
+      "completed": "1",
+      "on_hold": "2",
       "dropped": 0,
-      "plan_to_watch": "42992"
+      "plan_to_watch": "43140"
     },
-    "num_list_users": 42998
+    "num_list_users": 43145
   },
-  "mal_details_updated_at": "2026-11-10T01:34:35.492Z"
+  "mal_details_updated_at": "2026-11-15T01:59:42.967Z"
 }

@@ -51,7 +51,13 @@
       "name": "OLM"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1312/138299l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1670/140694l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1657/143183l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1394/145458l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1533/152273l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/qAq9RBeHZoTMDFqQZ2o4cE5CJIQ.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/sC8VGgUi1KSJpx9TjAWj8Z3Ee1A.png",
   "tmdb_id": "226688",
@@ -1555,16 +1561,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1394/145458l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1394/145458l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1394/145458l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1394/145458l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1394/145458l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1394/145458l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1394/145458l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1394/145458l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1394/145458l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1394/145458l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1312/138299l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1312/138299l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1312/138299l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1312/138299l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1312/138299l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1312/138299l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1312/138299l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1312/138299l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1312/138299l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1312/138299l.jpg"
     }
   },
   "broadcast": {
@@ -1575,12 +1581,12 @@
     "timezone": "Asia/Tokyo",
     "string": "friday 18:25"
   },
-  "rank": 5881,
-  "popularity": 8180,
+  "rank": 5878,
+  "popularity": 8176,
   "num_scoring_users": 2155,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2023-09-07T03:08:30+00:00",
+  "updated_at": "2024-12-01T04:32:50+00:00",
   "source": "manga",
   "rating": "pg",
   "background": null,
@@ -1653,8 +1659,8 @@
         "id": 34034,
         "title": "Pokemon Sun & Moon",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/11/84673.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/11/84673l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/11/84673.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/11/84673l.webp"
         }
       },
       "num_recommendations": 1
@@ -1673,13 +1679,13 @@
   ],
   "statistics": {
     "status": {
-      "watching": "3904",
-      "completed": "2",
-      "on_hold": "852",
+      "watching": "3909",
+      "completed": "1",
+      "on_hold": "857",
       "dropped": "996",
-      "plan_to_watch": "2157"
+      "plan_to_watch": "2159"
     },
-    "num_list_users": 7911
+    "num_list_users": 7922
   },
-  "mal_details_updated_at": "2026-11-10T01:31:00.788Z"
+  "mal_details_updated_at": "2026-11-15T01:55:25.544Z"
 }

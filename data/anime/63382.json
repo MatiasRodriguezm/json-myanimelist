@@ -29,8 +29,8 @@
   "num_episodes": 25,
   "score": 7.42,
   "mean": 7.42,
-  "numListUsers": 45077,
-  "num_list_users": 45077,
+  "numListUsers": 45080,
+  "num_list_users": 45080,
   "genres": [
     {
       "id": 10,
@@ -47,7 +47,12 @@
       "name": "Konami animation"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1116/155161l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1000/159223l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1362/160050l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1393/160054l.jpg"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/5obfnImCRn0LzQnRb4jxuCJRlxd.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/riCiNoSEkHZzHtMg1RUXPxgGcgc.png",
   "tmdb_id": "312850",
@@ -321,16 +326,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1000/159223l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1000/159223l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1000/159223l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1000/159223l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1000/159223l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1000/159223l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1000/159223l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1000/159223l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1000/159223l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1000/159223l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1116/155161l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1116/155161l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1116/155161l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1116/155161l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1116/155161l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1116/155161l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1116/155161l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1116/155161l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1116/155161l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1116/155161l.jpg"
     }
   },
   "broadcast": {
@@ -341,12 +346,12 @@
     "timezone": "Asia/Tokyo",
     "string": "tuesday 21:25"
   },
-  "rank": 2453,
-  "popularity": 4034,
-  "num_scoring_users": 5207,
+  "rank": 2592,
+  "popularity": 3969,
+  "num_scoring_users": 5520,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2026-01-28T09:37:58+00:00",
+  "updated_at": "2026-10-07T09:41:46+00:00",
   "source": "light_novel",
   "rating": "pg_13",
   "background": null,
@@ -383,8 +388,8 @@
         "id": 50481,
         "title": "Eiyuuou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1044/129594.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1044/129594l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1044/129594.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1044/129594l.jpg"
         }
       },
       "num_recommendations": 2
@@ -405,8 +410,8 @@
         "id": 42072,
         "title": "Kenja no Deshi wo Nanoru Kenja",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1583/119223.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1583/119223l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1583/119223.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1583/119223l.webp"
         }
       },
       "num_recommendations": 1
@@ -427,8 +432,8 @@
         "id": 48316,
         "title": "Kage no Jitsuryokusha ni Naritakute!",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1091/128729.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1091/128729l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1091/128729.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1091/128729l.jpg"
         }
       },
       "num_recommendations": 1
@@ -436,13 +441,13 @@
   ],
   "statistics": {
     "status": {
-      "watching": "24028",
-      "completed": "3",
-      "on_hold": "467",
-      "dropped": "941",
-      "plan_to_watch": "18175"
+      "watching": "24790",
+      "completed": "4",
+      "on_hold": "512",
+      "dropped": "1108",
+      "plan_to_watch": "18661"
     },
-    "num_list_users": 43614
+    "num_list_users": 45075
   },
-  "mal_details_updated_at": "2026-11-10T01:34:44.748Z"
+  "mal_details_updated_at": "2026-11-15T01:55:12.354Z"
 }
