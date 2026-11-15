@@ -13,6 +13,7 @@
     "ja": "ギヴン うらがわの存在"
   },
   "synopsis": "Since the night of \"given's\" first live performance, the relationship between Mafuyu Satou and Ritsuka Uenoyama has been smooth sailing. Their shared love of music reinforces their bond, and every moment spent together makes them more inseparable. Nevertheless, there will come times when they will suffer setbacks, with both of them consumed by their inner turmoil.\n\n[Written by MAL Rewrite]\n",
+  "synopsis_es": "Desde la noche de la primera presentación en vivo de \"given\", la relación entre Mafuyu Satou y Ritsuka Uenoyama ha ido sobre ruedas. Su amor compartido por la música refuerza su vínculo y cada momento que pasan juntos los hace más inseparables. Sin embargo, llegarán momentos en los que sufrirán reveses, y ambos estarán consumidos por su confusión interior.\n\n[Escrito por MAL Rewrite]",
   "type": "OVA",
   "media_type": "ova",
   "status": "finished_airing",
@@ -60,30 +61,13 @@
   ],
   "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/k76NuWGNLInN9WjhH7zhAcXBxvX.jpg",
-  "logo_url": "https://image.tmdb.org/t/p/w500/7pmbyITQ2fdMfqv9gwCxNnEkMaV.png",
+  "logo_url": "https://image.tmdb.org/t/p/w300/7pmbyITQ2fdMfqv9gwCxNnEkMaV.png",
   "tmdb_id": "88040",
   "tmdb_updated_at": "2026-11-06T22:02:23.942Z",
-  "simkl_id": 1649311,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "episodeNumber": 1,
-      "title": "OAD",
-      "aired": "2021-12-01T00:00:00+09:00",
-      "airedDate": "2021-12-01T00:00:00+09:00",
-      "thumbnail": null,
-      "imageUrl": null,
-      "description": null,
-      "title_es": "ODA"
-    }
-  ],
-  "specials_data": [],
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1031/115154.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1031/115154l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1031/115154.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1031/115154l.webp"
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1031/115154l.webp"
     }
   },
   "main_picture": {
@@ -92,27 +76,31 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1031/115154l.webp",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1031/115154l.webp",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1031/115154l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1031/115154l.webp",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1031/115154l.webp",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1031/115154l.webp",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1031/115154l.webp",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1031/115154l.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1031/115154l.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1031/115154l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1031/115154l.webp"
     }
   },
   "broadcast": null,
   "rank": 559,
   "popularity": 2388,
+  "rating": "pg_13",
+  "simkl_id": 1649311,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "title": "OAD",
+      "title_es": "ODA",
+      "aired": "2021-12-01T00:00:00+09:00",
+      "thumbnail": null,
+      "description": null
+    }
+  ],
+  "specials_data": [],
+  "characters": [],
   "num_scoring_users": 47308,
   "nsfw": "gray",
   "created_at": null,
   "updated_at": null,
   "source": "manga",
-  "rating": "pg_13",
   "background": "Given: Uragawa no Sonzai is bundled with the special edition of the seventh volume of the manga. It includes scenes that were not shown in Given Movie.",
   "related_anime": [
     {
@@ -151,8 +139,5 @@
       "plan_to_watch": "32813"
     },
     "num_list_users": 105333
-  },
-  "mal_details_updated_at": "2026-11-10T01:30:33.128Z",
-  "synopsis_es": "Desde la noche de la primera presentación en vivo de \"given\", la relación entre Mafuyu Satou y Ritsuka Uenoyama ha ido sobre ruedas. Su amor compartido por la música refuerza su vínculo y cada momento que pasan juntos los hace más inseparables. Sin embargo, llegarán momentos en los que sufrirán reveses, y ambos estarán consumidos por su confusión interior.\n\n[Escrito por MAL Rewrite]",
-  "translations_updated_at": "2026-11-15T13:10:12.198Z"
+  }
 }

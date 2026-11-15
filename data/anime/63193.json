@@ -13,6 +13,7 @@
     "ja": "ワンパンマン 3期 第2クール"
   },
   "synopsis": "Part two of One Punch Man 3.",
+  "synopsis_es": "Segunda parte de One Punch Man 3.",
   "type": "TV",
   "media_type": "tv",
   "status": "not_yet_aired",
@@ -71,27 +72,10 @@
   "logo_url": null,
   "tmdb_id": null,
   "tmdb_updated_at": "2026-11-15T13:05:11.965Z",
-  "simkl_id": 2978034,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "episodeNumber": 1,
-      "title": "Episode 1",
-      "aired": "2027-01-01T00:00:00+09:00",
-      "airedDate": "2027-01-01T00:00:00+09:00",
-      "thumbnail": null,
-      "imageUrl": null,
-      "description": null,
-      "title_es": "Episodio 1"
-    }
-  ],
-  "specials_data": [],
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1008/160499.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1008/160499l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1008/160499.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1008/160499l.webp"
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1008/160499l.webp"
     }
   },
   "main_picture": {
@@ -100,27 +84,31 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1008/160499l.webp",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1008/160499l.webp",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1008/160499l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1008/160499l.webp",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1008/160499l.webp",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1008/160499l.webp",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1008/160499l.webp",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1008/160499l.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1008/160499l.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1008/160499l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1008/160499l.webp"
     }
   },
   "broadcast": null,
   "rank": null,
   "popularity": 3689,
+  "rating": "r",
+  "simkl_id": 2978034,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "title": "Episode 1",
+      "title_es": "Episodio 1",
+      "aired": "2027-01-01T00:00:00+09:00",
+      "thumbnail": null,
+      "description": null
+    }
+  ],
+  "specials_data": [],
+  "characters": [],
   "num_scoring_users": 2,
   "nsfw": "white",
   "created_at": null,
   "updated_at": null,
   "source": "web_manga",
-  "rating": "r",
   "background": null,
   "related_anime": [
     {
@@ -147,8 +135,5 @@
       "plan_to_watch": "50632"
     },
     "num_list_users": 50649
-  },
-  "mal_details_updated_at": "2026-11-15T01:58:02.029Z",
-  "synopsis_es": "Segunda parte de One Punch Man 3.",
-  "translations_updated_at": "2026-11-15T13:12:11.791Z"
+  }
 }

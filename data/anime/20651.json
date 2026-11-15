@@ -15,6 +15,7 @@
     "ja": "夏目友人帳 新作OVA いつかゆきのひに"
   },
   "synopsis": "As the first delicate snowflake touches the cold ground, Nyanko-sensei dozes on his hot-water bottle next to Takashi Natsume. While his aunt prepares a warm dinner, Natsume takes a walk, welcoming the snow and the chilly weather. However, his peaceful promenade is disturbed by a white, fluffy snowman yokai with perturbing black eyes, searching for something warm and sparkly. With no further information, Natsume sets off to help find what the spirit desires.\n\n[Written by MAL Rewrite]\n",
+  "synopsis_es": "Cuando el primer delicado copo de nieve toca el suelo frío, Nyanko-sensei duerme sobre su bolsa de agua caliente junto a Takashi Natsume. Mientras su tía prepara una cena caliente, Natsume da un paseo, dando la bienvenida a la nieve y al clima frío. Sin embargo, su tranquilo paseo se ve perturbado por un yokai muñeco de nieve blanco y esponjoso con perturbadores ojos negros, que busca algo cálido y brillante. Sin más información, Natsume parte para ayudar a encontrar lo que el espíritu desea.\n\n[Escrito por MAL Rewrite]",
   "type": "OVA",
   "media_type": "ova",
   "status": "finished_airing",
@@ -66,71 +67,55 @@
   ],
   "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/xHjRfQIRlxug491JrKiEYl9vHM1.jpg",
-  "logo_url": "https://image.tmdb.org/t/p/w500/5yXuwShhyHfEc5u3YTgjDIDIw6V.png",
+  "logo_url": "https://image.tmdb.org/t/p/w300/5yXuwShhyHfEc5u3YTgjDIDIw6V.png",
   "tmdb_id": "69500",
   "tmdb_updated_at": "2026-11-06T22:02:18.882Z",
-  "simkl_id": 47816,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "episodeNumber": 1,
-      "title": "OVA",
-      "aired": "2014-02-05T00:00:00+09:00",
-      "airedDate": "2014-02-05T00:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/83/8371765142ea69290_w.webp",
-      "imageUrl": "https://simkl.in/episodes/83/8371765142ea69290_w.webp",
-      "description": null,
-      "title_es": "ÓVULO"
-    }
-  ],
-  "specials_data": [
-    {
-      "episode": 1,
-      "episodeNumber": 1,
-      "title": "Sound Theatre",
-      "aired": true,
-      "airedDate": true,
-      "thumbnail": null,
-      "imageUrl": null,
-      "description": null,
-      "title_es": "Teatro sonoro"
-    }
-  ],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/11/79742.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/79742l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/11/79742.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/11/79742l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/11/79742.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/79742l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/11/79742.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/11/79742l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/11/79742.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/11/79742l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/11/79742l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/11/79742l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/11/79742l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/11/79742l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/11/79742l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/11/79742l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/11/79742l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/11/79742l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/11/79742l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/11/79742l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/11/79742l.webp"
     }
   },
   "broadcast": null,
   "rank": 313,
   "popularity": 2690,
+  "rating": "pg_13",
+  "simkl_id": 47816,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "title": "OVA",
+      "title_es": "ÓVULO",
+      "aired": "2014-02-05T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/83/8371765142ea69290_w.webp",
+      "description": null
+    }
+  ],
+  "specials_data": [
+    {
+      "episode": 1,
+      "title": "Sound Theatre",
+      "title_es": "Teatro sonoro",
+      "aired": true,
+      "thumbnail": null,
+      "description": null
+    }
+  ],
+  "characters": [],
   "num_scoring_users": 39155,
   "nsfw": "white",
   "created_at": null,
   "updated_at": null,
   "source": "manga",
-  "rating": "pg_13",
   "background": null,
   "related_anime": [
     {
@@ -157,8 +142,5 @@
       "plan_to_watch": "26818"
     },
     "num_list_users": 87827
-  },
-  "mal_details_updated_at": "2026-11-10T01:27:27.645Z",
-  "synopsis_es": "Cuando el primer delicado copo de nieve toca el suelo frío, Nyanko-sensei duerme sobre su bolsa de agua caliente junto a Takashi Natsume. Mientras su tía prepara una cena caliente, Natsume da un paseo, dando la bienvenida a la nieve y al clima frío. Sin embargo, su tranquilo paseo se ve perturbado por un yokai muñeco de nieve blanco y esponjoso con perturbadores ojos negros, que busca algo cálido y brillante. Sin más información, Natsume parte para ayudar a encontrar lo que el espíritu desea.\n\n[Escrito por MAL Rewrite]",
-  "translations_updated_at": "2026-11-15T13:08:36.879Z"
+  }
 }

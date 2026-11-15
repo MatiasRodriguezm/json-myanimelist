@@ -10,6 +10,7 @@
     "ja": "罗德岛学院"
   },
   "synopsis": null,
+  "synopsis_es": null,
   "type": "ONA",
   "media_type": "ona",
   "status": "currently_airing",
@@ -52,44 +53,34 @@
   "logo_url": null,
   "tmdb_id": null,
   "tmdb_updated_at": "2026-11-15T13:04:47.242Z",
-  "simkl_id": null,
-  "episodes_data": [],
-  "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1698/160701.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1698/160701l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1698/160701.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1698/160701l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1698/160701.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1698/160701l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1698/160701.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1698/160701l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1698/160701.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1698/160701l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1698/160701l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1698/160701l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1698/160701l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1698/160701l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1698/160701l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1698/160701l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1698/160701l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1698/160701l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1698/160701l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1698/160701l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1698/160701l.webp"
     }
   },
   "broadcast": null,
   "rank": 18852,
   "popularity": 21188,
+  "rating": "pg_13",
+  "simkl_id": null,
+  "episodes_data": [],
+  "specials_data": [],
+  "characters": [],
   "num_scoring_users": 35,
   "nsfw": "white",
   "created_at": null,
   "updated_at": null,
   "source": "game",
-  "rating": "pg_13",
   "background": null,
   "related_anime": [
     {
@@ -128,6 +119,5 @@
       "plan_to_watch": "192"
     },
     "num_list_users": 350
-  },
-  "mal_details_updated_at": "2026-11-15T01:57:26.500Z"
+  }
 }

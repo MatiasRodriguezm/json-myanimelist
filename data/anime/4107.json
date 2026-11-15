@@ -13,6 +13,7 @@
     "ja": "劇場版 天元突破グレンラガン 紅蓮篇"
   },
   "synopsis": "Animation studio Gainax presented a website for the release of a movie adaptation of the Tengen Toppa Gurren Lagann TV series in the fall of 2008. Both the original director and series script editor will return to work on the new project. Gainax will also be hosting four events to celebrate this occasion at this year's Tokyo International Anime Fair, featuring voice actors from the anime.",
+  "synopsis_es": "El estudio de animación Gainax presentó un sitio web para el lanzamiento de una adaptación cinematográfica de la serie de televisión Tengen Toppa Gurren Lagann en el otoño de 2008. Tanto el director original como el editor de guiones de la serie volverán a trabajar en el nuevo proyecto. Gainax también organizará cuatro eventos para celebrar esta ocasión en la Feria Internacional del Anime de Tokio de este año, con actores de doblaje del anime.",
   "type": "Movie",
   "media_type": "movie",
   "status": "finished_airing",
@@ -50,26 +51,15 @@
       "name": "Gainax"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/12/7503l.jpg",
-    "https://cdn.myanimelist.net/images/anime/7/7740l.jpg",
-    "https://cdn.myanimelist.net/images/anime/10/11373l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1271/97275l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1270/115752l.jpg"
-  ],
+  "pictures": [],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
   "tmdb_updated_at": null,
-  "simkl_id": null,
-  "episodes_data": [],
-  "specials_data": [],
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1270/115752.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1270/115752l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1270/115752.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1270/115752l.webp"
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1270/115752l.webp"
     }
   },
   "main_picture": {
@@ -78,27 +68,22 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/12/7503l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/12/7503l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/12/7503l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/12/7503l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/7503l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/12/7503l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/12/7503l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/12/7503l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/7503l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/12/7503l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1270/115752l.webp"
     }
   },
   "broadcast": null,
   "rank": 477,
   "popularity": 1458,
+  "rating": "pg_13",
+  "simkl_id": null,
+  "episodes_data": [],
+  "specials_data": [],
+  "characters": [],
   "num_scoring_users": 91752,
   "nsfw": "white",
   "created_at": "2008-03-13T19:22:56+00:00",
   "updated_at": "2025-10-17T22:34:53+00:00",
   "source": "original",
-  "rating": "pg_13",
   "background": null,
   "related_anime": [
     {
@@ -260,7 +245,5 @@
       "plan_to_watch": "47153"
     },
     "num_list_users": 196197
-  },
-  "synopsis_es": "El estudio de animación Gainax presentó un sitio web para el lanzamiento de una adaptación cinematográfica de la serie de televisión Tengen Toppa Gurren Lagann en el otoño de 2008. Tanto el director original como el editor de guiones de la serie volverán a trabajar en el nuevo proyecto. Gainax también organizará cuatro eventos para celebrar esta ocasión en la Feria Internacional del Anime de Tokio de este año, con actores de doblaje del anime.",
-  "translations_updated_at": "2026-11-15T02:32:49.292Z"
+  }
 }

@@ -10,6 +10,7 @@
     "ja": "道化師"
   },
   "synopsis": "Music video for the song Doukeshi by Penthouse.",
+  "synopsis_es": "Vídeo musical de la canción Doukeshi de Penthouse.",
   "type": "Music",
   "media_type": "music",
   "status": "finished_airing",
@@ -43,44 +44,34 @@
   "logo_url": null,
   "tmdb_id": null,
   "tmdb_updated_at": "2026-11-15T13:05:04.512Z",
-  "simkl_id": null,
-  "episodes_data": [],
-  "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1867/160581.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1867/160581l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1867/160581.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1867/160581l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1867/160581.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1867/160581l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1867/160581.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1867/160581l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1867/160581.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1867/160581l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1867/160581l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1867/160581l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1867/160581l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1867/160581l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1867/160581l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1867/160581l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1867/160581l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1867/160581l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1867/160581l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1867/160581l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1867/160581l.webp"
     }
   },
   "broadcast": null,
   "rank": null,
   "popularity": 30434,
+  "rating": "pg_13",
+  "simkl_id": null,
+  "episodes_data": [],
+  "specials_data": [],
+  "characters": [],
   "num_scoring_users": 37,
   "nsfw": "white",
   "created_at": null,
   "updated_at": null,
   "source": "original",
-  "rating": "pg_13",
   "background": null,
   "related_anime": [],
   "related_manga": [],
@@ -94,8 +85,5 @@
       "plan_to_watch": "10"
     },
     "num_list_users": 68
-  },
-  "mal_details_updated_at": "2026-11-10T01:37:27.777Z",
-  "synopsis_es": "Vídeo musical de la canción Doukeshi de Penthouse.",
-  "translations_updated_at": "2026-11-15T13:13:42.371Z"
+  }
 }

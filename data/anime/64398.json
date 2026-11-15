@@ -16,6 +16,7 @@
     "ja": "光阴之外2"
   },
   "synopsis": "Second season of Guangyin Zhi Wai.",
+  "synopsis_es": "Segunda temporada de Guangyin Zhi Wai.",
   "type": "ONA",
   "media_type": "ona",
   "status": "currently_airing",
@@ -69,54 +70,39 @@
       "name": "Flying Fish Studio"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1946/158480l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1808/158481l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1190/158569l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1313/159378l.jpg"
-  ],
+  "pictures": [],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
   "tmdb_updated_at": null,
-  "simkl_id": null,
-  "episodes_data": [],
-  "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1190/158569.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1190/158569l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1190/158569.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1190/158569l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1190/158569.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1190/158569l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1190/158569.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1190/158569l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1190/158569.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1190/158569l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1946/158480l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1946/158480l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1946/158480l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1946/158480l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1946/158480l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1946/158480l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1946/158480l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1946/158480l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1946/158480l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1946/158480l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1190/158569l.webp"
     }
   },
   "broadcast": null,
   "rank": 469,
   "popularity": 14177,
+  "rating": "pg_13",
+  "simkl_id": null,
+  "episodes_data": [],
+  "specials_data": [],
+  "characters": [],
   "num_scoring_users": 360,
   "nsfw": "white",
   "created_at": "2026-06-14T13:44:22+00:00",
   "updated_at": "2026-09-17T20:29:31+00:00",
   "source": "web_novel",
-  "rating": "pg_13",
   "background": "Episodes 27 to 78 of Guangyin Zhi Wai.\n\nAdaptation of Ergen's (耳根) web novel of the same title.",
   "related_anime": [
     {
@@ -143,7 +129,5 @@
       "plan_to_watch": "347"
     },
     "num_list_users": 1436
-  },
-  "synopsis_es": "Segunda temporada de Guangyin Zhi Wai.",
-  "translations_updated_at": "2026-11-15T02:32:44.850Z"
+  }
 }

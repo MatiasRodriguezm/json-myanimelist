@@ -10,6 +10,7 @@
     "ja": "斗罗大陆"
   },
   "synopsis": "Second season of Douluo Dalu.",
+  "synopsis_es": "Segunda temporada de Douluo Dalu.",
   "type": "ONA",
   "media_type": "ona",
   "status": "finished_airing",
@@ -59,63 +60,39 @@
       "name": "Sparkly Key Animation Studio"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1538/93566l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1833/126985l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1162/126986l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1765/126987l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1449/126988l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1251/126989l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1589/126990l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1142/126991l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1695/126992l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1328/126993l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1849/126994l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1366/126995l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1925/136399l.jpg"
-  ],
+  "pictures": [],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
   "tmdb_updated_at": null,
-  "simkl_id": null,
-  "episodes_data": [],
-  "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1538/93566.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1538/93566l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1538/93566.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1538/93566l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1538/93566.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1538/93566l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1538/93566.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1538/93566l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1538/93566.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1538/93566l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1538/93566l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1538/93566l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1538/93566l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1538/93566l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1538/93566l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1538/93566l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1538/93566l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1538/93566l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1538/93566l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1538/93566l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1538/93566l.webp"
     }
   },
   "broadcast": null,
   "rank": 282,
   "popularity": 5210,
+  "rating": "pg_13",
+  "simkl_id": null,
+  "episodes_data": [],
+  "specials_data": [],
+  "characters": [],
   "num_scoring_users": 10787,
   "nsfw": "white",
   "created_at": "2018-05-03T22:05:37+00:00",
   "updated_at": "2025-11-26T03:07:13+00:00",
   "source": "novel",
-  "rating": "pg_13",
   "background": null,
   "related_anime": [
     {
@@ -235,7 +212,5 @@
       "plan_to_watch": "4436"
     },
     "num_list_users": 24630
-  },
-  "synopsis_es": "Segunda temporada de Douluo Dalu.",
-  "translations_updated_at": "2026-11-15T02:30:15.075Z"
+  }
 }

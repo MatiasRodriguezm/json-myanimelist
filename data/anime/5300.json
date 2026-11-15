@@ -14,6 +14,7 @@
     "ja": "続 夏目友人帳"
   },
   "synopsis": "As with its prequel, Zoku Natsume Yuujinchou is about Takashi Natsume, a boy who has had the ability to see youkai since he was young, and his bodyguard youkai Madara, nicknamed Nyanko-sensei. Natsume attempts to return names written in his \"Book of Friends\" (which he inherited from his grandmother Reiko) to youkai in his village. Throughout these adventures, he meets some youkai that are friendly, some that want to steal the Book, and some that want to kill him, as Natsume learns about himself and his relationship with these mysterious beings along the way.\n\n[Written by MAL Rewrite]",
+  "synopsis_es": "Al igual que su precuela, Zoku Natsume Yuujinchou trata sobre Takashi Natsume, un niño que ha tenido la capacidad de ver youkai desde que era joven, y su guardaespaldas youkai Madara, apodado Nyanko-sensei. Natsume intenta devolver los nombres escritos en su \"Libro de los Amigos\" (que heredó de su abuela Reiko) a los youkai de su aldea. A lo largo de estas aventuras, conoce a algunos youkai que son amigables, algunos que quieren robar el Libro y otros que quieren matarlo, mientras Natsume aprende sobre sí mismo y su relación con estos seres misteriosos en el camino.\n\n[Escrito por MAL Rewrite]",
   "type": "TV",
   "media_type": "tv",
   "status": "finished_airing",
@@ -63,30 +64,15 @@
       "name": "Brain's Base"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/3/10724l.jpg",
-    "https://cdn.myanimelist.net/images/anime/7/17087l.jpg",
-    "https://cdn.myanimelist.net/images/anime/6/17088l.jpg",
-    "https://cdn.myanimelist.net/images/anime/9/26230l.jpg",
-    "https://cdn.myanimelist.net/images/anime/4/79738l.jpg",
-    "https://cdn.myanimelist.net/images/anime/7/79753l.jpg",
-    "https://cdn.myanimelist.net/images/anime/12/79754l.jpg",
-    "https://cdn.myanimelist.net/images/anime/7/79756l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1316/96739l.jpg"
-  ],
+  "pictures": [],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
   "tmdb_updated_at": null,
-  "simkl_id": null,
-  "episodes_data": [],
-  "specials_data": [],
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/4/79738.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/79738l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/4/79738.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/4/79738l.webp"
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/79738l.webp"
     }
   },
   "main_picture": {
@@ -95,16 +81,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/3/10724l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/3/10724l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/3/10724l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/3/10724l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/10724l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/3/10724l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/3/10724l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/3/10724l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/10724l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/3/10724l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/4/79738l.webp"
     }
   },
   "broadcast": {
@@ -117,12 +94,16 @@
   },
   "rank": 150,
   "popularity": 1081,
+  "rating": "pg_13",
+  "simkl_id": null,
+  "episodes_data": [],
+  "specials_data": [],
+  "characters": [],
   "num_scoring_users": 135738,
   "nsfw": "white",
   "created_at": "2008-09-22T22:41:07+00:00",
   "updated_at": "2024-03-06T11:34:46+00:00",
   "source": "manga",
-  "rating": "pg_13",
   "background": null,
   "related_anime": [
     {
@@ -284,7 +265,5 @@
       "plan_to_watch": "73286"
     },
     "num_list_users": 269921
-  },
-  "synopsis_es": "Al igual que su precuela, Zoku Natsume Yuujinchou trata sobre Takashi Natsume, un niño que ha tenido la capacidad de ver youkai desde que era joven, y su guardaespaldas youkai Madara, apodado Nyanko-sensei. Natsume intenta devolver los nombres escritos en su \"Libro de los Amigos\" (que heredó de su abuela Reiko) a los youkai de su aldea. A lo largo de estas aventuras, conoce a algunos youkai que son amigables, algunos que quieren robar el Libro y otros que quieren matarlo, mientras Natsume aprende sobre sí mismo y su relación con estos seres misteriosos en el camino.\n\n[Escrito por MAL Rewrite]",
-  "translations_updated_at": "2026-11-15T02:28:43.983Z"
+  }
 }

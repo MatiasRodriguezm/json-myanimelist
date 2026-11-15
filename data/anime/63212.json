@@ -12,6 +12,7 @@
     "ja": "劇場版 かぐや様は告らせたい"
   },
   "synopsis": "The final chapters of Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen as a completely new theatrical movie based on an original story written by the original creator.",
+  "synopsis_es": "Los capítulos finales de Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen como una película teatral completamente nueva basada en una historia original escrita por el creador original.",
   "type": "Movie",
   "media_type": "movie",
   "status": "not_yet_aired",
@@ -54,44 +55,34 @@
   "logo_url": null,
   "tmdb_id": null,
   "tmdb_updated_at": "2026-11-15T13:05:53.583Z",
-  "simkl_id": 2982148,
-  "episodes_data": [],
-  "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1195/154761.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1195/154761l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1195/154761.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1195/154761l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1195/154761.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1195/154761l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1195/154761.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1195/154761l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1195/154761.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1195/154761l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1195/154761l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1195/154761l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1195/154761l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1195/154761l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1195/154761l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1195/154761l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1195/154761l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1195/154761l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1195/154761l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1195/154761l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1195/154761l.webp"
     }
   },
   "broadcast": null,
   "rank": null,
   "popularity": 4062,
+  "rating": "pg_13",
+  "simkl_id": 2982148,
+  "episodes_data": [],
+  "specials_data": [],
+  "characters": [],
   "num_scoring_users": 1,
   "nsfw": "white",
   "created_at": null,
   "updated_at": null,
   "source": "manga",
-  "rating": "pg_13",
   "background": null,
   "related_anime": [
     {
@@ -118,8 +109,5 @@
       "plan_to_watch": "43140"
     },
     "num_list_users": 43145
-  },
-  "mal_details_updated_at": "2026-11-15T01:59:42.967Z",
-  "synopsis_es": "Los capítulos finales de Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen como una película teatral completamente nueva basada en una historia original escrita por el creador original.",
-  "translations_updated_at": "2026-11-15T13:12:12.821Z"
+  }
 }

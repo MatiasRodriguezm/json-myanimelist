@@ -15,6 +15,7 @@
     "ja": "沧元图2"
   },
   "synopsis": "Second season of Cang Yuan Tu.",
+  "synopsis_es": "Segunda temporada de Cang Yuan Tu.",
   "type": "ONA",
   "media_type": "ona",
   "status": "finished_airing",
@@ -68,59 +69,39 @@
       "name": "Tianshi Wenhua"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1723/153517l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1403/155838l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1556/155839l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1535/155840l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1824/155842l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1033/155843l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1090/157648l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1292/157649l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1182/157650l.jpg"
-  ],
+  "pictures": [],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
   "tmdb_updated_at": null,
-  "simkl_id": null,
-  "episodes_data": [],
-  "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1403/155838.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1403/155838l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1403/155838.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1403/155838l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1403/155838.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1403/155838l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1403/155838.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1403/155838l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1403/155838.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1403/155838l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1723/153517l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1723/153517l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1723/153517l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1723/153517l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1723/153517l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1723/153517l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1723/153517l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1723/153517l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1723/153517l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1723/153517l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1403/155838l.webp"
     }
   },
   "broadcast": null,
   "rank": 447,
   "popularity": 11818,
+  "rating": "pg_13",
+  "simkl_id": null,
+  "episodes_data": [],
+  "specials_data": [],
+  "characters": [],
   "num_scoring_users": 1227,
   "nsfw": "white",
   "created_at": "2024-11-30T17:19:44+00:00",
   "updated_at": "2025-11-12T03:08:51+00:00",
   "source": "web_novel",
-  "rating": "pg_13",
   "background": "Episodes 31-66 of Cang Yuan Tu.",
   "related_anime": [
     {
@@ -159,7 +140,5 @@
       "plan_to_watch": "498"
     },
     "num_list_users": 2808
-  },
-  "synopsis_es": "Segunda temporada de Cang Yuan Tu.",
-  "translations_updated_at": "2026-11-15T02:32:28.337Z"
+  }
 }

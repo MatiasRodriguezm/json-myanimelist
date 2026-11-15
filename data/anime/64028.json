@@ -10,6 +10,7 @@
     "ja": "タヌキとキツネ"
   },
   "synopsis": null,
+  "synopsis_es": null,
   "type": "TV",
   "media_type": "tv",
   "status": "currently_airing",
@@ -52,78 +53,19 @@
   "logo_url": null,
   "tmdb_id": null,
   "tmdb_updated_at": "2026-11-15T13:04:45.326Z",
-  "simkl_id": 3273464,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "episodeNumber": 1,
-      "title": "Episode 1",
-      "aired": "2026-10-04T00:00:00+09:00",
-      "airedDate": "2026-10-04T00:00:00+09:00",
-      "thumbnail": null,
-      "imageUrl": null,
-      "description": null,
-      "title_es": "Episodio 1"
-    },
-    {
-      "episode": 2,
-      "episodeNumber": 2,
-      "title": "Episode 2",
-      "aired": "2026-10-11T00:00:00+09:00",
-      "airedDate": "2026-10-11T00:00:00+09:00",
-      "thumbnail": null,
-      "imageUrl": null,
-      "description": null,
-      "title_es": "Episodio 2"
-    },
-    {
-      "episode": 3,
-      "episodeNumber": 3,
-      "title": "Episode 3",
-      "aired": "2026-10-18T00:00:00+09:00",
-      "airedDate": "2026-10-18T00:00:00+09:00",
-      "thumbnail": null,
-      "imageUrl": null,
-      "description": null,
-      "title_es": "Episodio 3"
-    },
-    {
-      "episode": 4,
-      "episodeNumber": 4,
-      "title": "Episode 4",
-      "aired": "2026-10-25T00:00:00+09:00",
-      "airedDate": "2026-10-25T00:00:00+09:00",
-      "thumbnail": null,
-      "imageUrl": null,
-      "description": null,
-      "title_es": "Episodio 4"
-    }
-  ],
-  "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1504/159679.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1504/159679l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1504/159679.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1504/159679l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1504/159679.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1504/159679l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1504/159679.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1504/159679l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1504/159679.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1504/159679l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1504/159679l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1504/159679l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1504/159679l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1504/159679l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1504/159679l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1504/159679l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1504/159679l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1504/159679l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1504/159679l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1504/159679l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1504/159679l.webp"
     }
   },
   "broadcast": {
@@ -136,12 +78,49 @@
   },
   "rank": 21342,
   "popularity": 20605,
+  "rating": "g",
+  "simkl_id": 3273464,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "title": "Episode 1",
+      "title_es": "Episodio 1",
+      "aired": "2026-10-04T00:00:00+09:00",
+      "thumbnail": null,
+      "description": null
+    },
+    {
+      "episode": 2,
+      "title": "Episode 2",
+      "title_es": "Episodio 2",
+      "aired": "2026-10-11T00:00:00+09:00",
+      "thumbnail": null,
+      "description": null
+    },
+    {
+      "episode": 3,
+      "title": "Episode 3",
+      "title_es": "Episodio 3",
+      "aired": "2026-10-18T00:00:00+09:00",
+      "thumbnail": null,
+      "description": null
+    },
+    {
+      "episode": 4,
+      "title": "Episode 4",
+      "title_es": "Episodio 4",
+      "aired": "2026-10-25T00:00:00+09:00",
+      "thumbnail": null,
+      "description": null
+    }
+  ],
+  "specials_data": [],
+  "characters": [],
   "num_scoring_users": 35,
   "nsfw": "white",
   "created_at": null,
   "updated_at": null,
   "source": "web_manga",
-  "rating": "g",
   "background": null,
   "related_anime": [
     {
@@ -168,7 +147,5 @@
       "plan_to_watch": "211"
     },
     "num_list_users": 392
-  },
-  "mal_details_updated_at": "2026-11-15T01:57:22.452Z",
-  "translations_updated_at": "2026-11-15T13:12:51.069Z"
+  }
 }

@@ -12,6 +12,7 @@
     "ja": "葬送のフリーレン 黄金郷編"
   },
   "synopsis": "Third season of Sousou no Frieren.",
+  "synopsis_es": "Tercera temporada de Sousou no Frieren.",
   "type": "TV",
   "media_type": "tv",
   "status": "not_yet_aired",
@@ -59,59 +60,46 @@
   ],
   "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/rBOnrVlck7BIlGeWVlzYiZeg4l2.jpg",
-  "logo_url": "https://image.tmdb.org/t/p/w500/yQuc8JcBxRWXfRHrNUSM47gCXOo.png",
+  "logo_url": "https://image.tmdb.org/t/p/w300/yQuc8JcBxRWXfRHrNUSM47gCXOo.png",
   "tmdb_id": "209867",
   "tmdb_updated_at": "2026-11-13T03:53:59.963Z",
-  "simkl_id": 3063278,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "episodeNumber": 1,
-      "title": "Episode 1",
-      "aired": "2027-10-01T00:00:00+09:00",
-      "airedDate": "2027-10-01T00:00:00+09:00",
-      "thumbnail": null,
-      "imageUrl": null,
-      "description": null,
-      "title_es": "Episodio 1"
-    }
-  ],
-  "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1619/156313.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1619/156313l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1619/156313.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1619/156313l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1619/156313.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1619/156313l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1619/156313.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1619/156313l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1619/156313.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1619/156313l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1619/156313l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1619/156313l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1619/156313l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1619/156313l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1619/156313l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1619/156313l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1619/156313l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1619/156313l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1619/156313l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1619/156313l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1619/156313l.webp"
     }
   },
   "broadcast": null,
   "rank": null,
   "popularity": 2165,
+  "rating": "pg_13",
+  "simkl_id": 3063278,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "title": "Episode 1",
+      "title_es": "Episodio 1",
+      "aired": "2027-10-01T00:00:00+09:00",
+      "thumbnail": null,
+      "description": null
+    }
+  ],
+  "specials_data": [],
+  "characters": [],
   "num_scoring_users": 4,
   "nsfw": "white",
   "created_at": null,
   "updated_at": null,
   "source": "manga",
-  "rating": "pg_13",
   "background": null,
   "related_anime": [
     {
@@ -138,8 +126,5 @@
       "plan_to_watch": "120578"
     },
     "num_list_users": 120590
-  },
-  "mal_details_updated_at": "2026-11-15T01:58:50.248Z",
-  "synopsis_es": "Tercera temporada de Sousou no Frieren.",
-  "translations_updated_at": "2026-11-15T13:12:44.925Z"
+  }
 }

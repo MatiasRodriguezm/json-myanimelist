@@ -12,6 +12,7 @@
     "ja": ""
   },
   "synopsis": "Three friends spend a day at the beach, where encounters with the local wildlife complicate their plans to relax.",
+  "synopsis_es": "Tres amigos pasan un día en la playa, donde los encuentros con la fauna local complican sus planes de relajación.",
   "type": "ONA",
   "media_type": "ona",
   "status": "finished_airing",
@@ -58,44 +59,34 @@
   "logo_url": null,
   "tmdb_id": null,
   "tmdb_updated_at": "2026-11-15T13:05:00.419Z",
-  "simkl_id": null,
-  "episodes_data": [],
-  "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1015/160928.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1015/160928l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1015/160928.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1015/160928l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1015/160928.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1015/160928l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1015/160928.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1015/160928l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1015/160928.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1015/160928l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1015/160928l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1015/160928l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1015/160928l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1015/160928l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1015/160928l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1015/160928l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1015/160928l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1015/160928l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1015/160928l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1015/160928l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1015/160928l.webp"
     }
   },
   "broadcast": null,
   "rank": 15819,
   "popularity": 30701,
+  "rating": "pg_13",
+  "simkl_id": null,
+  "episodes_data": [],
+  "specials_data": [],
+  "characters": [],
   "num_scoring_users": 10,
   "nsfw": "white",
   "created_at": null,
   "updated_at": null,
   "source": "original",
-  "rating": "pg_13",
   "background": null,
   "related_anime": [],
   "related_manga": [],
@@ -109,8 +100,5 @@
       "plan_to_watch": "7"
     },
     "num_list_users": 33
-  },
-  "mal_details_updated_at": "2026-11-10T01:54:25.977Z",
-  "synopsis_es": "Tres amigos pasan un día en la playa, donde los encuentros con la fauna local complican sus planes de relajación.",
-  "translations_updated_at": "2026-11-15T13:13:55.727Z"
+  }
 }

@@ -10,6 +10,7 @@
     "ja": "夢我夢中"
   },
   "synopsis": "Music video for the song Mugamuchu by Mugendai Mewtype.",
+  "synopsis_es": "Vídeo musical de la canción Mugamuchu de Mugendai Mewtype.",
   "type": "Music",
   "media_type": "music",
   "status": "finished_airing",
@@ -48,44 +49,34 @@
   "logo_url": null,
   "tmdb_id": null,
   "tmdb_updated_at": "2026-11-15T13:05:03.487Z",
-  "simkl_id": null,
-  "episodes_data": [],
-  "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1894/160724.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1894/160724l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1894/160724.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1894/160724l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1894/160724.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1894/160724l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1894/160724.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1894/160724l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1894/160724.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1894/160724l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1894/160724l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1894/160724l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1894/160724l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1894/160724l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1894/160724l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1894/160724l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1894/160724l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1894/160724l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1894/160724l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1894/160724l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1894/160724l.webp"
     }
   },
   "broadcast": null,
   "rank": null,
   "popularity": 30426,
+  "rating": "pg_13",
+  "simkl_id": null,
+  "episodes_data": [],
+  "specials_data": [],
+  "characters": [],
   "num_scoring_users": 35,
   "nsfw": "white",
   "created_at": null,
   "updated_at": null,
   "source": "mixed_media",
-  "rating": "pg_13",
   "background": null,
   "related_anime": [
     {
@@ -112,8 +103,5 @@
       "plan_to_watch": "6"
     },
     "num_list_users": 69
-  },
-  "mal_details_updated_at": "2026-11-10T01:37:35.431Z",
-  "synopsis_es": "Vídeo musical de la canción Mugamuchu de Mugendai Mewtype.",
-  "translations_updated_at": "2026-11-15T13:13:48.223Z"
+  }
 }

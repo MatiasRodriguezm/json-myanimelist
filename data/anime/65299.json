@@ -10,6 +10,7 @@
     "ja": "Hello! Pikmin"
   },
   "synopsis": "Short movies based on Nintendo's Pikmin series.",
+  "synopsis_es": "Cortometrajes basados ​​en la serie Pikmin de Nintendo.",
   "type": "ONA",
   "media_type": "ona",
   "status": "currently_airing",
@@ -48,44 +49,34 @@
   "logo_url": null,
   "tmdb_id": null,
   "tmdb_updated_at": "2026-11-15T13:04:50.836Z",
-  "simkl_id": null,
-  "episodes_data": [],
-  "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1158/160810.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1158/160810l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1158/160810.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1158/160810l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1158/160810.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1158/160810l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1158/160810.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1158/160810l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1158/160810.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1158/160810l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1158/160810l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1158/160810l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1158/160810l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1158/160810l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1158/160810l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1158/160810l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1158/160810l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1158/160810l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1158/160810l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1158/160810l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1158/160810l.webp"
     }
   },
   "broadcast": null,
   "rank": 17495,
   "popularity": 23173,
+  "rating": "g",
+  "simkl_id": null,
+  "episodes_data": [],
+  "specials_data": [],
+  "characters": [],
   "num_scoring_users": 30,
   "nsfw": "white",
   "created_at": null,
   "updated_at": null,
   "source": "game",
-  "rating": "g",
   "background": null,
   "related_anime": [
     {
@@ -124,8 +115,5 @@
       "plan_to_watch": "91"
     },
     "num_list_users": 243
-  },
-  "mal_details_updated_at": "2026-11-15T01:57:33.231Z",
-  "synopsis_es": "Cortometrajes basados ​​en la serie Pikmin de Nintendo.",
-  "translations_updated_at": "2026-11-15T13:13:51.545Z"
+  }
 }

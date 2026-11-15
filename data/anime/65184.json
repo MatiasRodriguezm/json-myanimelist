@@ -10,6 +10,7 @@
     "ja": "ホタルの嫁入り ちょいたし"
   },
   "synopsis": "Mini anime for Hotari no Yomeiri released on YouTube.",
+  "synopsis_es": "Mini anime de Hotari no Yomeiri lanzado en YouTube.",
   "type": "ONA",
   "media_type": "ona",
   "status": "currently_airing",
@@ -56,44 +57,34 @@
   "logo_url": null,
   "tmdb_id": null,
   "tmdb_updated_at": "2026-11-15T13:04:46.836Z",
-  "simkl_id": null,
-  "episodes_data": [],
-  "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1277/160535.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1277/160535l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1277/160535.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1277/160535l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1277/160535.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1277/160535l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1277/160535.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1277/160535l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1277/160535.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1277/160535l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1277/160535l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1277/160535l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1277/160535l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1277/160535l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1277/160535l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1277/160535l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1277/160535l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1277/160535l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1277/160535l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1277/160535l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1277/160535l.webp"
     }
   },
   "broadcast": null,
   "rank": 17646,
   "popularity": 21058,
+  "rating": "pg_13",
+  "simkl_id": null,
+  "episodes_data": [],
+  "specials_data": [],
+  "characters": [],
   "num_scoring_users": 47,
   "nsfw": "white",
   "created_at": null,
   "updated_at": null,
   "source": "web_manga",
-  "rating": "pg_13",
   "background": null,
   "related_anime": [
     {
@@ -120,8 +111,5 @@
       "plan_to_watch": "122"
     },
     "num_list_users": 358
-  },
-  "mal_details_updated_at": "2026-11-15T01:57:25.590Z",
-  "synopsis_es": "Mini anime de Hotari no Yomeiri lanzado en YouTube.",
-  "translations_updated_at": "2026-11-15T13:13:38.872Z"
+  }
 }

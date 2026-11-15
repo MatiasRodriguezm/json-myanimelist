@@ -12,6 +12,7 @@
     "ja": "ラーメン赤猫 第2期"
   },
   "synopsis": "Second season of Ramen Akaneko.",
+  "synopsis_es": "Segunda temporada de Ramen Akaneko.",
   "type": "TV",
   "media_type": "tv",
   "status": "not_yet_aired",
@@ -62,56 +63,43 @@
   "logo_url": null,
   "tmdb_id": null,
   "tmdb_updated_at": "2026-11-15T13:05:30.167Z",
-  "simkl_id": 2666834,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "episodeNumber": 1,
-      "title": "Episode 1",
-      "aired": "2027-01-01T00:00:00+09:00",
-      "airedDate": "2027-01-01T00:00:00+09:00",
-      "thumbnail": null,
-      "imageUrl": null,
-      "description": null,
-      "title_es": "Episodio 1"
-    }
-  ],
-  "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1726/160867.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1726/160867l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1726/160867.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1726/160867l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1726/160867.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1726/160867l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1726/160867.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1726/160867l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1726/160867.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1726/160867l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1726/160867l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1726/160867l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1726/160867l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1726/160867l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1726/160867l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1726/160867l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1726/160867l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1726/160867l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1726/160867l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1726/160867l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1726/160867l.webp"
     }
   },
   "broadcast": null,
   "rank": null,
   "popularity": 11767,
+  "rating": "pg_13",
+  "simkl_id": 2666834,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "title": "Episode 1",
+      "title_es": "Episodio 1",
+      "aired": "2027-01-01T00:00:00+09:00",
+      "thumbnail": null,
+      "description": null
+    }
+  ],
+  "specials_data": [],
+  "characters": [],
   "num_scoring_users": null,
   "nsfw": "white",
   "created_at": null,
   "updated_at": null,
   "source": "manga",
-  "rating": "pg_13",
   "background": null,
   "related_anime": [
     {
@@ -138,8 +126,5 @@
       "plan_to_watch": "2857"
     },
     "num_list_users": 2858
-  },
-  "mal_details_updated_at": "2026-11-15T01:58:35.748Z",
-  "synopsis_es": "Segunda temporada de Ramen Akaneko.",
-  "translations_updated_at": "2026-11-15T13:11:02.233Z"
+  }
 }

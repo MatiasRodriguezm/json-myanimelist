@@ -12,6 +12,7 @@
     "ja": "攻殻機動隊 S.A.C. 2nd GIG Individual Eleven"
   },
   "synopsis": "Compilation movie of the \"Individual Eleven\" story from Ghost in the Shell: SAC 2nd Gig series.\n\n(Source: AniDB)",
+  "synopsis_es": "Película recopilatoria de la historia \"Individual Eleven\" de la serie Ghost in the Shell: SAC 2nd Gig.\n\n(Fuente: AniDB)",
   "type": "OVA",
   "media_type": "ova",
   "status": "finished_airing",
@@ -55,42 +56,13 @@
   ],
   "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/2rvFW70UeOMCTXGmYHij1bwHCiu.jpg",
-  "logo_url": "https://image.tmdb.org/t/p/w500/4CpyLRaTyMKJyurf1vwg8p82S1i.png",
+  "logo_url": "https://image.tmdb.org/t/p/w300/4CpyLRaTyMKJyurf1vwg8p82S1i.png",
   "tmdb_id": "1095",
   "tmdb_updated_at": "2026-11-06T22:02:33.915Z",
-  "simkl_id": 39877,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "episodeNumber": 1,
-      "title": "OVA",
-      "aired": "2006-01-27T00:00:00+09:00",
-      "airedDate": "2006-01-27T00:00:00+09:00",
-      "thumbnail": null,
-      "imageUrl": null,
-      "description": null,
-      "title_es": "ÓVULO"
-    }
-  ],
-  "specials_data": [
-    {
-      "episode": 1,
-      "episodeNumber": 1,
-      "title": "Tachikomatic Days",
-      "aired": true,
-      "airedDate": true,
-      "thumbnail": null,
-      "imageUrl": null,
-      "description": null,
-      "title_es": "Días taquikomáticos"
-    }
-  ],
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/5/2829.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/2829l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/5/2829.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/5/2829l.webp"
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/2829l.webp"
     }
   },
   "main_picture": {
@@ -99,27 +71,40 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/5/2829l.webp",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/5/2829l.webp",
-      "image_url": "https://cdn.myanimelist.net/images/anime/5/2829l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/5/2829l.webp",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/5/2829l.webp",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/5/2829l.webp",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/5/2829l.webp",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/5/2829l.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/2829l.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/5/2829l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/5/2829l.webp"
     }
   },
   "broadcast": null,
   "rank": 819,
   "popularity": 4588,
+  "rating": "r",
+  "simkl_id": 39877,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "title": "OVA",
+      "title_es": "ÓVULO",
+      "aired": "2006-01-27T00:00:00+09:00",
+      "thumbnail": null,
+      "description": null
+    }
+  ],
+  "specials_data": [
+    {
+      "episode": 1,
+      "title": "Tachikomatic Days",
+      "title_es": "Días taquikomáticos",
+      "aired": true,
+      "thumbnail": null,
+      "description": null
+    }
+  ],
+  "characters": [],
   "num_scoring_users": 11971,
   "nsfw": "white",
   "created_at": null,
   "updated_at": null,
   "source": "manga",
-  "rating": "r",
   "background": null,
   "related_anime": [
     {
@@ -170,8 +155,5 @@
       "plan_to_watch": "11851"
     },
     "num_list_users": 33329
-  },
-  "mal_details_updated_at": "2026-11-10T01:27:39.640Z",
-  "synopsis_es": "Película recopilatoria de la historia \"Individual Eleven\" de la serie Ghost in the Shell: SAC 2nd Gig.\n\n(Fuente: AniDB)",
-  "translations_updated_at": "2026-11-15T13:09:36.186Z"
+  }
 }

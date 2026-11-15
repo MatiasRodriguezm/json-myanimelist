@@ -10,6 +10,7 @@
     "ja": "餓狼伝説 CotW × 東京リベンジャーズ｜アニメーショントレーラー"
   },
   "synopsis": "An animated trailer promoting the Season 3 DLC for the video game Fatal Fury: City of the Wolves, as well as the collaboration with Tokyo Revengers anime series, with a story that takes place after the game's arcade mode endings",
+  "synopsis_es": "Un tráiler animado que promociona el DLC de la temporada 3 del videojuego Fatal Fury: City of the Wolves, así como la colaboración con la serie de anime Tokyo Revengers, con una historia que se desarrolla después de los finales del modo arcade del juego.",
   "type": "Pv",
   "media_type": "pv",
   "status": "finished_airing",
@@ -55,44 +56,34 @@
   "logo_url": null,
   "tmdb_id": null,
   "tmdb_updated_at": "2026-11-15T13:04:49.089Z",
-  "simkl_id": null,
-  "episodes_data": [],
-  "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1424/160649.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1424/160649l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1424/160649.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1424/160649l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1424/160649.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1424/160649l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1424/160649.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1424/160649l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1424/160649.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1424/160649l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1424/160649l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1424/160649l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1424/160649l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1424/160649l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1424/160649l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1424/160649l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1424/160649l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1424/160649l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1424/160649l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1424/160649l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1424/160649l.webp"
     }
   },
   "broadcast": null,
   "rank": null,
   "popularity": 22838,
+  "rating": "pg_13",
+  "simkl_id": null,
+  "episodes_data": [],
+  "specials_data": [],
+  "characters": [],
   "num_scoring_users": 98,
   "nsfw": "white",
   "created_at": null,
   "updated_at": null,
   "source": "game",
-  "rating": "pg_13",
   "background": null,
   "related_anime": [
     {
@@ -143,8 +134,5 @@
       "plan_to_watch": "71"
     },
     "num_list_users": 259
-  },
-  "mal_details_updated_at": "2026-11-10T01:37:30.830Z",
-  "synopsis_es": "Un tráiler animado que promociona el DLC de la temporada 3 del videojuego Fatal Fury: City of the Wolves, así como la colaboración con la serie de anime Tokyo Revengers, con una historia que se desarrolla después de los finales del modo arcade del juego.",
-  "translations_updated_at": "2026-11-15T13:13:44.923Z"
+  }
 }

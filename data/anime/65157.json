@@ -10,6 +10,7 @@
     "ja": "夢心地"
   },
   "synopsis": "Music video for the song Yumegokochi by TOOBOE. The song was used as the ending theme of the anime Hotaru no Yomeiri.",
+  "synopsis_es": "Vídeo musical de la canción Yumegokochi de TOOBOE. La canción se utilizó como tema final del anime Hotaru no Yomeiri.",
   "type": "Music",
   "media_type": "music",
   "status": "finished_airing",
@@ -52,44 +53,34 @@
   "logo_url": null,
   "tmdb_id": null,
   "tmdb_updated_at": "2026-11-15T13:04:25.264Z",
-  "simkl_id": null,
-  "episodes_data": [],
-  "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1547/160484.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1547/160484l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1547/160484.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1547/160484l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1547/160484.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1547/160484l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1547/160484.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1547/160484l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1547/160484.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1547/160484l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1547/160484l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1547/160484l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1547/160484l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1547/160484l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1547/160484l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1547/160484l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1547/160484l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1547/160484l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1547/160484l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1547/160484l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1547/160484l.webp"
     }
   },
   "broadcast": null,
   "rank": null,
   "popularity": 24397,
+  "rating": "pg_13",
+  "simkl_id": null,
+  "episodes_data": [],
+  "specials_data": [],
+  "characters": [],
   "num_scoring_users": 105,
   "nsfw": "white",
   "created_at": null,
   "updated_at": null,
   "source": "original",
-  "rating": "pg_13",
   "background": null,
   "related_anime": [
     {
@@ -116,8 +107,5 @@
       "plan_to_watch": "26"
     },
     "num_list_users": 195
-  },
-  "mal_details_updated_at": "2026-11-10T01:37:17.607Z",
-  "synopsis_es": "Vídeo musical de la canción Yumegokochi de TOOBOE. La canción se utilizó como tema final del anime Hotaru no Yomeiri.",
-  "translations_updated_at": "2026-11-15T13:13:35.216Z"
+  }
 }

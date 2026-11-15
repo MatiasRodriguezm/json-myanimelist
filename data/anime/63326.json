@@ -12,6 +12,7 @@
     "ja": "メダリスト 劇場版"
   },
   "synopsis": "Sequel to Medalist 2nd Season.",
+  "synopsis_es": "Secuela de Medallista 2da temporada.",
   "type": "Movie",
   "media_type": "movie",
   "status": "not_yet_aired",
@@ -62,56 +63,43 @@
   "logo_url": null,
   "tmdb_id": null,
   "tmdb_updated_at": "2026-11-15T13:05:16.862Z",
-  "simkl_id": 2996988,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "episodeNumber": 1,
-      "title": "Complete Movie",
-      "aired": "2027-02-19T00:00:00+09:00",
-      "airedDate": "2027-02-19T00:00:00+09:00",
-      "thumbnail": null,
-      "imageUrl": null,
-      "description": null,
-      "title_es": "Película completa"
-    }
-  ],
-  "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1992/159780.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1992/159780l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1992/159780.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1992/159780l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1992/159780.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1992/159780l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1992/159780.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1992/159780l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1992/159780.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1992/159780l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1992/159780l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1992/159780l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1992/159780l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1992/159780l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1992/159780l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1992/159780l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1992/159780l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1992/159780l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1992/159780l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1992/159780l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1992/159780l.webp"
     }
   },
   "broadcast": null,
   "rank": null,
   "popularity": 6699,
+  "rating": "pg_13",
+  "simkl_id": 2996988,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "title": "Complete Movie",
+      "title_es": "Película completa",
+      "aired": "2027-02-19T00:00:00+09:00",
+      "thumbnail": null,
+      "description": null
+    }
+  ],
+  "specials_data": [],
+  "characters": [],
   "num_scoring_users": null,
   "nsfw": "white",
   "created_at": null,
   "updated_at": null,
   "source": "manga",
-  "rating": "pg_13",
   "background": null,
   "related_anime": [
     {
@@ -138,8 +126,5 @@
       "plan_to_watch": "13048"
     },
     "num_list_users": 13051
-  },
-  "mal_details_updated_at": "2026-11-15T01:58:11.638Z",
-  "synopsis_es": "Secuela de Medallista 2da temporada.",
-  "translations_updated_at": "2026-11-15T13:12:17.798Z"
+  }
 }

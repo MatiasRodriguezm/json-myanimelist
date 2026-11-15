@@ -10,6 +10,7 @@
     "ja": "名探偵コナン漆黒の追跡者(チェイサー)"
   },
   "synopsis": "Kudou Shinichi is living his life as Edogawa Conan, but those days seem like they might end pretty soon. The Black Syndicate is coming dangerously close to learning the truth about Shinichi having survived. Conan and everybody around him may end up dead if he doesn't manage to find Irish—a member of the Black Organization who has infiltrated the police forces, currently investigating a big serial murder case.",
+  "synopsis_es": "Kudou Shinichi está viviendo su vida como Edogawa Conan, pero parece que esos días podrían terminar muy pronto. El Sindicato Negro está peligrosamente cerca de descubrir la verdad sobre la supervivencia de Shinichi. Conan y todos los que lo rodean pueden terminar muertos si no logra encontrar a Irish, un miembro de la Organización Negra que se ha infiltrado en las fuerzas policiales y que actualmente investiga un gran caso de asesinato en serie.",
   "type": "Movie",
   "media_type": "movie",
   "status": "finished_airing",
@@ -59,54 +60,39 @@
       "name": "TMS Entertainment"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/6/11353l.jpg",
-    "https://cdn.myanimelist.net/images/anime/6/14092l.jpg",
-    "https://cdn.myanimelist.net/images/anime/2/22558l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1066/94326l.jpg"
-  ],
+  "pictures": [],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
   "tmdb_updated_at": null,
-  "simkl_id": null,
-  "episodes_data": [],
-  "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/2/22558.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/2/22558l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/2/22558.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/2/22558l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/2/22558.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/2/22558l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/2/22558.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/2/22558l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/2/22558.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/2/22558l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/6/11353l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/6/11353l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/6/11353l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/6/11353l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/6/11353l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/6/11353l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/6/11353l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/6/11353l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/6/11353l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/6/11353l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/2/22558l.webp"
     }
   },
   "broadcast": null,
   "rank": 457,
   "popularity": 3180,
+  "rating": "pg_13",
+  "simkl_id": null,
+  "episodes_data": [],
+  "specials_data": [],
+  "characters": [],
   "num_scoring_users": 36890,
   "nsfw": "white",
   "created_at": "2008-11-01T23:00:44+00:00",
   "updated_at": "2023-11-25T14:09:46+00:00",
   "source": "manga",
-  "rating": "pg_13",
   "background": null,
   "related_anime": [
     {
@@ -157,7 +143,5 @@
       "plan_to_watch": "7118"
     },
     "num_list_users": 66048
-  },
-  "synopsis_es": "Kudou Shinichi está viviendo su vida como Edogawa Conan, pero parece que esos días podrían terminar muy pronto. El Sindicato Negro está peligrosamente cerca de descubrir la verdad sobre la supervivencia de Shinichi. Conan y todos los que lo rodean pueden terminar muertos si no logra encontrar a Irish, un miembro de la Organización Negra que se ha infiltrado en las fuerzas policiales y que actualmente investiga un gran caso de asesinato en serie.",
-  "translations_updated_at": "2026-11-15T02:32:35.688Z"
+  }
 }

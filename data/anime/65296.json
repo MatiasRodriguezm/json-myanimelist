@@ -10,6 +10,7 @@
     "ja": "エメラルド"
   },
   "synopsis": "Music video commemorating the 6th anniversary of the Project SEKAI COLORFUL STAGE! feat. Hatsune Miku mobile game.",
+  "synopsis_es": "¡Video musical conmemorativo del 6to aniversario del Proyecto SEKAI COLORFUL STAGE! logro. Juego para móvil Hatsune Miku.",
   "type": "Music",
   "media_type": "music",
   "status": "finished_airing",
@@ -43,44 +44,34 @@
   "logo_url": null,
   "tmdb_id": null,
   "tmdb_updated_at": "2026-11-15T13:05:01.475Z",
-  "simkl_id": null,
-  "episodes_data": [],
-  "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1081/160804.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1081/160804l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1081/160804.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1081/160804l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1081/160804.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1081/160804l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1081/160804.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1081/160804l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1081/160804.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1081/160804l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1081/160804l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1081/160804l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1081/160804l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1081/160804l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1081/160804l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1081/160804l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1081/160804l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1081/160804l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1081/160804l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1081/160804l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1081/160804l.webp"
     }
   },
   "broadcast": null,
   "rank": null,
   "popularity": 30362,
+  "rating": "pg_13",
+  "simkl_id": null,
+  "episodes_data": [],
+  "specials_data": [],
+  "characters": [],
   "num_scoring_users": 32,
   "nsfw": "white",
   "created_at": null,
   "updated_at": null,
   "source": "game",
-  "rating": "pg_13",
   "background": null,
   "related_anime": [],
   "related_manga": [],
@@ -94,8 +85,5 @@
       "plan_to_watch": "15"
     },
     "num_list_users": 74
-  },
-  "mal_details_updated_at": "2026-11-10T01:37:38.538Z",
-  "synopsis_es": "¡Video musical conmemorativo del 6to aniversario del Proyecto SEKAI COLORFUL STAGE! logro. Juego para móvil Hatsune Miku.",
-  "translations_updated_at": "2026-11-15T13:13:51.081Z"
+  }
 }

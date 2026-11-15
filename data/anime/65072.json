@@ -12,6 +12,7 @@
     "ja": "罗小黑战记 学前篇"
   },
   "synopsis": "Third season of Luo Xiaohei Zhanji.",
+  "synopsis_es": "Tercera temporada de Luo Xiaohei Zhanji.",
   "type": "ONA",
   "media_type": "ona",
   "status": "currently_airing",
@@ -54,56 +55,43 @@
   "logo_url": null,
   "tmdb_id": null,
   "tmdb_updated_at": "2026-11-15T13:04:41.993Z",
-  "simkl_id": 3312094,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "episodeNumber": 1,
-      "title": "Episode 1",
-      "aired": "2026-10-30T00:00:00+09:00",
-      "airedDate": "2026-10-30T00:00:00+09:00",
-      "thumbnail": null,
-      "imageUrl": null,
-      "description": null,
-      "title_es": "Episodio 1"
-    }
-  ],
-  "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1471/160260.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1471/160260l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1471/160260.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1471/160260l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1471/160260.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1471/160260l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1471/160260.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1471/160260l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1471/160260.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1471/160260l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1471/160260l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1471/160260l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1471/160260l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1471/160260l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1471/160260l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1471/160260l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1471/160260l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1471/160260l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1471/160260l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1471/160260l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1471/160260l.webp"
     }
   },
   "broadcast": null,
   "rank": 18854,
   "popularity": 19058,
+  "rating": "pg_13",
+  "simkl_id": 3312094,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "title": "Episode 1",
+      "title_es": "Episodio 1",
+      "aired": "2026-10-30T00:00:00+09:00",
+      "thumbnail": null,
+      "description": null
+    }
+  ],
+  "specials_data": [],
+  "characters": [],
   "num_scoring_users": 16,
   "nsfw": "white",
   "created_at": null,
   "updated_at": null,
   "source": "original",
-  "rating": "pg_13",
   "background": null,
   "related_anime": [
     {
@@ -130,8 +118,5 @@
       "plan_to_watch": "407"
     },
     "num_list_users": 506
-  },
-  "mal_details_updated_at": "2026-11-15T01:57:15.333Z",
-  "synopsis_es": "Tercera temporada de Luo Xiaohei Zhanji.",
-  "translations_updated_at": "2026-11-15T13:13:27.011Z"
+  }
 }

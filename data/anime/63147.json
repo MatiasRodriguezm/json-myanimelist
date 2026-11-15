@@ -10,6 +10,7 @@
     "ja": "ガチアクタ 第2期"
   },
   "synopsis": "Second season of Gachiakuta.",
+  "synopsis_es": "Segunda temporada de Gachiakuta.",
   "type": "TV",
   "media_type": "tv",
   "status": "not_yet_aired",
@@ -48,44 +49,34 @@
   "logo_url": null,
   "tmdb_id": null,
   "tmdb_updated_at": "2026-11-15T13:05:40.700Z",
-  "simkl_id": 2971664,
-  "episodes_data": [],
-  "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1224/154534.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1224/154534l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1224/154534.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1224/154534l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1224/154534.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1224/154534l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1224/154534.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1224/154534l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1224/154534.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1224/154534l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1224/154534l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1224/154534l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1224/154534l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1224/154534l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1224/154534l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1224/154534l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1224/154534l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1224/154534l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1224/154534l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1224/154534l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1224/154534l.webp"
     }
   },
   "broadcast": null,
   "rank": null,
   "popularity": 2835,
+  "rating": "pg_13",
+  "simkl_id": 2971664,
+  "episodes_data": [],
+  "specials_data": [],
+  "characters": [],
   "num_scoring_users": 2,
   "nsfw": "white",
   "created_at": null,
   "updated_at": null,
   "source": "manga",
-  "rating": "pg_13",
   "background": null,
   "related_anime": [
     {
@@ -112,8 +103,5 @@
       "plan_to_watch": "80059"
     },
     "num_list_users": 80074
-  },
-  "mal_details_updated_at": "2026-11-15T01:58:54.359Z",
-  "synopsis_es": "Segunda temporada de Gachiakuta.",
-  "translations_updated_at": "2026-11-15T13:12:08.789Z"
+  }
 }

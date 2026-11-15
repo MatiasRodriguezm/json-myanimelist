@@ -10,6 +10,7 @@
     "ja": "Orbit"
   },
   "synopsis": "Music video for the song Orbit by tama featuring Mary.",
+  "synopsis_es": "Video musical de la canción Orbit de tama con Mary.",
   "type": "Music",
   "media_type": "music",
   "status": "finished_airing",
@@ -48,44 +49,34 @@
   "logo_url": null,
   "tmdb_id": null,
   "tmdb_updated_at": "2026-11-15T13:05:06.937Z",
-  "simkl_id": null,
-  "episodes_data": [],
-  "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1169/160486.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1169/160486l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1169/160486.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1169/160486l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1169/160486.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1169/160486l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1169/160486.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1169/160486l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1169/160486.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1169/160486l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1169/160486l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1169/160486l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1169/160486l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1169/160486l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1169/160486l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1169/160486l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1169/160486l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1169/160486l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1169/160486l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1169/160486l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1169/160486l.webp"
     }
   },
   "broadcast": null,
   "rank": null,
   "popularity": 30509,
+  "rating": "pg_13",
+  "simkl_id": null,
+  "episodes_data": [],
+  "specials_data": [],
+  "characters": [],
   "num_scoring_users": 32,
   "nsfw": "white",
   "created_at": null,
   "updated_at": null,
   "source": "original",
-  "rating": "pg_13",
   "background": null,
   "related_anime": [],
   "related_manga": [],
@@ -99,8 +90,5 @@
       "plan_to_watch": "10"
     },
     "num_list_users": 62
-  },
-  "mal_details_updated_at": "2026-11-10T01:37:19.201Z",
-  "synopsis_es": "Video musical de la canción Orbit de tama con Mary.",
-  "translations_updated_at": "2026-11-15T13:13:35.865Z"
+  }
 }

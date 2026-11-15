@@ -12,6 +12,7 @@
     "ja": "劇場版 鬼滅の刃 無限城編"
   },
   "synopsis": "Third anime movie of the trilogy adaptation of the Infinity Castle Arc.",
+  "synopsis_es": "Tercera película de anime de la trilogía adaptación del Infinity Castle Arc.",
   "type": "Movie",
   "media_type": "movie",
   "status": "not_yet_aired",
@@ -54,44 +55,34 @@
   "logo_url": null,
   "tmdb_id": null,
   "tmdb_updated_at": "2026-11-15T13:05:47.812Z",
-  "simkl_id": null,
-  "episodes_data": [],
-  "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1987/152185.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1987/152185l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1987/152185.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1987/152185l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1987/152185.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1987/152185l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1987/152185.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1987/152185l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1987/152185.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1987/152185l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1987/152185l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1987/152185l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1987/152185l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1987/152185l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1987/152185l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1987/152185l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1987/152185l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1987/152185l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1987/152185l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1987/152185l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1987/152185l.webp"
     }
   },
   "broadcast": null,
   "rank": null,
   "popularity": 3721,
+  "rating": "r",
+  "simkl_id": null,
+  "episodes_data": [],
+  "specials_data": [],
+  "characters": [],
   "num_scoring_users": 3,
   "nsfw": "white",
   "created_at": null,
   "updated_at": null,
   "source": "manga",
-  "rating": "r",
   "background": null,
   "related_anime": [
     {
@@ -118,8 +109,5 @@
       "plan_to_watch": "49894"
     },
     "num_list_users": 49914
-  },
-  "mal_details_updated_at": "2026-11-15T01:59:06.558Z",
-  "synopsis_es": "Tercera película de anime de la trilogía adaptación del Infinity Castle Arc.",
-  "translations_updated_at": "2026-11-15T13:11:40.470Z"
+  }
 }

@@ -10,6 +10,7 @@
     "ja": "しあわせ配達おみくじタネコ"
   },
   "synopsis": "The story centers around a cat who answers people's wishes and delivers happiness. (\"Tane\" and \"neko\" are the Japanese words for \"seed\" and \"cat,\" respectively.)\n\n(Source: ANN)",
+  "synopsis_es": "La historia se centra en un gato que responde a los deseos de las personas y les brinda felicidad. (\"Tane\" y \"neko\" son las palabras japonesas para \"semilla\" y \"gato\", respectivamente).\n\n(Fuente: ANN)",
   "type": "TV",
   "media_type": "tv",
   "status": "currently_airing",
@@ -48,45 +49,19 @@
   "logo_url": null,
   "tmdb_id": null,
   "tmdb_updated_at": "2026-11-15T13:04:32.953Z",
-  "simkl_id": 37878,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "episodeNumber": 1,
-      "title": "Episode 1",
-      "aired": "2011-03-25T00:00:00+09:00",
-      "airedDate": "2011-03-25T00:00:00+09:00",
-      "thumbnail": null,
-      "imageUrl": null,
-      "description": null,
-      "title_es": "Episodio 1"
-    }
-  ],
-  "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/2/28900.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/2/28900l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/2/28900.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/2/28900l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/2/28900.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/2/28900l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/2/28900.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/2/28900l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/2/28900.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/2/28900l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/2/28900l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/2/28900l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/2/28900l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/2/28900l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/2/28900l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/2/28900l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/2/28900l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/2/28900l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/2/28900l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/2/28900l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/2/28900l.webp"
     }
   },
   "broadcast": {
@@ -99,12 +74,25 @@
   },
   "rank": 20795,
   "popularity": 13544,
+  "rating": null,
+  "simkl_id": 37878,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "title": "Episode 1",
+      "title_es": "Episodio 1",
+      "aired": "2011-03-25T00:00:00+09:00",
+      "thumbnail": null,
+      "description": null
+    }
+  ],
+  "specials_data": [],
+  "characters": [],
   "num_scoring_users": 88,
   "nsfw": "white",
   "created_at": null,
   "updated_at": null,
   "source": "original",
-  "rating": null,
   "background": null,
   "related_anime": [],
   "related_manga": [],
@@ -118,8 +106,5 @@
       "plan_to_watch": "441"
     },
     "num_list_users": 1695
-  },
-  "mal_details_updated_at": "2026-11-15T01:30:23.785Z",
-  "synopsis_es": "La historia se centra en un gato que responde a los deseos de las personas y les brinda felicidad. (\"Tane\" y \"neko\" son las palabras japonesas para \"semilla\" y \"gato\", respectivamente).\n\n(Fuente: ANN)",
-  "translations_updated_at": "2026-11-15T13:08:59.260Z"
+  }
 }

@@ -12,6 +12,7 @@
     "ja": "マリッジトキシン 第2期"
   },
   "synopsis": "Second season of Marriagetoxin.",
+  "synopsis_es": "Segunda temporada de Marriagetoxin.",
   "type": "TV",
   "media_type": "tv",
   "status": "not_yet_aired",
@@ -62,45 +63,19 @@
   "logo_url": null,
   "tmdb_id": null,
   "tmdb_updated_at": "2026-11-15T13:05:13.189Z",
-  "simkl_id": 3169196,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "episodeNumber": 1,
-      "title": "Episode 1",
-      "aired": "2027-01-01T23:00:00+09:00",
-      "airedDate": "2027-01-01T23:00:00+09:00",
-      "thumbnail": null,
-      "imageUrl": null,
-      "description": null,
-      "title_es": "Episodio 1"
-    }
-  ],
-  "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1589/159917.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1589/159917l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1589/159917.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1589/159917l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1589/159917.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1589/159917l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1589/159917.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1589/159917l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1589/159917.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1589/159917l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1589/159917l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1589/159917l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1589/159917l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1589/159917l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1589/159917l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1589/159917l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1589/159917l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1589/159917l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1589/159917l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1589/159917l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1589/159917l.webp"
     }
   },
   "broadcast": {
@@ -113,12 +88,25 @@
   },
   "rank": null,
   "popularity": 4865,
+  "rating": "pg_13",
+  "simkl_id": 3169196,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "title": "Episode 1",
+      "title_es": "Episodio 1",
+      "aired": "2027-01-01T23:00:00+09:00",
+      "thumbnail": null,
+      "description": null
+    }
+  ],
+  "specials_data": [],
+  "characters": [],
   "num_scoring_users": null,
   "nsfw": "white",
   "created_at": null,
   "updated_at": null,
   "source": "manga",
-  "rating": "pg_13",
   "background": "Marriagetoxin 2nd Season aired on Kansai TV and Fuji TV's Ka-Anival!! block.",
   "related_anime": [
     {
@@ -145,8 +133,5 @@
       "plan_to_watch": "29018"
     },
     "num_list_users": 29029
-  },
-  "mal_details_updated_at": "2026-11-15T01:58:04.323Z",
-  "synopsis_es": "Segunda temporada de Marriagetoxin.",
-  "translations_updated_at": "2026-11-15T13:13:11.645Z"
+  }
 }

@@ -10,6 +10,7 @@
     "ja": "咲き誇れ"
   },
   "synopsis": "Music video for the song Sakihokore by YOASOBI.",
+  "synopsis_es": "Vídeo musical de la canción Sakihokore de YOASOBI.",
   "type": "Music",
   "media_type": "music",
   "status": "finished_airing",
@@ -43,44 +44,34 @@
   "logo_url": null,
   "tmdb_id": null,
   "tmdb_updated_at": "2026-11-15T13:04:57.837Z",
-  "simkl_id": null,
-  "episodes_data": [],
-  "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1052/160537.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1052/160537l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1052/160537.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1052/160537l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1052/160537.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1052/160537l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1052/160537.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1052/160537l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1052/160537.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1052/160537l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1052/160537l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1052/160537l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1052/160537l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1052/160537l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1052/160537l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1052/160537l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1052/160537l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1052/160537l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1052/160537l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1052/160537l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1052/160537l.webp"
     }
   },
   "broadcast": null,
   "rank": null,
   "popularity": 28652,
+  "rating": "pg_13",
+  "simkl_id": null,
+  "episodes_data": [],
+  "specials_data": [],
+  "characters": [],
   "num_scoring_users": 58,
   "nsfw": "white",
   "created_at": null,
   "updated_at": null,
   "source": "novel",
-  "rating": "pg_13",
   "background": "The song was used as the theme song of the drama Blossom.",
   "related_anime": [],
   "related_manga": [],
@@ -94,8 +85,5 @@
       "plan_to_watch": "13"
     },
     "num_list_users": 104
-  },
-  "mal_details_updated_at": "2026-11-10T01:37:25.546Z",
-  "synopsis_es": "Vídeo musical de la canción Sakihokore de YOASOBI.",
-  "translations_updated_at": "2026-11-15T13:13:40.420Z"
+  }
 }

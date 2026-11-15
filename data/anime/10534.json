@@ -12,6 +12,7 @@
     "ja": "映画 ドラえもん 新・のび太と鉄人兵団～はばたけ 天使たち～"
   },
   "synopsis": "Jealous of Suneo's new robot toy, Nobita asks Doraemon to build him an even better one. Doraemon initially refuses, until Nobita accidentally discovers pieces of a mysterious robot that falls from the sky. After gathering all the robot parts and assembled them together, the giant robot, Zanda Claus, is soon completed. The duo soon learn that the robot is not a mere toy, but a powerful weapon in the fight against the coming Robot Army that is going to attack Earth and enslave the human inhabitants of it. An invasion is near, as a mysterious girl Riruru (リルル, Alternative spelling: Lilulu, Lillele [Doko Demo Doa Scanlations]) shows up, looking for the robot.\n\n(Source: Wikipedia)",
+  "synopsis_es": "Celoso del nuevo robot de juguete de Suneo, Nobita le pide a Doraemon que le construya uno aún mejor. Doraemon inicialmente se niega, hasta que Nobita descubre accidentalmente piezas de un misterioso robot que cae del cielo. Después de reunir todas las piezas del robot y ensamblarlas, pronto se completa el robot gigante, Zanda Claus. El dúo pronto descubre que el robot no es un simple juguete, sino un arma poderosa en la lucha contra el próximo Ejército de Robots que atacará la Tierra y esclavizará a sus habitantes humanos. Se acerca una invasión, cuando aparece una chica misteriosa, Riruru (リルル, ortografía alternativa: Lilulu, Lillele [Doko Demo Doa Scanlations]), buscando al robot.\n\n(Fuente: Wikipedia)",
   "type": "Movie",
   "media_type": "movie",
   "status": "finished_airing",
@@ -65,53 +66,39 @@
       "name": "Shin-Ei Animation"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/5/28944l.jpg",
-    "https://cdn.myanimelist.net/images/anime/7/72436l.jpg",
-    "https://cdn.myanimelist.net/images/anime/10/85064l.jpg"
-  ],
+  "pictures": [],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
   "tmdb_updated_at": null,
-  "simkl_id": null,
-  "episodes_data": [],
-  "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/7/72436.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/72436l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/7/72436.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/7/72436l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/7/72436.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/72436l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/7/72436.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/7/72436l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/7/72436.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/7/72436l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/5/28944l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/5/28944l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/5/28944l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/5/28944l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/5/28944l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/5/28944l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/5/28944l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/5/28944l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/28944l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/5/28944l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/7/72436l.webp"
     }
   },
   "broadcast": null,
   "rank": 252,
   "popularity": 5299,
+  "rating": "pg",
+  "simkl_id": null,
+  "episodes_data": [],
+  "specials_data": [],
+  "characters": [],
   "num_scoring_users": 15149,
   "nsfw": "white",
   "created_at": "2011-04-02T18:18:27+00:00",
   "updated_at": "2023-01-31T21:19:11+00:00",
   "source": "manga",
-  "rating": "pg",
   "background": null,
   "related_anime": [
     {
@@ -162,7 +149,5 @@
       "plan_to_watch": "1828"
     },
     "num_list_users": 23733
-  },
-  "synopsis_es": "Celoso del nuevo robot de juguete de Suneo, Nobita le pide a Doraemon que le construya uno aún mejor. Doraemon inicialmente se niega, hasta que Nobita descubre accidentalmente piezas de un misterioso robot que cae del cielo. Después de reunir todas las piezas del robot y ensamblarlas, pronto se completa el robot gigante, Zanda Claus. El dúo pronto descubre que el robot no es un simple juguete, sino un arma poderosa en la lucha contra el próximo Ejército de Robots que atacará la Tierra y esclavizará a sus habitantes humanos. Se acerca una invasión, cuando aparece una chica misteriosa, Riruru (リルル, ortografía alternativa: Lilulu, Lillele [Doko Demo Doa Scanlations]), buscando al robot.\n\n(Fuente: Wikipedia)",
-  "translations_updated_at": "2026-11-15T02:29:55.813Z"
+  }
 }

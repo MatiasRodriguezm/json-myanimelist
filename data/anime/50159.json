@@ -12,6 +12,7 @@
     "ja": "劇場版『ゾンビランドサガ ゆめぎんがパラダイス』"
   },
   "synopsis": "It's an alien vs. zombie showdown! Zombie idol group Franchouchou is ready to rock the upcoming Saga Expo—until an alien spaceship appears and rains destruction. As if things couldn't get any worse, the legendary Tae Yamada regains consciousness and announces her intention to go solo to stop the invasion. With Franchouchou scattered and Earth in peril, can the group reunite in time to save Saga?\n\n(Source: Crunchyroll)",
+  "synopsis_es": "¡Es un enfrentamiento entre alienígenas y zombis! El grupo ídolo zombi Franchouchou está listo para arrasar en la próxima Saga Expo, hasta que aparece una nave espacial alienígena y provoca una lluvia de destrucción. Como si las cosas no pudieran empeorar, la legendaria Tae Yamada recupera la conciencia y anuncia su intención de ir sola para detener la invasión. Con Franchouchou disperso y la Tierra en peligro, ¿podrá el grupo reunirse a tiempo para salvar a Saga?\n\n(Fuente: Crunchyroll)",
   "type": "Movie",
   "media_type": "movie",
   "status": "finished_airing",
@@ -61,54 +62,39 @@
       "name": "MAPPA"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1082/120338l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1704/147760l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1882/149455l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1552/151187l.jpg"
-  ],
+  "pictures": [],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
   "tmdb_updated_at": null,
-  "simkl_id": null,
-  "episodes_data": [],
-  "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1552/151187.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1552/151187l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1552/151187.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1552/151187l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1552/151187.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1552/151187l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1552/151187.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1552/151187l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1552/151187.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1552/151187l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1082/120338l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1082/120338l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1082/120338l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1082/120338l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1082/120338l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1082/120338l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1082/120338l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1082/120338l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1082/120338l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1082/120338l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1552/151187l.webp"
     }
   },
   "broadcast": null,
   "rank": 387,
   "popularity": 4014,
+  "rating": "r",
+  "simkl_id": null,
+  "episodes_data": [],
+  "specials_data": [],
+  "characters": [],
   "num_scoring_users": 7098,
   "nsfw": "white",
   "created_at": "2021-10-17T08:03:48+00:00",
   "updated_at": "2026-06-19T08:20:21+00:00",
   "source": "original",
-  "rating": "r",
   "background": null,
   "related_anime": [
     {
@@ -135,7 +121,5 @@
       "plan_to_watch": "33567"
     },
     "num_list_users": 44134
-  },
-  "synopsis_es": "¡Es un enfrentamiento entre alienígenas y zombis! El grupo ídolo zombi Franchouchou está listo para arrasar en la próxima Saga Expo, hasta que aparece una nave espacial alienígena y provoca una lluvia de destrucción. Como si las cosas no pudieran empeorar, la legendaria Tae Yamada recupera la conciencia y anuncia su intención de ir sola para detener la invasión. Con Franchouchou disperso y la Tierra en peligro, ¿podrá el grupo reunirse a tiempo para salvar a Saga?\n\n(Fuente: Crunchyroll)",
-  "translations_updated_at": "2026-11-15T02:31:36.140Z"
+  }
 }

@@ -12,6 +12,7 @@
     "ja": "終物語"
   },
   "synopsis": "A peculiar transfer student named Ougi Oshino has just arrived at Naoetsu Private High School. She is quickly introduced to senior student Koyomi Araragi by their mutual friend Kanbaru Suruga, in hopes of obtaining advice regarding a strange discovery she has made. After taking a look at the school's layout, Ougi notices that a classroom has appeared in an otherwise empty area—a place that should not exist. \n\nUnsure if this is the work of an apparition, Araragi and Ougi attempt to unravel the truth behind this enigma. But Araragi soon discovers, after finding himself locked in with Ougi, that the room holds the memory of an event he had long since forgotten.\n\n[Written by MAL Rewrite]",
+  "synopsis_es": "Un peculiar estudiante transferido llamado Ougi Oshino acaba de llegar a la escuela secundaria privada Naoetsu. Su amigo en común Kanbaru Suruga le presenta rápidamente a la estudiante de último año Koyomi Araragi, con la esperanza de obtener consejo sobre un extraño descubrimiento que ha hecho. Después de echar un vistazo al diseño de la escuela, Ougi se da cuenta de que ha aparecido un salón de clases en un área que de otro modo estaría vacía, un lugar que no debería existir. \n\nSin estar seguros de si esto es obra de una aparición, Araragi y Ougi intentan desentrañar la verdad detrás de este enigma. Pero Araragi pronto descubre, después de encontrarse encerrado con Ougi, que la habitación guarda el recuerdo de un evento que había olvidado hace mucho tiempo.\n\n[Escrito por MAL Rewrite]",
   "type": "TV",
   "media_type": "tv",
   "status": "finished_airing",
@@ -57,26 +58,15 @@
       "name": "Shaft"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/8/76479l.jpg",
-    "https://cdn.myanimelist.net/images/anime/11/77117l.jpg",
-    "https://cdn.myanimelist.net/images/anime/4/81099l.jpg",
-    "https://cdn.myanimelist.net/images/anime/7/81100l.jpg",
-    "https://cdn.myanimelist.net/images/anime/7/81102l.jpg"
-  ],
+  "pictures": [],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
   "tmdb_updated_at": null,
-  "simkl_id": null,
-  "episodes_data": [],
-  "specials_data": [],
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/8/76479.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/76479l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/8/76479.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/8/76479l.webp"
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/76479l.webp"
     }
   },
   "main_picture": {
@@ -85,16 +75,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/8/76479l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/8/76479l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/8/76479l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/8/76479l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/8/76479l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/8/76479l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/8/76479l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/8/76479l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/76479l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/8/76479l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/8/76479l.webp"
     }
   },
   "broadcast": {
@@ -107,12 +88,16 @@
   },
   "rank": 197,
   "popularity": 521,
+  "rating": "r",
+  "simkl_id": null,
+  "episodes_data": [],
+  "specials_data": [],
+  "characters": [],
   "num_scoring_users": 255345,
   "nsfw": "white",
   "created_at": "2015-07-07T02:24:55+00:00",
   "updated_at": "2023-10-09T01:11:17+00:00",
   "source": "light_novel",
-  "rating": "r",
   "background": "Owarimonogatari adapts the third and fourth volumes of NisiOisiN's Monogatari Series: Final Season.",
   "related_anime": [
     {
@@ -151,7 +136,5 @@
       "plan_to_watch": "151343"
     },
     "num_list_users": 517912
-  },
-  "synopsis_es": "Un peculiar estudiante transferido llamado Ougi Oshino acaba de llegar a la escuela secundaria privada Naoetsu. Su amigo en común Kanbaru Suruga le presenta rápidamente a la estudiante de último año Koyomi Araragi, con la esperanza de obtener consejo sobre un extraño descubrimiento que ha hecho. Después de echar un vistazo al diseño de la escuela, Ougi se da cuenta de que ha aparecido un salón de clases en un área que de otro modo estaría vacía, un lugar que no debería existir. \n\nSin estar seguros de si esto es obra de una aparición, Araragi y Ougi intentan desentrañar la verdad detrás de este enigma. Pero Araragi pronto descubre, después de encontrarse encerrado con Ougi, que la habitación guarda el recuerdo de un evento que había olvidado hace mucho tiempo.\n\n[Escrito por MAL Rewrite]",
-  "translations_updated_at": "2026-11-15T02:29:14.953Z"
+  }
 }

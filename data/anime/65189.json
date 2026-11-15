@@ -10,6 +10,7 @@
     "ja": "雲を抜け風下へ私だけ"
   },
   "synopsis": "Music video for the song Kumo wo Nuke Kazashimo e Watashi dake by Yorushika. The song was used as the opening theme of the anime Kusuriya no Hitorigoto 3rd Season.",
+  "synopsis_es": "Vídeo musical de la canción Kumo wo Nuke Kazashimo e Watashi dake de Yorushika. La canción se utilizó como tema de apertura del anime Kusuriya no Hitorigoto 3rd Season.",
   "type": "Music",
   "media_type": "music",
   "status": "finished_airing",
@@ -43,44 +44,34 @@
   "logo_url": null,
   "tmdb_id": null,
   "tmdb_updated_at": "2026-11-15T13:04:21.449Z",
-  "simkl_id": null,
-  "episodes_data": [],
-  "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1474/160536.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1474/160536l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1474/160536.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1474/160536l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1474/160536.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1474/160536l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1474/160536.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1474/160536l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1474/160536.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1474/160536l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1474/160536l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1474/160536l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1474/160536l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1474/160536l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1474/160536l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1474/160536l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1474/160536l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1474/160536l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1474/160536l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1474/160536l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1474/160536l.webp"
     }
   },
   "broadcast": null,
   "rank": null,
   "popularity": 23010,
+  "rating": "pg_13",
+  "simkl_id": null,
+  "episodes_data": [],
+  "specials_data": [],
+  "characters": [],
   "num_scoring_users": 136,
   "nsfw": "white",
   "created_at": null,
   "updated_at": null,
   "source": "original",
-  "rating": "pg_13",
   "background": null,
   "related_anime": [
     {
@@ -107,8 +98,5 @@
       "plan_to_watch": "27"
     },
     "num_list_users": 250
-  },
-  "mal_details_updated_at": "2026-11-10T01:37:24.795Z",
-  "synopsis_es": "Vídeo musical de la canción Kumo wo Nuke Kazashimo e Watashi dake de Yorushika. La canción se utilizó como tema de apertura del anime Kusuriya no Hitorigoto 3rd Season.",
-  "translations_updated_at": "2026-11-15T13:13:39.643Z"
+  }
 }

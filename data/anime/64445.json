@@ -12,6 +12,7 @@
     "ja": "仙逆剧场版 弑仙之战"
   },
   "synopsis": "Pursued relentlessly by his sworn enemy in the Thunder Celestial Realm, Wang Lin is pushed to the absolute brink of death. Trapped with no escape, he launches an earth-shattering counterattack, defying impossible odds as the underdog to accomplish a legendary feat—slaying a celestial.\n\n(Source: Official YouTube Channel)",
+  "synopsis_es": "Perseguido implacablemente por su enemigo jurado en el Reino Celestial del Trueno, Wang Lin es empujado al borde absoluto de la muerte. Atrapado sin escapatoria, lanza un contraataque trascendental, desafiando probabilidades imposibles como el desvalido para lograr una hazaña legendaria: matar a un celestial.\n\n(Fuente: Canal oficial de YouTube)",
   "type": "ONA",
   "media_type": "ona",
   "status": "finished_airing",
@@ -66,56 +67,43 @@
   "logo_url": null,
   "tmdb_id": null,
   "tmdb_updated_at": "2026-11-15T13:04:04.744Z",
-  "simkl_id": 3271100,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "episodeNumber": 1,
-      "title": "Complete Movie",
-      "aired": "2026-10-01T00:00:00+09:00",
-      "airedDate": "2026-10-01T00:00:00+09:00",
-      "thumbnail": null,
-      "imageUrl": null,
-      "description": null,
-      "title_es": "Película completa"
-    }
-  ],
-  "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1511/158622.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1511/158622l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1511/158622.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1511/158622l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1511/158622.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1511/158622l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1511/158622.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1511/158622l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1511/158622.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1511/158622l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1511/158622l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1511/158622l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1511/158622l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1511/158622l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1511/158622l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1511/158622l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1511/158622l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1511/158622l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1511/158622l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1511/158622l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1511/158622l.webp"
     }
   },
   "broadcast": null,
   "rank": 627,
   "popularity": 14381,
+  "rating": "pg_13",
+  "simkl_id": 3271100,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "title": "Complete Movie",
+      "title_es": "Película completa",
+      "aired": "2026-10-01T00:00:00+09:00",
+      "thumbnail": null,
+      "description": null
+    }
+  ],
+  "specials_data": [],
+  "characters": [],
   "num_scoring_users": 454,
   "nsfw": "white",
   "created_at": null,
   "updated_at": null,
   "source": "web_novel",
-  "rating": "pg_13",
   "background": "Set between episodes 151 and 152 of Xian Ni.",
   "related_anime": [
     {
@@ -142,8 +130,5 @@
       "plan_to_watch": "603"
     },
     "num_list_users": 1359
-  },
-  "mal_details_updated_at": "2026-11-10T01:36:16.332Z",
-  "synopsis_es": "Perseguido implacablemente por su enemigo jurado en el Reino Celestial del Trueno, Wang Lin es empujado al borde absoluto de la muerte. Atrapado sin escapatoria, lanza un contraataque trascendental, desafiando probabilidades imposibles como el desvalido para lograr una hazaña legendaria: matar a un celestial.\n\n(Fuente: Canal oficial de YouTube)",
-  "translations_updated_at": "2026-11-15T13:13:03.372Z"
+  }
 }

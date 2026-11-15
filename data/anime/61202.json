@@ -12,6 +12,7 @@
     "ja": "劇場版モノノ怪 第三章 蛇神"
   },
   "synopsis": "Third installment of the Mononoke movie.",
+  "synopsis_es": "Tercera entrega de la película Mononoke.",
   "type": "Movie",
   "media_type": "movie",
   "status": "finished_airing",
@@ -77,53 +78,39 @@
       "name": "EOTA"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1379/148467l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1499/154131l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1521/156670l.jpg"
-  ],
+  "pictures": [],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
   "tmdb_updated_at": null,
-  "simkl_id": null,
-  "episodes_data": [],
-  "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1521/156670.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1521/156670l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1521/156670.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1521/156670l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1521/156670.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1521/156670l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1521/156670.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1521/156670l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1521/156670.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1521/156670l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1379/148467l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1379/148467l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1379/148467l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1379/148467l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1379/148467l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1379/148467l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1379/148467l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1379/148467l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1379/148467l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1379/148467l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1521/156670l.webp"
     }
   },
   "broadcast": null,
   "rank": 365,
   "popularity": 6403,
+  "rating": "r",
+  "simkl_id": null,
+  "episodes_data": [],
+  "specials_data": [],
+  "characters": [],
   "num_scoring_users": 2894,
   "nsfw": "white",
   "created_at": "2025-03-14T03:06:13+00:00",
   "updated_at": "2025-12-10T13:28:20+00:00",
   "source": "original",
-  "rating": "r",
   "background": null,
   "related_anime": [
     {
@@ -150,7 +137,5 @@
       "plan_to_watch": "10233"
     },
     "num_list_users": 14522
-  },
-  "synopsis_es": "Tercera entrega de la película Mononoke.",
-  "translations_updated_at": "2026-11-15T02:31:20.355Z"
+  }
 }

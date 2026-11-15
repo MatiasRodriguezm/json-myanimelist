@@ -13,6 +13,7 @@
     "ja": "薬屋のひとりごと 第3期 第2クール"
   },
   "synopsis": "Second part of Kusuriya no Hitorigoto 3rd Season.",
+  "synopsis_es": "Segunda parte de Kusuriya no Hitorigoto 3ra Temporada.",
   "type": "TV",
   "media_type": "tv",
   "status": "not_yet_aired",
@@ -55,59 +56,46 @@
   "studios": [],
   "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
-  "logo_url": "https://image.tmdb.org/t/p/w500/6JpmIe9cJcbG6hecyN6ml8AG6RC.png",
+  "logo_url": "https://image.tmdb.org/t/p/w300/6JpmIe9cJcbG6hecyN6ml8AG6RC.png",
   "tmdb_id": "220542",
   "tmdb_updated_at": "2026-11-13T03:54:05.370Z",
-  "simkl_id": 2909052,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "episodeNumber": 1,
-      "title": "Episode 1",
-      "aired": "2027-04-01T00:00:00+09:00",
-      "airedDate": "2027-04-01T00:00:00+09:00",
-      "thumbnail": null,
-      "imageUrl": null,
-      "description": null,
-      "title_es": "Episodio 1"
-    }
-  ],
-  "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1667/152812.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1667/152812l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1667/152812.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1667/152812l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1667/152812.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1667/152812l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1667/152812.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1667/152812l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1667/152812.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1667/152812l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1667/152812l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1667/152812l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1667/152812l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1667/152812l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1667/152812l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1667/152812l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1667/152812l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1667/152812l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1667/152812l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1667/152812l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1667/152812l.webp"
     }
   },
   "broadcast": null,
   "rank": null,
   "popularity": 3085,
+  "rating": "pg_13",
+  "simkl_id": 2909052,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "title": "Episode 1",
+      "title_es": "Episodio 1",
+      "aired": "2027-04-01T00:00:00+09:00",
+      "thumbnail": null,
+      "description": null
+    }
+  ],
+  "specials_data": [],
+  "characters": [],
   "num_scoring_users": 1,
   "nsfw": "white",
   "created_at": null,
   "updated_at": null,
   "source": "light_novel",
-  "rating": "pg_13",
   "background": null,
   "related_anime": [
     {
@@ -134,8 +122,5 @@
       "plan_to_watch": "69968"
     },
     "num_list_users": 69983
-  },
-  "mal_details_updated_at": "2026-11-15T01:58:57.263Z",
-  "synopsis_es": "Segunda parte de Kusuriya no Hitorigoto 3ra Temporada.",
-  "translations_updated_at": "2026-11-15T13:11:49.958Z"
+  }
 }

@@ -10,6 +10,7 @@
     "ja": "ラブライブ！蓮ノ空女学院スクールアイドルクラブ"
   },
   "synopsis": "A TV anime for Love Live! Hasunosora Jogakuin School Idol Club.",
+  "synopsis_es": "¡Un anime de televisión para Love Live! Club de ídolos de la escuela Hasunosora Jogakuin.",
   "type": "TV",
   "media_type": "tv",
   "status": "not_yet_aired",
@@ -60,27 +61,10 @@
   "logo_url": null,
   "tmdb_id": null,
   "tmdb_updated_at": "2026-11-15T13:05:24.992Z",
-  "simkl_id": 3068610,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "episodeNumber": 1,
-      "title": "Episode 1",
-      "aired": "2027-01-01T22:30:00+09:00",
-      "airedDate": "2027-01-01T22:30:00+09:00",
-      "thumbnail": null,
-      "imageUrl": null,
-      "description": null,
-      "title_es": "Episodio 1"
-    }
-  ],
-  "specials_data": [],
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1575/160606.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1575/160606l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1575/160606.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1575/160606l.webp"
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1575/160606l.webp"
     }
   },
   "main_picture": {
@@ -89,16 +73,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1575/160606l.webp",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1575/160606l.webp",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1575/160606l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1575/160606l.webp",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1575/160606l.webp",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1575/160606l.webp",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1575/160606l.webp",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1575/160606l.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1575/160606l.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1575/160606l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1575/160606l.webp"
     }
   },
   "broadcast": {
@@ -111,12 +86,25 @@
   },
   "rank": null,
   "popularity": 9964,
+  "rating": null,
+  "simkl_id": 3068610,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "title": "Episode 1",
+      "title_es": "Episodio 1",
+      "aired": "2027-01-01T22:30:00+09:00",
+      "thumbnail": null,
+      "description": null
+    }
+  ],
+  "specials_data": [],
+  "characters": [],
   "num_scoring_users": null,
   "nsfw": "white",
   "created_at": null,
   "updated_at": null,
   "source": "other",
-  "rating": null,
   "background": null,
   "related_anime": [
     {
@@ -191,8 +179,5 @@
       "plan_to_watch": "4747"
     },
     "num_list_users": 4747
-  },
-  "mal_details_updated_at": "2026-11-15T01:58:26.679Z",
-  "synopsis_es": "¡Un anime de televisión para Love Live! Club de ídolos de la escuela Hasunosora Jogakuin.",
-  "translations_updated_at": "2026-11-15T13:12:47.600Z"
+  }
 }

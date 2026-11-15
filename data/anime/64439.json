@@ -10,6 +10,7 @@
     "ja": "あかね噺 第2期"
   },
   "synopsis": "Second season of Akane-banashi.",
+  "synopsis_es": "Segunda temporada de Akane-banashi.",
   "type": "TV",
   "media_type": "tv",
   "status": "not_yet_aired",
@@ -53,59 +54,46 @@
   ],
   "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/tD1pMgt3DNGoJn2M0QaDyaN3FfJ.jpg",
-  "logo_url": "https://image.tmdb.org/t/p/w500/sI1Jp8CXxRR7KoGBxGLj4Z3NA0Q.png",
+  "logo_url": "https://image.tmdb.org/t/p/w300/sI1Jp8CXxRR7KoGBxGLj4Z3NA0Q.png",
   "tmdb_id": "297438",
   "tmdb_updated_at": "2026-11-13T03:53:33.224Z",
-  "simkl_id": 3159078,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "episodeNumber": 1,
-      "title": "Episode 1",
-      "aired": "2027-01-01T00:00:00+09:00",
-      "airedDate": "2027-01-01T00:00:00+09:00",
-      "thumbnail": null,
-      "imageUrl": null,
-      "description": null,
-      "title_es": "Episodio 1"
-    }
-  ],
-  "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1618/160692.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1618/160692l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1618/160692.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1618/160692l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1618/160692.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1618/160692l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1618/160692.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1618/160692l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1618/160692.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1618/160692l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1618/160692l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1618/160692l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1618/160692l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1618/160692l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1618/160692l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1618/160692l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1618/160692l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1618/160692l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1618/160692l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1618/160692l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1618/160692l.webp"
     }
   },
   "broadcast": null,
   "rank": null,
   "popularity": 6357,
+  "rating": "pg_13",
+  "simkl_id": 3159078,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "title": "Episode 1",
+      "title_es": "Episodio 1",
+      "aired": "2027-01-01T00:00:00+09:00",
+      "thumbnail": null,
+      "description": null
+    }
+  ],
+  "specials_data": [],
+  "characters": [],
   "num_scoring_users": 1,
   "nsfw": "white",
   "created_at": null,
   "updated_at": null,
   "source": "manga",
-  "rating": "pg_13",
   "background": "Akane-banashi 2nd Season aired on TV Asahi's IMAnimation block.",
   "related_anime": [
     {
@@ -132,8 +120,5 @@
       "plan_to_watch": "14735"
     },
     "num_list_users": 14738
-  },
-  "mal_details_updated_at": "2026-11-15T01:58:10.177Z",
-  "synopsis_es": "Segunda temporada de Akane-banashi.",
-  "translations_updated_at": "2026-11-15T13:13:02.659Z"
+  }
 }

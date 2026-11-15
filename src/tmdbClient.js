@@ -6,7 +6,7 @@ const CLOUDFLARE_WORKER_API = "https://api-ids-animedatabase.elsodaestacio.worke
 const ANI_ZIP_API = "https://api.ani.zip/mappings?mal_id=";
 const TMDB_API_BASE = "https://api.themoviedb.org/3";
 const TMDB_BACKDROP_BASE = "https://image.tmdb.org/t/p/w1280";
-const TMDB_LOGO_BASE = "https://image.tmdb.org/t/p/w500";
+const TMDB_LOGO_BASE = "https://image.tmdb.org/t/p/w300";
 
 function sleep(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));

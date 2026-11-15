@@ -13,6 +13,7 @@
     "ja": "ツバサ 春雷記"
   },
   "synopsis": "After the battle in Celes, Fai escapes with Kurogane's aid while helping Syaoran and Sakura as well. Now in the land of Nihon, Kurogane meets with Tomoyo once more. Seishirou appears and Syaoran battles him for the feather. After finally gaining the feather, he enters the Dream World where he meets Sakura, Watanuki and the Clone.\n\n(Source: Metacritic)",
+  "synopsis_es": "Después de la batalla en Celes, Fai escapa con la ayuda de Kurogane mientras ayuda a Syaoran y Sakura también. Ahora, en la tierra de Nihon, Kurogane se reencuentra con Tomoyo una vez más. Seishirou aparece y Syaoran lucha con él por la pluma. Después de finalmente obtener la pluma, ingresa al Mundo de los Sueños donde conoce a Sakura, Watanuki y el Clon.\n\n(Fuente: Metacrítico)",
   "type": "OVA",
   "media_type": "ova",
   "status": "finished_airing",
@@ -68,70 +69,54 @@
   ],
   "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/6yEPWAfQQmkZTht21z9OYZP9f8E.jpg",
-  "logo_url": "https://image.tmdb.org/t/p/w500/hJJrDltSIDfZhQDF2GFKacGXPY.png",
+  "logo_url": "https://image.tmdb.org/t/p/w300/hJJrDltSIDfZhQDF2GFKacGXPY.png",
   "tmdb_id": "37565",
   "tmdb_updated_at": "2026-11-06T22:02:27.726Z",
-  "simkl_id": 39704,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "episodeNumber": 1,
-      "title": "Volume 1",
-      "aired": "2009-03-17T00:00:00+09:00",
-      "airedDate": "2009-03-17T00:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/17/17571207d4dde91742_w.webp",
-      "imageUrl": "https://simkl.in/episodes/17/17571207d4dde91742_w.webp",
-      "description": null,
-      "title_es": "Volumen 1"
-    },
-    {
-      "episode": 2,
-      "episodeNumber": 2,
-      "title": "Volume 2",
-      "aired": "2009-05-15T00:00:00+09:00",
-      "airedDate": "2009-05-15T00:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/17/17571209106f39508b_w.webp",
-      "imageUrl": "https://simkl.in/episodes/17/17571209106f39508b_w.webp",
-      "description": null,
-      "title_es": "Volumen 2"
-    }
-  ],
-  "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/9/33841.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/9/33841l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/9/33841.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/9/33841l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/9/33841.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/9/33841l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/9/33841.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/9/33841l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/9/33841.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/9/33841l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/9/33841l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/9/33841l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/9/33841l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/9/33841l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/9/33841l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/9/33841l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/9/33841l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/9/33841l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/9/33841l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/9/33841l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/9/33841l.webp"
     }
   },
   "broadcast": null,
   "rank": 649,
   "popularity": 3183,
+  "rating": "r",
+  "simkl_id": 39704,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "title": "Volume 1",
+      "title_es": "Volumen 1",
+      "aired": "2009-03-17T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/17571207d4dde91742_w.webp",
+      "description": null
+    },
+    {
+      "episode": 2,
+      "title": "Volume 2",
+      "title_es": "Volumen 2",
+      "aired": "2009-05-15T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/17571209106f39508b_w.webp",
+      "description": null
+    }
+  ],
+  "specials_data": [],
+  "characters": [],
   "num_scoring_users": 31167,
   "nsfw": "white",
   "created_at": null,
   "updated_at": null,
   "source": "manga",
-  "rating": "r",
   "background": "Bundled with the limited editions of the 26th and 27th volumes of the Tsubasa Chronicle manga.",
   "related_anime": [
     {
@@ -226,8 +211,5 @@
       "plan_to_watch": "17249"
     },
     "num_list_users": 65931
-  },
-  "mal_details_updated_at": "2026-11-10T01:30:34.561Z",
-  "synopsis_es": "Después de la batalla en Celes, Fai escapa con la ayuda de Kurogane mientras ayuda a Syaoran y Sakura también. Ahora, en la tierra de Nihon, Kurogane se reencuentra con Tomoyo una vez más. Seishirou aparece y Syaoran lucha con él por la pluma. Después de finalmente obtener la pluma, ingresa al Mundo de los Sueños donde conoce a Sakura, Watanuki y el Clon.\n\n(Fuente: Metacrítico)",
-  "translations_updated_at": "2026-11-15T13:10:13.219Z"
+  }
 }

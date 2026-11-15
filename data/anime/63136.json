@@ -15,6 +15,7 @@
     "ja": "劇場版 怪獣8号"
   },
   "synopsis": "Final chapter of Kaijuu 8-gou.",
+  "synopsis_es": "Capítulo final de Kaijuu 8-gou.",
   "type": "Movie",
   "media_type": "movie",
   "status": "not_yet_aired",
@@ -74,15 +75,10 @@
   "logo_url": null,
   "tmdb_id": null,
   "tmdb_updated_at": "2026-11-15T13:05:51.592Z",
-  "simkl_id": 3252876,
-  "episodes_data": [],
-  "specials_data": [],
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1477/160682.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1477/160682l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1477/160682.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1477/160682l.webp"
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1477/160682l.webp"
     }
   },
   "main_picture": {
@@ -91,27 +87,22 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1477/160682l.webp",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1477/160682l.webp",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1477/160682l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1477/160682l.webp",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1477/160682l.webp",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1477/160682l.webp",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1477/160682l.webp",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1477/160682l.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1477/160682l.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1477/160682l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1477/160682l.webp"
     }
   },
   "broadcast": null,
   "rank": null,
   "popularity": 3913,
+  "rating": "pg_13",
+  "simkl_id": 3252876,
+  "episodes_data": [],
+  "specials_data": [],
+  "characters": [],
   "num_scoring_users": 1,
   "nsfw": "white",
   "created_at": null,
   "updated_at": null,
   "source": "manga",
-  "rating": "pg_13",
   "background": null,
   "related_anime": [
     {
@@ -138,8 +129,5 @@
       "plan_to_watch": "45928"
     },
     "num_list_users": 45937
-  },
-  "mal_details_updated_at": "2026-11-15T01:59:39.949Z",
-  "synopsis_es": "Capítulo final de Kaijuu 8-gou.",
-  "translations_updated_at": "2026-11-15T13:12:06.222Z"
+  }
 }

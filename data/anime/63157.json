@@ -13,6 +13,7 @@
     "ja": "ケロロ軍曹☆"
   },
   "synopsis": "A new Keroro Gunsou from scratch.",
+  "synopsis_es": "Un nuevo Keroro Gunsou desde cero.",
   "type": "TV",
   "media_type": "tv",
   "status": "currently_airing",
@@ -60,70 +61,22 @@
   ],
   "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/qPJ7HP6w73k3FzsYsvnKHMfil8M.jpg",
-  "logo_url": "https://image.tmdb.org/t/p/w500/hrisHdxVN8QRnx7Pl5df9xtE5wy.png",
+  "logo_url": "https://image.tmdb.org/t/p/w300/hrisHdxVN8QRnx7Pl5df9xtE5wy.png",
   "tmdb_id": "308977",
   "tmdb_updated_at": "2026-11-13T03:52:21.895Z",
-  "simkl_id": 3152176,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "episodeNumber": 1,
-      "title": "Keroro's Dreamland",
-      "aired": "2026-10-03T09:30:00+09:00",
-      "airedDate": "2026-10-03T09:30:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/20/2080869126b64d0c41_w.webp",
-      "imageUrl": "https://simkl.in/episodes/20/2080869126b64d0c41_w.webp",
-      "description": null,
-      "title_es": "La tierra de los sueños de Keroro"
-    },
-    {
-      "episode": 2,
-      "episodeNumber": 2,
-      "title": "My Friend Is an Invader / Sergeant Keroro in a Windowless, Bathless Room with History",
-      "aired": "2026-10-10T09:30:00+09:00",
-      "airedDate": "2026-10-10T09:30:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/20/20941991b040c92b7e_w.webp",
-      "imageUrl": "https://simkl.in/episodes/20/20941991b040c92b7e_w.webp",
-      "description": null,
-      "title_es": "Mi amigo es un invasor / Sargento Keroro en una habitación sin ventanas ni bañera con historia"
-    },
-    {
-      "episode": 3,
-      "episodeNumber": 3,
-      "title": "The Secretive Duo / Heart-Pounding! Momoka's Grand Romantic Tour Operation!",
-      "aired": "2026-10-17T09:30:00+09:00",
-      "airedDate": "2026-10-17T09:30:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/20/209419938804362123_w.webp",
-      "imageUrl": "https://simkl.in/episodes/20/209419938804362123_w.webp",
-      "description": null,
-      "title_es": "El dúo secreto / ¡El corazón palpitante! ¡La gran operación del tour romántico de Momoka!"
-    }
-  ],
-  "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1827/160110.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1827/160110l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1827/160110.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1827/160110l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1827/160110.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1827/160110l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1827/160110.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1827/160110l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1827/160110.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1827/160110l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1827/160110l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1827/160110l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1827/160110l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1827/160110l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1827/160110l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1827/160110l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1827/160110l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1827/160110l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1827/160110l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1827/160110l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1827/160110l.webp"
     }
   },
   "broadcast": {
@@ -136,12 +89,41 @@
   },
   "rank": 8037,
   "popularity": 9749,
+  "rating": "pg_13",
+  "simkl_id": 3152176,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "title": "Keroro's Dreamland",
+      "title_es": "La tierra de los sueños de Keroro",
+      "aired": "2026-10-03T09:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/2080869126b64d0c41_w.webp",
+      "description": null
+    },
+    {
+      "episode": 2,
+      "title": "My Friend Is an Invader / Sergeant Keroro in a Windowless, Bathless Room with History",
+      "title_es": "Mi amigo es un invasor / Sargento Keroro en una habitación sin ventanas ni bañera con historia",
+      "aired": "2026-10-10T09:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20941991b040c92b7e_w.webp",
+      "description": null
+    },
+    {
+      "episode": 3,
+      "title": "The Secretive Duo / Heart-Pounding! Momoka's Grand Romantic Tour Operation!",
+      "title_es": "El dúo secreto / ¡El corazón palpitante! ¡La gran operación del tour romántico de Momoka!",
+      "aired": "2026-10-17T09:30:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/209419938804362123_w.webp",
+      "description": null
+    }
+  ],
+  "specials_data": [],
+  "characters": [],
   "num_scoring_users": 532,
   "nsfw": "white",
   "created_at": null,
   "updated_at": null,
   "source": "manga",
-  "rating": "pg_13",
   "background": null,
   "related_anime": [
     {
@@ -168,8 +150,5 @@
       "plan_to_watch": "2569"
     },
     "num_list_users": 5072
-  },
-  "mal_details_updated_at": "2026-11-15T01:55:37.932Z",
-  "synopsis_es": "Un nuevo Keroro Gunsou desde cero.",
-  "translations_updated_at": "2026-11-15T13:12:09.501Z"
+  }
 }

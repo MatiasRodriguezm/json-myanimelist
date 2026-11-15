@@ -12,6 +12,7 @@
     "ja": "劇場版 鬼滅の刃 無限城編"
   },
   "synopsis": "Second anime movie of the trilogy adaptation of the Infinity Castle Arc.",
+  "synopsis_es": "Segunda película anime de la trilogía adaptación del Infinity Castle Arc.",
   "type": "Movie",
   "media_type": "movie",
   "status": "not_yet_aired",
@@ -54,90 +55,68 @@
   "logo_url": null,
   "tmdb_id": null,
   "tmdb_updated_at": "2026-11-15T13:05:39.303Z",
-  "simkl_id": 2498112,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "episodeNumber": 1,
-      "title": "Movie 1",
-      "aired": "2025-07-18T00:00:00+09:00",
-      "airedDate": "2025-07-18T00:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/20/204603256bd7a7bdbb_w.webp",
-      "imageUrl": "https://simkl.in/episodes/20/204603256bd7a7bdbb_w.webp",
-      "description": null,
-      "title_es": "Película 1"
-    },
-    {
-      "episode": 2,
-      "episodeNumber": 2,
-      "title": "Movie 2",
-      "aired": null,
-      "airedDate": null,
-      "thumbnail": null,
-      "imageUrl": null,
-      "description": null,
-      "title_es": "Película 2"
-    },
-    {
-      "episode": 3,
-      "episodeNumber": 3,
-      "title": "Movie 3",
-      "aired": null,
-      "airedDate": null,
-      "thumbnail": null,
-      "imageUrl": null,
-      "description": null,
-      "title_es": "Película 3"
-    }
-  ],
-  "specials_data": [
-    {
-      "episode": 1,
-      "episodeNumber": 1,
-      "title": "Chapter 1 x TOHO Cinemas: Collaboration Manner Course",
-      "aired": "2025-06-20T00:00:00+09:00",
-      "airedDate": "2025-06-20T00:00:00+09:00",
-      "thumbnail": null,
-      "imageUrl": null,
-      "description": null,
-      "title_es": "Capítulo 1 x Cines TOHO: Curso de Maneras de Colaboración"
-    }
-  ],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1000/152184.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1000/152184l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1000/152184.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1000/152184l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1000/152184.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1000/152184l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1000/152184.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1000/152184l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1000/152184.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1000/152184l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1000/152184l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1000/152184l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1000/152184l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1000/152184l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1000/152184l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1000/152184l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1000/152184l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1000/152184l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1000/152184l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1000/152184l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1000/152184l.webp"
     }
   },
   "broadcast": null,
   "rank": null,
   "popularity": 2248,
+  "rating": "r",
+  "simkl_id": 2498112,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "title": "Movie 1",
+      "title_es": "Película 1",
+      "aired": "2025-07-18T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/204603256bd7a7bdbb_w.webp",
+      "description": null
+    },
+    {
+      "episode": 2,
+      "title": "Movie 2",
+      "title_es": "Película 2",
+      "aired": null,
+      "thumbnail": null,
+      "description": null
+    },
+    {
+      "episode": 3,
+      "title": "Movie 3",
+      "title_es": "Película 3",
+      "aired": null,
+      "thumbnail": null,
+      "description": null
+    }
+  ],
+  "specials_data": [
+    {
+      "episode": 1,
+      "title": "Chapter 1 x TOHO Cinemas: Collaboration Manner Course",
+      "title_es": "Capítulo 1 x Cines TOHO: Curso de Maneras de Colaboración",
+      "aired": "2025-06-20T00:00:00+09:00",
+      "thumbnail": null,
+      "description": null
+    }
+  ],
+  "characters": [],
   "num_scoring_users": 4,
   "nsfw": "white",
   "created_at": null,
   "updated_at": null,
   "source": "manga",
-  "rating": "r",
   "background": null,
   "related_anime": [
     {
@@ -176,8 +155,5 @@
       "plan_to_watch": "114619"
     },
     "num_list_users": 114637
-  },
-  "mal_details_updated_at": "2026-11-15T01:58:51.431Z",
-  "synopsis_es": "Segunda película anime de la trilogía adaptación del Infinity Castle Arc.",
-  "translations_updated_at": "2026-11-15T13:11:39.959Z"
+  }
 }

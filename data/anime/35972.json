@@ -13,6 +13,7 @@
     "ja": "FAIRY TAIL ファイナルシリーズ"
   },
   "synopsis": "Although Fairy Tail has disbanded and its members are now spread far across Fiore, Natsu Dragneel has not given up on reuniting the guild he and others once called home. Along with his companions Happy and Lucy Heartfilia, he will stop at nothing to keep Fairy Tail and its fiery spirit alive even as they face their most difficult trial yet—the invasion of Fiore by the Alvarez Empire's immense army and their all-too-familiar ruler.\n\n[Written by MAL Rewrite]",
+  "synopsis_es": "Aunque Fairy Tail se ha disuelto y sus miembros ahora están repartidos por todo Fiore, Natsu Dragneel no ha renunciado a reunir el gremio que él y otros alguna vez llamaron hogar. Junto con sus compañeros Happy y Lucy Heartfilia, no se detendrá ante nada para mantener vivo a Fairy Tail y su espíritu ardiente incluso cuando enfrentan su prueba más difícil hasta el momento: la invasión de Fiore por el inmenso ejército del Imperio Álvarez y su gobernante tan familiar.\n\n[Escrito por MAL Rewrite]",
   "type": "TV",
   "media_type": "tv",
   "status": "finished_airing",
@@ -66,26 +67,15 @@
       "name": "CloverWorks"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1027/93410l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1927/93556l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1536/93863l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1403/100602l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1501/102922l.jpg"
-  ],
+  "pictures": [],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
   "tmdb_updated_at": null,
-  "simkl_id": null,
-  "episodes_data": [],
-  "specials_data": [],
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1536/93863.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1536/93863l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1536/93863.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1536/93863l.webp"
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1536/93863l.webp"
     }
   },
   "main_picture": {
@@ -94,16 +84,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1027/93410l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1027/93410l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1027/93410l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1027/93410l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1027/93410l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1027/93410l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1027/93410l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1027/93410l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1027/93410l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1027/93410l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1536/93863l.webp"
     }
   },
   "broadcast": {
@@ -116,12 +97,16 @@
   },
   "rank": 1689,
   "popularity": 453,
+  "rating": "pg_13",
+  "simkl_id": null,
+  "episodes_data": [],
+  "specials_data": [],
+  "characters": [],
   "num_scoring_users": 281258,
   "nsfw": "white",
   "created_at": "2017-07-20T17:19:05+00:00",
   "updated_at": "2025-04-10T22:03:49+00:00",
   "source": "manga",
-  "rating": "pg_13",
   "background": null,
   "related_anime": [
     {
@@ -183,7 +168,5 @@
       "plan_to_watch": "114854"
     },
     "num_list_users": 569503
-  },
-  "synopsis_es": "Aunque Fairy Tail se ha disuelto y sus miembros ahora están repartidos por todo Fiore, Natsu Dragneel no ha renunciado a reunir el gremio que él y otros alguna vez llamaron hogar. Junto con sus compañeros Happy y Lucy Heartfilia, no se detendrá ante nada para mantener vivo a Fairy Tail y su espíritu ardiente incluso cuando enfrentan su prueba más difícil hasta el momento: la invasión de Fiore por el inmenso ejército del Imperio Álvarez y su gobernante tan familiar.\n\n[Escrito por MAL Rewrite]",
-  "translations_updated_at": "2026-11-15T02:26:43.295Z"
+  }
 }

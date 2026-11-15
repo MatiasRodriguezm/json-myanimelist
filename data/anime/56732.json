@@ -13,6 +13,7 @@
     "ja": "世界最高の暗殺者、異世界貴族に転生する Season2"
   },
   "synopsis": "Season two of Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru",
+  "synopsis_es": "Segunda temporada de Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru",
   "type": "TV",
   "media_type": "tv",
   "status": "not_yet_aired",
@@ -75,56 +76,43 @@
   "logo_url": null,
   "tmdb_id": null,
   "tmdb_updated_at": "2026-11-15T13:05:10.121Z",
-  "simkl_id": 2263620,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "episodeNumber": 1,
-      "title": "Episode 1",
-      "aired": "2027-01-01T00:00:00+09:00",
-      "airedDate": "2027-01-01T00:00:00+09:00",
-      "thumbnail": null,
-      "imageUrl": null,
-      "description": null,
-      "title_es": "Episodio 1"
-    }
-  ],
-  "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1582/159858.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1582/159858l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1582/159858.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1582/159858l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1582/159858.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1582/159858l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1582/159858.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1582/159858l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1582/159858.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1582/159858l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1582/159858l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1582/159858l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1582/159858l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1582/159858l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1582/159858l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1582/159858l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1582/159858l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1582/159858l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1582/159858l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1582/159858l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1582/159858l.webp"
     }
   },
   "broadcast": null,
   "rank": null,
   "popularity": 2498,
+  "rating": "pg_13",
+  "simkl_id": 2263620,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "title": "Episode 1",
+      "title_es": "Episodio 1",
+      "aired": "2027-01-01T00:00:00+09:00",
+      "thumbnail": null,
+      "description": null
+    }
+  ],
+  "specials_data": [],
+  "characters": [],
   "num_scoring_users": 162,
   "nsfw": "white",
   "created_at": null,
   "updated_at": null,
   "source": "light_novel",
-  "rating": "pg_13",
   "background": null,
   "related_anime": [
     {
@@ -151,8 +139,5 @@
       "plan_to_watch": "97939"
     },
     "num_list_users": 98720
-  },
-  "mal_details_updated_at": "2026-11-15T01:31:02.925Z",
-  "synopsis_es": "Segunda temporada de Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru",
-  "translations_updated_at": "2026-11-15T13:10:36.668Z"
+  }
 }

@@ -12,6 +12,7 @@
     "ja": "魔入りました!入間くん if Episode of 魔フィア"
   },
   "synopsis": "In this brand-new spinoff of the runaway hit series, Iruma is a dirt-poor but unfailingly cheerful young boy who grows up in a ruthless city slum. One day, Iruma gives an injured old man his last loaf of bread and nurses the stranger back to health—only to find out that the elder gent is none other than Don Sullivan, head of the Babyl Mafia! Soon after, Don Sullivan comes back, whisks Iruma away, and begs the boy to become his grandson. And just like that, Iruma begins his new life as the next in line to lead a gigantic gang of—dare we say—demonic mafiosos!\n\n(Source: Kodansha USA)",
+  "synopsis_es": "En este nuevo spin-off de la exitosa serie, Iruma es un joven muy pobre pero siempre alegre que crece en un despiadado barrio pobre de la ciudad. Un día, Iruma le da a un anciano herido su última barra de pan y cuida al extraño hasta que recupera la salud, ¡sólo para descubrir que el caballero mayor no es otro que Don Sullivan, jefe de la mafia Babyl! Poco después, Don Sullivan regresa, se lleva a Iruma y le ruega que se convierta en su nieto. Y así, Iruma comienza su nueva vida como el siguiente en la fila para liderar una gigantesca pandilla de, nos atrevemos a decir, ¡mafiosos demoníacos!\n\n(Fuente: Kodansha EE.UU.)",
   "type": "TV",
   "media_type": "tv",
   "status": "not_yet_aired",
@@ -55,30 +56,13 @@
   ],
   "pictures": [],
   "backdrop_url": null,
-  "logo_url": "https://image.tmdb.org/t/p/w500/9kSIn4sc5iANLcdgXM5aLHDVu85.png",
+  "logo_url": "https://image.tmdb.org/t/p/w300/9kSIn4sc5iANLcdgXM5aLHDVu85.png",
   "tmdb_id": "313215",
   "tmdb_updated_at": "2026-11-15T13:05:14.874Z",
-  "simkl_id": 3012818,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "episodeNumber": 1,
-      "title": "Episode 1",
-      "aired": "2027-01-04T23:00:00+09:00",
-      "airedDate": "2027-01-04T23:00:00+09:00",
-      "thumbnail": null,
-      "imageUrl": null,
-      "description": null,
-      "title_es": "Episodio 1"
-    }
-  ],
-  "specials_data": [],
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1084/160725.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1084/160725l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1084/160725.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1084/160725l.webp"
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1084/160725l.webp"
     }
   },
   "main_picture": {
@@ -87,16 +71,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1084/160725l.webp",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1084/160725l.webp",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1084/160725l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1084/160725l.webp",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1084/160725l.webp",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1084/160725l.webp",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1084/160725l.webp",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1084/160725l.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1084/160725l.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1084/160725l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1084/160725l.webp"
     }
   },
   "broadcast": {
@@ -109,12 +84,25 @@
   },
   "rank": null,
   "popularity": 5717,
+  "rating": null,
+  "simkl_id": 3012818,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "title": "Episode 1",
+      "title_es": "Episodio 1",
+      "aired": "2027-01-04T23:00:00+09:00",
+      "thumbnail": null,
+      "description": null
+    }
+  ],
+  "specials_data": [],
+  "characters": [],
   "num_scoring_users": 1,
   "nsfw": "white",
   "created_at": null,
   "updated_at": null,
   "source": "manga",
-  "rating": null,
   "background": null,
   "related_anime": [
     {
@@ -141,8 +129,5 @@
       "plan_to_watch": "19682"
     },
     "num_list_users": 19690
-  },
-  "mal_details_updated_at": "2026-11-15T01:58:07.827Z",
-  "synopsis_es": "En este nuevo spin-off de la exitosa serie, Iruma es un joven muy pobre pero siempre alegre que crece en un despiadado barrio pobre de la ciudad. Un día, Iruma le da a un anciano herido su última barra de pan y cuida al extraño hasta que recupera la salud, ¡sólo para descubrir que el caballero mayor no es otro que Don Sullivan, jefe de la mafia Babyl! Poco después, Don Sullivan regresa, se lleva a Iruma y le ruega que se convierta en su nieto. Y así, Iruma comienza su nueva vida como el siguiente en la fila para liderar una gigantesca pandilla de, nos atrevemos a decir, ¡mafiosos demoníacos!\n\n(Fuente: Kodansha EE.UU.)",
-  "translations_updated_at": "2026-11-15T13:12:26.883Z"
+  }
 }

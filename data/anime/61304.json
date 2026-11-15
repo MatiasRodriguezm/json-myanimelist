@@ -14,6 +14,7 @@
     "ja": "黒岩メダカに私の可愛いが通じない Season2"
   },
   "synopsis": "Second season of Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai.",
+  "synopsis_es": "Segunda temporada de Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai.",
   "type": "TV",
   "media_type": "tv",
   "status": "not_yet_aired",
@@ -68,56 +69,43 @@
   "logo_url": null,
   "tmdb_id": null,
   "tmdb_updated_at": "2026-11-15T13:05:14.111Z",
-  "simkl_id": 2747898,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "episodeNumber": 1,
-      "title": "Episode 1",
-      "aired": "2027-01-01T00:00:00+09:00",
-      "airedDate": "2027-01-01T00:00:00+09:00",
-      "thumbnail": null,
-      "imageUrl": null,
-      "description": null,
-      "title_es": "Episodio 1"
-    }
-  ],
-  "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1953/158845.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1953/158845l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1953/158845.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1953/158845l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1953/158845.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1953/158845l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1953/158845.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1953/158845l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1953/158845.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1953/158845l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1953/158845l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1953/158845l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1953/158845l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1953/158845l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1953/158845l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1953/158845l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1953/158845l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1953/158845l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1953/158845l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1953/158845l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1953/158845l.webp"
     }
   },
   "broadcast": null,
   "rank": null,
   "popularity": 5356,
+  "rating": "pg_13",
+  "simkl_id": 2747898,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "title": "Episode 1",
+      "title_es": "Episodio 1",
+      "aired": "2027-01-01T00:00:00+09:00",
+      "thumbnail": null,
+      "description": null
+    }
+  ],
+  "specials_data": [],
+  "characters": [],
   "num_scoring_users": null,
   "nsfw": "white",
   "created_at": null,
   "updated_at": null,
   "source": "manga",
-  "rating": "pg_13",
   "background": null,
   "related_anime": [
     {
@@ -144,8 +132,5 @@
       "plan_to_watch": "23195"
     },
     "num_list_users": 23198
-  },
-  "mal_details_updated_at": "2026-11-15T01:58:06.059Z",
-  "synopsis_es": "Segunda temporada de Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai.",
-  "translations_updated_at": "2026-11-15T13:11:14.491Z"
+  }
 }

@@ -13,6 +13,7 @@
     "ja": "劇場総集編 ぼっち・ざ・ろっく！"
   },
   "synopsis": "Theatrical compilation of Bocchi the Rock!",
+  "synopsis_es": "¡Recopilación teatral de Bocchi the Rock!",
   "type": "Movie",
   "media_type": "movie",
   "status": "finished_airing",
@@ -58,57 +59,39 @@
       "name": "CloverWorks"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1009/135981l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1790/139095l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1108/139749l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1499/140386l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1256/142261l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1138/143441l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1209/150520l.jpg"
-  ],
+  "pictures": [],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
   "tmdb_updated_at": null,
-  "simkl_id": null,
-  "episodes_data": [],
-  "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1256/142261.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1256/142261l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1256/142261.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1256/142261l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1256/142261.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1256/142261l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1256/142261.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1256/142261l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1256/142261.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1256/142261l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1009/135981l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1009/135981l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1009/135981l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1009/135981l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1009/135981l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1009/135981l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1009/135981l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1009/135981l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1009/135981l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1009/135981l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1256/142261l.webp"
     }
   },
   "broadcast": null,
   "rank": 303,
   "popularity": 2933,
+  "rating": "pg_13",
+  "simkl_id": null,
+  "episodes_data": [],
+  "specials_data": [],
+  "characters": [],
   "num_scoring_users": 9981,
   "nsfw": "white",
   "created_at": "2023-05-21T10:48:54+00:00",
   "updated_at": "2026-11-10T02:23:15+00:00",
   "source": "4_koma_manga",
-  "rating": "pg_13",
   "background": null,
   "related_anime": [
     {
@@ -147,7 +130,5 @@
       "plan_to_watch": "57896"
     },
     "num_list_users": 75766
-  },
-  "synopsis_es": "¡Recopilación teatral de Bocchi the Rock!",
-  "translations_updated_at": "2026-11-15T02:30:29.204Z"
+  }
 }

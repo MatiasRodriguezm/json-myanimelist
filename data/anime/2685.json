@@ -13,6 +13,7 @@
     "ja": "ツバサ TOKYO REVELATIONS"
   },
   "synopsis": "Continuing their journey from Record Country (the place that held the book of memories), Syaoran and company land into Tokyo Country, a blood-filled country under war from opposing factions for natural resources and survival. While reluctantly involved in the race to live, the group faces their own problems as certain revelations are made, changing their journey forever.\n\nA shocking betrayal and a battle that risks all of their lives. After this revelation, they will never be the same again.",
+  "synopsis_es": "Continuando su viaje desde Record Country (el lugar que contenía el libro de los recuerdos), Syaoran y compañía aterrizan en Tokyo Country, un país lleno de sangre y bajo guerra de facciones opuestas por los recursos naturales y la supervivencia. Aunque participan a regañadientes en la carrera por vivir, el grupo se enfrenta a sus propios problemas a medida que se hacen ciertas revelaciones que cambiarán su viaje para siempre.\n\nUna traición impactante y una batalla que pone en riesgo todas sus vidas. Después de esta revelación, nunca volverán a ser los mismos.",
   "type": "OVA",
   "media_type": "ova",
   "status": "finished_airing",
@@ -68,81 +69,62 @@
   ],
   "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/6yEPWAfQQmkZTht21z9OYZP9f8E.jpg",
-  "logo_url": "https://image.tmdb.org/t/p/w500/hJJrDltSIDfZhQDF2GFKacGXPY.png",
+  "logo_url": "https://image.tmdb.org/t/p/w300/hJJrDltSIDfZhQDF2GFKacGXPY.png",
   "tmdb_id": "37565",
   "tmdb_updated_at": "2026-11-06T22:02:20.246Z",
-  "simkl_id": 38390,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "episodeNumber": 1,
-      "title": "The Magician's Message",
-      "aired": "2007-11-16T00:00:00+09:00",
-      "airedDate": "2007-11-16T00:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/25/2560224f4cd973f2b_w.webp",
-      "imageUrl": "https://simkl.in/episodes/25/2560224f4cd973f2b_w.webp",
-      "description": null,
-      "title_es": "El mensaje del mago"
-    },
-    {
-      "episode": 2,
-      "episodeNumber": 2,
-      "title": "The Young Man's Right Eye",
-      "aired": "2008-01-17T00:00:00+09:00",
-      "airedDate": "2008-01-17T00:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/25/2560226dae34ab6b2_w.webp",
-      "imageUrl": "https://simkl.in/episodes/25/2560226dae34ab6b2_w.webp",
-      "description": null,
-      "title_es": "El ojo derecho del joven"
-    },
-    {
-      "episode": 3,
-      "episodeNumber": 3,
-      "title": "The Princess's Dream",
-      "aired": "2008-03-17T00:00:00+09:00",
-      "airedDate": "2008-03-17T00:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/25/25602287c7167bdcf_w.webp",
-      "imageUrl": "https://simkl.in/episodes/25/25602287c7167bdcf_w.webp",
-      "description": null,
-      "title_es": "El sueño de la princesa"
-    }
-  ],
-  "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/4/49129.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/49129l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/4/49129.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/4/49129l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/49129.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/49129l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/4/49129.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/4/49129l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/4/49129.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/4/49129l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/4/49129l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/4/49129l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/4/49129l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/4/49129l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/4/49129l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/4/49129l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/4/49129l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/4/49129l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/4/49129l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/4/49129l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/4/49129l.webp"
     }
   },
   "broadcast": null,
   "rank": 384,
   "popularity": 2429,
+  "rating": "r",
+  "simkl_id": 38390,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "title": "The Magician's Message",
+      "title_es": "El mensaje del mago",
+      "aired": "2007-11-16T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/25/2560224f4cd973f2b_w.webp",
+      "description": null
+    },
+    {
+      "episode": 2,
+      "title": "The Young Man's Right Eye",
+      "title_es": "El ojo derecho del joven",
+      "aired": "2008-01-17T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/25/2560226dae34ab6b2_w.webp",
+      "description": null
+    },
+    {
+      "episode": 3,
+      "title": "The Princess's Dream",
+      "title_es": "El sueño de la princesa",
+      "aired": "2008-03-17T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/25/25602287c7167bdcf_w.webp",
+      "description": null
+    }
+  ],
+  "specials_data": [],
+  "characters": [],
   "num_scoring_users": 46933,
   "nsfw": "white",
   "created_at": null,
   "updated_at": null,
   "source": "manga",
-  "rating": "r",
   "background": "Bundled with the limited editions of the 21st, 22nd, and 23rd volumes of the Tsubasa Chronicle manga.",
   "related_anime": [
     {
@@ -292,8 +274,5 @@
       "plan_to_watch": "30078"
     },
     "num_list_users": 102559
-  },
-  "mal_details_updated_at": "2026-11-10T01:27:49.937Z",
-  "synopsis_es": "Continuando su viaje desde Record Country (el lugar que contenía el libro de los recuerdos), Syaoran y compañía aterrizan en Tokyo Country, un país lleno de sangre y bajo guerra de facciones opuestas por los recursos naturales y la supervivencia. Aunque participan a regañadientes en la carrera por vivir, el grupo se enfrenta a sus propios problemas a medida que se hacen ciertas revelaciones que cambiarán su viaje para siempre.\n\nUna traición impactante y una batalla que pone en riesgo todas sus vidas. Después de esta revelación, nunca volverán a ser los mismos.",
-  "translations_updated_at": "2026-11-15T13:08:47.222Z"
+  }
 }

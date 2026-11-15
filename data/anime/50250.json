@@ -10,6 +10,7 @@
     "ja": "ちいかわ"
   },
   "synopsis": "What's a Chiikawa? No one really knows, but everyone can see they're small, they're cute, and they're always having a fun time! Join them as they explore their surreal world with the sharp humor and clever antics that make the Chiikawa irresistible.\n\n(Source: HIDIVE, edited)",
+  "synopsis_es": "¿Qué es un Chiikawa? Nadie lo sabe realmente, pero todos pueden ver que son pequeños, lindos y ¡siempre se divierten! Únase a ellos mientras exploran su mundo surrealista con el humor agudo y las travesuras inteligentes que hacen que Chiikawa sea irresistible.\n\n(Fuente: HIDIVE, editado)",
   "type": "TV",
   "media_type": "tv",
   "status": "currently_airing",
@@ -43,42 +44,24 @@
       "name": "Doga Kobo"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1537/119033l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1783/121944l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1709/150953l.jpg"
-  ],
+  "pictures": [],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
   "tmdb_updated_at": null,
-  "simkl_id": null,
-  "episodes_data": [],
-  "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1783/121944.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1783/121944l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1783/121944.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1783/121944l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1783/121944.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1783/121944l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1783/121944.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1783/121944l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1783/121944.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1783/121944l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1537/119033l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1537/119033l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1537/119033l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1537/119033l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1537/119033l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1537/119033l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1537/119033l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1537/119033l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1537/119033l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1537/119033l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1783/121944l.webp"
     }
   },
   "broadcast": {
@@ -91,12 +74,16 @@
   },
   "rank": 94,
   "popularity": 4897,
+  "rating": "g",
+  "simkl_id": null,
+  "episodes_data": [],
+  "specials_data": [],
+  "characters": [],
   "num_scoring_users": 8882,
   "nsfw": "gray",
   "created_at": "2021-10-28T11:37:30+00:00",
   "updated_at": "2025-11-24T15:44:58+00:00",
   "source": "web_manga",
-  "rating": "g",
   "background": null,
   "related_anime": [
     {
@@ -171,7 +158,5 @@
       "plan_to_watch": "9055"
     },
     "num_list_users": 28565
-  },
-  "synopsis_es": "¿Qué es un Chiikawa? Nadie lo sabe realmente, pero todos pueden ver que son pequeños, lindos y ¡siempre se divierten! Únase a ellos mientras exploran su mundo surrealista con el humor agudo y las travesuras inteligentes que hacen que Chiikawa sea irresistible.\n\n(Fuente: HIDIVE, editado)",
-  "translations_updated_at": "2026-11-15T02:28:16.788Z"
+  }
 }

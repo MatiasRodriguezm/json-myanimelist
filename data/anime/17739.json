@@ -10,6 +10,7 @@
     "ja": "ひだまりスケッチ 沙英ヒロ 卒業編"
   },
   "synopsis": "The day has come for Sae and Hiro to graduate, who are now in their last days as High School students. The first episode centers on the final exams and the university entrance tests, while the second episode centers on the graduation of Sae and Hiro.",
+  "synopsis_es": "Ha llegado el día de que Sae y Hiro se gradúen, quienes ahora se encuentran en sus últimos días como estudiantes de secundaria. El primer episodio se centra en los exámenes finales y las pruebas de acceso a la universidad, mientras que el segundo episodio se centra en la graduación de Sae y Hiro.",
   "type": "OVA",
   "media_type": "ova",
   "status": "finished_airing",
@@ -61,70 +62,54 @@
   ],
   "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/POCKoyMDc7YH50vlTyjicqJgqW.jpg",
-  "logo_url": "https://image.tmdb.org/t/p/w500/kqgRbdzbIY00BZsEIPYvuCPhEyE.png",
+  "logo_url": "https://image.tmdb.org/t/p/w300/kqgRbdzbIY00BZsEIPYvuCPhEyE.png",
   "tmdb_id": "45893",
   "tmdb_updated_at": "2026-11-06T22:02:24.330Z",
-  "simkl_id": 45394,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "episodeNumber": 1,
-      "title": "February 1st - 20th, Exam Sketch",
-      "aired": "2013-11-27T00:00:00+09:00",
-      "airedDate": "2013-11-27T00:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/17/17576299160e849961_w.webp",
-      "imageUrl": "https://simkl.in/episodes/17/17576299160e849961_w.webp",
-      "description": null,
-      "title_es": "Del 1 al 20 de febrero, bosquejo del examen"
-    },
-    {
-      "episode": 2,
-      "episodeNumber": 2,
-      "title": "February 28 - March 1, Graduation Sketch",
-      "aired": "2013-11-27T00:00:00+09:00",
-      "airedDate": "2013-11-27T00:00:00+09:00",
-      "thumbnail": null,
-      "imageUrl": null,
-      "description": null,
-      "title_es": "28 de febrero - 1 de marzo, Bosquejo de graduación"
-    }
-  ],
-  "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1913/146300.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1913/146300l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1913/146300.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1913/146300l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1913/146300.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1913/146300l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1913/146300.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1913/146300l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1913/146300.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1913/146300l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1913/146300l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1913/146300l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1913/146300l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1913/146300l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1913/146300l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1913/146300l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1913/146300l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1913/146300l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1913/146300l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1913/146300l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1913/146300l.webp"
     }
   },
   "broadcast": null,
   "rank": 561,
   "popularity": 6019,
+  "rating": "pg_13",
+  "simkl_id": 45394,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "title": "February 1st - 20th, Exam Sketch",
+      "title_es": "Del 1 al 20 de febrero, bosquejo del examen",
+      "aired": "2013-11-27T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/17576299160e849961_w.webp",
+      "description": null
+    },
+    {
+      "episode": 2,
+      "title": "February 28 - March 1, Graduation Sketch",
+      "title_es": "28 de febrero - 1 de marzo, Bosquejo de graduación",
+      "aired": "2013-11-27T00:00:00+09:00",
+      "thumbnail": null,
+      "description": null
+    }
+  ],
+  "specials_data": [],
+  "characters": [],
   "num_scoring_users": 7351,
   "nsfw": "white",
   "created_at": null,
   "updated_at": null,
   "source": "4_koma_manga",
-  "rating": "pg_13",
   "background": null,
   "related_anime": [
     {
@@ -174,8 +159,5 @@
       "plan_to_watch": "5107"
     },
     "num_list_users": 17193
-  },
-  "mal_details_updated_at": "2026-11-10T01:27:19.140Z",
-  "synopsis_es": "Ha llegado el día de que Sae y Hiro se gradúen, quienes ahora se encuentran en sus últimos días como estudiantes de secundaria. El primer episodio se centra en los exámenes finales y las pruebas de acceso a la universidad, mientras que el segundo episodio se centra en la graduación de Sae y Hiro.",
-  "translations_updated_at": "2026-11-15T13:09:16.511Z"
+  }
 }

@@ -12,6 +12,7 @@
     "ja": "アイカツスターズ！ ～星々のProgress～"
   },
   "synopsis": "A special film celebrating the 10th anniversary of Aikatsu Stars! anime series.",
+  "synopsis_es": "¡Una película especial que celebra el décimo aniversario de Aikatsu Stars! serie de anime.",
   "type": "Movie",
   "media_type": "movie",
   "status": "not_yet_aired",
@@ -54,44 +55,34 @@
   "logo_url": null,
   "tmdb_id": null,
   "tmdb_updated_at": "2026-11-15T13:05:33.746Z",
-  "simkl_id": null,
-  "episodes_data": [],
-  "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1278/160594.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1278/160594l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1278/160594.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1278/160594l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1278/160594.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1278/160594l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1278/160594.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1278/160594l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1278/160594.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1278/160594l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1278/160594l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1278/160594l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1278/160594l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1278/160594l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1278/160594l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1278/160594l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1278/160594l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1278/160594l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1278/160594l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1278/160594l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1278/160594l.webp"
     }
   },
   "broadcast": null,
   "rank": null,
   "popularity": 18568,
+  "rating": "pg",
+  "simkl_id": null,
+  "episodes_data": [],
+  "specials_data": [],
+  "characters": [],
   "num_scoring_users": null,
   "nsfw": "white",
   "created_at": null,
   "updated_at": null,
   "source": "original",
-  "rating": "pg",
   "background": null,
   "related_anime": [
     {
@@ -118,8 +109,5 @@
       "plan_to_watch": "549"
     },
     "num_list_users": 549
-  },
-  "mal_details_updated_at": "2026-11-15T01:58:41.793Z",
-  "synopsis_es": "¡Una película especial que celebra el décimo aniversario de Aikatsu Stars! serie de anime.",
-  "translations_updated_at": "2026-11-15T13:13:12.816Z"
+  }
 }

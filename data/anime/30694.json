@@ -14,6 +14,7 @@
     "ja": "ドラゴンボール超（スーパー）"
   },
   "synopsis": "Seven years after the defeat of Majin Buu, Earth is at peace, and its people live free from any dangers lurking in the universe. However, this peace is short-lived; a sleeping threat awakens in the dark reaches of the galaxy: Beerus, the ruthless God of Destruction.\n\nDisturbed by a prophecy that he will be defeated by a \"Super Saiyan God,\" Beerus and his angelic attendant Whis search the universe for this mysterious being. Before long, they reach Earth and encounter Gokuu Son, one of the planet's mightiest warriors, and his powerful friends.\n\n[Written by MAL Rewrite]",
+  "synopsis_es": "Siete años después de la derrota de Majin Buu, la Tierra está en paz y su gente vive libre de cualquier peligro que aceche en el universo. Sin embargo, esta paz dura poco; Una amenaza dormida despierta en los confines oscuros de la galaxia: Beerus, el despiadado Dios de la Destrucción.\n\nPerturbados por una profecía de que será derrotado por un \"Dios Súper Saiyajin\", Beerus y su asistente angelical Whis buscan en el universo a este misterioso ser. Al poco tiempo, llegan a la Tierra y se encuentran con Gokuu Son, uno de los guerreros más poderosos del planeta, y sus poderosos amigos.\n\n[Escrito por MAL Rewrite]",
   "type": "TV",
   "media_type": "tv",
   "status": "finished_airing",
@@ -67,30 +68,15 @@
       "name": "Toei Animation"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/7/74606l.jpg",
-    "https://cdn.myanimelist.net/images/anime/5/76442l.jpg",
-    "https://cdn.myanimelist.net/images/anime/2/77051l.jpg",
-    "https://cdn.myanimelist.net/images/anime/9/77652l.jpg",
-    "https://cdn.myanimelist.net/images/anime/6/80225l.jpg",
-    "https://cdn.myanimelist.net/images/anime/11/83348l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1092/91290l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1035/98353l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1903/110225l.jpg"
-  ],
+  "pictures": [],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
   "tmdb_updated_at": null,
-  "simkl_id": null,
-  "episodes_data": [],
-  "specials_data": [],
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/7/74606.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/74606l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/7/74606.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/7/74606l.webp"
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/74606l.webp"
     }
   },
   "main_picture": {
@@ -99,16 +85,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/7/74606l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/7/74606l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/7/74606l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/7/74606l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/7/74606l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/7/74606l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/7/74606l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/7/74606l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/7/74606l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/7/74606l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/7/74606l.webp"
     }
   },
   "broadcast": {
@@ -121,12 +98,16 @@
   },
   "rank": 2304,
   "popularity": 226,
+  "rating": "pg_13",
+  "simkl_id": null,
+  "episodes_data": [],
+  "specials_data": [],
+  "characters": [],
   "num_scoring_users": 600960,
   "nsfw": "white",
   "created_at": "2015-04-28T23:15:24+00:00",
   "updated_at": "2024-11-11T22:04:35+00:00",
   "source": "manga",
-  "rating": "pg_13",
   "background": "Dragon Ball Super's first 27 episodes are adaptations of the films Dragon Ball Z Movie 14: Kami to Kami (episodes 1-14) and Dragon Ball Z Movie 15: Fukkatsu no F (episodes 15-27).",
   "related_anime": [
     {
@@ -372,7 +353,5 @@
       "plan_to_watch": "63127"
     },
     "num_list_users": 934022
-  },
-  "synopsis_es": "Siete años después de la derrota de Majin Buu, la Tierra está en paz y su gente vive libre de cualquier peligro que aceche en el universo. Sin embargo, esta paz dura poco; Una amenaza dormida despierta en los confines oscuros de la galaxia: Beerus, el despiadado Dios de la Destrucción.\n\nPerturbados por una profecía de que será derrotado por un \"Dios Súper Saiyajin\", Beerus y su asistente angelical Whis buscan en el universo a este misterioso ser. Al poco tiempo, llegan a la Tierra y se encuentran con Gokuu Son, uno de los guerreros más poderosos del planeta, y sus poderosos amigos.\n\n[Escrito por MAL Rewrite]",
-  "translations_updated_at": "2026-11-15T02:22:15.257Z"
+  }
 }

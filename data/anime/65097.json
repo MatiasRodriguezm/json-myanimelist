@@ -10,6 +10,7 @@
     "ja": "AIYOU"
   },
   "synopsis": "Music video for the song AIYOU by Eve. The song was used as the ending theme of the anime Kusuriya no Hitorigoto 3rd Season.",
+  "synopsis_es": "Vídeo musical de la canción AIYOU de Eve. La canción se utilizó como tema final de la tercera temporada del anime Kusuriya no Hitorigoto.",
   "type": "Music",
   "media_type": "music",
   "status": "finished_airing",
@@ -43,44 +44,34 @@
   "logo_url": null,
   "tmdb_id": null,
   "tmdb_updated_at": "2026-11-15T13:04:16.012Z",
-  "simkl_id": null,
-  "episodes_data": [],
-  "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1900/160353.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1900/160353l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1900/160353.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1900/160353l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1900/160353.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1900/160353l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1900/160353.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1900/160353l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1900/160353.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1900/160353l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1900/160353l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1900/160353l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1900/160353l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1900/160353l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1900/160353l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1900/160353l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1900/160353l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1900/160353l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1900/160353l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1900/160353l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1900/160353l.webp"
     }
   },
   "broadcast": null,
   "rank": null,
   "popularity": 22741,
+  "rating": "pg_13",
+  "simkl_id": null,
+  "episodes_data": [],
+  "specials_data": [],
+  "characters": [],
   "num_scoring_users": 151,
   "nsfw": "white",
   "created_at": null,
   "updated_at": null,
   "source": "original",
-  "rating": "pg_13",
   "background": null,
   "related_anime": [
     {
@@ -107,8 +98,5 @@
       "plan_to_watch": "25"
     },
     "num_list_users": 265
-  },
-  "mal_details_updated_at": "2026-11-10T01:36:43.895Z",
-  "synopsis_es": "Vídeo musical de la canción AIYOU de Eve. La canción se utilizó como tema final de la tercera temporada del anime Kusuriya no Hitorigoto.",
-  "translations_updated_at": "2026-11-15T13:13:29.777Z"
+  }
 }

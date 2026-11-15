@@ -214,12 +214,9 @@ export class SimklClient {
 
         const episodePayload = {
           episode: epNum,
-          episodeNumber: epNum,
           title: cleanTitle,
           aired: dateStr,
-          airedDate: dateStr,
           thumbnail: thumbUrl,
-          imageUrl: thumbUrl,
           description: cleanDesc,
         };
 

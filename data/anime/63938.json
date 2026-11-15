@@ -10,6 +10,7 @@
     "ja": "カードファイト!! ヴァンガード DivineZ 運命星戦編"
   },
   "synopsis": "Final Arc of Cardfight!! Vanguard: D Series.",
+  "synopsis_es": "¡¡Arco final de Cardfight!! Vanguardia: Serie D.",
   "type": "TV",
   "media_type": "tv",
   "status": "currently_airing",
@@ -60,45 +61,19 @@
   "logo_url": null,
   "tmdb_id": null,
   "tmdb_updated_at": "2026-11-15T13:04:33.668Z",
-  "simkl_id": 3078868,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "episodeNumber": 1,
-      "title": "Complete Movie",
-      "aired": "2026-10-02T08:00:00+09:00",
-      "airedDate": "2026-10-02T08:00:00+09:00",
-      "thumbnail": null,
-      "imageUrl": null,
-      "description": null,
-      "title_es": "Película completa"
-    }
-  ],
-  "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1380/159150.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1380/159150l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1380/159150.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1380/159150l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1380/159150.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1380/159150l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1380/159150.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1380/159150l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1380/159150.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1380/159150l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1380/159150l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1380/159150l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1380/159150l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1380/159150l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1380/159150l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1380/159150l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1380/159150l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1380/159150l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1380/159150l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1380/159150l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1380/159150l.webp"
     }
   },
   "broadcast": {
@@ -111,12 +86,25 @@
   },
   "rank": 16099,
   "popularity": 15040,
+  "rating": "pg_13",
+  "simkl_id": 3078868,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "title": "Complete Movie",
+      "title_es": "Película completa",
+      "aired": "2026-10-02T08:00:00+09:00",
+      "thumbnail": null,
+      "description": null
+    }
+  ],
+  "specials_data": [],
+  "characters": [],
   "num_scoring_users": 62,
   "nsfw": "white",
   "created_at": null,
   "updated_at": null,
   "source": "original",
-  "rating": "pg_13",
   "background": null,
   "related_anime": [
     {
@@ -143,8 +131,5 @@
       "plan_to_watch": "812"
     },
     "num_list_users": 1168
-  },
-  "mal_details_updated_at": "2026-11-15T01:56:55.236Z",
-  "synopsis_es": "¡¡Arco final de Cardfight!! Vanguardia: Serie D.",
-  "translations_updated_at": "2026-11-15T13:12:48.760Z"
+  }
 }

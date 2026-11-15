@@ -16,6 +16,7 @@
     "ja": "斗破苍穹年番"
   },
   "synopsis": "Fifth season of Doupo Cangqiong.",
+  "synopsis_es": "Quinta temporada de Doupo Cangqiong.",
   "type": "ONA",
   "media_type": "ona",
   "status": "finished_airing",
@@ -65,57 +66,39 @@
       "name": "Motion Magic"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1276/120971l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1521/124785l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1419/126374l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1180/126815l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1098/145743l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1751/150191l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1457/152289l.jpg"
-  ],
+  "pictures": [],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
   "tmdb_updated_at": null,
-  "simkl_id": null,
-  "episodes_data": [],
-  "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1419/126374.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1419/126374l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1419/126374.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1419/126374l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1419/126374.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1419/126374l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1419/126374.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1419/126374l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1419/126374.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1419/126374l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1276/120971l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1276/120971l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1276/120971l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1276/120971l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1276/120971l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1276/120971l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1276/120971l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1276/120971l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1276/120971l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1276/120971l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1419/126374l.webp"
     }
   },
   "broadcast": null,
   "rank": 145,
   "popularity": 6688,
+  "rating": "pg_13",
+  "simkl_id": null,
+  "episodes_data": [],
+  "specials_data": [],
+  "characters": [],
   "num_scoring_users": 4509,
   "nsfw": "white",
   "created_at": "2022-02-15T17:07:53+00:00",
   "updated_at": "2026-11-11T21:28:16+00:00",
   "source": "web_novel",
-  "rating": "pg_13",
   "background": "Adaptation of Tian Can Tudou's (天蚕土豆) web novel of the same title.",
   "related_anime": [
     {
@@ -154,7 +137,5 @@
       "plan_to_watch": "3134"
     },
     "num_list_users": 13061
-  },
-  "synopsis_es": "Quinta temporada de Doupo Cangqiong.",
-  "translations_updated_at": "2026-11-15T02:28:41.217Z"
+  }
 }

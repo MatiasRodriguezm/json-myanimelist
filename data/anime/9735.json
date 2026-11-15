@@ -15,6 +15,7 @@
     "ja": "銀魂 新訳紅桜篇"
   },
   "synopsis": "It's the running gag of Ben Johnson episode where animation staff reuse the New Years footage; Yorozuya would sit around the kotatsu eating a bowl of tangerines. They discuss elaborate subjects, Shinpachi complains about reusing animation footage, and then Gin-chan always ending the gag with a pointless announcement.",
+  "synopsis_es": "Es el chiste recurrente del episodio de Ben Johnson donde el personal de animación reutiliza las imágenes de Año Nuevo; Yorozuya se sentaba alrededor del kotatsu comiendo un plato de mandarinas. Discuten temas elaborados, Shinpachi se queja de reutilizar imágenes de animación y luego Gin-chan siempre termina la broma con un anuncio sin sentido.",
   "type": "Special",
   "media_type": "special",
   "status": "finished_airing",
@@ -77,79 +78,60 @@
   "logo_url": null,
   "tmdb_id": null,
   "tmdb_updated_at": "2026-11-15T13:06:04.296Z",
-  "simkl_id": 39078,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "episodeNumber": 1,
-      "title": "Complete Movie",
-      "aired": "2010-04-24T00:00:00+09:00",
-      "airedDate": "2010-04-24T00:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/14/1455094174049d619b_w.webp",
-      "imageUrl": "https://simkl.in/episodes/14/1455094174049d619b_w.webp",
-      "description": null,
-      "title_es": "Película completa"
-    }
-  ],
-  "specials_data": [
-    {
-      "episode": 1,
-      "episodeNumber": 1,
-      "title": "Special 1",
-      "aired": "2010-12-15T00:00:00+09:00",
-      "airedDate": "2010-12-15T00:00:00+09:00",
-      "thumbnail": null,
-      "imageUrl": null,
-      "description": null,
-      "title_es": "Especial 1"
-    },
-    {
-      "episode": 2,
-      "episodeNumber": 2,
-      "title": "Prince Hata Dub version",
-      "aired": "2010-12-15T00:00:00+09:00",
-      "airedDate": "2010-12-15T00:00:00+09:00",
-      "thumbnail": null,
-      "imageUrl": null,
-      "description": null,
-      "title_es": "Versión Prince Hata Dub"
-    }
-  ],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/12/26966.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/26966l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/12/26966.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/12/26966l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/26966.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/26966l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/12/26966.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/12/26966l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/12/26966.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/12/26966l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/12/26966l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/12/26966l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/12/26966l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/12/26966l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/26966l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/12/26966l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/12/26966l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/12/26966l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/26966l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/12/26966l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/12/26966l.webp"
     }
   },
   "broadcast": null,
   "rank": 373,
   "popularity": 3796,
+  "rating": "pg_13",
+  "simkl_id": 39078,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "title": "Complete Movie",
+      "title_es": "Película completa",
+      "aired": "2010-04-24T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/14/1455094174049d619b_w.webp",
+      "description": null
+    }
+  ],
+  "specials_data": [
+    {
+      "episode": 1,
+      "title": "Special 1",
+      "title_es": "Especial 1",
+      "aired": "2010-12-15T00:00:00+09:00",
+      "thumbnail": null,
+      "description": null
+    },
+    {
+      "episode": 2,
+      "title": "Prince Hata Dub version",
+      "title_es": "Versión Prince Hata Dub",
+      "aired": "2010-12-15T00:00:00+09:00",
+      "thumbnail": null,
+      "description": null
+    }
+  ],
+  "characters": [],
   "num_scoring_users": 21337,
   "nsfw": "white",
   "created_at": null,
   "updated_at": null,
   "source": "manga",
-  "rating": "pg_13",
   "background": null,
   "related_anime": [
     {
@@ -176,8 +158,5 @@
       "plan_to_watch": "12322"
     },
     "num_list_users": 48411
-  },
-  "mal_details_updated_at": "2026-11-10T01:37:57.044Z",
-  "synopsis_es": "Es el chiste recurrente del episodio de Ben Johnson donde el personal de animación reutiliza las imágenes de Año Nuevo; Yorozuya se sentaba alrededor del kotatsu comiendo un plato de mandarinas. Discuten temas elaborados, Shinpachi se queja de reutilizar imágenes de animación y luego Gin-chan siempre termina la broma con un anuncio sin sentido.",
-  "translations_updated_at": "2026-11-15T13:08:44.540Z"
+  }
 }

@@ -13,6 +13,7 @@
     "ja": "銀魂 〜布団に入ってから拭き残しに気付いて寝るに寝れない時もある〜"
   },
   "synopsis": "Bundled with limited edition of the 58th Gintama manga volume.\n\nThe tagline for the bundled anime reads, \"It's time for all the Yorozuya members ...to wake up just one more time.\"\n\n(Source: MAL News, edited)",
+  "synopsis_es": "Incluido con la edición limitada del volumen 58 del manga Gintama.\n\nEl lema del anime incluido dice: \"Es hora de que todos los miembros de Yorozuya... despierten una vez más\".\n\n(Fuente: MAL News, editado)",
   "type": "Special",
   "media_type": "special",
   "status": "finished_airing",
@@ -76,59 +77,46 @@
   ],
   "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/3gVl0IvJMbhOnAvH9V0Q1Y1HnXE.jpg",
-  "logo_url": "https://image.tmdb.org/t/p/w500/2GFz7E2Z1UWiWqOv2YGIbIaAWrH.png",
+  "logo_url": "https://image.tmdb.org/t/p/w300/2GFz7E2Z1UWiWqOv2YGIbIaAWrH.png",
   "tmdb_id": "57041",
   "tmdb_updated_at": "2026-11-06T22:02:46.614Z",
-  "simkl_id": 433226,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "episodeNumber": 1,
-      "title": "OAD",
-      "aired": "2014-11-09T00:00:00+09:00",
-      "airedDate": "2014-11-09T00:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/17/17573795bbcaa7a84c_w.webp",
-      "imageUrl": "https://simkl.in/episodes/17/17573795bbcaa7a84c_w.webp",
-      "description": null,
-      "title_es": "ODA"
-    }
-  ],
-  "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1327/110925.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1327/110925l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1327/110925.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1327/110925l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1327/110925.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1327/110925l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1327/110925.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1327/110925l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1327/110925.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1327/110925l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1327/110925l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1327/110925l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1327/110925l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1327/110925l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1327/110925l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1327/110925l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1327/110925l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1327/110925l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1327/110925l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1327/110925l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1327/110925l.webp"
     }
   },
   "broadcast": null,
   "rank": 573,
   "popularity": 3892,
+  "rating": "pg_13",
+  "simkl_id": 433226,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "title": "OAD",
+      "title_es": "ODA",
+      "aired": "2014-11-09T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/17573795bbcaa7a84c_w.webp",
+      "description": null
+    }
+  ],
+  "specials_data": [],
+  "characters": [],
   "num_scoring_users": 20293,
   "nsfw": "white",
   "created_at": null,
   "updated_at": null,
   "source": "manga",
-  "rating": "pg_13",
   "background": "This special Gintama episode was previewed at a screening at Jump Special Anime Festa 2014. On April 3, 2015, it was later bundled with a limited edition of the manga's 58th volume.",
   "related_anime": [
     {
@@ -155,8 +143,5 @@
       "plan_to_watch": "12820"
     },
     "num_list_users": 46403
-  },
-  "mal_details_updated_at": "2026-11-10T01:27:43.314Z",
-  "synopsis_es": "Incluido con la edición limitada del volumen 58 del manga Gintama.\n\nEl lema del anime incluido dice: \"Es hora de que todos los miembros de Yorozuya... despierten una vez más\".\n\n(Fuente: MAL News, editado)",
-  "translations_updated_at": "2026-11-15T13:09:37.872Z"
+  }
 }

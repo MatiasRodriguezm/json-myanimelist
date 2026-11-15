@@ -10,6 +10,7 @@
     "ja": "ゾンビゾンビゾンビ"
   },
   "synopsis": "Music video for the song Zombie Zombie Zombie by Hoshimachi Suisei.",
+  "synopsis_es": "Vídeo musical de la canción Zombie Zombie Zombie de Hoshimachi Suisei.",
   "type": "Music",
   "media_type": "music",
   "status": "finished_airing",
@@ -43,44 +44,34 @@
   "logo_url": null,
   "tmdb_id": null,
   "tmdb_updated_at": "2026-11-15T13:04:56.934Z",
-  "simkl_id": null,
-  "episodes_data": [],
-  "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1913/160685.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1913/160685l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1913/160685.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1913/160685l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1913/160685.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1913/160685l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1913/160685.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1913/160685l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1913/160685.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1913/160685l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1913/160685l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1913/160685l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1913/160685l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1913/160685l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1913/160685l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1913/160685l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1913/160685l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1913/160685l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1913/160685l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1913/160685l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1913/160685l.webp"
     }
   },
   "broadcast": null,
   "rank": null,
   "popularity": 27964,
+  "rating": "pg_13",
+  "simkl_id": null,
+  "episodes_data": [],
+  "specials_data": [],
+  "characters": [],
   "num_scoring_users": 58,
   "nsfw": "white",
   "created_at": null,
   "updated_at": null,
   "source": "original",
-  "rating": "pg_13",
   "background": null,
   "related_anime": [
     {
@@ -107,8 +98,5 @@
       "plan_to_watch": "12"
     },
     "num_list_users": 115
-  },
-  "mal_details_updated_at": "2026-11-10T01:37:33.153Z",
-  "synopsis_es": "Vídeo musical de la canción Zombie Zombie Zombie de Hoshimachi Suisei.",
-  "translations_updated_at": "2026-11-15T13:13:46.828Z"
+  }
 }

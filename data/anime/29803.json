@@ -10,6 +10,7 @@
     "ja": "オーバーロード"
   },
   "synopsis": "The final hour of the popular virtual reality game Yggdrasil has come. However, Momonga, a powerful wizard and master of the dark guild Ainz Ooal Gown, decides to spend his last few moments in the game as the servers begin to shut down. To his surprise, despite the clock having struck midnight, Momonga is still fully conscious as his character and, moreover, the non-player characters appear to have developed personalities of their own!\n\nConfronted with this abnormal situation, Momonga commands his loyal servants to help him investigate and take control of this new world, with the hopes of figuring out what has caused this development and if there may be others in the same predicament.\n\n[Written by MAL Rewrite]",
+  "synopsis_es": "Ha llegado la última hora del popular juego de realidad virtual Yggdrasil. Sin embargo, Momonga, un poderoso mago y maestro del gremio oscuro Ainz Ooal Gown, decide pasar sus últimos momentos en el juego mientras los servidores comienzan a cerrarse. Para su sorpresa, a pesar de que el reloj ha dado la medianoche, Momonga todavía está plenamente consciente como su personaje y, además, ¡los personajes no jugadores parecen haber desarrollado sus propias personalidades!\n\nAnte esta situación anormal, Momonga ordena a sus leales sirvientes que lo ayuden a investigar y tomar el control de este nuevo mundo, con la esperanza de descubrir qué ha causado este desarrollo y si puede haber otros en la misma situación.\n\n[Escrito por MAL Rewrite]",
   "type": "TV",
   "media_type": "tv",
   "status": "finished_airing",
@@ -55,45 +56,24 @@
       "name": "Madhouse"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/12/88018l.jpg",
-    "https://cdn.myanimelist.net/images/anime/7/88019l.jpg",
-    "https://cdn.myanimelist.net/images/anime/10/88020l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1591/96774l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1398/102646l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1945/136600l.jpg"
-  ],
+  "pictures": [],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
   "tmdb_updated_at": null,
-  "simkl_id": null,
-  "episodes_data": [],
-  "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1945/136600.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1945/136600l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1945/136600.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1945/136600l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1945/136600.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1945/136600l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1945/136600.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1945/136600l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1945/136600.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1945/136600l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/12/88018l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/12/88018l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/12/88018l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/12/88018l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/88018l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/12/88018l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/12/88018l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/12/88018l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/88018l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/12/88018l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1945/136600l.webp"
     }
   },
   "broadcast": {
@@ -106,12 +86,16 @@
   },
   "rank": 972,
   "popularity": 70,
+  "rating": "r",
+  "simkl_id": null,
+  "episodes_data": [],
+  "specials_data": [],
+  "characters": [],
   "num_scoring_users": 1053480,
   "nsfw": "white",
   "created_at": "2015-01-27T06:00:31+00:00",
   "updated_at": "2024-02-27T23:41:39+00:00",
   "source": "light_novel",
-  "rating": "r",
   "background": "Overlord adapts light novel volumes 1 to 3.",
   "related_anime": [
     {
@@ -393,7 +377,5 @@
       "plan_to_watch": "246828"
     },
     "num_list_users": 1789042
-  },
-  "synopsis_es": "Ha llegado la última hora del popular juego de realidad virtual Yggdrasil. Sin embargo, Momonga, un poderoso mago y maestro del gremio oscuro Ainz Ooal Gown, decide pasar sus últimos momentos en el juego mientras los servidores comienzan a cerrarse. Para su sorpresa, a pesar de que el reloj ha dado la medianoche, Momonga todavía está plenamente consciente como su personaje y, además, ¡los personajes no jugadores parecen haber desarrollado sus propias personalidades!\n\nAnte esta situación anormal, Momonga ordena a sus leales sirvientes que lo ayuden a investigar y tomar el control de este nuevo mundo, con la esperanza de descubrir qué ha causado este desarrollo y si puede haber otros en la misma situación.\n\n[Escrito por MAL Rewrite]",
-  "translations_updated_at": "2026-11-15T02:19:10.253Z"
+  }
 }

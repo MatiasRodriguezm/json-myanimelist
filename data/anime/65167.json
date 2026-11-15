@@ -10,6 +10,7 @@
     "ja": "彼女の友達 ミニアニメ劇場"
   },
   "synopsis": "A weekly mini anime shown with each episode of Kanojo no Tomodachi exclusively on the AT-X broadcast of the TV anime and online on OceanVeil and Abema.",
+  "synopsis_es": "Un mini anime semanal que se muestra con cada episodio de Kanojo no Tomodachi exclusivamente en la transmisión AT-X del anime televisivo y en línea en OceanVeil y Abema.",
   "type": "TV",
   "media_type": "tv",
   "status": "currently_airing",
@@ -43,44 +44,34 @@
   "logo_url": null,
   "tmdb_id": null,
   "tmdb_updated_at": "2026-11-15T13:04:27.363Z",
-  "simkl_id": null,
-  "episodes_data": [],
-  "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1958/160505.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1958/160505l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1958/160505.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1958/160505l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1958/160505.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1958/160505l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1958/160505.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1958/160505l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1958/160505.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1958/160505l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1958/160505l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1958/160505l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1958/160505l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1958/160505l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1958/160505l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1958/160505l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1958/160505l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1958/160505l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1958/160505l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1958/160505l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1958/160505l.webp"
     }
   },
   "broadcast": null,
   "rank": 11155,
   "popularity": 17623,
+  "rating": "pg_13",
+  "simkl_id": null,
+  "episodes_data": [],
+  "specials_data": [],
+  "characters": [],
   "num_scoring_users": 112,
   "nsfw": "white",
   "created_at": null,
   "updated_at": null,
   "source": "web_manga",
-  "rating": "pg_13",
   "background": null,
   "related_anime": [
     {
@@ -107,8 +98,5 @@
       "plan_to_watch": "132"
     },
     "num_list_users": 647
-  },
-  "mal_details_updated_at": "2026-11-15T01:56:43.750Z",
-  "synopsis_es": "Un mini anime semanal que se muestra con cada episodio de Kanojo no Tomodachi exclusivamente en la transmisión AT-X del anime televisivo y en línea en OceanVeil y Abema.",
-  "translations_updated_at": "2026-11-15T13:13:37.283Z"
+  }
 }

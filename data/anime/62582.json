@@ -10,6 +10,7 @@
     "ja": "青春ブタ野郎はディアフレンドの夢を見ない"
   },
   "synopsis": "Sequel to Seishun Buta Yarou wa Santa Claus no Yume wo Minai.",
+  "synopsis_es": "Secuela de Seishun Buta Yarou wa Santa Claus no Yume wo Minai.",
   "type": "Movie",
   "media_type": "movie",
   "status": "finished_airing",
@@ -57,59 +58,46 @@
   ],
   "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/iR3R7012MUISPSejxeGFEXHfhDE.jpg",
-  "logo_url": "https://image.tmdb.org/t/p/w500/qK2KaZ7dhOkQ3jfDHWDxVLAktEm.png",
+  "logo_url": "https://image.tmdb.org/t/p/w300/qK2KaZ7dhOkQ3jfDHWDxVLAktEm.png",
   "tmdb_id": "1553200",
   "tmdb_updated_at": "2026-11-10T01:53:11.109Z",
-  "simkl_id": 2890694,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "episodeNumber": 1,
-      "title": "Complete Movie",
-      "aired": "2026-10-16T00:00:00+09:00",
-      "airedDate": "2026-10-16T00:00:00+09:00",
-      "thumbnail": null,
-      "imageUrl": null,
-      "description": null,
-      "title_es": "Película completa"
-    }
-  ],
-  "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1286/159781.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1286/159781l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1286/159781.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1286/159781l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1286/159781.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1286/159781l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1286/159781.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1286/159781l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1286/159781.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1286/159781l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1286/159781l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1286/159781l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1286/159781l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1286/159781l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1286/159781l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1286/159781l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1286/159781l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1286/159781l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1286/159781l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1286/159781l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1286/159781l.webp"
     }
   },
   "broadcast": null,
   "rank": 433,
   "popularity": 3454,
+  "rating": "pg_13",
+  "simkl_id": 2890694,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "title": "Complete Movie",
+      "title_es": "Película completa",
+      "aired": "2026-10-16T00:00:00+09:00",
+      "thumbnail": null,
+      "description": null
+    }
+  ],
+  "specials_data": [],
+  "characters": [],
   "num_scoring_users": 889,
   "nsfw": "white",
   "created_at": null,
   "updated_at": null,
   "source": "light_novel",
-  "rating": "pg_13",
   "background": null,
   "related_anime": [
     {
@@ -136,8 +124,5 @@
       "plan_to_watch": "53687"
     },
     "num_list_users": 56914
-  },
-  "mal_details_updated_at": "2026-11-10T01:34:08.005Z",
-  "synopsis_es": "Secuela de Seishun Buta Yarou wa Santa Claus no Yume wo Minai.",
-  "translations_updated_at": "2026-11-15T13:08:49.852Z"
+  }
 }

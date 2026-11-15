@@ -12,6 +12,7 @@
     "ja": "おしりたんてい"
   },
   "synopsis": "Tenth season of Oshiri Tantei.",
+  "synopsis_es": "Décima temporada de Oshiri Tantei.",
   "type": "TV",
   "media_type": "tv",
   "status": "currently_airing",
@@ -66,33 +67,19 @@
   "logo_url": null,
   "tmdb_id": null,
   "tmdb_updated_at": "2026-11-15T13:04:51.887Z",
-  "simkl_id": null,
-  "episodes_data": [],
-  "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1098/156208.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1098/156208l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1098/156208.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1098/156208l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1098/156208.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1098/156208l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1098/156208.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1098/156208l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1098/156208.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1098/156208l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1098/156208l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1098/156208l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1098/156208l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1098/156208l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1098/156208l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1098/156208l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1098/156208l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1098/156208l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1098/156208l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1098/156208l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1098/156208l.webp"
     }
   },
   "broadcast": {
@@ -105,12 +92,16 @@
   },
   "rank": 19808,
   "popularity": 24451,
+  "rating": "pg",
+  "simkl_id": null,
+  "episodes_data": [],
+  "specials_data": [],
+  "characters": [],
   "num_scoring_users": 4,
   "nsfw": "white",
   "created_at": null,
   "updated_at": null,
   "source": "picture_book",
-  "rating": "pg",
   "background": null,
   "related_anime": [
     {
@@ -137,8 +128,5 @@
       "plan_to_watch": "78"
     },
     "num_list_users": 193
-  },
-  "mal_details_updated_at": "2026-11-15T01:57:35.548Z",
-  "synopsis_es": "Décima temporada de Oshiri Tantei.",
-  "translations_updated_at": "2026-11-15T13:12:42.600Z"
+  }
 }

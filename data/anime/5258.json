@@ -14,6 +14,7 @@
     "ja": "はじめの一歩 新シリーズ"
   },
   "synopsis": "Japanese Featherweight Champion Ippo Makunouchi has successfully defended and retained his title. Meanwhile, his rival, Ichirou Miyata, has resurfaced in Japan, aiming for his own Featherweight belt in the Oriental Pacific Boxing Federation. When the rest of the world comes knocking, however, will Japan's best fighters rise to the challenge and achieve glory at the top? Or will the small island nation be crushed under the weight of greater entities? This time, champions will become challengers issuing a call to the rest of the world and ready to show off their fighting spirit!\n\n[Written by MAL Rewrite]",
+  "synopsis_es": "El campeón japonés de peso pluma, Ippo Makunouchi, ha defendido y retenido con éxito su título. Mientras tanto, su rival, Ichirou Miyata, ha resurgido en Japón, aspirando a su propio cinturón de peso pluma en la Federación de Boxeo del Pacífico Oriental. Sin embargo, cuando el resto del mundo llame a la puerta, ¿los mejores luchadores japoneses estarán a la altura del desafío y alcanzarán la gloria en la cima? ¿O la pequeña nación insular será aplastada bajo el peso de entidades mayores? ¡Esta vez, los campeones se convertirán en retadores que harán un llamado al resto del mundo y estarán listos para mostrar su espíritu de lucha!\n\n[Escrito por MAL Rewrite]",
   "type": "TV",
   "media_type": "tv",
   "status": "finished_airing",
@@ -55,44 +56,24 @@
       "name": "Madhouse"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/10/31105l.jpg",
-    "https://cdn.myanimelist.net/images/anime/4/31107l.jpg",
-    "https://cdn.myanimelist.net/images/anime/3/31109l.jpg",
-    "https://cdn.myanimelist.net/images/anime/11/31113l.jpg",
-    "https://cdn.myanimelist.net/images/anime/8/56617l.jpg"
-  ],
+  "pictures": [],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
   "tmdb_updated_at": null,
-  "simkl_id": null,
-  "episodes_data": [],
-  "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/8/56617.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/56617l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/8/56617.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/8/56617l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/8/56617.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/8/56617l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/8/56617.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/8/56617l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/8/56617.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/8/56617l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/10/31105l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/10/31105l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/10/31105l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/10/31105l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/10/31105l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/10/31105l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/10/31105l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/10/31105l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/10/31105l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/10/31105l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/8/56617l.webp"
     }
   },
   "broadcast": {
@@ -105,12 +86,16 @@
   },
   "rank": 80,
   "popularity": 866,
+  "rating": "pg_13",
+  "simkl_id": null,
+  "episodes_data": [],
+  "specials_data": [],
+  "characters": [],
   "num_scoring_users": 193899,
   "nsfw": "white",
   "created_at": "2008-09-15T13:49:59+00:00",
   "updated_at": "2023-01-09T14:58:19+00:00",
   "source": "manga",
-  "rating": "pg_13",
   "background": null,
   "related_anime": [
     {
@@ -249,7 +234,5 @@
       "plan_to_watch": "56861"
     },
     "num_list_users": 334515
-  },
-  "synopsis_es": "El campeón japonés de peso pluma, Ippo Makunouchi, ha defendido y retenido con éxito su título. Mientras tanto, su rival, Ichirou Miyata, ha resurgido en Japón, aspirando a su propio cinturón de peso pluma en la Federación de Boxeo del Pacífico Oriental. Sin embargo, cuando el resto del mundo llame a la puerta, ¿los mejores luchadores japoneses estarán a la altura del desafío y alcanzarán la gloria en la cima? ¿O la pequeña nación insular será aplastada bajo el peso de entidades mayores? ¡Esta vez, los campeones se convertirán en retadores que harán un llamado al resto del mundo y estarán listos para mostrar su espíritu de lucha!\n\n[Escrito por MAL Rewrite]",
-  "translations_updated_at": "2026-11-15T02:28:10.346Z"
+  }
 }

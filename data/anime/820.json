@@ -16,6 +16,7 @@
     "ja": "銀河英雄伝説"
   },
   "synopsis": "The 150-year-long stalemate between the two interstellar superpowers, the Galactic Empire and the Free Planets Alliance, comes to an end when a new generation of leaders arises: the idealistic military genius Reinhard von Lohengramm, and the FPA's reserved historian, Yang Wenli.\n\nWhile Reinhard climbs the ranks of the Empire with the aid of his childhood friend, Siegfried Kircheis, he must fight not only the war, but also the remnants of the crumbling Goldenbaum Dynasty in order to free his sister from the Kaiser and unify humanity under one genuine ruler. Meanwhile, on the other side of the galaxy, Yang—a strong supporter of democratic ideals—has to stand firm in his beliefs, despite the struggles of the FPA, and show his pupil, Julian Mintz, that autocracy is not the solution.\n\nAs ideologies clash amidst the war's many casualties, the two strategic masterminds must ask themselves what the real reason behind their battle is.\n\n[Written by MAL Rewrite]",
+  "synopsis_es": "El estancamiento de 150 años entre las dos superpotencias interestelares, el Imperio Galáctico y la Alianza de Planetas Libres, llega a su fin cuando surge una nueva generación de líderes: el genio militar idealista Reinhard von Lohengramm y el reservado historiador de la FPA, Yang Wenli.\n\nMientras Reinhard asciende en las filas del Imperio con la ayuda de su amigo de la infancia, Siegfried Kircheis, debe luchar no sólo en la guerra, sino también contra los restos de la desmoronada dinastía Goldenbaum para liberar a su hermana del Kaiser y unificar a la humanidad bajo un gobernante genuino. Mientras tanto, al otro lado de la galaxia, Yang, un firme partidario de los ideales democráticos, tiene que mantenerse firme en sus creencias, a pesar de las luchas del FPA, y mostrarle a su alumno, Julian Mintz, que la autocracia no es la solución.\n\nMientras las ideologías chocan en medio de las muchas víctimas de la guerra, los dos autores intelectuales estratégicos deben preguntarse cuál es la verdadera razón detrás de su batalla.\n\n[Escrito por MAL Rewrite]",
   "type": "OVA",
   "media_type": "ova",
   "status": "finished_airing",
@@ -71,1258 +72,918 @@
   ],
   "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/fWZu2vaHJg7M6iwqeFPO3rMHTi7.jpg",
-  "logo_url": "https://image.tmdb.org/t/p/w500/7brhNxFjohzRaHv05F8KTGrC80l.png",
+  "logo_url": "https://image.tmdb.org/t/p/w300/7brhNxFjohzRaHv05F8KTGrC80l.png",
   "tmdb_id": "27660",
   "tmdb_updated_at": "2026-11-06T21:57:37.219Z",
-  "simkl_id": 36927,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "episodeNumber": 1,
-      "title": "In the Eternal Night",
-      "aired": "1988-12-21T19:00:00+09:00",
-      "airedDate": "1988-12-21T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/23/2356563e85bb1e25_w.webp",
-      "imageUrl": "https://simkl.in/episodes/23/2356563e85bb1e25_w.webp",
-      "description": null,
-      "title_es": "En la Noche Eterna"
-    },
-    {
-      "episode": 2,
-      "episodeNumber": 2,
-      "title": "The Battle of Astarte",
-      "aired": "1988-12-28T19:00:00+09:00",
-      "airedDate": "1988-12-28T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/23/235658ad35debb00_w.webp",
-      "imageUrl": "https://simkl.in/episodes/23/235658ad35debb00_w.webp",
-      "description": null,
-      "title_es": "La Batalla de Astarté"
-    },
-    {
-      "episode": 3,
-      "episodeNumber": 3,
-      "title": "The Birth of the 13th Fleet",
-      "aired": "1989-01-10T19:00:00+09:00",
-      "airedDate": "1989-01-10T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/23/23566035a685a966_w.webp",
-      "imageUrl": "https://simkl.in/episodes/23/23566035a685a966_w.webp",
-      "description": null,
-      "title_es": "El nacimiento de la 13ª Flota"
-    },
-    {
-      "episode": 4,
-      "episodeNumber": 4,
-      "title": "The Afterglow of the Empire",
-      "aired": "1989-01-17T19:00:00+09:00",
-      "airedDate": "1989-01-17T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/23/23566214298172a6_w.webp",
-      "imageUrl": "https://simkl.in/episodes/23/23566214298172a6_w.webp",
-      "description": null,
-      "title_es": "El resplandor del Imperio"
-    },
-    {
-      "episode": 5,
-      "episodeNumber": 5,
-      "title": "The Castrop Uprising",
-      "aired": "1997-03-14T19:00:00+09:00",
-      "airedDate": "1997-03-14T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/23/23566429d2f555c9_w.webp",
-      "imageUrl": "https://simkl.in/episodes/23/23566429d2f555c9_w.webp",
-      "description": null,
-      "title_es": "El levantamiento de Castrop"
-    },
-    {
-      "episode": 6,
-      "episodeNumber": 6,
-      "title": "The Knights of the Rose",
-      "aired": "1989-01-31T19:00:00+09:00",
-      "airedDate": "1989-01-31T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/23/2356661bf86ba3ed_w.webp",
-      "imageUrl": "https://simkl.in/episodes/23/2356661bf86ba3ed_w.webp",
-      "description": null,
-      "title_es": "Los Caballeros de la Rosa"
-    },
-    {
-      "episode": 7,
-      "episodeNumber": 7,
-      "title": "Iserlohn Captured!",
-      "aired": "1989-02-07T19:00:00+09:00",
-      "airedDate": "1989-02-07T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/23/2356685021b2434e_w.webp",
-      "imageUrl": "https://simkl.in/episodes/23/2356685021b2434e_w.webp",
-      "description": null,
-      "title_es": "¡Iserlohn capturado!"
-    },
-    {
-      "episode": 8,
-      "episodeNumber": 8,
-      "title": "Cold Cybernetic Eyes",
-      "aired": "1989-02-14T19:00:00+09:00",
-      "airedDate": "1989-02-14T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/23/23567060a4dccf4f_w.webp",
-      "imageUrl": "https://simkl.in/episodes/23/23567060a4dccf4f_w.webp",
-      "description": null,
-      "title_es": "Ojos cibernéticos fríos"
-    },
-    {
-      "episode": 9,
-      "episodeNumber": 9,
-      "title": "The Klopstock Incident",
-      "aired": "1997-03-14T19:00:00+09:00",
-      "airedDate": "1997-03-14T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/23/235672bb76f2d442_w.webp",
-      "imageUrl": "https://simkl.in/episodes/23/235672bb76f2d442_w.webp",
-      "description": null,
-      "title_es": "El incidente de Klopstock"
-    },
-    {
-      "episode": 10,
-      "episodeNumber": 10,
-      "title": "Jessica's War",
-      "aired": "1997-03-14T19:00:00+09:00",
-      "airedDate": "1997-03-14T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/23/235674bb8cb9a8b4_w.webp",
-      "imageUrl": "https://simkl.in/episodes/23/235674bb8cb9a8b4_w.webp",
-      "description": null,
-      "title_es": "La guerra de Jessica"
-    },
-    {
-      "episode": 11,
-      "episodeNumber": 11,
-      "title": "The Actress Exits",
-      "aired": "1989-03-07T19:00:00+09:00",
-      "airedDate": "1989-03-07T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/23/235676287f1e294f_w.webp",
-      "imageUrl": "https://simkl.in/episodes/23/235676287f1e294f_w.webp",
-      "description": null,
-      "title_es": "La actriz sale"
-    },
-    {
-      "episode": 12,
-      "episodeNumber": 12,
-      "title": "The Invasion of the Empire",
-      "aired": "1997-03-14T19:00:00+09:00",
-      "airedDate": "1997-03-14T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/23/235678d7a301c56d_w.webp",
-      "imageUrl": "https://simkl.in/episodes/23/235678d7a301c56d_w.webp",
-      "description": null,
-      "title_es": "La invasión del imperio"
-    },
-    {
-      "episode": 13,
-      "episodeNumber": 13,
-      "title": "When the Sad Rains Come...",
-      "aired": "1989-03-21T19:00:00+09:00",
-      "airedDate": "1989-03-21T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/23/23568075bdde6213_w.webp",
-      "imageUrl": "https://simkl.in/episodes/23/23568075bdde6213_w.webp",
-      "description": null,
-      "title_es": "Cuando llegan las lluvias tristes..."
-    },
-    {
-      "episode": 14,
-      "episodeNumber": 14,
-      "title": "The Liberation of the Frontier",
-      "aired": "1989-03-28T19:00:00+09:00",
-      "airedDate": "1989-03-28T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/23/2356828566c9ab16_w.webp",
-      "imageUrl": "https://simkl.in/episodes/23/2356828566c9ab16_w.webp",
-      "description": null,
-      "title_es": "La liberación de la frontera"
-    },
-    {
-      "episode": 15,
-      "episodeNumber": 15,
-      "title": "The Battle of Amritsar",
-      "aired": "1989-04-04T19:00:00+09:00",
-      "airedDate": "1989-04-04T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/23/235684cd751397ca_w.webp",
-      "imageUrl": "https://simkl.in/episodes/23/235684cd751397ca_w.webp",
-      "description": null,
-      "title_es": "La batalla de Amritsar"
-    },
-    {
-      "episode": 16,
-      "episodeNumber": 16,
-      "title": "A New Tide",
-      "aired": "1989-04-11T19:00:00+09:00",
-      "airedDate": "1989-04-11T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/23/2356861c856df1d4_w.webp",
-      "imageUrl": "https://simkl.in/episodes/23/2356861c856df1d4_w.webp",
-      "description": null,
-      "title_es": "Una nueva marea"
-    },
-    {
-      "episode": 17,
-      "episodeNumber": 17,
-      "title": "Before the Storm",
-      "aired": "1989-04-18T19:00:00+09:00",
-      "airedDate": "1989-04-18T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/23/2356883fef51584e_w.webp",
-      "imageUrl": "https://simkl.in/episodes/23/2356883fef51584e_w.webp",
-      "description": null,
-      "title_es": "Antes de la tormenta"
-    },
-    {
-      "episode": 18,
-      "episodeNumber": 18,
-      "title": "The Lippstadt Agreement",
-      "aired": "1989-04-25T19:00:00+09:00",
-      "airedDate": "1989-04-25T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/23/23569058205a6f04_w.webp",
-      "imageUrl": "https://simkl.in/episodes/23/23569058205a6f04_w.webp",
-      "description": null,
-      "title_es": "El Acuerdo de Lippstadt"
-    },
-    {
-      "episode": 19,
-      "episodeNumber": 19,
-      "title": "The Yang Fleet Sallies Forth",
-      "aired": "1997-03-14T19:00:00+09:00",
-      "airedDate": "1997-03-14T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/23/235692ac57054b99_w.webp",
-      "imageUrl": "https://simkl.in/episodes/23/235692ac57054b99_w.webp",
-      "description": null,
-      "title_es": "La Flota Yang avanza"
-    },
-    {
-      "episode": 20,
-      "episodeNumber": 20,
-      "title": "Heavens of Bloodshed",
-      "aired": "1989-05-09T19:00:00+09:00",
-      "airedDate": "1989-05-09T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/23/235694303ddf0f8a_w.webp",
-      "imageUrl": "https://simkl.in/episodes/23/235694303ddf0f8a_w.webp",
-      "description": null,
-      "title_es": "Cielos de derramamiento de sangre"
-    },
-    {
-      "episode": 21,
-      "episodeNumber": 21,
-      "title": "The Battle of Doria, and Then...",
-      "aired": "1997-03-14T19:00:00+09:00",
-      "airedDate": "1997-03-14T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/23/23569637e3ba958e_w.webp",
-      "imageUrl": "https://simkl.in/episodes/23/23569637e3ba958e_w.webp",
-      "description": null,
-      "title_es": "La batalla de Doria, y luego..."
-    },
-    {
-      "episode": 22,
-      "episodeNumber": 22,
-      "title": "Courage & Loyalty",
-      "aired": "1989-05-23T19:00:00+09:00",
-      "airedDate": "1989-05-23T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/23/23569815f528f159_w.webp",
-      "imageUrl": "https://simkl.in/episodes/23/23569815f528f159_w.webp",
-      "description": null,
-      "title_es": "Coraje y lealtad"
-    },
-    {
-      "episode": 23,
-      "episodeNumber": 23,
-      "title": "The Fall of the Goldenbaum",
-      "aired": "1989-05-30T19:00:00+09:00",
-      "airedDate": "1989-05-30T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/23/235700abd9ca97fd_w.webp",
-      "imageUrl": "https://simkl.in/episodes/23/235700abd9ca97fd_w.webp",
-      "description": null,
-      "title_es": "La caída del Goldenbaum"
-    },
-    {
-      "episode": 24,
-      "episodeNumber": 24,
-      "title": "Victory, for Whose Sake?",
-      "aired": "1997-03-14T19:00:00+09:00",
-      "airedDate": "1997-03-14T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/23/2357022f188af456_w.webp",
-      "imageUrl": "https://simkl.in/episodes/23/2357022f188af456_w.webp",
-      "description": null,
-      "title_es": "Victoria, ¿por el bien de quién?"
-    },
-    {
-      "episode": 25,
-      "episodeNumber": 25,
-      "title": "The Day Before Destiny",
-      "aired": "1989-06-13T19:00:00+09:00",
-      "airedDate": "1989-06-13T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/23/2357047e8ce814cf_w.webp",
-      "imageUrl": "https://simkl.in/episodes/23/2357047e8ce814cf_w.webp",
-      "description": null,
-      "title_es": "El día antes del destino"
-    },
-    {
-      "episode": 26,
-      "episodeNumber": 26,
-      "title": "Farewell, Distant Days",
-      "aired": "1989-06-20T19:00:00+09:00",
-      "airedDate": "1989-06-20T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/23/2357062434f07620_w.webp",
-      "imageUrl": "https://simkl.in/episodes/23/2357062434f07620_w.webp",
-      "description": null,
-      "title_es": "Adiós, días lejanos"
-    },
-    {
-      "episode": 27,
-      "episodeNumber": 27,
-      "title": "First Battle",
-      "aired": "1991-06-21T19:00:00+09:00",
-      "airedDate": "1991-06-21T19:00:00+09:00",
-      "thumbnail": null,
-      "imageUrl": null,
-      "description": null,
-      "title_es": "Primera batalla"
-    },
-    {
-      "episode": 28,
-      "episodeNumber": 28,
-      "title": "Portrait",
-      "aired": "1991-06-25T19:00:00+09:00",
-      "airedDate": "1991-06-25T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/63/63137202e2021444_w.webp",
-      "imageUrl": "https://simkl.in/episodes/63/63137202e2021444_w.webp",
-      "description": null,
-      "title_es": "Retrato"
-    },
-    {
-      "episode": 29,
-      "episodeNumber": 29,
-      "title": "One Slender Thread",
-      "aired": "1997-03-14T19:00:00+09:00",
-      "airedDate": "1997-03-14T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/63/631374be3bf530be_w.webp",
-      "imageUrl": "https://simkl.in/episodes/63/631374be3bf530be_w.webp",
-      "description": null,
-      "title_es": "Un hilo delgado"
-    },
-    {
-      "episode": 30,
-      "episodeNumber": 30,
-      "title": "Lost Things",
-      "aired": "1997-03-14T19:00:00+09:00",
-      "airedDate": "1997-03-14T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/63/6313760e18719427_w.webp",
-      "imageUrl": "https://simkl.in/episodes/63/6313760e18719427_w.webp",
-      "description": null,
-      "title_es": "Cosas perdidas"
-    },
-    {
-      "episode": 31,
-      "episodeNumber": 31,
-      "title": "The Inquiry",
-      "aired": "1997-03-14T19:00:00+09:00",
-      "airedDate": "1997-03-14T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/63/631378331e8b6d52_w.webp",
-      "imageUrl": "https://simkl.in/episodes/63/631378331e8b6d52_w.webp",
-      "description": null,
-      "title_es": "La investigación"
-    },
-    {
-      "episode": 32,
-      "episodeNumber": 32,
-      "title": "The Battle Without Arms",
-      "aired": "1997-03-14T19:00:00+09:00",
-      "airedDate": "1997-03-14T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/63/6313806c0c555818_w.webp",
-      "imageUrl": "https://simkl.in/episodes/63/6313806c0c555818_w.webp",
-      "description": null,
-      "title_es": "La batalla sin armas"
-    },
-    {
-      "episode": 33,
-      "episodeNumber": 33,
-      "title": "Fortress vs Fortress",
-      "aired": "1997-03-14T19:00:00+09:00",
-      "airedDate": "1997-03-14T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/63/631382834d03bd22_w.webp",
-      "imageUrl": "https://simkl.in/episodes/63/631382834d03bd22_w.webp",
-      "description": null,
-      "title_es": "Fortaleza contra Fortaleza"
-    },
-    {
-      "episode": 34,
-      "episodeNumber": 34,
-      "title": "The Return",
-      "aired": "1991-08-25T19:00:00+09:00",
-      "airedDate": "1991-08-25T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/63/631384b04becf2fe_w.webp",
-      "imageUrl": "https://simkl.in/episodes/63/631384b04becf2fe_w.webp",
-      "description": null,
-      "title_es": "El regreso"
-    },
-    {
-      "episode": 35,
-      "episodeNumber": 35,
-      "title": "Decisions & Ambitions",
-      "aired": "1991-10-15T19:00:00+09:00",
-      "airedDate": "1991-10-15T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/63/631386112efdf316_w.webp",
-      "imageUrl": "https://simkl.in/episodes/63/631386112efdf316_w.webp",
-      "description": null,
-      "title_es": "Decisiones y ambiciones"
-    },
-    {
-      "episode": 36,
-      "episodeNumber": 36,
-      "title": "Thunder",
-      "aired": "1997-03-14T19:00:00+09:00",
-      "airedDate": "1997-03-14T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/63/631388241e8517f2_w.webp",
-      "imageUrl": "https://simkl.in/episodes/63/631388241e8517f2_w.webp",
-      "description": null,
-      "title_es": "Trueno"
-    },
-    {
-      "episode": 37,
-      "episodeNumber": 37,
-      "title": "The Abduction of the Child Kaiser",
-      "aired": "1991-11-05T19:00:00+09:00",
-      "airedDate": "1991-11-05T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/63/6313904be1487599_w.webp",
-      "imageUrl": "https://simkl.in/episodes/63/6313904be1487599_w.webp",
-      "description": null,
-      "title_es": "El secuestro del niño Kaiser"
-    },
-    {
-      "episode": 38,
-      "episodeNumber": 38,
-      "title": "The Arrow Is Loosed",
-      "aired": "1997-03-14T19:00:00+09:00",
-      "airedDate": "1997-03-14T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/63/631392fbcb3dbe4a_w.webp",
-      "imageUrl": "https://simkl.in/episodes/63/631392fbcb3dbe4a_w.webp",
-      "description": null,
-      "title_es": "La flecha está suelta"
-    },
-    {
-      "episode": 39,
-      "episodeNumber": 39,
-      "title": "A Single Journey",
-      "aired": "1997-03-14T19:00:00+09:00",
-      "airedDate": "1997-03-14T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/63/631394684863a703_w.webp",
-      "imageUrl": "https://simkl.in/episodes/63/631394684863a703_w.webp",
-      "description": null,
-      "title_es": "Un solo viaje"
-    },
-    {
-      "episode": 40,
-      "episodeNumber": 40,
-      "title": "Julian's Journey, Mankind's Journey",
-      "aired": "1997-03-14T19:00:00+09:00",
-      "airedDate": "1997-03-14T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/63/631396d08cd1998f_w.webp",
-      "imageUrl": "https://simkl.in/episodes/63/631396d08cd1998f_w.webp",
-      "description": null,
-      "title_es": "El viaje de Julián, el viaje de la humanidad"
-    },
-    {
-      "episode": 41,
-      "episodeNumber": 41,
-      "title": "Operation \"Ragnarok\"",
-      "aired": "1991-11-25T19:00:00+09:00",
-      "airedDate": "1991-11-25T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/63/631398163fb8bfdd_w.webp",
-      "imageUrl": "https://simkl.in/episodes/63/631398163fb8bfdd_w.webp",
-      "description": null,
-      "title_es": "Operación \"Ragnarok\""
-    },
-    {
-      "episode": 42,
-      "episodeNumber": 42,
-      "title": "Invitation to a Requiem",
-      "aired": "1991-11-25T19:00:00+09:00",
-      "airedDate": "1991-11-25T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/63/631400a4a6ce4073_w.webp",
-      "imageUrl": "https://simkl.in/episodes/63/631400a4a6ce4073_w.webp",
-      "description": null,
-      "title_es": "Invitación a un Réquiem"
-    },
-    {
-      "episode": 43,
-      "episodeNumber": 43,
-      "title": "The Gjallarhorn Is Sounded",
-      "aired": "1997-03-14T19:00:00+09:00",
-      "airedDate": "1997-03-14T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/63/63140231940bcfdd_w.webp",
-      "imageUrl": "https://simkl.in/episodes/63/63140231940bcfdd_w.webp",
-      "description": null,
-      "title_es": "Suena el Gjallarhorn"
-    },
-    {
-      "episode": 44,
-      "episodeNumber": 44,
-      "title": "The Fezzan Occupation",
-      "aired": "1997-03-14T19:00:00+09:00",
-      "airedDate": "1997-03-14T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/63/6314047cb1ac0cf5_w.webp",
-      "imageUrl": "https://simkl.in/episodes/63/6314047cb1ac0cf5_w.webp",
-      "description": null,
-      "title_es": "La ocupación de Fezzan"
-    },
-    {
-      "episode": 45,
-      "episodeNumber": 45,
-      "title": "The Cold Wave Arrives",
-      "aired": "1997-03-14T19:00:00+09:00",
-      "airedDate": "1997-03-14T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/63/631406e8b07b3262_w.webp",
-      "imageUrl": "https://simkl.in/episodes/63/631406e8b07b3262_w.webp",
-      "description": null,
-      "title_es": "Llega la ola de frío"
-    },
-    {
-      "episode": 46,
-      "episodeNumber": 46,
-      "title": "Admiral Yang's Ark Fleet",
-      "aired": "1997-03-14T19:00:00+09:00",
-      "airedDate": "1997-03-14T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/63/631408d67c8c2f1e_w.webp",
-      "imageUrl": "https://simkl.in/episodes/63/631408d67c8c2f1e_w.webp",
-      "description": null,
-      "title_es": "Flota Arca del almirante Yang"
-    },
-    {
-      "episode": 47,
-      "episodeNumber": 47,
-      "title": "Seeking a Free Universe",
-      "aired": "1997-03-14T19:00:00+09:00",
-      "airedDate": "1997-03-14T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/63/63141080938a9110_w.webp",
-      "imageUrl": "https://simkl.in/episodes/63/63141080938a9110_w.webp",
-      "description": null,
-      "title_es": "Buscando un universo libre"
-    },
-    {
-      "episode": 48,
-      "episodeNumber": 48,
-      "title": "The Double-Headed Serpent: Showdown at Rantemario",
-      "aired": "1992-01-14T19:00:00+09:00",
-      "airedDate": "1992-01-14T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/63/6314124b5272f5cd_w.webp",
-      "imageUrl": "https://simkl.in/episodes/63/6314124b5272f5cd_w.webp",
-      "description": null,
-      "title_es": "La serpiente de dos cabezas: enfrentamiento en Rantemario"
-    },
-    {
-      "episode": 49,
-      "episodeNumber": 49,
-      "title": "It's Always Darkest...",
-      "aired": "1997-03-14T19:00:00+09:00",
-      "airedDate": "1997-03-14T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/63/63141438d506a509_w.webp",
-      "imageUrl": "https://simkl.in/episodes/63/63141438d506a509_w.webp",
-      "description": null,
-      "title_es": "Siempre es más oscuro..."
-    },
-    {
-      "episode": 50,
-      "episodeNumber": 50,
-      "title": "Consecutive Battles",
-      "aired": "1992-01-28T19:00:00+09:00",
-      "airedDate": "1992-01-28T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/63/631416b39c526ca6_w.webp",
-      "imageUrl": "https://simkl.in/episodes/63/631416b39c526ca6_w.webp",
-      "description": null,
-      "title_es": "Batallas consecutivas"
-    },
-    {
-      "episode": 51,
-      "episodeNumber": 51,
-      "title": "Mortal Combat at Vermillion (Part One)",
-      "aired": "1992-02-12T19:00:00+09:00",
-      "airedDate": "1992-02-12T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/63/631418f89e3dc20e_w.webp",
-      "imageUrl": "https://simkl.in/episodes/63/631418f89e3dc20e_w.webp",
-      "description": null,
-      "title_es": "Combate mortal en Vermillion (Primera parte)"
-    },
-    {
-      "episode": 52,
-      "episodeNumber": 52,
-      "title": "Mortal Combat at Vermillion (Part Two)",
-      "aired": "1992-02-12T19:00:00+09:00",
-      "airedDate": "1992-02-12T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/63/63142026d04b2c57_w.webp",
-      "imageUrl": "https://simkl.in/episodes/63/63142026d04b2c57_w.webp",
-      "description": null,
-      "title_es": "Combate mortal en Vermillion (Segunda parte)"
-    },
-    {
-      "episode": 53,
-      "episodeNumber": 53,
-      "title": "A Sudden Turn",
-      "aired": "1992-02-20T19:00:00+09:00",
-      "airedDate": "1992-02-20T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/63/631422205e814a08_w.webp",
-      "imageUrl": "https://simkl.in/episodes/63/631422205e814a08_w.webp",
-      "description": null,
-      "title_es": "Un giro repentino"
-    },
-    {
-      "episode": 54,
-      "episodeNumber": 54,
-      "title": "Sieg Kaiser!",
-      "aired": "1992-02-20T19:00:00+09:00",
-      "airedDate": "1992-02-20T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/63/63142464d8cc5494_w.webp",
-      "imageUrl": "https://simkl.in/episodes/63/63142464d8cc5494_w.webp",
-      "description": null,
-      "title_es": "¡Sieg Káiser!"
-    },
-    {
-      "episode": 55,
-      "episodeNumber": 55,
-      "title": "After the Ceremony, the Curtain Rises Once Again...",
-      "aired": "1994-07-20T19:00:00+09:00",
-      "airedDate": "1994-07-20T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/63/631426ed64549a76_w.webp",
-      "imageUrl": "https://simkl.in/episodes/63/631426ed64549a76_w.webp",
-      "description": null,
-      "title_es": "Después de la ceremonia, el telón se levanta una vez más..."
-    },
-    {
-      "episode": 56,
-      "episodeNumber": 56,
-      "title": "To Terra",
-      "aired": "1997-03-14T19:00:00+09:00",
-      "airedDate": "1997-03-14T19:00:00+09:00",
-      "thumbnail": null,
-      "imageUrl": null,
-      "description": null,
-      "title_es": "A Tierra"
-    },
-    {
-      "episode": 57,
-      "episodeNumber": 57,
-      "title": "The Kummel Incident",
-      "aired": "1994-08-03T19:00:00+09:00",
-      "airedDate": "1994-08-03T19:00:00+09:00",
-      "thumbnail": null,
-      "imageUrl": null,
-      "description": null,
-      "title_es": "El incidente de Kummel"
-    },
-    {
-      "episode": 58,
-      "episodeNumber": 58,
-      "title": "Visitors",
-      "aired": "1994-08-10T19:00:00+09:00",
-      "airedDate": "1994-08-10T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/63/6314287b7f937b10_w.webp",
-      "imageUrl": "https://simkl.in/episodes/63/6314287b7f937b10_w.webp",
-      "description": null,
-      "title_es": "Visitantes"
-    },
-    {
-      "episode": 59,
-      "episodeNumber": 59,
-      "title": "The Past, the Present & the Future",
-      "aired": "1997-03-14T19:00:00+09:00",
-      "airedDate": "1997-03-14T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/63/631430720575ea4e_w.webp",
-      "imageUrl": "https://simkl.in/episodes/63/631430720575ea4e_w.webp",
-      "description": null,
-      "title_es": "El pasado, el presente y el futuro"
-    },
-    {
-      "episode": 60,
-      "episodeNumber": 60,
-      "title": "The Magician Is Captured",
-      "aired": "1994-08-24T19:00:00+09:00",
-      "airedDate": "1994-08-24T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/63/631432735b253f61_w.webp",
-      "imageUrl": "https://simkl.in/episodes/63/631432735b253f61_w.webp",
-      "description": null,
-      "title_es": "El mago es capturado"
-    },
-    {
-      "episode": 61,
-      "episodeNumber": 61,
-      "title": "Invitation to an Opera",
-      "aired": "1997-03-14T19:00:00+09:00",
-      "airedDate": "1997-03-14T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/63/631434a4a7377957_w.webp",
-      "imageUrl": "https://simkl.in/episodes/63/631434a4a7377957_w.webp",
-      "description": null,
-      "title_es": "Invitación a una ópera"
-    },
-    {
-      "episode": 62,
-      "episodeNumber": 62,
-      "title": "A Cascade of Blood",
-      "aired": "1997-03-14T19:00:00+09:00",
-      "airedDate": "1997-03-14T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/63/63143659b80337ec_w.webp",
-      "imageUrl": "https://simkl.in/episodes/63/63143659b80337ec_w.webp",
-      "description": null,
-      "title_es": "Una cascada de sangre"
-    },
-    {
-      "episode": 63,
-      "episodeNumber": 63,
-      "title": "The Holy Land",
-      "aired": "1997-03-14T19:00:00+09:00",
-      "airedDate": "1997-03-14T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/63/631438b21d048338_w.webp",
-      "imageUrl": "https://simkl.in/episodes/63/631438b21d048338_w.webp",
-      "description": null,
-      "title_es": "Tierra Santa"
-    },
-    {
-      "episode": 64,
-      "episodeNumber": 64,
-      "title": "The Holiday Is Done",
-      "aired": "1994-09-21T19:00:00+09:00",
-      "airedDate": "1994-09-21T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/63/63144014ac9c851f_w.webp",
-      "imageUrl": "https://simkl.in/episodes/63/63144014ac9c851f_w.webp",
-      "description": null,
-      "title_es": "Se acabaron las vacaciones"
-    },
-    {
-      "episode": 65,
-      "episodeNumber": 65,
-      "title": "Against All Flags",
-      "aired": "1997-03-14T19:00:00+09:00",
-      "airedDate": "1997-03-14T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/63/631442842c9b2d0d_w.webp",
-      "imageUrl": "https://simkl.in/episodes/63/631442842c9b2d0d_w.webp",
-      "description": null,
-      "title_es": "Contra todas las banderas"
-    },
-    {
-      "episode": 66,
-      "episodeNumber": 66,
-      "title": "Under the Flag of the Goldenlowe",
-      "aired": "1994-10-10T19:00:00+09:00",
-      "airedDate": "1994-10-10T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/63/6314445030307bf0_w.webp",
-      "imageUrl": "https://simkl.in/episodes/63/6314445030307bf0_w.webp",
-      "description": null,
-      "title_es": "Bajo la bandera del Goldenlowe"
-    },
-    {
-      "episode": 67,
-      "episodeNumber": 67,
-      "title": "Ragnarok Once More",
-      "aired": "1994-10-12T19:00:00+09:00",
-      "airedDate": "1994-10-12T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/63/631446c879563e10_w.webp",
-      "imageUrl": "https://simkl.in/episodes/63/631446c879563e10_w.webp",
-      "description": null,
-      "title_es": "Ragnarok una vez más"
-    },
-    {
-      "episode": 68,
-      "episodeNumber": 68,
-      "title": "To El Facil",
-      "aired": "1997-03-14T19:00:00+09:00",
-      "airedDate": "1997-03-14T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/63/6314488b88310d9b_w.webp",
-      "imageUrl": "https://simkl.in/episodes/63/6314488b88310d9b_w.webp",
-      "description": null,
-      "title_es": "A El Fácil"
-    },
-    {
-      "episode": 69,
-      "episodeNumber": 69,
-      "title": "The Mission to Retake Iserlohn",
-      "aired": "1997-03-14T19:00:00+09:00",
-      "airedDate": "1997-03-14T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/63/63145064e74864e3_w.webp",
-      "imageUrl": "https://simkl.in/episodes/63/63145064e74864e3_w.webp",
-      "description": null,
-      "title_es": "La misión de retomar Iserlohn"
-    },
-    {
-      "episode": 70,
-      "episodeNumber": 70,
-      "title": "The Prodigal Sons Return",
-      "aired": "1997-03-14T19:00:00+09:00",
-      "airedDate": "1997-03-14T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/63/6314526233b3f3a8_w.webp",
-      "imageUrl": "https://simkl.in/episodes/63/6314526233b3f3a8_w.webp",
-      "description": null,
-      "title_es": "El regreso de los hijos pródigos"
-    },
-    {
-      "episode": 71,
-      "episodeNumber": 71,
-      "title": "The Battle at Marr-Adetta Stellar Region (Part One)",
-      "aired": "1997-03-14T19:00:00+09:00",
-      "airedDate": "1997-03-14T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/63/631454cf26591a92_w.webp",
-      "imageUrl": "https://simkl.in/episodes/63/631454cf26591a92_w.webp",
-      "description": null,
-      "title_es": "La batalla en la región estelar de Marr-Adetta (primera parte)"
-    },
-    {
-      "episode": 72,
-      "episodeNumber": 72,
-      "title": "The Battle at Marr-Adetta Stellar Region (Part Two)",
-      "aired": "1997-03-14T19:00:00+09:00",
-      "airedDate": "1997-03-14T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/63/63145633fde23f1f_w.webp",
-      "imageUrl": "https://simkl.in/episodes/63/63145633fde23f1f_w.webp",
-      "description": null,
-      "title_es": "La batalla en la región estelar de Marr-Adetta (segunda parte)"
-    },
-    {
-      "episode": 73,
-      "episodeNumber": 73,
-      "title": "The Winter Rose Garden Edict",
-      "aired": "1997-03-14T19:00:00+09:00",
-      "airedDate": "1997-03-14T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/63/63145857fb3d9e32_w.webp",
-      "imageUrl": "https://simkl.in/episodes/63/63145857fb3d9e32_w.webp",
-      "description": null,
-      "title_es": "El edicto del jardín de rosas de invierno"
-    },
-    {
-      "episode": 74,
-      "episodeNumber": 74,
-      "title": "The Long Road Ahead",
-      "aired": "1997-03-14T19:00:00+09:00",
-      "airedDate": "1997-03-14T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/63/631460aa4383ad30_w.webp",
-      "imageUrl": "https://simkl.in/episodes/63/631460aa4383ad30_w.webp",
-      "description": null,
-      "title_es": "El largo camino por delante"
-    },
-    {
-      "episode": 75,
-      "episodeNumber": 75,
-      "title": "Rolling Thunder",
-      "aired": "1994-12-07T19:00:00+09:00",
-      "airedDate": "1994-12-07T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/63/6314628b3a65e03a_w.webp",
-      "imageUrl": "https://simkl.in/episodes/63/6314628b3a65e03a_w.webp",
-      "description": null,
-      "title_es": "Trueno rodante"
-    },
-    {
-      "episode": 76,
-      "episodeNumber": 76,
-      "title": "Before the Festival",
-      "aired": "1997-03-14T19:00:00+09:00",
-      "airedDate": "1997-03-14T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/63/631464c221566391_w.webp",
-      "imageUrl": "https://simkl.in/episodes/63/631464c221566391_w.webp",
-      "description": null,
-      "title_es": "Antes del Festival"
-    },
-    {
-      "episode": 77,
-      "episodeNumber": 77,
-      "title": "The Wind Blows Towards the Corridor",
-      "aired": "1997-03-14T19:00:00+09:00",
-      "airedDate": "1997-03-14T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/63/631466e895ed2fb2_w.webp",
-      "imageUrl": "https://simkl.in/episodes/63/631466e895ed2fb2_w.webp",
-      "description": null,
-      "title_es": "El viento sopla hacia el corredor"
-    },
-    {
-      "episode": 78,
-      "episodeNumber": 78,
-      "title": "Spring Storm",
-      "aired": "1997-03-14T19:00:00+09:00",
-      "airedDate": "1997-03-14T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/63/631468a2867ca190_w.webp",
-      "imageUrl": "https://simkl.in/episodes/63/631468a2867ca190_w.webp",
-      "description": null,
-      "title_es": "Tormenta de primavera"
-    },
-    {
-      "episode": 79,
-      "episodeNumber": 79,
-      "title": "The Battle of the Corridor (Part One): The Invincible & the Undefeated",
-      "aired": "1997-03-14T19:00:00+09:00",
-      "airedDate": "1997-03-14T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/63/6314706b89f47b29_w.webp",
-      "imageUrl": "https://simkl.in/episodes/63/6314706b89f47b29_w.webp",
-      "description": null,
-      "title_es": "La batalla del corredor (primera parte): los invencibles y los invictos"
-    },
-    {
-      "episode": 80,
-      "episodeNumber": 80,
-      "title": "The Battle of the Corridor (Part Two): Kaleidoscope",
-      "aired": "1997-03-14T19:00:00+09:00",
-      "airedDate": "1997-03-14T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/63/6314729f09c7b60c_w.webp",
-      "imageUrl": "https://simkl.in/episodes/63/6314729f09c7b60c_w.webp",
-      "description": null,
-      "title_es": "La batalla del corredor (segunda parte): caleidoscopio"
-    },
-    {
-      "episode": 81,
-      "episodeNumber": 81,
-      "title": "The Battle of the Corridor (Part Three): The End of the Great Campaign",
-      "aired": "1997-03-14T19:00:00+09:00",
-      "airedDate": "1997-03-14T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/63/631474f3602a3e78_w.webp",
-      "imageUrl": "https://simkl.in/episodes/63/631474f3602a3e78_w.webp",
-      "description": null,
-      "title_es": "La Batalla del Corredor (Tercera Parte): El Fin de la Gran Campaña"
-    },
-    {
-      "episode": 82,
-      "episodeNumber": 82,
-      "title": "The Magician Never Returns",
-      "aired": "1995-01-25T19:00:00+09:00",
-      "airedDate": "1995-01-25T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/63/631476004bda28da_w.webp",
-      "imageUrl": "https://simkl.in/episodes/63/631476004bda28da_w.webp",
-      "description": null,
-      "title_es": "El mago nunca regresa"
-    },
-    {
-      "episode": 83,
-      "episodeNumber": 83,
-      "title": "After the Festival",
-      "aired": "1997-03-14T19:00:00+09:00",
-      "airedDate": "1997-03-14T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/63/631478ebc1bed348_w.webp",
-      "imageUrl": "https://simkl.in/episodes/63/631478ebc1bed348_w.webp",
-      "description": null,
-      "title_es": "Después del Festival"
-    },
-    {
-      "episode": 84,
-      "episodeNumber": 84,
-      "title": "A Disappointing Triumph",
-      "aired": "1997-03-14T19:00:00+09:00",
-      "airedDate": "1997-03-14T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/63/6314806e3400add6_w.webp",
-      "imageUrl": "https://simkl.in/episodes/63/6314806e3400add6_w.webp",
-      "description": null,
-      "title_es": "Un triunfo decepcionante"
-    },
-    {
-      "episode": 85,
-      "episodeNumber": 85,
-      "title": "The Order to Transfer the Capital",
-      "aired": "1995-02-15T19:00:00+09:00",
-      "airedDate": "1995-02-15T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/63/63148253c8acccd9_w.webp",
-      "imageUrl": "https://simkl.in/episodes/63/63148253c8acccd9_w.webp",
-      "description": null,
-      "title_es": "La Orden de Transferencia del Capital"
-    },
-    {
-      "episode": 86,
-      "episodeNumber": 86,
-      "title": "New Government in August",
-      "aired": "1995-01-16T19:00:00+09:00",
-      "airedDate": "1995-01-16T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/63/631484020676e888_w.webp",
-      "imageUrl": "https://simkl.in/episodes/63/631484020676e888_w.webp",
-      "description": null,
-      "title_es": "Nuevo gobierno en agosto"
-    },
-    {
-      "episode": 87,
-      "episodeNumber": 87,
-      "title": "Premonition of a Storm",
-      "aired": "1997-03-14T19:00:00+09:00",
-      "airedDate": "1997-03-14T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/63/631486334ea8c224_w.webp",
-      "imageUrl": "https://simkl.in/episodes/63/631486334ea8c224_w.webp",
-      "description": null,
-      "title_es": "Premonición de tormenta"
-    },
-    {
-      "episode": 88,
-      "episodeNumber": 88,
-      "title": "On the Frontier",
-      "aired": "1997-03-14T19:00:00+09:00",
-      "airedDate": "1997-03-14T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/63/6314880b819ad8b1_w.webp",
-      "imageUrl": "https://simkl.in/episodes/63/6314880b819ad8b1_w.webp",
-      "description": null,
-      "title_es": "En la frontera"
-    },
-    {
-      "episode": 89,
-      "episodeNumber": 89,
-      "title": "The Last Roses of Summer",
-      "aired": "1996-10-18T19:00:00+09:00",
-      "airedDate": "1996-10-18T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/63/63149011f2ce262e_w.webp",
-      "imageUrl": "https://simkl.in/episodes/63/63149011f2ce262e_w.webp",
-      "description": null,
-      "title_es": "Las últimas rosas del verano"
-    },
-    {
-      "episode": 90,
-      "episodeNumber": 90,
-      "title": "Rumbling",
-      "aired": "1997-03-14T19:00:00+09:00",
-      "airedDate": "1997-03-14T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/63/631492f26e650702_w.webp",
-      "imageUrl": "https://simkl.in/episodes/63/631492f26e650702_w.webp",
-      "description": null,
-      "title_es": "Retumbar"
-    },
-    {
-      "episode": 91,
-      "episodeNumber": 91,
-      "title": "Germination",
-      "aired": "1996-11-18T19:00:00+09:00",
-      "airedDate": "1996-11-18T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/63/631494c38346558d_w.webp",
-      "imageUrl": "https://simkl.in/episodes/63/631494c38346558d_w.webp",
-      "description": null,
-      "title_es": "Germinación"
-    },
-    {
-      "episode": 92,
-      "episodeNumber": 92,
-      "title": "The Urvashi Incident",
-      "aired": "1997-03-14T19:00:00+09:00",
-      "airedDate": "1997-03-14T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/63/631496e1d5375d5a_w.webp",
-      "imageUrl": "https://simkl.in/episodes/63/631496e1d5375d5a_w.webp",
-      "description": null,
-      "title_es": "El incidente de Urvashi"
-    },
-    {
-      "episode": 93,
-      "episodeNumber": 93,
-      "title": "In the Name of Pride",
-      "aired": "1997-03-14T19:00:00+09:00",
-      "airedDate": "1997-03-14T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/63/6314981edee5ec5a_w.webp",
-      "imageUrl": "https://simkl.in/episodes/63/6314981edee5ec5a_w.webp",
-      "description": null,
-      "title_es": "En nombre del orgullo"
-    },
-    {
-      "episode": 94,
-      "episodeNumber": 94,
-      "title": "Rebellion Is a Hero's Privilege",
-      "aired": "1996-11-18T19:00:00+09:00",
-      "airedDate": "1996-11-18T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/63/631500534133d4f5_w.webp",
-      "imageUrl": "https://simkl.in/episodes/63/631500534133d4f5_w.webp",
-      "description": null,
-      "title_es": "La rebelión es el privilegio de un héroe"
-    },
-    {
-      "episode": 95,
-      "episodeNumber": 95,
-      "title": "Clash of the Twin Jewels!",
-      "aired": "1997-03-14T19:00:00+09:00",
-      "airedDate": "1997-03-14T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/63/631502f09f81dca9_w.webp",
-      "imageUrl": "https://simkl.in/episodes/63/631502f09f81dca9_w.webp",
-      "description": null,
-      "title_es": "¡Choque de las Joyas Gemelas!"
-    },
-    {
-      "episode": 96,
-      "episodeNumber": 96,
-      "title": "To Live by the Sword...",
-      "aired": "1997-03-14T19:00:00+09:00",
-      "airedDate": "1997-03-14T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/63/6315049df8c67929_w.webp",
-      "imageUrl": "https://simkl.in/episodes/63/6315049df8c67929_w.webp",
-      "description": null,
-      "title_es": "Vivir por la espada..."
-    },
-    {
-      "episode": 97,
-      "episodeNumber": 97,
-      "title": "To Die by the Sword",
-      "aired": "1997-03-14T19:00:00+09:00",
-      "airedDate": "1997-03-14T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/63/6315066685e37072_w.webp",
-      "imageUrl": "https://simkl.in/episodes/63/6315066685e37072_w.webp",
-      "description": null,
-      "title_es": "Morir por la espada"
-    },
-    {
-      "episode": 98,
-      "episodeNumber": 98,
-      "title": "The Endless Requiem",
-      "aired": "1996-12-09T19:00:00+09:00",
-      "airedDate": "1996-12-09T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/63/631508e6987ea45b_w.webp",
-      "imageUrl": "https://simkl.in/episodes/63/631508e6987ea45b_w.webp",
-      "description": null,
-      "title_es": "El Réquiem sin fin"
-    },
-    {
-      "episode": 99,
-      "episodeNumber": 99,
-      "title": "Approach to the Future",
-      "aired": "1997-03-14T19:00:00+09:00",
-      "airedDate": "1997-03-14T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/63/631510cd10c1bf04_w.webp",
-      "imageUrl": "https://simkl.in/episodes/63/631510cd10c1bf04_w.webp",
-      "description": null,
-      "title_es": "Enfoque hacia el futuro"
-    },
-    {
-      "episode": 100,
-      "episodeNumber": 100,
-      "title": "Hoch Kaiserin!",
-      "aired": "1996-12-18T19:00:00+09:00",
-      "airedDate": "1996-12-18T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/63/63151232fe0875ac_w.webp",
-      "imageUrl": "https://simkl.in/episodes/63/63151232fe0875ac_w.webp",
-      "description": null,
-      "title_es": "¡Hoch Kaiserin!"
-    },
-    {
-      "episode": 101,
-      "episodeNumber": 101,
-      "title": "Invitation to Upheaval",
-      "aired": "1997-03-14T19:00:00+09:00",
-      "airedDate": "1997-03-14T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/63/6315141ebcab24dd_w.webp",
-      "imageUrl": "https://simkl.in/episodes/63/6315141ebcab24dd_w.webp",
-      "description": null,
-      "title_es": "Invitación a la agitación"
-    },
-    {
-      "episode": 102,
-      "episodeNumber": 102,
-      "title": "Daring to Take Up Arms",
-      "aired": "1997-03-14T19:00:00+09:00",
-      "airedDate": "1997-03-14T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/63/631516bdc14134a9_w.webp",
-      "imageUrl": "https://simkl.in/episodes/63/631516bdc14134a9_w.webp",
-      "description": null,
-      "title_es": "Atreverse a tomar las armas"
-    },
-    {
-      "episode": 103,
-      "episodeNumber": 103,
-      "title": "Cosmic Mosaic",
-      "aired": "1997-01-28T19:00:00+09:00",
-      "airedDate": "1997-01-28T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/63/631518ca642031c2_w.webp",
-      "imageUrl": "https://simkl.in/episodes/63/631518ca642031c2_w.webp",
-      "description": null,
-      "title_es": "Mosaico Cósmico"
-    },
-    {
-      "episode": 104,
-      "episodeNumber": 104,
-      "title": "Towards Peace, Via Bloodshed",
-      "aired": "1997-01-28T19:00:00+09:00",
-      "airedDate": "1997-01-28T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/63/631520719a17e73a_w.webp",
-      "imageUrl": "https://simkl.in/episodes/63/631520719a17e73a_w.webp",
-      "description": null,
-      "title_es": "Hacia la paz, a través del derramamiento de sangre"
-    },
-    {
-      "episode": 105,
-      "episodeNumber": 105,
-      "title": "Planet in Turmoil",
-      "aired": "1997-01-28T19:00:00+09:00",
-      "airedDate": "1997-01-28T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/63/63152265b1015f74_w.webp",
-      "imageUrl": "https://simkl.in/episodes/63/63152265b1015f74_w.webp",
-      "description": null,
-      "title_es": "Planeta en agitación"
-    },
-    {
-      "episode": 106,
-      "episodeNumber": 106,
-      "title": "The Stehibalm Schlossbrand",
-      "aired": "1997-03-14T19:00:00+09:00",
-      "airedDate": "1997-03-14T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/63/631524466515292c_w.webp",
-      "imageUrl": "https://simkl.in/episodes/63/631524466515292c_w.webp",
-      "description": null,
-      "title_es": "El Stehibalm Schlossbrand"
-    },
-    {
-      "episode": 107,
-      "episodeNumber": 107,
-      "title": "Crimson Star Road",
-      "aired": "1997-03-14T19:00:00+09:00",
-      "airedDate": "1997-03-14T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/63/631526375eb914a4_w.webp",
-      "imageUrl": "https://simkl.in/episodes/63/631526375eb914a4_w.webp",
-      "description": null,
-      "title_es": "Camino de la estrella carmesí"
-    },
-    {
-      "episode": 108,
-      "episodeNumber": 108,
-      "title": "The Brunhild Calls for Blood",
-      "aired": "1997-03-14T19:00:00+09:00",
-      "airedDate": "1997-03-14T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/63/631528cbc72938f7_w.webp",
-      "imageUrl": "https://simkl.in/episodes/63/631528cbc72938f7_w.webp",
-      "description": null,
-      "title_es": "Brunhild pide sangre"
-    },
-    {
-      "episode": 109,
-      "episodeNumber": 109,
-      "title": "The Dying Light of the Goldenlowe",
-      "aired": "1997-03-14T19:00:00+09:00",
-      "airedDate": "1997-03-14T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/63/6315306d974a8836_w.webp",
-      "imageUrl": "https://simkl.in/episodes/63/6315306d974a8836_w.webp",
-      "description": null,
-      "title_es": "La luz moribunda del Goldenlowe"
-    },
-    {
-      "episode": 110,
-      "episodeNumber": 110,
-      "title": "Seeing a Dream Through to the End",
-      "aired": "1997-03-14T19:00:00+09:00",
-      "airedDate": "1997-03-14T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/63/631532f6be5f4683_w.webp",
-      "imageUrl": "https://simkl.in/episodes/63/631532f6be5f4683_w.webp",
-      "description": null,
-      "title_es": "Ver un sueño hasta el final"
-    }
-  ],
-  "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1976/142016.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1976/142016l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1976/142016.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1976/142016l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1976/142016.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1976/142016l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1976/142016.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1976/142016l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1976/142016.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1976/142016l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1976/142016l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1976/142016l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1976/142016l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1976/142016l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1976/142016l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1976/142016l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1976/142016l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1976/142016l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1976/142016l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1976/142016l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1976/142016l.webp"
     }
   },
   "broadcast": null,
   "rank": 11,
   "popularity": 756,
+  "rating": "r",
+  "simkl_id": 36927,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "title": "In the Eternal Night",
+      "title_es": "En la Noche Eterna",
+      "aired": "1988-12-21T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/23/2356563e85bb1e25_w.webp",
+      "description": null
+    },
+    {
+      "episode": 2,
+      "title": "The Battle of Astarte",
+      "title_es": "La Batalla de Astarté",
+      "aired": "1988-12-28T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/23/235658ad35debb00_w.webp",
+      "description": null
+    },
+    {
+      "episode": 3,
+      "title": "The Birth of the 13th Fleet",
+      "title_es": "El nacimiento de la 13ª Flota",
+      "aired": "1989-01-10T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/23/23566035a685a966_w.webp",
+      "description": null
+    },
+    {
+      "episode": 4,
+      "title": "The Afterglow of the Empire",
+      "title_es": "El resplandor del Imperio",
+      "aired": "1989-01-17T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/23/23566214298172a6_w.webp",
+      "description": null
+    },
+    {
+      "episode": 5,
+      "title": "The Castrop Uprising",
+      "title_es": "El levantamiento de Castrop",
+      "aired": "1997-03-14T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/23/23566429d2f555c9_w.webp",
+      "description": null
+    },
+    {
+      "episode": 6,
+      "title": "The Knights of the Rose",
+      "title_es": "Los Caballeros de la Rosa",
+      "aired": "1989-01-31T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/23/2356661bf86ba3ed_w.webp",
+      "description": null
+    },
+    {
+      "episode": 7,
+      "title": "Iserlohn Captured!",
+      "title_es": "¡Iserlohn capturado!",
+      "aired": "1989-02-07T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/23/2356685021b2434e_w.webp",
+      "description": null
+    },
+    {
+      "episode": 8,
+      "title": "Cold Cybernetic Eyes",
+      "title_es": "Ojos cibernéticos fríos",
+      "aired": "1989-02-14T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/23/23567060a4dccf4f_w.webp",
+      "description": null
+    },
+    {
+      "episode": 9,
+      "title": "The Klopstock Incident",
+      "title_es": "El incidente de Klopstock",
+      "aired": "1997-03-14T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/23/235672bb76f2d442_w.webp",
+      "description": null
+    },
+    {
+      "episode": 10,
+      "title": "Jessica's War",
+      "title_es": "La guerra de Jessica",
+      "aired": "1997-03-14T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/23/235674bb8cb9a8b4_w.webp",
+      "description": null
+    },
+    {
+      "episode": 11,
+      "title": "The Actress Exits",
+      "title_es": "La actriz sale",
+      "aired": "1989-03-07T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/23/235676287f1e294f_w.webp",
+      "description": null
+    },
+    {
+      "episode": 12,
+      "title": "The Invasion of the Empire",
+      "title_es": "La invasión del imperio",
+      "aired": "1997-03-14T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/23/235678d7a301c56d_w.webp",
+      "description": null
+    },
+    {
+      "episode": 13,
+      "title": "When the Sad Rains Come...",
+      "title_es": "Cuando llegan las lluvias tristes...",
+      "aired": "1989-03-21T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/23/23568075bdde6213_w.webp",
+      "description": null
+    },
+    {
+      "episode": 14,
+      "title": "The Liberation of the Frontier",
+      "title_es": "La liberación de la frontera",
+      "aired": "1989-03-28T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/23/2356828566c9ab16_w.webp",
+      "description": null
+    },
+    {
+      "episode": 15,
+      "title": "The Battle of Amritsar",
+      "title_es": "La batalla de Amritsar",
+      "aired": "1989-04-04T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/23/235684cd751397ca_w.webp",
+      "description": null
+    },
+    {
+      "episode": 16,
+      "title": "A New Tide",
+      "title_es": "Una nueva marea",
+      "aired": "1989-04-11T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/23/2356861c856df1d4_w.webp",
+      "description": null
+    },
+    {
+      "episode": 17,
+      "title": "Before the Storm",
+      "title_es": "Antes de la tormenta",
+      "aired": "1989-04-18T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/23/2356883fef51584e_w.webp",
+      "description": null
+    },
+    {
+      "episode": 18,
+      "title": "The Lippstadt Agreement",
+      "title_es": "El Acuerdo de Lippstadt",
+      "aired": "1989-04-25T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/23/23569058205a6f04_w.webp",
+      "description": null
+    },
+    {
+      "episode": 19,
+      "title": "The Yang Fleet Sallies Forth",
+      "title_es": "La Flota Yang avanza",
+      "aired": "1997-03-14T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/23/235692ac57054b99_w.webp",
+      "description": null
+    },
+    {
+      "episode": 20,
+      "title": "Heavens of Bloodshed",
+      "title_es": "Cielos de derramamiento de sangre",
+      "aired": "1989-05-09T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/23/235694303ddf0f8a_w.webp",
+      "description": null
+    },
+    {
+      "episode": 21,
+      "title": "The Battle of Doria, and Then...",
+      "title_es": "La batalla de Doria, y luego...",
+      "aired": "1997-03-14T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/23/23569637e3ba958e_w.webp",
+      "description": null
+    },
+    {
+      "episode": 22,
+      "title": "Courage & Loyalty",
+      "title_es": "Coraje y lealtad",
+      "aired": "1989-05-23T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/23/23569815f528f159_w.webp",
+      "description": null
+    },
+    {
+      "episode": 23,
+      "title": "The Fall of the Goldenbaum",
+      "title_es": "La caída del Goldenbaum",
+      "aired": "1989-05-30T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/23/235700abd9ca97fd_w.webp",
+      "description": null
+    },
+    {
+      "episode": 24,
+      "title": "Victory, for Whose Sake?",
+      "title_es": "Victoria, ¿por el bien de quién?",
+      "aired": "1997-03-14T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/23/2357022f188af456_w.webp",
+      "description": null
+    },
+    {
+      "episode": 25,
+      "title": "The Day Before Destiny",
+      "title_es": "El día antes del destino",
+      "aired": "1989-06-13T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/23/2357047e8ce814cf_w.webp",
+      "description": null
+    },
+    {
+      "episode": 26,
+      "title": "Farewell, Distant Days",
+      "title_es": "Adiós, días lejanos",
+      "aired": "1989-06-20T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/23/2357062434f07620_w.webp",
+      "description": null
+    },
+    {
+      "episode": 27,
+      "title": "First Battle",
+      "title_es": "Primera batalla",
+      "aired": "1991-06-21T19:00:00+09:00",
+      "thumbnail": null,
+      "description": null
+    },
+    {
+      "episode": 28,
+      "title": "Portrait",
+      "title_es": "Retrato",
+      "aired": "1991-06-25T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/63/63137202e2021444_w.webp",
+      "description": null
+    },
+    {
+      "episode": 29,
+      "title": "One Slender Thread",
+      "title_es": "Un hilo delgado",
+      "aired": "1997-03-14T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/63/631374be3bf530be_w.webp",
+      "description": null
+    },
+    {
+      "episode": 30,
+      "title": "Lost Things",
+      "title_es": "Cosas perdidas",
+      "aired": "1997-03-14T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/63/6313760e18719427_w.webp",
+      "description": null
+    },
+    {
+      "episode": 31,
+      "title": "The Inquiry",
+      "title_es": "La investigación",
+      "aired": "1997-03-14T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/63/631378331e8b6d52_w.webp",
+      "description": null
+    },
+    {
+      "episode": 32,
+      "title": "The Battle Without Arms",
+      "title_es": "La batalla sin armas",
+      "aired": "1997-03-14T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/63/6313806c0c555818_w.webp",
+      "description": null
+    },
+    {
+      "episode": 33,
+      "title": "Fortress vs Fortress",
+      "title_es": "Fortaleza contra Fortaleza",
+      "aired": "1997-03-14T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/63/631382834d03bd22_w.webp",
+      "description": null
+    },
+    {
+      "episode": 34,
+      "title": "The Return",
+      "title_es": "El regreso",
+      "aired": "1991-08-25T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/63/631384b04becf2fe_w.webp",
+      "description": null
+    },
+    {
+      "episode": 35,
+      "title": "Decisions & Ambitions",
+      "title_es": "Decisiones y ambiciones",
+      "aired": "1991-10-15T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/63/631386112efdf316_w.webp",
+      "description": null
+    },
+    {
+      "episode": 36,
+      "title": "Thunder",
+      "title_es": "Trueno",
+      "aired": "1997-03-14T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/63/631388241e8517f2_w.webp",
+      "description": null
+    },
+    {
+      "episode": 37,
+      "title": "The Abduction of the Child Kaiser",
+      "title_es": "El secuestro del niño Kaiser",
+      "aired": "1991-11-05T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/63/6313904be1487599_w.webp",
+      "description": null
+    },
+    {
+      "episode": 38,
+      "title": "The Arrow Is Loosed",
+      "title_es": "La flecha está suelta",
+      "aired": "1997-03-14T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/63/631392fbcb3dbe4a_w.webp",
+      "description": null
+    },
+    {
+      "episode": 39,
+      "title": "A Single Journey",
+      "title_es": "Un solo viaje",
+      "aired": "1997-03-14T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/63/631394684863a703_w.webp",
+      "description": null
+    },
+    {
+      "episode": 40,
+      "title": "Julian's Journey, Mankind's Journey",
+      "title_es": "El viaje de Julián, el viaje de la humanidad",
+      "aired": "1997-03-14T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/63/631396d08cd1998f_w.webp",
+      "description": null
+    },
+    {
+      "episode": 41,
+      "title": "Operation \"Ragnarok\"",
+      "title_es": "Operación \"Ragnarok\"",
+      "aired": "1991-11-25T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/63/631398163fb8bfdd_w.webp",
+      "description": null
+    },
+    {
+      "episode": 42,
+      "title": "Invitation to a Requiem",
+      "title_es": "Invitación a un Réquiem",
+      "aired": "1991-11-25T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/63/631400a4a6ce4073_w.webp",
+      "description": null
+    },
+    {
+      "episode": 43,
+      "title": "The Gjallarhorn Is Sounded",
+      "title_es": "Suena el Gjallarhorn",
+      "aired": "1997-03-14T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/63/63140231940bcfdd_w.webp",
+      "description": null
+    },
+    {
+      "episode": 44,
+      "title": "The Fezzan Occupation",
+      "title_es": "La ocupación de Fezzan",
+      "aired": "1997-03-14T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/63/6314047cb1ac0cf5_w.webp",
+      "description": null
+    },
+    {
+      "episode": 45,
+      "title": "The Cold Wave Arrives",
+      "title_es": "Llega la ola de frío",
+      "aired": "1997-03-14T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/63/631406e8b07b3262_w.webp",
+      "description": null
+    },
+    {
+      "episode": 46,
+      "title": "Admiral Yang's Ark Fleet",
+      "title_es": "Flota Arca del almirante Yang",
+      "aired": "1997-03-14T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/63/631408d67c8c2f1e_w.webp",
+      "description": null
+    },
+    {
+      "episode": 47,
+      "title": "Seeking a Free Universe",
+      "title_es": "Buscando un universo libre",
+      "aired": "1997-03-14T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/63/63141080938a9110_w.webp",
+      "description": null
+    },
+    {
+      "episode": 48,
+      "title": "The Double-Headed Serpent: Showdown at Rantemario",
+      "title_es": "La serpiente de dos cabezas: enfrentamiento en Rantemario",
+      "aired": "1992-01-14T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/63/6314124b5272f5cd_w.webp",
+      "description": null
+    },
+    {
+      "episode": 49,
+      "title": "It's Always Darkest...",
+      "title_es": "Siempre es más oscuro...",
+      "aired": "1997-03-14T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/63/63141438d506a509_w.webp",
+      "description": null
+    },
+    {
+      "episode": 50,
+      "title": "Consecutive Battles",
+      "title_es": "Batallas consecutivas",
+      "aired": "1992-01-28T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/63/631416b39c526ca6_w.webp",
+      "description": null
+    },
+    {
+      "episode": 51,
+      "title": "Mortal Combat at Vermillion (Part One)",
+      "title_es": "Combate mortal en Vermillion (Primera parte)",
+      "aired": "1992-02-12T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/63/631418f89e3dc20e_w.webp",
+      "description": null
+    },
+    {
+      "episode": 52,
+      "title": "Mortal Combat at Vermillion (Part Two)",
+      "title_es": "Combate mortal en Vermillion (Segunda parte)",
+      "aired": "1992-02-12T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/63/63142026d04b2c57_w.webp",
+      "description": null
+    },
+    {
+      "episode": 53,
+      "title": "A Sudden Turn",
+      "title_es": "Un giro repentino",
+      "aired": "1992-02-20T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/63/631422205e814a08_w.webp",
+      "description": null
+    },
+    {
+      "episode": 54,
+      "title": "Sieg Kaiser!",
+      "title_es": "¡Sieg Káiser!",
+      "aired": "1992-02-20T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/63/63142464d8cc5494_w.webp",
+      "description": null
+    },
+    {
+      "episode": 55,
+      "title": "After the Ceremony, the Curtain Rises Once Again...",
+      "title_es": "Después de la ceremonia, el telón se levanta una vez más...",
+      "aired": "1994-07-20T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/63/631426ed64549a76_w.webp",
+      "description": null
+    },
+    {
+      "episode": 56,
+      "title": "To Terra",
+      "title_es": "A Tierra",
+      "aired": "1997-03-14T19:00:00+09:00",
+      "thumbnail": null,
+      "description": null
+    },
+    {
+      "episode": 57,
+      "title": "The Kummel Incident",
+      "title_es": "El incidente de Kummel",
+      "aired": "1994-08-03T19:00:00+09:00",
+      "thumbnail": null,
+      "description": null
+    },
+    {
+      "episode": 58,
+      "title": "Visitors",
+      "title_es": "Visitantes",
+      "aired": "1994-08-10T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/63/6314287b7f937b10_w.webp",
+      "description": null
+    },
+    {
+      "episode": 59,
+      "title": "The Past, the Present & the Future",
+      "title_es": "El pasado, el presente y el futuro",
+      "aired": "1997-03-14T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/63/631430720575ea4e_w.webp",
+      "description": null
+    },
+    {
+      "episode": 60,
+      "title": "The Magician Is Captured",
+      "title_es": "El mago es capturado",
+      "aired": "1994-08-24T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/63/631432735b253f61_w.webp",
+      "description": null
+    },
+    {
+      "episode": 61,
+      "title": "Invitation to an Opera",
+      "title_es": "Invitación a una ópera",
+      "aired": "1997-03-14T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/63/631434a4a7377957_w.webp",
+      "description": null
+    },
+    {
+      "episode": 62,
+      "title": "A Cascade of Blood",
+      "title_es": "Una cascada de sangre",
+      "aired": "1997-03-14T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/63/63143659b80337ec_w.webp",
+      "description": null
+    },
+    {
+      "episode": 63,
+      "title": "The Holy Land",
+      "title_es": "Tierra Santa",
+      "aired": "1997-03-14T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/63/631438b21d048338_w.webp",
+      "description": null
+    },
+    {
+      "episode": 64,
+      "title": "The Holiday Is Done",
+      "title_es": "Se acabaron las vacaciones",
+      "aired": "1994-09-21T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/63/63144014ac9c851f_w.webp",
+      "description": null
+    },
+    {
+      "episode": 65,
+      "title": "Against All Flags",
+      "title_es": "Contra todas las banderas",
+      "aired": "1997-03-14T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/63/631442842c9b2d0d_w.webp",
+      "description": null
+    },
+    {
+      "episode": 66,
+      "title": "Under the Flag of the Goldenlowe",
+      "title_es": "Bajo la bandera del Goldenlowe",
+      "aired": "1994-10-10T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/63/6314445030307bf0_w.webp",
+      "description": null
+    },
+    {
+      "episode": 67,
+      "title": "Ragnarok Once More",
+      "title_es": "Ragnarok una vez más",
+      "aired": "1994-10-12T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/63/631446c879563e10_w.webp",
+      "description": null
+    },
+    {
+      "episode": 68,
+      "title": "To El Facil",
+      "title_es": "A El Fácil",
+      "aired": "1997-03-14T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/63/6314488b88310d9b_w.webp",
+      "description": null
+    },
+    {
+      "episode": 69,
+      "title": "The Mission to Retake Iserlohn",
+      "title_es": "La misión de retomar Iserlohn",
+      "aired": "1997-03-14T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/63/63145064e74864e3_w.webp",
+      "description": null
+    },
+    {
+      "episode": 70,
+      "title": "The Prodigal Sons Return",
+      "title_es": "El regreso de los hijos pródigos",
+      "aired": "1997-03-14T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/63/6314526233b3f3a8_w.webp",
+      "description": null
+    },
+    {
+      "episode": 71,
+      "title": "The Battle at Marr-Adetta Stellar Region (Part One)",
+      "title_es": "La batalla en la región estelar de Marr-Adetta (primera parte)",
+      "aired": "1997-03-14T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/63/631454cf26591a92_w.webp",
+      "description": null
+    },
+    {
+      "episode": 72,
+      "title": "The Battle at Marr-Adetta Stellar Region (Part Two)",
+      "title_es": "La batalla en la región estelar de Marr-Adetta (segunda parte)",
+      "aired": "1997-03-14T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/63/63145633fde23f1f_w.webp",
+      "description": null
+    },
+    {
+      "episode": 73,
+      "title": "The Winter Rose Garden Edict",
+      "title_es": "El edicto del jardín de rosas de invierno",
+      "aired": "1997-03-14T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/63/63145857fb3d9e32_w.webp",
+      "description": null
+    },
+    {
+      "episode": 74,
+      "title": "The Long Road Ahead",
+      "title_es": "El largo camino por delante",
+      "aired": "1997-03-14T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/63/631460aa4383ad30_w.webp",
+      "description": null
+    },
+    {
+      "episode": 75,
+      "title": "Rolling Thunder",
+      "title_es": "Trueno rodante",
+      "aired": "1994-12-07T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/63/6314628b3a65e03a_w.webp",
+      "description": null
+    },
+    {
+      "episode": 76,
+      "title": "Before the Festival",
+      "title_es": "Antes del Festival",
+      "aired": "1997-03-14T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/63/631464c221566391_w.webp",
+      "description": null
+    },
+    {
+      "episode": 77,
+      "title": "The Wind Blows Towards the Corridor",
+      "title_es": "El viento sopla hacia el corredor",
+      "aired": "1997-03-14T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/63/631466e895ed2fb2_w.webp",
+      "description": null
+    },
+    {
+      "episode": 78,
+      "title": "Spring Storm",
+      "title_es": "Tormenta de primavera",
+      "aired": "1997-03-14T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/63/631468a2867ca190_w.webp",
+      "description": null
+    },
+    {
+      "episode": 79,
+      "title": "The Battle of the Corridor (Part One): The Invincible & the Undefeated",
+      "title_es": "La batalla del corredor (primera parte): los invencibles y los invictos",
+      "aired": "1997-03-14T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/63/6314706b89f47b29_w.webp",
+      "description": null
+    },
+    {
+      "episode": 80,
+      "title": "The Battle of the Corridor (Part Two): Kaleidoscope",
+      "title_es": "La batalla del corredor (segunda parte): caleidoscopio",
+      "aired": "1997-03-14T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/63/6314729f09c7b60c_w.webp",
+      "description": null
+    },
+    {
+      "episode": 81,
+      "title": "The Battle of the Corridor (Part Three): The End of the Great Campaign",
+      "title_es": "La Batalla del Corredor (Tercera Parte): El Fin de la Gran Campaña",
+      "aired": "1997-03-14T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/63/631474f3602a3e78_w.webp",
+      "description": null
+    },
+    {
+      "episode": 82,
+      "title": "The Magician Never Returns",
+      "title_es": "El mago nunca regresa",
+      "aired": "1995-01-25T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/63/631476004bda28da_w.webp",
+      "description": null
+    },
+    {
+      "episode": 83,
+      "title": "After the Festival",
+      "title_es": "Después del Festival",
+      "aired": "1997-03-14T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/63/631478ebc1bed348_w.webp",
+      "description": null
+    },
+    {
+      "episode": 84,
+      "title": "A Disappointing Triumph",
+      "title_es": "Un triunfo decepcionante",
+      "aired": "1997-03-14T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/63/6314806e3400add6_w.webp",
+      "description": null
+    },
+    {
+      "episode": 85,
+      "title": "The Order to Transfer the Capital",
+      "title_es": "La Orden de Transferencia del Capital",
+      "aired": "1995-02-15T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/63/63148253c8acccd9_w.webp",
+      "description": null
+    },
+    {
+      "episode": 86,
+      "title": "New Government in August",
+      "title_es": "Nuevo gobierno en agosto",
+      "aired": "1995-01-16T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/63/631484020676e888_w.webp",
+      "description": null
+    },
+    {
+      "episode": 87,
+      "title": "Premonition of a Storm",
+      "title_es": "Premonición de tormenta",
+      "aired": "1997-03-14T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/63/631486334ea8c224_w.webp",
+      "description": null
+    },
+    {
+      "episode": 88,
+      "title": "On the Frontier",
+      "title_es": "En la frontera",
+      "aired": "1997-03-14T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/63/6314880b819ad8b1_w.webp",
+      "description": null
+    },
+    {
+      "episode": 89,
+      "title": "The Last Roses of Summer",
+      "title_es": "Las últimas rosas del verano",
+      "aired": "1996-10-18T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/63/63149011f2ce262e_w.webp",
+      "description": null
+    },
+    {
+      "episode": 90,
+      "title": "Rumbling",
+      "title_es": "Retumbar",
+      "aired": "1997-03-14T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/63/631492f26e650702_w.webp",
+      "description": null
+    },
+    {
+      "episode": 91,
+      "title": "Germination",
+      "title_es": "Germinación",
+      "aired": "1996-11-18T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/63/631494c38346558d_w.webp",
+      "description": null
+    },
+    {
+      "episode": 92,
+      "title": "The Urvashi Incident",
+      "title_es": "El incidente de Urvashi",
+      "aired": "1997-03-14T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/63/631496e1d5375d5a_w.webp",
+      "description": null
+    },
+    {
+      "episode": 93,
+      "title": "In the Name of Pride",
+      "title_es": "En nombre del orgullo",
+      "aired": "1997-03-14T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/63/6314981edee5ec5a_w.webp",
+      "description": null
+    },
+    {
+      "episode": 94,
+      "title": "Rebellion Is a Hero's Privilege",
+      "title_es": "La rebelión es el privilegio de un héroe",
+      "aired": "1996-11-18T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/63/631500534133d4f5_w.webp",
+      "description": null
+    },
+    {
+      "episode": 95,
+      "title": "Clash of the Twin Jewels!",
+      "title_es": "¡Choque de las Joyas Gemelas!",
+      "aired": "1997-03-14T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/63/631502f09f81dca9_w.webp",
+      "description": null
+    },
+    {
+      "episode": 96,
+      "title": "To Live by the Sword...",
+      "title_es": "Vivir por la espada...",
+      "aired": "1997-03-14T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/63/6315049df8c67929_w.webp",
+      "description": null
+    },
+    {
+      "episode": 97,
+      "title": "To Die by the Sword",
+      "title_es": "Morir por la espada",
+      "aired": "1997-03-14T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/63/6315066685e37072_w.webp",
+      "description": null
+    },
+    {
+      "episode": 98,
+      "title": "The Endless Requiem",
+      "title_es": "El Réquiem sin fin",
+      "aired": "1996-12-09T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/63/631508e6987ea45b_w.webp",
+      "description": null
+    },
+    {
+      "episode": 99,
+      "title": "Approach to the Future",
+      "title_es": "Enfoque hacia el futuro",
+      "aired": "1997-03-14T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/63/631510cd10c1bf04_w.webp",
+      "description": null
+    },
+    {
+      "episode": 100,
+      "title": "Hoch Kaiserin!",
+      "title_es": "¡Hoch Kaiserin!",
+      "aired": "1996-12-18T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/63/63151232fe0875ac_w.webp",
+      "description": null
+    },
+    {
+      "episode": 101,
+      "title": "Invitation to Upheaval",
+      "title_es": "Invitación a la agitación",
+      "aired": "1997-03-14T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/63/6315141ebcab24dd_w.webp",
+      "description": null
+    },
+    {
+      "episode": 102,
+      "title": "Daring to Take Up Arms",
+      "title_es": "Atreverse a tomar las armas",
+      "aired": "1997-03-14T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/63/631516bdc14134a9_w.webp",
+      "description": null
+    },
+    {
+      "episode": 103,
+      "title": "Cosmic Mosaic",
+      "title_es": "Mosaico Cósmico",
+      "aired": "1997-01-28T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/63/631518ca642031c2_w.webp",
+      "description": null
+    },
+    {
+      "episode": 104,
+      "title": "Towards Peace, Via Bloodshed",
+      "title_es": "Hacia la paz, a través del derramamiento de sangre",
+      "aired": "1997-01-28T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/63/631520719a17e73a_w.webp",
+      "description": null
+    },
+    {
+      "episode": 105,
+      "title": "Planet in Turmoil",
+      "title_es": "Planeta en agitación",
+      "aired": "1997-01-28T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/63/63152265b1015f74_w.webp",
+      "description": null
+    },
+    {
+      "episode": 106,
+      "title": "The Stehibalm Schlossbrand",
+      "title_es": "El Stehibalm Schlossbrand",
+      "aired": "1997-03-14T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/63/631524466515292c_w.webp",
+      "description": null
+    },
+    {
+      "episode": 107,
+      "title": "Crimson Star Road",
+      "title_es": "Camino de la estrella carmesí",
+      "aired": "1997-03-14T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/63/631526375eb914a4_w.webp",
+      "description": null
+    },
+    {
+      "episode": 108,
+      "title": "The Brunhild Calls for Blood",
+      "title_es": "Brunhild pide sangre",
+      "aired": "1997-03-14T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/63/631528cbc72938f7_w.webp",
+      "description": null
+    },
+    {
+      "episode": 109,
+      "title": "The Dying Light of the Goldenlowe",
+      "title_es": "La luz moribunda del Goldenlowe",
+      "aired": "1997-03-14T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/63/6315306d974a8836_w.webp",
+      "description": null
+    },
+    {
+      "episode": 110,
+      "title": "Seeing a Dream Through to the End",
+      "title_es": "Ver un sueño hasta el final",
+      "aired": "1997-03-14T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/63/631532f6be5f4683_w.webp",
+      "description": null
+    }
+  ],
+  "specials_data": [],
+  "characters": [],
   "num_scoring_users": 89958,
   "nsfw": "white",
   "created_at": null,
   "updated_at": null,
   "source": "novel",
-  "rating": "r",
   "background": "Legend of the Galactic Heroes was adapted from a series of ten novels, published 1982–87, by Yoshiki Tanaka. The novels won the Seiun Award for the best long-form Japanese science fiction in 1988.\n\nAt the start of its production the anime was distributed through a subscription system in which episodes were mailed to existing fans of the novels. It was made in four separate tranches over nearly a decade, with the production of side-stories continuing for several further years. The main series has the largest voice cast of any anime, with well over 300 voice actors, and it is the longest OVA series ever made.\n\nThe novels have also been adapted into a manga, a stage musical by the Takarazuka Revue and a number of games.",
   "related_anime": [
     {
@@ -1556,8 +1217,5 @@
       "plan_to_watch": "215358"
     },
     "num_list_users": 372136
-  },
-  "mal_details_updated_at": "2026-11-10T01:37:50.712Z",
-  "synopsis_es": "El estancamiento de 150 años entre las dos superpotencias interestelares, el Imperio Galáctico y la Alianza de Planetas Libres, llega a su fin cuando surge una nueva generación de líderes: el genio militar idealista Reinhard von Lohengramm y el reservado historiador de la FPA, Yang Wenli.\n\nMientras Reinhard asciende en las filas del Imperio con la ayuda de su amigo de la infancia, Siegfried Kircheis, debe luchar no sólo en la guerra, sino también contra los restos de la desmoronada dinastía Goldenbaum para liberar a su hermana del Kaiser y unificar a la humanidad bajo un gobernante genuino. Mientras tanto, al otro lado de la galaxia, Yang, un firme partidario de los ideales democráticos, tiene que mantenerse firme en sus creencias, a pesar de las luchas del FPA, y mostrarle a su alumno, Julian Mintz, que la autocracia no es la solución.\n\nMientras las ideologías chocan en medio de las muchas víctimas de la guerra, los dos autores intelectuales estratégicos deben preguntarse cuál es la verdadera razón detrás de su batalla.\n\n[Escrito por MAL Rewrite]",
-  "translations_updated_at": "2026-11-15T13:07:31.296Z"
+  }
 }

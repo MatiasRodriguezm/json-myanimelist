@@ -12,6 +12,7 @@
     "ja": "赤ずきん、旅の途中で死体と出会う。"
   },
   "synopsis": "The fairytale of Little Red Riding Hood is as classic as they come, a familiar delivery of cookies and wine. But on this particular journey, Little Red Riding Hood... encounters a dead body?! As the mystery begins to unfold, familiar faces from other fairytales such as \"Cinderella,\" \"Hansel and Gretel,\" and \"Sleeping Beauty\" bring their own countless twists and tricks. Will she be able to solve the larger puzzle at the center of it all? A new detective is born!\n\n(Source: MAL News)",
+  "synopsis_es": "El cuento de hadas de Caperucita Roja es tan clásico como parece, una entrega familiar de galletas y vino. Pero en este viaje en particular, Caperucita Roja... ¡¿se encuentra con un cadáver?! A medida que el misterio comienza a revelarse, rostros familiares de otros cuentos de hadas como \"Cenicienta\", \"Hansel y Gretel\" y \"La Bella Durmiente\" aportan sus innumerables giros y trucos. ¿Podrá resolver el rompecabezas más grande que está en el centro de todo? ¡Ha nacido un nuevo detective!\n\n(Fuente: Noticias MAL)",
   "type": "TV",
   "media_type": "tv",
   "status": "not_yet_aired",
@@ -58,56 +59,43 @@
   "logo_url": null,
   "tmdb_id": null,
   "tmdb_updated_at": "2026-11-15T13:05:31.233Z",
-  "simkl_id": 3212352,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "episodeNumber": 1,
-      "title": "Episode 1",
-      "aired": "2027-01-01T00:00:00+09:00",
-      "airedDate": "2027-01-01T00:00:00+09:00",
-      "thumbnail": null,
-      "imageUrl": null,
-      "description": null,
-      "title_es": "Episodio 1"
-    }
-  ],
-  "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1329/160410.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1329/160410l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1329/160410.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1329/160410l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1329/160410.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1329/160410l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1329/160410.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1329/160410l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1329/160410.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1329/160410l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1329/160410l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1329/160410l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1329/160410l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1329/160410l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1329/160410l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1329/160410l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1329/160410l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1329/160410l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1329/160410l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1329/160410l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1329/160410l.webp"
     }
   },
   "broadcast": null,
   "rank": null,
   "popularity": 12949,
+  "rating": null,
+  "simkl_id": 3212352,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "title": "Episode 1",
+      "title_es": "Episodio 1",
+      "aired": "2027-01-01T00:00:00+09:00",
+      "thumbnail": null,
+      "description": null
+    }
+  ],
+  "specials_data": [],
+  "characters": [],
   "num_scoring_users": null,
   "nsfw": "white",
   "created_at": null,
   "updated_at": null,
   "source": "novel",
-  "rating": null,
   "background": null,
   "related_anime": [],
   "related_manga": [],
@@ -121,8 +109,5 @@
       "plan_to_watch": "2022"
     },
     "num_list_users": 2024
-  },
-  "mal_details_updated_at": "2026-11-15T01:58:37.755Z",
-  "synopsis_es": "El cuento de hadas de Caperucita Roja es tan clásico como parece, una entrega familiar de galletas y vino. Pero en este viaje en particular, Caperucita Roja... ¡¿se encuentra con un cadáver?! A medida que el misterio comienza a revelarse, rostros familiares de otros cuentos de hadas como \"Cenicienta\", \"Hansel y Gretel\" y \"La Bella Durmiente\" aportan sus innumerables giros y trucos. ¿Podrá resolver el rompecabezas más grande que está en el centro de todo? ¡Ha nacido un nuevo detective!\n\n(Fuente: Noticias MAL)",
-  "translations_updated_at": "2026-11-15T13:13:20.096Z"
+  }
 }

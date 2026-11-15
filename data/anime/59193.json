@@ -10,6 +10,7 @@
     "ja": "無職転生 III ～異世界行ったら本気だす～"
   },
   "synopsis": "Third season of Mushoku Tensei: Isekai Ittara Honki Dasu.",
+  "synopsis_es": "Tercera temporada de Mushoku Tensei: Isekai Ittara Honki Dasu.",
   "type": "TV",
   "media_type": "tv",
   "status": "finished_airing",
@@ -63,24 +64,15 @@
       "name": "Studio Bind"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1723/154941l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1441/158090l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1527/158340l.jpg"
-  ],
+  "pictures": [],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
   "tmdb_updated_at": null,
-  "simkl_id": null,
-  "episodes_data": [],
-  "specials_data": [],
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1527/158340.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1527/158340l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1527/158340.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1527/158340l.webp"
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1527/158340l.webp"
     }
   },
   "main_picture": {
@@ -89,16 +81,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1723/154941l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1723/154941l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1723/154941l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1723/154941l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1723/154941l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1723/154941l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1723/154941l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1723/154941l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1723/154941l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1723/154941l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1527/158340l.webp"
     }
   },
   "broadcast": {
@@ -111,12 +94,16 @@
   },
   "rank": 87,
   "popularity": 735,
+  "rating": "r",
+  "simkl_id": null,
+  "episodes_data": [],
+  "specials_data": [],
+  "characters": [],
   "num_scoring_users": 166979,
   "nsfw": "white",
   "created_at": "2024-06-30T15:35:16+00:00",
   "updated_at": "2026-08-17T14:15:40+00:00",
   "source": "light_novel",
-  "rating": "r",
   "background": null,
   "related_anime": [
     {
@@ -167,7 +154,5 @@
       "plan_to_watch": "124726"
     },
     "num_list_users": 384362
-  },
-  "synopsis_es": "Tercera temporada de Mushoku Tensei: Isekai Ittara Honki Dasu.",
-  "translations_updated_at": "2026-11-15T02:28:15.097Z"
+  }
 }

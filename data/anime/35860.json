@@ -12,6 +12,7 @@
     "ja": "からかい上手の高木さん"
   },
   "synopsis": "Having a friend that knows you inside out should be a good thing, but in Nishikata's case, the opposite is true.\n\nHis classmate Takagi loves to tease him on a daily basis, and she uses her extensive knowledge of his behavior to predict exactly how he will react to her teasing, making it nearly impossible for Nishikata to ever make a successful comeback. Despite this, Nishikata vows to someday give Takagi a taste of her own medicine by making her blush out of embarrassment from his teasing.\n\n[Written by MAL Rewrite]\n",
+  "synopsis_es": "Tener un amigo que te conozca al dedillo debería ser algo bueno, pero en el caso de Nishikata, es todo lo contrario.\n\nA su compañera de clase Takagi le encanta burlarse de él a diario y utiliza su amplio conocimiento de su comportamiento para predecir exactamente cómo reaccionará ante sus burlas, lo que hace casi imposible que Nishikata pueda regresar con éxito. A pesar de esto, Nishikata promete algún día darle a Takagi una muestra de su propia medicina haciéndola sonrojar por la vergüenza de sus burlas.\n\n[Escrito por MAL Rewrite]",
   "type": "TV",
   "media_type": "tv",
   "status": "finished_airing",
@@ -61,43 +62,24 @@
       "name": "Shin-Ei Animation"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/12/89988l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1591/95091l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1932/102166l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1941/107041l.jpg"
-  ],
+  "pictures": [],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
   "tmdb_updated_at": null,
-  "simkl_id": null,
-  "episodes_data": [],
-  "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1591/95091.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1591/95091l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1591/95091.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1591/95091l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1591/95091.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1591/95091l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1591/95091.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1591/95091l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1591/95091.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1591/95091l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/12/89988l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/12/89988l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/12/89988l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/12/89988l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/89988l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/12/89988l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/12/89988l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/12/89988l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/89988l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/12/89988l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1591/95091l.webp"
     }
   },
   "broadcast": {
@@ -110,12 +92,16 @@
   },
   "rank": 1558,
   "popularity": 391,
+  "rating": "pg_13",
+  "simkl_id": null,
+  "episodes_data": [],
+  "specials_data": [],
+  "characters": [],
   "num_scoring_users": 321911,
   "nsfw": "white",
   "created_at": "2017-07-07T08:39:33+00:00",
   "updated_at": "2025-04-18T16:42:33+00:00",
   "source": "manga",
-  "rating": "pg_13",
   "background": null,
   "related_anime": [
     {
@@ -265,7 +251,5 @@
       "plan_to_watch": "163277"
     },
     "num_list_users": 649055
-  },
-  "synopsis_es": "Tener un amigo que te conozca al dedillo debería ser algo bueno, pero en el caso de Nishikata, es todo lo contrario.\n\nA su compañera de clase Takagi le encanta burlarse de él a diario y utiliza su amplio conocimiento de su comportamiento para predecir exactamente cómo reaccionará ante sus burlas, lo que hace casi imposible que Nishikata pueda regresar con éxito. A pesar de esto, Nishikata promete algún día darle a Takagi una muestra de su propia medicina haciéndola sonrojar por la vergüenza de sus burlas.\n\n[Escrito por MAL Rewrite]",
-  "translations_updated_at": "2026-11-15T02:25:27.195Z"
+  }
 }

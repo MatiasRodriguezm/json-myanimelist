@@ -10,6 +10,7 @@
     "ja": "BanG Dream! It's MyGO!!!!! BanG Dream! Ave Mujica 続編"
   },
   "synopsis": "Sequel to BanG Dream! Ave Mujica and BanG Dream! It's MyGO!!!!!.",
+  "synopsis_es": "Secuela de BanG Dream! Ave Mujica y BanG Dream! ¡¡¡Es MyGO!!!!!.",
   "type": "TV",
   "media_type": "tv",
   "status": "not_yet_aired",
@@ -47,45 +48,19 @@
   "logo_url": null,
   "tmdb_id": null,
   "tmdb_updated_at": "2026-11-15T13:05:19.767Z",
-  "simkl_id": 3036336,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "episodeNumber": 1,
-      "title": "Episode 1",
-      "aired": "2027-01-08T23:30:00+09:00",
-      "airedDate": "2027-01-08T23:30:00+09:00",
-      "thumbnail": null,
-      "imageUrl": null,
-      "description": null,
-      "title_es": "Episodio 1"
-    }
-  ],
-  "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1278/155747.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1278/155747l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1278/155747.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1278/155747l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1278/155747.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1278/155747l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1278/155747.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1278/155747l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1278/155747.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1278/155747l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1278/155747l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1278/155747l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1278/155747l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1278/155747l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1278/155747l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1278/155747l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1278/155747l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1278/155747l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1278/155747l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1278/155747l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1278/155747l.webp"
     }
   },
   "broadcast": {
@@ -98,12 +73,25 @@
   },
   "rank": null,
   "popularity": 8189,
+  "rating": "pg_13",
+  "simkl_id": 3036336,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "title": "Episode 1",
+      "title_es": "Episodio 1",
+      "aired": "2027-01-08T23:30:00+09:00",
+      "thumbnail": null,
+      "description": null
+    }
+  ],
+  "specials_data": [],
+  "characters": [],
   "num_scoring_users": null,
   "nsfw": "white",
   "created_at": null,
   "updated_at": null,
   "source": "mixed_media",
-  "rating": "pg_13",
   "background": "BanG Dream! MyGO!!!!! / Ave Mujica aired on Nippon TV's Friday Anime Night block.",
   "related_anime": [
     {
@@ -130,8 +118,5 @@
       "plan_to_watch": "7923"
     },
     "num_list_users": 7923
-  },
-  "mal_details_updated_at": "2026-11-15T01:58:16.848Z",
-  "synopsis_es": "Secuela de BanG Dream! Ave Mujica y BanG Dream! ¡¡¡Es MyGO!!!!!.",
-  "translations_updated_at": "2026-11-15T13:11:16.012Z"
+  }
 }

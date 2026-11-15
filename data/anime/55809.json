@@ -12,6 +12,7 @@
     "ja": "仙逆"
   },
   "synopsis": "Wang Lin is a very smart boy with loving parents. Although he and his parents are shunned by the rest of their relatives, his parents have always held high hopes that he will one day achieve greatness. One day, Wang Lin suddenly gained the chance to walk the path of an immortal but found that he only had mediocre talent at best. Watch Wang Lin as he breaks through his lack of talent and walks the path towards becoming a real immortal!\n\n(Source: Xian Ni Wiki)",
+  "synopsis_es": "Wang Lin es un niño muy inteligente con padres amorosos. Aunque él y sus padres son rechazados por el resto de sus familiares, sus padres siempre han tenido grandes esperanzas de que algún día alcance la grandeza. Un día, Wang Lin de repente tuvo la oportunidad de recorrer el camino de un inmortal, pero descubrió que, en el mejor de los casos, solo tenía un talento mediocre. ¡Observa a Wang Lin mientras supera su falta de talento y recorre el camino para convertirse en un verdadero inmortal!\n\n(Fuente: Xian Ni Wiki)",
   "type": "ONA",
   "media_type": "ona",
   "status": "currently_airing",
@@ -61,34 +62,15 @@
       "name": "BUILD DREAM"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1542/136768l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1217/137730l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1817/137833l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1153/149706l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1828/149707l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1289/149708l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1394/149709l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1283/151411l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1979/153424l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1954/153864l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1945/153865l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1705/154564l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1497/154691l.jpg"
-  ],
+  "pictures": [],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
   "tmdb_updated_at": null,
-  "simkl_id": null,
-  "episodes_data": [],
-  "specials_data": [],
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1289/149708.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1289/149708l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1289/149708.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1289/149708l.webp"
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1289/149708l.webp"
     }
   },
   "main_picture": {
@@ -97,27 +79,22 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1542/136768l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1542/136768l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1542/136768l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1542/136768l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1542/136768l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1542/136768l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1542/136768l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1542/136768l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1542/136768l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1542/136768l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1289/149708l.webp"
     }
   },
   "broadcast": null,
   "rank": 182,
   "popularity": 6614,
+  "rating": "pg_13",
+  "simkl_id": null,
+  "episodes_data": [],
+  "specials_data": [],
+  "characters": [],
   "num_scoring_users": 3595,
   "nsfw": "white",
   "created_at": "2023-06-30T13:34:11+00:00",
   "updated_at": "2026-09-17T19:37:12+00:00",
   "source": "web_novel",
-  "rating": "pg_13",
   "background": null,
   "related_anime": [
     {
@@ -216,7 +193,5 @@
       "plan_to_watch": "4517"
     },
     "num_list_users": 13338
-  },
-  "synopsis_es": "Wang Lin es un niño muy inteligente con padres amorosos. Aunque él y sus padres son rechazados por el resto de sus familiares, sus padres siempre han tenido grandes esperanzas de que algún día alcance la grandeza. Un día, Wang Lin de repente tuvo la oportunidad de recorrer el camino de un inmortal, pero descubrió que, en el mejor de los casos, solo tenía un talento mediocre. ¡Observa a Wang Lin mientras supera su falta de talento y recorre el camino para convertirse en un verdadero inmortal!\n\n(Fuente: Xian Ni Wiki)",
-  "translations_updated_at": "2026-11-15T02:29:04.199Z"
+  }
 }

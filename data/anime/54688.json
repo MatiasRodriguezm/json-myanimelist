@@ -10,6 +10,7 @@
     "ja": "NARUTO-ナルト-×NINKU-忍空-"
   },
   "synopsis": "A new anime project in celebration of Naruto's 20th anniversary.",
+  "synopsis_es": "Un nuevo proyecto de anime para celebrar el 20 aniversario de Naruto.",
   "type": "TV",
   "media_type": "tv",
   "status": "not_yet_aired",
@@ -56,89 +57,67 @@
   "logo_url": null,
   "tmdb_id": null,
   "tmdb_updated_at": "2026-11-15T13:05:52.261Z",
-  "simkl_id": 2114824,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "episodeNumber": 1,
-      "title": "Episode 1",
-      "aired": null,
-      "airedDate": null,
-      "thumbnail": null,
-      "imageUrl": null,
-      "description": null,
-      "title_es": "Episodio 1"
-    },
-    {
-      "episode": 2,
-      "episodeNumber": 2,
-      "title": "Episode 2",
-      "aired": null,
-      "airedDate": null,
-      "thumbnail": null,
-      "imageUrl": null,
-      "description": null,
-      "title_es": "Episodio 2"
-    },
-    {
-      "episode": 3,
-      "episodeNumber": 3,
-      "title": "Episode 3",
-      "aired": null,
-      "airedDate": null,
-      "thumbnail": null,
-      "imageUrl": null,
-      "description": null,
-      "title_es": "Episodio 3"
-    },
-    {
-      "episode": 4,
-      "episodeNumber": 4,
-      "title": "Episode 4",
-      "aired": null,
-      "airedDate": null,
-      "thumbnail": null,
-      "imageUrl": null,
-      "description": null,
-      "title_es": "Episodio 4"
-    }
-  ],
-  "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1512/160510.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1512/160510l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1512/160510.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1512/160510l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1512/160510.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1512/160510l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1512/160510.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1512/160510l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1512/160510.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1512/160510l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1512/160510l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1512/160510l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1512/160510l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1512/160510l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1512/160510l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1512/160510l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1512/160510l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1512/160510l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1512/160510l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1512/160510l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1512/160510l.webp"
     }
   },
   "broadcast": null,
   "rank": null,
   "popularity": 4057,
+  "rating": "pg_13",
+  "simkl_id": 2114824,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "title": "Episode 1",
+      "title_es": "Episodio 1",
+      "aired": null,
+      "thumbnail": null,
+      "description": null
+    },
+    {
+      "episode": 2,
+      "title": "Episode 2",
+      "title_es": "Episodio 2",
+      "aired": null,
+      "thumbnail": null,
+      "description": null
+    },
+    {
+      "episode": 3,
+      "title": "Episode 3",
+      "title_es": "Episodio 3",
+      "aired": null,
+      "thumbnail": null,
+      "description": null
+    },
+    {
+      "episode": 4,
+      "title": "Episode 4",
+      "title_es": "Episodio 4",
+      "aired": null,
+      "thumbnail": null,
+      "description": null
+    }
+  ],
+  "specials_data": [],
+  "characters": [],
   "num_scoring_users": null,
   "nsfw": "white",
   "created_at": null,
   "updated_at": null,
   "source": "manga",
-  "rating": "pg_13",
   "background": null,
   "related_anime": [
     {
@@ -177,8 +156,5 @@
       "plan_to_watch": "43271"
     },
     "num_list_users": 43274
-  },
-  "mal_details_updated_at": "2026-11-15T01:31:43.324Z",
-  "synopsis_es": "Un nuevo proyecto de anime para celebrar el 20 aniversario de Naruto.",
-  "translations_updated_at": "2026-11-15T13:10:30.761Z"
+  }
 }

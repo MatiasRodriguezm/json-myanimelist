@@ -10,6 +10,7 @@
     "ja": "ヤンキーハムスター！"
   },
   "synopsis": "A new season of Yankee Hamster.",
+  "synopsis_es": "Una nueva temporada de Yankee Hamster.",
   "type": "ONA",
   "media_type": "ona",
   "status": "currently_airing",
@@ -56,44 +57,34 @@
   "logo_url": null,
   "tmdb_id": null,
   "tmdb_updated_at": "2026-11-15T13:05:00.930Z",
-  "simkl_id": null,
-  "episodes_data": [],
-  "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1326/160763.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1326/160763l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1326/160763.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1326/160763l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1326/160763.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1326/160763l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1326/160763.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1326/160763l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1326/160763.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1326/160763l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1326/160763l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1326/160763l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1326/160763l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1326/160763l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1326/160763l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1326/160763l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1326/160763l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1326/160763l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1326/160763l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1326/160763l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1326/160763l.webp"
     }
   },
   "broadcast": null,
   "rank": 22587,
   "popularity": 30192,
+  "rating": "pg_13",
+  "simkl_id": null,
+  "episodes_data": [],
+  "specials_data": [],
+  "characters": [],
   "num_scoring_users": 4,
   "nsfw": "white",
   "created_at": null,
   "updated_at": null,
   "source": "original",
-  "rating": "pg_13",
   "background": null,
   "related_anime": [
     {
@@ -120,8 +111,5 @@
       "plan_to_watch": "47"
     },
     "num_list_users": 85
-  },
-  "mal_details_updated_at": "2026-11-15T01:57:48.788Z",
-  "synopsis_es": "Una nueva temporada de Yankee Hamster.",
-  "translations_updated_at": "2026-11-15T13:13:50.083Z"
+  }
 }

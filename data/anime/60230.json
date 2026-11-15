@@ -10,6 +10,7 @@
     "ja": "機動戦士ガンダムSEED FREEDOM ZERO"
   },
   "synopsis": "Prequel project for Kidou Senshi Gundam SEED Freedom.",
+  "synopsis_es": "Proyecto precuela de Kidou Senshi Gundam SEED Freedom.",
   "type": "Movie",
   "media_type": "movie",
   "status": "not_yet_aired",
@@ -59,56 +60,43 @@
   "logo_url": null,
   "tmdb_id": null,
   "tmdb_updated_at": "2026-11-15T13:05:27.390Z",
-  "simkl_id": 2625628,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "episodeNumber": 1,
-      "title": "Complete Movie",
-      "aired": "2027-01-15T00:00:00+09:00",
-      "airedDate": "2027-01-15T00:00:00+09:00",
-      "thumbnail": null,
-      "imageUrl": null,
-      "description": null,
-      "title_es": "Película completa"
-    }
-  ],
-  "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1255/160461.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1255/160461l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1255/160461.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1255/160461l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1255/160461.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1255/160461l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1255/160461.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1255/160461l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1255/160461.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1255/160461l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1255/160461l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1255/160461l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1255/160461l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1255/160461l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1255/160461l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1255/160461l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1255/160461l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1255/160461l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1255/160461l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1255/160461l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1255/160461l.webp"
     }
   },
   "broadcast": null,
   "rank": null,
   "popularity": 10768,
+  "rating": "r",
+  "simkl_id": 2625628,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "title": "Complete Movie",
+      "title_es": "Película completa",
+      "aired": "2027-01-15T00:00:00+09:00",
+      "thumbnail": null,
+      "description": null
+    }
+  ],
+  "specials_data": [],
+  "characters": [],
   "num_scoring_users": null,
   "nsfw": "white",
   "created_at": null,
   "updated_at": null,
   "source": "original",
-  "rating": "r",
   "background": null,
   "related_anime": [
     {
@@ -147,8 +135,5 @@
       "plan_to_watch": "3715"
     },
     "num_list_users": 3715
-  },
-  "mal_details_updated_at": "2026-11-15T01:58:30.481Z",
-  "synopsis_es": "Proyecto precuela de Kidou Senshi Gundam SEED Freedom.",
-  "translations_updated_at": "2026-11-15T13:10:57.090Z"
+  }
 }

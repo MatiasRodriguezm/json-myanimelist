@@ -1,22 +1,35 @@
 import { toDisplayMediaType } from "./constants.js";
 
 /**
- * Mapea un nodo de MyAnimeList al modelo que espera la app Android TV (AnimeSummary)
- * y además conserva los campos nativos de MalAnime para compatibilidad 100% con ambos modelos.
+ * Convierte URLs de imágenes de cdn.myanimelist.net a formato WebP.
+ * WebP en el CDN de MAL reduce el peso de transferencia en un ~72% con la misma resolución.
  */
-export function toAnimeSummary(node) {
+export function toWebpUrl(url) {
+  if (!url || typeof url !== "string") return url;
+  if (url.includes("cdn.myanimelist.net")) {
+    return url.replace(/\.(jpg|jpeg|png)$/i, ".webp");
+  }
+  return url;
+}
+
+/**
+ * Mapea un nodo de MyAnimeList al modelo que espera la app Android TV (AnimeSummary).
+ * Si isFeed = true, omite listas profundas vacías para mantener home.json y discover.json ultra livianos.
+ */
+export function toAnimeSummary(node, isFeed = false) {
   if (!node) return null;
 
   const pictures = Array.isArray(node.pictures) ? node.pictures : [];
-  const backdrop =
+  const rawBackdrop =
     pictures[0]?.large ||
     pictures[0]?.medium ||
     node.main_picture?.large ||
     node.main_picture?.medium ||
     null;
+  const backdrop = toWebpUrl(rawBackdrop);
 
   const pictureUrls = pictures
-    .map((p) => p.large || p.medium)
+    .map((p) => toWebpUrl(p.large || p.medium))
     .filter(Boolean);
 
   const startSeason = node.start_season || null;
@@ -37,7 +50,10 @@ export function toAnimeSummary(node) {
   const broadcastTime = node.broadcast?.start_time || null;
   const broadcastString = [broadcastDay, broadcastTime].filter(Boolean).join(" ");
 
-  return {
+  const mediumPicture = toWebpUrl(node.main_picture?.medium) || null;
+  const largePicture = toWebpUrl(node.main_picture?.large) || mediumPicture;
+
+  const baseSummary = {
     // Identificadores (compatible con id y mal_id)
     id: node.id,
     mal_id: node.id,
@@ -52,8 +68,9 @@ export function toAnimeSummary(node) {
       ja: null,
     },
 
-    // Información básica
+    // Información básica y sinopsis (esencial para el Header superior de la app)
     synopsis: node.synopsis || null,
+    synopsis_es: node.synopsis_es || null,
     type: toDisplayMediaType(node.media_type),
     media_type: node.media_type || null,
     status: node.status || null,
@@ -84,36 +101,25 @@ export function toAnimeSummary(node) {
     tmdb_id: node.tmdb_id || null,
     tmdb_updated_at: node.tmdb_updated_at || null,
 
-    // Datos de Simkl
-    simkl_id: node.simkl_id || null,
-    episodes_data: node.episodes_data || [],
-    specials_data: node.specials_data || [],
-
-    // Imágenes para Compose (compatible tanto con image_url como con imageUrl)
+    // Imágenes para Compose en WebP optimizado
     images: {
       jpg: {
-        image_url: node.main_picture?.medium || null,
-        large_image_url: node.main_picture?.large || node.main_picture?.medium || null,
-        imageUrl: node.main_picture?.medium || null,
-        largeImageUrl: node.main_picture?.large || node.main_picture?.medium || null,
+        image_url: mediumPicture,
+        large_image_url: largePicture,
       },
     },
-    main_picture: node.main_picture || null,
+    main_picture: node.main_picture
+      ? {
+          medium: mediumPicture,
+          large: largePicture,
+        }
+      : null,
 
-    // Backdrop / Trailer imágenes
+    // Backdrop / Trailer compacto (TrailerImages solo consume maximum_image_url)
     trailer: backdrop
       ? {
           images: {
             maximum_image_url: backdrop,
-            maximumImageUrl: backdrop,
-            image_url: backdrop,
-            imageUrl: backdrop,
-            small_image_url: backdrop,
-            smallImageUrl: backdrop,
-            medium_image_url: backdrop,
-            mediumImageUrl: backdrop,
-            large_image_url: backdrop,
-            largeImageUrl: backdrop,
           },
         }
       : null,
@@ -130,15 +136,28 @@ export function toAnimeSummary(node) {
         }
       : null,
 
-    // Campos detallados adicionales (DETAIL_FIELDS)
     rank: node.rank || null,
     popularity: node.popularity || null,
+    rating: node.rating || null,
+  };
+
+  // Si es un resumen para Home o Discover, omitir listas de detalle que van vacías
+  if (isFeed) {
+    return baseSummary;
+  }
+
+  // Ficha completa de detalle individual (data/anime/{id}.json)
+  return {
+    ...baseSummary,
+    simkl_id: node.simkl_id || null,
+    episodes_data: node.episodes_data || [],
+    specials_data: node.specials_data || [],
+    characters: node.characters || [],
     num_scoring_users: node.num_scoring_users || null,
     nsfw: node.nsfw || null,
     created_at: node.created_at || null,
     updated_at: node.updated_at || null,
     source: node.source || null,
-    rating: node.rating || null,
     background: node.background || null,
     related_anime: node.related_anime || [],
     related_manga: node.related_manga || [],

@@ -12,6 +12,7 @@
     "ja": "【推しの子】第4期 Final Season"
   },
   "synopsis": "Final season of [Oshi no Ko].",
+  "synopsis_es": "Última temporada de [Oshi no Ko].",
   "type": "TV",
   "media_type": "tv",
   "status": "not_yet_aired",
@@ -56,47 +57,37 @@
   ],
   "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/s76eYQi6hcAcOVYpVd9hofdyt11.jpg",
-  "logo_url": "https://image.tmdb.org/t/p/w500/lxzrNYYgM51CtUAeXWzF5OMxiCF.png",
+  "logo_url": "https://image.tmdb.org/t/p/w300/lxzrNYYgM51CtUAeXWzF5OMxiCF.png",
   "tmdb_id": "203737",
   "tmdb_updated_at": "2026-11-13T03:54:04.675Z",
-  "simkl_id": 3062558,
-  "episodes_data": [],
-  "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1052/159561.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1052/159561l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1052/159561.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1052/159561l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1052/159561.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1052/159561l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1052/159561.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1052/159561l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1052/159561.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1052/159561l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1052/159561l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1052/159561l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1052/159561l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1052/159561l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1052/159561l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1052/159561l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1052/159561l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1052/159561l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1052/159561l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1052/159561l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1052/159561l.webp"
     }
   },
   "broadcast": null,
   "rank": null,
   "popularity": 2890,
+  "rating": "pg_13",
+  "simkl_id": 3062558,
+  "episodes_data": [],
+  "specials_data": [],
+  "characters": [],
   "num_scoring_users": 2,
   "nsfw": "white",
   "created_at": null,
   "updated_at": null,
   "source": "manga",
-  "rating": "pg_13",
   "background": null,
   "related_anime": [
     {
@@ -123,8 +114,5 @@
       "plan_to_watch": "77562"
     },
     "num_list_users": 77569
-  },
-  "mal_details_updated_at": "2026-11-15T01:58:56.675Z",
-  "synopsis_es": "Última temporada de [Oshi no Ko].",
-  "translations_updated_at": "2026-11-15T13:12:44.277Z"
+  }
 }

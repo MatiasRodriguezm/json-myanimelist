@@ -14,6 +14,7 @@
     "ja": "吞噬星空 第四季"
   },
   "synopsis": "Fourth season of Tunshi Xingkong.",
+  "synopsis_es": "Cuarta temporada de Tunshi Xingkong.",
   "type": "ONA",
   "media_type": "ona",
   "status": "currently_airing",
@@ -63,60 +64,39 @@
       "name": "Sparkly Key Animation Studio"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1212/138218l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1335/138907l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1097/152291l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1186/153674l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1701/153675l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1203/153823l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1403/153824l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1550/153825l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1773/157850l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1608/158670l.jpg"
-  ],
+  "pictures": [],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
   "tmdb_updated_at": null,
-  "simkl_id": null,
-  "episodes_data": [],
-  "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1335/138907.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1335/138907l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1335/138907.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1335/138907l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1335/138907.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1335/138907l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1335/138907.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1335/138907l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1335/138907.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1335/138907l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1212/138218l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1212/138218l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1212/138218l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1212/138218l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1212/138218l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1212/138218l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1212/138218l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1212/138218l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1212/138218l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1212/138218l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1335/138907l.webp"
     }
   },
   "broadcast": null,
   "rank": 319,
   "popularity": 8728,
+  "rating": "pg_13",
+  "simkl_id": null,
+  "episodes_data": [],
+  "specials_data": [],
+  "characters": [],
   "num_scoring_users": 2386,
   "nsfw": "white",
   "created_at": "2023-09-02T11:47:44+00:00",
   "updated_at": "2026-09-17T20:14:30+00:00",
   "source": "web_novel",
-  "rating": "pg_13",
   "background": "Episodes 86-260 of Tunshi Xingkong.\n\nAdaptation of Wo Chi Xihongshi's (我吃西红柿) web novel of the same title.",
   "related_anime": [
     {
@@ -179,7 +159,5 @@
       "plan_to_watch": "1374"
     },
     "num_list_users": 6771
-  },
-  "synopsis_es": "Cuarta temporada de Tunshi Xingkong.",
-  "translations_updated_at": "2026-11-15T02:30:41.226Z"
+  }
 }

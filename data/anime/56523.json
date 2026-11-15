@@ -10,6 +10,7 @@
     "ja": "吞噬星空 第三季"
   },
   "synopsis": "Third season of Tunshi Xingkong.",
+  "synopsis_es": "Tercera temporada de Tunshi Xingkong.",
   "type": "ONA",
   "media_type": "ona",
   "status": "finished_airing",
@@ -59,52 +60,39 @@
       "name": "Sparkly Key Animation Studio"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1250/138217l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1347/153672l.jpg"
-  ],
+  "pictures": [],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
   "tmdb_updated_at": null,
-  "simkl_id": null,
-  "episodes_data": [],
-  "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1250/138217.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1250/138217l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1250/138217.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1250/138217l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1250/138217.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1250/138217l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1250/138217.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1250/138217l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1250/138217.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1250/138217l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1250/138217l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1250/138217l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1250/138217l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1250/138217l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1250/138217l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1250/138217l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1250/138217l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1250/138217l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1250/138217l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1250/138217l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1250/138217l.webp"
     }
   },
   "broadcast": null,
   "rank": 290,
   "popularity": 9315,
+  "rating": "pg_13",
+  "simkl_id": null,
+  "episodes_data": [],
+  "specials_data": [],
+  "characters": [],
   "num_scoring_users": 2715,
   "nsfw": "white",
   "created_at": "2023-09-02T11:43:38+00:00",
   "updated_at": "2026-06-17T23:13:29+00:00",
   "source": "web_novel",
-  "rating": "pg_13",
   "background": "Episodes 53-85 of Tunshi Xingkong.\n\nAdaptation of Wo Chi Xihongshi's (我吃西红柿) web novel of the same title.",
   "related_anime": [
     {
@@ -143,7 +131,5 @@
       "plan_to_watch": "812"
     },
     "num_list_users": 5758
-  },
-  "synopsis_es": "Tercera temporada de Tunshi Xingkong.",
-  "translations_updated_at": "2026-11-15T02:30:22.736Z"
+  }
 }

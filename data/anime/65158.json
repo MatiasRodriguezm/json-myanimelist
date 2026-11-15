@@ -12,6 +12,7 @@
     "ja": "プリプリプリンセス"
   },
   "synopsis": "Music video for the song Puripuri Princess by Himemori Luna.\n",
+  "synopsis_es": "Video musical de la canción Puripuri Princess de Himemori Luna.",
   "type": "Music",
   "media_type": "music",
   "status": "finished_airing",
@@ -45,44 +46,34 @@
   "logo_url": null,
   "tmdb_id": null,
   "tmdb_updated_at": "2026-11-15T13:05:02.018Z",
-  "simkl_id": null,
-  "episodes_data": [],
-  "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1887/160485.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1887/160485l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1887/160485.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1887/160485l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1887/160485.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1887/160485l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1887/160485.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1887/160485l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1887/160485.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1887/160485l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1887/160485l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1887/160485l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1887/160485l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1887/160485l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1887/160485l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1887/160485l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1887/160485l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1887/160485l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1887/160485l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1887/160485l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1887/160485l.webp"
     }
   },
   "broadcast": null,
   "rank": null,
   "popularity": 30325,
+  "rating": "pg_13",
+  "simkl_id": null,
+  "episodes_data": [],
+  "specials_data": [],
+  "characters": [],
   "num_scoring_users": 41,
   "nsfw": "white",
   "created_at": null,
   "updated_at": null,
   "source": "original",
-  "rating": "pg_13",
   "background": null,
   "related_anime": [
     {
@@ -109,8 +100,5 @@
       "plan_to_watch": "5"
     },
     "num_list_users": 77
-  },
-  "mal_details_updated_at": "2026-11-10T01:37:18.375Z",
-  "synopsis_es": "Video musical de la canción Puripuri Princess de Himemori Luna.",
-  "translations_updated_at": "2026-11-15T13:13:35.663Z"
+  }
 }

@@ -10,6 +10,7 @@
     "ja": "名探偵コナン エピソードONE 小さくなった名探偵"
   },
   "synopsis": "The \"real\" episode 1 of Meitantei Conan written by the Mangaka Gosho Aoyama.",
+  "synopsis_es": "El episodio 1 \"real\" de Meitantei Conan escrito por el Mangaka Gosho Aoyama.",
   "type": "Tv_special",
   "media_type": "tv_special",
   "status": "finished_airing",
@@ -61,59 +62,46 @@
   ],
   "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/8F6uP709Iz6hKBfhnNWBKW3Rx41.jpg",
-  "logo_url": "https://image.tmdb.org/t/p/w500/nCjz30ZLt1UpLd6u4X2vhOEg3Ap.png",
+  "logo_url": "https://image.tmdb.org/t/p/w300/nCjz30ZLt1UpLd6u4X2vhOEg3Ap.png",
   "tmdb_id": "573364",
   "tmdb_updated_at": "2026-11-06T22:02:44.444Z",
-  "simkl_id": 961979,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "episodeNumber": 1,
-      "title": "TV Special",
-      "aired": "2016-12-09T00:00:00+09:00",
-      "airedDate": "2016-12-09T00:00:00+09:00",
-      "thumbnail": null,
-      "imageUrl": null,
-      "description": null,
-      "title_es": "Especial de televisión"
-    }
-  ],
-  "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/5/81968.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/81968l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/5/81968.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/5/81968l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/5/81968.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/81968l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/5/81968.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/5/81968l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/5/81968.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/5/81968l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/5/81968l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/5/81968l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/5/81968l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/5/81968l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/5/81968l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/5/81968l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/5/81968l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/5/81968l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/5/81968l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/5/81968l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/5/81968l.webp"
     }
   },
   "broadcast": null,
   "rank": 376,
   "popularity": 4477,
+  "rating": "pg_13",
+  "simkl_id": 961979,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "title": "TV Special",
+      "title_es": "Especial de televisión",
+      "aired": "2016-12-09T00:00:00+09:00",
+      "thumbnail": null,
+      "description": null
+    }
+  ],
+  "specials_data": [],
+  "characters": [],
   "num_scoring_users": 16712,
   "nsfw": "white",
   "created_at": null,
   "updated_at": null,
   "source": "manga",
-  "rating": "pg_13",
   "background": null,
   "related_anime": [
     {
@@ -140,8 +128,5 @@
       "plan_to_watch": "6812"
     },
     "num_list_users": 35072
-  },
-  "mal_details_updated_at": "2026-11-10T01:28:46.481Z",
-  "synopsis_es": "El episodio 1 \"real\" de Meitantei Conan escrito por el Mangaka Gosho Aoyama.",
-  "translations_updated_at": "2026-11-15T13:08:46.113Z"
+  }
 }

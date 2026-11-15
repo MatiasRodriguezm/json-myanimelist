@@ -12,6 +12,7 @@
     "ja": "チェンソーマン刺客篇"
   },
   "synopsis": "Sequel to Chainsaw Man Movie: Reze-hen.",
+  "synopsis_es": "Secuela de la película Chainsaw Man: Reze-hen.",
   "type": "Unknown",
   "media_type": "unknown",
   "status": "not_yet_aired",
@@ -63,44 +64,34 @@
   "logo_url": null,
   "tmdb_id": null,
   "tmdb_updated_at": "2026-11-15T13:05:39.812Z",
-  "simkl_id": 2971662,
-  "episodes_data": [],
-  "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1432/154522.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1432/154522l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1432/154522.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1432/154522l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1432/154522.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1432/154522l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1432/154522.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1432/154522l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1432/154522.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1432/154522l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1432/154522l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1432/154522l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1432/154522l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1432/154522l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1432/154522l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1432/154522l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1432/154522l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1432/154522l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1432/154522l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1432/154522l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1432/154522l.webp"
     }
   },
   "broadcast": null,
   "rank": null,
   "popularity": 2640,
+  "rating": "r",
+  "simkl_id": 2971662,
+  "episodes_data": [],
+  "specials_data": [],
+  "characters": [],
   "num_scoring_users": 2,
   "nsfw": "white",
   "created_at": null,
   "updated_at": null,
   "source": "manga",
-  "rating": "r",
   "background": null,
   "related_anime": [
     {
@@ -127,8 +118,5 @@
       "plan_to_watch": "89952"
     },
     "num_list_users": 89960
-  },
-  "mal_details_updated_at": "2026-11-15T01:58:52.573Z",
-  "synopsis_es": "Secuela de la película Chainsaw Man: Reze-hen.",
-  "translations_updated_at": "2026-11-15T13:12:08.343Z"
+  }
 }

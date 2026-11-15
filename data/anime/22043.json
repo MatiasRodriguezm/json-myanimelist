@@ -12,6 +12,7 @@
     "ja": "FAIRY TAIL（フェアリーテイル）"
   },
   "synopsis": "The Grand Magic Games reaches its climax following Natsu Dragneel and Gajeel Redfox's stunning victory over Sting Eucliffe and Rogue Cheney of the Sabertooth guild. This success pushes the Fairy Tail guild closer to being crowned the overall champions, but obtaining victory is not the only challenge they face. A mystery still surrounds a hooded stranger and the ominous Eclipse Gate, leaving more questions than answers.\n\nMore crazy adventures are on the horizon for Fairy Tail as their destructive antics and joyful rowdiness continue unabated. Their greatest trial is quickly approaching, but united as a family, the guild will always be ready to face any threat that comes their way.\n\n[Written by MAL Rewrite]",
+  "synopsis_es": "Los Grandes Juegos Mágicos alcanzan su clímax tras la sorprendente victoria de Natsu Dragneel y Gajeel Redfox sobre Sting Eucliffe y Rogue Cheney del gremio Sabertooth. Este éxito acerca al gremio Fairy Tail a ser coronado campeón general, pero obtener la victoria no es el único desafío al que se enfrentan. Un misterio aún rodea a un extraño encapuchado y a la siniestra Puerta del Eclipse, dejando más preguntas que respuestas.\n\nMás aventuras locas están en el horizonte para Fairy Tail mientras sus travesuras destructivas y su alegre alboroto continúan sin cesar. Su mayor prueba se acerca rápidamente, pero unidos como familia, el gremio siempre estará listo para enfrentar cualquier amenaza que se les presente.\n\n[Escrito por MAL Rewrite]",
   "type": "TV",
   "media_type": "tv",
   "status": "finished_airing",
@@ -61,42 +62,24 @@
       "name": "Bridge"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/3/60551l.jpg",
-    "https://cdn.myanimelist.net/images/anime/4/74164l.jpg",
-    "https://cdn.myanimelist.net/images/anime/11/78224l.jpg"
-  ],
+  "pictures": [],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
   "tmdb_updated_at": null,
-  "simkl_id": null,
-  "episodes_data": [],
-  "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/3/60551.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/60551l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/3/60551.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/3/60551l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/60551.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/60551l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/3/60551.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/3/60551l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/3/60551.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/3/60551l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/3/60551l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/3/60551l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/3/60551l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/3/60551l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/3/60551l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/3/60551l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/3/60551l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/3/60551l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/3/60551l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/3/60551l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/3/60551l.webp"
     }
   },
   "broadcast": {
@@ -109,12 +92,16 @@
   },
   "rank": 1583,
   "popularity": 174,
+  "rating": "pg_13",
+  "simkl_id": null,
+  "episodes_data": [],
+  "specials_data": [],
+  "characters": [],
   "num_scoring_users": 604993,
   "nsfw": "white",
   "created_at": "2014-01-09T08:55:31+00:00",
   "updated_at": "2025-04-10T22:02:38+00:00",
   "source": "manga",
-  "rating": "pg_13",
   "background": null,
   "related_anime": [
     {
@@ -288,7 +275,5 @@
       "plan_to_watch": "129840"
     },
     "num_list_users": 1090959
-  },
-  "synopsis_es": "Los Grandes Juegos Mágicos alcanzan su clímax tras la sorprendente victoria de Natsu Dragneel y Gajeel Redfox sobre Sting Eucliffe y Rogue Cheney del gremio Sabertooth. Este éxito acerca al gremio Fairy Tail a ser coronado campeón general, pero obtener la victoria no es el único desafío al que se enfrentan. Un misterio aún rodea a un extraño encapuchado y a la siniestra Puerta del Eclipse, dejando más preguntas que respuestas.\n\nMás aventuras locas están en el horizonte para Fairy Tail mientras sus travesuras destructivas y su alegre alboroto continúan sin cesar. Su mayor prueba se acerca rápidamente, pero unidos como familia, el gremio siempre estará listo para enfrentar cualquier amenaza que se les presente.\n\n[Escrito por MAL Rewrite]",
-  "translations_updated_at": "2026-11-15T02:21:14.520Z"
+  }
 }

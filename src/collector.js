@@ -53,16 +53,16 @@ export class Collector {
         this.mal.getSeasonalAnime(nextSeason.year, nextSeason.season, 100),
       ]);
 
-      const topAnime = (topRankingRes.data || []).map((item) => toAnimeSummary(item.node));
+      const topAnime = (topRankingRes.data || []).map((item) => toAnimeSummary(item.node, true));
 
       // Ordenar temporada actual por score desc, usuarios desc
       const seasonalAnime = (currentSeasonRes.data || [])
-        .map((item) => toAnimeSummary(item.node))
+        .map((item) => toAnimeSummary(item.node, true))
         .sort((a, b) => (b.score || 0) - (a.score || 0) || (b.numListUsers || 0) - (a.numListUsers || 0));
 
       // Ordenar próxima temporada por popularidad/usuarios desc
       const upcomingAnime = (nextSeasonRes.data || [])
-        .map((item) => toAnimeSummary(item.node))
+        .map((item) => toAnimeSummary(item.node, true))
         .sort((a, b) => (b.numListUsers || 0) - (a.numListUsers || 0) || (b.score || 0) - (a.score || 0));
 
       const homeFeed = {
@@ -90,14 +90,14 @@ export class Collector {
           // Filtrado especial para ONAs: consultar ranking 'all' y filtrar media_type 'ona'
           const onaScanRes = await this.mal.getAnimeRanking("all", 100, 0);
           items = (onaScanRes.data || [])
-            .map((item) => toAnimeSummary(item.node))
+            .map((item) => toAnimeSummary(item.node, true))
             .filter((anime) => anime.media_type === "ona" || anime.type === "ONA");
         } else {
           const sectionRes = await this.mal.getAnimeRanking(
             section.rankingType,
             config.collector.discoverSectionLimit
           );
-          items = (sectionRes.data || []).map((item) => toAnimeSummary(item.node));
+          items = (sectionRes.data || []).map((item) => toAnimeSummary(item.node, true));
         }
 
         discoverRows.push({
@@ -288,11 +288,13 @@ export class Collector {
       // Función auxiliar para transferir assets TMDb y Simkl a cualquier objeto de resumen
       const enrichSummary = (summary, details) => {
         if (!summary || !details) return;
-        summary.backdrop_url = details.backdrop_url || summary.backdrop_url || null;
+        const bdrop = details.backdrop_url || summary.backdrop_url || null;
+        summary.backdrop_url = bdrop ? bdrop.replace("image.tmdb.org/t/p/w1280", "image.tmdb.org/t/p/w780") : null;
         summary.logo_url = details.logo_url || summary.logo_url || null;
         summary.tmdb_id = details.tmdb_id || summary.tmdb_id || null;
         summary.tmdb_updated_at = details.tmdb_updated_at || summary.tmdb_updated_at || null;
         summary.simkl_id = details.simkl_id || summary.simkl_id || null;
+        if (details.synopsis_es) summary.synopsis_es = details.synopsis_es;
       };
 
       // Guardar feeds finales con los backdrops y logos enriquecidos directamente en home.json y discover.json

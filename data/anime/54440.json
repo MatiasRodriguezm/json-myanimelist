@@ -12,6 +12,7 @@
     "ja": "リコリス・リコイル (新作アニメーション)"
   },
   "synopsis": "Lycoris Recoil new anime project.\n\n",
+  "synopsis_es": "Lycoris Recoil nuevo proyecto de anime.",
   "type": "Unknown",
   "media_type": "unknown",
   "status": "not_yet_aired",
@@ -39,47 +40,37 @@
   "studios": [],
   "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/xIBS2ZIvQZbf6xBMzCi3ml2FSyp.jpg",
-  "logo_url": "https://image.tmdb.org/t/p/w500/brqsP2YQLh9yyHCvIw2DLIbxXdY.png",
+  "logo_url": "https://image.tmdb.org/t/p/w300/brqsP2YQLh9yyHCvIw2DLIbxXdY.png",
   "tmdb_id": "154494",
   "tmdb_updated_at": "2026-11-13T03:54:17.686Z",
-  "simkl_id": null,
-  "episodes_data": [],
-  "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1440/150731.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1440/150731l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1440/150731.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1440/150731l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1440/150731.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1440/150731l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1440/150731.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1440/150731l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1440/150731.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1440/150731l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1440/150731l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1440/150731l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1440/150731l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1440/150731l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1440/150731l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1440/150731l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1440/150731l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1440/150731l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1440/150731l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1440/150731l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1440/150731l.webp"
     }
   },
   "broadcast": null,
   "rank": null,
   "popularity": 4026,
+  "rating": "pg_13",
+  "simkl_id": null,
+  "episodes_data": [],
+  "specials_data": [],
+  "characters": [],
   "num_scoring_users": null,
   "nsfw": "white",
   "created_at": null,
   "updated_at": null,
   "source": "original",
-  "rating": "pg_13",
   "background": null,
   "related_anime": [
     {
@@ -106,8 +97,5 @@
       "plan_to_watch": "43812"
     },
     "num_list_users": 43814
-  },
-  "mal_details_updated_at": "2026-11-15T01:31:42.707Z",
-  "synopsis_es": "Lycoris Recoil nuevo proyecto de anime.",
-  "translations_updated_at": "2026-11-15T13:10:29.682Z"
+  }
 }

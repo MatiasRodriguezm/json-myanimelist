@@ -12,6 +12,7 @@
     "ja": "劇場版 天元突破グレンラガン 螺巌篇"
   },
   "synopsis": "Humans have enjoyed their lavish, peaceful, and prosperous lives for seven years since the day the almighty Spiral King was defeated—the day they reclaimed their homeland, Earth. However, the boon of this lifestyle leaves them unprepared when an unknown, hostile threat arises due to the ever-growing human population. This calamity is the Anti-Spiral—a fearsome enemy with unparalleled power. \n \nAs the Spiral King's prognosis postulating the destruction of \"The Spiral's World\" begins to come true, the pieces are in place, and Team Dai-Gurren is ready. With his late brother's hope to see a better future for mankind, Simon—along with Nia Teppelin and the rest of the team—is determined to overthrow the mighty Anti-Spiral in order to revive humanity's lost hope.\n\n[Written by MAL Rewrite]\n",
+  "synopsis_es": "Los humanos han disfrutado de sus vidas lujosas, pacíficas y prósperas durante siete años desde el día en que el todopoderoso Rey Espiral fue derrotado, el día en que reclamaron su tierra natal, la Tierra. Sin embargo, la bendición de este estilo de vida los deja desprevenidos cuando surge una amenaza hostil y desconocida debido a la población humana en constante crecimiento. Esta calamidad es el Anti-Espiral, un enemigo temible con un poder incomparable. \n \nA medida que el pronóstico del Rey Espiral que postula la destrucción del \"Mundo de la Espiral\" comienza a hacerse realidad, las piezas están en su lugar y el Equipo Dai-Gurren está listo. Con la esperanza de su difunto hermano de ver un futuro mejor para la humanidad, Simon, junto con Nia Teppelin y el resto del equipo, está decidido a derrocar al poderoso Anti-Spiral para revivir la esperanza perdida de la humanidad.\n\n[Escrito por MAL Rewrite]",
   "type": "Movie",
   "media_type": "movie",
   "status": "finished_airing",
@@ -59,59 +60,46 @@
   ],
   "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/la3G4VRIVcryxNmxU1YYTZcy9fL.jpg",
-  "logo_url": "https://image.tmdb.org/t/p/w500/bXjRQacnd04wmU05P5umaycpgOm.png",
+  "logo_url": "https://image.tmdb.org/t/p/w300/bXjRQacnd04wmU05P5umaycpgOm.png",
   "tmdb_id": "21729",
   "tmdb_updated_at": "2026-11-06T22:02:04.102Z",
-  "simkl_id": 36758,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "episodeNumber": 1,
-      "title": "Complete Movie",
-      "aired": "2009-04-25T00:00:00+09:00",
-      "airedDate": "2009-04-25T00:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/17/175760494f87a4c0d2_w.webp",
-      "imageUrl": "https://simkl.in/episodes/17/175760494f87a4c0d2_w.webp",
-      "description": null,
-      "title_es": "Película completa"
-    }
-  ],
-  "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/12/19698.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/19698l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/12/19698.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/12/19698l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/12/19698.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/19698l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/12/19698.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/12/19698l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/12/19698.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/12/19698l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/12/19698l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/12/19698l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/12/19698l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/12/19698l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/12/19698l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/12/19698l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/12/19698l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/12/19698l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/12/19698l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/12/19698l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/12/19698l.webp"
     }
   },
   "broadcast": null,
   "rank": 108,
   "popularity": 1204,
+  "rating": "r+",
+  "simkl_id": 36758,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "title": "Complete Movie",
+      "title_es": "Película completa",
+      "aired": "2009-04-25T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/175760494f87a4c0d2_w.webp",
+      "description": null
+    }
+  ],
+  "specials_data": [],
+  "characters": [],
   "num_scoring_users": 115527,
   "nsfw": "white",
   "created_at": null,
   "updated_at": null,
   "source": "original",
-  "rating": "r+",
   "background": null,
   "related_anime": [
     {
@@ -250,8 +238,5 @@
       "plan_to_watch": "68614"
     },
     "num_list_users": 243644
-  },
-  "mal_details_updated_at": "2026-11-10T01:30:28.133Z",
-  "synopsis_es": "Los humanos han disfrutado de sus vidas lujosas, pacíficas y prósperas durante siete años desde el día en que el todopoderoso Rey Espiral fue derrotado, el día en que reclamaron su tierra natal, la Tierra. Sin embargo, la bendición de este estilo de vida los deja desprevenidos cuando surge una amenaza hostil y desconocida debido a la población humana en constante crecimiento. Esta calamidad es el Anti-Espiral, un enemigo temible con un poder incomparable. \n \nA medida que el pronóstico del Rey Espiral que postula la destrucción del \"Mundo de la Espiral\" comienza a hacerse realidad, las piezas están en su lugar y el Equipo Dai-Gurren está listo. Con la esperanza de su difunto hermano de ver un futuro mejor para la humanidad, Simon, junto con Nia Teppelin y el resto del equipo, está decidido a derrocar al poderoso Anti-Spiral para revivir la esperanza perdida de la humanidad.\n\n[Escrito por MAL Rewrite]",
-  "translations_updated_at": "2026-11-15T13:08:02.841Z"
+  }
 }

@@ -10,6 +10,7 @@
     "ja": "マイバッド"
   },
   "synopsis": "Music video for the song My Bad by Harumaki Gohan featuring Hatsune Miku.",
+  "synopsis_es": "Video musical de la canción My Bad de Harumaki Gohan con Hatsune Miku.",
   "type": "Music",
   "media_type": "music",
   "status": "finished_airing",
@@ -48,44 +49,34 @@
   "logo_url": null,
   "tmdb_id": null,
   "tmdb_updated_at": "2026-11-15T13:04:58.358Z",
-  "simkl_id": null,
-  "episodes_data": [],
-  "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1164/160426.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1164/160426l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1164/160426.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1164/160426l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1164/160426.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1164/160426l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1164/160426.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1164/160426l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1164/160426.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1164/160426l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1164/160426l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1164/160426l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1164/160426l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1164/160426l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1164/160426l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1164/160426l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1164/160426l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1164/160426l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1164/160426l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1164/160426l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1164/160426l.webp"
     }
   },
   "broadcast": null,
   "rank": null,
   "popularity": 29293,
+  "rating": "pg_13",
+  "simkl_id": null,
+  "episodes_data": [],
+  "specials_data": [],
+  "characters": [],
   "num_scoring_users": 53,
   "nsfw": "white",
   "created_at": null,
   "updated_at": null,
   "source": "original",
-  "rating": "pg_13",
   "background": null,
   "related_anime": [
     {
@@ -112,8 +103,5 @@
       "plan_to_watch": "12"
     },
     "num_list_users": 98
-  },
-  "mal_details_updated_at": "2026-11-10T01:37:13.780Z",
-  "synopsis_es": "Video musical de la canción My Bad de Harumaki Gohan con Hatsune Miku.",
-  "translations_updated_at": "2026-11-15T13:13:32.595Z"
+  }
 }

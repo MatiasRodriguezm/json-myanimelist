@@ -10,6 +10,7 @@
     "ja": "ぷにるんず ぷに4"
   },
   "synopsis": "Fourth season of Punirunes.",
+  "synopsis_es": "Cuarta temporada de Punirunes.",
   "type": "TV",
   "media_type": "tv",
   "status": "currently_airing",
@@ -56,33 +57,19 @@
   "logo_url": null,
   "tmdb_id": null,
   "tmdb_updated_at": "2026-11-15T13:04:54.080Z",
-  "simkl_id": null,
-  "episodes_data": [],
-  "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1063/159391.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1063/159391l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1063/159391.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1063/159391l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1063/159391.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1063/159391l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1063/159391.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1063/159391l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1063/159391.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1063/159391l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1063/159391l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1063/159391l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1063/159391l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1063/159391l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1063/159391l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1063/159391l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1063/159391l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1063/159391l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1063/159391l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1063/159391l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1063/159391l.webp"
     }
   },
   "broadcast": {
@@ -95,12 +82,16 @@
   },
   "rank": 20098,
   "popularity": 25508,
+  "rating": "pg",
+  "simkl_id": null,
+  "episodes_data": [],
+  "specials_data": [],
+  "characters": [],
   "num_scoring_users": 9,
   "nsfw": "white",
   "created_at": null,
   "updated_at": null,
   "source": "original",
-  "rating": "pg",
   "background": null,
   "related_anime": [
     {
@@ -127,8 +118,5 @@
       "plan_to_watch": "87"
     },
     "num_list_users": 162
-  },
-  "mal_details_updated_at": "2026-11-15T01:57:39.799Z",
-  "synopsis_es": "Cuarta temporada de Punirunes.",
-  "translations_updated_at": "2026-11-15T13:12:46.821Z"
+  }
 }

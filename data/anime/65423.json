@@ -10,6 +10,7 @@
     "ja": "ペロペロ★スパ～クルズ"
   },
   "synopsis": null,
+  "synopsis_es": null,
   "type": "TV",
   "media_type": "tv",
   "status": "not_yet_aired",
@@ -48,44 +49,34 @@
   "logo_url": null,
   "tmdb_id": null,
   "tmdb_updated_at": "2026-11-15T13:05:36.528Z",
-  "simkl_id": null,
-  "episodes_data": [],
-  "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1437/161008.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1437/161008l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1437/161008.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1437/161008l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1437/161008.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1437/161008l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1437/161008.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1437/161008l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1437/161008.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1437/161008l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1437/161008l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1437/161008l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1437/161008l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1437/161008l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1437/161008l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1437/161008l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1437/161008l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1437/161008l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1437/161008l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1437/161008l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1437/161008l.webp"
     }
   },
   "broadcast": null,
   "rank": null,
   "popularity": 30769,
+  "rating": null,
+  "simkl_id": null,
+  "episodes_data": [],
+  "specials_data": [],
+  "characters": [],
   "num_scoring_users": null,
   "nsfw": "white",
   "created_at": null,
   "updated_at": null,
   "source": "other",
-  "rating": null,
   "background": null,
   "related_anime": [],
   "related_manga": [],
@@ -99,6 +90,5 @@
       "plan_to_watch": "7"
     },
     "num_list_users": 7
-  },
-  "mal_details_updated_at": "2026-11-12T14:09:42.357Z"
+  }
 }
