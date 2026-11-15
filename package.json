@@ -11,7 +11,10 @@
     "sync:livechart": "node src/livechartScraper.js",
     "enrich:details": "node src/enrichExisting.js",
     "sync:genres": "node src/genreSync.js",
-    "sync:characters": "node src/characterSync.js"
+    "sync:characters": "node src/characterSync.js",
+    "sync:translations": "node src/translationSync.js",
+    "sync:expand": "node src/catalogExpander.js",
+    "sync:feeds": "node src/feedEnricher.js"
   },
   "engines": {
     "node": ">=20"
