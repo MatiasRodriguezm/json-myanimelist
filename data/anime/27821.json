@@ -32,8 +32,8 @@
   "num_episodes": 1,
   "score": 8.03,
   "mean": 8.03,
-  "numListUsers": 355084,
-  "num_list_users": 355084,
+  "numListUsers": 355090,
+  "num_list_users": 355090,
   "genres": [
     {
       "id": 1,
@@ -54,13 +54,11 @@
       "name": "ufotable"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/9/67425l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T17:22:00.964Z",
+  "tmdb_updated_at": "2026-11-15T22:14:40.845Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/9/67425.webp",
@@ -80,6 +78,48 @@
   "rank": 714,
   "popularity": 805,
   "rating": "pg_13",
+  "num_scoring_users": 217967,
+  "nsfw": "white",
+  "source": "visual_novel",
+  "related_anime": [
+    {
+      "node": {
+        "id": 11741,
+        "title": "Fate/Zero 2nd Season",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1522/117645.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1522/117645l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    },
+    {
+      "node": {
+        "id": 22297,
+        "title": "Fate/stay night: Unlimited Blade Works",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/12/67333.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/12/67333l.jpg"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    }
+  ],
+  "related_manga": [],
+  "recommendations": [],
+  "statistics": {
+    "status": {
+      "watching": "5716",
+      "completed": "306339",
+      "on_hold": "1639",
+      "dropped": "1112",
+      "plan_to_watch": "40213"
+    },
+    "num_list_users": 355019
+  },
+  "mal_details_updated_at": "2026-11-15T17:22:00.749Z",
   "simkl_id": 46116,
   "episodes_data": [
     {
@@ -197,51 +237,5 @@
       "description": null
     }
   ],
-  "characters": [],
-  "num_scoring_users": 217967,
-  "nsfw": "white",
-  "created_at": "2014-10-04T15:22:05+00:00",
-  "updated_at": "2024-10-02T16:15:00+00:00",
-  "source": "visual_novel",
-  "background": null,
-  "related_anime": [
-    {
-      "node": {
-        "id": 11741,
-        "title": "Fate/Zero 2nd Season",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1522/117645.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1522/117645l.jpg"
-        }
-      },
-      "relation_type": "prequel",
-      "relation_type_formatted": "Prequel"
-    },
-    {
-      "node": {
-        "id": 22297,
-        "title": "Fate/stay night: Unlimited Blade Works",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/12/67333.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/12/67333l.jpg"
-        }
-      },
-      "relation_type": "sequel",
-      "relation_type_formatted": "Sequel"
-    }
-  ],
-  "related_manga": [],
-  "recommendations": [],
-  "statistics": {
-    "status": {
-      "watching": "5716",
-      "completed": "306339",
-      "on_hold": "1639",
-      "dropped": "1112",
-      "plan_to_watch": "40213"
-    },
-    "num_list_users": 355019
-  },
-  "mal_details_updated_at": "2026-11-15T17:22:00.749Z",
-  "translations_updated_at": "2026-11-15T17:24:20.358Z"
+  "translations_updated_at": "2026-11-15T22:15:34.427Z"
 }

@@ -48,11 +48,7 @@
       "name": "Eiken"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/13/77617l.webp",
-    "https://cdn.myanimelist.net/images/anime/12/84057l.webp",
-    "https://cdn.myanimelist.net/images/anime/1686/149949l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/6XELL0PJ3yPH7MFYtfq6sr9qOxB.jpg",
   "logo_url": null,
   "tmdb_id": "66569",
@@ -69,7 +65,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/13/77617l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1686/149949l.webp"
     }
   },
   "broadcast": {
@@ -83,6 +79,82 @@
   "rank": 8540,
   "popularity": 10379,
   "rating": "g",
+  "num_scoring_users": 804,
+  "nsfw": "white",
+  "source": "4_koma_manga",
+  "related_anime": [
+    {
+      "node": {
+        "id": 4286,
+        "title": "Bonobono (TV)",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/3/65867.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/3/65867l.jpg"
+        }
+      },
+      "relation_type": "alternative_version",
+      "relation_type_formatted": "Alternative version"
+    },
+    {
+      "node": {
+        "id": 36964,
+        "title": "Bonobono: Uchuu kara Kita Tomodachi",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/89540.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/89540l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    }
+  ],
+  "related_manga": [],
+  "recommendations": [
+    {
+      "node": {
+        "id": 32571,
+        "title": "Shounen Ashibe: Go! Go! Goma-chan",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/4/79805.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/4/79805l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 2471,
+        "title": "Doraemon (1979)",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/3/3953.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/3/3953l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 12815,
+        "title": "Shirokuma Cafe",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/6/75649.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/6/75649l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "1620",
+      "completed": 0,
+      "on_hold": "481",
+      "dropped": "967",
+      "plan_to_watch": "1143"
+    },
+    "num_list_users": 4211
+  },
+  "mal_details_updated_at": "2026-11-15T17:14:48.408Z",
   "simkl_id": 544408,
   "episodes_data": [
     {
@@ -2440,85 +2512,5 @@
     }
   ],
   "specials_data": [],
-  "characters": [],
-  "num_scoring_users": 804,
-  "nsfw": "white",
-  "created_at": "2015-12-16T23:33:52+00:00",
-  "updated_at": "2026-05-08T23:51:45+00:00",
-  "source": "4_koma_manga",
-  "background": null,
-  "related_anime": [
-    {
-      "node": {
-        "id": 4286,
-        "title": "Bonobono (TV)",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/3/65867.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/3/65867l.jpg"
-        }
-      },
-      "relation_type": "alternative_version",
-      "relation_type_formatted": "Alternative version"
-    },
-    {
-      "node": {
-        "id": 36964,
-        "title": "Bonobono: Uchuu kara Kita Tomodachi",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/10/89540.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/10/89540l.jpg"
-        }
-      },
-      "relation_type": "other",
-      "relation_type_formatted": "Other"
-    }
-  ],
-  "related_manga": [],
-  "recommendations": [
-    {
-      "node": {
-        "id": 32571,
-        "title": "Shounen Ashibe: Go! Go! Goma-chan",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/4/79805.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/4/79805l.jpg"
-        }
-      },
-      "num_recommendations": 1
-    },
-    {
-      "node": {
-        "id": 2471,
-        "title": "Doraemon (1979)",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/3/3953.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/3/3953l.jpg"
-        }
-      },
-      "num_recommendations": 1
-    },
-    {
-      "node": {
-        "id": 12815,
-        "title": "Shirokuma Cafe",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/6/75649.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/6/75649l.jpg"
-        }
-      },
-      "num_recommendations": 1
-    }
-  ],
-  "statistics": {
-    "status": {
-      "watching": "1620",
-      "completed": 0,
-      "on_hold": "481",
-      "dropped": "967",
-      "plan_to_watch": "1143"
-    },
-    "num_list_users": 4211
-  },
-  "mal_details_updated_at": "2026-11-15T17:14:48.408Z",
-  "translations_updated_at": "2026-11-15T17:24:22.213Z"
+  "translations_updated_at": "2026-11-15T22:15:35.989Z"
 }

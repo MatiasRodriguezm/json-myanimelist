@@ -30,10 +30,10 @@
   },
   "episodes": null,
   "num_episodes": null,
-  "score": 6.59,
-  "mean": 6.59,
-  "numListUsers": 6641,
-  "num_list_users": 6641,
+  "score": 6.6,
+  "mean": 6.6,
+  "numListUsers": 6645,
+  "num_list_users": 6645,
   "genres": [
     {
       "id": 10,
@@ -54,13 +54,11 @@
       "name": "Imageworks Studio"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1782/158664l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T17:14:41.979Z",
+  "tmdb_updated_at": "2026-11-15T22:12:35.163Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1782/158664.webp",
@@ -87,6 +85,36 @@
   "rank": 7522,
   "popularity": 8800,
   "rating": "pg_13",
+  "num_scoring_users": 397,
+  "nsfw": "white",
+  "source": "web_manga",
+  "related_anime": [
+    {
+      "node": {
+        "id": 59961,
+        "title": "Kizu darake Seijo yori Houfuku wo Komete",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1546/145782.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1546/145782l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    }
+  ],
+  "related_manga": [],
+  "recommendations": [],
+  "statistics": {
+    "status": {
+      "watching": "1910",
+      "completed": 0,
+      "on_hold": "102",
+      "dropped": "174",
+      "plan_to_watch": "4455"
+    },
+    "num_list_users": 6641
+  },
+  "mal_details_updated_at": "2026-11-15T17:14:41.477Z",
   "simkl_id": 3269450,
   "episodes_data": [
     {
@@ -187,39 +215,5 @@
     }
   ],
   "specials_data": [],
-  "characters": [],
-  "num_scoring_users": 397,
-  "nsfw": "white",
-  "created_at": "2026-05-12T03:47:47+00:00",
-  "updated_at": "2026-10-01T23:57:48+00:00",
-  "source": "web_manga",
-  "background": null,
-  "related_anime": [
-    {
-      "node": {
-        "id": 59961,
-        "title": "Kizu darake Seijo yori Houfuku wo Komete",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1546/145782.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1546/145782l.jpg"
-        }
-      },
-      "relation_type": "prequel",
-      "relation_type_formatted": "Prequel"
-    }
-  ],
-  "related_manga": [],
-  "recommendations": [],
-  "statistics": {
-    "status": {
-      "watching": "1910",
-      "completed": 0,
-      "on_hold": "102",
-      "dropped": "174",
-      "plan_to_watch": "4455"
-    },
-    "num_list_users": 6641
-  },
-  "mal_details_updated_at": "2026-11-15T17:14:41.477Z",
-  "translations_updated_at": "2026-11-15T17:25:00.767Z"
+  "translations_updated_at": "2026-11-15T22:16:11.130Z"
 }

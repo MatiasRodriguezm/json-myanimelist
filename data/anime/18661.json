@@ -62,13 +62,11 @@
       "name": "TMS Entertainment"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/6/56425l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T17:21:31.196Z",
+  "tmdb_updated_at": "2026-11-15T22:14:35.504Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/6/56425.webp",
@@ -88,6 +86,37 @@
   "rank": 622,
   "popularity": 1798,
   "rating": "pg_13",
+  "num_scoring_users": 78848,
+  "nsfw": "white",
+  "source": "manga",
+  "background": "Kamisama Hajimemashita OVA was bundled with the release of the 16th volume of the Kamisama Hajimemashita manga.",
+  "related_anime": [
+    {
+      "node": {
+        "id": 14713,
+        "title": "Kamisama Hajimemashita",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/3/85429.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/3/85429l.jpg"
+        }
+      },
+      "relation_type": "parent_story",
+      "relation_type_formatted": "Parent story"
+    }
+  ],
+  "related_manga": [],
+  "recommendations": [],
+  "statistics": {
+    "status": {
+      "watching": "7243",
+      "completed": "121083",
+      "on_hold": "1445",
+      "dropped": "746",
+      "plan_to_watch": "21916"
+    },
+    "num_list_users": 152433
+  },
+  "mal_details_updated_at": "2026-11-15T17:21:31.030Z",
   "simkl_id": 43094,
   "episodes_data": [
     {
@@ -140,39 +169,5 @@
     }
   ],
   "specials_data": [],
-  "characters": [],
-  "num_scoring_users": 78848,
-  "nsfw": "white",
-  "created_at": "2013-05-07T19:11:18+00:00",
-  "updated_at": "2026-07-23T21:09:09+00:00",
-  "source": "manga",
-  "background": "Kamisama Hajimemashita OVA was bundled with the release of the 16th volume of the Kamisama Hajimemashita manga.",
-  "related_anime": [
-    {
-      "node": {
-        "id": 14713,
-        "title": "Kamisama Hajimemashita",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/3/85429.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/3/85429l.jpg"
-        }
-      },
-      "relation_type": "parent_story",
-      "relation_type_formatted": "Parent story"
-    }
-  ],
-  "related_manga": [],
-  "recommendations": [],
-  "statistics": {
-    "status": {
-      "watching": "7243",
-      "completed": "121083",
-      "on_hold": "1445",
-      "dropped": "746",
-      "plan_to_watch": "21916"
-    },
-    "num_list_users": 152433
-  },
-  "mal_details_updated_at": "2026-11-15T17:21:31.030Z",
-  "translations_updated_at": "2026-11-15T17:24:15.093Z"
+  "translations_updated_at": "2026-11-15T22:15:29.357Z"
 }

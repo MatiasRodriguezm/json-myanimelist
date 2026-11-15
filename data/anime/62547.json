@@ -29,8 +29,8 @@
   "num_episodes": 1,
   "score": null,
   "mean": null,
-  "numListUsers": 49946,
-  "num_list_users": 49946,
+  "numListUsers": 49965,
+  "num_list_users": 49965,
   "genres": [
     {
       "id": 1,
@@ -50,13 +50,11 @@
     }
   ],
   "studios": [],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1987/152185l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T17:19:38.707Z",
+  "tmdb_updated_at": "2026-11-15T22:14:18.902Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1987/152185.webp",
@@ -76,16 +74,9 @@
   "rank": null,
   "popularity": 3721,
   "rating": "r",
-  "simkl_id": null,
-  "episodes_data": [],
-  "specials_data": [],
-  "characters": [],
   "num_scoring_users": 1,
   "nsfw": "white",
-  "created_at": "2025-09-23T01:45:04+00:00",
-  "updated_at": "2026-07-31T06:53:27+00:00",
   "source": "manga",
-  "background": null,
   "related_anime": [
     {
       "node": {
@@ -113,5 +104,8 @@
     "num_list_users": 49946
   },
   "mal_details_updated_at": "2026-11-15T17:19:38.243Z",
-  "translations_updated_at": "2026-11-15T17:24:43.892Z"
+  "simkl_id": null,
+  "episodes_data": [],
+  "specials_data": [],
+  "translations_updated_at": "2026-11-15T22:15:56.366Z"
 }

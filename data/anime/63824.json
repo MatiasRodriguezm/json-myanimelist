@@ -30,8 +30,8 @@
   "num_episodes": null,
   "score": null,
   "mean": null,
-  "numListUsers": 78684,
-  "num_list_users": 78684,
+  "numListUsers": 78732,
+  "num_list_users": 78732,
   "genres": [
     {
       "id": 1,
@@ -52,10 +52,7 @@
       "name": "MAPPA"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1031/156352l.webp",
-    "https://cdn.myanimelist.net/images/anime/1915/159776l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/flgn0jXbg8GIe2qaWfd70A0uzfp.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/tEmqJ1k4MdjuaKaetn8wGyZGcyC.png",
   "tmdb_id": "95479",
@@ -72,23 +69,15 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1031/156352l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1915/159776l.webp"
     }
   },
   "broadcast": null,
   "rank": null,
   "popularity": 2870,
   "rating": "r",
-  "simkl_id": 3063276,
-  "episodes_data": [],
-  "specials_data": [],
-  "characters": [],
-  "num_scoring_users": null,
   "nsfw": "white",
-  "created_at": "2026-03-28T12:33:01+00:00",
-  "updated_at": "2026-08-29T09:40:19+00:00",
   "source": "manga",
-  "background": null,
   "related_anime": [
     {
       "node": {
@@ -116,5 +105,8 @@
     "num_list_users": 78684
   },
   "mal_details_updated_at": "2026-11-15T17:18:32.585Z",
-  "translations_updated_at": "2026-11-15T17:24:59.025Z"
+  "simkl_id": 3063276,
+  "episodes_data": [],
+  "specials_data": [],
+  "translations_updated_at": "2026-11-15T22:16:09.458Z"
 }

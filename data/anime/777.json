@@ -30,8 +30,8 @@
   "num_episodes": 10,
   "score": 8.34,
   "mean": 8.34,
-  "numListUsers": 1039197,
-  "num_list_users": 1039197,
+  "numListUsers": 1039229,
+  "num_list_users": 1039229,
   "genres": [
     {
       "id": 1,
@@ -80,19 +80,7 @@
       "name": "Graphinica"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/6/7333l.webp",
-    "https://cdn.myanimelist.net/images/anime/11/20116l.webp",
-    "https://cdn.myanimelist.net/images/anime/5/20117l.webp",
-    "https://cdn.myanimelist.net/images/anime/4/34461l.webp",
-    "https://cdn.myanimelist.net/images/anime/11/34463l.webp",
-    "https://cdn.myanimelist.net/images/anime/10/34465l.webp",
-    "https://cdn.myanimelist.net/images/anime/13/34467l.webp",
-    "https://cdn.myanimelist.net/images/anime/1972/100199l.webp",
-    "https://cdn.myanimelist.net/images/anime/1024/143963l.webp",
-    "https://cdn.myanimelist.net/images/anime/1012/143965l.webp",
-    "https://cdn.myanimelist.net/images/anime/1045/143966l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/PZEdudP5M4FBz5cPoQ4rHCejLj.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/1UJ29YpdsEFbtA7LUi9wIeUDMiE.png",
   "tmdb_id": "61752",
@@ -109,13 +97,179 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/6/7333l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1012/143965l.webp"
     }
   },
   "broadcast": null,
   "rank": 293,
   "popularity": 184,
   "rating": "r+",
+  "num_scoring_users": 534571,
+  "nsfw": "white",
+  "source": "manga",
+  "background": "Hellsing Ultimate was initially licensed and distributed by Geneon Entertainment USA up until their closure in late 2007. FUNimation Entertainment later picked up the series and finished dubbing it in late 2014. ",
+  "related_anime": [
+    {
+      "node": {
+        "id": 270,
+        "title": "Hellsing",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/19956.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/19956l.jpg"
+        }
+      },
+      "relation_type": "alternative_version",
+      "relation_type_formatted": "Alternative version"
+    },
+    {
+      "node": {
+        "id": 6904,
+        "title": "Hellsing: Digest for Freaks",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/7/26935.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/7/26935l.jpg"
+        }
+      },
+      "relation_type": "summary",
+      "relation_type_formatted": "Summary"
+    },
+    {
+      "node": {
+        "id": 11077,
+        "title": "Hellsing: The Dawn",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/5/30667.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/5/30667l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    }
+  ],
+  "related_manga": [],
+  "recommendations": [
+    {
+      "node": {
+        "id": 31339,
+        "title": "Drifters",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/80271.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/80271l.jpg"
+        }
+      },
+      "num_recommendations": 20
+    },
+    {
+      "node": {
+        "id": 889,
+        "title": "Black Lagoon",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1906/121592.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1906/121592l.jpg"
+        }
+      },
+      "num_recommendations": 15
+    },
+    {
+      "node": {
+        "id": 4898,
+        "title": "Kuroshitsuji",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1467/137783.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1467/137783l.jpg"
+        }
+      },
+      "num_recommendations": 10
+    },
+    {
+      "node": {
+        "id": 226,
+        "title": "Elfen Lied",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1780/121555.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1780/121555l.jpg"
+        }
+      },
+      "num_recommendations": 9
+    },
+    {
+      "node": {
+        "id": 35120,
+        "title": "Devilman: Crybaby",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/2/89973.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/2/89973l.webp"
+        }
+      },
+      "num_recommendations": 8
+    },
+    {
+      "node": {
+        "id": 33,
+        "title": "Kenpuu Denki Berserk",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1384/119988.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1384/119988l.jpg"
+        }
+      },
+      "num_recommendations": 7
+    },
+    {
+      "node": {
+        "id": 543,
+        "title": "Vampire Hunter D (2000)",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1571/135153.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1571/135153l.jpg"
+        }
+      },
+      "num_recommendations": 6
+    },
+    {
+      "node": {
+        "id": 1726,
+        "title": "Devil May Cry",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/4/26417.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/4/26417l.webp"
+        }
+      },
+      "num_recommendations": 6
+    },
+    {
+      "node": {
+        "id": 8074,
+        "title": "Highschool of the Dead",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/11/78311.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/11/78311l.webp"
+        }
+      },
+      "num_recommendations": 5
+    },
+    {
+      "node": {
+        "id": 1818,
+        "title": "Claymore",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/3/21834.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/3/21834l.webp"
+        }
+      },
+      "num_recommendations": 5
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "86645",
+      "completed": "629576",
+      "on_hold": "47333",
+      "dropped": "27517",
+      "plan_to_watch": "247801"
+    },
+    "num_list_users": 1038872
+  },
+  "mal_details_updated_at": "2026-11-15T17:21:22.233Z",
   "simkl_id": 36703,
   "episodes_data": [
     {
@@ -337,174 +491,5 @@
       "description": null
     }
   ],
-  "characters": [],
-  "num_scoring_users": 534571,
-  "nsfw": "white",
-  "created_at": "2006-02-21T08:28:24+00:00",
-  "updated_at": "2026-08-07T04:11:51+00:00",
-  "source": "manga",
-  "background": "Hellsing Ultimate was initially licensed and distributed by Geneon Entertainment USA up until their closure in late 2007. FUNimation Entertainment later picked up the series and finished dubbing it in late 2014. ",
-  "related_anime": [
-    {
-      "node": {
-        "id": 270,
-        "title": "Hellsing",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/10/19956.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/10/19956l.jpg"
-        }
-      },
-      "relation_type": "alternative_version",
-      "relation_type_formatted": "Alternative version"
-    },
-    {
-      "node": {
-        "id": 6904,
-        "title": "Hellsing: Digest for Freaks",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/7/26935.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/7/26935l.jpg"
-        }
-      },
-      "relation_type": "summary",
-      "relation_type_formatted": "Summary"
-    },
-    {
-      "node": {
-        "id": 11077,
-        "title": "Hellsing: The Dawn",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/5/30667.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/5/30667l.jpg"
-        }
-      },
-      "relation_type": "prequel",
-      "relation_type_formatted": "Prequel"
-    }
-  ],
-  "related_manga": [],
-  "recommendations": [
-    {
-      "node": {
-        "id": 31339,
-        "title": "Drifters",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/10/80271.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/10/80271l.jpg"
-        }
-      },
-      "num_recommendations": 20
-    },
-    {
-      "node": {
-        "id": 889,
-        "title": "Black Lagoon",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1906/121592.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1906/121592l.jpg"
-        }
-      },
-      "num_recommendations": 15
-    },
-    {
-      "node": {
-        "id": 4898,
-        "title": "Kuroshitsuji",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1467/137783.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1467/137783l.jpg"
-        }
-      },
-      "num_recommendations": 10
-    },
-    {
-      "node": {
-        "id": 226,
-        "title": "Elfen Lied",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1780/121555.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1780/121555l.jpg"
-        }
-      },
-      "num_recommendations": 9
-    },
-    {
-      "node": {
-        "id": 35120,
-        "title": "Devilman: Crybaby",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/2/89973.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/2/89973l.webp"
-        }
-      },
-      "num_recommendations": 8
-    },
-    {
-      "node": {
-        "id": 33,
-        "title": "Kenpuu Denki Berserk",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1384/119988.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1384/119988l.jpg"
-        }
-      },
-      "num_recommendations": 7
-    },
-    {
-      "node": {
-        "id": 543,
-        "title": "Vampire Hunter D (2000)",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1571/135153.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1571/135153l.jpg"
-        }
-      },
-      "num_recommendations": 6
-    },
-    {
-      "node": {
-        "id": 1726,
-        "title": "Devil May Cry",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/4/26417.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/4/26417l.webp"
-        }
-      },
-      "num_recommendations": 6
-    },
-    {
-      "node": {
-        "id": 8074,
-        "title": "Highschool of the Dead",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/11/78311.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/11/78311l.webp"
-        }
-      },
-      "num_recommendations": 5
-    },
-    {
-      "node": {
-        "id": 1818,
-        "title": "Claymore",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/3/21834.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/3/21834l.webp"
-        }
-      },
-      "num_recommendations": 5
-    }
-  ],
-  "statistics": {
-    "status": {
-      "watching": "86645",
-      "completed": "629576",
-      "on_hold": "47333",
-      "dropped": "27517",
-      "plan_to_watch": "247801"
-    },
-    "num_list_users": 1038872
-  },
-  "mal_details_updated_at": "2026-11-15T17:21:22.233Z",
-  "translations_updated_at": "2026-11-15T17:23:54.856Z"
+  "translations_updated_at": "2026-11-15T22:15:10.909Z"
 }

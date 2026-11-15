@@ -67,16 +67,7 @@
       "name": "Toei Animation"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/4/3518l.webp",
-    "https://cdn.myanimelist.net/images/anime/5/13666l.webp",
-    "https://cdn.myanimelist.net/images/anime/5/55697l.webp",
-    "https://cdn.myanimelist.net/images/anime/1182/122016l.webp",
-    "https://cdn.myanimelist.net/images/anime/1446/123828l.webp",
-    "https://cdn.myanimelist.net/images/anime/1096/127200l.webp",
-    "https://cdn.myanimelist.net/images/anime/1402/134777l.webp",
-    "https://cdn.myanimelist.net/images/anime/1129/150325l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/xqi7xzgzed2TyVuoXBmm6neYGee.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/wVHam8qA84YIKnxULun7NCeqyYE.png",
   "tmdb_id": "42444",
@@ -93,13 +84,67 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/4/3518l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1182/122016l.webp"
     }
   },
   "broadcast": null,
   "rank": 663,
   "popularity": 3235,
   "rating": "pg_13",
+  "num_scoring_users": 38510,
+  "nsfw": "white",
+  "source": "manga",
+  "related_anime": [
+    {
+      "node": {
+        "id": 1253,
+        "title": "Saint Seiya: Meiou Hades Meikai-hen",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/12/75732.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/12/75732l.jpg"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    },
+    {
+      "node": {
+        "id": 1254,
+        "title": "Saint Seiya",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1180/133782.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1180/133782l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    },
+    {
+      "node": {
+        "id": 6154,
+        "title": "Saint Seiya: Meiou Hades Juuni Kyuu-hen - Yomigaerishi Gold Saint-tachi no Shinwa",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/7/13518.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/7/13518l.jpg"
+        }
+      },
+      "relation_type": "summary",
+      "relation_type_formatted": "Summary"
+    }
+  ],
+  "related_manga": [],
+  "recommendations": [],
+  "statistics": {
+    "status": {
+      "watching": "1867",
+      "completed": "52887",
+      "on_hold": "715",
+      "dropped": "725",
+      "plan_to_watch": "7964"
+    },
+    "num_list_users": 64158
+  },
+  "mal_details_updated_at": "2026-11-15T17:21:33.477Z",
   "simkl_id": 41291,
   "episodes_data": [
     {
@@ -225,63 +270,5 @@
       "description": null
     }
   ],
-  "characters": [],
-  "num_scoring_users": 38510,
-  "nsfw": "white",
-  "created_at": "2006-08-06T06:48:53+00:00",
-  "updated_at": "2023-04-22T21:03:50+00:00",
-  "source": "manga",
-  "background": null,
-  "related_anime": [
-    {
-      "node": {
-        "id": 1253,
-        "title": "Saint Seiya: Meiou Hades Meikai-hen",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/12/75732.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/12/75732l.jpg"
-        }
-      },
-      "relation_type": "sequel",
-      "relation_type_formatted": "Sequel"
-    },
-    {
-      "node": {
-        "id": 1254,
-        "title": "Saint Seiya",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1180/133782.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1180/133782l.jpg"
-        }
-      },
-      "relation_type": "prequel",
-      "relation_type_formatted": "Prequel"
-    },
-    {
-      "node": {
-        "id": 6154,
-        "title": "Saint Seiya: Meiou Hades Juuni Kyuu-hen - Yomigaerishi Gold Saint-tachi no Shinwa",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/7/13518.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/7/13518l.jpg"
-        }
-      },
-      "relation_type": "summary",
-      "relation_type_formatted": "Summary"
-    }
-  ],
-  "related_manga": [],
-  "recommendations": [],
-  "statistics": {
-    "status": {
-      "watching": "1867",
-      "completed": "52887",
-      "on_hold": "715",
-      "dropped": "725",
-      "plan_to_watch": "7964"
-    },
-    "num_list_users": 64158
-  },
-  "mal_details_updated_at": "2026-11-15T17:21:33.477Z",
-  "translations_updated_at": "2026-11-15T17:24:11.147Z"
+  "translations_updated_at": "2026-11-15T22:15:25.530Z"
 }

@@ -30,8 +30,8 @@
   "num_episodes": null,
   "score": 6.89,
   "mean": 6.89,
-  "numListUsers": 28333,
-  "num_list_users": 28333,
+  "numListUsers": 28372,
+  "num_list_users": 28372,
   "genres": [
     {
       "id": 1,
@@ -52,11 +52,7 @@
       "name": "100studio"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1668/150903l.webp",
-    "https://cdn.myanimelist.net/images/anime/1249/156304l.webp",
-    "https://cdn.myanimelist.net/images/anime/1299/159977l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/d63e5W3rWWuMIDcrUgmZTauMbna.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/mzzv48m0o3nvgMyNpbi8J4Ri6IC.png",
   "tmdb_id": "295420",
@@ -73,7 +69,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1668/150903l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1299/159977l.webp"
     }
   },
   "broadcast": {
@@ -87,6 +83,48 @@
   "rank": 5554,
   "popularity": 4926,
   "rating": "r",
+  "num_scoring_users": 2874,
+  "nsfw": "white",
+  "source": "manga",
+  "related_anime": [
+    {
+      "node": {
+        "id": 63811,
+        "title": "Shuiro no Kamen Part 2",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1360/156303.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1360/156303l.jpg"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    }
+  ],
+  "related_manga": [],
+  "recommendations": [
+    {
+      "node": {
+        "id": 20853,
+        "title": "Hitsugi no Chaika",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/4/61781.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/4/61781l.webp"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "13406",
+      "completed": "2",
+      "on_hold": "411",
+      "dropped": "1010",
+      "plan_to_watch": "13502"
+    },
+    "num_list_users": 28331
+  },
+  "mal_details_updated_at": "2026-11-15T17:13:34.845Z",
   "simkl_id": 2831382,
   "episodes_data": [
     {
@@ -155,51 +193,5 @@
     }
   ],
   "specials_data": [],
-  "characters": [],
-  "num_scoring_users": 2874,
-  "nsfw": "white",
-  "created_at": "2025-07-05T18:17:48+00:00",
-  "updated_at": "2026-11-14T20:28:57+00:00",
-  "source": "manga",
-  "background": null,
-  "related_anime": [
-    {
-      "node": {
-        "id": 63811,
-        "title": "Shuiro no Kamen Part 2",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1360/156303.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1360/156303l.jpg"
-        }
-      },
-      "relation_type": "sequel",
-      "relation_type_formatted": "Sequel"
-    }
-  ],
-  "related_manga": [],
-  "recommendations": [
-    {
-      "node": {
-        "id": 20853,
-        "title": "Hitsugi no Chaika",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/4/61781.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/4/61781l.webp"
-        }
-      },
-      "num_recommendations": 1
-    }
-  ],
-  "statistics": {
-    "status": {
-      "watching": "13406",
-      "completed": "2",
-      "on_hold": "411",
-      "dropped": "1010",
-      "plan_to_watch": "13502"
-    },
-    "num_list_users": 28331
-  },
-  "mal_details_updated_at": "2026-11-15T17:13:34.845Z",
-  "translations_updated_at": "2026-11-15T17:24:41.293Z"
+  "translations_updated_at": "2026-11-15T22:15:53.141Z"
 }

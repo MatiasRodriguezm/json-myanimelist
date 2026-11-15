@@ -30,8 +30,8 @@
   "num_episodes": 4,
   "score": 7.91,
   "mean": 7.91,
-  "numListUsers": 75662,
-  "num_list_users": 75662,
+  "numListUsers": 75664,
+  "num_list_users": 75664,
   "genres": [
     {
       "id": 53,
@@ -56,14 +56,11 @@
       "name": "Production I.G"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/7/30759l.webp",
-    "https://cdn.myanimelist.net/images/anime/2/63279l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T17:22:06.276Z",
+  "tmdb_updated_at": "2026-11-15T22:14:42.236Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/7/30759.webp",
@@ -83,6 +80,37 @@
   "rank": 935,
   "popularity": 2938,
   "rating": "pg_13",
+  "num_scoring_users": 42895,
+  "nsfw": "white",
+  "source": "manga",
+  "background": "Usagi Drop Specials are four short episodes included with the Blu-ray and DVD release of Usagi Drop.",
+  "related_anime": [
+    {
+      "node": {
+        "id": 10162,
+        "title": "Usagi Drop",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1460/98853.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1460/98853l.jpg"
+        }
+      },
+      "relation_type": "parent_story",
+      "relation_type_formatted": "Parent story"
+    }
+  ],
+  "related_manga": [],
+  "recommendations": [],
+  "statistics": {
+    "status": {
+      "watching": "1616",
+      "completed": "60993",
+      "on_hold": "883",
+      "dropped": "523",
+      "plan_to_watch": "11636"
+    },
+    "num_list_users": 75651
+  },
+  "mal_details_updated_at": "2026-11-15T17:22:05.986Z",
   "simkl_id": 576331,
   "episodes_data": [
     {
@@ -208,39 +236,5 @@
       "description": "After visiting a festival, Kouki is still not tired, so Daikichi suggests a little detour on their way home, thus showing Rin, Kouki and Yukari his \"secret place\"."
     }
   ],
-  "characters": [],
-  "num_scoring_users": 42895,
-  "nsfw": "white",
-  "created_at": "2011-07-30T20:51:15+00:00",
-  "updated_at": "2022-04-03T03:12:42+00:00",
-  "source": "manga",
-  "background": "Usagi Drop Specials are four short episodes included with the Blu-ray and DVD release of Usagi Drop.",
-  "related_anime": [
-    {
-      "node": {
-        "id": 10162,
-        "title": "Usagi Drop",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1460/98853.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1460/98853l.jpg"
-        }
-      },
-      "relation_type": "parent_story",
-      "relation_type_formatted": "Parent story"
-    }
-  ],
-  "related_manga": [],
-  "recommendations": [],
-  "statistics": {
-    "status": {
-      "watching": "1616",
-      "completed": "60993",
-      "on_hold": "883",
-      "dropped": "523",
-      "plan_to_watch": "11636"
-    },
-    "num_list_users": 75651
-  },
-  "mal_details_updated_at": "2026-11-15T17:22:05.986Z",
-  "translations_updated_at": "2026-11-15T17:24:10.245Z"
+  "translations_updated_at": "2026-11-15T22:15:24.657Z"
 }

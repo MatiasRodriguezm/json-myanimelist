@@ -32,8 +32,8 @@
   "num_episodes": 1,
   "score": 8.67,
   "mean": 8.67,
-  "numListUsers": 1406907,
-  "num_list_users": 1406907,
+  "numListUsers": 1406954,
+  "num_list_users": 1406954,
   "genres": [
     {
       "id": 1,
@@ -58,15 +58,7 @@
       "name": "Studio Ghibli"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1/164l.webp",
-    "https://cdn.myanimelist.net/images/anime/7/19538l.webp",
-    "https://cdn.myanimelist.net/images/anime/10/19539l.webp",
-    "https://cdn.myanimelist.net/images/anime/9/26570l.webp",
-    "https://cdn.myanimelist.net/images/anime/6/75813l.webp",
-    "https://cdn.myanimelist.net/images/anime/1643/119089l.webp",
-    "https://cdn.myanimelist.net/images/anime/1355/147277l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/gl0jzn4BupSbL2qMVeqrjKkF9Js.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/zmLS3kmBxLlVS1yxRY4x9WiLMrw.png",
   "tmdb_id": "128",
@@ -83,55 +75,15 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1/164l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1355/147277l.webp"
     }
   },
   "broadcast": null,
   "rank": 82,
   "popularity": 110,
   "rating": "pg_13",
-  "simkl_id": 36228,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "title": "Complete Movie",
-      "title_es": "Película completa",
-      "aired": "1997-07-12T00:00:00+09:00",
-      "thumbnail": null,
-      "description": null
-    }
-  ],
-  "specials_data": [
-    {
-      "episode": 1,
-      "title": "Behind the Microphone",
-      "title_es": "Detrás del micrófono",
-      "aired": true,
-      "thumbnail": null,
-      "description": null
-    },
-    {
-      "episode": 2,
-      "title": "Storyboards",
-      "title_es": "Guiones gráficos",
-      "aired": "2001-11-21T00:00:00+09:00",
-      "thumbnail": null,
-      "description": null
-    },
-    {
-      "episode": 3,
-      "title": "Princess Mononoke in USA",
-      "title_es": "La princesa Mononoke en Estados Unidos",
-      "aired": "2013-12-04T00:00:00+09:00",
-      "thumbnail": null,
-      "description": null
-    }
-  ],
-  "characters": [],
   "num_scoring_users": 903466,
   "nsfw": "white",
-  "created_at": "2005-11-12T05:38:23+00:00",
-  "updated_at": "2025-04-01T20:00:44+00:00",
   "source": "original",
   "background": "In 1997, the film won Best Japanese Movie, Best Animation, and Japanese Movie Fans' Choice awards during the 52nd Mainichi Film Awards. In 1998, the film won the Best Picture award during the 21st Japan Academy Awards.",
   "related_anime": [],
@@ -259,5 +211,42 @@
     "num_list_users": 1406715
   },
   "mal_details_updated_at": "2026-11-15T17:20:08.805Z",
-  "translations_updated_at": "2026-11-15T17:23:52.717Z"
+  "simkl_id": 36228,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "title": "Complete Movie",
+      "title_es": "Película completa",
+      "aired": "1997-07-12T00:00:00+09:00",
+      "thumbnail": null,
+      "description": null
+    }
+  ],
+  "specials_data": [
+    {
+      "episode": 1,
+      "title": "Behind the Microphone",
+      "title_es": "Detrás del micrófono",
+      "aired": true,
+      "thumbnail": null,
+      "description": null
+    },
+    {
+      "episode": 2,
+      "title": "Storyboards",
+      "title_es": "Guiones gráficos",
+      "aired": "2001-11-21T00:00:00+09:00",
+      "thumbnail": null,
+      "description": null
+    },
+    {
+      "episode": 3,
+      "title": "Princess Mononoke in USA",
+      "title_es": "La princesa Mononoke en Estados Unidos",
+      "aired": "2013-12-04T00:00:00+09:00",
+      "thumbnail": null,
+      "description": null
+    }
+  ],
+  "translations_updated_at": "2026-11-15T22:15:08.878Z"
 }

@@ -32,8 +32,8 @@
   "num_episodes": 12,
   "score": 6.52,
   "mean": 6.52,
-  "numListUsers": 8781,
-  "num_list_users": 8781,
+  "numListUsers": 8788,
+  "num_list_users": 8788,
   "genres": [
     {
       "id": 50,
@@ -54,12 +54,7 @@
       "name": "East Fish Studio"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1259/152350l.webp",
-    "https://cdn.myanimelist.net/images/anime/1489/156321l.webp",
-    "https://cdn.myanimelist.net/images/anime/1264/158994l.webp",
-    "https://cdn.myanimelist.net/images/anime/1618/160107l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/3jnuPu5CMCDWX7h9JM7SAuF2Ick.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/yi9tqIr0fhIAcqygZCLfpzKRq6n.png",
   "tmdb_id": "302020",
@@ -76,7 +71,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1259/152350l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1618/160107l.webp"
     }
   },
   "broadcast": {
@@ -90,6 +85,23 @@
   "rank": 8065,
   "popularity": 7881,
   "rating": "pg_13",
+  "num_scoring_users": 1009,
+  "nsfw": "white",
+  "source": "original",
+  "related_anime": [],
+  "related_manga": [],
+  "recommendations": [],
+  "statistics": {
+    "status": {
+      "watching": "3590",
+      "completed": 0,
+      "on_hold": "120",
+      "dropped": "621",
+      "plan_to_watch": "4449"
+    },
+    "num_list_users": 8780
+  },
+  "mal_details_updated_at": "2026-11-15T17:14:45.584Z",
   "simkl_id": 2892686,
   "episodes_data": [
     {
@@ -158,26 +170,5 @@
     }
   ],
   "specials_data": [],
-  "characters": [],
-  "num_scoring_users": 1009,
-  "nsfw": "white",
-  "created_at": "2025-10-01T16:20:15+00:00",
-  "updated_at": "2026-10-09T09:59:04+00:00",
-  "source": "original",
-  "background": null,
-  "related_anime": [],
-  "related_manga": [],
-  "recommendations": [],
-  "statistics": {
-    "status": {
-      "watching": "3590",
-      "completed": 0,
-      "on_hold": "120",
-      "dropped": "621",
-      "plan_to_watch": "4449"
-    },
-    "num_list_users": 8780
-  },
-  "mal_details_updated_at": "2026-11-15T17:14:45.584Z",
-  "translations_updated_at": "2026-11-15T17:24:44.769Z"
+  "translations_updated_at": "2026-11-15T22:15:57.193Z"
 }

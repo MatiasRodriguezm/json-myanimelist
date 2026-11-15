@@ -30,8 +30,8 @@
   "num_episodes": 2,
   "score": 8.45,
   "mean": 8.45,
-  "numListUsers": 96512,
-  "num_list_users": 96512,
+  "numListUsers": 96513,
+  "num_list_users": 96513,
   "genres": [
     {
       "id": 1,
@@ -68,9 +68,7 @@
       "name": "Bandai Namco Pictures"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1694/110521l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/3gVl0IvJMbhOnAvH9V0Q1Y1HnXE.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/2GFz7E2Z1UWiWqOv2YGIbIaAWrH.png",
   "tmdb_id": "57041",
@@ -94,33 +92,9 @@
   "rank": 194,
   "popularity": 2529,
   "rating": "pg_13",
-  "simkl_id": 1493999,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "title": "Episode 1",
-      "title_es": "Episodio 1",
-      "aired": "2021-01-15T00:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/14/14677891336dff6ba9_w.webp",
-      "description": null
-    },
-    {
-      "episode": 2,
-      "title": "Episode 2",
-      "title_es": "Episodio 2",
-      "aired": "2021-01-20T00:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/14/14677893c6a5a60fe6_w.webp",
-      "description": null
-    }
-  ],
-  "specials_data": [],
-  "characters": [],
   "num_scoring_users": 49065,
   "nsfw": "white",
-  "created_at": "2020-11-22T14:10:26+00:00",
-  "updated_at": "2023-01-17T16:27:52+00:00",
   "source": "manga",
-  "background": null,
   "related_anime": [
     {
       "node": {
@@ -160,5 +134,25 @@
     "num_list_users": 96472
   },
   "mal_details_updated_at": "2026-11-15T17:21:45.303Z",
-  "translations_updated_at": "2026-11-15T17:24:04.963Z"
+  "simkl_id": 1493999,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "title": "Episode 1",
+      "title_es": "Episodio 1",
+      "aired": "2021-01-15T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/14/14677891336dff6ba9_w.webp",
+      "description": null
+    },
+    {
+      "episode": 2,
+      "title": "Episode 2",
+      "title_es": "Episodio 2",
+      "aired": "2021-01-20T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/14/14677893c6a5a60fe6_w.webp",
+      "description": null
+    }
+  ],
+  "specials_data": [],
+  "translations_updated_at": "2026-11-15T22:15:19.159Z"
 }

@@ -64,21 +64,11 @@
       "name": "TMS Entertainment"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/7/29580l.webp",
-    "https://cdn.myanimelist.net/images/anime/9/29583l.webp",
-    "https://cdn.myanimelist.net/images/anime/10/29584l.webp",
-    "https://cdn.myanimelist.net/images/anime/8/29596l.webp",
-    "https://cdn.myanimelist.net/images/anime/12/29597l.webp",
-    "https://cdn.myanimelist.net/images/anime/1982/92780l.webp",
-    "https://cdn.myanimelist.net/images/anime/1023/106126l.webp",
-    "https://cdn.myanimelist.net/images/anime/1521/151924l.webp",
-    "https://cdn.myanimelist.net/images/anime/1252/151925l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T17:21:30.180Z",
+  "tmdb_updated_at": "2026-11-15T22:14:35.283Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/12/29597.webp",
@@ -91,13 +81,78 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/7/29580l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/12/29597l.webp"
     }
   },
   "broadcast": null,
   "rank": 582,
   "popularity": 2791,
   "rating": "pg_13",
+  "num_scoring_users": 48377,
+  "nsfw": "white",
+  "source": "manga",
+  "related_anime": [
+    {
+      "node": {
+        "id": 1254,
+        "title": "Saint Seiya",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1180/133782.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1180/133782l.jpg"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    },
+    {
+      "node": {
+        "id": 6171,
+        "title": "Saint Seiya: The Lost Canvas - Meiou Shinwa",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/8/75546.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/8/75546l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    }
+  ],
+  "related_manga": [],
+  "recommendations": [
+    {
+      "node": {
+        "id": 6702,
+        "title": "Fairy Tail",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/5/18179.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/5/18179l.webp"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 12293,
+        "title": "Campione! Matsurowanu Kamigami to Kamigoroshi no Maou",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/13/75662.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/13/75662l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "3174",
+      "completed": "63073",
+      "on_hold": "1344",
+      "dropped": "1145",
+      "plan_to_watch": "13388"
+    },
+    "num_list_users": 82124
+  },
+  "mal_details_updated_at": "2026-11-15T17:21:29.973Z",
   "simkl_id": 36269,
   "episodes_data": [
     {
@@ -343,74 +398,5 @@
       "description": "Part two of the talk event with Seiyuus: Kakihara Tetsuya, Shimono Hiro, Hirano Aya and Ono Daisuke.\nThis came with the Japanese DVD & BD volume 6:"
     }
   ],
-  "characters": [],
-  "num_scoring_users": 48377,
-  "nsfw": "white",
-  "created_at": "2010-07-04T00:54:16+00:00",
-  "updated_at": "2025-02-12T19:43:13+00:00",
-  "source": "manga",
-  "background": null,
-  "related_anime": [
-    {
-      "node": {
-        "id": 1254,
-        "title": "Saint Seiya",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1180/133782.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1180/133782l.jpg"
-        }
-      },
-      "relation_type": "sequel",
-      "relation_type_formatted": "Sequel"
-    },
-    {
-      "node": {
-        "id": 6171,
-        "title": "Saint Seiya: The Lost Canvas - Meiou Shinwa",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/8/75546.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/8/75546l.jpg"
-        }
-      },
-      "relation_type": "prequel",
-      "relation_type_formatted": "Prequel"
-    }
-  ],
-  "related_manga": [],
-  "recommendations": [
-    {
-      "node": {
-        "id": 6702,
-        "title": "Fairy Tail",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/5/18179.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/5/18179l.webp"
-        }
-      },
-      "num_recommendations": 2
-    },
-    {
-      "node": {
-        "id": 12293,
-        "title": "Campione! Matsurowanu Kamigami to Kamigoroshi no Maou",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/13/75662.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/13/75662l.jpg"
-        }
-      },
-      "num_recommendations": 1
-    }
-  ],
-  "statistics": {
-    "status": {
-      "watching": "3174",
-      "completed": "63073",
-      "on_hold": "1344",
-      "dropped": "1145",
-      "plan_to_watch": "13388"
-    },
-    "num_list_users": 82124
-  },
-  "mal_details_updated_at": "2026-11-15T17:21:29.973Z",
-  "translations_updated_at": "2026-11-15T17:25:14.816Z"
+  "translations_updated_at": "2026-11-15T22:16:25.097Z"
 }

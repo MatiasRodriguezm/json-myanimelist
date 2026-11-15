@@ -66,17 +66,7 @@
       "name": "Shaft"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/5/49443l.webp",
-    "https://cdn.myanimelist.net/images/anime/6/63481l.webp",
-    "https://cdn.myanimelist.net/images/anime/2/63483l.webp",
-    "https://cdn.myanimelist.net/images/anime/13/63485l.webp",
-    "https://cdn.myanimelist.net/images/anime/10/63487l.webp",
-    "https://cdn.myanimelist.net/images/anime/8/63489l.webp",
-    "https://cdn.myanimelist.net/images/anime/1994/107960l.webp",
-    "https://cdn.myanimelist.net/images/anime/1815/121533l.webp",
-    "https://cdn.myanimelist.net/images/anime/1807/121534l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/cHII6sQ91q8H5EMONKCwCQMauCP.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/1PloWpJba8A3I0x8Ry92IGYromk.png",
   "tmdb_id": "46195",
@@ -93,7 +83,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/5/49443l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1807/121534l.webp"
     }
   },
   "broadcast": {
@@ -107,6 +97,184 @@
   "rank": 50,
   "popularity": 329,
   "rating": "r",
+  "num_scoring_users": 385393,
+  "nsfw": "white",
+  "source": "light_novel",
+  "background": "Monogatari Series: Second Season adapts all but the third volume of NisiOisiN's light novel series of the same title. The third volume's adaptation, Hanamonogatari, was aired separately in August 2014. The complete Blu-ray release includes each arc under its novel title and places Hanamonogatari between episodes 11 and 12 of Monogatari Series: Second Season to reflect the original novel order.",
+  "related_anime": [
+    {
+      "node": {
+        "id": 11597,
+        "title": "Nisemonogatari",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1044/103654.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1044/103654l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    },
+    {
+      "node": {
+        "id": 21855,
+        "title": "Hanamonogatari",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/13/65755.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/13/65755l.webp"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    },
+    {
+      "node": {
+        "id": 32268,
+        "title": "Koyomimonogatari",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/2/77744.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/2/77744l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 37139,
+        "title": "Koyomi History",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1664/90128.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1664/90128l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    }
+  ],
+  "related_manga": [],
+  "recommendations": [
+    {
+      "node": {
+        "id": 6594,
+        "title": "Katanagatari",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1112/119225.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1112/119225l.jpg"
+        }
+      },
+      "num_recommendations": 4
+    },
+    {
+      "node": {
+        "id": 2236,
+        "title": "Toki wo Kakeru Shoujo",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1/2432.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1/2432l.jpg"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 30,
+        "title": "Shinseiki Evangelion",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1314/108941.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1314/108941l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 2966,
+        "title": "Ookami to Koushinryou",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/5/59401.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/5/59401l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 20507,
+        "title": "Noragami",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1886/128266.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1886/128266l.webp"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 6746,
+        "title": "Durarara!!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/71772.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/71772l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 24765,
+        "title": "Gakkougurashi!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1798/91548.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1798/91548l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 2251,
+        "title": "Baccano!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/3/14547.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/3/14547l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 18897,
+        "title": "Nisekoi",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/13/75587.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/13/75587l.webp"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 2605,
+        "title": "Sayonara Zetsubou Sensei",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/5/6559.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/5/6559l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "47746",
+      "completed": "477907",
+      "on_hold": "21896",
+      "dropped": "8951",
+      "plan_to_watch": "173273"
+    },
+    "num_list_users": 729773
+  },
+  "mal_details_updated_at": "2026-11-15T17:20:02.697Z",
   "simkl_id": 38649,
   "episodes_data": [
     {
@@ -328,186 +496,5 @@
       "description": null
     }
   ],
-  "characters": [],
-  "num_scoring_users": 385393,
-  "nsfw": "white",
-  "created_at": "2013-01-07T22:56:16+00:00",
-  "updated_at": "2024-06-23T22:42:36+00:00",
-  "source": "light_novel",
-  "background": "Monogatari Series: Second Season adapts all but the third volume of NisiOisiN's light novel series of the same title. The third volume's adaptation, Hanamonogatari, was aired separately in August 2014. The complete Blu-ray release includes each arc under its novel title and places Hanamonogatari between episodes 11 and 12 of Monogatari Series: Second Season to reflect the original novel order.",
-  "related_anime": [
-    {
-      "node": {
-        "id": 11597,
-        "title": "Nisemonogatari",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1044/103654.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1044/103654l.jpg"
-        }
-      },
-      "relation_type": "prequel",
-      "relation_type_formatted": "Prequel"
-    },
-    {
-      "node": {
-        "id": 21855,
-        "title": "Hanamonogatari",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/13/65755.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/13/65755l.webp"
-        }
-      },
-      "relation_type": "sequel",
-      "relation_type_formatted": "Sequel"
-    },
-    {
-      "node": {
-        "id": 32268,
-        "title": "Koyomimonogatari",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/2/77744.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/2/77744l.jpg"
-        }
-      },
-      "relation_type": "side_story",
-      "relation_type_formatted": "Side story"
-    },
-    {
-      "node": {
-        "id": 37139,
-        "title": "Koyomi History",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1664/90128.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1664/90128l.jpg"
-        }
-      },
-      "relation_type": "side_story",
-      "relation_type_formatted": "Side story"
-    }
-  ],
-  "related_manga": [],
-  "recommendations": [
-    {
-      "node": {
-        "id": 6594,
-        "title": "Katanagatari",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1112/119225.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1112/119225l.jpg"
-        }
-      },
-      "num_recommendations": 4
-    },
-    {
-      "node": {
-        "id": 2236,
-        "title": "Toki wo Kakeru Shoujo",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1/2432.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1/2432l.jpg"
-        }
-      },
-      "num_recommendations": 2
-    },
-    {
-      "node": {
-        "id": 30,
-        "title": "Shinseiki Evangelion",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1314/108941.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1314/108941l.jpg"
-        }
-      },
-      "num_recommendations": 1
-    },
-    {
-      "node": {
-        "id": 2966,
-        "title": "Ookami to Koushinryou",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/5/59401.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/5/59401l.jpg"
-        }
-      },
-      "num_recommendations": 1
-    },
-    {
-      "node": {
-        "id": 20507,
-        "title": "Noragami",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1886/128266.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1886/128266l.webp"
-        }
-      },
-      "num_recommendations": 1
-    },
-    {
-      "node": {
-        "id": 6746,
-        "title": "Durarara!!",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/10/71772.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/10/71772l.jpg"
-        }
-      },
-      "num_recommendations": 1
-    },
-    {
-      "node": {
-        "id": 24765,
-        "title": "Gakkougurashi!",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1798/91548.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1798/91548l.jpg"
-        }
-      },
-      "num_recommendations": 1
-    },
-    {
-      "node": {
-        "id": 2251,
-        "title": "Baccano!",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/3/14547.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/3/14547l.jpg"
-        }
-      },
-      "num_recommendations": 1
-    },
-    {
-      "node": {
-        "id": 18897,
-        "title": "Nisekoi",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/13/75587.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/13/75587l.webp"
-        }
-      },
-      "num_recommendations": 1
-    },
-    {
-      "node": {
-        "id": 2605,
-        "title": "Sayonara Zetsubou Sensei",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/5/6559.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/5/6559l.jpg"
-        }
-      },
-      "num_recommendations": 1
-    }
-  ],
-  "statistics": {
-    "status": {
-      "watching": "47746",
-      "completed": "477907",
-      "on_hold": "21896",
-      "dropped": "8951",
-      "plan_to_watch": "173273"
-    },
-    "num_list_users": 729773
-  },
-  "mal_details_updated_at": "2026-11-15T17:20:02.697Z",
-  "translations_updated_at": "2026-11-15T17:23:56.387Z"
+  "translations_updated_at": "2026-11-15T22:15:12.307Z"
 }

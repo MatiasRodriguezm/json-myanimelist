@@ -30,8 +30,8 @@
   "num_episodes": 12,
   "score": 8.15,
   "mean": 8.15,
-  "numListUsers": 107613,
-  "num_list_users": 107613,
+  "numListUsers": 107699,
+  "num_list_users": 107699,
   "genres": [
     {
       "id": 64,
@@ -64,17 +64,7 @@
       "name": "Electric Circus"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1591/148854l.webp",
-    "https://cdn.myanimelist.net/images/anime/1940/154512l.webp",
-    "https://cdn.myanimelist.net/images/anime/1598/154959l.webp",
-    "https://cdn.myanimelist.net/images/anime/1573/155235l.webp",
-    "https://cdn.myanimelist.net/images/anime/1548/155584l.webp",
-    "https://cdn.myanimelist.net/images/anime/1103/156123l.webp",
-    "https://cdn.myanimelist.net/images/anime/1976/156319l.webp",
-    "https://cdn.myanimelist.net/images/anime/1036/159741l.webp",
-    "https://cdn.myanimelist.net/images/anime/1990/160267l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/8p39Ud6ZKMixBQ7R4frg2o3idzc.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/ubw6k78dv5SU9y9JoHRkBW8pGuN.png",
   "tmdb_id": "207347",
@@ -91,7 +81,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1591/148854l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1990/160267l.webp"
     }
   },
   "broadcast": {
@@ -105,6 +95,36 @@
   "rank": 528,
   "popularity": 2353,
   "rating": "pg_13",
+  "num_scoring_users": 8995,
+  "nsfw": "white",
+  "source": "manga",
+  "related_anime": [
+    {
+      "node": {
+        "id": 57181,
+        "title": "Ao no Hako",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1341/145349.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1341/145349l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    }
+  ],
+  "related_manga": [],
+  "recommendations": [],
+  "statistics": {
+    "status": {
+      "watching": "45374",
+      "completed": "8",
+      "on_hold": "872",
+      "dropped": "525",
+      "plan_to_watch": "60836"
+    },
+    "num_list_users": 107615
+  },
+  "mal_details_updated_at": "2026-11-15T17:13:12.168Z",
   "simkl_id": 2747914,
   "episodes_data": [
     {
@@ -151,7 +171,7 @@
       "episode": 6,
       "title": "Episode 6",
       "aired": "2026-11-15T16:30:00+09:00",
-      "thumbnail": null,
+      "thumbnail": "https://simkl.in/episodes/21/21078251af738a057a_w.webp",
       "description": null,
       "title_es": "Episodio 6"
     },
@@ -173,39 +193,5 @@
     }
   ],
   "specials_data": [],
-  "characters": [],
-  "num_scoring_users": 8995,
-  "nsfw": "white",
-  "created_at": "2025-03-27T15:28:54+00:00",
-  "updated_at": "2026-10-04T19:48:56+00:00",
-  "source": "manga",
-  "background": null,
-  "related_anime": [
-    {
-      "node": {
-        "id": 57181,
-        "title": "Ao no Hako",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1341/145349.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1341/145349l.jpg"
-        }
-      },
-      "relation_type": "prequel",
-      "relation_type_formatted": "Prequel"
-    }
-  ],
-  "related_manga": [],
-  "recommendations": [],
-  "statistics": {
-    "status": {
-      "watching": "45374",
-      "completed": "8",
-      "on_hold": "872",
-      "dropped": "525",
-      "plan_to_watch": "60836"
-    },
-    "num_list_users": 107615
-  },
-  "mal_details_updated_at": "2026-11-15T17:13:12.168Z",
-  "translations_updated_at": "2026-11-15T17:24:37.735Z"
+  "translations_updated_at": "2026-11-15T22:15:50.419Z"
 }

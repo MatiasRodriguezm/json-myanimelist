@@ -30,8 +30,8 @@
   "num_episodes": null,
   "score": null,
   "mean": null,
-  "numListUsers": 13754,
-  "num_list_users": 13754,
+  "numListUsers": 13767,
+  "num_list_users": 13767,
   "genres": [
     {
       "id": 50,
@@ -60,14 +60,11 @@
       "name": "Tezuka Productions"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1126/156454l.webp",
-    "https://cdn.myanimelist.net/images/anime/1384/160534l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T17:17:02.559Z",
+  "tmdb_updated_at": "2026-11-15T22:13:41.974Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1384/160534.webp",
@@ -80,7 +77,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1126/156454l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1384/160534l.webp"
     }
   },
   "broadcast": {
@@ -94,25 +91,8 @@
   "rank": null,
   "popularity": 6545,
   "rating": "r",
-  "simkl_id": 3068612,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "title": "Episode 1",
-      "aired": "2027-01-10T00:55:00+09:00",
-      "thumbnail": null,
-      "description": null,
-      "title_es": "Episodio 1"
-    }
-  ],
-  "specials_data": [],
-  "characters": [],
-  "num_scoring_users": null,
   "nsfw": "white",
-  "created_at": "2026-04-01T17:02:10+00:00",
-  "updated_at": "2026-09-14T15:12:48+00:00",
   "source": "manga",
-  "background": null,
   "related_anime": [
     {
       "node": {
@@ -140,5 +120,17 @@
     "num_list_users": 13753
   },
   "mal_details_updated_at": "2026-11-15T17:17:02.089Z",
-  "translations_updated_at": "2026-11-15T17:24:59.413Z"
+  "simkl_id": 3068612,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "title": "Episode 1",
+      "aired": "2027-01-10T00:55:00+09:00",
+      "thumbnail": null,
+      "description": null,
+      "title_es": "Episodio 1"
+    }
+  ],
+  "specials_data": [],
+  "translations_updated_at": "2026-11-15T22:16:09.816Z"
 }

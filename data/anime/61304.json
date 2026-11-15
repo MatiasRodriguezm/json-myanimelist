@@ -34,8 +34,8 @@
   "num_episodes": null,
   "score": null,
   "mean": null,
-  "numListUsers": 23223,
-  "num_list_users": 23223,
+  "numListUsers": 23232,
+  "num_list_users": 23232,
   "genres": [
     {
       "id": 4,
@@ -64,14 +64,11 @@
       "name": "SynergySP"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1599/157797l.webp",
-    "https://cdn.myanimelist.net/images/anime/1953/158845l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T17:16:57.911Z",
+  "tmdb_updated_at": "2026-11-15T22:13:39.118Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1953/158845.webp",
@@ -84,32 +81,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1599/157797l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1953/158845l.webp"
     }
   },
   "broadcast": null,
   "rank": null,
   "popularity": 5352,
   "rating": "pg_13",
-  "simkl_id": 2747898,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "title": "Episode 1",
-      "aired": "2027-01-01T00:00:00+09:00",
-      "thumbnail": null,
-      "description": null,
-      "title_es": "Episodio 1"
-    }
-  ],
-  "specials_data": [],
-  "characters": [],
   "num_scoring_users": 1,
   "nsfw": "white",
-  "created_at": "2025-03-24T17:00:13+00:00",
-  "updated_at": "2026-11-12T21:18:10+00:00",
   "source": "manga",
-  "background": null,
   "related_anime": [
     {
       "node": {
@@ -137,5 +118,17 @@
     "num_list_users": 23223
   },
   "mal_details_updated_at": "2026-11-15T17:16:57.204Z",
-  "translations_updated_at": "2026-11-15T17:24:37.545Z"
+  "simkl_id": 2747898,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "title": "Episode 1",
+      "aired": "2027-01-01T00:00:00+09:00",
+      "thumbnail": null,
+      "description": null,
+      "title_es": "Episodio 1"
+    }
+  ],
+  "specials_data": [],
+  "translations_updated_at": "2026-11-15T22:15:50.243Z"
 }

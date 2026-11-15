@@ -30,8 +30,8 @@
   "num_episodes": 2,
   "score": 8.29,
   "mean": 8.29,
-  "numListUsers": 40560,
-  "num_list_users": 40560,
+  "numListUsers": 40561,
+  "num_list_users": 40561,
   "genres": [
     {
       "id": 27,
@@ -52,10 +52,7 @@
       "name": "SynergySP"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/7/38269l.webp",
-    "https://cdn.myanimelist.net/images/anime/5/75220l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/ks0KMwgv05PLZW95H8u1zji9BC5.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/msJl5eAFvFrlOVM64DFv0Z7hvru.png",
   "tmdb_id": "29602",
@@ -72,40 +69,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/7/38269l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/5/75220l.webp"
     }
   },
   "broadcast": null,
   "rank": 341,
   "popularity": 4176,
   "rating": "pg_13",
-  "simkl_id": 39950,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "title": "Volume 1",
-      "title_es": "Volumen 1",
-      "aired": "2011-12-14T00:00:00+09:00",
-      "thumbnail": null,
-      "description": null
-    },
-    {
-      "episode": 2,
-      "title": "Volume 2",
-      "title_es": "Volumen 2",
-      "aired": "2012-01-17T00:00:00+09:00",
-      "thumbnail": null,
-      "description": null
-    }
-  ],
-  "specials_data": [],
-  "characters": [],
   "num_scoring_users": 22268,
   "nsfw": "white",
-  "created_at": "2011-10-31T03:12:36+00:00",
-  "updated_at": "2023-01-15T04:31:13+00:00",
   "source": "manga",
-  "background": null,
   "related_anime": [
     {
       "node": {
@@ -157,5 +130,25 @@
     "num_list_users": 40557
   },
   "mal_details_updated_at": "2026-11-15T17:21:24.125Z",
-  "translations_updated_at": "2026-11-15T17:24:07.814Z"
+  "simkl_id": 39950,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "title": "Volume 1",
+      "title_es": "Volumen 1",
+      "aired": "2011-12-14T00:00:00+09:00",
+      "thumbnail": null,
+      "description": null
+    },
+    {
+      "episode": 2,
+      "title": "Volume 2",
+      "title_es": "Volumen 2",
+      "aired": "2012-01-17T00:00:00+09:00",
+      "thumbnail": null,
+      "description": null
+    }
+  ],
+  "specials_data": [],
+  "translations_updated_at": "2026-11-15T22:15:21.500Z"
 }

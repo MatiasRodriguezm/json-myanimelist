@@ -64,12 +64,7 @@
       "name": "Cloud Art"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1000/153727l.webp",
-    "https://cdn.myanimelist.net/images/anime/1581/159362l.webp",
-    "https://cdn.myanimelist.net/images/anime/1754/159363l.webp",
-    "https://cdn.myanimelist.net/images/anime/1983/159660l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/3GrgC6X96kCzwQzeWhOcdn3Ol66.jpg",
   "logo_url": null,
   "tmdb_id": "332444",
@@ -86,13 +81,44 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1000/153727l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1754/159363l.webp"
     }
   },
   "broadcast": null,
   "rank": 22967,
   "popularity": 15574,
   "rating": "pg_13",
+  "num_scoring_users": 101,
+  "nsfw": "white",
+  "source": "web_novel",
+  "background": "Episodes 79-104 of Zhu Xian. \n\nAdaptation of Xiao Ding's (萧鼎) web novel of the same title.",
+  "related_anime": [
+    {
+      "node": {
+        "id": 61784,
+        "title": "Zhu Xian 3rd Season",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1953/150409.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1953/150409l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    }
+  ],
+  "related_manga": [],
+  "recommendations": [],
+  "statistics": {
+    "status": {
+      "watching": "382",
+      "completed": 0,
+      "on_hold": "31",
+      "dropped": "55",
+      "plan_to_watch": "558"
+    },
+    "num_list_users": 1026
+  },
+  "mal_details_updated_at": "2026-11-15T17:15:15.021Z",
   "simkl_id": 3224102,
   "episodes_data": [
     {
@@ -265,39 +291,5 @@
     }
   ],
   "specials_data": [],
-  "characters": [],
-  "num_scoring_users": 101,
-  "nsfw": "white",
-  "created_at": "2025-11-21T18:34:41+00:00",
-  "updated_at": "2026-10-19T20:00:02+00:00",
-  "source": "web_novel",
-  "background": "Episodes 79-104 of Zhu Xian. \n\nAdaptation of Xiao Ding's (萧鼎) web novel of the same title.",
-  "related_anime": [
-    {
-      "node": {
-        "id": 61784,
-        "title": "Zhu Xian 3rd Season",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1953/150409.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1953/150409l.jpg"
-        }
-      },
-      "relation_type": "prequel",
-      "relation_type_formatted": "Prequel"
-    }
-  ],
-  "related_manga": [],
-  "recommendations": [],
-  "statistics": {
-    "status": {
-      "watching": "382",
-      "completed": 0,
-      "on_hold": "31",
-      "dropped": "55",
-      "plan_to_watch": "558"
-    },
-    "num_list_users": 1026
-  },
-  "mal_details_updated_at": "2026-11-15T17:15:15.021Z",
-  "translations_updated_at": "2026-11-15T17:24:48.540Z"
+  "translations_updated_at": "2026-11-15T22:15:59.546Z"
 }

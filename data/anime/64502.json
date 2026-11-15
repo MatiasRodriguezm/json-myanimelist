@@ -48,13 +48,11 @@
       "name": "Pie in the sky"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1791/158762l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T17:16:13.222Z",
+  "tmdb_updated_at": "2026-11-15T22:13:12.526Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1791/158762.webp",
@@ -81,6 +79,36 @@
   "rank": 16220,
   "popularity": 22541,
   "rating": "g",
+  "num_scoring_users": 39,
+  "nsfw": "white",
+  "source": "original",
+  "related_anime": [
+    {
+      "node": {
+        "id": 61765,
+        "title": "Chibi Godzilla no Gyakushuu 3rd Season",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1859/150334.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1859/150334l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    }
+  ],
+  "related_manga": [],
+  "recommendations": [],
+  "statistics": {
+    "status": {
+      "watching": "114",
+      "completed": 0,
+      "on_hold": "12",
+      "dropped": "56",
+      "plan_to_watch": "94"
+    },
+    "num_list_users": 276
+  },
+  "mal_details_updated_at": "2026-11-15T17:16:12.768Z",
   "simkl_id": 3169194,
   "episodes_data": [
     {
@@ -245,39 +273,5 @@
     }
   ],
   "specials_data": [],
-  "characters": [],
-  "num_scoring_users": 39,
-  "nsfw": "white",
-  "created_at": "2026-06-28T09:21:36+00:00",
-  "updated_at": "2026-07-03T11:12:58+00:00",
-  "source": "original",
-  "background": null,
-  "related_anime": [
-    {
-      "node": {
-        "id": 61765,
-        "title": "Chibi Godzilla no Gyakushuu 3rd Season",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1859/150334.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1859/150334l.jpg"
-        }
-      },
-      "relation_type": "prequel",
-      "relation_type_formatted": "Prequel"
-    }
-  ],
-  "related_manga": [],
-  "recommendations": [],
-  "statistics": {
-    "status": {
-      "watching": "114",
-      "completed": 0,
-      "on_hold": "12",
-      "dropped": "56",
-      "plan_to_watch": "94"
-    },
-    "num_list_users": 276
-  },
-  "mal_details_updated_at": "2026-11-15T17:16:12.768Z",
-  "translations_updated_at": "2026-11-15T17:25:03.477Z"
+  "translations_updated_at": "2026-11-15T22:16:13.472Z"
 }

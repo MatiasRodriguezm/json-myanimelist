@@ -38,8 +38,8 @@
   "num_episodes": null,
   "score": 7.38,
   "mean": 7.38,
-  "numListUsers": 44135,
-  "num_list_users": 44135,
+  "numListUsers": 44138,
+  "num_list_users": 44138,
   "genres": [
     {
       "id": 1,
@@ -68,19 +68,7 @@
       "name": "OLM"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1896/131888l.webp",
-    "https://cdn.myanimelist.net/images/anime/1210/133296l.webp",
-    "https://cdn.myanimelist.net/images/anime/1831/133946l.webp",
-    "https://cdn.myanimelist.net/images/anime/1970/135281l.webp",
-    "https://cdn.myanimelist.net/images/anime/1066/137118l.webp",
-    "https://cdn.myanimelist.net/images/anime/1703/137216l.webp",
-    "https://cdn.myanimelist.net/images/anime/1628/139216l.webp",
-    "https://cdn.myanimelist.net/images/anime/1907/139359l.webp",
-    "https://cdn.myanimelist.net/images/anime/1949/142593l.webp",
-    "https://cdn.myanimelist.net/images/anime/1420/145459l.webp",
-    "https://cdn.myanimelist.net/images/anime/1772/148477l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/d0axpGojOqDag5lDa0eNSEtw11l.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/mYDlRCy9uvowwwyYWQbMj9HUKay.png",
   "tmdb_id": "220150",
@@ -97,7 +85,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1896/131888l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1703/137216l.webp"
     }
   },
   "broadcast": {
@@ -111,6 +99,156 @@
   "rank": 2792,
   "popularity": 4017,
   "rating": "pg",
+  "num_scoring_users": 11165,
+  "nsfw": "white",
+  "source": "game",
+  "background": "Pokemon (2023) features elements and settings from the 2022 Nintendo Switch games Pokémon Scarlet and Violet by Game Freak.",
+  "related_anime": [
+    {
+      "node": {
+        "id": 527,
+        "title": "Pokemon",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1787/140239.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1787/140239l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 53327,
+        "title": "Nanjyamo no Aibou wa Nanimono nanja!? (Donna Monja TV)",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1197/129096.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1197/129096l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 56218,
+        "title": "Houkago no Breath",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1252/140364.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1252/140364l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 56712,
+        "title": "Ghost Dive",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1852/138624.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1852/138624l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 57199,
+        "title": "Biri-Biri",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1001/139709.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1001/139709l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 57488,
+        "title": "Kabigon to Karakara",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1982/140236.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1982/140236l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 60799,
+        "title": "Discover Paldea",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1860/147638.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1860/147638l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 61027,
+        "title": "Ghost Rhyme",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1697/148035.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1697/148035l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 62885,
+        "title": "Iolite",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1553/153246.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1553/153246l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    }
+  ],
+  "related_manga": [],
+  "recommendations": [
+    {
+      "node": {
+        "id": 237,
+        "title": "Koukyoushihen Eureka Seven",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/12/34443.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/12/34443l.webp"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 48661,
+        "title": "JoJo no Kimyou na Bouken Part 6: Stone Ocean",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1896/119844.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1896/119844l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "21441",
+      "completed": 0,
+      "on_hold": "6085",
+      "dropped": "4452",
+      "plan_to_watch": "12087"
+    },
+    "num_list_users": 44065
+  },
+  "mal_details_updated_at": "2026-11-15T17:13:25.250Z",
   "simkl_id": 2059216,
   "episodes_data": [
     {
@@ -911,7 +1049,7 @@
       "aired": "2025-06-20T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/18/18028395e079e80f87_w.webp",
       "description": null,
-      "title_es": "¡Somos los atacantes del Volt en ascenso!"
+      "title_es": "¡Somos los atacantes del Volt en aumento!"
     },
     {
       "episode": 101,
@@ -1453,158 +1591,5 @@
       "title_es": "LikoRoy Canal 10"
     }
   ],
-  "characters": [],
-  "num_scoring_users": 11165,
-  "nsfw": "white",
-  "created_at": "2022-12-16T15:23:07+00:00",
-  "updated_at": "2025-03-21T18:28:05+00:00",
-  "source": "game",
-  "background": "Pokemon (2023) features elements and settings from the 2022 Nintendo Switch games Pokémon Scarlet and Violet by Game Freak.",
-  "related_anime": [
-    {
-      "node": {
-        "id": 527,
-        "title": "Pokemon",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1787/140239.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1787/140239l.jpg"
-        }
-      },
-      "relation_type": "other",
-      "relation_type_formatted": "Other"
-    },
-    {
-      "node": {
-        "id": 53327,
-        "title": "Nanjyamo no Aibou wa Nanimono nanja!? (Donna Monja TV)",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1197/129096.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1197/129096l.jpg"
-        }
-      },
-      "relation_type": "other",
-      "relation_type_formatted": "Other"
-    },
-    {
-      "node": {
-        "id": 56218,
-        "title": "Houkago no Breath",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1252/140364.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1252/140364l.jpg"
-        }
-      },
-      "relation_type": "side_story",
-      "relation_type_formatted": "Side story"
-    },
-    {
-      "node": {
-        "id": 56712,
-        "title": "Ghost Dive",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1852/138624.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1852/138624l.jpg"
-        }
-      },
-      "relation_type": "other",
-      "relation_type_formatted": "Other"
-    },
-    {
-      "node": {
-        "id": 57199,
-        "title": "Biri-Biri",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1001/139709.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1001/139709l.jpg"
-        }
-      },
-      "relation_type": "other",
-      "relation_type_formatted": "Other"
-    },
-    {
-      "node": {
-        "id": 57488,
-        "title": "Kabigon to Karakara",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1982/140236.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1982/140236l.jpg"
-        }
-      },
-      "relation_type": "other",
-      "relation_type_formatted": "Other"
-    },
-    {
-      "node": {
-        "id": 60799,
-        "title": "Discover Paldea",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1860/147638.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1860/147638l.jpg"
-        }
-      },
-      "relation_type": "other",
-      "relation_type_formatted": "Other"
-    },
-    {
-      "node": {
-        "id": 61027,
-        "title": "Ghost Rhyme",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1697/148035.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1697/148035l.jpg"
-        }
-      },
-      "relation_type": "other",
-      "relation_type_formatted": "Other"
-    },
-    {
-      "node": {
-        "id": 62885,
-        "title": "Iolite",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1553/153246.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1553/153246l.jpg"
-        }
-      },
-      "relation_type": "other",
-      "relation_type_formatted": "Other"
-    }
-  ],
-  "related_manga": [],
-  "recommendations": [
-    {
-      "node": {
-        "id": 237,
-        "title": "Koukyoushihen Eureka Seven",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/12/34443.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/12/34443l.webp"
-        }
-      },
-      "num_recommendations": 1
-    },
-    {
-      "node": {
-        "id": 48661,
-        "title": "JoJo no Kimyou na Bouken Part 6: Stone Ocean",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1896/119844.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1896/119844l.jpg"
-        }
-      },
-      "num_recommendations": 1
-    }
-  ],
-  "statistics": {
-    "status": {
-      "watching": "21441",
-      "completed": 0,
-      "on_hold": "6085",
-      "dropped": "4452",
-      "plan_to_watch": "12087"
-    },
-    "num_list_users": 44065
-  },
-  "mal_details_updated_at": "2026-11-15T17:13:25.250Z",
-  "translations_updated_at": "2026-11-15T17:24:27.307Z"
+  "translations_updated_at": "2026-11-15T22:15:40.843Z"
 }

@@ -30,8 +30,8 @@
   "num_episodes": 1,
   "score": null,
   "mean": null,
-  "numListUsers": 161,
-  "num_list_users": 161,
+  "numListUsers": 162,
+  "num_list_users": 162,
   "genres": [
     {
       "id": 2,
@@ -52,13 +52,11 @@
       "name": "Tecarat"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1505/154780l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T17:16:23.477Z",
+  "tmdb_updated_at": "2026-11-15T22:13:17.869Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1505/154780.webp",
@@ -78,16 +76,8 @@
   "rank": null,
   "popularity": 25507,
   "rating": "g",
-  "simkl_id": null,
-  "episodes_data": [],
-  "specials_data": [],
-  "characters": [],
-  "num_scoring_users": null,
   "nsfw": "white",
-  "created_at": "2026-01-01T16:55:25+00:00",
-  "updated_at": "2026-01-02T09:13:54+00:00",
   "source": "original",
-  "background": null,
   "related_anime": [
     {
       "node": {
@@ -115,5 +105,8 @@
     "num_list_users": 161
   },
   "mal_details_updated_at": "2026-11-15T17:16:23.010Z",
-  "translations_updated_at": "2026-11-15T17:24:52.152Z"
+  "simkl_id": null,
+  "episodes_data": [],
+  "specials_data": [],
+  "translations_updated_at": "2026-11-15T22:16:02.812Z"
 }

@@ -30,8 +30,8 @@
   "num_episodes": 1,
   "score": 8.7,
   "mean": 8.7,
-  "numListUsers": 403464,
-  "num_list_users": 403464,
+  "numListUsers": 403502,
+  "num_list_users": 403502,
   "genres": [
     {
       "id": 4,
@@ -60,12 +60,7 @@
       "name": "A-1 Pictures"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1139/124762l.webp",
-    "https://cdn.myanimelist.net/images/anime/1714/128615l.webp",
-    "https://cdn.myanimelist.net/images/anime/1670/130060l.webp",
-    "https://cdn.myanimelist.net/images/anime/1204/132001l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/bCzkRouaqLUSpSP5KHuObo8Fam5.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/z5Fo4IrwpqXhwqkWoGUStrR2OKl.png",
   "tmdb_id": "997317",
@@ -82,23 +77,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1139/124762l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1670/130060l.webp"
     }
   },
   "broadcast": null,
   "rank": 67,
   "popularity": 692,
   "rating": "pg_13",
-  "simkl_id": 2982148,
-  "episodes_data": [],
-  "specials_data": [],
-  "characters": [],
   "num_scoring_users": 230366,
   "nsfw": "white",
-  "created_at": "2022-06-24T16:12:12+00:00",
-  "updated_at": "2026-05-10T00:23:31+00:00",
   "source": "manga",
-  "background": null,
   "related_anime": [
     {
       "node": {
@@ -172,5 +160,8 @@
     "num_list_users": 403301
   },
   "mal_details_updated_at": "2026-11-15T17:20:07.110Z",
-  "translations_updated_at": "2026-11-15T17:24:02.282Z"
+  "simkl_id": 2982148,
+  "episodes_data": [],
+  "specials_data": [],
+  "translations_updated_at": "2026-11-15T22:15:16.469Z"
 }

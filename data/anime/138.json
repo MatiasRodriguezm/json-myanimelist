@@ -32,8 +32,8 @@
   "num_episodes": 8,
   "score": 8.19,
   "mean": 8.19,
-  "numListUsers": 184981,
-  "num_list_users": 184981,
+  "numListUsers": 184984,
+  "num_list_users": 184984,
   "genres": [
     {
       "id": 1,
@@ -58,15 +58,7 @@
       "name": "Nippon Animation"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1/138l.webp",
-    "https://cdn.myanimelist.net/images/anime/2/14102l.webp",
-    "https://cdn.myanimelist.net/images/anime/1376/97181l.webp",
-    "https://cdn.myanimelist.net/images/anime/1807/122318l.webp",
-    "https://cdn.myanimelist.net/images/anime/1022/122319l.webp",
-    "https://cdn.myanimelist.net/images/anime/1902/122320l.webp",
-    "https://cdn.myanimelist.net/images/anime/1889/154798l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/575sxZXNNulSlIz7DvtWH5r4lkC.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/qDSB90QFXHQayEOgtN5kqFzbOlw.png",
   "tmdb_id": "45952",
@@ -83,88 +75,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1/138l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1902/122320l.webp"
     }
   },
   "broadcast": null,
   "rank": 469,
   "popularity": 1539,
   "rating": "pg_13",
-  "simkl_id": 40695,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "title": "Auction x Plan x 80 Percent",
-      "title_es": "Subasta x Plan x 80 por ciento",
-      "aired": "2003-02-05T00:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/17/1754825968787723b8_w.webp",
-      "description": null
-    },
-    {
-      "episode": 2,
-      "title": "Electricity x Aura x Special Attack",
-      "title_es": "Electricidad x Aura x Ataque especial",
-      "aired": "2003-02-05T00:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/17/175482617ce9579087_w.webp",
-      "description": null
-    },
-    {
-      "episode": 3,
-      "title": "Ren x Trial x Everyone's Step",
-      "title_es": "Ren x Prueba x El paso de todos",
-      "aired": "2003-03-05T00:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/17/17548263051af6eeca_w.webp",
-      "description": null
-    },
-    {
-      "episode": 4,
-      "title": "Start x Spell x Reward Street",
-      "title_es": "Inicio x Hechizo x Calle de recompensa",
-      "aired": "2003-03-05T00:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/17/175482657ffb9774eb_w.webp",
-      "description": null
-    },
-    {
-      "episode": 5,
-      "title": "Invitation x List x Rock, Paper, Scissors!",
-      "title_es": "Invitación x Lista x ¡Piedra, papel o tijera!",
-      "aired": "2003-03-19T00:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/17/175482677c300d695a_w.webp",
-      "description": null
-    },
-    {
-      "episode": 6,
-      "title": "Take x Taken x Card Hell",
-      "title_es": "Tomar x Tomar x Tarjeta Infierno",
-      "aired": "2003-03-19T00:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/17/175482695b60f6a180_w.webp",
-      "description": null
-    },
-    {
-      "episode": 7,
-      "title": "Bandit x Monster x Biscuit",
-      "title_es": "Bandido x Monstruo x Galleta",
-      "aired": "2003-04-16T00:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/17/1754827144ca3708ea_w.webp",
-      "description": null
-    },
-    {
-      "episode": 8,
-      "title": "Training x Raw Ore x Scissor Hands",
-      "title_es": "Entrenamiento x Mineral crudo x Manos de tijera",
-      "aired": "2003-04-16T00:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/17/1754827392543c3312_w.webp",
-      "description": null
-    }
-  ],
-  "specials_data": [],
-  "characters": [],
   "num_scoring_users": 93630,
   "nsfw": "white",
-  "created_at": "2005-11-11T14:50:39+00:00",
-  "updated_at": "2023-01-29T18:32:45+00:00",
   "source": "manga",
-  "background": null,
   "related_anime": [
     {
       "node": {
@@ -283,5 +203,73 @@
     "num_list_users": 184950
   },
   "mal_details_updated_at": "2026-11-15T17:21:25.726Z",
-  "translations_updated_at": "2026-11-15T17:24:09.102Z"
+  "simkl_id": 40695,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "title": "Auction x Plan x 80 Percent",
+      "title_es": "Subasta x Plan x 80 por ciento",
+      "aired": "2003-02-05T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/1754825968787723b8_w.webp",
+      "description": null
+    },
+    {
+      "episode": 2,
+      "title": "Electricity x Aura x Special Attack",
+      "title_es": "Electricidad x Aura x Ataque especial",
+      "aired": "2003-02-05T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/175482617ce9579087_w.webp",
+      "description": null
+    },
+    {
+      "episode": 3,
+      "title": "Ren x Trial x Everyone's Step",
+      "title_es": "Ren x Prueba x El paso de todos",
+      "aired": "2003-03-05T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/17548263051af6eeca_w.webp",
+      "description": null
+    },
+    {
+      "episode": 4,
+      "title": "Start x Spell x Reward Street",
+      "title_es": "Inicio x Hechizo x Calle de recompensa",
+      "aired": "2003-03-05T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/175482657ffb9774eb_w.webp",
+      "description": null
+    },
+    {
+      "episode": 5,
+      "title": "Invitation x List x Rock, Paper, Scissors!",
+      "title_es": "Invitación x Lista x ¡Piedra, papel o tijera!",
+      "aired": "2003-03-19T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/175482677c300d695a_w.webp",
+      "description": null
+    },
+    {
+      "episode": 6,
+      "title": "Take x Taken x Card Hell",
+      "title_es": "Tomar x Tomar x Tarjeta Infierno",
+      "aired": "2003-03-19T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/175482695b60f6a180_w.webp",
+      "description": null
+    },
+    {
+      "episode": 7,
+      "title": "Bandit x Monster x Biscuit",
+      "title_es": "Bandido x Monstruo x Galleta",
+      "aired": "2003-04-16T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/1754827144ca3708ea_w.webp",
+      "description": null
+    },
+    {
+      "episode": 8,
+      "title": "Training x Raw Ore x Scissor Hands",
+      "title_es": "Entrenamiento x Mineral crudo x Manos de tijera",
+      "aired": "2003-04-16T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/1754827392543c3312_w.webp",
+      "description": null
+    }
+  ],
+  "specials_data": [],
+  "translations_updated_at": "2026-11-15T22:15:22.739Z"
 }

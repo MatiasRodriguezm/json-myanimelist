@@ -54,14 +54,11 @@
       "name": "Millepensee"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1632/156344l.webp",
-    "https://cdn.myanimelist.net/images/anime/1605/160555l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T17:16:55.312Z",
+  "tmdb_updated_at": "2026-11-15T22:13:37.430Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1605/160555.webp",
@@ -74,32 +71,15 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1632/156344l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1605/160555l.webp"
     }
   },
   "broadcast": null,
   "rank": null,
   "popularity": 4662,
   "rating": "pg_13",
-  "simkl_id": 3064460,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "title": "Episode 1",
-      "aired": "2027-01-01T00:00:00+09:00",
-      "thumbnail": null,
-      "description": null,
-      "title_es": "Episodio 1"
-    }
-  ],
-  "specials_data": [],
-  "characters": [],
-  "num_scoring_users": null,
   "nsfw": "white",
-  "created_at": "2026-03-28T07:13:39+00:00",
-  "updated_at": "2026-10-15T09:30:25+00:00",
   "source": "light_novel",
-  "background": null,
   "related_anime": [
     {
       "node": {
@@ -127,5 +107,17 @@
     "num_list_users": 32227
   },
   "mal_details_updated_at": "2026-11-15T17:16:54.930Z",
-  "translations_updated_at": "2026-11-15T17:24:58.835Z"
+  "simkl_id": 3064460,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "title": "Episode 1",
+      "aired": "2027-01-01T00:00:00+09:00",
+      "thumbnail": null,
+      "description": null,
+      "title_es": "Episodio 1"
+    }
+  ],
+  "specials_data": [],
+  "translations_updated_at": "2026-11-15T22:16:09.276Z"
 }

@@ -30,8 +30,8 @@
   "num_episodes": 24,
   "score": 8.83,
   "mean": 8.83,
-  "numListUsers": 904910,
-  "num_list_users": 904910,
+  "numListUsers": 904962,
+  "num_list_users": 904962,
   "genres": [
     {
       "id": 1,
@@ -64,13 +64,7 @@
       "name": "MAPPA"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1833/116404l.webp",
-    "https://cdn.myanimelist.net/images/anime/1170/124312l.webp",
-    "https://cdn.myanimelist.net/images/anime/1227/124318l.webp",
-    "https://cdn.myanimelist.net/images/anime/1763/136447l.webp",
-    "https://cdn.myanimelist.net/images/anime/1881/136448l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/sPN7Ylc7swmyukJeQBNcRAl9usS.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/3gRatXdgLfzYU9q9WRwuQaIvpGQ.png",
   "tmdb_id": "88803",
@@ -87,7 +81,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1833/116404l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1170/124312l.webp"
     }
   },
   "broadcast": {
@@ -101,6 +95,172 @@
   "rank": 36,
   "popularity": 241,
   "rating": "r",
+  "num_scoring_users": 517669,
+  "nsfw": "white",
+  "source": "manga",
+  "background": "Vinland Saga Season 2 was released on Blu-ray and DVD in two volumes from June 21, 2023, to August 23, 2023.",
+  "related_anime": [
+    {
+      "node": {
+        "id": 37521,
+        "title": "Vinland Saga",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1500/103005.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1500/103005l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    },
+    {
+      "node": {
+        "id": 54463,
+        "title": "Vinland Saga Season 2: Drowning in the Shadow",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1118/133378.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1118/133378l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 55272,
+        "title": "Vinland Saga Season 2: Same Old Story",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1528/135912.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1528/135912l.webp"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    }
+  ],
+  "related_manga": [],
+  "recommendations": [
+    {
+      "node": {
+        "id": 52215,
+        "title": "Chi. Chikyuu no Undou ni Tsuite",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1749/145922.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1749/145922l.jpg"
+        }
+      },
+      "num_recommendations": 5
+    },
+    {
+      "node": {
+        "id": 40729,
+        "title": "Nomad: Megalo Box 2",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1190/113352.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1190/113352l.jpg"
+        }
+      },
+      "num_recommendations": 4
+    },
+    {
+      "node": {
+        "id": 51498,
+        "title": "Masamune-kun no Revenge R",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1667/135587.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1667/135587l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 49827,
+        "title": "Kidou Senshi Gundam: Cucuruz Doan no Shima",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1629/124154.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1629/124154l.webp"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 48569,
+        "title": "86 Part 2",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1321/117508.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1321/117508l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 2559,
+        "title": "Romeo no Aoi Sora",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/4/17979.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/4/17979l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 12355,
+        "title": "Ookami Kodomo no Ame to Yuki",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/9/35721.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/9/35721l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 5114,
+        "title": "Fullmetal Alchemist: Brotherhood",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1208/94745.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1208/94745l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 6,
+        "title": "Trigun",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1130/120002.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1130/120002l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 41457,
+        "title": "86",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1987/117507.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1987/117507l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "97431",
+      "completed": "609652",
+      "on_hold": "18032",
+      "dropped": "10191",
+      "plan_to_watch": "169336"
+    },
+    "num_list_users": 904642
+  },
+  "mal_details_updated_at": "2026-11-15T17:19:57.763Z",
   "simkl_id": 1681241,
   "episodes_data": [
     {
@@ -314,174 +474,5 @@
       "description": null
     }
   ],
-  "characters": [],
-  "num_scoring_users": 517669,
-  "nsfw": "white",
-  "created_at": "2021-07-07T12:25:57+00:00",
-  "updated_at": "2025-10-22T18:36:58+00:00",
-  "source": "manga",
-  "background": "Vinland Saga Season 2 was released on Blu-ray and DVD in two volumes from June 21, 2023, to August 23, 2023.",
-  "related_anime": [
-    {
-      "node": {
-        "id": 37521,
-        "title": "Vinland Saga",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1500/103005.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1500/103005l.jpg"
-        }
-      },
-      "relation_type": "prequel",
-      "relation_type_formatted": "Prequel"
-    },
-    {
-      "node": {
-        "id": 54463,
-        "title": "Vinland Saga Season 2: Drowning in the Shadow",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1118/133378.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1118/133378l.jpg"
-        }
-      },
-      "relation_type": "side_story",
-      "relation_type_formatted": "Side story"
-    },
-    {
-      "node": {
-        "id": 55272,
-        "title": "Vinland Saga Season 2: Same Old Story",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1528/135912.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1528/135912l.webp"
-        }
-      },
-      "relation_type": "side_story",
-      "relation_type_formatted": "Side story"
-    }
-  ],
-  "related_manga": [],
-  "recommendations": [
-    {
-      "node": {
-        "id": 52215,
-        "title": "Chi. Chikyuu no Undou ni Tsuite",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1749/145922.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1749/145922l.jpg"
-        }
-      },
-      "num_recommendations": 5
-    },
-    {
-      "node": {
-        "id": 40729,
-        "title": "Nomad: Megalo Box 2",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1190/113352.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1190/113352l.jpg"
-        }
-      },
-      "num_recommendations": 4
-    },
-    {
-      "node": {
-        "id": 51498,
-        "title": "Masamune-kun no Revenge R",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1667/135587.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1667/135587l.jpg"
-        }
-      },
-      "num_recommendations": 1
-    },
-    {
-      "node": {
-        "id": 49827,
-        "title": "Kidou Senshi Gundam: Cucuruz Doan no Shima",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1629/124154.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1629/124154l.webp"
-        }
-      },
-      "num_recommendations": 1
-    },
-    {
-      "node": {
-        "id": 48569,
-        "title": "86 Part 2",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1321/117508.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1321/117508l.jpg"
-        }
-      },
-      "num_recommendations": 1
-    },
-    {
-      "node": {
-        "id": 2559,
-        "title": "Romeo no Aoi Sora",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/4/17979.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/4/17979l.jpg"
-        }
-      },
-      "num_recommendations": 1
-    },
-    {
-      "node": {
-        "id": 12355,
-        "title": "Ookami Kodomo no Ame to Yuki",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/9/35721.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/9/35721l.jpg"
-        }
-      },
-      "num_recommendations": 1
-    },
-    {
-      "node": {
-        "id": 5114,
-        "title": "Fullmetal Alchemist: Brotherhood",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1208/94745.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1208/94745l.jpg"
-        }
-      },
-      "num_recommendations": 1
-    },
-    {
-      "node": {
-        "id": 6,
-        "title": "Trigun",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1130/120002.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1130/120002l.jpg"
-        }
-      },
-      "num_recommendations": 1
-    },
-    {
-      "node": {
-        "id": 41457,
-        "title": "86",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1987/117507.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1987/117507l.jpg"
-        }
-      },
-      "num_recommendations": 1
-    }
-  ],
-  "statistics": {
-    "status": {
-      "watching": "97431",
-      "completed": "609652",
-      "on_hold": "18032",
-      "dropped": "10191",
-      "plan_to_watch": "169336"
-    },
-    "num_list_users": 904642
-  },
-  "mal_details_updated_at": "2026-11-15T17:19:57.763Z",
-  "translations_updated_at": "2026-11-15T17:23:55.373Z"
+  "translations_updated_at": "2026-11-15T22:15:11.407Z"
 }

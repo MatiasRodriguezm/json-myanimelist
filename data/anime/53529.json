@@ -27,8 +27,8 @@
   "num_episodes": 1,
   "score": null,
   "mean": null,
-  "numListUsers": 40075,
-  "num_list_users": 40075,
+  "numListUsers": 40080,
+  "num_list_users": 40080,
   "genres": [
     {
       "id": 1,
@@ -61,15 +61,11 @@
       "name": "Psyde Kick Studio"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1537/130580l.webp",
-    "https://cdn.myanimelist.net/images/anime/1107/158917l.webp",
-    "https://cdn.myanimelist.net/images/anime/1869/158918l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T17:19:51.810Z",
+  "tmdb_updated_at": "2026-11-15T22:14:28.684Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1869/158918.webp",
@@ -82,23 +78,15 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1537/130580l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1869/158918l.webp"
     }
   },
   "broadcast": null,
   "rank": null,
   "popularity": 4208,
   "rating": null,
-  "simkl_id": 2029378,
-  "episodes_data": [],
-  "specials_data": [],
-  "characters": [],
-  "num_scoring_users": null,
   "nsfw": "white",
-  "created_at": "2022-11-06T11:58:26+00:00",
-  "updated_at": "2026-10-25T11:53:07+00:00",
   "source": "light_novel",
-  "background": null,
   "related_anime": [
     {
       "node": {
@@ -125,5 +113,8 @@
     },
     "num_list_users": 40075
   },
-  "mal_details_updated_at": "2026-11-15T17:19:51.218Z"
+  "mal_details_updated_at": "2026-11-15T17:19:51.218Z",
+  "simkl_id": 2029378,
+  "episodes_data": [],
+  "specials_data": []
 }

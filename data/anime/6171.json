@@ -30,8 +30,8 @@
   "num_episodes": 13,
   "score": 8,
   "mean": 8,
-  "numListUsers": 118169,
-  "num_list_users": 118169,
+  "numListUsers": 118173,
+  "num_list_users": 118173,
   "genres": [
     {
       "id": 1,
@@ -64,17 +64,7 @@
       "name": "TMS Entertainment"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/12/29588l.webp",
-    "https://cdn.myanimelist.net/images/anime/5/29590l.webp",
-    "https://cdn.myanimelist.net/images/anime/5/55839l.webp",
-    "https://cdn.myanimelist.net/images/anime/8/75546l.webp",
-    "https://cdn.myanimelist.net/images/anime/1042/151917l.webp",
-    "https://cdn.myanimelist.net/images/anime/1234/151918l.webp",
-    "https://cdn.myanimelist.net/images/anime/1268/151920l.webp",
-    "https://cdn.myanimelist.net/images/anime/1807/151921l.webp",
-    "https://cdn.myanimelist.net/images/anime/1357/151922l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/xqi7xzgzed2TyVuoXBmm6neYGee.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/wVHam8qA84YIKnxULun7NCeqyYE.png",
   "tmdb_id": "42444",
@@ -91,13 +81,154 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/12/29588l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/8/75546l.webp"
     }
   },
   "broadcast": null,
   "rank": 773,
   "popularity": 2199,
   "rating": "pg_13",
+  "num_scoring_users": 64472,
+  "nsfw": "white",
+  "source": "manga",
+  "related_anime": [
+    {
+      "node": {
+        "id": 9130,
+        "title": "Saint Seiya: The Lost Canvas - Meiou Shinwa 2",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/12/29597.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/12/29597l.jpg"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    }
+  ],
+  "related_manga": [],
+  "recommendations": [
+    {
+      "node": {
+        "id": 25013,
+        "title": "Akatsuki no Yona",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/9/64225.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/9/64225l.webp"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 1735,
+        "title": "Naruto: Shippuuden",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1565/111305.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1565/111305l.jpg"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 7058,
+        "title": "Uragiri wa Boku no Namae wo Shitteiru",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1639/120408.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1639/120408l.webp"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 6702,
+        "title": "Fairy Tail",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/5/18179.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/5/18179l.webp"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 1254,
+        "title": "Saint Seiya",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1180/133782.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1180/133782l.jpg"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 156,
+        "title": "X",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/8/17167.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/8/17167l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 5962,
+        "title": "Metal Fight Beyblade",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/13/21387.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/13/21387l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 14513,
+        "title": "Magi: The Labyrinth of Magic",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/11/42773.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/11/42773l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 16498,
+        "title": "Shingeki no Kyojin",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/47347.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/47347l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 269,
+        "title": "Bleach",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1541/147774.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1541/147774l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "6094",
+      "completed": "81281",
+      "on_hold": "3051",
+      "dropped": "2942",
+      "plan_to_watch": "24773"
+    },
+    "num_list_users": 118141
+  },
+  "mal_details_updated_at": "2026-11-15T17:21:38.624Z",
   "simkl_id": 36269,
   "episodes_data": [
     {
@@ -343,150 +474,5 @@
       "description": "Part two of the talk event with Seiyuus: Kakihara Tetsuya, Shimono Hiro, Hirano Aya and Ono Daisuke.\nThis came with the Japanese DVD & BD volume 6:"
     }
   ],
-  "characters": [],
-  "num_scoring_users": 64472,
-  "nsfw": "white",
-  "created_at": "2009-03-11T09:46:50+00:00",
-  "updated_at": "2025-02-12T19:42:59+00:00",
-  "source": "manga",
-  "background": null,
-  "related_anime": [
-    {
-      "node": {
-        "id": 9130,
-        "title": "Saint Seiya: The Lost Canvas - Meiou Shinwa 2",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/12/29597.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/12/29597l.jpg"
-        }
-      },
-      "relation_type": "sequel",
-      "relation_type_formatted": "Sequel"
-    }
-  ],
-  "related_manga": [],
-  "recommendations": [
-    {
-      "node": {
-        "id": 25013,
-        "title": "Akatsuki no Yona",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/9/64225.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/9/64225l.webp"
-        }
-      },
-      "num_recommendations": 2
-    },
-    {
-      "node": {
-        "id": 1735,
-        "title": "Naruto: Shippuuden",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1565/111305.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1565/111305l.jpg"
-        }
-      },
-      "num_recommendations": 2
-    },
-    {
-      "node": {
-        "id": 7058,
-        "title": "Uragiri wa Boku no Namae wo Shitteiru",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1639/120408.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1639/120408l.webp"
-        }
-      },
-      "num_recommendations": 2
-    },
-    {
-      "node": {
-        "id": 6702,
-        "title": "Fairy Tail",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/5/18179.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/5/18179l.webp"
-        }
-      },
-      "num_recommendations": 2
-    },
-    {
-      "node": {
-        "id": 1254,
-        "title": "Saint Seiya",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1180/133782.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1180/133782l.jpg"
-        }
-      },
-      "num_recommendations": 2
-    },
-    {
-      "node": {
-        "id": 156,
-        "title": "X",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/8/17167.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/8/17167l.jpg"
-        }
-      },
-      "num_recommendations": 1
-    },
-    {
-      "node": {
-        "id": 5962,
-        "title": "Metal Fight Beyblade",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/13/21387.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/13/21387l.jpg"
-        }
-      },
-      "num_recommendations": 1
-    },
-    {
-      "node": {
-        "id": 14513,
-        "title": "Magi: The Labyrinth of Magic",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/11/42773.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/11/42773l.jpg"
-        }
-      },
-      "num_recommendations": 1
-    },
-    {
-      "node": {
-        "id": 16498,
-        "title": "Shingeki no Kyojin",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/10/47347.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/10/47347l.jpg"
-        }
-      },
-      "num_recommendations": 1
-    },
-    {
-      "node": {
-        "id": 269,
-        "title": "Bleach",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1541/147774.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1541/147774l.jpg"
-        }
-      },
-      "num_recommendations": 1
-    }
-  ],
-  "statistics": {
-    "status": {
-      "watching": "6094",
-      "completed": "81281",
-      "on_hold": "3051",
-      "dropped": "2942",
-      "plan_to_watch": "24773"
-    },
-    "num_list_users": 118141
-  },
-  "mal_details_updated_at": "2026-11-15T17:21:38.624Z",
-  "translations_updated_at": "2026-11-15T17:24:39.738Z"
+  "translations_updated_at": "2026-11-15T22:15:52.298Z"
 }

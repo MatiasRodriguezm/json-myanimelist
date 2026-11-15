@@ -30,8 +30,8 @@
   "num_episodes": 12,
   "score": 7.74,
   "mean": 7.74,
-  "numListUsers": 96391,
-  "num_list_users": 96391,
+  "numListUsers": 96617,
+  "num_list_users": 96617,
   "genres": [
     {
       "id": 13,
@@ -48,11 +48,7 @@
       "name": "David Production"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1069/154957l.webp",
-    "https://cdn.myanimelist.net/images/anime/1889/156269l.webp",
-    "https://cdn.myanimelist.net/images/anime/1172/159893l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/3zmB6PLnjf7rNNC2lnvinQtlJMx.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/jF0Y73x1pWq6noava9Cp900i8Tm.png",
   "tmdb_id": "320909",
@@ -69,7 +65,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1069/154957l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1172/159893l.webp"
     }
   },
   "broadcast": {
@@ -83,6 +79,72 @@
   "rank": 1356,
   "popularity": 2531,
   "rating": "r",
+  "num_scoring_users": 10153,
+  "nsfw": "white",
+  "source": "web_manga",
+  "background": "Hotaru no Yomeiri aired on Fuji TV's noitaminA block.",
+  "related_anime": [
+    {
+      "node": {
+        "id": 65157,
+        "title": "Yumegokochi",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1547/160484.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1547/160484l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 65184,
+        "title": "Hotaru no Yomeiri: Choitashi",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1277/160535.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1277/160535l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    }
+  ],
+  "related_manga": [],
+  "recommendations": [
+    {
+      "node": {
+        "id": 56964,
+        "title": "Raise wa Tanin ga Ii",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1428/143773.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1428/143773l.webp"
+        }
+      },
+      "num_recommendations": 3
+    },
+    {
+      "node": {
+        "id": 44516,
+        "title": "Koroshi Ai",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1485/119329.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1485/119329l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "49719",
+      "completed": "7",
+      "on_hold": "984",
+      "dropped": "1557",
+      "plan_to_watch": "44117"
+    },
+    "num_list_users": 96384
+  },
+  "mal_details_updated_at": "2026-11-15T17:13:16.067Z",
   "simkl_id": 2990962,
   "episodes_data": [
     {
@@ -200,74 +262,5 @@
       "title_es": "mini anime 6"
     }
   ],
-  "characters": [],
-  "num_scoring_users": 10153,
-  "nsfw": "white",
-  "created_at": "2026-01-11T19:06:20+00:00",
-  "updated_at": "2026-10-10T02:18:32+00:00",
-  "source": "web_manga",
-  "background": "Hotaru no Yomeiri aired on Fuji TV's noitaminA block.",
-  "related_anime": [
-    {
-      "node": {
-        "id": 65157,
-        "title": "Yumegokochi",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1547/160484.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1547/160484l.jpg"
-        }
-      },
-      "relation_type": "other",
-      "relation_type_formatted": "Other"
-    },
-    {
-      "node": {
-        "id": 65184,
-        "title": "Hotaru no Yomeiri: Choitashi",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1277/160535.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1277/160535l.jpg"
-        }
-      },
-      "relation_type": "other",
-      "relation_type_formatted": "Other"
-    }
-  ],
-  "related_manga": [],
-  "recommendations": [
-    {
-      "node": {
-        "id": 56964,
-        "title": "Raise wa Tanin ga Ii",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1428/143773.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1428/143773l.webp"
-        }
-      },
-      "num_recommendations": 3
-    },
-    {
-      "node": {
-        "id": 44516,
-        "title": "Koroshi Ai",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1485/119329.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1485/119329l.jpg"
-        }
-      },
-      "num_recommendations": 1
-    }
-  ],
-  "statistics": {
-    "status": {
-      "watching": "49719",
-      "completed": "7",
-      "on_hold": "984",
-      "dropped": "1557",
-      "plan_to_watch": "44117"
-    },
-    "num_list_users": 96384
-  },
-  "mal_details_updated_at": "2026-11-15T17:13:16.067Z",
-  "translations_updated_at": "2026-11-15T17:24:52.752Z"
+  "translations_updated_at": "2026-11-15T22:16:03.380Z"
 }

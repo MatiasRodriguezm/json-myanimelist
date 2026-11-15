@@ -32,8 +32,8 @@
   "num_episodes": 1,
   "score": null,
   "mean": null,
-  "numListUsers": 9554,
-  "num_list_users": 9554,
+  "numListUsers": 9560,
+  "num_list_users": 9560,
   "genres": [
     {
       "id": 18,
@@ -50,19 +50,11 @@
       "name": "Toei Animation"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1906/141148l.webp",
-    "https://cdn.myanimelist.net/images/anime/1437/146525l.webp",
-    "https://cdn.myanimelist.net/images/anime/1188/153747l.webp",
-    "https://cdn.myanimelist.net/images/anime/1824/156379l.webp",
-    "https://cdn.myanimelist.net/images/anime/1551/159128l.webp",
-    "https://cdn.myanimelist.net/images/anime/1987/160533l.webp",
-    "https://cdn.myanimelist.net/images/anime/1437/160894l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": null,
   "logo_url": "https://image.tmdb.org/t/p/w300/4HhK8kZ0XlNQRx7zGArufQMOx2z.svg",
   "tmdb_id": "1236857",
-  "tmdb_updated_at": "2026-11-15T17:15:06.897Z",
+  "tmdb_updated_at": "2026-11-15T22:12:49.513Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1987/160533.webp",
@@ -75,32 +67,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1906/141148l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1987/160533l.webp"
     }
   },
   "broadcast": null,
   "rank": 20250,
   "popularity": 7614,
   "rating": null,
-  "simkl_id": 2360178,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "title": "Complete Movie",
-      "title_es": "Película completa",
-      "aired": "2026-11-13T00:00:00+09:00",
-      "thumbnail": null,
-      "description": null
-    }
-  ],
-  "specials_data": [],
-  "characters": [],
   "num_scoring_users": 32,
   "nsfw": "white",
-  "created_at": "2024-01-27T17:27:36+00:00",
-  "updated_at": "2026-10-14T05:30:53+00:00",
   "source": "original",
-  "background": null,
   "related_anime": [
     {
       "node": {
@@ -128,5 +104,17 @@
     "num_list_users": 9554
   },
   "mal_details_updated_at": "2026-11-15T17:15:06.678Z",
-  "translations_updated_at": "2026-11-15T17:24:29.772Z"
+  "simkl_id": 2360178,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "title": "Complete Movie",
+      "title_es": "Película completa",
+      "aired": "2026-11-13T00:00:00+09:00",
+      "thumbnail": null,
+      "description": null
+    }
+  ],
+  "specials_data": [],
+  "translations_updated_at": "2026-11-15T22:15:43.176Z"
 }

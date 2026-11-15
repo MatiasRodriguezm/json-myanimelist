@@ -35,8 +35,8 @@
   "num_episodes": 2,
   "score": 8.31,
   "mean": 8.31,
-  "numListUsers": 53261,
-  "num_list_users": 53261,
+  "numListUsers": 53263,
+  "num_list_users": 53263,
   "genres": [
     {
       "id": 63,
@@ -65,14 +65,11 @@
       "name": "Shuka"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/3/84887l.webp",
-    "https://cdn.myanimelist.net/images/anime/2/84888l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T17:21:49.118Z",
+  "tmdb_updated_at": "2026-11-15T22:14:37.784Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/3/84887.webp",
@@ -92,6 +89,36 @@
   "rank": 327,
   "popularity": 3590,
   "rating": "pg_13",
+  "num_scoring_users": 24654,
+  "nsfw": "white",
+  "source": "manga",
+  "related_anime": [
+    {
+      "node": {
+        "id": 32983,
+        "title": "Natsume Yuujinchou Go",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/11/81755.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/11/81755l.jpg"
+        }
+      },
+      "relation_type": "parent_story",
+      "relation_type_formatted": "Parent story"
+    }
+  ],
+  "related_manga": [],
+  "recommendations": [],
+  "statistics": {
+    "status": {
+      "watching": "1816",
+      "completed": "36273",
+      "on_hold": "634",
+      "dropped": "376",
+      "plan_to_watch": "14153"
+    },
+    "num_list_users": 53252
+  },
+  "mal_details_updated_at": "2026-11-15T17:21:48.895Z",
   "simkl_id": 569758,
   "episodes_data": [
     {
@@ -209,39 +236,5 @@
       "description": "While searching for Nyanko-sensei, Natsume gets involved in a dangerous game of hide and seek."
     }
   ],
-  "characters": [],
-  "num_scoring_users": 24654,
-  "nsfw": "white",
-  "created_at": "2016-12-14T00:34:55+00:00",
-  "updated_at": "2024-03-06T11:35:58+00:00",
-  "source": "manga",
-  "background": null,
-  "related_anime": [
-    {
-      "node": {
-        "id": 32983,
-        "title": "Natsume Yuujinchou Go",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/11/81755.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/11/81755l.jpg"
-        }
-      },
-      "relation_type": "parent_story",
-      "relation_type_formatted": "Parent story"
-    }
-  ],
-  "related_manga": [],
-  "recommendations": [],
-  "statistics": {
-    "status": {
-      "watching": "1816",
-      "completed": "36273",
-      "on_hold": "634",
-      "dropped": "376",
-      "plan_to_watch": "14153"
-    },
-    "num_list_users": 53252
-  },
-  "mal_details_updated_at": "2026-11-15T17:21:48.895Z",
-  "translations_updated_at": "2026-11-15T17:24:07.719Z"
+  "translations_updated_at": "2026-11-15T22:15:21.408Z"
 }

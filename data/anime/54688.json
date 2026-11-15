@@ -27,8 +27,8 @@
   "num_episodes": 4,
   "score": null,
   "mean": null,
-  "numListUsers": 43269,
-  "num_list_users": 43269,
+  "numListUsers": 43267,
+  "num_list_users": 43267,
   "genres": [
     {
       "id": 1,
@@ -52,14 +52,11 @@
     }
   ],
   "studios": [],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1378/137310l.webp",
-    "https://cdn.myanimelist.net/images/anime/1512/160510l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T17:19:46.461Z",
+  "tmdb_updated_at": "2026-11-15T22:14:24.667Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1512/160510.webp",
@@ -72,56 +69,15 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1378/137310l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1512/160510l.webp"
     }
   },
   "broadcast": null,
   "rank": null,
   "popularity": 4057,
   "rating": "pg_13",
-  "simkl_id": 2114824,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "title": "Episode 1",
-      "aired": null,
-      "thumbnail": null,
-      "description": null,
-      "title_es": "Episodio 1"
-    },
-    {
-      "episode": 2,
-      "title": "Episode 2",
-      "aired": null,
-      "thumbnail": null,
-      "description": null,
-      "title_es": "Episodio 2"
-    },
-    {
-      "episode": 3,
-      "title": "Episode 3",
-      "aired": null,
-      "thumbnail": null,
-      "description": null,
-      "title_es": "Episodio 3"
-    },
-    {
-      "episode": 4,
-      "title": "Episode 4",
-      "aired": null,
-      "thumbnail": null,
-      "description": null,
-      "title_es": "Episodio 4"
-    }
-  ],
-  "specials_data": [],
-  "characters": [],
-  "num_scoring_users": null,
   "nsfw": "white",
-  "created_at": "2023-03-09T15:57:48+00:00",
-  "updated_at": "2026-10-11T23:36:05+00:00",
   "source": "manga",
-  "background": null,
   "related_anime": [
     {
       "node": {
@@ -161,5 +117,41 @@
     "num_list_users": 43269
   },
   "mal_details_updated_at": "2026-11-15T17:19:46.066Z",
-  "translations_updated_at": "2026-11-15T17:24:28.109Z"
+  "simkl_id": 2114824,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "title": "Episode 1",
+      "aired": null,
+      "thumbnail": null,
+      "description": null,
+      "title_es": "Episodio 1"
+    },
+    {
+      "episode": 2,
+      "title": "Episode 2",
+      "aired": null,
+      "thumbnail": null,
+      "description": null,
+      "title_es": "Episodio 2"
+    },
+    {
+      "episode": 3,
+      "title": "Episode 3",
+      "aired": null,
+      "thumbnail": null,
+      "description": null,
+      "title_es": "Episodio 3"
+    },
+    {
+      "episode": 4,
+      "title": "Episode 4",
+      "aired": null,
+      "thumbnail": null,
+      "description": null,
+      "title_es": "Episodio 4"
+    }
+  ],
+  "specials_data": [],
+  "translations_updated_at": "2026-11-15T22:15:41.583Z"
 }

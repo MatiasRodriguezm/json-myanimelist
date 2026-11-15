@@ -30,8 +30,8 @@
   "num_episodes": 1,
   "score": 8.1,
   "mean": 8.1,
-  "numListUsers": 408835,
-  "num_list_users": 408835,
+  "numListUsers": 408853,
+  "num_list_users": 408853,
   "genres": [
     {
       "id": 2,
@@ -52,12 +52,7 @@
       "name": "TMS Entertainment"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1488/120136l.webp",
-    "https://cdn.myanimelist.net/images/anime/1588/124405l.webp",
-    "https://cdn.myanimelist.net/images/anime/1860/124426l.webp",
-    "https://cdn.myanimelist.net/images/anime/1071/124921l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/lN13BPAEnc5iXmoxxBQHOZ1ScfZ.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/hnCHjH1xvqDDGLrt7vL7Ur0oy5c.png",
   "tmdb_id": "86031",
@@ -74,39 +69,15 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1488/120136l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1071/124921l.webp"
     }
   },
   "broadcast": null,
   "rank": 604,
   "popularity": 681,
   "rating": "pg_13",
-  "simkl_id": 1577787,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "title": "TV Special",
-      "title_es": "Especial de televisión",
-      "aired": "2022-07-10T00:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/17/17538966de149518f3_w.webp",
-      "description": null
-    }
-  ],
-  "specials_data": [
-    {
-      "episode": 1,
-      "title": "Ending",
-      "title_es": "Final",
-      "aired": "2022-07-10T00:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/10/1048334887cf92fd09_w.webp",
-      "description": null
-    }
-  ],
-  "characters": [],
   "num_scoring_users": 237085,
   "nsfw": "white",
-  "created_at": "2021-12-19T09:53:40+00:00",
-  "updated_at": "2025-12-10T20:01:07+00:00",
   "source": "manga",
   "background": "Dr. Stone: Ryuusui adapts chapters 84-89 of the manga.",
   "related_anime": [
@@ -160,5 +131,26 @@
     "num_list_users": 408736
   },
   "mal_details_updated_at": "2026-11-15T17:21:55.137Z",
-  "translations_updated_at": "2026-11-15T17:24:25.871Z"
+  "simkl_id": 1577787,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "title": "TV Special",
+      "title_es": "Especial de televisión",
+      "aired": "2022-07-10T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/17538966de149518f3_w.webp",
+      "description": null
+    }
+  ],
+  "specials_data": [
+    {
+      "episode": 1,
+      "title": "Ending",
+      "title_es": "Final",
+      "aired": "2022-07-10T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/10/1048334887cf92fd09_w.webp",
+      "description": null
+    }
+  ],
+  "translations_updated_at": "2026-11-15T22:15:39.482Z"
 }

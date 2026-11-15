@@ -32,8 +32,8 @@
   "num_episodes": 12,
   "score": 6.55,
   "mean": 6.55,
-  "numListUsers": 30062,
-  "num_list_users": 30062,
+  "numListUsers": 30186,
+  "num_list_users": 30186,
   "genres": [
     {
       "id": 10,
@@ -54,10 +54,7 @@
       "name": "HORNETS"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1206/158876l.webp",
-    "https://cdn.myanimelist.net/images/anime/1016/159863l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/4hKtdyTXt4O2hy4zqadlENY1qpM.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/sT436fH4fFQUOp5M1dt9a7trGNU.png",
   "tmdb_id": "288588",
@@ -74,7 +71,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1206/158876l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1016/159863l.webp"
     }
   },
   "broadcast": {
@@ -88,6 +85,23 @@
   "rank": 7797,
   "popularity": 4793,
   "rating": "pg_13",
+  "num_scoring_users": 3366,
+  "nsfw": "white",
+  "source": "light_novel",
+  "related_anime": [],
+  "related_manga": [],
+  "recommendations": [],
+  "statistics": {
+    "status": {
+      "watching": "17812",
+      "completed": "5",
+      "on_hold": "369",
+      "dropped": "687",
+      "plan_to_watch": "11197"
+    },
+    "num_list_users": 30070
+  },
+  "mal_details_updated_at": "2026-11-15T17:14:42.924Z",
   "simkl_id": 2990960,
   "episodes_data": [
     {
@@ -156,26 +170,5 @@
     }
   ],
   "specials_data": [],
-  "characters": [],
-  "num_scoring_users": 3366,
-  "nsfw": "white",
-  "created_at": "2026-01-11T19:03:07+00:00",
-  "updated_at": "2026-11-14T20:30:13+00:00",
-  "source": "light_novel",
-  "background": null,
-  "related_anime": [],
-  "related_manga": [],
-  "recommendations": [],
-  "statistics": {
-    "status": {
-      "watching": "17812",
-      "completed": "5",
-      "on_hold": "369",
-      "dropped": "687",
-      "plan_to_watch": "11197"
-    },
-    "num_list_users": 30070
-  },
-  "mal_details_updated_at": "2026-11-15T17:14:42.924Z",
-  "translations_updated_at": "2026-11-15T17:24:52.448Z"
+  "translations_updated_at": "2026-11-15T22:16:03.104Z"
 }

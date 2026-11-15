@@ -56,14 +56,11 @@
       "name": "Animation Do"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/7/72645l.webp",
-    "https://cdn.myanimelist.net/images/anime/6/73125l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T17:22:08.555Z",
+  "tmdb_updated_at": "2026-11-15T22:14:42.870Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/6/73125.webp",
@@ -76,13 +73,77 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/7/72645l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/6/73125l.webp"
     }
   },
   "broadcast": null,
   "rank": 1013,
   "popularity": 2478,
   "rating": "pg_13",
+  "num_scoring_users": 47700,
+  "nsfw": "white",
+  "source": "original",
+  "related_anime": [
+    {
+      "node": {
+        "id": 22265,
+        "title": "Free! Eternal Summer",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1719/108886.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1719/108886l.webp"
+        }
+      },
+      "relation_type": "parent_story",
+      "relation_type_formatted": "Parent story"
+    }
+  ],
+  "related_manga": [],
+  "recommendations": [
+    {
+      "node": {
+        "id": 25303,
+        "title": "Haikyuu!! Lev Genzan!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1498/96643.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1498/96643l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 853,
+        "title": "Ouran Koukou Host Club",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/2/71992.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/2/71992l.webp"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 32995,
+        "title": "Yuri!!! on Ice",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/6/81149.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/6/81149l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "2270",
+      "completed": "76564",
+      "on_hold": "919",
+      "dropped": "1248",
+      "plan_to_watch": "18518"
+    },
+    "num_list_users": 99519
+  },
+  "mal_details_updated_at": "2026-11-15T17:22:08.323Z",
   "simkl_id": 50244,
   "episodes_data": [
     {
@@ -224,73 +285,5 @@
       "description": null
     }
   ],
-  "characters": [],
-  "num_scoring_users": 47700,
-  "nsfw": "white",
-  "created_at": "2014-08-28T07:48:58+00:00",
-  "updated_at": "2023-07-11T05:15:17+00:00",
-  "source": "original",
-  "background": null,
-  "related_anime": [
-    {
-      "node": {
-        "id": 22265,
-        "title": "Free! Eternal Summer",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1719/108886.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1719/108886l.webp"
-        }
-      },
-      "relation_type": "parent_story",
-      "relation_type_formatted": "Parent story"
-    }
-  ],
-  "related_manga": [],
-  "recommendations": [
-    {
-      "node": {
-        "id": 25303,
-        "title": "Haikyuu!! Lev Genzan!",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1498/96643.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1498/96643l.jpg"
-        }
-      },
-      "num_recommendations": 1
-    },
-    {
-      "node": {
-        "id": 853,
-        "title": "Ouran Koukou Host Club",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/2/71992.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/2/71992l.webp"
-        }
-      },
-      "num_recommendations": 1
-    },
-    {
-      "node": {
-        "id": 32995,
-        "title": "Yuri!!! on Ice",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/6/81149.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/6/81149l.jpg"
-        }
-      },
-      "num_recommendations": 1
-    }
-  ],
-  "statistics": {
-    "status": {
-      "watching": "2270",
-      "completed": "76564",
-      "on_hold": "919",
-      "dropped": "1248",
-      "plan_to_watch": "18518"
-    },
-    "num_list_users": 99519
-  },
-  "mal_details_updated_at": "2026-11-15T17:22:08.323Z",
-  "translations_updated_at": "2026-11-15T17:24:20.254Z"
+  "translations_updated_at": "2026-11-15T22:15:34.328Z"
 }

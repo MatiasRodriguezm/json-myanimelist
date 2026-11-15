@@ -31,10 +31,10 @@
   },
   "episodes": 12,
   "num_episodes": 12,
-  "score": 7.37,
-  "mean": 7.37,
-  "numListUsers": 63114,
-  "num_list_users": 63114,
+  "score": 7.38,
+  "mean": 7.38,
+  "numListUsers": 63351,
+  "num_list_users": 63351,
   "genres": [
     {
       "id": 1,
@@ -55,12 +55,7 @@
       "name": "P.A. Works"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1924/155306l.webp",
-    "https://cdn.myanimelist.net/images/anime/1356/158431l.webp",
-    "https://cdn.myanimelist.net/images/anime/1855/159934l.webp",
-    "https://cdn.myanimelist.net/images/anime/1963/160339l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/j7KrALvuZgBdwVZkOIRc9Xaeyt4.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/icq6GuO0cxICLRiL6RYlen7h3UW.png",
   "tmdb_id": "313346",
@@ -77,7 +72,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1924/155306l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1963/160339l.webp"
     }
   },
   "broadcast": {
@@ -91,6 +86,57 @@
   "rank": 2803,
   "popularity": 3274,
   "rating": "pg_13",
+  "num_scoring_users": 9670,
+  "nsfw": "white",
+  "source": "manga",
+  "related_anime": [],
+  "related_manga": [],
+  "recommendations": [
+    {
+      "node": {
+        "id": 30831,
+        "title": "Kono Subarashii Sekai ni Shukufuku wo!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1895/142748.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1895/142748l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 44037,
+        "title": "Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1723/117854.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1723/117854l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 61128,
+        "title": "Yuusha Party wo Oidasareta Kiyoubinbou",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1486/153135.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1486/153135l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "42392",
+      "completed": "5",
+      "on_hold": "691",
+      "dropped": "1327",
+      "plan_to_watch": "18704"
+    },
+    "num_list_users": 63119
+  },
+  "mal_details_updated_at": "2026-11-15T17:13:25.874Z",
   "simkl_id": 3012964,
   "episodes_data": [
     {
@@ -159,60 +205,5 @@
     }
   ],
   "specials_data": [],
-  "characters": [],
-  "num_scoring_users": 9670,
-  "nsfw": "white",
-  "created_at": "2026-02-06T03:13:58+00:00",
-  "updated_at": "2026-11-14T20:21:29+00:00",
-  "source": "manga",
-  "background": null,
-  "related_anime": [],
-  "related_manga": [],
-  "recommendations": [
-    {
-      "node": {
-        "id": 30831,
-        "title": "Kono Subarashii Sekai ni Shukufuku wo!",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1895/142748.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1895/142748l.jpg"
-        }
-      },
-      "num_recommendations": 1
-    },
-    {
-      "node": {
-        "id": 44037,
-        "title": "Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1723/117854.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1723/117854l.jpg"
-        }
-      },
-      "num_recommendations": 1
-    },
-    {
-      "node": {
-        "id": 61128,
-        "title": "Yuusha Party wo Oidasareta Kiyoubinbou",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1486/153135.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1486/153135l.jpg"
-        }
-      },
-      "num_recommendations": 1
-    }
-  ],
-  "statistics": {
-    "status": {
-      "watching": "42392",
-      "completed": "5",
-      "on_hold": "691",
-      "dropped": "1327",
-      "plan_to_watch": "18704"
-    },
-    "num_list_users": 63119
-  },
-  "mal_details_updated_at": "2026-11-15T17:13:25.874Z",
-  "translations_updated_at": "2026-11-15T17:24:54.888Z"
+  "translations_updated_at": "2026-11-15T22:16:06.307Z"
 }

@@ -59,21 +59,7 @@
       "name": "White Fox"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/11/59611l.webp",
-    "https://cdn.myanimelist.net/images/anime/9/65351l.webp",
-    "https://cdn.myanimelist.net/images/anime/7/75944l.webp",
-    "https://cdn.myanimelist.net/images/anime/9/75945l.webp",
-    "https://cdn.myanimelist.net/images/anime/11/75946l.webp",
-    "https://cdn.myanimelist.net/images/anime/4/77259l.webp",
-    "https://cdn.myanimelist.net/images/anime/5/81843l.webp",
-    "https://cdn.myanimelist.net/images/anime/9/81844l.webp",
-    "https://cdn.myanimelist.net/images/anime/3/81845l.webp",
-    "https://cdn.myanimelist.net/images/anime/10/81846l.webp",
-    "https://cdn.myanimelist.net/images/anime/1429/95946l.webp",
-    "https://cdn.myanimelist.net/images/anime/1115/97001l.webp",
-    "https://cdn.myanimelist.net/images/anime/1975/158246l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/3XAGgklKkJhv5M9m5NkfhBYb7l8.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/x9PcCizBEh6YcYxl4gNYPoon9p2.png",
   "tmdb_id": "61223",
@@ -90,7 +76,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/11/59611l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1429/95946l.webp"
     }
   },
   "broadcast": {
@@ -104,6 +90,160 @@
   "rank": 2297,
   "popularity": 31,
   "rating": "r",
+  "num_scoring_users": 1432390,
+  "nsfw": "white",
+  "source": "manga",
+  "background": "Akame ga Kill! is the anime adaptation of Takahiro's shounen manga of the same title, which is illustrated by Tetsuya Tashiro and was serialized in Square Enix's Gangan Joker from April 2010 to December 2016. The anime follows the source material through the first eight volumes of the manga, incorporating events from later issues as well, before concluding with an original story arc that deviates from the manga.",
+  "related_anime": [
+    {
+      "node": {
+        "id": 25241,
+        "title": "AkaKill! Gekijou",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/6/64537.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/6/64537l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 26449,
+        "title": "Akame ga Kill! Recap",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1567/102409.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1567/102409l.jpg"
+        }
+      },
+      "relation_type": "summary",
+      "relation_type_formatted": "Summary"
+    }
+  ],
+  "related_manga": [],
+  "recommendations": [
+    {
+      "node": {
+        "id": 23755,
+        "title": "Nanatsu no Taizai",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/8/65409.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/8/65409l.jpg"
+        }
+      },
+      "num_recommendations": 39
+    },
+    {
+      "node": {
+        "id": 16498,
+        "title": "Shingeki no Kyojin",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/47347.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/47347l.jpg"
+        }
+      },
+      "num_recommendations": 18
+    },
+    {
+      "node": {
+        "id": 41433,
+        "title": "Akudama Drive",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1468/109172.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1468/109172l.webp"
+        }
+      },
+      "num_recommendations": 18
+    },
+    {
+      "node": {
+        "id": 1575,
+        "title": "Code Geass: Hangyaku no Lelouch",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1032/135088.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1032/135088l.webp"
+        }
+      },
+      "num_recommendations": 14
+    },
+    {
+      "node": {
+        "id": 22319,
+        "title": "Tokyo Ghoul",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1498/134443.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1498/134443l.jpg"
+        }
+      },
+      "num_recommendations": 13
+    },
+    {
+      "node": {
+        "id": 10620,
+        "title": "Mirai Nikki (TV)",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/13/33465.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/13/33465l.jpg"
+        }
+      },
+      "num_recommendations": 11
+    },
+    {
+      "node": {
+        "id": 5114,
+        "title": "Fullmetal Alchemist: Brotherhood",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1208/94745.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1208/94745l.jpg"
+        }
+      },
+      "num_recommendations": 11
+    },
+    {
+      "node": {
+        "id": 18679,
+        "title": "Kill la Kill",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1464/111943.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1464/111943l.jpg"
+        }
+      },
+      "num_recommendations": 11
+    },
+    {
+      "node": {
+        "id": 42310,
+        "title": "Cyberpunk: Edgerunners",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1818/126435.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1818/126435l.jpg"
+        }
+      },
+      "num_recommendations": 10
+    },
+    {
+      "node": {
+        "id": 37349,
+        "title": "Goblin Slayer",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1719/95621.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1719/95621l.jpg"
+        }
+      },
+      "num_recommendations": 8
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "99273",
+      "completed": "1796316",
+      "on_hold": "41143",
+      "dropped": "68639",
+      "plan_to_watch": "303163"
+    },
+    "num_list_users": 2308534
+  },
+  "mal_details_updated_at": "2026-11-15T17:18:15.730Z",
   "simkl_id": 46890,
   "episodes_data": [
     {
@@ -501,162 +641,5 @@
       "description": null
     }
   ],
-  "characters": [],
-  "num_scoring_users": 1432390,
-  "nsfw": "white",
-  "created_at": "2014-01-20T15:10:34+00:00",
-  "updated_at": "2024-10-14T20:42:25+00:00",
-  "source": "manga",
-  "background": "Akame ga Kill! is the anime adaptation of Takahiro's shounen manga of the same title, which is illustrated by Tetsuya Tashiro and was serialized in Square Enix's Gangan Joker from April 2010 to December 2016. The anime follows the source material through the first eight volumes of the manga, incorporating events from later issues as well, before concluding with an original story arc that deviates from the manga.",
-  "related_anime": [
-    {
-      "node": {
-        "id": 25241,
-        "title": "AkaKill! Gekijou",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/6/64537.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/6/64537l.jpg"
-        }
-      },
-      "relation_type": "other",
-      "relation_type_formatted": "Other"
-    },
-    {
-      "node": {
-        "id": 26449,
-        "title": "Akame ga Kill! Recap",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1567/102409.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1567/102409l.jpg"
-        }
-      },
-      "relation_type": "summary",
-      "relation_type_formatted": "Summary"
-    }
-  ],
-  "related_manga": [],
-  "recommendations": [
-    {
-      "node": {
-        "id": 23755,
-        "title": "Nanatsu no Taizai",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/8/65409.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/8/65409l.jpg"
-        }
-      },
-      "num_recommendations": 39
-    },
-    {
-      "node": {
-        "id": 16498,
-        "title": "Shingeki no Kyojin",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/10/47347.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/10/47347l.jpg"
-        }
-      },
-      "num_recommendations": 18
-    },
-    {
-      "node": {
-        "id": 41433,
-        "title": "Akudama Drive",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1468/109172.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1468/109172l.webp"
-        }
-      },
-      "num_recommendations": 18
-    },
-    {
-      "node": {
-        "id": 1575,
-        "title": "Code Geass: Hangyaku no Lelouch",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1032/135088.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1032/135088l.webp"
-        }
-      },
-      "num_recommendations": 14
-    },
-    {
-      "node": {
-        "id": 22319,
-        "title": "Tokyo Ghoul",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1498/134443.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1498/134443l.jpg"
-        }
-      },
-      "num_recommendations": 13
-    },
-    {
-      "node": {
-        "id": 10620,
-        "title": "Mirai Nikki (TV)",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/13/33465.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/13/33465l.jpg"
-        }
-      },
-      "num_recommendations": 11
-    },
-    {
-      "node": {
-        "id": 5114,
-        "title": "Fullmetal Alchemist: Brotherhood",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1208/94745.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1208/94745l.jpg"
-        }
-      },
-      "num_recommendations": 11
-    },
-    {
-      "node": {
-        "id": 18679,
-        "title": "Kill la Kill",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1464/111943.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1464/111943l.jpg"
-        }
-      },
-      "num_recommendations": 11
-    },
-    {
-      "node": {
-        "id": 42310,
-        "title": "Cyberpunk: Edgerunners",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1818/126435.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1818/126435l.jpg"
-        }
-      },
-      "num_recommendations": 10
-    },
-    {
-      "node": {
-        "id": 37349,
-        "title": "Goblin Slayer",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1719/95621.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1719/95621l.jpg"
-        }
-      },
-      "num_recommendations": 8
-    }
-  ],
-  "statistics": {
-    "status": {
-      "watching": "99273",
-      "completed": "1796316",
-      "on_hold": "41143",
-      "dropped": "68639",
-      "plan_to_watch": "303163"
-    },
-    "num_list_users": 2308534
-  },
-  "mal_details_updated_at": "2026-11-15T17:18:15.730Z",
-  "translations_updated_at": "2026-11-15T17:23:40.901Z"
+  "translations_updated_at": "2026-11-15T22:15:06.240Z"
 }

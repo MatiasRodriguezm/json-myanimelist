@@ -30,8 +30,8 @@
   "num_episodes": null,
   "score": null,
   "mean": null,
-  "numListUsers": 11476,
-  "num_list_users": 11476,
+  "numListUsers": 11498,
+  "num_list_users": 11498,
   "genres": [
     {
       "id": 8,
@@ -52,14 +52,11 @@
       "name": "A-1 Pictures"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1716/160015l.webp",
-    "https://cdn.myanimelist.net/images/anime/1122/160916l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T17:17:06.553Z",
+  "tmdb_updated_at": "2026-11-15T22:13:44.376Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1122/160916.webp",
@@ -72,7 +69,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1716/160015l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1122/160916l.webp"
     }
   },
   "broadcast": {
@@ -86,23 +83,8 @@
   "rank": null,
   "popularity": 7064,
   "rating": null,
-  "simkl_id": 3041302,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "title": "Episode 1",
-      "aired": "2027-01-08T23:30:00+09:00",
-      "thumbnail": null,
-      "description": null,
-      "title_es": "Episodio 1"
-    }
-  ],
-  "specials_data": [],
-  "characters": [],
   "num_scoring_users": 6,
   "nsfw": "white",
-  "created_at": "2026-03-06T09:18:10+00:00",
-  "updated_at": "2026-11-12T21:19:59+00:00",
   "source": "manga",
   "background": "Bless aired on Fuji TV's noitaminA block.",
   "related_anime": [],
@@ -119,5 +101,17 @@
     "num_list_users": 11476
   },
   "mal_details_updated_at": "2026-11-15T17:17:05.961Z",
-  "translations_updated_at": "2026-11-15T17:24:55.581Z"
+  "simkl_id": 3041302,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "title": "Episode 1",
+      "aired": "2027-01-08T23:30:00+09:00",
+      "thumbnail": null,
+      "description": null,
+      "title_es": "Episodio 1"
+    }
+  ],
+  "specials_data": [],
+  "translations_updated_at": "2026-11-15T22:16:06.944Z"
 }

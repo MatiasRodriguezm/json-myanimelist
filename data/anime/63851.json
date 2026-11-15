@@ -30,8 +30,8 @@
   "num_episodes": 7,
   "score": null,
   "mean": null,
-  "numListUsers": 4758,
-  "num_list_users": 4758,
+  "numListUsers": 4760,
+  "num_list_users": 4760,
   "genres": [
     {
       "id": 60,
@@ -56,14 +56,11 @@
       "name": "Sublimation"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1368/156418l.webp",
-    "https://cdn.myanimelist.net/images/anime/1575/160606l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T17:17:46.004Z",
+  "tmdb_updated_at": "2026-11-15T22:13:52.199Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1575/160606.webp",
@@ -76,7 +73,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1368/156418l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1575/160606l.webp"
     }
   },
   "broadcast": {
@@ -90,25 +87,8 @@
   "rank": null,
   "popularity": 9960,
   "rating": null,
-  "simkl_id": 3068610,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "title": "Episode 1",
-      "aired": "2027-01-01T22:30:00+09:00",
-      "thumbnail": null,
-      "description": null,
-      "title_es": "Episodio 1"
-    }
-  ],
-  "specials_data": [],
-  "characters": [],
-  "num_scoring_users": null,
   "nsfw": "white",
-  "created_at": "2026-03-31T09:26:09+00:00",
-  "updated_at": "2026-10-22T18:29:08+00:00",
   "source": "other",
-  "background": null,
   "related_anime": [
     {
       "node": {
@@ -184,5 +164,17 @@
     "num_list_users": 4758
   },
   "mal_details_updated_at": "2026-11-15T17:17:45.461Z",
-  "translations_updated_at": "2026-11-15T17:24:59.222Z"
+  "simkl_id": 3068610,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "title": "Episode 1",
+      "aired": "2027-01-01T22:30:00+09:00",
+      "thumbnail": null,
+      "description": null,
+      "title_es": "Episodio 1"
+    }
+  ],
+  "specials_data": [],
+  "translations_updated_at": "2026-11-15T22:16:09.636Z"
 }

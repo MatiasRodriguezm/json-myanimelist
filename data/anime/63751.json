@@ -30,10 +30,10 @@
   },
   "episodes": 12,
   "num_episodes": 12,
-  "score": 6.25,
-  "mean": 6.25,
-  "numListUsers": 14682,
-  "num_list_users": 14682,
+  "score": 6.24,
+  "mean": 6.24,
+  "numListUsers": 14711,
+  "num_list_users": 14711,
   "genres": [
     {
       "id": 1,
@@ -54,11 +54,7 @@
       "name": "Polygon Pictures"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1302/156145l.webp",
-    "https://cdn.myanimelist.net/images/anime/1800/159472l.webp",
-    "https://cdn.myanimelist.net/images/anime/1195/160543l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/cFxouAuLIa54PEwYlCFdJwCm0lc.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/oHz8T71b97iUyxHWntULhXRPXh8.png",
   "tmdb_id": "320377",
@@ -75,7 +71,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1302/156145l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1195/160543l.webp"
     }
   },
   "broadcast": {
@@ -89,6 +85,46 @@
   "rank": 9706,
   "popularity": 6367,
   "rating": "r",
+  "num_scoring_users": 1694,
+  "nsfw": "white",
+  "source": "web_manga",
+  "related_anime": [],
+  "related_manga": [],
+  "recommendations": [
+    {
+      "node": {
+        "id": 53730,
+        "title": "Sokushi Cheat ga Saikyou sugite, Isekai no Yatsura ga Marude Aite ni Naranai n desu ga.",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1734/139673.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1734/139673l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 38668,
+        "title": "Dorohedoro",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1230/119278.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1230/119278l.webp"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "6257",
+      "completed": 0,
+      "on_hold": "223",
+      "dropped": "1165",
+      "plan_to_watch": "7041"
+    },
+    "num_list_users": 14686
+  },
+  "mal_details_updated_at": "2026-11-15T17:14:54.258Z",
   "simkl_id": 3054044,
   "episodes_data": [
     {
@@ -189,49 +225,5 @@
     }
   ],
   "specials_data": [],
-  "characters": [],
-  "num_scoring_users": 1694,
-  "nsfw": "white",
-  "created_at": "2026-03-18T03:08:02+00:00",
-  "updated_at": "2026-11-14T20:32:33+00:00",
-  "source": "web_manga",
-  "background": null,
-  "related_anime": [],
-  "related_manga": [],
-  "recommendations": [
-    {
-      "node": {
-        "id": 53730,
-        "title": "Sokushi Cheat ga Saikyou sugite, Isekai no Yatsura ga Marude Aite ni Naranai n desu ga.",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1734/139673.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1734/139673l.jpg"
-        }
-      },
-      "num_recommendations": 1
-    },
-    {
-      "node": {
-        "id": 38668,
-        "title": "Dorohedoro",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1230/119278.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1230/119278l.webp"
-        }
-      },
-      "num_recommendations": 1
-    }
-  ],
-  "statistics": {
-    "status": {
-      "watching": "6257",
-      "completed": 0,
-      "on_hold": "223",
-      "dropped": "1165",
-      "plan_to_watch": "7041"
-    },
-    "num_list_users": 14686
-  },
-  "mal_details_updated_at": "2026-11-15T17:14:54.258Z",
-  "translations_updated_at": "2026-11-15T17:24:57.215Z"
+  "translations_updated_at": "2026-11-15T22:16:07.762Z"
 }

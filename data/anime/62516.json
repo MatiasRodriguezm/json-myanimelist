@@ -27,8 +27,8 @@
   "num_episodes": null,
   "score": null,
   "mean": null,
-  "numListUsers": 152101,
-  "num_list_users": 152101,
+  "numListUsers": 152149,
+  "num_list_users": 152149,
   "genres": [
     {
       "id": 1,
@@ -53,14 +53,11 @@
       "name": "Science SARU"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1444/152105l.webp",
-    "https://cdn.myanimelist.net/images/anime/1671/154516l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T17:18:23.998Z",
+  "tmdb_updated_at": "2026-11-15T22:14:05.726Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1671/154516.webp",
@@ -73,23 +70,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1444/152105l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1671/154516l.webp"
     }
   },
   "broadcast": null,
   "rank": null,
   "popularity": 1805,
   "rating": "r",
-  "simkl_id": 2884140,
-  "episodes_data": [],
-  "specials_data": [],
-  "characters": [],
   "num_scoring_users": 2,
   "nsfw": "white",
-  "created_at": "2025-09-18T17:18:32+00:00",
-  "updated_at": "2025-12-21T05:51:07+00:00",
   "source": "manga",
-  "background": null,
   "related_anime": [
     {
       "node": {
@@ -117,5 +107,8 @@
     "num_list_users": 152101
   },
   "mal_details_updated_at": "2026-11-15T17:18:23.304Z",
-  "translations_updated_at": "2026-11-15T17:24:42.998Z"
+  "simkl_id": 2884140,
+  "episodes_data": [],
+  "specials_data": [],
+  "translations_updated_at": "2026-11-15T22:15:55.519Z"
 }

@@ -30,8 +30,8 @@
   "num_episodes": 12,
   "score": 8.55,
   "mean": 8.55,
-  "numListUsers": 3085609,
-  "num_list_users": 3085609,
+  "numListUsers": 3085693,
+  "num_list_users": 3085693,
   "genres": [
     {
       "id": 1,
@@ -68,11 +68,7 @@
       "name": "Wit Studio"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/4/65641l.webp",
-    "https://cdn.myanimelist.net/images/anime/11/80720l.webp",
-    "https://cdn.myanimelist.net/images/anime/4/84177l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/rqbCbjB19amtOtFQbb3K2lgm2zv.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/eHMfVTIwen9anB4HuvQlFRGZFms.png",
   "tmdb_id": "1429",
@@ -89,7 +85,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/4/65641l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/4/84177l.webp"
     }
   },
   "broadcast": {
@@ -103,6 +99,185 @@
   "rank": 143,
   "popularity": 13,
   "rating": "r",
+  "num_scoring_users": 2109134,
+  "nsfw": "white",
+  "source": "manga",
+  "background": "Shingeki no Kyojin Season 2 adapts content from volumes 9-12 of Hajime Isayama's award-winning manga.",
+  "related_anime": [
+    {
+      "node": {
+        "id": 16498,
+        "title": "Shingeki no Kyojin",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/47347.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/47347l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    },
+    {
+      "node": {
+        "id": 35760,
+        "title": "Shingeki no Kyojin Season 3",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1173/92110.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1173/92110l.jpg"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    },
+    {
+      "node": {
+        "id": 36702,
+        "title": "Shingeki no Kyojin Season 2 Movie: Kakusei no Houkou",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1710/95650.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1710/95650l.jpg"
+        }
+      },
+      "relation_type": "alternative_version",
+      "relation_type_formatted": "Alternative version"
+    },
+    {
+      "node": {
+        "id": 39478,
+        "title": "Shingeki no Kyojin in the Dome: Heishi-tachi no Hoshizora",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1893/99639.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1893/99639l.webp"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 42091,
+        "title": "Shingeki no Kyojin: Chronicle",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1786/110717.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1786/110717l.jpg"
+        }
+      },
+      "relation_type": "summary",
+      "relation_type_formatted": "Summary"
+    }
+  ],
+  "related_manga": [],
+  "recommendations": [
+    {
+      "node": {
+        "id": 28927,
+        "title": "Owari no Seraph: Nagoya Kessen-hen",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/9/76632.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/9/76632l.jpg"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 27631,
+        "title": "God Eater",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/7/73852.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/7/73852l.webp"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 24893,
+        "title": "Sidonia no Kishi: Daikyuu Wakusei Seneki",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/11/72712.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/11/72712l.webp"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 20787,
+        "title": "Black Bullet",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1292/94693.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1292/94693l.webp"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 26243,
+        "title": "Owari no Seraph",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1879/148979.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1879/148979l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 28623,
+        "title": "Koutetsujou no Kabaneri",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/12/79164.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/12/79164l.webp"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 31904,
+        "title": "Big Order (TV)",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/3/79913.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/3/79913l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 37779,
+        "title": "Yakusoku no Neverland",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1830/118780.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1830/118780l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 49387,
+        "title": "Vinland Saga Season 2",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1170/124312.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1170/124312l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "95246",
+      "completed": "2785396",
+      "on_hold": "18457",
+      "dropped": "17828",
+      "plan_to_watch": "168524"
+    },
+    "num_list_users": 3085451
+  },
+  "mal_details_updated_at": "2026-11-15T17:18:10.072Z",
   "simkl_id": 439744,
   "episodes_data": [
     {
@@ -300,187 +475,5 @@
       "description": null
     }
   ],
-  "characters": [],
-  "num_scoring_users": 2109134,
-  "nsfw": "white",
-  "created_at": "2014-08-04T23:40:50+00:00",
-  "updated_at": "2024-07-05T07:07:10+00:00",
-  "source": "manga",
-  "background": "Shingeki no Kyojin Season 2 adapts content from volumes 9-12 of Hajime Isayama's award-winning manga.",
-  "related_anime": [
-    {
-      "node": {
-        "id": 16498,
-        "title": "Shingeki no Kyojin",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/10/47347.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/10/47347l.jpg"
-        }
-      },
-      "relation_type": "prequel",
-      "relation_type_formatted": "Prequel"
-    },
-    {
-      "node": {
-        "id": 35760,
-        "title": "Shingeki no Kyojin Season 3",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1173/92110.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1173/92110l.jpg"
-        }
-      },
-      "relation_type": "sequel",
-      "relation_type_formatted": "Sequel"
-    },
-    {
-      "node": {
-        "id": 36702,
-        "title": "Shingeki no Kyojin Season 2 Movie: Kakusei no Houkou",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1710/95650.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1710/95650l.jpg"
-        }
-      },
-      "relation_type": "alternative_version",
-      "relation_type_formatted": "Alternative version"
-    },
-    {
-      "node": {
-        "id": 39478,
-        "title": "Shingeki no Kyojin in the Dome: Heishi-tachi no Hoshizora",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1893/99639.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1893/99639l.webp"
-        }
-      },
-      "relation_type": "other",
-      "relation_type_formatted": "Other"
-    },
-    {
-      "node": {
-        "id": 42091,
-        "title": "Shingeki no Kyojin: Chronicle",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1786/110717.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1786/110717l.jpg"
-        }
-      },
-      "relation_type": "summary",
-      "relation_type_formatted": "Summary"
-    }
-  ],
-  "related_manga": [],
-  "recommendations": [
-    {
-      "node": {
-        "id": 28927,
-        "title": "Owari no Seraph: Nagoya Kessen-hen",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/9/76632.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/9/76632l.jpg"
-        }
-      },
-      "num_recommendations": 2
-    },
-    {
-      "node": {
-        "id": 27631,
-        "title": "God Eater",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/7/73852.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/7/73852l.webp"
-        }
-      },
-      "num_recommendations": 2
-    },
-    {
-      "node": {
-        "id": 24893,
-        "title": "Sidonia no Kishi: Daikyuu Wakusei Seneki",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/11/72712.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/11/72712l.webp"
-        }
-      },
-      "num_recommendations": 1
-    },
-    {
-      "node": {
-        "id": 20787,
-        "title": "Black Bullet",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1292/94693.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1292/94693l.webp"
-        }
-      },
-      "num_recommendations": 1
-    },
-    {
-      "node": {
-        "id": 26243,
-        "title": "Owari no Seraph",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1879/148979.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1879/148979l.jpg"
-        }
-      },
-      "num_recommendations": 1
-    },
-    {
-      "node": {
-        "id": 28623,
-        "title": "Koutetsujou no Kabaneri",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/12/79164.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/12/79164l.webp"
-        }
-      },
-      "num_recommendations": 1
-    },
-    {
-      "node": {
-        "id": 31904,
-        "title": "Big Order (TV)",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/3/79913.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/3/79913l.jpg"
-        }
-      },
-      "num_recommendations": 1
-    },
-    {
-      "node": {
-        "id": 37779,
-        "title": "Yakusoku no Neverland",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1830/118780.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1830/118780l.jpg"
-        }
-      },
-      "num_recommendations": 1
-    },
-    {
-      "node": {
-        "id": 49387,
-        "title": "Vinland Saga Season 2",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1170/124312.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1170/124312l.jpg"
-        }
-      },
-      "num_recommendations": 1
-    }
-  ],
-  "statistics": {
-    "status": {
-      "watching": "95246",
-      "completed": "2785396",
-      "on_hold": "18457",
-      "dropped": "17828",
-      "plan_to_watch": "168524"
-    },
-    "num_list_users": 3085451
-  },
-  "mal_details_updated_at": "2026-11-15T17:18:10.072Z",
-  "translations_updated_at": "2026-11-15T17:23:32.867Z"
+  "translations_updated_at": "2026-11-15T22:15:04.469Z"
 }

@@ -32,8 +32,8 @@
   "num_episodes": null,
   "score": null,
   "mean": null,
-  "numListUsers": 89218,
-  "num_list_users": 89218,
+  "numListUsers": 89275,
+  "num_list_users": 89275,
   "genres": [
     {
       "id": 1,
@@ -70,10 +70,7 @@
       "name": "A-1 Pictures"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1085/154496l.webp",
-    "https://cdn.myanimelist.net/images/anime/1346/160994l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/p1swd15DRtCnNj20U904dbXeVsi.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/f1iybcTUUU0QnPwvFjJvChxss6b.png",
   "tmdb_id": "204832",
@@ -90,7 +87,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1085/154496l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1346/160994l.webp"
     }
   },
   "broadcast": {
@@ -104,25 +101,8 @@
   "rank": null,
   "popularity": 2651,
   "rating": "pg_13",
-  "simkl_id": 2475640,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "title": "Episode 1",
-      "aired": "2027-01-10T00:00:00+09:00",
-      "thumbnail": null,
-      "description": null,
-      "title_es": "Episodio 1"
-    }
-  ],
-  "specials_data": [],
-  "characters": [],
-  "num_scoring_users": null,
   "nsfw": "white",
-  "created_at": "2024-05-26T12:23:03+00:00",
-  "updated_at": "2026-11-11T12:18:44+00:00",
   "source": "manga",
-  "background": null,
   "related_anime": [
     {
       "node": {
@@ -150,5 +130,17 @@
     "num_list_users": 89222
   },
   "mal_details_updated_at": "2026-11-15T17:16:50.953Z",
-  "translations_updated_at": "2026-11-15T17:24:30.308Z"
+  "simkl_id": 2475640,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "title": "Episode 1",
+      "aired": "2027-01-10T00:00:00+09:00",
+      "thumbnail": null,
+      "description": null,
+      "title_es": "Episodio 1"
+    }
+  ],
+  "specials_data": [],
+  "translations_updated_at": "2026-11-15T22:15:43.644Z"
 }

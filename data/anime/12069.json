@@ -57,15 +57,11 @@
       "name": "Madhouse"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/10/34019l.webp",
-    "https://cdn.myanimelist.net/images/anime/5/60867l.webp",
-    "https://cdn.myanimelist.net/images/anime/2/84664l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T17:21:56.695Z",
+  "tmdb_updated_at": "2026-11-15T22:14:39.527Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/2/84664.webp",
@@ -78,13 +74,77 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/10/34019l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/2/84664l.webp"
     }
   },
   "broadcast": null,
   "rank": 621,
   "popularity": 3224,
   "rating": "pg_13",
+  "num_scoring_users": 36877,
+  "nsfw": "white",
+  "source": "manga",
+  "related_anime": [
+    {
+      "node": {
+        "id": 263,
+        "title": "Hajime no Ippo",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/4/86334.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/4/86334l.webp"
+        }
+      },
+      "relation_type": "parent_story",
+      "relation_type_formatted": "Parent story"
+    }
+  ],
+  "related_manga": [],
+  "recommendations": [
+    {
+      "node": {
+        "id": 2922,
+        "title": "Ashita no Joe 2 (Movie)",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/5/53557.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/5/53557l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 19973,
+        "title": "Ashita no Joe Pilots",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/11/53387.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/11/53387l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 263,
+        "title": "Hajime no Ippo",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/4/86334.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/4/86334l.webp"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "1421",
+      "completed": "54278",
+      "on_hold": "355",
+      "dropped": "382",
+      "plan_to_watch": "7990"
+    },
+    "num_list_users": 64426
+  },
+  "mal_details_updated_at": "2026-11-15T17:21:56.486Z",
   "simkl_id": 40177,
   "episodes_data": [
     {
@@ -698,73 +758,5 @@
       "description": "Long before Mamoru was champion, he was a punk who thought all a boxer needed was a powerful fist... until he stepped into the ring!"
     }
   ],
-  "characters": [],
-  "num_scoring_users": 36877,
-  "nsfw": "white",
-  "created_at": "2011-11-16T13:15:53+00:00",
-  "updated_at": "2022-04-22T18:25:40+00:00",
-  "source": "manga",
-  "background": null,
-  "related_anime": [
-    {
-      "node": {
-        "id": 263,
-        "title": "Hajime no Ippo",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/4/86334.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/4/86334l.webp"
-        }
-      },
-      "relation_type": "parent_story",
-      "relation_type_formatted": "Parent story"
-    }
-  ],
-  "related_manga": [],
-  "recommendations": [
-    {
-      "node": {
-        "id": 2922,
-        "title": "Ashita no Joe 2 (Movie)",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/5/53557.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/5/53557l.jpg"
-        }
-      },
-      "num_recommendations": 1
-    },
-    {
-      "node": {
-        "id": 19973,
-        "title": "Ashita no Joe Pilots",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/11/53387.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/11/53387l.jpg"
-        }
-      },
-      "num_recommendations": 1
-    },
-    {
-      "node": {
-        "id": 263,
-        "title": "Hajime no Ippo",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/4/86334.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/4/86334l.webp"
-        }
-      },
-      "num_recommendations": 1
-    }
-  ],
-  "statistics": {
-    "status": {
-      "watching": "1421",
-      "completed": "54278",
-      "on_hold": "355",
-      "dropped": "382",
-      "plan_to_watch": "7990"
-    },
-    "num_list_users": 64426
-  },
-  "mal_details_updated_at": "2026-11-15T17:21:56.486Z",
-  "translations_updated_at": "2026-11-15T17:24:11.043Z"
+  "translations_updated_at": "2026-11-15T22:15:25.435Z"
 }

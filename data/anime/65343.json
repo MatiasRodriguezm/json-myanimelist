@@ -32,8 +32,8 @@
   "num_episodes": 1,
   "score": null,
   "mean": null,
-  "numListUsers": 91,
-  "num_list_users": 91,
+  "numListUsers": 92,
+  "num_list_users": 92,
   "genres": [
     {
       "id": 51,
@@ -54,13 +54,11 @@
       "name": "Studio Wrong"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1015/160928l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T17:16:34.492Z",
+  "tmdb_updated_at": "2026-11-15T22:13:24.382Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1015/160928.webp",
@@ -80,16 +78,9 @@
   "rank": 15831,
   "popularity": 29953,
   "rating": "pg_13",
-  "simkl_id": null,
-  "episodes_data": [],
-  "specials_data": [],
-  "characters": [],
   "num_scoring_users": 39,
   "nsfw": "white",
-  "created_at": "2026-11-07T20:03:23+00:00",
-  "updated_at": "2026-11-08T13:14:27+00:00",
   "source": "original",
-  "background": null,
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
@@ -104,5 +95,8 @@
     "num_list_users": 91
   },
   "mal_details_updated_at": "2026-11-15T17:16:34.020Z",
-  "translations_updated_at": "2026-11-15T17:25:12.180Z"
+  "simkl_id": null,
+  "episodes_data": [],
+  "specials_data": [],
+  "translations_updated_at": "2026-11-15T22:16:22.604Z"
 }

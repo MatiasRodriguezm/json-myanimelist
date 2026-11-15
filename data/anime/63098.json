@@ -32,8 +32,8 @@
   "num_episodes": null,
   "score": 6.85,
   "mean": 6.85,
-  "numListUsers": 35215,
-  "num_list_users": 35215,
+  "numListUsers": 35239,
+  "num_list_users": 35239,
   "genres": [
     {
       "id": 1,
@@ -78,13 +78,7 @@
       "name": "Satelight"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1685/154249l.webp",
-    "https://cdn.myanimelist.net/images/anime/1400/154482l.webp",
-    "https://cdn.myanimelist.net/images/anime/1698/156325l.webp",
-    "https://cdn.myanimelist.net/images/anime/1154/159987l.webp",
-    "https://cdn.myanimelist.net/images/anime/1000/160405l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/qRgXreXNyUO30yAniTckVAho2va.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/4p8RNcI2CpZ4xHRWD8EFxViHcMd.png",
   "tmdb_id": "297903",
@@ -101,7 +95,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1685/154249l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1000/160405l.webp"
     }
   },
   "broadcast": {
@@ -115,81 +109,9 @@
   "rank": 5792,
   "popularity": 4475,
   "rating": "pg_13",
-  "simkl_id": 2962972,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "title": "Urban Legend",
-      "aired": "2026-10-05T23:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/20/208213912f3cc02dd1_w.webp",
-      "description": "High school student Ageha finds a mysterious telephone card in a phone booth.",
-      "title_es": "Leyenda urbana"
-    },
-    {
-      "episode": 2,
-      "title": "Tavoo",
-      "aired": "2026-10-12T23:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/20/2087109709f498c0d5_w.webp",
-      "description": "Ageha, Amamiya, and Hiryu reunite in the Psyren world. A voice thunders out, “To those who reach Psyren—the entire world shall be theirs!”",
-      "title_es": "Tavoo"
-    },
-    {
-      "episode": 3,
-      "title": "Psi",
-      "aired": "2026-10-19T23:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/20/209100095af6694971_w.webp",
-      "description": "Ageha and his friends have ended up in a death game. While heading for the finish line, before they can make it to safety, an unworldly monster calls a Tavoo appears before them.",
-      "title_es": "psi"
-    },
-    {
-      "episode": 4,
-      "title": "Recall",
-      "aired": "2026-10-26T23:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/20/20961805c29af939c8_w.webp",
-      "description": "In a bid for survival, Ageha undergoes PSI training. Meanwhile, the actor Oboro and opportunistic Kabuto also receive phone cards.",
-      "title_es": "Recordar"
-    },
-    {
-      "episode": 5,
-      "title": "Those Gathered",
-      "aired": "2026-11-09T23:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/21/21046675d61eda35d1_w.webp",
-      "description": null,
-      "title_es": "Los reunidos"
-    },
-    {
-      "episode": 6,
-      "title": "Episode 6",
-      "aired": "2026-11-16T23:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/21/21083359cf992c9744_w.webp",
-      "description": null,
-      "title_es": "Episodio 6"
-    },
-    {
-      "episode": 7,
-      "title": "Episode 7",
-      "aired": "2026-11-23T23:00:00+09:00",
-      "thumbnail": null,
-      "description": null,
-      "title_es": "Episodio 7"
-    },
-    {
-      "episode": 8,
-      "title": "Episode 8",
-      "aired": "2026-11-30T23:00:00+09:00",
-      "thumbnail": null,
-      "description": null,
-      "title_es": "Episodio 8"
-    }
-  ],
-  "specials_data": [],
-  "characters": [],
   "num_scoring_users": 4135,
   "nsfw": "white",
-  "created_at": "2025-12-14T16:20:10+00:00",
-  "updated_at": "2026-10-29T03:10:43+00:00",
   "source": "manga",
-  "background": null,
   "related_anime": [],
   "related_manga": [],
   "recommendations": [
@@ -271,5 +193,73 @@
     "num_list_users": 35215
   },
   "mal_details_updated_at": "2026-11-15T17:14:30.761Z",
-  "translations_updated_at": "2026-11-15T17:24:49.802Z"
+  "simkl_id": 2962972,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "title": "Urban Legend",
+      "aired": "2026-10-05T23:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/208213912f3cc02dd1_w.webp",
+      "description": "High school student Ageha finds a mysterious telephone card in a phone booth.",
+      "title_es": "Leyenda urbana"
+    },
+    {
+      "episode": 2,
+      "title": "Tavoo",
+      "aired": "2026-10-12T23:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/2087109709f498c0d5_w.webp",
+      "description": "Ageha, Amamiya, and Hiryu reunite in the Psyren world. A voice thunders out, “To those who reach Psyren—the entire world shall be theirs!”",
+      "title_es": "Tavoo"
+    },
+    {
+      "episode": 3,
+      "title": "Psi",
+      "aired": "2026-10-19T23:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/209100095af6694971_w.webp",
+      "description": "Ageha and his friends have ended up in a death game. While heading for the finish line, before they can make it to safety, an unworldly monster calls a Tavoo appears before them.",
+      "title_es": "psi"
+    },
+    {
+      "episode": 4,
+      "title": "Recall",
+      "aired": "2026-10-26T23:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/20961805c29af939c8_w.webp",
+      "description": "In a bid for survival, Ageha undergoes PSI training. Meanwhile, the actor Oboro and opportunistic Kabuto also receive phone cards.",
+      "title_es": "Recordar"
+    },
+    {
+      "episode": 5,
+      "title": "Those Gathered",
+      "aired": "2026-11-09T23:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/21/21046675d61eda35d1_w.webp",
+      "description": null,
+      "title_es": "Los reunidos"
+    },
+    {
+      "episode": 6,
+      "title": "Episode 6",
+      "aired": "2026-11-16T23:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/21/21083359cf992c9744_w.webp",
+      "description": null,
+      "title_es": "Episodio 6"
+    },
+    {
+      "episode": 7,
+      "title": "Episode 7",
+      "aired": "2026-11-23T23:00:00+09:00",
+      "thumbnail": null,
+      "description": null,
+      "title_es": "Episodio 7"
+    },
+    {
+      "episode": 8,
+      "title": "Episode 8",
+      "aired": "2026-11-30T23:00:00+09:00",
+      "thumbnail": null,
+      "description": null,
+      "title_es": "Episodio 8"
+    }
+  ],
+  "specials_data": [],
+  "translations_updated_at": "2026-11-15T22:16:00.788Z"
 }

@@ -30,8 +30,8 @@
   "num_episodes": 1,
   "score": null,
   "mean": null,
-  "numListUsers": 4716,
-  "num_list_users": 4716,
+  "numListUsers": 4721,
+  "num_list_users": 4721,
   "genres": [
     {
       "id": 8,
@@ -48,16 +48,11 @@
       "name": "Nichicaline"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1438/154964l.webp",
-    "https://cdn.myanimelist.net/images/anime/1479/159247l.webp",
-    "https://cdn.myanimelist.net/images/anime/1237/159287l.webp",
-    "https://cdn.myanimelist.net/images/anime/1080/160621l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T17:15:08.605Z",
+  "tmdb_updated_at": "2026-11-15T22:12:50.355Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1080/160621.webp",
@@ -70,32 +65,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1438/154964l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1080/160621l.webp"
     }
   },
   "broadcast": null,
   "rank": 15749,
   "popularity": 9991,
   "rating": "pg_13",
-  "simkl_id": 2991028,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "title": "Complete Movie",
-      "title_es": "Película completa",
-      "aired": "2026-10-16T00:00:00+09:00",
-      "thumbnail": null,
-      "description": null
-    }
-  ],
-  "specials_data": [],
-  "characters": [],
   "num_scoring_users": 103,
   "nsfw": "white",
-  "created_at": "2025-08-14T23:13:06+00:00",
-  "updated_at": "2026-08-02T02:16:49+00:00",
   "source": "mixed_media",
-  "background": null,
   "related_anime": [
     {
       "node": {
@@ -123,5 +102,17 @@
     "num_list_users": 4716
   },
   "mal_details_updated_at": "2026-11-15T17:15:08.176Z",
-  "translations_updated_at": "2026-11-15T17:24:42.144Z"
+  "simkl_id": 2991028,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "title": "Complete Movie",
+      "title_es": "Película completa",
+      "aired": "2026-10-16T00:00:00+09:00",
+      "thumbnail": null,
+      "description": null
+    }
+  ],
+  "specials_data": [],
+  "translations_updated_at": "2026-11-15T22:15:54.692Z"
 }

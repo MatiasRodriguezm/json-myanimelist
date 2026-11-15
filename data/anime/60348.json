@@ -30,8 +30,8 @@
   "num_episodes": 8,
   "score": null,
   "mean": null,
-  "numListUsers": 6749,
-  "num_list_users": 6749,
+  "numListUsers": 6750,
+  "num_list_users": 6750,
   "genres": [
     {
       "id": 10,
@@ -60,15 +60,11 @@
       "name": "Graphinica"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1428/146593l.webp",
-    "https://cdn.myanimelist.net/images/anime/1746/159211l.webp",
-    "https://cdn.myanimelist.net/images/anime/1700/160746l.webp"
-  ],
-  "backdrop_url": null,
-  "logo_url": null,
-  "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T17:15:07.811Z",
+  "pictures": [],
+  "backdrop_url": "https://image.tmdb.org/t/p/w1280/oXzfnl28Bv4ynwRUIO1mCaJVfc9.jpg",
+  "logo_url": "https://image.tmdb.org/t/p/w300/cREL1Cc44sGBM4DMW49WCTI0tCp.png",
+  "tmdb_id": "342075",
+  "tmdb_updated_at": "2026-11-15T22:12:50.024Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1700/160746.webp",
@@ -81,32 +77,15 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1428/146593l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1700/160746l.webp"
     }
   },
   "broadcast": null,
   "rank": null,
   "popularity": 8740,
   "rating": null,
-  "simkl_id": 2735128,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "title": "Episode 1",
-      "aired": "2026-12-01T00:00:00+09:00",
-      "thumbnail": null,
-      "description": null,
-      "title_es": "Episodio 1"
-    }
-  ],
-  "specials_data": [],
-  "characters": [],
-  "num_scoring_users": null,
   "nsfw": "white",
-  "created_at": "2024-11-21T04:02:47+00:00",
-  "updated_at": "2026-10-29T10:25:50+00:00",
   "source": "manga",
-  "background": null,
   "related_anime": [
     {
       "node": {
@@ -146,5 +125,17 @@
     "num_list_users": 6749
   },
   "mal_details_updated_at": "2026-11-15T17:15:07.272Z",
-  "translations_updated_at": "2026-11-15T17:24:34.109Z"
+  "simkl_id": 2735128,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "title": "Episode 1",
+      "aired": "2026-12-01T00:00:00+09:00",
+      "thumbnail": null,
+      "description": null,
+      "title_es": "Episodio 1"
+    }
+  ],
+  "specials_data": [],
+  "translations_updated_at": "2026-11-15T22:15:47.549Z"
 }

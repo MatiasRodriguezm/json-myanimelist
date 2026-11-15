@@ -32,8 +32,8 @@
   "num_episodes": null,
   "score": null,
   "mean": null,
-  "numListUsers": 40665,
-  "num_list_users": 40665,
+  "numListUsers": 40679,
+  "num_list_users": 40679,
   "genres": [
     {
       "id": 4,
@@ -58,14 +58,11 @@
       "name": "Shin-Ei Animation"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1146/156101l.webp",
-    "https://cdn.myanimelist.net/images/anime/1245/160886l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T17:19:50.862Z",
+  "tmdb_updated_at": "2026-11-15T22:14:28.063Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1245/160886.webp",
@@ -78,23 +75,15 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1146/156101l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1245/160886l.webp"
     }
   },
   "broadcast": null,
   "rank": null,
   "popularity": 4172,
   "rating": "pg_13",
-  "simkl_id": 3050958,
-  "episodes_data": [],
-  "specials_data": [],
-  "characters": [],
-  "num_scoring_users": null,
   "nsfw": "white",
-  "created_at": "2026-03-14T10:09:50+00:00",
-  "updated_at": "2026-03-14T11:29:26+00:00",
   "source": "manga",
-  "background": null,
   "related_anime": [
     {
       "node": {
@@ -122,5 +111,8 @@
     "num_list_users": 40665
   },
   "mal_details_updated_at": "2026-11-15T17:19:50.509Z",
-  "translations_updated_at": "2026-11-15T17:24:57.019Z"
+  "simkl_id": 3050958,
+  "episodes_data": [],
+  "specials_data": [],
+  "translations_updated_at": "2026-11-15T22:16:07.584Z"
 }

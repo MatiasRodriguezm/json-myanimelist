@@ -30,8 +30,8 @@
   "num_episodes": null,
   "score": 8.89,
   "mean": 8.89,
-  "numListUsers": 178831,
-  "num_list_users": 178831,
+  "numListUsers": 179026,
+  "num_list_users": 179026,
   "genres": [
     {
       "id": 1,
@@ -52,15 +52,7 @@
       "name": "Studio Pierrot"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1636/150908l.webp",
-    "https://cdn.myanimelist.net/images/anime/1424/150913l.webp",
-    "https://cdn.myanimelist.net/images/anime/1717/154518l.webp",
-    "https://cdn.myanimelist.net/images/anime/1602/158830l.webp",
-    "https://cdn.myanimelist.net/images/anime/1857/160133l.webp",
-    "https://cdn.myanimelist.net/images/anime/1954/160282l.webp",
-    "https://cdn.myanimelist.net/images/anime/1953/160924l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/qu9epTZh29fGUkY7ZYc9PVsv0Ig.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/j9ZZ7WV5pwLLXbbebyGdMUxbqrc.png",
   "tmdb_id": "73223",
@@ -77,7 +69,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1636/150908l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1857/160133l.webp"
     }
   },
   "broadcast": {
@@ -91,6 +83,36 @@
   "rank": 26,
   "popularity": 1588,
   "rating": "pg_13",
+  "num_scoring_users": 22138,
+  "nsfw": "white",
+  "source": "manga",
+  "related_anime": [
+    {
+      "node": {
+        "id": 34572,
+        "title": "Black Clover",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/2/88336.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/2/88336l.webp"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    }
+  ],
+  "related_manga": [],
+  "recommendations": [],
+  "statistics": {
+    "status": {
+      "watching": "87996",
+      "completed": "11",
+      "on_hold": "1619",
+      "dropped": "546",
+      "plan_to_watch": "88622"
+    },
+    "num_list_users": 178794
+  },
+  "mal_details_updated_at": "2026-11-15T17:13:06.786Z",
   "simkl_id": 2829490,
   "episodes_data": [
     {
@@ -191,39 +213,5 @@
     }
   ],
   "specials_data": [],
-  "characters": [],
-  "num_scoring_users": 22138,
-  "nsfw": "white",
-  "created_at": "2025-07-03T09:02:46+00:00",
-  "updated_at": "2026-09-27T22:53:38+00:00",
-  "source": "manga",
-  "background": null,
-  "related_anime": [
-    {
-      "node": {
-        "id": 34572,
-        "title": "Black Clover",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/2/88336.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/2/88336l.webp"
-        }
-      },
-      "relation_type": "prequel",
-      "relation_type_formatted": "Prequel"
-    }
-  ],
-  "related_manga": [],
-  "recommendations": [],
-  "statistics": {
-    "status": {
-      "watching": "87996",
-      "completed": "11",
-      "on_hold": "1619",
-      "dropped": "546",
-      "plan_to_watch": "88622"
-    },
-    "num_list_users": 178794
-  },
-  "mal_details_updated_at": "2026-11-15T17:13:06.786Z",
-  "translations_updated_at": "2026-11-15T17:24:40.070Z"
+  "translations_updated_at": "2026-11-15T22:15:52.581Z"
 }

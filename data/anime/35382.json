@@ -50,15 +50,11 @@
       "name": "MAPPA"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/6/85548l.webp",
-    "https://cdn.myanimelist.net/images/anime/7/87387l.webp",
-    "https://cdn.myanimelist.net/images/anime/1083/94762l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T17:22:02.568Z",
+  "tmdb_updated_at": "2026-11-15T22:14:41.332Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/6/85548.webp",
@@ -78,6 +74,37 @@
   "rank": 793,
   "popularity": 2585,
   "rating": "pg_13",
+  "num_scoring_users": 40085,
+  "nsfw": "white",
+  "source": "original",
+  "background": "Yuri!!! on Ice: Yuri Plisetsky GPF in Barcelona EX - Welcome to The Madness is bonus footage that was included in the sixth volume of the Yuri!!! on Ice Blu-ray and DVD, which was released by Avex Pictures in Japan on May 26, 2017. A complementary manga by series co-creator Mitsurou Kubo was distributed to those who purchased all six volumes of the Blu-ray or DVD from a single participating retailer.",
+  "related_anime": [
+    {
+      "node": {
+        "id": 32995,
+        "title": "Yuri!!! on Ice",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/6/81149.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/6/81149l.jpg"
+        }
+      },
+      "relation_type": "parent_story",
+      "relation_type_formatted": "Parent story"
+    }
+  ],
+  "related_manga": [],
+  "recommendations": [],
+  "statistics": {
+    "status": {
+      "watching": "2036",
+      "completed": "65206",
+      "on_hold": "661",
+      "dropped": "795",
+      "plan_to_watch": "24865"
+    },
+    "num_list_users": 93563
+  },
+  "mal_details_updated_at": "2026-11-15T17:22:02.311Z",
   "simkl_id": 570548,
   "episodes_data": [
     {
@@ -203,39 +230,5 @@
       "description": null
     }
   ],
-  "characters": [],
-  "num_scoring_users": 40085,
-  "nsfw": "white",
-  "created_at": "2017-04-10T10:06:21+00:00",
-  "updated_at": "2025-07-09T21:25:56+00:00",
-  "source": "original",
-  "background": "Yuri!!! on Ice: Yuri Plisetsky GPF in Barcelona EX - Welcome to The Madness is bonus footage that was included in the sixth volume of the Yuri!!! on Ice Blu-ray and DVD, which was released by Avex Pictures in Japan on May 26, 2017. A complementary manga by series co-creator Mitsurou Kubo was distributed to those who purchased all six volumes of the Blu-ray or DVD from a single participating retailer.",
-  "related_anime": [
-    {
-      "node": {
-        "id": 32995,
-        "title": "Yuri!!! on Ice",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/6/81149.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/6/81149l.jpg"
-        }
-      },
-      "relation_type": "parent_story",
-      "relation_type_formatted": "Parent story"
-    }
-  ],
-  "related_manga": [],
-  "recommendations": [],
-  "statistics": {
-    "status": {
-      "watching": "2036",
-      "completed": "65206",
-      "on_hold": "661",
-      "dropped": "795",
-      "plan_to_watch": "24865"
-    },
-    "num_list_users": 93563
-  },
-  "mal_details_updated_at": "2026-11-15T17:22:02.311Z",
-  "translations_updated_at": "2026-11-15T17:24:22.816Z"
+  "translations_updated_at": "2026-11-15T22:15:36.578Z"
 }

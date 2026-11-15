@@ -32,8 +32,8 @@
   "num_episodes": null,
   "score": null,
   "mean": null,
-  "numListUsers": 11579,
-  "num_list_users": 11579,
+  "numListUsers": 11594,
+  "num_list_users": 11594,
   "genres": [
     {
       "id": 22,
@@ -50,11 +50,7 @@
       "name": "TROYCA"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1194/151593l.webp",
-    "https://cdn.myanimelist.net/images/anime/1694/158448l.webp",
-    "https://cdn.myanimelist.net/images/anime/1235/160176l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/ysml9oh1Xm1V9OVF1Fnni2o7H20.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/gC00fu29lpcRLIjS8OzuENTiXc6.png",
   "tmdb_id": "298802",
@@ -71,32 +67,15 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1194/151593l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1235/160176l.webp"
     }
   },
   "broadcast": null,
   "rank": null,
   "popularity": 7041,
   "rating": null,
-  "simkl_id": 2863430,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "title": "Episode 1",
-      "aired": "2027-01-01T00:00:00+09:00",
-      "thumbnail": null,
-      "description": null,
-      "title_es": "Episodio 1"
-    }
-  ],
-  "specials_data": [],
-  "characters": [],
-  "num_scoring_users": null,
   "nsfw": "white",
-  "created_at": "2025-08-19T10:11:14+00:00",
-  "updated_at": "2026-09-21T03:41:56+00:00",
   "source": "novel",
-  "background": null,
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
@@ -111,5 +90,17 @@
     "num_list_users": 11579
   },
   "mal_details_updated_at": "2026-11-15T17:17:05.380Z",
-  "translations_updated_at": "2026-11-15T17:24:42.332Z"
+  "simkl_id": 2863430,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "title": "Episode 1",
+      "aired": "2027-01-01T00:00:00+09:00",
+      "thumbnail": null,
+      "description": null,
+      "title_es": "Episodio 1"
+    }
+  ],
+  "specials_data": [],
+  "translations_updated_at": "2026-11-15T22:15:54.876Z"
 }

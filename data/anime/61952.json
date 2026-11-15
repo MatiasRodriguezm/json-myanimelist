@@ -34,8 +34,8 @@
   "num_episodes": 1,
   "score": 8.66,
   "mean": 8.66,
-  "numListUsers": 16091,
-  "num_list_users": 16091,
+  "numListUsers": 16097,
+  "num_list_users": 16097,
   "genres": [
     {
       "id": 2,
@@ -56,20 +56,11 @@
       "name": "HMCH"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1515/151848l.webp",
-    "https://cdn.myanimelist.net/images/anime/1619/151849l.webp",
-    "https://cdn.myanimelist.net/images/anime/1131/151850l.webp",
-    "https://cdn.myanimelist.net/images/anime/1033/151851l.webp",
-    "https://cdn.myanimelist.net/images/anime/1517/151852l.webp",
-    "https://cdn.myanimelist.net/images/anime/1288/151853l.webp",
-    "https://cdn.myanimelist.net/images/anime/1845/152057l.webp",
-    "https://cdn.myanimelist.net/images/anime/1702/157823l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T17:20:09.476Z",
+  "tmdb_updated_at": "2026-11-15T22:14:31.825Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1288/151853.webp",
@@ -82,32 +73,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1515/151848l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1288/151853l.webp"
     }
   },
   "broadcast": null,
   "rank": 86,
   "popularity": 6163,
   "rating": "g",
-  "simkl_id": 2958138,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "title": "Complete Movie",
-      "title_es": "Película completa",
-      "aired": "2025-07-18T00:00:00+09:00",
-      "thumbnail": null,
-      "description": null
-    }
-  ],
-  "specials_data": [],
-  "characters": [],
   "num_scoring_users": 4511,
   "nsfw": "white",
-  "created_at": "2025-07-01T19:09:00+00:00",
-  "updated_at": "2026-08-31T13:43:16+00:00",
   "source": "original",
-  "background": null,
   "related_anime": [
     {
       "node": {
@@ -135,5 +110,17 @@
     "num_list_users": 16049
   },
   "mal_details_updated_at": "2026-11-15T17:20:09.172Z",
-  "translations_updated_at": "2026-11-15T17:24:02.771Z"
+  "simkl_id": 2958138,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "title": "Complete Movie",
+      "title_es": "Película completa",
+      "aired": "2025-07-18T00:00:00+09:00",
+      "thumbnail": null,
+      "description": null
+    }
+  ],
+  "specials_data": [],
+  "translations_updated_at": "2026-11-15T22:15:16.953Z"
 }

@@ -30,8 +30,8 @@
   "num_episodes": 25,
   "score": 7.41,
   "mean": 7.41,
-  "numListUsers": 45227,
-  "num_list_users": 45227,
+  "numListUsers": 45286,
+  "num_list_users": 45286,
   "genres": [
     {
       "id": 10,
@@ -48,12 +48,7 @@
       "name": "Konami animation"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1116/155161l.webp",
-    "https://cdn.myanimelist.net/images/anime/1000/159223l.webp",
-    "https://cdn.myanimelist.net/images/anime/1362/160050l.webp",
-    "https://cdn.myanimelist.net/images/anime/1393/160054l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/5obfnImCRn0LzQnRb4jxuCJRlxd.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/riCiNoSEkHZzHtMg1RUXPxgGcgc.png",
   "tmdb_id": "312850",
@@ -70,7 +65,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1116/155161l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1000/159223l.webp"
     }
   },
   "broadcast": {
@@ -84,6 +79,104 @@
   "rank": 2640,
   "popularity": 3962,
   "rating": "pg_13",
+  "num_scoring_users": 5545,
+  "nsfw": "white",
+  "source": "light_novel",
+  "related_anime": [
+    {
+      "node": {
+        "id": 65138,
+        "title": "Respawn!!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1174/160439.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1174/160439l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 65196,
+        "title": "Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei shita Kamigoroshi no Bujin no Karei Naru Musouroku Mini Anime",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1771/160556.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1771/160556l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    }
+  ],
+  "related_manga": [],
+  "recommendations": [
+    {
+      "node": {
+        "id": 50481,
+        "title": "Eiyuuou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1044/129594.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1044/129594l.webp"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 59846,
+        "title": "Saigo ni Hitotsu dake Onegai shitemo Yoroshii deshou ka",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1190/151754.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1190/151754l.webp"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 42072,
+        "title": "Kenja no Deshi wo Nanoru Kenja",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1583/119223.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1583/119223l.webp"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 60810,
+        "title": "Majutsushi Kunon wa Mieteiru",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1704/154459.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1704/154459l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 48316,
+        "title": "Kage no Jitsuryokusha ni Naritakute!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1091/128729.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1091/128729l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "24887",
+      "completed": 0,
+      "on_hold": "515",
+      "dropped": "1121",
+      "plan_to_watch": "18704"
+    },
+    "num_list_users": 45227
+  },
+  "mal_details_updated_at": "2026-11-15T17:13:23.462Z",
   "simkl_id": 3007186,
   "episodes_data": [
     {
@@ -289,107 +382,5 @@
       "title_es": "Episodio T40"
     }
   ],
-  "characters": [],
-  "num_scoring_users": 5545,
-  "nsfw": "white",
-  "created_at": "2026-01-28T09:37:58+00:00",
-  "updated_at": "2026-10-07T09:41:46+00:00",
-  "source": "light_novel",
-  "background": null,
-  "related_anime": [
-    {
-      "node": {
-        "id": 65138,
-        "title": "Respawn!!",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1174/160439.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1174/160439l.jpg"
-        }
-      },
-      "relation_type": "other",
-      "relation_type_formatted": "Other"
-    },
-    {
-      "node": {
-        "id": 65196,
-        "title": "Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei shita Kamigoroshi no Bujin no Karei Naru Musouroku Mini Anime",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1771/160556.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1771/160556l.jpg"
-        }
-      },
-      "relation_type": "other",
-      "relation_type_formatted": "Other"
-    }
-  ],
-  "related_manga": [],
-  "recommendations": [
-    {
-      "node": {
-        "id": 50481,
-        "title": "Eiyuuou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1044/129594.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1044/129594l.webp"
-        }
-      },
-      "num_recommendations": 2
-    },
-    {
-      "node": {
-        "id": 59846,
-        "title": "Saigo ni Hitotsu dake Onegai shitemo Yoroshii deshou ka",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1190/151754.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1190/151754l.webp"
-        }
-      },
-      "num_recommendations": 2
-    },
-    {
-      "node": {
-        "id": 42072,
-        "title": "Kenja no Deshi wo Nanoru Kenja",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1583/119223.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1583/119223l.webp"
-        }
-      },
-      "num_recommendations": 1
-    },
-    {
-      "node": {
-        "id": 60810,
-        "title": "Majutsushi Kunon wa Mieteiru",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1704/154459.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1704/154459l.jpg"
-        }
-      },
-      "num_recommendations": 1
-    },
-    {
-      "node": {
-        "id": 48316,
-        "title": "Kage no Jitsuryokusha ni Naritakute!",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1091/128729.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1091/128729l.jpg"
-        }
-      },
-      "num_recommendations": 1
-    }
-  ],
-  "statistics": {
-    "status": {
-      "watching": "24887",
-      "completed": 0,
-      "on_hold": "515",
-      "dropped": "1121",
-      "plan_to_watch": "18704"
-    },
-    "num_list_users": 45227
-  },
-  "mal_details_updated_at": "2026-11-15T17:13:23.462Z",
-  "translations_updated_at": "2026-11-15T17:24:54.022Z"
+  "translations_updated_at": "2026-11-15T22:16:05.463Z"
 }

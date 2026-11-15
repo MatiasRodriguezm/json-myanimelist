@@ -56,12 +56,7 @@
       "name": "Live2D Creative Studio"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1600/152034l.webp",
-    "https://cdn.myanimelist.net/images/anime/1157/156595l.webp",
-    "https://cdn.myanimelist.net/images/anime/1832/161056l.webp",
-    "https://cdn.myanimelist.net/images/anime/1005/161057l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/9ICPxPLDJFpnSAtUrzl2OIVlct.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/jUlj6x0yuOufCv1TKA3o6CD49lM.png",
   "tmdb_id": "300700",
@@ -78,7 +73,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1600/152034l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1832/161056l.webp"
     }
   },
   "broadcast": {
@@ -92,23 +87,7 @@
   "rank": null,
   "popularity": 8668,
   "rating": null,
-  "simkl_id": 2881894,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "title": "Episode 1",
-      "aired": "2027-01-01T23:30:00+09:00",
-      "thumbnail": null,
-      "description": null,
-      "title_es": "Episodio 1"
-    }
-  ],
-  "specials_data": [],
-  "characters": [],
-  "num_scoring_users": null,
   "nsfw": "white",
-  "created_at": "2025-09-13T08:30:15+00:00",
-  "updated_at": "2026-09-21T17:41:01+00:00",
   "source": "original",
   "background": "Kaze wo Tsugumono aired on CBC and TBS' Agaru Anime block.",
   "related_anime": [],
@@ -125,5 +104,17 @@
     "num_list_users": 6899
   },
   "mal_details_updated_at": "2026-11-15T17:17:37.779Z",
-  "translations_updated_at": "2026-11-15T17:24:42.619Z"
+  "simkl_id": 2881894,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "title": "Episode 1",
+      "aired": "2027-01-01T23:30:00+09:00",
+      "thumbnail": null,
+      "description": null,
+      "title_es": "Episodio 1"
+    }
+  ],
+  "specials_data": [],
+  "translations_updated_at": "2026-11-15T22:15:55.152Z"
 }

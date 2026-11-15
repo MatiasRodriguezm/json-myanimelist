@@ -32,8 +32,8 @@
   "num_episodes": 1,
   "score": 8.36,
   "mean": 8.36,
-  "numListUsers": 76589,
-  "num_list_users": 76589,
+  "numListUsers": 76591,
+  "num_list_users": 76591,
   "genres": [
     {
       "id": 1,
@@ -66,15 +66,11 @@
       "name": "Sunrise"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/6/16161l.webp",
-    "https://cdn.myanimelist.net/images/anime/12/24962l.webp",
-    "https://cdn.myanimelist.net/images/anime/13/24963l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T17:21:47.877Z",
+  "tmdb_updated_at": "2026-11-15T22:14:37.316Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/6/16161.webp",
@@ -94,6 +90,48 @@
   "rank": 273,
   "popularity": 2912,
   "rating": "pg_13",
+  "num_scoring_users": 37243,
+  "nsfw": "white",
+  "source": "manga",
+  "related_anime": [
+    {
+      "node": {
+        "id": 918,
+        "title": "Gintama",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/73274.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/73274l.jpg"
+        }
+      },
+      "relation_type": "parent_story",
+      "relation_type_formatted": "Parent story"
+    }
+  ],
+  "related_manga": [],
+  "recommendations": [
+    {
+      "node": {
+        "id": 30514,
+        "title": "Nisekoimonogatari",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1940/121746.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1940/121746l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "1924",
+      "completed": "55108",
+      "on_hold": "715",
+      "dropped": "671",
+      "plan_to_watch": "18157"
+    },
+    "num_list_users": 76575
+  },
+  "mal_details_updated_at": "2026-11-15T17:21:47.631Z",
   "simkl_id": 37474,
   "episodes_data": [
     {
@@ -1763,51 +1801,5 @@
       "description": null
     }
   ],
-  "characters": [],
-  "num_scoring_users": 37243,
-  "nsfw": "white",
-  "created_at": "2009-08-06T12:26:19+00:00",
-  "updated_at": "2026-08-26T07:28:51+00:00",
-  "source": "manga",
-  "background": null,
-  "related_anime": [
-    {
-      "node": {
-        "id": 918,
-        "title": "Gintama",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/10/73274.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/10/73274l.jpg"
-        }
-      },
-      "relation_type": "parent_story",
-      "relation_type_formatted": "Parent story"
-    }
-  ],
-  "related_manga": [],
-  "recommendations": [
-    {
-      "node": {
-        "id": 30514,
-        "title": "Nisekoimonogatari",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1940/121746.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1940/121746l.jpg"
-        }
-      },
-      "num_recommendations": 1
-    }
-  ],
-  "statistics": {
-    "status": {
-      "watching": "1924",
-      "completed": "55108",
-      "on_hold": "715",
-      "dropped": "671",
-      "plan_to_watch": "18157"
-    },
-    "num_list_users": 76575
-  },
-  "mal_details_updated_at": "2026-11-15T17:21:47.631Z",
-  "translations_updated_at": "2026-11-15T17:24:06.563Z"
+  "translations_updated_at": "2026-11-15T22:15:20.740Z"
 }

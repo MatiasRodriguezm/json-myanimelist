@@ -30,8 +30,8 @@
   "num_episodes": 12,
   "score": 6.61,
   "mean": 6.61,
-  "numListUsers": 20103,
-  "num_list_users": 20103,
+  "numListUsers": 20138,
+  "num_list_users": 20138,
   "genres": [
     {
       "id": 2,
@@ -52,11 +52,7 @@
       "name": "Studio Comet"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1090/152127l.webp",
-    "https://cdn.myanimelist.net/images/anime/1479/156166l.webp",
-    "https://cdn.myanimelist.net/images/anime/1151/160025l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/yeRnq9N1HkZHXRxeyUec5lTLpfp.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/1SMygZPB6m392uOgvixy0OyijUJ.png",
   "tmdb_id": "301139",
@@ -73,7 +69,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1090/152127l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1151/160025l.webp"
     }
   },
   "broadcast": {
@@ -87,6 +83,47 @@
   "rank": 7353,
   "popularity": 5666,
   "rating": "pg_13",
+  "num_scoring_users": 2486,
+  "nsfw": "white",
+  "source": "manga",
+  "background": "#Zombie Sagashitemasu aired on TV Asahi's IMAnimation block.",
+  "related_anime": [],
+  "related_manga": [],
+  "recommendations": [
+    {
+      "node": {
+        "id": 61072,
+        "title": "Shuumatsu Touring",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1681/151599.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1681/151599l.jpg"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 24765,
+        "title": "Gakkougurashi!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1798/91548.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1798/91548l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "10122",
+      "completed": 0,
+      "on_hold": "287",
+      "dropped": "1239",
+      "plan_to_watch": "8453"
+    },
+    "num_list_users": 20101
+  },
+  "mal_details_updated_at": "2026-11-15T17:14:39.737Z",
   "simkl_id": 2885450,
   "episodes_data": [
     {
@@ -155,49 +192,5 @@
     }
   ],
   "specials_data": [],
-  "characters": [],
-  "num_scoring_users": 2486,
-  "nsfw": "white",
-  "created_at": "2025-09-19T09:17:58+00:00",
-  "updated_at": "2026-10-03T19:37:23+00:00",
-  "source": "manga",
-  "background": "#Zombie Sagashitemasu aired on TV Asahi's IMAnimation block.",
-  "related_anime": [],
-  "related_manga": [],
-  "recommendations": [
-    {
-      "node": {
-        "id": 61072,
-        "title": "Shuumatsu Touring",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1681/151599.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1681/151599l.jpg"
-        }
-      },
-      "num_recommendations": 2
-    },
-    {
-      "node": {
-        "id": 24765,
-        "title": "Gakkougurashi!",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1798/91548.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1798/91548l.jpg"
-        }
-      },
-      "num_recommendations": 1
-    }
-  ],
-  "statistics": {
-    "status": {
-      "watching": "10122",
-      "completed": 0,
-      "on_hold": "287",
-      "dropped": "1239",
-      "plan_to_watch": "8453"
-    },
-    "num_list_users": 20101
-  },
-  "mal_details_updated_at": "2026-11-15T17:14:39.737Z",
-  "translations_updated_at": "2026-11-15T17:24:43.196Z"
+  "translations_updated_at": "2026-11-15T22:15:55.713Z"
 }

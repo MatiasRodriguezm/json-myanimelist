@@ -63,13 +63,11 @@
       "name": "BYMENT"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1702/160446l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T17:16:17.519Z",
+  "tmdb_updated_at": "2026-11-15T22:13:14.564Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1702/160446.webp",
@@ -89,6 +87,36 @@
   "rank": 18586,
   "popularity": 24475,
   "rating": "pg_13",
+  "num_scoring_users": 22,
+  "nsfw": "white",
+  "source": "web_manga",
+  "related_anime": [
+    {
+      "node": {
+        "id": 58001,
+        "title": "Kuang Wang",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1258/158005.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1258/158005l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    }
+  ],
+  "related_manga": [],
+  "recommendations": [],
+  "statistics": {
+    "status": {
+      "watching": "45",
+      "completed": "22",
+      "on_hold": "7",
+      "dropped": "35",
+      "plan_to_watch": "84"
+    },
+    "num_list_users": 193
+  },
+  "mal_details_updated_at": "2026-11-15T17:16:17.195Z",
   "simkl_id": 3279652,
   "episodes_data": [
     {
@@ -205,39 +233,5 @@
     }
   ],
   "specials_data": [],
-  "characters": [],
-  "num_scoring_users": 22,
-  "nsfw": "white",
-  "created_at": "2026-10-08T02:14:11+00:00",
-  "updated_at": "2026-10-22T13:23:45+00:00",
-  "source": "web_manga",
-  "background": null,
-  "related_anime": [
-    {
-      "node": {
-        "id": 58001,
-        "title": "Kuang Wang",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1258/158005.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1258/158005l.jpg"
-        }
-      },
-      "relation_type": "prequel",
-      "relation_type_formatted": "Prequel"
-    }
-  ],
-  "related_manga": [],
-  "recommendations": [],
-  "statistics": {
-    "status": {
-      "watching": "45",
-      "completed": "22",
-      "on_hold": "7",
-      "dropped": "35",
-      "plan_to_watch": "84"
-    },
-    "num_list_users": 193
-  },
-  "mal_details_updated_at": "2026-11-15T17:16:17.195Z",
-  "translations_updated_at": "2026-11-15T17:25:08.939Z"
+  "translations_updated_at": "2026-11-15T22:16:19.466Z"
 }

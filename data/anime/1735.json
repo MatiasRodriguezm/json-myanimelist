@@ -32,8 +32,8 @@
   "num_episodes": 500,
   "score": 8.29,
   "mean": 8.29,
-  "numListUsers": 2804688,
-  "num_list_users": 2804688,
+  "numListUsers": 2804781,
+  "num_list_users": 2804781,
   "genres": [
     {
       "id": 1,
@@ -62,26 +62,7 @@
       "name": "Studio Pierrot"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/13/11194l.webp",
-    "https://cdn.myanimelist.net/images/anime/5/17407l.webp",
-    "https://cdn.myanimelist.net/images/anime/5/22654l.webp",
-    "https://cdn.myanimelist.net/images/anime/2/50745l.webp",
-    "https://cdn.myanimelist.net/images/anime/9/59431l.webp",
-    "https://cdn.myanimelist.net/images/anime/11/63249l.webp",
-    "https://cdn.myanimelist.net/images/anime/4/71532l.webp",
-    "https://cdn.myanimelist.net/images/anime/3/79849l.webp",
-    "https://cdn.myanimelist.net/images/anime/4/80792l.webp",
-    "https://cdn.myanimelist.net/images/anime/8/82294l.webp",
-    "https://cdn.myanimelist.net/images/anime/5/85122l.webp",
-    "https://cdn.myanimelist.net/images/anime/1406/94611l.webp",
-    "https://cdn.myanimelist.net/images/anime/1164/98099l.webp",
-    "https://cdn.myanimelist.net/images/anime/1565/111305l.webp",
-    "https://cdn.myanimelist.net/images/anime/1434/111462l.webp",
-    "https://cdn.myanimelist.net/images/anime/1477/120172l.webp",
-    "https://cdn.myanimelist.net/images/anime/1900/134425l.webp",
-    "https://cdn.myanimelist.net/images/anime/1664/145346l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/z0YhJvomqedHF85bplUJEotkN5l.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/qopvxH4C4YIoeJWss0EVLv13rgW.png",
   "tmdb_id": "31910",
@@ -98,7 +79,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/13/11194l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1565/111305l.webp"
     }
   },
   "broadcast": {
@@ -112,6 +93,363 @@
   "rank": 342,
   "popularity": 15,
   "rating": "pg_13",
+  "num_scoring_users": 1858932,
+  "nsfw": "white",
+  "source": "manga",
+  "related_anime": [
+    {
+      "node": {
+        "id": 20,
+        "title": "Naruto",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1141/142503.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1141/142503l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    },
+    {
+      "node": {
+        "id": 2472,
+        "title": "Naruto: Shippuuden Movie 1",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1703/134493.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1703/134493l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 4134,
+        "title": "Naruto: Shippuuden - Shippuu! \"Konoha Gakuen\" Den",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/5/51895.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/5/51895l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 4437,
+        "title": "Naruto: Shippuuden Movie 2 - Kizuna",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1484/134494.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1484/134494l.webp"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 6325,
+        "title": "Naruto: Shippuuden Movie 3 - Hi no Ishi wo Tsugu Mono",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1493/116732.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1493/116732l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 8246,
+        "title": "Naruto: Shippuuden Movie 4 - The Lost Tower",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1479/116734.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1479/116734l.webp"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 10075,
+        "title": "Naruto x UT",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/3/30485.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/3/30485l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 10589,
+        "title": "Naruto: Shippuuden Movie 5 - Blood Prison",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1500/134496.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1500/134496l.webp"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 12979,
+        "title": "Naruto SD: Rock Lee no Seishun Full-Power Ninden",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/13/36475.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/13/36475l.jpg"
+        }
+      },
+      "relation_type": "spin_off",
+      "relation_type_formatted": "Spin-off"
+    },
+    {
+      "node": {
+        "id": 13667,
+        "title": "Naruto: Shippuuden Movie 6 - Road to Ninja",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1620/94336.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1620/94336l.webp"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 16870,
+        "title": "The Last: Naruto the Movie",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1491/134498.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1491/134498l.webp"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 19511,
+        "title": "Naruto: Shippuuden - Sunny Side Battle",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1047/91638.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1047/91638l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 28755,
+        "title": "Boruto: Naruto the Movie",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/4/78280.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/4/78280l.jpg"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    },
+    {
+      "node": {
+        "id": 32365,
+        "title": "Boruto: Naruto the Movie - Naruto ga Hokage ni Natta Hi",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/6/77678.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/6/77678l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 34566,
+        "title": "Boruto: Naruto Next Generations",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1091/99847.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1091/99847l.webp"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    },
+    {
+      "node": {
+        "id": 40971,
+        "title": "Newsong",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1604/105144.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1604/105144l.webp"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 53236,
+        "title": "Road of Naruto",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1731/128787.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1731/128787l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 54688,
+        "title": "Naruto x Ninkuu",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1512/160510.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1512/160510l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 64614,
+        "title": "PUBG Mobile x Naruto: Shippuuden Collab",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1237/159001.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1237/159001l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    }
+  ],
+  "related_manga": [],
+  "recommendations": [
+    {
+      "node": {
+        "id": 269,
+        "title": "Bleach",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1541/147774.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1541/147774l.jpg"
+        }
+      },
+      "num_recommendations": 34
+    },
+    {
+      "node": {
+        "id": 34572,
+        "title": "Black Clover",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/2/88336.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/2/88336l.webp"
+        }
+      },
+      "num_recommendations": 23
+    },
+    {
+      "node": {
+        "id": 21,
+        "title": "One Piece",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1244/138851.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1244/138851l.jpg"
+        }
+      },
+      "num_recommendations": 16
+    },
+    {
+      "node": {
+        "id": 11061,
+        "title": "Hunter x Hunter (2011)",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1337/99013.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1337/99013l.jpg"
+        }
+      },
+      "num_recommendations": 14
+    },
+    {
+      "node": {
+        "id": 40748,
+        "title": "Jujutsu Kaisen",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1171/109222.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1171/109222l.jpg"
+        }
+      },
+      "num_recommendations": 14
+    },
+    {
+      "node": {
+        "id": 6702,
+        "title": "Fairy Tail",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/5/18179.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/5/18179l.webp"
+        }
+      },
+      "num_recommendations": 13
+    },
+    {
+      "node": {
+        "id": 5114,
+        "title": "Fullmetal Alchemist: Brotherhood",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1208/94745.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1208/94745l.jpg"
+        }
+      },
+      "num_recommendations": 11
+    },
+    {
+      "node": {
+        "id": 813,
+        "title": "Dragon Ball Z",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1277/142022.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1277/142022l.jpg"
+        }
+      },
+      "num_recommendations": 8
+    },
+    {
+      "node": {
+        "id": 3655,
+        "title": "Nabari no Ou",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/13/79037.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/13/79037l.jpg"
+        }
+      },
+      "num_recommendations": 7
+    },
+    {
+      "node": {
+        "id": 9919,
+        "title": "Ao no Exorcist",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/75195.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/75195l.jpg"
+        }
+      },
+      "num_recommendations": 5
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "459026",
+      "completed": "1886487",
+      "on_hold": "149020",
+      "dropped": "166131",
+      "plan_to_watch": "143817"
+    },
+    "num_list_users": 2804481
+  },
+  "mal_details_updated_at": "2026-11-15T17:18:10.445Z",
   "simkl_id": 40053,
   "episodes_data": [
     {
@@ -4149,366 +4487,5 @@
       "description": "The Prelude Sequence which showcases the future reunion of Naruto and Sasuke, at the beginning of Episode 001."
     }
   ],
-  "characters": [],
-  "num_scoring_users": 1858932,
-  "nsfw": "white",
-  "created_at": "2006-12-09T15:28:11+00:00",
-  "updated_at": "2025-06-23T01:00:53+00:00",
-  "source": "manga",
-  "background": null,
-  "related_anime": [
-    {
-      "node": {
-        "id": 20,
-        "title": "Naruto",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1141/142503.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1141/142503l.jpg"
-        }
-      },
-      "relation_type": "prequel",
-      "relation_type_formatted": "Prequel"
-    },
-    {
-      "node": {
-        "id": 2472,
-        "title": "Naruto: Shippuuden Movie 1",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1703/134493.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1703/134493l.jpg"
-        }
-      },
-      "relation_type": "side_story",
-      "relation_type_formatted": "Side story"
-    },
-    {
-      "node": {
-        "id": 4134,
-        "title": "Naruto: Shippuuden - Shippuu! \"Konoha Gakuen\" Den",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/5/51895.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/5/51895l.jpg"
-        }
-      },
-      "relation_type": "other",
-      "relation_type_formatted": "Other"
-    },
-    {
-      "node": {
-        "id": 4437,
-        "title": "Naruto: Shippuuden Movie 2 - Kizuna",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1484/134494.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1484/134494l.webp"
-        }
-      },
-      "relation_type": "side_story",
-      "relation_type_formatted": "Side story"
-    },
-    {
-      "node": {
-        "id": 6325,
-        "title": "Naruto: Shippuuden Movie 3 - Hi no Ishi wo Tsugu Mono",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1493/116732.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1493/116732l.jpg"
-        }
-      },
-      "relation_type": "side_story",
-      "relation_type_formatted": "Side story"
-    },
-    {
-      "node": {
-        "id": 8246,
-        "title": "Naruto: Shippuuden Movie 4 - The Lost Tower",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1479/116734.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1479/116734l.webp"
-        }
-      },
-      "relation_type": "side_story",
-      "relation_type_formatted": "Side story"
-    },
-    {
-      "node": {
-        "id": 10075,
-        "title": "Naruto x UT",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/3/30485.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/3/30485l.jpg"
-        }
-      },
-      "relation_type": "other",
-      "relation_type_formatted": "Other"
-    },
-    {
-      "node": {
-        "id": 10589,
-        "title": "Naruto: Shippuuden Movie 5 - Blood Prison",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1500/134496.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1500/134496l.webp"
-        }
-      },
-      "relation_type": "side_story",
-      "relation_type_formatted": "Side story"
-    },
-    {
-      "node": {
-        "id": 12979,
-        "title": "Naruto SD: Rock Lee no Seishun Full-Power Ninden",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/13/36475.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/13/36475l.jpg"
-        }
-      },
-      "relation_type": "spin_off",
-      "relation_type_formatted": "Spin-off"
-    },
-    {
-      "node": {
-        "id": 13667,
-        "title": "Naruto: Shippuuden Movie 6 - Road to Ninja",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1620/94336.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1620/94336l.webp"
-        }
-      },
-      "relation_type": "side_story",
-      "relation_type_formatted": "Side story"
-    },
-    {
-      "node": {
-        "id": 16870,
-        "title": "The Last: Naruto the Movie",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1491/134498.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1491/134498l.webp"
-        }
-      },
-      "relation_type": "side_story",
-      "relation_type_formatted": "Side story"
-    },
-    {
-      "node": {
-        "id": 19511,
-        "title": "Naruto: Shippuuden - Sunny Side Battle",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1047/91638.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1047/91638l.jpg"
-        }
-      },
-      "relation_type": "other",
-      "relation_type_formatted": "Other"
-    },
-    {
-      "node": {
-        "id": 28755,
-        "title": "Boruto: Naruto the Movie",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/4/78280.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/4/78280l.jpg"
-        }
-      },
-      "relation_type": "sequel",
-      "relation_type_formatted": "Sequel"
-    },
-    {
-      "node": {
-        "id": 32365,
-        "title": "Boruto: Naruto the Movie - Naruto ga Hokage ni Natta Hi",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/6/77678.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/6/77678l.jpg"
-        }
-      },
-      "relation_type": "side_story",
-      "relation_type_formatted": "Side story"
-    },
-    {
-      "node": {
-        "id": 34566,
-        "title": "Boruto: Naruto Next Generations",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1091/99847.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1091/99847l.webp"
-        }
-      },
-      "relation_type": "sequel",
-      "relation_type_formatted": "Sequel"
-    },
-    {
-      "node": {
-        "id": 40971,
-        "title": "Newsong",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1604/105144.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1604/105144l.webp"
-        }
-      },
-      "relation_type": "other",
-      "relation_type_formatted": "Other"
-    },
-    {
-      "node": {
-        "id": 53236,
-        "title": "Road of Naruto",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1731/128787.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1731/128787l.jpg"
-        }
-      },
-      "relation_type": "other",
-      "relation_type_formatted": "Other"
-    },
-    {
-      "node": {
-        "id": 54688,
-        "title": "Naruto x Ninkuu",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1512/160510.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1512/160510l.jpg"
-        }
-      },
-      "relation_type": "other",
-      "relation_type_formatted": "Other"
-    },
-    {
-      "node": {
-        "id": 64614,
-        "title": "PUBG Mobile x Naruto: Shippuuden Collab",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1237/159001.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1237/159001l.jpg"
-        }
-      },
-      "relation_type": "other",
-      "relation_type_formatted": "Other"
-    }
-  ],
-  "related_manga": [],
-  "recommendations": [
-    {
-      "node": {
-        "id": 269,
-        "title": "Bleach",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1541/147774.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1541/147774l.jpg"
-        }
-      },
-      "num_recommendations": 34
-    },
-    {
-      "node": {
-        "id": 34572,
-        "title": "Black Clover",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/2/88336.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/2/88336l.webp"
-        }
-      },
-      "num_recommendations": 23
-    },
-    {
-      "node": {
-        "id": 21,
-        "title": "One Piece",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1244/138851.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1244/138851l.jpg"
-        }
-      },
-      "num_recommendations": 16
-    },
-    {
-      "node": {
-        "id": 11061,
-        "title": "Hunter x Hunter (2011)",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1337/99013.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1337/99013l.jpg"
-        }
-      },
-      "num_recommendations": 14
-    },
-    {
-      "node": {
-        "id": 40748,
-        "title": "Jujutsu Kaisen",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1171/109222.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1171/109222l.jpg"
-        }
-      },
-      "num_recommendations": 14
-    },
-    {
-      "node": {
-        "id": 6702,
-        "title": "Fairy Tail",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/5/18179.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/5/18179l.webp"
-        }
-      },
-      "num_recommendations": 13
-    },
-    {
-      "node": {
-        "id": 5114,
-        "title": "Fullmetal Alchemist: Brotherhood",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1208/94745.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1208/94745l.jpg"
-        }
-      },
-      "num_recommendations": 11
-    },
-    {
-      "node": {
-        "id": 813,
-        "title": "Dragon Ball Z",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1277/142022.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1277/142022l.jpg"
-        }
-      },
-      "num_recommendations": 8
-    },
-    {
-      "node": {
-        "id": 3655,
-        "title": "Nabari no Ou",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/13/79037.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/13/79037l.jpg"
-        }
-      },
-      "num_recommendations": 7
-    },
-    {
-      "node": {
-        "id": 9919,
-        "title": "Ao no Exorcist",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/10/75195.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/10/75195l.jpg"
-        }
-      },
-      "num_recommendations": 5
-    }
-  ],
-  "statistics": {
-    "status": {
-      "watching": "459026",
-      "completed": "1886487",
-      "on_hold": "149020",
-      "dropped": "166131",
-      "plan_to_watch": "143817"
-    },
-    "num_list_users": 2804481
-  },
-  "mal_details_updated_at": "2026-11-15T17:18:10.445Z",
-  "translations_updated_at": "2026-11-15T17:24:14.880Z"
+  "translations_updated_at": "2026-11-15T22:15:04.663Z"
 }

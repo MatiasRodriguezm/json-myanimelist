@@ -64,12 +64,7 @@
       "name": "A-1 Pictures"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/4/64979l.webp",
-    "https://cdn.myanimelist.net/images/anime/4/64981l.webp",
-    "https://cdn.myanimelist.net/images/anime/9/71941l.webp",
-    "https://cdn.myanimelist.net/images/anime/12/74392l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/5U0dYTkHXPhoExNnEm5iKrpDqtr.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/wFe5m9XtZHf7m9D1R29LrhAmatr.png",
   "tmdb_id": "50712",
@@ -86,38 +81,15 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/4/64979l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/12/74392l.webp"
     }
   },
   "broadcast": null,
   "rank": 707,
   "popularity": 1043,
   "rating": "r",
-  "simkl_id": 48974,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "title": "Volume 1",
-      "title_es": "Volumen 1",
-      "aired": "2014-10-25T00:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/17/175411574421443fd8_w.webp",
-      "description": null
-    },
-    {
-      "episode": 2,
-      "title": "Volume 2",
-      "title_es": "Volumen 2",
-      "aired": "2014-11-15T00:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/17/175411591ab6a5ddea_w.webp",
-      "description": null
-    }
-  ],
-  "specials_data": [],
-  "characters": [],
   "num_scoring_users": 136514,
   "nsfw": "white",
-  "created_at": "2014-03-22T09:21:51+00:00",
-  "updated_at": "2024-10-06T16:08:25+00:00",
   "source": "manga",
   "background": "Episodes 1 and 2 were previewed at screenings in multiple cities across Japan on October 25 and November 15, 2014. The DVDs and BDs were released on January 28 and February 25, 2015.",
   "related_anime": [
@@ -248,5 +220,25 @@
     "num_list_users": 276696
   },
   "mal_details_updated_at": "2026-11-15T17:21:35.451Z",
-  "translations_updated_at": "2026-11-15T17:24:18.461Z"
+  "simkl_id": 48974,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "title": "Volume 1",
+      "title_es": "Volumen 1",
+      "aired": "2014-10-25T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/175411574421443fd8_w.webp",
+      "description": null
+    },
+    {
+      "episode": 2,
+      "title": "Volume 2",
+      "title_es": "Volumen 2",
+      "aired": "2014-11-15T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/175411591ab6a5ddea_w.webp",
+      "description": null
+    }
+  ],
+  "specials_data": [],
+  "translations_updated_at": "2026-11-15T22:15:32.605Z"
 }

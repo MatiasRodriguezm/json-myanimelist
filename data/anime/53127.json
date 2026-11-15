@@ -32,8 +32,8 @@
   "num_episodes": 1,
   "score": 8.14,
   "mean": 8.14,
-  "numListUsers": 130521,
-  "num_list_users": 130521,
+  "numListUsers": 130530,
+  "num_list_users": 130530,
   "genres": [
     {
       "id": 1,
@@ -54,17 +54,7 @@
       "name": "A-1 Pictures"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1502/128320l.webp",
-    "https://cdn.myanimelist.net/images/anime/1329/132201l.webp",
-    "https://cdn.myanimelist.net/images/anime/1679/132203l.webp",
-    "https://cdn.myanimelist.net/images/anime/1462/132204l.webp",
-    "https://cdn.myanimelist.net/images/anime/1319/132205l.webp",
-    "https://cdn.myanimelist.net/images/anime/1723/132206l.webp",
-    "https://cdn.myanimelist.net/images/anime/1472/132207l.webp",
-    "https://cdn.myanimelist.net/images/anime/1410/132208l.webp",
-    "https://cdn.myanimelist.net/images/anime/1220/136619l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/3wUOyQbIOFNLPObXa7Iae8RzJ87.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/vWozUkiKsqThqw4bHHjB5t0J2YR.png",
   "tmdb_id": "1145612",
@@ -81,32 +71,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1502/128320l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1220/136619l.webp"
     }
   },
   "broadcast": null,
   "rank": 543,
   "popularity": 2031,
   "rating": "r",
-  "simkl_id": 1999306,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "title": "TV Special",
-      "title_es": "Especial de televisión",
-      "aired": "2023-07-02T00:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/17/17563811611a1c0f6c_w.webp",
-      "description": "Years after the Fifth Holy Grail War in Japan, strange reports surface of one appearing in America. Attracting new Mages and Servants, the question is raised about the relic’s authenticity. As the city of Snowfield is turned into a bloody battleground, specific details seem wrong. Is it possible someone is manipulating this twisted little play, and if so, does this mean the true Holy Grail exists?"
-    }
-  ],
-  "specials_data": [],
-  "characters": [],
   "num_scoring_users": 71151,
   "nsfw": "white",
-  "created_at": "2022-09-24T07:50:54+00:00",
-  "updated_at": "2024-10-02T16:28:54+00:00",
   "source": "light_novel",
-  "background": null,
   "related_anime": [
     {
       "node": {
@@ -170,5 +144,17 @@
     "num_list_users": 130426
   },
   "mal_details_updated_at": "2026-11-15T17:21:53.788Z",
-  "translations_updated_at": "2026-11-15T17:24:26.483Z"
+  "simkl_id": 1999306,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "title": "TV Special",
+      "title_es": "Especial de televisión",
+      "aired": "2023-07-02T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/17563811611a1c0f6c_w.webp",
+      "description": "Years after the Fifth Holy Grail War in Japan, strange reports surface of one appearing in America. Attracting new Mages and Servants, the question is raised about the relic’s authenticity. As the city of Snowfield is turned into a bloody battleground, specific details seem wrong. Is it possible someone is manipulating this twisted little play, and if so, does this mean the true Holy Grail exists?"
+    }
+  ],
+  "specials_data": [],
+  "translations_updated_at": "2026-11-15T22:15:40.047Z"
 }

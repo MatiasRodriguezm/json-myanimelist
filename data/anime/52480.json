@@ -32,8 +32,8 @@
   "num_episodes": 13,
   "score": 6.91,
   "mean": 6.91,
-  "numListUsers": 68129,
-  "num_list_users": 68129,
+  "numListUsers": 68146,
+  "num_list_users": 68146,
   "genres": [
     {
       "id": 4,
@@ -58,13 +58,7 @@
       "name": "ENGI"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1766/125819l.webp",
-    "https://cdn.myanimelist.net/images/anime/1495/145196l.webp",
-    "https://cdn.myanimelist.net/images/anime/1784/151131l.webp",
-    "https://cdn.myanimelist.net/images/anime/1164/156604l.webp",
-    "https://cdn.myanimelist.net/images/anime/1414/160406l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/aqETSDXdeYqcD1PPd2WBfeWtoct.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/xW9w2SwltKRfMHEfbor60RUQabj.png",
   "tmdb_id": "117061",
@@ -81,7 +75,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1766/125819l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1414/160406l.webp"
     }
   },
   "broadcast": {
@@ -95,6 +89,36 @@
   "rank": 5425,
   "popularity": 3130,
   "rating": "pg_13",
+  "num_scoring_users": 2394,
+  "nsfw": "white",
+  "source": "light_novel",
+  "related_anime": [
+    {
+      "node": {
+        "id": 46471,
+        "title": "Tantei wa Mou, Shindeiru.",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1843/115815.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1843/115815l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    }
+  ],
+  "related_manga": [],
+  "recommendations": [],
+  "statistics": {
+    "status": {
+      "watching": "11592",
+      "completed": "2",
+      "on_hold": "471",
+      "dropped": "864",
+      "plan_to_watch": "55200"
+    },
+    "num_list_users": 68129
+  },
+  "mal_details_updated_at": "2026-11-15T17:13:34.267Z",
   "simkl_id": 1959038,
   "episodes_data": [
     {
@@ -163,39 +187,5 @@
     }
   ],
   "specials_data": [],
-  "characters": [],
-  "num_scoring_users": 2394,
-  "nsfw": "white",
-  "created_at": "2022-07-24T06:36:47+00:00",
-  "updated_at": "2026-10-07T19:22:10+00:00",
-  "source": "light_novel",
-  "background": null,
-  "related_anime": [
-    {
-      "node": {
-        "id": 46471,
-        "title": "Tantei wa Mou, Shindeiru.",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1843/115815.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1843/115815l.jpg"
-        }
-      },
-      "relation_type": "prequel",
-      "relation_type_formatted": "Prequel"
-    }
-  ],
-  "related_manga": [],
-  "recommendations": [],
-  "statistics": {
-    "status": {
-      "watching": "11592",
-      "completed": "2",
-      "on_hold": "471",
-      "dropped": "864",
-      "plan_to_watch": "55200"
-    },
-    "num_list_users": 68129
-  },
-  "mal_details_updated_at": "2026-11-15T17:13:34.267Z",
-  "translations_updated_at": "2026-11-15T17:24:26.265Z"
+  "translations_updated_at": "2026-11-15T22:15:39.853Z"
 }

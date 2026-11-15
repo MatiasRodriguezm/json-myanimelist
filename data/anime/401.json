@@ -63,14 +63,7 @@
       "name": "Studio Deen"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1/401l.webp",
-    "https://cdn.myanimelist.net/images/anime/13/28895l.webp",
-    "https://cdn.myanimelist.net/images/anime/1971/90877l.webp",
-    "https://cdn.myanimelist.net/images/anime/1421/92658l.webp",
-    "https://cdn.myanimelist.net/images/anime/1489/120837l.webp",
-    "https://cdn.myanimelist.net/images/anime/1458/154800l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/xogL7RDFo7c21nrGDabYT9FFzTH.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/y6wr1ukaqRzWRlRUBahkyAB1SNT.png",
   "tmdb_id": "28136",
@@ -87,40 +80,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1/401l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1971/90877l.webp"
     }
   },
   "broadcast": null,
   "rank": 822,
   "popularity": 2634,
   "rating": "r",
-  "simkl_id": 40937,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "title": "After So Many Years Have Passed - Part 1",
-      "title_es": "Después de que hayan pasado tantos años - Parte 1",
-      "aired": "2001-12-19T00:00:00+09:00",
-      "thumbnail": null,
-      "description": null
-    },
-    {
-      "episode": 2,
-      "title": "After So Many Years Have Passed - Part 2",
-      "title_es": "Después de tantos años - Parte 2",
-      "aired": "2002-03-20T00:00:00+09:00",
-      "thumbnail": null,
-      "description": null
-    }
-  ],
-  "specials_data": [],
-  "characters": [],
   "num_scoring_users": 48731,
   "nsfw": "white",
-  "created_at": "2005-12-23T20:22:37+00:00",
-  "updated_at": "2022-04-17T23:11:04+00:00",
   "source": "manga",
-  "background": null,
   "related_anime": [
     {
       "node": {
@@ -215,5 +184,25 @@
     "num_list_users": 90499
   },
   "mal_details_updated_at": "2026-11-15T17:21:40.463Z",
-  "translations_updated_at": "2026-11-15T17:24:23.442Z"
+  "simkl_id": 40937,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "title": "After So Many Years Have Passed - Part 1",
+      "title_es": "Después de que hayan pasado tantos años - Parte 1",
+      "aired": "2001-12-19T00:00:00+09:00",
+      "thumbnail": null,
+      "description": null
+    },
+    {
+      "episode": 2,
+      "title": "After So Many Years Have Passed - Part 2",
+      "title_es": "Después de tantos años - Parte 2",
+      "aired": "2002-03-20T00:00:00+09:00",
+      "thumbnail": null,
+      "description": null
+    }
+  ],
+  "specials_data": [],
+  "translations_updated_at": "2026-11-15T22:15:37.165Z"
 }

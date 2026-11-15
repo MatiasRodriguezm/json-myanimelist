@@ -32,8 +32,8 @@
   "num_episodes": null,
   "score": null,
   "mean": null,
-  "numListUsers": 26688,
-  "num_list_users": 26688,
+  "numListUsers": 26709,
+  "num_list_users": 26709,
   "genres": [
     {
       "id": 10,
@@ -58,14 +58,11 @@
       "name": "Doga Kobo"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1955/160167l.webp",
-    "https://cdn.myanimelist.net/images/anime/1521/160868l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T17:16:56.839Z",
+  "tmdb_updated_at": "2026-11-15T22:13:38.498Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1955/160167.webp",
@@ -85,25 +82,8 @@
   "rank": null,
   "popularity": 5036,
   "rating": "pg_13",
-  "simkl_id": 3257092,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "title": "Episode 1",
-      "aired": "2027-01-01T00:00:00+09:00",
-      "thumbnail": null,
-      "description": null,
-      "title_es": "Episodio 1"
-    }
-  ],
-  "specials_data": [],
-  "characters": [],
-  "num_scoring_users": null,
   "nsfw": "white",
-  "created_at": "2026-09-20T15:32:54+00:00",
-  "updated_at": "2026-11-07T06:15:22+00:00",
   "source": "light_novel",
-  "background": null,
   "related_anime": [
     {
       "node": {
@@ -131,5 +111,17 @@
     "num_list_users": 26709
   },
   "mal_details_updated_at": "2026-11-15T17:16:56.440Z",
-  "translations_updated_at": "2026-11-15T17:25:07.674Z"
+  "simkl_id": 3257092,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "title": "Episode 1",
+      "aired": "2027-01-01T00:00:00+09:00",
+      "thumbnail": null,
+      "description": null,
+      "title_es": "Episodio 1"
+    }
+  ],
+  "specials_data": [],
+  "translations_updated_at": "2026-11-15T22:16:18.285Z"
 }

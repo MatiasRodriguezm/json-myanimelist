@@ -33,8 +33,8 @@
   "num_episodes": 24,
   "score": null,
   "mean": null,
-  "numListUsers": 721,
-  "num_list_users": 721,
+  "numListUsers": 722,
+  "num_list_users": 722,
   "genres": [
     {
       "id": 1,
@@ -55,14 +55,7 @@
       "name": "Motion Magic"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1358/152588l.webp",
-    "https://cdn.myanimelist.net/images/anime/1043/158601l.webp",
-    "https://cdn.myanimelist.net/images/anime/1331/158625l.webp",
-    "https://cdn.myanimelist.net/images/anime/1576/159454l.webp",
-    "https://cdn.myanimelist.net/images/anime/1066/159833l.webp",
-    "https://cdn.myanimelist.net/images/anime/1786/159915l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/fZtDctt9hhc4JmPYmeX7jWPSNVG.jpg",
   "logo_url": null,
   "tmdb_id": "297923",
@@ -79,13 +72,31 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1358/152588l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1576/159454l.webp"
     }
   },
   "broadcast": null,
   "rank": 18783,
   "popularity": 17086,
   "rating": "pg_13",
+  "num_scoring_users": 99,
+  "nsfw": "white",
+  "source": "web_novel",
+  "background": "Adaptation of Mai Bao Xiao Langjun's (卖报小郎君) web novel of the same title.",
+  "related_anime": [],
+  "related_manga": [],
+  "recommendations": [],
+  "statistics": {
+    "status": {
+      "watching": "303",
+      "completed": 0,
+      "on_hold": "29",
+      "dropped": "48",
+      "plan_to_watch": "341"
+    },
+    "num_list_users": 721
+  },
+  "mal_details_updated_at": "2026-11-15T17:15:22.864Z",
   "simkl_id": 3236678,
   "episodes_data": [
     {
@@ -347,26 +358,5 @@
       "title_es": "Caminante del reino espiritual: Historia paralela 18"
     }
   ],
-  "characters": [],
-  "num_scoring_users": 99,
-  "nsfw": "white",
-  "created_at": "2025-10-14T20:36:57+00:00",
-  "updated_at": "2026-10-19T19:55:52+00:00",
-  "source": "web_novel",
-  "background": "Adaptation of Mai Bao Xiao Langjun's (卖报小郎君) web novel of the same title.",
-  "related_anime": [],
-  "related_manga": [],
-  "recommendations": [],
-  "statistics": {
-    "status": {
-      "watching": "303",
-      "completed": 0,
-      "on_hold": "29",
-      "dropped": "48",
-      "plan_to_watch": "341"
-    },
-    "num_list_users": 721
-  },
-  "mal_details_updated_at": "2026-11-15T17:15:22.864Z",
-  "translations_updated_at": "2026-11-15T17:24:45.351Z"
+  "translations_updated_at": "2026-11-15T22:15:57.762Z"
 }

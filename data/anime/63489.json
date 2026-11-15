@@ -36,8 +36,8 @@
   "num_episodes": 24,
   "score": 5.67,
   "mean": 5.67,
-  "numListUsers": 21441,
-  "num_list_users": 21441,
+  "numListUsers": 21450,
+  "num_list_users": 21450,
   "genres": [
     {
       "id": 1,
@@ -78,11 +78,7 @@
       "name": "Tatsunoko Production"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1274/155459l.webp",
-    "https://cdn.myanimelist.net/images/anime/1158/158138l.webp",
-    "https://cdn.myanimelist.net/images/anime/1949/160250l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/pHzcs5Ru1lwoVcQsPA5lNYlxJy2.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/r7OojaSpdEB8hYVzMwuAC7TaxJl.png",
   "tmdb_id": "314054",
@@ -99,7 +95,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1274/155459l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1158/158138l.webp"
     }
   },
   "broadcast": {
@@ -113,6 +109,68 @@
   "rank": 12861,
   "popularity": 5542,
   "rating": "pg_13",
+  "num_scoring_users": 3394,
+  "nsfw": "white",
+  "source": "manga",
+  "related_anime": [],
+  "related_manga": [],
+  "recommendations": [
+    {
+      "node": {
+        "id": 43693,
+        "title": "Thermae Romae Novae",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1728/120982.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1728/120982l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 25013,
+        "title": "Akatsuki no Yona",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/9/64225.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/9/64225l.webp"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 28249,
+        "title": "Arslan Senki (TV)",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1168/148973.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1168/148973l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 153,
+        "title": "Juuni Kokuki",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/6/50859.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/6/50859l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "7898",
+      "completed": 0,
+      "on_hold": "590",
+      "dropped": "3192",
+      "plan_to_watch": "9762"
+    },
+    "num_list_users": 21442
+  },
+  "mal_details_updated_at": "2026-11-15T17:15:00.956Z",
   "simkl_id": 3021646,
   "episodes_data": [
     {
@@ -309,71 +367,5 @@
     }
   ],
   "specials_data": [],
-  "characters": [],
-  "num_scoring_users": 3394,
-  "nsfw": "white",
-  "created_at": "2026-02-15T03:07:01+00:00",
-  "updated_at": "2026-08-24T04:13:22+00:00",
-  "source": "manga",
-  "background": null,
-  "related_anime": [],
-  "related_manga": [],
-  "recommendations": [
-    {
-      "node": {
-        "id": 43693,
-        "title": "Thermae Romae Novae",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1728/120982.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1728/120982l.jpg"
-        }
-      },
-      "num_recommendations": 1
-    },
-    {
-      "node": {
-        "id": 25013,
-        "title": "Akatsuki no Yona",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/9/64225.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/9/64225l.webp"
-        }
-      },
-      "num_recommendations": 1
-    },
-    {
-      "node": {
-        "id": 28249,
-        "title": "Arslan Senki (TV)",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1168/148973.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1168/148973l.jpg"
-        }
-      },
-      "num_recommendations": 1
-    },
-    {
-      "node": {
-        "id": 153,
-        "title": "Juuni Kokuki",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/6/50859.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/6/50859l.jpg"
-        }
-      },
-      "num_recommendations": 1
-    }
-  ],
-  "statistics": {
-    "status": {
-      "watching": "7898",
-      "completed": 0,
-      "on_hold": "590",
-      "dropped": "3192",
-      "plan_to_watch": "9762"
-    },
-    "num_list_users": 21442
-  },
-  "mal_details_updated_at": "2026-11-15T17:15:00.956Z",
-  "translations_updated_at": "2026-11-15T17:24:55.382Z"
+  "translations_updated_at": "2026-11-15T22:16:06.759Z"
 }

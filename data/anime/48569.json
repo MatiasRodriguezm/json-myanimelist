@@ -30,8 +30,8 @@
   "num_episodes": 12,
   "score": 8.73,
   "mean": 8.73,
-  "numListUsers": 673747,
-  "num_list_users": 673747,
+  "numListUsers": 673792,
+  "num_list_users": 673792,
   "genres": [
     {
       "id": 8,
@@ -56,11 +56,7 @@
       "name": "A-1 Pictures"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1863/113726l.webp",
-    "https://cdn.myanimelist.net/images/anime/1712/117500l.webp",
-    "https://cdn.myanimelist.net/images/anime/1321/117508l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/lSlL2CAPSDJ9gf2MZX0x2u2inKX.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/bo3UdG5WgEwbkeeDfChwKkoZtCu.png",
   "tmdb_id": "100565",
@@ -77,7 +73,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1863/113726l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1321/117508l.webp"
     }
   },
   "broadcast": {
@@ -91,6 +87,171 @@
   "rank": 52,
   "popularity": 371,
   "rating": "r",
+  "num_scoring_users": 394830,
+  "nsfw": "white",
+  "source": "light_novel",
+  "related_anime": [
+    {
+      "node": {
+        "id": 41457,
+        "title": "86",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1987/117507.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1987/117507l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    },
+    {
+      "node": {
+        "id": 50098,
+        "title": "Kyoukaisen",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1698/118740.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1698/118740l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 50475,
+        "title": "86 Part 2 Recaps",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1334/154498.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1334/154498l.jpg"
+        }
+      },
+      "relation_type": "summary",
+      "relation_type_formatted": "Summary"
+    }
+  ],
+  "related_manga": [],
+  "recommendations": [
+    {
+      "node": {
+        "id": 27655,
+        "title": "Aldnoah.Zero Part 2",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/71297.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/71297l.jpg"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 48583,
+        "title": "Shingeki no Kyojin: The Final Season Part 2",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1948/120625.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1948/120625l.jpg"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 8888,
+        "title": "Code Geass: Boukoku no Akito 1 - Yokuryuu wa Maiorita",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/41401.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/10/41401l.webp"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 93,
+        "title": "Kidou Senshi Gundam SEED",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1792/91081.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1792/91081l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 28999,
+        "title": "Charlotte",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1826/147276.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1826/147276l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 1575,
+        "title": "Code Geass: Hangyaku no Lelouch",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1032/135088.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1032/135088l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 31251,
+        "title": "Kidou Senshi Gundam: Tekketsu no Orphans",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/6/75879.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/6/75879l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 49387,
+        "title": "Vinland Saga Season 2",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1170/124312.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1170/124312l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 30383,
+        "title": "Classroom☆Crisis",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/12/74397.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/12/74397l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 32281,
+        "title": "Kimi no Na wa.",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/5/87048.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/5/87048l.webp"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "56103",
+      "completed": "472379",
+      "on_hold": "14277",
+      "dropped": "9996",
+      "plan_to_watch": "120747"
+    },
+    "num_list_users": 673502
+  },
+  "mal_details_updated_at": "2026-11-15T17:20:03.061Z",
   "simkl_id": 1579155,
   "episodes_data": [
     {
@@ -256,174 +417,5 @@
       "description": null
     }
   ],
-  "characters": [],
-  "num_scoring_users": 394830,
-  "nsfw": "white",
-  "created_at": "2021-03-27T07:57:31+00:00",
-  "updated_at": "2025-10-17T21:28:31+00:00",
-  "source": "light_novel",
-  "background": null,
-  "related_anime": [
-    {
-      "node": {
-        "id": 41457,
-        "title": "86",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1987/117507.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1987/117507l.jpg"
-        }
-      },
-      "relation_type": "prequel",
-      "relation_type_formatted": "Prequel"
-    },
-    {
-      "node": {
-        "id": 50098,
-        "title": "Kyoukaisen",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1698/118740.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1698/118740l.jpg"
-        }
-      },
-      "relation_type": "other",
-      "relation_type_formatted": "Other"
-    },
-    {
-      "node": {
-        "id": 50475,
-        "title": "86 Part 2 Recaps",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1334/154498.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1334/154498l.jpg"
-        }
-      },
-      "relation_type": "summary",
-      "relation_type_formatted": "Summary"
-    }
-  ],
-  "related_manga": [],
-  "recommendations": [
-    {
-      "node": {
-        "id": 27655,
-        "title": "Aldnoah.Zero Part 2",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/10/71297.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/10/71297l.jpg"
-        }
-      },
-      "num_recommendations": 2
-    },
-    {
-      "node": {
-        "id": 48583,
-        "title": "Shingeki no Kyojin: The Final Season Part 2",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1948/120625.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1948/120625l.jpg"
-        }
-      },
-      "num_recommendations": 2
-    },
-    {
-      "node": {
-        "id": 8888,
-        "title": "Code Geass: Boukoku no Akito 1 - Yokuryuu wa Maiorita",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/10/41401.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/10/41401l.webp"
-        }
-      },
-      "num_recommendations": 2
-    },
-    {
-      "node": {
-        "id": 93,
-        "title": "Kidou Senshi Gundam SEED",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1792/91081.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1792/91081l.jpg"
-        }
-      },
-      "num_recommendations": 1
-    },
-    {
-      "node": {
-        "id": 28999,
-        "title": "Charlotte",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1826/147276.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1826/147276l.jpg"
-        }
-      },
-      "num_recommendations": 1
-    },
-    {
-      "node": {
-        "id": 1575,
-        "title": "Code Geass: Hangyaku no Lelouch",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1032/135088.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1032/135088l.jpg"
-        }
-      },
-      "num_recommendations": 1
-    },
-    {
-      "node": {
-        "id": 31251,
-        "title": "Kidou Senshi Gundam: Tekketsu no Orphans",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/6/75879.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/6/75879l.jpg"
-        }
-      },
-      "num_recommendations": 1
-    },
-    {
-      "node": {
-        "id": 49387,
-        "title": "Vinland Saga Season 2",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1170/124312.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1170/124312l.jpg"
-        }
-      },
-      "num_recommendations": 1
-    },
-    {
-      "node": {
-        "id": 30383,
-        "title": "Classroom☆Crisis",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/12/74397.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/12/74397l.jpg"
-        }
-      },
-      "num_recommendations": 1
-    },
-    {
-      "node": {
-        "id": 32281,
-        "title": "Kimi no Na wa.",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/5/87048.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/5/87048l.webp"
-        }
-      },
-      "num_recommendations": 1
-    }
-  ],
-  "statistics": {
-    "status": {
-      "watching": "56103",
-      "completed": "472379",
-      "on_hold": "14277",
-      "dropped": "9996",
-      "plan_to_watch": "120747"
-    },
-    "num_list_users": 673502
-  },
-  "mal_details_updated_at": "2026-11-15T17:20:03.061Z",
-  "translations_updated_at": "2026-11-15T17:23:57.659Z"
+  "translations_updated_at": "2026-11-15T22:15:12.617Z"
 }

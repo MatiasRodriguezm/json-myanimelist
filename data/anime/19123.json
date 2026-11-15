@@ -58,15 +58,11 @@
       "name": "Toei Animation"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/9/61015l.webp",
-    "https://cdn.myanimelist.net/images/anime/1571/113425l.webp",
-    "https://cdn.myanimelist.net/images/anime/1190/113426l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T17:21:53.420Z",
+  "tmdb_updated_at": "2026-11-15T22:14:38.832Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/9/61015.webp",
@@ -86,6 +82,37 @@
   "rank": 475,
   "popularity": 2794,
   "rating": "pg_13",
+  "num_scoring_users": 35124,
+  "nsfw": "white",
+  "source": "manga",
+  "background": "One Piece: Episode of Merry - Mou Hitori no Nakama no Monogatari presents the arcs featuring the Going Merry with new animation.",
+  "related_anime": [
+    {
+      "node": {
+        "id": 21,
+        "title": "One Piece",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1244/138851.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1244/138851l.jpg"
+        }
+      },
+      "relation_type": "full_story",
+      "relation_type_formatted": "Full story"
+    }
+  ],
+  "related_manga": [],
+  "recommendations": [],
+  "statistics": {
+    "status": {
+      "watching": "2174",
+      "completed": "68558",
+      "on_hold": "537",
+      "dropped": "652",
+      "plan_to_watch": "10125"
+    },
+    "num_list_users": 82046
+  },
+  "mal_details_updated_at": "2026-11-15T17:21:53.052Z",
   "simkl_id": 38636,
   "episodes_data": [
     {
@@ -4891,7 +4918,7 @@
     {
       "episode": 601,
       "title": "Shaking Up the New World! Caesar's Horrendous Experiment!",
-      "title_es": null,
+      "title_es": "¡Sacudiendo el nuevo mundo! ¡El horrendo experimento de César!",
       "aired": "2013-06-23T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/26/26172862a0260c9ba_w.webp",
       "description": "A desperate need for candy leads the children to return to the lab, and Caesar plans to show the world the new and improved version of Smiley!"
@@ -4899,7 +4926,7 @@
     {
       "episode": 602,
       "title": "The Deadliest Weapon of Mass Destruction in History! Shinokuni!",
-      "title_es": null,
+      "title_es": "¡El arma de destrucción masiva más mortífera de la historia! ¡Shinokuni!",
       "aired": "2013-06-30T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/26/26190506bce2f18a0_w.webp",
       "description": "Luffy and the Straw Hats find themselves pursued by a deadly cloud of purple gas that turns everything living thing in its path into petrified statues of ash!"
@@ -4907,7 +4934,7 @@
     {
       "episode": 603,
       "title": "Launching the Counter Attack! Luffy and Law's Great Escape!",
-      "title_es": null,
+      "title_es": "¡Lanzando el contraataque! ¡El gran escape de Luffy y Law!",
       "aired": "2013-07-07T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/26/2618510cacde8a8b6_w.webp",
       "description": "Law`s got a trick up his sleeve that could mean the difference between life and death. Zoro and company reunite with Nami and Sanji, but can they reach safety before being swallowed by a poisonous cloud!?"
@@ -4915,7 +4942,7 @@
     {
       "episode": 604,
       "title": "Get to Building R! The Pirate Alliance's Great Advance!",
-      "title_es": null,
+      "title_es": "¡Vaya al edificio R! ¡El gran avance de la Alianza Pirata!",
       "aired": "2013-07-14T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/26/26202768b1530ae01_w.webp",
       "description": "Finally reunited and returned to their proper bodies, the Straw Hats fall in line as Luffy and Law lead the charge to settle the score with Caesar - and save the children!"
@@ -4923,7 +4950,7 @@
     {
       "episode": 605,
       "title": "Tashigi's Tears! G-5's Desperate Breakthrough Plan!",
-      "title_es": null,
+      "title_es": "¡Las lágrimas de Tashigi! ¡El desesperado plan innovador del G-5!",
       "aired": "2013-07-21T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/26/2619714a55f66196b_w.webp",
       "description": "Caesar hatches a plan to forever silence his enemies, Chopper races through the compound in search of the drugged children, and Tashigi`s men make the ultimate sacrifice!"
@@ -4931,7 +4958,7 @@
     {
       "episode": 606,
       "title": "The Treacherous Vice Admiral! Demon Bamboo Vergo!",
-      "title_es": null,
+      "title_es": "¡El vicealmirante traicionero! ¡Demonio Bambú Vergo!",
       "aired": "2013-07-28T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/26/262152081d411e8e5_w.webp",
       "description": "Luffy races toward Caesar in the hopes of delivering a beating, Sanji saves a damsel in distress, and Chopper tries to prevent the children from eating the drugged candy!"
@@ -4939,7 +4966,7 @@
     {
       "episode": 607,
       "title": "A Fierce Battle Gets Heated! Luffy vs. Caesar!",
-      "title_es": null,
+      "title_es": "¡Se calienta una feroz batalla! ¡Luffy contra César!",
       "aired": "2013-08-11T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/26/26224165aa1c9f9f0_w.webp",
       "description": "Sanji and Vergo slug it out in a cloud of toxic gas, Law finds the room that could ruin the New World, and Luffy hopes to bring Caesar`s reign of terror to a brutal end!"
@@ -4947,7 +4974,7 @@
     {
       "episode": 608,
       "title": "A Mastermind Underground! Doflamingo Makes His Move!",
-      "title_es": null,
+      "title_es": "¡Un cerebro intelectual bajo tierra! ¡Doflamingo hace su movimiento!",
       "aired": "2013-08-18T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/26/26217126ea93f78f8_w.webp",
       "description": "Doflamingo orders Vergo to stop Law in his tracks, Luffy battles a deadly snowbird, and the rest of the Straw Hats attempt to survive the fiery breath of an angry dragon!"
@@ -4955,7 +4982,7 @@
     {
       "episode": 609,
       "title": "Luffy Dies from Exposure?! The Spine-chilling Snow Woman Monet!",
-      "title_es": null,
+      "title_es": "¿Luffy muere por exposición? ¡La escalofriante mujer de las nieves Monet!",
       "aired": "2013-08-25T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/26/26234286f3394250d_w.webp",
       "description": "Luffy goes down fast after Monet puts a chill into him, and Trafalgar Law makes a desperate attempt to reclaim his heart during an electric battle with Vergo!"
@@ -4963,7 +4990,7 @@
     {
       "episode": 610,
       "title": "Fists Collide! A Battle of the Two Vice Admirals!",
-      "title_es": null,
+      "title_es": "¡Los puños chocan! ¡Una batalla de los dos vicealmirantes!",
       "aired": "2013-09-01T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/26/2624686b9f530baa2_w.webp",
       "description": "Smoker attacks Vergo for assaulting his men, Luffy meets something strange in the trash heap, and a flashback reveals the true depths of Caesar`s madness!"
@@ -4971,7 +4998,7 @@
     {
       "episode": 611,
       "title": "A Small Dragon! Momonosuke Appears!",
-      "title_es": null,
+      "title_es": "¡Un pequeño dragón! ¡Aparece Momonosuke!",
       "aired": "2013-09-08T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/26/2624470ea54d43247_w.webp",
       "description": "Luffy befriends a dragon that used to be a human boy, and Captain Smoker continues his brutal battle with the villainous Vergo!"
@@ -4979,7 +5006,7 @@
     {
       "episode": 612,
       "title": "A Deadly Fight in a Blizzard! The Straw Hats vs. the Snow Woman!",
-      "title_es": null,
+      "title_es": "¡Una pelea mortal en una tormenta de nieve! ¡Los de Sombrero de Paja contra la Mujer de las Nieves!",
       "aired": "2013-09-15T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/26/26240009e173f9007_w.webp",
       "description": "Luffy hitches a ride on a dragon, Mocha tries to keep the Master`s candy away from her friends, and Zoro pits his steel against snow in a battle with Monet!"
@@ -4987,7 +5014,7 @@
     {
       "episode": 613,
       "title": "Showing Off His Techniques! Zoro's Formidable One-Sword Style!",
-      "title_es": null,
+      "title_es": "¡Mostrando sus técnicas! ¡El formidable estilo de una sola espada de Zoro!",
       "aired": "2013-09-22T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/26/2625718edd1fecb20_w.webp",
       "description": "To survive his battle with Monet, Zoro must overcome his unwillingness to cut a woman. Elsewhere, Luffy puts a hungry dragon on his back and tries to punch his way out of the basement!"
@@ -4995,7 +5022,7 @@
     {
       "episode": 614,
       "title": "To Save Her Friends! Mocha Runs at the Risk of Her Life!",
-      "title_es": null,
+      "title_es": "¡Para salvar a sus amigos! ¡Mocha corre a riesgo de su vida!",
       "aired": "2013-09-29T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/26/26253062db503e959_w.webp",
       "description": "Chopper, Nami, and Robin watch in horror as Mocha makes a heartbreaking sacrifice in a courageous attempt to save the lives of her friends!"
@@ -5003,7 +5030,7 @@
     {
       "episode": 615,
       "title": "Brownbeard in Grief! Luffy Lands a Furious Blow!",
-      "title_es": null,
+      "title_es": "¡Barbamarrón en pena! ¡Luffy asesta un furioso golpe!",
       "aired": "2013-10-06T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/26/262670072037eb271_w.webp",
       "description": "Brownbeard heroically attempts to expose Caesar as a villain, the horrific truth about Punk Hazard is finally revealed, and Luffy puts the hurt on his gaseous enemy!"
@@ -5011,7 +5038,7 @@
     {
       "episode": 616,
       "title": "A Surprising Outcome! White Chase vs. Vergo!",
-      "title_es": null,
+      "title_es": "¡Un resultado sorprendente! ¡White Chase contra Vergo!",
       "aired": "2013-10-13T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/26/262592891a28de6f3_w.webp",
       "description": "Luffy makes Caesar pay for his crimes against the children, and Smoker risks his life for a chance to see Vergo fall in battle!"
@@ -5019,7 +5046,7 @@
     {
       "episode": 617,
       "title": "Caesar's Defeat! The Powerful Grizzly Magnum!",
-      "title_es": null,
+      "title_es": "¡La derrota de César! ¡El poderoso Grizzly Magnum!",
       "aired": "2013-10-20T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/26/26281721edcb3c8f8_w.webp",
       "description": "Law reaches the end of his epic battle with Vergo, and Luffy looks to land a devastating final blow on the murderous gasbag Caesar!"
@@ -5027,7 +5054,7 @@
     {
       "episode": 618,
       "title": "Raid! An Assassin from Dressrosa!",
-      "title_es": null,
+      "title_es": "¡RAID! ¡Un asesino de Dressrosa!",
       "aired": "2013-10-27T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/26/2627710596dbe7f4d_w.webp",
       "description": "Word of Luffy and Law`s alliance spreads throughout the world, Chopper and Brook race to stay ahead of the deadly gas, and Joker sends a team to rescue Caesar!"
@@ -5035,7 +5062,7 @@
     {
       "episode": 619,
       "title": "Running Wild! Invincible General Franky!",
-      "title_es": null,
+      "title_es": "¡Corriendo salvajemente! ¡El invencible general Franky!",
       "aired": "2013-11-03T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/26/26294760cf2f76f0d_w.webp",
       "description": "Franky battles a lethal beauty, Caesar tries to strike a final blow against Smoker, and Monet detonates an explosive surprise that could spell doom for the Straw Hats!"
@@ -5043,7 +5070,7 @@
     {
       "episode": 620,
       "title": "A Critical Situation! Punk Hazard Explodes!",
-      "title_es": null,
+      "title_es": "¡Una situación crítica! ¡El peligro punk explota!",
       "aired": "2013-11-10T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/26/2628694da6a676bd0_w.webp",
       "description": "As the Straw Hats and company flee the crumbling laboratory, Caesar`s desperate act of vengeance thwarts Joker`s plan to forever silence his enemies!"
@@ -5051,7 +5078,7 @@
     {
       "episode": 621,
       "title": "Capture Caesar! General Cannon Blast!",
-      "title_es": null,
+      "title_es": "¡Capturen a César! ¡Explosión de cañón general!",
       "aired": "2013-11-17T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/26/26307066d6e34d901_w.webp",
       "description": "Franky continues his battle with Buffalo and Baby 5, Nami uses a mighty gust of wind to save the children from a deadly cloud of gas, and Usopp takes a shot at capturing Caesar!"
@@ -5059,7 +5086,7 @@
     {
       "episode": 622,
       "title": "A Touching Reunion! Momonosuke and Kin'emon!",
-      "title_es": null,
+      "title_es": "¡Una reunión conmovedora! ¡Momonosuke y Kin'emon!",
       "aired": "2013-11-24T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/26/2632170c9e8aa8f54_w.webp",
       "description": "A dragon regains his boyish form, a noble warrior once feared dead makes a shocking resurrection, and bitter enemies set aside their differences to enjoy a well-deserved feast!"
@@ -5067,7 +5094,7 @@
     {
       "episode": 623,
       "title": "It's Time to Say Goodbye! Leaving Punk Hazard!",
-      "title_es": null,
+      "title_es": "¡Es hora de decir adiós! ¡Se va Punk Hazard!",
       "aired": "2013-12-01T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/26/2631564b132820f9e_w.webp",
       "description": "The weary marines and the rescued children get teary-eyed as they say goodbye to the Straw Hats. Meanwhile, Law enters into treacherous negotiations with Joker!"
@@ -5075,7 +5102,7 @@
     {
       "episode": 624,
       "title": "The G-5 Wiped Out! Doflamingo's Sudden Attack!",
-      "title_es": null,
+      "title_es": "¡El G-5 aniquilado! ¡El repentino ataque de Doflamingo!",
       "aired": "2013-12-08T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/26/2632464332dc50a31_w.webp",
       "description": "The Straw Hats set a course for Dressrosa, Law explains his alliance with Luffy, and Smoker`s refusal to reveal a secret earns him a serious beating from Doflamingo!"
@@ -5083,7 +5110,7 @@
     {
       "episode": 625,
       "title": "Intense! Aokiji vs. Doflamingo!",
-      "title_es": null,
+      "title_es": "¡Intenso! ¡Aokiji contra Doflamingo!",
       "aired": "2013-12-15T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/26/2634374d988ec7471_w.webp",
       "description": "Smoker`s life is spared by the arrival of an old friend. Law reveals some shocking news about Caesar`s partnership with Doflamingo, and Momonosuke uses his youth to get cozy with Robin and Nami!"
@@ -5091,7 +5118,7 @@
     {
       "episode": 626,
       "title": "Caesar Goes Missing! The Pirate Alliance Makes a Sortie!",
-      "title_es": null,
+      "title_es": "¡César desaparece! ¡La Alianza Pirata hace una salida!",
       "aired": "2013-12-22T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/26/2633698f932b738f4_w.webp",
       "description": "Smooth seas stretch out before the Straw Hats as they leave Punk Hazard far behind. While they fear Donflamingo`s return and prepare to face him, another powerful foe lies in wait - one whose power could be their downfall!"
@@ -5099,7 +5126,7 @@
     {
       "episode": 627,
       "title": "Luffy Dies at Sea?! The Pirate Alliance Comes Apart!",
-      "title_es": null,
+      "title_es": "¿Luffy muere en el mar? ¡La Alianza Pirata se desmorona!",
       "aired": "2014-01-05T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/26/263504236ae34f4e4_w.webp",
       "description": "Breed uses his evil abilities to turn Chopper into a pet - and force Luffy and Law to fight to the death."
@@ -5107,7 +5134,7 @@
     {
       "episode": 628,
       "title": "A Major Turnaround! Luffy's Angry Iron Fist Strikes!",
-      "title_es": null,
+      "title_es": "¡Un gran cambio! ¡El furioso puño de hierro de Luffy ataca!",
       "aired": "2014-01-12T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/26/26370668ceececb86_w.webp",
       "description": "After Law discovers the secret to Breed`s power, Luffy and his old friend the Kung Fu Dugong give the animal-abusing madman a beasty beat down!"
@@ -5115,7 +5142,7 @@
     {
       "episode": 629,
       "title": "Startling! The Big News Shakes Up the New World!",
-      "title_es": null,
+      "title_es": "¡Alarmante! ¡La gran noticia sacude el nuevo mundo!",
       "aired": "2014-01-19T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/26/26363985d711e6a8a_w.webp",
       "description": "As the world reacts to Doflamingo`s shocking announcement, Law and the Straw Hats plot the next move in their daring alliance, and a face from the past returns!"
@@ -5123,7 +5150,7 @@
     {
       "episode": 630,
       "title": "Explore! A Kingdom of Love and Passion: Dressrosa!",
-      "title_es": null,
+      "title_es": "¡Explorar! Un Reino de Amor y Pasión: ¡Dressrosa!",
       "aired": "2014-01-26T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/26/2638394a3d7528b1d_w.webp",
       "description": "The Straw Hats and their friends set out to explore Dressrosa, a land full of beautiful women, delicious food, and live toys that walk amongst the living."
@@ -5131,7 +5158,7 @@
     {
       "episode": 631,
       "title": "Full of Enthusiasm! The Corrida Colosseum!",
-      "title_es": null,
+      "title_es": "¡Lleno de entusiasmo! ¡El Coliseo Corrida!",
       "aired": "2014-02-02T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/26/2637508f2490c5e03_w.webp",
       "description": "A blind warrior lays a beat down on a gang of masked thugs, Zorro chases the thief who stole his sword, and Luffy finds himself tempted by the promise of a fiery fruit!"
@@ -5139,7 +5166,7 @@
     {
       "episode": 632,
       "title": "A Dangerous Love! The Dancer Girl: Violet!",
-      "title_es": null,
+      "title_es": "¡Un amor peligroso! La bailarina: ¡Violeta!",
       "aired": "2014-02-09T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/26/26391224fa199cd98_w.webp",
       "description": "Zoro continues his hunt for the fairy who stole his sword, Sanji is smitten by a beautiful dancer, and Luffy prepares to fight for the Devil Fruit that belonged to his brother!"
@@ -5147,7 +5174,7 @@
     {
       "episode": 633,
       "title": "A Formidable, Unknown Warrior! Here Comes Lucy!",
-      "title_es": null,
+      "title_es": "¡Un guerrero formidable y desconocido! ¡Aquí viene Lucía!",
       "aired": "2014-02-16T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/26/2638828864ccb6521_w.webp",
       "description": "Sanji falls further under the spell of his new lady friend, and Luffy makes quite an impression as he gets to know the fighters competing for Ace`s Devil Fruit."
@@ -5155,7 +5182,7 @@
     {
       "episode": 634,
       "title": "A Pirate Noble! Cavendish!",
-      "title_es": null,
+      "title_es": "¡Un noble pirata! ¡Cavendish!",
       "aired": "2014-02-23T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/26/264001685f9490d20_w.webp",
       "description": "A gorgeous gladiator tells Luffy the story of the world`s greatest warrior, a masked mauler literally destroys the competition, and the Navy makes its presence felt!"
@@ -5163,7 +5190,7 @@
     {
       "episode": 635,
       "title": "The Fateful Reunion! Bellamy the Hyena!",
-      "title_es": null,
+      "title_es": "¡La fatídica reunión! ¡Bellamy la Hiena!",
       "aired": "2014-03-02T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/26/26396105cac9572bd_w.webp",
       "description": "An old nemesis sees through Luffy`s disguise, Zoro finally catches up to the sword-stealing fairy, and Sanji`s skill at sniffing out snipers impresses his new lady friend!"
@@ -5171,7 +5198,7 @@
     {
       "episode": 636,
       "title": "A Super Rookie! Bartolomeo the Cannibal!",
-      "title_es": null,
+      "title_es": "¡Un súper novato! ¡Bartolomeo el Caníbal!",
       "aired": "2014-03-16T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/26/2640532103264cf6b_w.webp",
       "description": "Bartolomeo and Bellamy take center stage in the latest round of the battle royal, but a slugger with a serious punch threatens to steal their thunder. Meanwhile, Luffy is targeted by an angry behemoth!"
@@ -5179,7 +5206,7 @@
     {
       "episode": 637,
       "title": "Big Names Duke It Out! The Heated Block B Battle!",
-      "title_es": null,
+      "title_es": "¡Los grandes nombres se resisten! ¡La batalla acalorada del bloque B!",
       "aired": "2014-03-23T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/26/2642590b6bf15d303_w.webp",
       "description": "An old enemy of Garp`s reveals Luffy`s true identity, landing the Straw Hat captain in hot water with one of his fellow competitors. Meanwhile, the battle in Block B gets supremely brutal!"
@@ -5187,7 +5214,7 @@
     {
       "episode": 638,
       "title": "A Deadly Blow! The Astonishing King Punch!",
-      "title_es": null,
+      "title_es": "¡Un golpe mortal! ¡El asombroso golpe rey!",
       "aired": "2014-03-30T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/26/264210609d764e4bf_w.webp",
       "description": "Franky`s new robot friend promises to reveal the tragic secrets of Dressrosa, and a regal brawler prepares to throw a powerful punch that could destroy the entire colosseum!"
@@ -5195,7 +5222,7 @@
     {
       "episode": 639,
       "title": "The Fishing Fish Strike! Across the Deadly Iron Bridge!",
-      "title_es": null,
+      "title_es": "¡La huelga de peces pescadores! ¡Cruzando el Puente de Hierro Mortal!",
       "aired": "2014-04-06T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/26/2644054b38ac0d7ec_w.webp",
       "description": "While Law, Robin, Usopp, and Caesar attempt to survive a Fighting Fish attack, Sanji learns the heartbreaking truth about the beautiful woman who stole his heart!"
@@ -5203,7 +5230,7 @@
     {
       "episode": 640,
       "title": "Explore! Fairies' Island - Green Bit!",
-      "title_es": null,
+      "title_es": "¡Explorar! Isla de las Hadas - ¡Un poco verde!",
       "aired": "2014-04-13T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/26/26453805ca4a789d7_w.webp",
       "description": "Luffy`s turn to fight in the epic colosseum battle draws near, Zoro has an interesting encounter with a surprisingly strong fairy, and the thoughts in Sanji`s head shock his lady captor!"
@@ -5211,7 +5238,7 @@
     {
       "episode": 641,
       "title": "The Unknown World! The Tontatta Kingdom!",
-      "title_es": null,
+      "title_es": "¡El mundo desconocido! ¡El Reino Tontatta!",
       "aired": "2014-04-20T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/26/264461044e357fd43_w.webp",
       "description": "Sanji learns some disturbing news that could mean trouble for his friends, Luffy prepares for a fight, and Robin is captured by a village full of little people!"
@@ -5219,7 +5246,7 @@
     {
       "episode": 642,
       "title": "The Stratagem of the Century! Doflamingo Makes His Move!",
-      "title_es": null,
+      "title_es": "¡La estratagema del siglo! ¡Doflamingo hace su movimiento!",
       "aired": "2014-04-27T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/26/264650411c620c526_w.webp",
       "description": "Despite Sanji`s attempt to warn him, Law finds his life in danger after being ambushed by Doflamingo. Meanwhile, Luffy is unable to hide his true identity once the fists start flying!"
@@ -5227,7 +5254,7 @@
     {
       "episode": 643,
       "title": "Shaking Heaven and Earth! Admiral Fujitora's Power!",
-      "title_es": null,
+      "title_es": "¡Sacudiendo cielo y tierra! ¡El poder del almirante Fujitora!",
       "aired": "2014-05-04T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/26/2647828b00746fd82_w.webp",
       "description": "After his plan falls apart, Law must fight for his life against two powerful opponents. Elsewhere, Sanji bids a touching goodbye to his special lady friend, and Luffy tangles with Brutal Bull!"
@@ -5235,7 +5262,7 @@
     {
       "episode": 644,
       "title": "A Blow of Anger! A Giant vs. Lucy!",
-      "title_es": null,
+      "title_es": "¡Un golpe de ira! ¡Un gigante contra Lucy!",
       "aired": "2014-05-11T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/26/26492423166503582_w.webp",
       "description": "Nami, Chopper, and Brook are grotesquely transformed by a hideous woman who fancies herself an artist. Back at the colosseum, Luffy gets serious when his new friend falls victim to a giant attack!"
@@ -5243,7 +5270,7 @@
     {
       "episode": 645,
       "title": "Destruction Cannon Blasts! Lucy in Trouble!",
-      "title_es": null,
+      "title_es": "¡Explosiones de cañones de destrucción! ¡Lucía en problemas!",
       "aired": "2014-05-18T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/26/2651182bcea7bbf0d_w.webp",
       "description": "Zoro and his fairy friend argue over directions, Trafalgar Law finds himself outnumbered in his battle with Doflamingo, and Luffy`s latest opponent packs an explosive punch!"
@@ -5251,7 +5278,7 @@
     {
       "episode": 646,
       "title": "The Legendary Pirate! Don Chinjao!",
-      "title_es": null,
+      "title_es": "¡El pirata legendario! ¡Don Chinjao!",
       "aired": "2014-05-25T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/26/26505867326199d48_w.webp",
       "description": "While Nami, Chopper, and Brook attempt to take back the Sunny, Luffy and the monstrous mauler Don Chinjao take their brutal grudge match to a legendary level!"
@@ -5259,7 +5286,7 @@
     {
       "episode": 647,
       "title": "Light and Shadow! Darkness Behind Dressrosa!",
-      "title_es": null,
+      "title_es": "¡Luz y sombra! ¡Oscuridad detrás de Dressrosa!",
       "aired": "2014-06-01T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/26/2651858bc7534c3e7_w.webp",
       "description": "Luffy`s battle with Don Chinjao heats up, Franky learns the tragic truth behind Dressrosa`s mysterious toy population, and Robin and Usopp prepare to join their little friends in battle!"
@@ -5267,7 +5294,7 @@
     {
       "episode": 648,
       "title": "Making a Sortie! The Legendary Hero Usoland!",
-      "title_es": null,
+      "title_es": "¡Haciendo una salida! ¡El héroe legendario Usoland!",
       "aired": "2014-06-08T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/26/26514042514cfc094_w.webp",
       "description": "Luffy continues his battle with Don Chinjao, Franky and Zoro are reunited in the land of the little people, and Law is wounded in a revealing, face-to-face showdown with Doflamingo!"
@@ -5275,7 +5302,7 @@
     {
       "episode": 649,
       "title": "The Fierce Battle Coming to the End! Lucy vs. Chinjao!",
-      "title_es": null,
+      "title_es": "¡La feroz batalla llega a su fin! ¡Lucy contra Chinjao!",
       "aired": "2014-06-15T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/26/2652594513ece291b_w.webp",
       "description": "A flashback reveals the story of how Garp changed Chinjao`s world forever. Back in the present, Luffy and his opponent trade ferocious blows that literally rock the colosseum!"
@@ -5283,7 +5310,7 @@
     {
       "episode": 650,
       "title": "Luffy and the Gladiator of Fate: Rebecca!",
-      "title_es": null,
+      "title_es": "Luffy y el Gladiador del Destino: ¡Rebecca!",
       "aired": "2014-06-22T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/26/2654080edc093c2b3_w.webp",
       "description": "During a break between battles, Luffy is attacked by an angry rival, but a beautiful gladiator with mysterious motives offers him food - and a place to rest."
@@ -5291,7 +5318,7 @@
     {
       "episode": 651,
       "title": "Protect You to the End! Rebecca and the Toy Soldier!",
-      "title_es": null,
+      "title_es": "¡Protégete hasta el final! ¡Rebecca y el soldado de juguete!",
       "aired": "2014-06-29T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/26/2653476f57f86a356_w.webp",
       "description": "In the moments before battle, the beautiful gladiator Rebecca flashes back to the tragic events of her childhood and the toy soldier who became her constant companion."
@@ -5299,7 +5326,7 @@
     {
       "episode": 652,
       "title": "The Last - and Bloodiest - Block! Block D Battle Begins!",
-      "title_es": null,
+      "title_es": "¡El último y más sangriento bloque! ¡Comienza la batalla del bloque D!",
       "aired": "2014-07-06T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/26/2655020faa4686880_w.webp",
       "description": "The bloodthirsty crowd hurls insults at Rebecca as the battle of Block D begins. On the other side of the island, Law finds himself on the losing end of his battle with Doflamingo!"
@@ -5307,7 +5334,7 @@
     {
       "episode": 653,
       "title": "A Decisive Battle! Giolla vs. the Straw Hats!",
-      "title_es": null,
+      "title_es": "¡Una batalla decisiva! ¡Giolla contra los de Sombrero de Paja!",
       "aired": "2014-07-13T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/26/2654624924d33e0be_w.webp",
       "description": "Brook`s trickery springs the Straw Hats from their artistic prison, but their failure to cuff the culprit means they`ll need help from a cola-powered cannon to emerge victorious!"
@@ -5315,7 +5342,7 @@
     {
       "episode": 654,
       "title": "Beautiful Sword! Cavendish of the White Horse!",
-      "title_es": null,
+      "title_es": "¡Hermosa espada! ¡Cavendish del Caballo Blanco!",
       "aired": "2014-07-20T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/26/2656152f8373bfa15_w.webp",
       "description": "Cavendish wins over the female fans during the Block D battle, Luffy keeps an eye on Rebecca, and Sanji heads toward a heated collision with Doflamingo!"
@@ -5323,7 +5350,7 @@
     {
       "episode": 655,
       "title": "A Big Clash! Sanji vs. Doflamingo!",
-      "title_es": null,
+      "title_es": "¡Un gran choque! ¡Sanji contra Doflamingo!",
       "aired": "2014-08-03T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/26/265691859e386c6d5_w.webp",
       "description": "Sanji`s battle with Doflamingo is interrupted by Law`s sudden arrival, and Rebecca continues her impressive showing in the battle of Block D!"
@@ -5331,7 +5358,7 @@
     {
       "episode": 656,
       "title": "Rebecca's Special Attack! Back-to-the-Water Dance!",
-      "title_es": null,
+      "title_es": "¡El ataque especial de Rebecca! ¡Baile de regreso al agua!",
       "aired": "2014-08-10T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/26/26582220daa7cf767_w.webp",
       "description": "Law begins a deadly, face-to-face battle with Doflamingo, Zoro enlists the aid of a star struck gladiator, and Rebecca continues to impresses Luffy with her unique fighting style!"
@@ -5339,7 +5366,7 @@
     {
       "episode": 657,
       "title": "The Most Violent Fighter! Logan vs. Rebecca!",
-      "title_es": null,
+      "title_es": "¡El luchador más violento! ¡Logan contra Rebecca!",
       "aired": "2014-08-17T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/26/26575305ddb605530_w.webp",
       "description": "Luffy learns the truth about life in Dressrosa under Doflamingo`s reign. Meanwhile, Rebecca needs help from a friend to survive her bone-crushing battle with Logan!"
@@ -5347,7 +5374,7 @@
     {
       "episode": 658,
       "title": "A Big Surprise! A True Identity of the Toy Soldier!",
-      "title_es": null,
+      "title_es": "¡Una gran sorpresa! ¡La verdadera identidad del soldado de juguete!",
       "aired": "2014-08-24T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/26/265878830fd527795_w.webp",
       "description": "Rebecca`s battle continues, a madman turns a gladiator into a play thing, and the brave little toy soldier reveals his painful past – and the tragic truth behind King Riku`s fall from power!"
@@ -5355,7 +5382,7 @@
     {
       "episode": 659,
       "title": "A Horrible Past! The Secret of Dressrosa!",
-      "title_es": null,
+      "title_es": "¡Un pasado horrible! ¡El secreto de Dressrosa!",
       "aired": "2014-08-31T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/26/26604149550df919e_w.webp",
       "description": "Luffy learns the truth about life in Dressrosa under Doflamingo`s reign. Meanwhile, Rebecca needs help from a friend to survive her bone-crushing battle with Logan!"
@@ -5363,7 +5390,7 @@
     {
       "episode": 660,
       "title": "A Nightmare! The Tragic Night of Dressrosa!",
-      "title_es": null,
+      "title_es": "¡Una pesadilla! ¡La trágica noche de Dressrosa!",
       "aired": "2014-09-07T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/26/26600160671a9ba50_w.webp",
       "description": "Rebecca continues her valiant stand in the arena of battle, Luffy is reunited with Zoro, and the heartbreaking story of how Doflamingo conquered Dressrosa continues!"
@@ -5371,7 +5398,7 @@
     {
       "episode": 661,
       "title": "A Showdown Between the Warlords! Law vs. Doflamingo!",
-      "title_es": null,
+      "title_es": "¡Un enfrentamiento entre los señores de la guerra! ¡Ley contra Doflamingo!",
       "aired": "2014-09-14T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/26/26614203331291d80_w.webp",
       "description": "Law`s power begins to fade, making him an easy target for Doflamingo`s vicious attacks. Meanwhile, Franky begs Luffy to let him fight alongside Soldier and the little people!"
@@ -5379,7 +5406,7 @@
     {
       "episode": 662,
       "title": "Two Great Rivals Meet Each Other! Straw Hat and Heavenly Demon!",
-      "title_es": null,
+      "title_es": "¡Dos grandes rivales se encuentran! ¡Sombrero de Paja y Demonio Celestial!",
       "aired": "2014-09-21T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/26/2661050bef529c080_w.webp",
       "description": "Luffy sets his sights on a showdown with Doflamingo in a desperate attempt to save Law`s life. Sanji, Nami, Chopper, and Brook are attacked by a very deadly foe!"
@@ -5387,7 +5414,7 @@
     {
       "episode": 663,
       "title": "Luffy Astonished! The Man Who Inherits Ace's Will!",
-      "title_es": null,
+      "title_es": "¡Luffy asombrado! ¡El hombre que hereda la voluntad de Ace!",
       "aired": "2014-09-28T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/26/2662628bba783b970_w.webp",
       "description": "Soldier reveals his daring plan to return all the toys to their human forms, and Luffy has an emotional encounter with someone from his very distant past!"
@@ -5395,7 +5422,7 @@
     {
       "episode": 664,
       "title": "Operation SOP Starts! Usoland Charges Forth!",
-      "title_es": null,
+      "title_es": "¡Comienza la Operación SOP! ¡Usoland ataca!",
       "aired": "2014-10-05T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/26/2662252882765bae7_w.webp",
       "description": "Usopp and Robin join the little people on their mission to turn the toys back into humans, Franky wreaks havoc at the toy house, and Rebecca continues her gladiator battle!"
@@ -5403,7 +5430,7 @@
     {
       "episode": 665,
       "title": "A Burning Passion! Rebecca vs. Suleiman!",
-      "title_es": null,
+      "title_es": "¡Una pasión ardiente! ¡Rebeca contra Solimán!",
       "aired": "2014-10-12T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/26/266368431904cf4f2_w.webp",
       "description": "Zoro attracts unwanted attention by upsetting a child, Soldier risks his life to lead the attack on Doflamingo, and Rebecca struggles to survive the brutal battle of Block D!"
@@ -5411,7 +5438,7 @@
     {
       "episode": 666,
       "title": "The End of the Match?! A Surprising Result of Block D!",
-      "title_es": null,
+      "title_es": "¡¿El final del partido?! ¡Un resultado sorprendente del Bloque D!",
       "aired": "2014-10-19T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/26/26631445a9e585cb6_w.webp",
       "description": "Rebecca survives an encounter with an opponent`s deadly alter ego, Franky continues his battle with a man who dresses like a baby, and Violet offers to sneak Luffy into the palace!"
@@ -5419,7 +5446,7 @@
     {
       "episode": 667,
       "title": "The Admiral's Decision! Fujitora vs. Doflamingo!",
-      "title_es": null,
+      "title_es": "¡La decisión del almirante! ¡Fujitora contra Doflamingo!",
       "aired": "2014-10-26T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/26/26646887fec1d7661_w.webp",
       "description": "Franky has his hands full battling a host of enemies at the Toy House, Violet leads Luffy to a secret entrance into the palace, and Fujitora issues Doflamingo a grave warning!"
@@ -5427,7 +5454,7 @@
     {
       "episode": 668,
       "title": "The Final Round Starts! Diamante the Hero Shows Up!",
-      "title_es": null,
+      "title_es": "¡Comienza la ronda final! ¡Aparece Diamante el héroe!",
       "aired": "2014-11-02T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/26/2663952ec67c36950_w.webp",
       "description": "Diamante`s unique abilities and the presence of special Fighting Fish add a deadly wrinkle to the tournament`s final round. Elsewhere, Luffy spoils any chance of sneaking up on Doflamingo!"
@@ -5435,7 +5462,7 @@
     {
       "episode": 669,
       "title": "A Moving Castle! The Top Executive Pica Rises Up!",
-      "title_es": null,
+      "title_es": "¡Un castillo en movimiento! ¡El Pica del máximo ejecutivo se levanta!",
       "aired": "2014-11-09T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/26/26652601a8feeca57_w.webp",
       "description": "Luffy tangles with a monster made of stone, Franky bursts into flames after getting shot by a cannon, and the courageous little people hatch a plan to turn the toys back into humans!"
@@ -5443,7 +5470,7 @@
     {
       "episode": 670,
       "title": "Dragon Claw Strikes! Lucy's Intimidating Attack!",
-      "title_es": null,
+      "title_es": "¡Golpes de garra de dragón! ¡El ataque intimidante de Lucy!",
       "aired": "2014-11-16T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/26/2666484671b49d965_w.webp",
       "description": "Soldier takes a beating from a Doflamingo Family Executive, Lucy shows off a powerful new fighting style, and Zoro pushes his blades to the breaking point in a showdown with a man made of stone!"
@@ -5451,7 +5478,7 @@
     {
       "episode": 671,
       "title": "Defeat Sugar! The Army of the Little People Charges!",
-      "title_es": null,
+      "title_es": "¡Derrota al azúcar! ¡El ejército de la gente pequeña carga!",
       "aired": "2014-11-23T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/26/2669286603525b1ac_w.webp",
       "description": "Zoro repeatedly slices his stone opponent into pieces, but he can`t find a way to make the bad guy stay down. Meanwhile, the bravery of the little people could get them turned into toys!"
@@ -5459,7 +5486,7 @@
     {
       "episode": 672,
       "title": "The Last Light of Hope! The Secret of Our Commander!",
-      "title_es": null,
+      "title_es": "¡La última luz de la esperanza! ¡El secreto de nuestro comandante!",
       "aired": "2014-11-30T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/26/266879250f39535a5_w.webp",
       "description": "The Tontattas are devastated by Trebol’s furious attack, but as Usopp tries to convince Leo to abort the operation, Leo tells him about their commander Toy Soldier’s stunning true identity! Meanwhile, with the help of another Tontatta group, the Toy Soldier finally shakes off Lao G and gets moving again!"
@@ -5467,7 +5494,7 @@
     {
       "episode": 673,
       "title": "The Rupture Human! Gladius Blows Up Big Time!",
-      "title_es": null,
+      "title_es": "¡El humano de la ruptura! ¡Gladius explota a lo grande!",
       "aired": "2014-12-07T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/26/26672684f390dcab5_w.webp",
       "description": "Zoro continues his deadly duel with the nearly-indestructible Pica! While the Toy Soldier narrowly escapes Lao G only to come face to face with Gladius! Luffy continues his mad dash to the top of the palace to face Doflamingo!"
@@ -5475,7 +5502,7 @@
     {
       "episode": 674,
       "title": "A Liar! Usoland on the Run!",
-      "title_es": null,
+      "title_es": "¡Un mentiroso! ¡Usoland en fuga!",
       "aired": "2014-12-14T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/26/2674280255d69ced0_w.webp",
       "description": "With the Tontattas beaten, Robin turned into a toy, and Luffy, Franky, and the others all busy elsewhere, Usopp is the last hope for Operation SOP! But will he be able to muster the confidence and courage to face the terrible Trebol? Among the cries of the Tontattas, Usopp has a difficult decision to make - run and fight another day or face his own doom and challenge Trebol!"
@@ -5483,7 +5510,7 @@
     {
       "episode": 675,
       "title": "A Fateful Encounter! Kyros and King Riku!",
-      "title_es": null,
+      "title_es": "¡Un encuentro fatídico! ¡Kyros y el rey Riku!",
       "aired": "2014-12-21T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/26/2682042cc1430fa82_w.webp",
       "description": "The deep and tragic story of Kyros is revealed! The legend of this invincible gladiator is tied up with the royal family of Dressrosa! Meanwhile, Trebol`s defeat at the hands of Usopp is not a sure thing yet!"
@@ -5491,7 +5518,7 @@
     {
       "episode": 676,
       "title": "The Operation Failed! Usoland the Hero Dies?!",
-      "title_es": null,
+      "title_es": "¡La operación fracasó! ¡¿Usoland el héroe muere?!",
       "aired": "2014-12-28T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/26/26891464344352b2a_w.webp",
       "description": "In the Royal Palace, Viola, Luffy, and the Toy Soldier have hidden themselves outside Doflamingo`s chamber, only to have more enemies approach from behind, leaving them surrounded! Meanwhile, Franky is knocked out cold by the Navy, and all hopes rest on Usopp to provide the miracle everyone needs!"
@@ -5499,7 +5526,7 @@
     {
       "episode": 677,
       "title": "The Legend Is Back! Kyros' All-out Blow!",
-      "title_es": null,
+      "title_es": "¡La leyenda ha vuelto! ¡El golpe total de Kyros!",
       "aired": "2015-01-11T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/27/270776233d540d6bd_w.webp",
       "description": "Usopp manages to knock Sugar out and Operation SOP is accomplished! The toys in Dressrosa start turning back to their original forms and the people are slowly realizing who Doflamingo really is! In the meantime, the legendary hero Kyros reverts to his true form - and this mighty champion of the Colosseum has a score to settle!"
@@ -5507,7 +5534,7 @@
     {
       "episode": 678,
       "title": "The Fire Fist Strikes! The Flare-Flare Fruit Power Returns!",
-      "title_es": null,
+      "title_es": "¡El puño de fuego ataca! ¡Vuelve el poder de la fruta Flare-Flare!",
       "aired": "2015-01-18T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/27/27156521e242688e3_w.webp",
       "description": "Kyros finally taking down Doflamingo leaves Doflamingo’s clan shocked! Meanwhile at the Colosseum, Rebecca gets her memories of her loving father Kyros back, and Sabo makes a move to end the championship battle by blowing up the whole ring! Will he be able to snag the Flare-Flare Fruit?"
@@ -5515,7 +5542,7 @@
     {
       "episode": 679,
       "title": "Dashing onto the Scene! The Chief of Staff of the Revolutionary Army, Sabo!",
-      "title_es": null,
+      "title_es": "¡Lanzando a la escena! ¡El Jefe de Estado Mayor del Ejército Revolucionario, Sabo!",
       "aired": "2015-01-25T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/27/27244443c567284ce_w.webp",
       "description": "Luffy hurries to free Law, but with their pirate alliance dissolved, will Law still see Luffy as an ally? Meanwhile, Usopp has convinced his new-found followers to destroy the factory! Doflamingo`s defeat has thrown Dressrosa into chaos, but the Young Master may have a trick left up his sleeve..."
@@ -5523,7 +5550,7 @@
     {
       "episode": 680,
       "title": "The Devil's Trap! A Dressrosa Extermination Plan!",
-      "title_es": null,
+      "title_es": "¡La trampa del diablo! ¡Un plan de exterminio de Dressrosa!",
       "aired": "2015-02-01T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/27/2733048ce78dda792_w.webp",
       "description": "The mystery of Doflamingo`s return from the dead is revealed! But there isn`t much time to ponder how it happened, as his plan to silence the country of Dressrosa unfolds, spelling doom for the Straw Hats!"
@@ -5531,7 +5558,7 @@
     {
       "episode": 681,
       "title": "The 500 Million Berry Men! Target: Usoland!",
-      "title_es": null,
+      "title_es": "¡Los 500 millones de hombres Berry! Objetivo: ¡Usolandia!",
       "aired": "2015-02-08T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/27/2742956818c6cfbf0_w.webp",
       "description": "As the people of Dressrosa see their friends and loved ones slaughter each other under the manipulation of Doflamingo, memories of 10 years ago rush back, and the truth of that event becomes clear. Doflamingo announces the rules for his deadly game - targeting Luffy, King Riku, and Law, but with the highest bounty reserved for Usopp!"
@@ -5539,7 +5566,7 @@
     {
       "episode": 682,
       "title": "Breaking Through Enemy Lines! Luffy and Zoro Launch the Counter-Attack!",
-      "title_es": null,
+      "title_es": "¡Rompiendo las líneas enemigas! ¡Luffy y Zoro lanzan el contraataque!",
       "aired": "2015-02-15T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/27/27539887026f8145f_w.webp",
       "description": "Doflamingo and Fujitora`s agreement to not engage each other lasts for the moment - meaning all eyes are turned towards taking down the Straw Hats and claiming the rewards! And as Luffy starts heading to the Royal Palace along with Zoro and Law, Fujitora stands in his way!"
@@ -5547,7 +5574,7 @@
     {
       "episode": 683,
       "title": "With a Rumbling of the Ground! The God of Destruction - Giant Pica Descends!",
-      "title_es": null,
+      "title_es": "¡Con estrépito del suelo! El Dios de la Destrucción: ¡La Pica gigante desciende!",
       "aired": "2015-03-01T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/27/2773134132da188c7_w.webp",
       "description": "Robin, Usopp, the Tontatta`s and the others make moves to rejoin Luffy as Doflamingo`s deadly game rages on! Meanwhile, Kin`emon makes it to the trash heap in his search for his friend Kanjuro - just as Pica emerges in the town and changes the stakes of the game!"
@@ -5555,7 +5582,7 @@
     {
       "episode": 684,
       "title": "Gathering into a Powerful Front! Luffy and a Group of Brutal Warriors!",
-      "title_es": null,
+      "title_es": "¡Reuniéndonos en un frente poderoso! ¡Luffy y un grupo de guerreros brutales!",
       "aired": "2015-03-15T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/27/2791854223f997591_w.webp",
       "description": "With Luffy and the others recovering from Pica`s attack, the game is afoot! Luffy has just enough time to regroup and set out to find Doflamingo, only to find that the dastardly Warlord has more enemies than he might realize! A strange argument breaks out - to decide who gets to take down Doflamingo once and for all!"
@@ -5563,7 +5590,7 @@
     {
       "episode": 685,
       "title": "Steady Progress! Luffy's Army vs. Pica!",
-      "title_es": null,
+      "title_es": "¡Progreso constante! ¡El ejército de Luffy contra Pica!",
       "aired": "2015-03-22T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/28/2802164fd45d5b8f2_w.webp",
       "description": "Don Chin Jao and Elizabello successfully break Pica’s giant arm but the rock giant is unfazed and starts throwing even more destructive punches at Luffy and his band of unwanted collaborators! Meanwhile, Navy Admiral Fujitora moves into action, summoning all the Navy soldiers on the island!"
@@ -5571,7 +5598,7 @@
     {
       "episode": 686,
       "title": "A Shocking Confession! Law's Soulful Vow!",
-      "title_es": null,
+      "title_es": "¡Una confesión impactante! ¡El voto conmovedor de Law!",
       "aired": "2015-03-29T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/28/281043468fbee3810_w.webp",
       "description": "Luffy and Moocy fast approach the showdown with Doflamingo - while the others with a beef against him continue to tag along. Meanwhile, Violet finds the key to Law`s handcuffs, and Rebecca pledges to deliver it to him. Finally, Law`s reason for despising Doflamingo is revealed!"
@@ -5579,7 +5606,7 @@
     {
       "episode": 687,
       "title": "A Big Collision! Chief of Staff - Sabo vs. Admiral Fujitora!",
-      "title_es": null,
+      "title_es": "¡Una gran colisión! Jefe de Estado Mayor: ¡Sabo contra el almirante Fujitora!",
       "aired": "2015-04-05T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/28/2820828d1ad767124_w.webp",
       "description": "Luffy makes headway toward Doflamingo`s refuge, making his way through Doflamingo`s guards, while down below Admiral Fujitora faces off against Sabo, who has the power of the Fire Fist from eating the Flare-Flare Fruit! But with Fujitora`s ability to call down a meteor, will Sabo have to power to save himself?"
@@ -5587,7 +5614,7 @@
     {
       "episode": 688,
       "title": "A Desperate Situation! Luffy Gets Caught in a Trap!",
-      "title_es": null,
+      "title_es": "¡Una situación desesperada! ¡Luffy queda atrapado en una trampa!",
       "aired": "2015-04-12T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/28/282879430ea7c6ced_w.webp",
       "description": "Luffy cuts a lucky break as Kelly Funk shows him a shortcut to the Palace! But all may not be as it seems... Meanwhile, Franky and Zoro are locked in one-on-one duels, while Robin, Rebecca, and Bartolomeo enlist the help of the Tontattas to catch up with Luffy and Law!"
@@ -5595,7 +5622,7 @@
     {
       "episode": 689,
       "title": "A Great Escape! Luffy's Tide-Turning Elephant Gun!",
-      "title_es": null,
+      "title_es": "¡Un gran escape! ¡La revolucionaria pistola de elefantes de Luffy!",
       "aired": "2015-04-19T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/28/2838052ae37cbd34e_w.webp",
       "description": "Penned in at the bottom of a well, Luffy and Law are caught in a trap! But someone has come to save them who they least expect! Meanwhile, the Tontattas help Franky break in to the SMILE factory, and Bartolomeo resorts to tactics he used in the Colosseum to defend himself and protect Robin and Rebecca!"
@@ -5603,7 +5630,7 @@
     {
       "episode": 690,
       "title": "A United Front! Luffy's Breakthrough to the Victory!",
-      "title_es": null,
+      "title_es": "¡Un Frente Unido! ¡El avance de Luffy hacia la victoria!",
       "aired": "2015-04-26T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/28/2843898c878a4edd3_w.webp",
       "description": "The Tontattas locate their captive comrades and seem to be able to get the message to them - the prison break is on! Meanwhile, heavy-hitters from the Colosseum turn from wringing each other`s necks towards a unified plan, which might just be enough to get Luffy the chance to make it to a final showdown with Doflamingo!"
@@ -5611,7 +5638,7 @@
     {
       "episode": 691,
       "title": "The Second Samurai! Evening Shower Kanjuro Appears!",
-      "title_es": null,
+      "title_es": "¡El segundo samurái! ¡Aparece Kanjuro de la ducha nocturna!",
       "aired": "2015-05-03T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/28/28513545f47d95818_w.webp",
       "description": "Hidden far underground, Kin`emon finds his old friend Kanjuro, whose powers allow the two to, quickly, but not elegantly, escape to the surface! Meanwhile, Cavendish shares his fears that the \"Birdcage\" game Doflamingo is playing has been rigged all along - and that the only way to win is to take the Warlord down!"
@@ -5619,7 +5646,7 @@
     {
       "episode": 692,
       "title": "A Hard-Fought Battle Against Pica! Zoro's Deadly Attack!",
-      "title_es": null,
+      "title_es": "¡Una dura batalla contra Pica! ¡El ataque mortal de Zoro!",
       "aired": "2015-05-10T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/28/2860880a40529993d_w.webp",
       "description": "The Tontattas are in full revolt! But can they keep their wits about them long enough to make it out? Meanwhile, Zoro finally gains the upper hand against Pica, and Franky finds a way to deal with Señor Pink."
@@ -5627,7 +5654,7 @@
     {
       "episode": 693,
       "title": "The Little People's Princess! Captive Mansherry!",
-      "title_es": null,
+      "title_es": "¡La princesa de los pueblecitos! ¡Mansherry cautivo!",
       "aired": "2015-05-17T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/28/28697245277e4690d_w.webp",
       "description": "Franky finally makes it into the factory and the Tontattas are reunited with their captive friends! But Princess Mansherry is nowhere to be found. Factory manager Kuween becomes irate when ignored and launches an attack on Franky while Señor Pink, wise to Frankie`s deception, arrives on the scene ready for a manly showdown!"
@@ -5635,7 +5662,7 @@
     {
       "episode": 694,
       "title": "Invincible! A Gruesome Army of Headcracker Dolls!",
-      "title_es": null,
+      "title_es": "¡Invencible! ¡Un ejército espantoso de muñecos rompecabezas!",
       "aired": "2015-05-24T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/28/2878648bb0a13829c_w.webp",
       "description": "Robin, Rebecca, and Bartolomeo draw closer to the Flower Field on the fourth level of the Royal Palace plateau, but a sudden attack by Gladius exploding spheres sends Robin and Bartolomeo hurtling towards the level below - and directly into Luffy and the others` battle with the creepy Headcracker Dolls!"
@@ -5643,7 +5670,7 @@
     {
       "episode": 695,
       "title": "Risking Their Lives! Luffy Is the Trump Card for Victory!",
-      "title_es": null,
+      "title_es": "¡Arriesgando sus vidas! ¡Luffy es la carta de triunfo para la victoria!",
       "aired": "2015-05-31T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/28/2887644279b0cd7b0_w.webp",
       "description": "Rebecca makes it to the Flower Field alone, but unfortunately finds company there that is less than friendly! Meanwhile, Bartolomeo pushes himself to the limit in order to help Luffy advance, but does he leave himself vulnerable in the process? Meanwhile, Sabo tastes Fujitora`s full might!"
@@ -5651,7 +5678,7 @@
     {
       "episode": 696,
       "title": "A Tearful Reunion! Rebecca and Kyros!",
-      "title_es": null,
+      "title_es": "¡Una reunión llena de lágrimas! ¡Rebeca y Kyros!",
       "aired": "2015-06-07T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/28/2896636906a7bc0c5_w.webp",
       "description": "Diamante has Rebecca pinned and completely overpowered. If only the Soldier-san of her youth were able to protect her! Meanwhile, Luffy and Law finally surmount incredible odds to land themselves in striking distance of Doflamingo -- but Sugar stands in their way!"
@@ -5659,7 +5686,7 @@
     {
       "episode": 697,
       "title": "One Shot One Kill! The Man Who Will Save Dressrosa!",
-      "title_es": null,
+      "title_es": "¡Un disparo, una muerte! ¡El hombre que salvará a Dressrosa!",
       "aired": "2015-06-14T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/29/2904674ffeb19ee2f_w.webp",
       "description": "Usopp uses Viola`s Clairvoyance to prepare his ammunition to take Sugar out! But the slightest hesitation now will spell disaster -- and the end of Luffy! Luckily for the Straw Hats, Usopp`s ammunition has been specially designed for this specific situation!"
@@ -5667,7 +5694,7 @@
     {
       "episode": 698,
       "title": "Anger Erupts! Luffy and Law's Ultimate Stratagem!",
-      "title_es": null,
+      "title_es": "¡La ira estalla! ¡La última estratagema de Luffy y Law!",
       "aired": "2015-06-21T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/29/2913002cdd6c6c0de_w.webp",
       "description": "The final showdown with Doflamingo begins, but the Warlord still has several tricks up his sleeve - including turning one of Luffy`s own friends against him! Meanwhile Franky and Señor Pink are in a standoff to find out who is the coolest."
@@ -5675,7 +5702,7 @@
     {
       "episode": 699,
       "title": "A Noble Family! The True Identity of Doflamingo!",
-      "title_es": null,
+      "title_es": "¡Una familia noble! ¡La verdadera identidad de Doflamingo!",
       "aired": "2015-06-28T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/29/2920878b58203db5e_w.webp",
       "description": "All hopes rest on Luffy and Law being able to take down Doflamingo; but the Warlord has other plans in mind as he gives the two the fight of their lives, and reveals his true, shocking history! Meanwhile, Sabo finds out Fujitora’s true intention…"
@@ -5683,7 +5710,7 @@
     {
       "episode": 700,
       "title": "The Ultimate Power! The Secret of the Op-Op Fruit!",
-      "title_es": null,
+      "title_es": "¡El poder supremo! ¡El secreto de la fruta Op-Op!",
       "aired": "2015-07-05T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/29/2928314fa5a6d5870_w.webp",
       "description": "With Fujitora`s stalemate arousing suspicion in the Navy ranks, Law and Luffy stand seconds away from execution at the hand of Doflamingo! But before he dispatches them both, he shares the secret of his sway over the Celestial Dragons!"
@@ -5691,7 +5718,7 @@
     {
       "episode": 701,
       "title": "Sad Memories! Law the Boy from the White Town!",
-      "title_es": null,
+      "title_es": "¡Recuerdos tristes! ¡Lew, el niño del Pueblo Blanco!",
       "aired": "2015-07-12T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/29/295547099ef81433d_w.webp",
       "description": "The horrible secret of Flevance, the White Town, is revealed, giving clues to Law`s traumatic past! A rage born from the lies of the World Government created a child who had the will to kill Corazon!"
@@ -5699,7 +5726,7 @@
     {
       "episode": 702,
       "title": "A Celestial Dragon! Doffy's Stormy Past!",
-      "title_es": null,
+      "title_es": "¡Un Dragón Celestial! ¡El tormentoso pasado de Doffy!",
       "aired": "2015-07-19T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/29/295546836341c30f9_w.webp",
       "description": "Law`s attack on Corazon looks less successful than he thought! And after he`s accepted into the Doflamingo Family, Corazon`s mysterious silence hides a fact that may save Law`s life - and a hidden danger Law must face in Doflamingo himself!"
@@ -5707,7 +5734,7 @@
     {
       "episode": 703,
       "title": "A Rocky Road! Law and Corazon's Journey of Life!",
-      "title_es": null,
+      "title_es": "¡Un camino rocoso! ¡El viaje de la vida de Law y Corazón!",
       "aired": "2015-08-02T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/29/29594069bed6bc213_w.webp",
       "description": "Things grow stranger for Law as he learns the secret behind why Corazon feigns being mute! But the mysterious Corazon`s actions are only beginning to baffle Law as he takes him on a journey to cure his White Lead Disease."
@@ -5715,7 +5742,7 @@
     {
       "episode": 704,
       "title": "The Time Is Ticking Down! Seize the Op-Op Fruit!",
-      "title_es": null,
+      "title_es": "¡El tiempo corre! ¡Aprovecha la fruta Op-Op!",
       "aired": "2015-08-09T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/29/296888082d8db4e93_w.webp",
       "description": "Corazon`s double-dealing with the Navy raises suspicions both with Doflamingo and Law. But all that is secondary as Corazon finally has a chance to grab the Op-Op Fruit during a staged handoff arranged by the Government."
@@ -5723,7 +5750,7 @@
     {
       "episode": 705,
       "title": "The Moment of Resolution! Corazon's Farewell Smile!",
-      "title_es": null,
+      "title_es": "¡El momento de la resolución! ¡La sonrisa de despedida de Corazón!",
       "aired": "2015-08-16T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/29/29782086cdf270212_w.webp",
       "description": "The Op-Op Fruit is in Corazon`s hands! But the price he paid to get it might be too high... When Law goes for help, unfortunate coincidences intervene and leave the two vulnerable! Meanwhile, Doflamingo and his clan finally land at Minion Island; the location of Corazon and Law!"
@@ -5731,7 +5758,7 @@
     {
       "episode": 706,
       "title": "Advance, Law! The Kindhearted Man's Final Fight!",
-      "title_es": null,
+      "title_es": "¡Avance, Ley! ¡La pelea final del hombre bondadoso!",
       "aired": "2015-08-23T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/29/2985334248f30068a_w.webp",
       "description": "Doflamingo and his Family begin to zero in on Corazon and Law`s whereabouts, but Corazon has a plan to hide Law long enough to let him escape - even if that means sacrificing his own life. However, when things turn sour, it`s a chain of lucky coincidences that allows the plan to be set into motion - almost as though someone or something is keeping Law alive!"
@@ -5739,7 +5766,7 @@
     {
       "episode": 707,
       "title": "To Be Free! Law's Injection Shot Blasts!",
-      "title_es": null,
+      "title_es": "¡Ser libre! ¡El disparo de inyección de Law explota!",
       "aired": "2015-08-30T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/29/2993224cf4e0e46b2_w.webp",
       "description": "Violet runs down the status of the open battles raging in Dressrosa - the Straw Hats, the Tontattas, the executives of the Doflamingo Family - all of them clash around the island, but it`s Law`s revelation to Doflamingo that moves the action forward!"
@@ -5747,7 +5774,7 @@
     {
       "episode": 708,
       "title": "An Intense Battle! Law vs. Doflamingo!",
-      "title_es": null,
+      "title_es": "¡Una batalla intensa! ¡Ley contra Doflamingo!",
       "aired": "2015-09-06T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/29/29979145262b17630_w.webp",
       "description": "Luffy continues to battle Fake-mingo, but keeps accidentally battling Bellamy instead. Meanwhile the tide of battle turns against Law as painful scars from the past resurface. And Zoro gets unexpected help in his battle with Pica."
@@ -5755,7 +5782,7 @@
     {
       "episode": 709,
       "title": "A Decisive Battle Against the Executives! Proud Hajrudin!",
-      "title_es": null,
+      "title_es": "¡Una batalla decisiva contra los ejecutivos! ¡Orgulloso Hajrudin!",
       "aired": "2015-09-13T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/30/30010303d3f6342fc_w.webp",
       "description": "Bellamy escapes Doflamingo`s control, but it might be too late. His long history with Doflamingo unfolds and leads to an inglorious end. Meanwhile, Hajrudin has been beaten down, but a fire still burns in him to pay back the favor he owes!"
@@ -5763,7 +5790,7 @@
     {
       "episode": 710,
       "title": "The Battle of Love! The New Leader Sai vs. Baby 5!",
-      "title_es": null,
+      "title_es": "¡La batalla del amor! ¡El nuevo líder Sai contra Baby 5!",
       "aired": "2015-09-20T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/30/30121208fa3c919a3_w.webp",
       "description": "Lao G and Don Chin Jao duke it out as each brings their most devastating attacks to the battle. But a misunderstanding caused by Baby 5 has Sai and Don Chin Jao distracted - are they distracted enough for Lao G to gain the upper hand?"
@@ -5771,7 +5798,7 @@
     {
       "episode": 711,
       "title": "The Man's Pride! Bellamy's Last Charge!",
-      "title_es": null,
+      "title_es": "¡El orgullo del hombre! ¡La última carga de Bellamy!",
       "aired": "2015-09-27T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/30/3024590079c4f2fad_w.webp",
       "description": "Law is at the whim of Doflamingo and Trebol, while Luffy still has to deal with Bellamy, who fights to keep his honor even after being released by Doflamingo! Meanwhile, Gladius is about to detonate the ground around Cavendish and Bartolomeo!"
@@ -5779,7 +5806,7 @@
     {
       "episode": 712,
       "title": "A Strong Wind and a Surge! Hakuba vs. Dellinger!",
-      "title_es": null,
+      "title_es": "¡Un viento fuerte y una oleada! ¡Hakuba contra Dellinger!",
       "aired": "2015-10-04T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/30/303310274cc374b2d_w.webp",
       "description": "A mysterious force that resembles Cavendish menaces the battlefield - but while it appears to help Bartolomeo and the others at first, it sets its sights on Robin! Meanwhile, the deeply-wounded Ideo sees Dellinger’s horrible true nature!"
@@ -5787,7 +5814,7 @@
     {
       "episode": 713,
       "title": "Barrier-Barrier! Homage God Fist Strikes!",
-      "title_es": null,
+      "title_es": "¡Barrera-Barrera! ¡Homenaje a Dios, golpes de puño!",
       "aired": "2015-10-11T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/30/3042590a1a97ce167_w.webp",
       "description": "Bartolomeo is in a neck and neck battle against Gladius to save Robin, and is faced with an impossible dilemma. With all his options leading to their defeat, can his cunning ploy save the day? Meanwhile, Robin is face to face with Cavendish, but his evil aspect Hakuba keeps complicating the situation more!"
@@ -5795,7 +5822,7 @@
     {
       "episode": 714,
       "title": "The Healing Princess! Save Mansherry!",
-      "title_es": null,
+      "title_es": "¡La princesa curativa! ¡Salva a Mansherry!",
       "aired": "2015-10-18T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/30/3052138b16e6f1de9_w.webp",
       "description": "Princess Mansherry`s amazing power - to heal living beings completely - is in the hands of the Donquixote executive. If she is able to heal all the executives who`ve gone down in battle - the Straw Hats and their allies stand no chance! It`s up to Leo to save the day!"
@@ -5803,7 +5830,7 @@
     {
       "episode": 715,
       "title": "The Manly Duel! Senor's Elegy of Love!",
-      "title_es": null,
+      "title_es": "¡El duelo varonil! ¡La elegía de amor del señor!",
       "aired": "2015-10-25T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/30/3061508ad92467e8d_w.webp",
       "description": "Señor Pink and Franky continue their knock-down, drag-out, manly fight. As both of them are pushed to their limits, we learn Señor`s tragic past! Meanwhile, Princess Mansherry`s rescue hits a snag as she stubbornly refuses to leave!"
@@ -5811,7 +5838,7 @@
     {
       "episode": 716,
       "title": "Stardust of Death! Diamante's Storm of Vicious Attacks!",
-      "title_es": null,
+      "title_es": "¡Polvo de estrellas de la muerte! ¡La tormenta de ataques feroces de Diamante!",
       "aired": "2015-11-01T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/30/3069684c48651c795_w.webp",
       "description": "Franky and Señor Pink end their harrowing duel in a manly way - but victory knocks the wind out of even the winner`s sails! Meanwhile, Diamante and Kyros struggle desperately on the Sunflower Field, each demonstrating their extreme prowess even in near defeat!"
@@ -5819,7 +5846,7 @@
     {
       "episode": 717,
       "title": "Trueno Bastardo! Kyros' Furious Strike!",
-      "title_es": null,
+      "title_es": "¡Verano Bastardo! ¡El furioso ataque de Kyros!",
       "aired": "2015-11-08T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/30/3078366a5ae54cfa2_w.webp",
       "description": "Kyros, unbowed by Diamante`s vicious attacks, fights back with the anger and retribution of all of Dressrosa in order to fulfill his promise to protect Rebecca. If he is successful, only a few executives will remain, setting the stage for the Straw Hats` victory."
@@ -5827,7 +5854,7 @@
     {
       "episode": 718,
       "title": "Moving Across the Ground! The Giant Statue Pica's Surprise Maneuver!",
-      "title_es": null,
+      "title_es": "¡Moviéndose por el suelo! ¡La maniobra sorpresa de la estatua gigante Pica!",
       "aired": "2015-11-15T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/30/308632800897b0914_w.webp",
       "description": "Pica loses his temper and turns his full wrath against King Riku, whom he hopes to destroy, ending the revolution against Doflamingo. Meanwhile, Zoro, who has been distracted by Pica and drawn far from the battle, has to hatch a plan to save the king!"
@@ -5835,7 +5862,7 @@
     {
       "episode": 719,
       "title": "A Decisive Battle in Midair! Zoro's New Special Secret Technique Blasts!",
-      "title_es": null,
+      "title_es": "¡Una batalla decisiva en el aire! ¡La nueva técnica secreta especial de Zoro explota!",
       "aired": "2015-11-22T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/30/309532684fd7d0915_w.webp",
       "description": "With the lives of King Riku, Usopp, and the others on the old King`s Plateau in the balance, Zoro must dig deep and discover a powerful technique to counter Pica`s near-unstoppable onslaught. Meanwhile, King Riku ponders what it means to be a good king."
@@ -5843,7 +5870,7 @@
     {
       "episode": 720,
       "title": "So Long! Bellamy's Farewell Blow!",
-      "title_es": null,
+      "title_es": "¡Hasta la vista! ¡El golpe de despedida de Bellamy!",
       "aired": "2015-11-29T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/31/31030081b28f4bfcb_w.webp",
       "description": "Zoro finishes off Pica, and those below his crumbling body rush to find shelter. Meanwhile, the Tontattas finish up demolishing the SMILE Factory, and Luffy`s hand is forced in his duel with Bellamy!"
@@ -9971,39 +9998,5 @@
       "description": null
     }
   ],
-  "characters": [],
-  "num_scoring_users": 35124,
-  "nsfw": "white",
-  "created_at": "2013-06-17T23:44:51+00:00",
-  "updated_at": "2025-01-24T18:13:37+00:00",
-  "source": "manga",
-  "background": "One Piece: Episode of Merry - Mou Hitori no Nakama no Monogatari presents the arcs featuring the Going Merry with new animation.",
-  "related_anime": [
-    {
-      "node": {
-        "id": 21,
-        "title": "One Piece",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1244/138851.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1244/138851l.jpg"
-        }
-      },
-      "relation_type": "full_story",
-      "relation_type_formatted": "Full story"
-    }
-  ],
-  "related_manga": [],
-  "recommendations": [],
-  "statistics": {
-    "status": {
-      "watching": "2174",
-      "completed": "68558",
-      "on_hold": "537",
-      "dropped": "652",
-      "plan_to_watch": "10125"
-    },
-    "num_list_users": 82046
-  },
-  "mal_details_updated_at": "2026-11-15T17:21:53.052Z",
-  "translations_updated_at": "2026-11-15T17:24:16.241Z"
+  "translations_updated_at": "2026-11-15T22:15:30.434Z"
 }

@@ -33,8 +33,8 @@
   "num_episodes": 14,
   "score": 8.25,
   "mean": 8.25,
-  "numListUsers": 159154,
-  "num_list_users": 159154,
+  "numListUsers": 159159,
+  "num_list_users": 159159,
   "genres": [
     {
       "id": 1,
@@ -59,15 +59,7 @@
       "name": "Nippon Animation"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1/139l.webp",
-    "https://cdn.myanimelist.net/images/anime/1228/90438l.webp",
-    "https://cdn.myanimelist.net/images/anime/1489/94666l.webp",
-    "https://cdn.myanimelist.net/images/anime/1520/122353l.webp",
-    "https://cdn.myanimelist.net/images/anime/1355/122879l.webp",
-    "https://cdn.myanimelist.net/images/anime/1415/122880l.webp",
-    "https://cdn.myanimelist.net/images/anime/1334/139187l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/575sxZXNNulSlIz7DvtWH5r4lkC.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/qDSB90QFXHQayEOgtN5kqFzbOlw.png",
   "tmdb_id": "45952",
@@ -91,6 +83,82 @@
   "rank": 395,
   "popularity": 1734,
   "rating": "pg_13",
+  "num_scoring_users": 84645,
+  "nsfw": "white",
+  "source": "manga",
+  "related_anime": [
+    {
+      "node": {
+        "id": 138,
+        "title": "Hunter x Hunter: Greed Island",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1902/122320.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1902/122320l.webp"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    },
+    {
+      "node": {
+        "id": 11061,
+        "title": "Hunter x Hunter (2011)",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1337/99013.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1337/99013l.jpg"
+        }
+      },
+      "relation_type": "alternative_version",
+      "relation_type_formatted": "Alternative version"
+    }
+  ],
+  "related_manga": [],
+  "recommendations": [
+    {
+      "node": {
+        "id": 481,
+        "title": "Yu☆Gi☆Oh! Duel Monsters",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/3/77055.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/3/77055l.webp"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 11757,
+        "title": "Sword Art Online",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/11/39717.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/11/39717l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 269,
+        "title": "Bleach",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1541/147774.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1541/147774l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "3781",
+      "completed": "130815",
+      "on_hold": "1234",
+      "dropped": "1145",
+      "plan_to_watch": "22145"
+    },
+    "num_list_users": 159120
+  },
+  "mal_details_updated_at": "2026-11-15T17:21:25.267Z",
   "simkl_id": 37720,
   "episodes_data": [
     {
@@ -207,85 +275,5 @@
     }
   ],
   "specials_data": [],
-  "characters": [],
-  "num_scoring_users": 84645,
-  "nsfw": "white",
-  "created_at": "2005-11-11T14:51:31+00:00",
-  "updated_at": "2023-01-17T04:12:48+00:00",
-  "source": "manga",
-  "background": null,
-  "related_anime": [
-    {
-      "node": {
-        "id": 138,
-        "title": "Hunter x Hunter: Greed Island",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1902/122320.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1902/122320l.webp"
-        }
-      },
-      "relation_type": "prequel",
-      "relation_type_formatted": "Prequel"
-    },
-    {
-      "node": {
-        "id": 11061,
-        "title": "Hunter x Hunter (2011)",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1337/99013.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1337/99013l.jpg"
-        }
-      },
-      "relation_type": "alternative_version",
-      "relation_type_formatted": "Alternative version"
-    }
-  ],
-  "related_manga": [],
-  "recommendations": [
-    {
-      "node": {
-        "id": 481,
-        "title": "Yu☆Gi☆Oh! Duel Monsters",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/3/77055.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/3/77055l.webp"
-        }
-      },
-      "num_recommendations": 2
-    },
-    {
-      "node": {
-        "id": 11757,
-        "title": "Sword Art Online",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/11/39717.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/11/39717l.jpg"
-        }
-      },
-      "num_recommendations": 1
-    },
-    {
-      "node": {
-        "id": 269,
-        "title": "Bleach",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1541/147774.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1541/147774l.jpg"
-        }
-      },
-      "num_recommendations": 1
-    }
-  ],
-  "statistics": {
-    "status": {
-      "watching": "3781",
-      "completed": "130815",
-      "on_hold": "1234",
-      "dropped": "1145",
-      "plan_to_watch": "22145"
-    },
-    "num_list_users": 159120
-  },
-  "mal_details_updated_at": "2026-11-15T17:21:25.267Z",
-  "translations_updated_at": "2026-11-15T17:24:08.704Z"
+  "translations_updated_at": "2026-11-15T22:15:22.357Z"
 }

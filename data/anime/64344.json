@@ -32,8 +32,8 @@
   "num_episodes": 12,
   "score": 5.38,
   "mean": 5.38,
-  "numListUsers": 4856,
-  "num_list_users": 4856,
+  "numListUsers": 4860,
+  "num_list_users": 4860,
   "genres": [
     {
       "id": 18,
@@ -50,10 +50,7 @@
       "name": "Kayac Animation"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1315/158345l.webp",
-    "https://cdn.myanimelist.net/images/anime/1496/160013l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/v4HLZ8FsBeYPjMBQZ1JFgrhkhG8.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/nBHBdJyw5tZXQW0U4KhoZkJOqrQ.png",
   "tmdb_id": "323937",
@@ -70,7 +67,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1315/158345l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1496/160013l.webp"
     }
   },
   "broadcast": {
@@ -84,6 +81,36 @@
   "rank": 13918,
   "popularity": 9886,
   "rating": "pg_13",
+  "num_scoring_users": 675,
+  "nsfw": "white",
+  "source": "original",
+  "background": "New anime part of the Good Smile Company's Gattai-shin Series (The God of Combined Series) 25th anniversary project.",
+  "related_anime": [],
+  "related_manga": [],
+  "recommendations": [
+    {
+      "node": {
+        "id": 40870,
+        "title": "SSSS.Dynazenon",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1880/113766.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1880/113766l.webp"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "1953",
+      "completed": 0,
+      "on_hold": "107",
+      "dropped": "693",
+      "plan_to_watch": "2102"
+    },
+    "num_list_users": 4855
+  },
+  "mal_details_updated_at": "2026-11-15T17:15:03.908Z",
   "simkl_id": 3140904,
   "episodes_data": [
     {
@@ -152,38 +179,5 @@
     }
   ],
   "specials_data": [],
-  "characters": [],
-  "num_scoring_users": 675,
-  "nsfw": "white",
-  "created_at": "2026-06-03T19:21:01+00:00",
-  "updated_at": "2026-10-22T18:56:50+00:00",
-  "source": "original",
-  "background": "New anime part of the Good Smile Company's Gattai-shin Series (The God of Combined Series) 25th anniversary project.",
-  "related_anime": [],
-  "related_manga": [],
-  "recommendations": [
-    {
-      "node": {
-        "id": 40870,
-        "title": "SSSS.Dynazenon",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1880/113766.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1880/113766l.webp"
-        }
-      },
-      "num_recommendations": 1
-    }
-  ],
-  "statistics": {
-    "status": {
-      "watching": "1953",
-      "completed": 0,
-      "on_hold": "107",
-      "dropped": "693",
-      "plan_to_watch": "2102"
-    },
-    "num_list_users": 4855
-  },
-  "mal_details_updated_at": "2026-11-15T17:15:03.908Z",
-  "translations_updated_at": "2026-11-15T17:25:02.096Z"
+  "translations_updated_at": "2026-11-15T22:16:12.155Z"
 }

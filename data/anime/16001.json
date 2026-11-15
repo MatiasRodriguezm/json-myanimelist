@@ -59,16 +59,11 @@
       "name": "SILVER LINK."
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/10/45526l.webp",
-    "https://cdn.myanimelist.net/images/anime/8/51865l.webp",
-    "https://cdn.myanimelist.net/images/anime/6/53659l.webp",
-    "https://cdn.myanimelist.net/images/anime/1755/98075l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T17:22:06.928Z",
+  "tmdb_updated_at": "2026-11-15T22:14:42.471Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/10/45526.webp",
@@ -88,6 +83,93 @@
   "rank": 946,
   "popularity": 1041,
   "rating": "pg_13",
+  "num_scoring_users": 178963,
+  "nsfw": "white",
+  "source": "light_novel",
+  "background": "Episodes 14 and 15 aired at a special event at Cinemart Shinjuku from November 19 to 25, 2012. Episodes 16 and 17 aired at a special event at Cinemart Shinjuku from December 10 to 16. All four episodes aired on AT-X on December 30. The first and second pairs of episodes were released on Blu-ray on March 27 and April 17, 2013. ",
+  "related_anime": [
+    {
+      "node": {
+        "id": 11887,
+        "title": "Kokoro Connect",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/2/39665.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/2/39665l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    }
+  ],
+  "related_manga": [],
+  "recommendations": [
+    {
+      "node": {
+        "id": 15379,
+        "title": "Kotoura-san",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/75585.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/10/75585l.webp"
+        }
+      },
+      "num_recommendations": 3
+    },
+    {
+      "node": {
+        "id": 228,
+        "title": "Jigoku Shoujo",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/4/86907.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/4/86907l.webp"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 4224,
+        "title": "Toradora!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/13/22128.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/13/22128l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 7311,
+        "title": "Suzumiya Haruhi no Shoushitsu",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1248/112352.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1248/112352l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 31553,
+        "title": "Charlotte: Tsuyoimono-tachi",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1709/98068.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1709/98068l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "5007",
+      "completed": "230789",
+      "on_hold": "2370",
+      "dropped": "1673",
+      "plan_to_watch": "36963"
+    },
+    "num_list_users": 276802
+  },
+  "mal_details_updated_at": "2026-11-15T17:22:06.690Z",
   "simkl_id": 38598,
   "episodes_data": [
     {
@@ -229,95 +311,5 @@
       "description": "Himeko gets kidnapped and the others must come to her rescue. Afterwards, the gang learns many things about themselves."
     }
   ],
-  "characters": [],
-  "num_scoring_users": 178963,
-  "nsfw": "white",
-  "created_at": "2012-10-18T20:11:11+00:00",
-  "updated_at": "2022-04-20T07:09:07+00:00",
-  "source": "light_novel",
-  "background": "Episodes 14 and 15 aired at a special event at Cinemart Shinjuku from November 19 to 25, 2012. Episodes 16 and 17 aired at a special event at Cinemart Shinjuku from December 10 to 16. All four episodes aired on AT-X on December 30. The first and second pairs of episodes were released on Blu-ray on March 27 and April 17, 2013. ",
-  "related_anime": [
-    {
-      "node": {
-        "id": 11887,
-        "title": "Kokoro Connect",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/2/39665.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/2/39665l.jpg"
-        }
-      },
-      "relation_type": "prequel",
-      "relation_type_formatted": "Prequel"
-    }
-  ],
-  "related_manga": [],
-  "recommendations": [
-    {
-      "node": {
-        "id": 15379,
-        "title": "Kotoura-san",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/10/75585.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/10/75585l.webp"
-        }
-      },
-      "num_recommendations": 3
-    },
-    {
-      "node": {
-        "id": 228,
-        "title": "Jigoku Shoujo",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/4/86907.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/4/86907l.webp"
-        }
-      },
-      "num_recommendations": 1
-    },
-    {
-      "node": {
-        "id": 4224,
-        "title": "Toradora!",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/13/22128.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/13/22128l.jpg"
-        }
-      },
-      "num_recommendations": 1
-    },
-    {
-      "node": {
-        "id": 7311,
-        "title": "Suzumiya Haruhi no Shoushitsu",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1248/112352.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1248/112352l.jpg"
-        }
-      },
-      "num_recommendations": 1
-    },
-    {
-      "node": {
-        "id": 31553,
-        "title": "Charlotte: Tsuyoimono-tachi",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1709/98068.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1709/98068l.jpg"
-        }
-      },
-      "num_recommendations": 1
-    }
-  ],
-  "statistics": {
-    "status": {
-      "watching": "5007",
-      "completed": "230789",
-      "on_hold": "2370",
-      "dropped": "1673",
-      "plan_to_watch": "36963"
-    },
-    "num_list_users": 276802
-  },
-  "mal_details_updated_at": "2026-11-15T17:22:06.690Z",
-  "translations_updated_at": "2026-11-15T17:24:14.164Z"
+  "translations_updated_at": "2026-11-15T22:15:29.157Z"
 }

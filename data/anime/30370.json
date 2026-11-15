@@ -34,8 +34,8 @@
   "num_episodes": 3,
   "score": 8.11,
   "mean": 8.11,
-  "numListUsers": 148395,
-  "num_list_users": 148395,
+  "numListUsers": 148396,
+  "num_list_users": 148396,
   "genres": [
     {
       "id": 2,
@@ -56,12 +56,7 @@
       "name": "Studio Pierrot"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/8/75974l.webp",
-    "https://cdn.myanimelist.net/images/anime/3/79914l.webp",
-    "https://cdn.myanimelist.net/images/anime/6/79915l.webp",
-    "https://cdn.myanimelist.net/images/anime/7/83974l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/8ysVo7GTYYtr4Xiua5pYoJ4rMGI.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/cFH0hORyqHzpFHSRzty8JqHbBuV.png",
   "tmdb_id": "61461",
@@ -85,50 +80,9 @@
   "rank": 587,
   "popularity": 1837,
   "rating": "pg_13",
-  "simkl_id": 481964,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "title": "On That Back",
-      "title_es": "En esa espalda",
-      "aired": "2015-09-18T00:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/17/175425475b8784cd4b_w.webp",
-      "description": null
-    },
-    {
-      "episode": 2,
-      "title": "The Yellow Dragon Zeno's Past, Part 1: The Starting Dragon",
-      "title_es": "El pasado de Zenón, parte 1: El dragón inicial",
-      "aired": "2016-08-19T00:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/17/17542549a31b363a68_w.webp",
-      "description": null
-    },
-    {
-      "episode": 3,
-      "title": "The Yellow Dragon Zeno's Past, Part 2: The Red Star Rises",
-      "title_es": "El pasado de Zenón, el dragón amarillo, parte 2: La estrella roja se levanta",
-      "aired": "2016-12-19T00:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/17/17542551d9d70c2a8c_w.webp",
-      "description": null
-    }
-  ],
-  "specials_data": [
-    {
-      "episode": 1,
-      "title": "Good Night for Today",
-      "title_es": "Buenas noches por hoy",
-      "aired": "2016-12-19T00:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/17/175425537ef73aae13_w.webp",
-      "description": null
-    }
-  ],
-  "characters": [],
   "num_scoring_users": 76739,
   "nsfw": "white",
-  "created_at": "2015-03-20T07:10:40+00:00",
-  "updated_at": "2026-01-20T02:19:58+00:00",
   "source": "manga",
-  "background": null,
   "related_anime": [
     {
       "node": {
@@ -190,5 +144,42 @@
     "num_list_users": 148371
   },
   "mal_details_updated_at": "2026-11-15T17:21:30.590Z",
-  "translations_updated_at": "2026-11-15T17:24:21.049Z"
+  "simkl_id": 481964,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "title": "On That Back",
+      "title_es": "En esa espalda",
+      "aired": "2015-09-18T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/175425475b8784cd4b_w.webp",
+      "description": null
+    },
+    {
+      "episode": 2,
+      "title": "The Yellow Dragon Zeno's Past, Part 1: The Starting Dragon",
+      "title_es": "El pasado de Zenón, parte 1: El dragón inicial",
+      "aired": "2016-08-19T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/17542549a31b363a68_w.webp",
+      "description": null
+    },
+    {
+      "episode": 3,
+      "title": "The Yellow Dragon Zeno's Past, Part 2: The Red Star Rises",
+      "title_es": "El pasado de Zenón, el dragón amarillo, parte 2: La estrella roja se levanta",
+      "aired": "2016-12-19T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/17542551d9d70c2a8c_w.webp",
+      "description": null
+    }
+  ],
+  "specials_data": [
+    {
+      "episode": 1,
+      "title": "Good Night for Today",
+      "title_es": "Buenas noches por hoy",
+      "aired": "2016-12-19T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/175425537ef73aae13_w.webp",
+      "description": null
+    }
+  ],
+  "translations_updated_at": "2026-11-15T22:15:35.087Z"
 }

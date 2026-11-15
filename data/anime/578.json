@@ -32,8 +32,8 @@
   "num_episodes": 1,
   "score": 8.55,
   "mean": 8.55,
-  "numListUsers": 787280,
-  "num_list_users": 787280,
+  "numListUsers": 787326,
+  "num_list_users": 787326,
   "genres": [
     {
       "id": 8,
@@ -50,15 +50,7 @@
       "name": "Studio Ghibli"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1/578l.webp",
-    "https://cdn.myanimelist.net/images/anime/11/13833l.webp",
-    "https://cdn.myanimelist.net/images/anime/7/20802l.webp",
-    "https://cdn.myanimelist.net/images/anime/10/35821l.webp",
-    "https://cdn.myanimelist.net/images/anime/6/40275l.webp",
-    "https://cdn.myanimelist.net/images/anime/4/42067l.webp",
-    "https://cdn.myanimelist.net/images/anime/1485/141208l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/aHaqZpOL7UyVu0nKqp3SMz0o2E1.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/f28Zh33GdTHEeMGQXXX77am2Su7.png",
   "tmdb_id": "12477",
@@ -75,87 +67,15 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1/578l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1485/141208l.webp"
     }
   },
   "broadcast": null,
   "rank": 141,
   "popularity": 301,
   "rating": "pg_13",
-  "simkl_id": 40605,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "title": "Complete Movie",
-      "title_es": "Película completa",
-      "aired": "1988-04-16T00:00:00+09:00",
-      "thumbnail": null,
-      "description": null
-    }
-  ],
-  "specials_data": [
-    {
-      "episode": 1,
-      "title": "Roger Ebert Review",
-      "title_es": "Revisión de Roger Ebert",
-      "aired": true,
-      "thumbnail": null,
-      "description": null
-    },
-    {
-      "episode": 2,
-      "title": "Historical Perspective",
-      "title_es": "Perspectiva histórica",
-      "aired": true,
-      "thumbnail": null,
-      "description": null
-    },
-    {
-      "episode": 3,
-      "title": "Locations, Then and Now",
-      "title_es": "Ubicaciones, antes y ahora",
-      "aired": true,
-      "thumbnail": null,
-      "description": null
-    },
-    {
-      "episode": 4,
-      "title": "Storyboards",
-      "title_es": "Guiones gráficos",
-      "aired": true,
-      "thumbnail": null,
-      "description": null
-    },
-    {
-      "episode": 5,
-      "title": "Isao Takahata Interview",
-      "title_es": "Entrevista a Isao Takahata",
-      "aired": true,
-      "thumbnail": null,
-      "description": null
-    },
-    {
-      "episode": 6,
-      "title": "Art Gallery",
-      "title_es": "Galería de arte",
-      "aired": true,
-      "thumbnail": null,
-      "description": null
-    },
-    {
-      "episode": 7,
-      "title": "DVNR Featurette",
-      "title_es": "Reportaje DVNR",
-      "aired": true,
-      "thumbnail": null,
-      "description": null
-    }
-  ],
-  "characters": [],
   "num_scoring_users": 471879,
   "nsfw": "white",
-  "created_at": "2006-01-16T19:35:39+00:00",
-  "updated_at": "2023-01-13T14:34:06+00:00",
   "source": "novel",
   "background": "Hotaru no Haka is based on the 1967 semi-autobiographical short story of the same name by Akiyuki Nosaka, which is centered on his experiences during and after the American firebombing of Kobe in 1945, and was released as a double feature with My Neighbor Totoro.\n\nThe movie has won several awards including the Japan Catholic Film Award in 1988, the Special Award in the 31st Blue Ribbon Awards in 1989, the Animation Jury and Rights of the Child Awards in the Chicago International Children's Film Festival in 1994, and the 1st Moscow International Children's and Youth's Film Festival Grand Prix in 1998.",
   "related_anime": [],
@@ -283,5 +203,74 @@
     "num_list_users": 787048
   },
   "mal_details_updated_at": "2026-11-15T17:20:16.051Z",
-  "translations_updated_at": "2026-11-15T17:23:56.071Z"
+  "simkl_id": 40605,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "title": "Complete Movie",
+      "title_es": "Película completa",
+      "aired": "1988-04-16T00:00:00+09:00",
+      "thumbnail": null,
+      "description": null
+    }
+  ],
+  "specials_data": [
+    {
+      "episode": 1,
+      "title": "Roger Ebert Review",
+      "title_es": "Revisión de Roger Ebert",
+      "aired": true,
+      "thumbnail": null,
+      "description": null
+    },
+    {
+      "episode": 2,
+      "title": "Historical Perspective",
+      "title_es": "Perspectiva histórica",
+      "aired": true,
+      "thumbnail": null,
+      "description": null
+    },
+    {
+      "episode": 3,
+      "title": "Locations, Then and Now",
+      "title_es": "Ubicaciones, antes y ahora",
+      "aired": true,
+      "thumbnail": null,
+      "description": null
+    },
+    {
+      "episode": 4,
+      "title": "Storyboards",
+      "title_es": "Guiones gráficos",
+      "aired": true,
+      "thumbnail": null,
+      "description": null
+    },
+    {
+      "episode": 5,
+      "title": "Isao Takahata Interview",
+      "title_es": "Entrevista a Isao Takahata",
+      "aired": true,
+      "thumbnail": null,
+      "description": null
+    },
+    {
+      "episode": 6,
+      "title": "Art Gallery",
+      "title_es": "Galería de arte",
+      "aired": true,
+      "thumbnail": null,
+      "description": null
+    },
+    {
+      "episode": 7,
+      "title": "DVNR Featurette",
+      "title_es": "Reportaje DVNR",
+      "aired": true,
+      "thumbnail": null,
+      "description": null
+    }
+  ],
+  "translations_updated_at": "2026-11-15T22:15:11.994Z"
 }

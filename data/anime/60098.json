@@ -32,8 +32,8 @@
   "num_episodes": 11,
   "score": 8.7,
   "mean": 8.7,
-  "numListUsers": 359946,
-  "num_list_users": 359946,
+  "numListUsers": 360004,
+  "num_list_users": 360004,
   "genres": [
     {
       "id": 1,
@@ -58,16 +58,7 @@
       "name": "Bones Film"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1766/146050l.webp",
-    "https://cdn.myanimelist.net/images/anime/1370/146328l.webp",
-    "https://cdn.myanimelist.net/images/anime/1441/148713l.webp",
-    "https://cdn.myanimelist.net/images/anime/1276/150585l.webp",
-    "https://cdn.myanimelist.net/images/anime/1959/151055l.webp",
-    "https://cdn.myanimelist.net/images/anime/1814/153616l.webp",
-    "https://cdn.myanimelist.net/images/anime/1152/154205l.webp",
-    "https://cdn.myanimelist.net/images/anime/1092/154229l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/3ILMlmC30QUnYkY3XEBOyJ82Dqu.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/ztteKox6S97uwEuEF2lsaFxaJmg.png",
   "tmdb_id": "65930",
@@ -84,7 +75,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1766/146050l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1959/151055l.webp"
     }
   },
   "broadcast": {
@@ -98,6 +89,60 @@
   "rank": 65,
   "popularity": 784,
   "rating": "pg_13",
+  "num_scoring_users": 195176,
+  "nsfw": "white",
+  "source": "manga",
+  "related_anime": [
+    {
+      "node": {
+        "id": 54789,
+        "title": "Boku no Hero Academia 7th Season",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1573/157212.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1573/157212l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    },
+    {
+      "node": {
+        "id": 63130,
+        "title": "Boku no Hero Academia: More",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1273/156615.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1273/156615l.jpg"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    }
+  ],
+  "related_manga": [],
+  "recommendations": [
+    {
+      "node": {
+        "id": 53865,
+        "title": "Yozakura-san Chi no Daisakusen",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1674/143715.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1674/143715l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "27443",
+      "completed": "251481",
+      "on_hold": "3083",
+      "dropped": "1829",
+      "plan_to_watch": "75864"
+    },
+    "num_list_users": 359700
+  },
+  "mal_details_updated_at": "2026-11-15T17:20:06.374Z",
   "simkl_id": 2607190,
   "episodes_data": [
     {
@@ -190,63 +235,5 @@
     }
   ],
   "specials_data": [],
-  "characters": [],
-  "num_scoring_users": 195176,
-  "nsfw": "white",
-  "created_at": "2024-10-12T11:22:54+00:00",
-  "updated_at": "2026-02-26T22:53:12+00:00",
-  "source": "manga",
-  "background": null,
-  "related_anime": [
-    {
-      "node": {
-        "id": 54789,
-        "title": "Boku no Hero Academia 7th Season",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1573/157212.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1573/157212l.jpg"
-        }
-      },
-      "relation_type": "prequel",
-      "relation_type_formatted": "Prequel"
-    },
-    {
-      "node": {
-        "id": 63130,
-        "title": "Boku no Hero Academia: More",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1273/156615.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1273/156615l.jpg"
-        }
-      },
-      "relation_type": "sequel",
-      "relation_type_formatted": "Sequel"
-    }
-  ],
-  "related_manga": [],
-  "recommendations": [
-    {
-      "node": {
-        "id": 53865,
-        "title": "Yozakura-san Chi no Daisakusen",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1674/143715.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1674/143715l.jpg"
-        }
-      },
-      "num_recommendations": 1
-    }
-  ],
-  "statistics": {
-    "status": {
-      "watching": "27443",
-      "completed": "251481",
-      "on_hold": "3083",
-      "dropped": "1829",
-      "plan_to_watch": "75864"
-    },
-    "num_list_users": 359700
-  },
-  "mal_details_updated_at": "2026-11-15T17:20:06.374Z",
-  "translations_updated_at": "2026-11-15T17:24:02.066Z"
+  "translations_updated_at": "2026-11-15T22:15:16.279Z"
 }

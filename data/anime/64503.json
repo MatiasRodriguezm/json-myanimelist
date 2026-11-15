@@ -30,8 +30,8 @@
   "num_episodes": null,
   "score": 7.44,
   "mean": 7.44,
-  "numListUsers": 21747,
-  "num_list_users": 21747,
+  "numListUsers": 21763,
+  "num_list_users": 21763,
   "genres": [
     {
       "id": 1,
@@ -52,10 +52,7 @@
       "name": "SILVER LINK."
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1680/159861l.webp",
-    "https://cdn.myanimelist.net/images/anime/1807/160135l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/xlMVEbNl7ZBGFyhX2WEhQ8Kifm4.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/r8mTtuEErutYLiyj7Cj9arOdNGD.png",
   "tmdb_id": "216467",
@@ -72,7 +69,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1680/159861l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1807/160135l.webp"
     }
   },
   "broadcast": {
@@ -86,6 +83,36 @@
   "rank": 2528,
   "popularity": 5508,
   "rating": "pg_13",
+  "num_scoring_users": 1412,
+  "nsfw": "white",
+  "source": "manga",
+  "related_anime": [
+    {
+      "node": {
+        "id": 60055,
+        "title": "Yozakura-san Chi no Daisakusen 2nd Season",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1230/155783.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1230/155783l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    }
+  ],
+  "related_manga": [],
+  "recommendations": [],
+  "statistics": {
+    "status": {
+      "watching": "7533",
+      "completed": "1",
+      "on_hold": "316",
+      "dropped": "162",
+      "plan_to_watch": "13735"
+    },
+    "num_list_users": 21747
+  },
+  "mal_details_updated_at": "2026-11-15T17:13:22.865Z",
   "simkl_id": 3167238,
   "episodes_data": [
     {
@@ -154,39 +181,5 @@
     }
   ],
   "specials_data": [],
-  "characters": [],
-  "num_scoring_users": 1412,
-  "nsfw": "white",
-  "created_at": "2026-06-28T10:53:36+00:00",
-  "updated_at": "2026-10-11T15:10:32+00:00",
-  "source": "manga",
-  "background": null,
-  "related_anime": [
-    {
-      "node": {
-        "id": 60055,
-        "title": "Yozakura-san Chi no Daisakusen 2nd Season",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1230/155783.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1230/155783l.jpg"
-        }
-      },
-      "relation_type": "prequel",
-      "relation_type_formatted": "Prequel"
-    }
-  ],
-  "related_manga": [],
-  "recommendations": [],
-  "statistics": {
-    "status": {
-      "watching": "7533",
-      "completed": "1",
-      "on_hold": "316",
-      "dropped": "162",
-      "plan_to_watch": "13735"
-    },
-    "num_list_users": 21747
-  },
-  "mal_details_updated_at": "2026-11-15T17:13:22.865Z",
-  "translations_updated_at": "2026-11-15T17:25:03.670Z"
+  "translations_updated_at": "2026-11-15T22:16:13.653Z"
 }

@@ -30,8 +30,8 @@
   "num_episodes": 12,
   "score": 6.6,
   "mean": 6.6,
-  "numListUsers": 14776,
-  "num_list_users": 14776,
+  "numListUsers": 14782,
+  "num_list_users": 14782,
   "genres": [
     {
       "id": 1,
@@ -64,10 +64,7 @@
       "name": "SynergySP"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1711/152746l.webp",
-    "https://cdn.myanimelist.net/images/anime/1518/160127l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/a5ibYt8Ri2w74TR99lbP2aHyFMY.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/oPcuaK02bY2Gcs6qViDHn7mB98k.png",
   "tmdb_id": "337277",
@@ -84,7 +81,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1711/152746l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1518/160127l.webp"
     }
   },
   "broadcast": {
@@ -98,6 +95,36 @@
   "rank": 7460,
   "popularity": 6355,
   "rating": "r",
+  "num_scoring_users": 919,
+  "nsfw": "white",
+  "source": "light_novel",
+  "related_anime": [
+    {
+      "node": {
+        "id": 33003,
+        "title": "Mahou Shoujo Ikusei Keikaku",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/2/81087.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/2/81087l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    }
+  ],
+  "related_manga": [],
+  "recommendations": [],
+  "statistics": {
+    "status": {
+      "watching": "3971",
+      "completed": 0,
+      "on_hold": "182",
+      "dropped": "407",
+      "plan_to_watch": "10215"
+    },
+    "num_list_users": 14775
+  },
+  "mal_details_updated_at": "2026-11-15T17:14:40.317Z",
   "simkl_id": 2086928,
   "episodes_data": [
     {
@@ -198,39 +225,5 @@
     }
   ],
   "specials_data": [],
-  "characters": [],
-  "num_scoring_users": 919,
-  "nsfw": "white",
-  "created_at": "2023-01-30T00:08:35+00:00",
-  "updated_at": "2026-11-14T20:33:04+00:00",
-  "source": "light_novel",
-  "background": null,
-  "related_anime": [
-    {
-      "node": {
-        "id": 33003,
-        "title": "Mahou Shoujo Ikusei Keikaku",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/2/81087.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/2/81087l.jpg"
-        }
-      },
-      "relation_type": "prequel",
-      "relation_type_formatted": "Prequel"
-    }
-  ],
-  "related_manga": [],
-  "recommendations": [],
-  "statistics": {
-    "status": {
-      "watching": "3971",
-      "completed": 0,
-      "on_hold": "182",
-      "dropped": "407",
-      "plan_to_watch": "10215"
-    },
-    "num_list_users": 14775
-  },
-  "mal_details_updated_at": "2026-11-15T17:14:40.317Z",
-  "translations_updated_at": "2026-11-15T17:24:27.811Z"
+  "translations_updated_at": "2026-11-15T22:15:41.308Z"
 }

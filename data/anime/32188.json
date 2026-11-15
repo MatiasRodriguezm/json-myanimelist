@@ -33,8 +33,8 @@
   "num_episodes": 1,
   "score": 8.27,
   "mean": 8.27,
-  "numListUsers": 296710,
-  "num_list_users": 296710,
+  "numListUsers": 296717,
+  "num_list_users": 296717,
   "genres": [
     {
       "id": 24,
@@ -55,15 +55,11 @@
       "name": "White Fox"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/2/77311l.webp",
-    "https://cdn.myanimelist.net/images/anime/7/77324l.webp",
-    "https://cdn.myanimelist.net/images/anime/1069/92053l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T17:21:50.473Z",
+  "tmdb_updated_at": "2026-11-15T22:14:38.381Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/7/77324.webp",
@@ -76,13 +72,56 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/2/77311l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/7/77324l.webp"
     }
   },
   "broadcast": null,
   "rank": 367,
   "popularity": 970,
   "rating": "pg_13",
+  "num_scoring_users": 165583,
+  "nsfw": "white",
+  "source": "visual_novel",
+  "background": "Steins;Gate: Kyoukaimenjou no Missing Link - Divide By Zero aired on December 3, 2015 during the rebroadcast of Steins;Gate to promote the Steins;Gate 0 visual novel, which was subsequently released on December 10, 2015. It was bundled with the Steins;Gate complete Blu-ray box set, released in Japan on February 5, 2016 and in North America on February 5, 2019 by Funimation Entertainment.\n\nThe special incorporates a majority of the Steins;Gate anime's 23rd episode, \"Open the Steins Gate,\" but features an entirely new alternative ending in its latter half.",
+  "related_anime": [
+    {
+      "node": {
+        "id": 9253,
+        "title": "Steins;Gate",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1935/127974.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1935/127974l.jpg"
+        }
+      },
+      "relation_type": "alternative_version",
+      "relation_type_formatted": "Alternative version"
+    },
+    {
+      "node": {
+        "id": 30484,
+        "title": "Steins;Gate 0",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1375/93521.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1375/93521l.jpg"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    }
+  ],
+  "related_manga": [],
+  "recommendations": [],
+  "statistics": {
+    "status": {
+      "watching": "5568",
+      "completed": "237174",
+      "on_hold": "1833",
+      "dropped": "756",
+      "plan_to_watch": "51320"
+    },
+    "num_list_users": 296651
+  },
+  "mal_details_updated_at": "2026-11-15T17:21:50.265Z",
   "simkl_id": 38960,
   "episodes_data": [
     {
@@ -304,51 +343,5 @@
       "description": "Shows a map of Akihabara in 2010 and highlights the locations of some of the places in the story."
     }
   ],
-  "characters": [],
-  "num_scoring_users": 165583,
-  "nsfw": "white",
-  "created_at": "2015-12-02T02:33:02+00:00",
-  "updated_at": "2024-09-10T02:37:31+00:00",
-  "source": "visual_novel",
-  "background": "Steins;Gate: Kyoukaimenjou no Missing Link - Divide By Zero aired on December 3, 2015 during the rebroadcast of Steins;Gate to promote the Steins;Gate 0 visual novel, which was subsequently released on December 10, 2015. It was bundled with the Steins;Gate complete Blu-ray box set, released in Japan on February 5, 2016 and in North America on February 5, 2019 by Funimation Entertainment.\n\nThe special incorporates a majority of the Steins;Gate anime's 23rd episode, \"Open the Steins Gate,\" but features an entirely new alternative ending in its latter half.",
-  "related_anime": [
-    {
-      "node": {
-        "id": 9253,
-        "title": "Steins;Gate",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1935/127974.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1935/127974l.jpg"
-        }
-      },
-      "relation_type": "alternative_version",
-      "relation_type_formatted": "Alternative version"
-    },
-    {
-      "node": {
-        "id": 30484,
-        "title": "Steins;Gate 0",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1375/93521.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1375/93521l.jpg"
-        }
-      },
-      "relation_type": "sequel",
-      "relation_type_formatted": "Sequel"
-    }
-  ],
-  "related_manga": [],
-  "recommendations": [],
-  "statistics": {
-    "status": {
-      "watching": "5568",
-      "completed": "237174",
-      "on_hold": "1833",
-      "dropped": "756",
-      "plan_to_watch": "51320"
-    },
-    "num_list_users": 296651
-  },
-  "mal_details_updated_at": "2026-11-15T17:21:50.265Z",
-  "translations_updated_at": "2026-11-15T17:24:08.019Z"
+  "translations_updated_at": "2026-11-15T22:15:21.781Z"
 }

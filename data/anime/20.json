@@ -32,8 +32,8 @@
   "num_episodes": 220,
   "score": 8.03,
   "mean": 8.03,
-  "numListUsers": 3179545,
-  "num_list_users": 3179545,
+  "numListUsers": 3179645,
+  "num_list_users": 3179645,
   "genres": [
     {
       "id": 1,
@@ -62,19 +62,7 @@
       "name": "Studio Pierrot"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1/20l.webp",
-    "https://cdn.myanimelist.net/images/anime/7/4289l.webp",
-    "https://cdn.myanimelist.net/images/anime/7/4641l.webp",
-    "https://cdn.myanimelist.net/images/anime/4/4644l.webp",
-    "https://cdn.myanimelist.net/images/anime/13/17405l.webp",
-    "https://cdn.myanimelist.net/images/anime/6/23162l.webp",
-    "https://cdn.myanimelist.net/images/anime/1359/111463l.webp",
-    "https://cdn.myanimelist.net/images/anime/1115/132764l.webp",
-    "https://cdn.myanimelist.net/images/anime/1839/134416l.webp",
-    "https://cdn.myanimelist.net/images/anime/1552/138043l.webp",
-    "https://cdn.myanimelist.net/images/anime/1141/142503l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/5F0HVEgkgP99fEWDjPyikGt9jQi.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/kaZ99sfclCKWnUgmW7AYrok03Am.png",
   "tmdb_id": "46260",
@@ -91,7 +79,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1/20l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1141/142503l.webp"
     }
   },
   "broadcast": {
@@ -105,6 +93,268 @@
   "rank": 726,
   "popularity": 9,
   "rating": "pg_13",
+  "num_scoring_users": 2180892,
+  "nsfw": "white",
+  "source": "manga",
+  "background": "Naruto received numerous awards during its airing, including the Best Full-Length Animation Program Award in the third UStv Awards and the 38th Best Animated Show in IGN's Top 100 Animated Series.\n\nThe anime was released on DVD in 16 volumes by VIZ Media from July 4, 2006, to September 22, 2009. The company rereleased it in eight volumes from October 6, 2009, to December 14, 2010. VIZ Media also made available a Blu-ray version in eight volumes from November 3, 2020, to October 18, 2022.\n\nThe series adapts the first 27 volumes of the original manga.",
+  "related_anime": [
+    {
+      "node": {
+        "id": 442,
+        "title": "Naruto Movie 1: Dai Katsugeki!! Yuki Hime Ninpouchou Dattebayo!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1231/134484.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1231/134484l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 594,
+        "title": "Naruto: Takigakure no Shitou - Ore ga Eiyuu Dattebayo!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1932/152971.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1932/152971l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 761,
+        "title": "Naruto: Akaki Yotsuba no Clover wo Sagase",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/12/11240.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/12/11240l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 936,
+        "title": "Naruto Movie 2: Dai Gekitotsu! Maboroshi no Chiteiiseki Dattebayo!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1114/134485.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1114/134485l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 1074,
+        "title": "Naruto Narutimate Hero 3: Tsuini Gekitotsu! Jounin vs. Genin!! Musabetsu Dairansen Taikai Kaisai!!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/11244.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/11244l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 1735,
+        "title": "Naruto: Shippuuden",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1565/111305.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1565/111305l.jpg"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    },
+    {
+      "node": {
+        "id": 2144,
+        "title": "Naruto Movie 3: Dai Koufun! Mikazuki-jima no Animal Panic Dattebayo!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1918/134487.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1918/134487l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 7367,
+        "title": "Naruto: The Cross Roads",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/11/27050.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/11/27050l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 53236,
+        "title": "Road of Naruto",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1731/128787.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1731/128787l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 54688,
+        "title": "Naruto x Ninkuu",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1512/160510.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1512/160510l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 59168,
+        "title": "Scenario",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1701/143771.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1701/143771l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    }
+  ],
+  "related_manga": [],
+  "recommendations": [
+    {
+      "node": {
+        "id": 34572,
+        "title": "Black Clover",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/2/88336.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/2/88336l.webp"
+        }
+      },
+      "num_recommendations": 60
+    },
+    {
+      "node": {
+        "id": 21,
+        "title": "One Piece",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1244/138851.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1244/138851l.jpg"
+        }
+      },
+      "num_recommendations": 49
+    },
+    {
+      "node": {
+        "id": 11061,
+        "title": "Hunter x Hunter (2011)",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1337/99013.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1337/99013l.jpg"
+        }
+      },
+      "num_recommendations": 47
+    },
+    {
+      "node": {
+        "id": 269,
+        "title": "Bleach",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1541/147774.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1541/147774l.jpg"
+        }
+      },
+      "num_recommendations": 33
+    },
+    {
+      "node": {
+        "id": 40748,
+        "title": "Jujutsu Kaisen",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1171/109222.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1171/109222l.jpg"
+        }
+      },
+      "num_recommendations": 32
+    },
+    {
+      "node": {
+        "id": 6702,
+        "title": "Fairy Tail",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/5/18179.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/5/18179l.webp"
+        }
+      },
+      "num_recommendations": 30
+    },
+    {
+      "node": {
+        "id": 31964,
+        "title": "Boku no Hero Academia",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/78745.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/78745l.jpg"
+        }
+      },
+      "num_recommendations": 29
+    },
+    {
+      "node": {
+        "id": 136,
+        "title": "Hunter x Hunter",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1305/132237.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1305/132237l.webp"
+        }
+      },
+      "num_recommendations": 14
+    },
+    {
+      "node": {
+        "id": 3655,
+        "title": "Nabari no Ou",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/13/79037.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/13/79037l.jpg"
+        }
+      },
+      "num_recommendations": 13
+    },
+    {
+      "node": {
+        "id": 9919,
+        "title": "Ao no Exorcist",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/75195.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/75195l.jpg"
+        }
+      },
+      "num_recommendations": 11
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "227291",
+      "completed": "2594407",
+      "on_hold": "100009",
+      "dropped": "141448",
+      "plan_to_watch": "116161"
+    },
+    "num_list_users": 3179316
+  },
+  "mal_details_updated_at": "2026-11-15T17:18:08.495Z",
   "simkl_id": 39508,
   "episodes_data": [
     {
@@ -1886,270 +2136,5 @@
       "description": null
     }
   ],
-  "characters": [],
-  "num_scoring_users": 2180892,
-  "nsfw": "white",
-  "created_at": "2005-11-11T01:19:57+00:00",
-  "updated_at": "2025-07-31T18:20:58+00:00",
-  "source": "manga",
-  "background": "Naruto received numerous awards during its airing, including the Best Full-Length Animation Program Award in the third UStv Awards and the 38th Best Animated Show in IGN's Top 100 Animated Series.\n\nThe anime was released on DVD in 16 volumes by VIZ Media from July 4, 2006, to September 22, 2009. The company rereleased it in eight volumes from October 6, 2009, to December 14, 2010. VIZ Media also made available a Blu-ray version in eight volumes from November 3, 2020, to October 18, 2022.\n\nThe series adapts the first 27 volumes of the original manga.",
-  "related_anime": [
-    {
-      "node": {
-        "id": 442,
-        "title": "Naruto Movie 1: Dai Katsugeki!! Yuki Hime Ninpouchou Dattebayo!",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1231/134484.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1231/134484l.jpg"
-        }
-      },
-      "relation_type": "side_story",
-      "relation_type_formatted": "Side story"
-    },
-    {
-      "node": {
-        "id": 594,
-        "title": "Naruto: Takigakure no Shitou - Ore ga Eiyuu Dattebayo!",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1932/152971.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1932/152971l.jpg"
-        }
-      },
-      "relation_type": "side_story",
-      "relation_type_formatted": "Side story"
-    },
-    {
-      "node": {
-        "id": 761,
-        "title": "Naruto: Akaki Yotsuba no Clover wo Sagase",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/12/11240.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/12/11240l.jpg"
-        }
-      },
-      "relation_type": "side_story",
-      "relation_type_formatted": "Side story"
-    },
-    {
-      "node": {
-        "id": 936,
-        "title": "Naruto Movie 2: Dai Gekitotsu! Maboroshi no Chiteiiseki Dattebayo!",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1114/134485.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1114/134485l.jpg"
-        }
-      },
-      "relation_type": "side_story",
-      "relation_type_formatted": "Side story"
-    },
-    {
-      "node": {
-        "id": 1074,
-        "title": "Naruto Narutimate Hero 3: Tsuini Gekitotsu! Jounin vs. Genin!! Musabetsu Dairansen Taikai Kaisai!!",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/10/11244.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/10/11244l.jpg"
-        }
-      },
-      "relation_type": "side_story",
-      "relation_type_formatted": "Side story"
-    },
-    {
-      "node": {
-        "id": 1735,
-        "title": "Naruto: Shippuuden",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1565/111305.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1565/111305l.jpg"
-        }
-      },
-      "relation_type": "sequel",
-      "relation_type_formatted": "Sequel"
-    },
-    {
-      "node": {
-        "id": 2144,
-        "title": "Naruto Movie 3: Dai Koufun! Mikazuki-jima no Animal Panic Dattebayo!",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1918/134487.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1918/134487l.jpg"
-        }
-      },
-      "relation_type": "side_story",
-      "relation_type_formatted": "Side story"
-    },
-    {
-      "node": {
-        "id": 7367,
-        "title": "Naruto: The Cross Roads",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/11/27050.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/11/27050l.jpg"
-        }
-      },
-      "relation_type": "side_story",
-      "relation_type_formatted": "Side story"
-    },
-    {
-      "node": {
-        "id": 53236,
-        "title": "Road of Naruto",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1731/128787.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1731/128787l.jpg"
-        }
-      },
-      "relation_type": "other",
-      "relation_type_formatted": "Other"
-    },
-    {
-      "node": {
-        "id": 54688,
-        "title": "Naruto x Ninkuu",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1512/160510.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1512/160510l.jpg"
-        }
-      },
-      "relation_type": "other",
-      "relation_type_formatted": "Other"
-    },
-    {
-      "node": {
-        "id": 59168,
-        "title": "Scenario",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1701/143771.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1701/143771l.jpg"
-        }
-      },
-      "relation_type": "other",
-      "relation_type_formatted": "Other"
-    }
-  ],
-  "related_manga": [],
-  "recommendations": [
-    {
-      "node": {
-        "id": 34572,
-        "title": "Black Clover",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/2/88336.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/2/88336l.webp"
-        }
-      },
-      "num_recommendations": 60
-    },
-    {
-      "node": {
-        "id": 21,
-        "title": "One Piece",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1244/138851.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1244/138851l.jpg"
-        }
-      },
-      "num_recommendations": 49
-    },
-    {
-      "node": {
-        "id": 11061,
-        "title": "Hunter x Hunter (2011)",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1337/99013.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1337/99013l.jpg"
-        }
-      },
-      "num_recommendations": 47
-    },
-    {
-      "node": {
-        "id": 269,
-        "title": "Bleach",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1541/147774.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1541/147774l.jpg"
-        }
-      },
-      "num_recommendations": 33
-    },
-    {
-      "node": {
-        "id": 40748,
-        "title": "Jujutsu Kaisen",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1171/109222.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1171/109222l.jpg"
-        }
-      },
-      "num_recommendations": 32
-    },
-    {
-      "node": {
-        "id": 6702,
-        "title": "Fairy Tail",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/5/18179.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/5/18179l.webp"
-        }
-      },
-      "num_recommendations": 30
-    },
-    {
-      "node": {
-        "id": 31964,
-        "title": "Boku no Hero Academia",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/10/78745.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/10/78745l.jpg"
-        }
-      },
-      "num_recommendations": 29
-    },
-    {
-      "node": {
-        "id": 136,
-        "title": "Hunter x Hunter",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1305/132237.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1305/132237l.webp"
-        }
-      },
-      "num_recommendations": 14
-    },
-    {
-      "node": {
-        "id": 3655,
-        "title": "Nabari no Ou",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/13/79037.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/13/79037l.jpg"
-        }
-      },
-      "num_recommendations": 13
-    },
-    {
-      "node": {
-        "id": 9919,
-        "title": "Ao no Exorcist",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/10/75195.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/10/75195l.jpg"
-        }
-      },
-      "num_recommendations": 11
-    }
-  ],
-  "statistics": {
-    "status": {
-      "watching": "227291",
-      "completed": "2594407",
-      "on_hold": "100009",
-      "dropped": "141448",
-      "plan_to_watch": "116161"
-    },
-    "num_list_users": 3179316
-  },
-  "mal_details_updated_at": "2026-11-15T17:18:08.495Z",
-  "translations_updated_at": "2026-11-15T17:23:30.200Z"
+  "translations_updated_at": "2026-11-15T22:15:04.079Z"
 }

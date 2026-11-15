@@ -33,8 +33,8 @@
   "num_episodes": 24,
   "score": 8.48,
   "mean": 8.48,
-  "numListUsers": 3139052,
-  "num_list_users": 3139052,
+  "numListUsers": 3139189,
+  "num_list_users": 3139189,
   "genres": [
     {
       "id": 1,
@@ -63,16 +63,7 @@
       "name": "MAPPA"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1909/104931l.webp",
-    "https://cdn.myanimelist.net/images/anime/1046/107701l.webp",
-    "https://cdn.myanimelist.net/images/anime/1171/109222l.webp",
-    "https://cdn.myanimelist.net/images/anime/1937/111424l.webp",
-    "https://cdn.myanimelist.net/images/anime/1132/128063l.webp",
-    "https://cdn.myanimelist.net/images/anime/1610/128064l.webp",
-    "https://cdn.myanimelist.net/images/anime/1844/128065l.webp",
-    "https://cdn.myanimelist.net/images/anime/1568/128066l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/3US5UXJSStOVozc6EwhGSMDguol.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/tEmqJ1k4MdjuaKaetn8wGyZGcyC.png",
   "tmdb_id": "95479",
@@ -89,7 +80,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1909/104931l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1171/109222l.webp"
     }
   },
   "broadcast": {
@@ -103,6 +94,208 @@
   "rank": 177,
   "popularity": 10,
   "rating": "r",
+  "num_scoring_users": 2069648,
+  "nsfw": "white",
+  "source": "manga",
+  "background": "Winner of the Anime of the Year (TV Series) at the 2022 Tokyo Anime Award Festival (TAAF).",
+  "related_anime": [
+    {
+      "node": {
+        "id": 38777,
+        "title": "Jujutsu Kaisen Official PVs",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1792/96959.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1792/96959l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 48561,
+        "title": "Jujutsu Kaisen 0 Movie",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1121/119044.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1121/119044l.webp"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    },
+    {
+      "node": {
+        "id": 51009,
+        "title": "Jujutsu Kaisen 2nd Season",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1792/138022.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1792/138022l.jpg"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    },
+    {
+      "node": {
+        "id": 52558,
+        "title": "Vivid Vice",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1067/126222.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1067/126222l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 56243,
+        "title": "Jujutsu Kaisen 2nd Season Recaps",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1190/137716.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1190/137716l.jpg"
+        }
+      },
+      "relation_type": "summary",
+      "relation_type_formatted": "Summary"
+    },
+    {
+      "node": {
+        "id": 64080,
+        "title": "Jujutsu Kaisen Modulo Saishuu Sankan Hatsubai Kinen Special PV",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1305/157150.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1305/157150l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    }
+  ],
+  "related_manga": [],
+  "recommendations": [
+    {
+      "node": {
+        "id": 38000,
+        "title": "Kimetsu no Yaiba",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1286/99889.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1286/99889l.jpg"
+        }
+      },
+      "num_recommendations": 76
+    },
+    {
+      "node": {
+        "id": 44511,
+        "title": "Chainsaw Man",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1806/126216.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1806/126216l.jpg"
+        }
+      },
+      "num_recommendations": 52
+    },
+    {
+      "node": {
+        "id": 269,
+        "title": "Bleach",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1541/147774.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1541/147774l.jpg"
+        }
+      },
+      "num_recommendations": 44
+    },
+    {
+      "node": {
+        "id": 20,
+        "title": "Naruto",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1141/142503.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1141/142503l.jpg"
+        }
+      },
+      "num_recommendations": 32
+    },
+    {
+      "node": {
+        "id": 20507,
+        "title": "Noragami",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1886/128266.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1886/128266l.webp"
+        }
+      },
+      "num_recommendations": 17
+    },
+    {
+      "node": {
+        "id": 11061,
+        "title": "Hunter x Hunter (2011)",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1337/99013.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1337/99013l.jpg"
+        }
+      },
+      "num_recommendations": 15
+    },
+    {
+      "node": {
+        "id": 1735,
+        "title": "Naruto: Shippuuden",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1565/111305.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1565/111305l.jpg"
+        }
+      },
+      "num_recommendations": 14
+    },
+    {
+      "node": {
+        "id": 9919,
+        "title": "Ao no Exorcist",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/75195.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/75195l.jpg"
+        }
+      },
+      "num_recommendations": 13
+    },
+    {
+      "node": {
+        "id": 31964,
+        "title": "Boku no Hero Academia",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/78745.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/78745l.jpg"
+        }
+      },
+      "num_recommendations": 12
+    },
+    {
+      "node": {
+        "id": 32182,
+        "title": "Mob Psycho 100",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/8/80356.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/8/80356l.jpg"
+        }
+      },
+      "num_recommendations": 9
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "369159",
+      "completed": "2468913",
+      "on_hold": "51522",
+      "dropped": "38438",
+      "plan_to_watch": "210639"
+    },
+    "num_list_users": 3138671
+  },
+  "mal_details_updated_at": "2026-11-15T17:18:08.857Z",
   "simkl_id": 1211265,
   "episodes_data": [
     {
@@ -476,210 +669,5 @@
       "description": null
     }
   ],
-  "characters": [],
-  "num_scoring_users": 2069648,
-  "nsfw": "white",
-  "created_at": "2019-11-20T09:38:26+00:00",
-  "updated_at": "2024-10-02T16:16:51+00:00",
-  "source": "manga",
-  "background": "Winner of the Anime of the Year (TV Series) at the 2022 Tokyo Anime Award Festival (TAAF).",
-  "related_anime": [
-    {
-      "node": {
-        "id": 38777,
-        "title": "Jujutsu Kaisen Official PVs",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1792/96959.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1792/96959l.jpg"
-        }
-      },
-      "relation_type": "other",
-      "relation_type_formatted": "Other"
-    },
-    {
-      "node": {
-        "id": 48561,
-        "title": "Jujutsu Kaisen 0 Movie",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1121/119044.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1121/119044l.webp"
-        }
-      },
-      "relation_type": "prequel",
-      "relation_type_formatted": "Prequel"
-    },
-    {
-      "node": {
-        "id": 51009,
-        "title": "Jujutsu Kaisen 2nd Season",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1792/138022.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1792/138022l.jpg"
-        }
-      },
-      "relation_type": "sequel",
-      "relation_type_formatted": "Sequel"
-    },
-    {
-      "node": {
-        "id": 52558,
-        "title": "Vivid Vice",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1067/126222.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1067/126222l.jpg"
-        }
-      },
-      "relation_type": "other",
-      "relation_type_formatted": "Other"
-    },
-    {
-      "node": {
-        "id": 56243,
-        "title": "Jujutsu Kaisen 2nd Season Recaps",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1190/137716.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1190/137716l.jpg"
-        }
-      },
-      "relation_type": "summary",
-      "relation_type_formatted": "Summary"
-    },
-    {
-      "node": {
-        "id": 64080,
-        "title": "Jujutsu Kaisen Modulo Saishuu Sankan Hatsubai Kinen Special PV",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1305/157150.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1305/157150l.jpg"
-        }
-      },
-      "relation_type": "other",
-      "relation_type_formatted": "Other"
-    }
-  ],
-  "related_manga": [],
-  "recommendations": [
-    {
-      "node": {
-        "id": 38000,
-        "title": "Kimetsu no Yaiba",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1286/99889.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1286/99889l.jpg"
-        }
-      },
-      "num_recommendations": 76
-    },
-    {
-      "node": {
-        "id": 44511,
-        "title": "Chainsaw Man",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1806/126216.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1806/126216l.jpg"
-        }
-      },
-      "num_recommendations": 52
-    },
-    {
-      "node": {
-        "id": 269,
-        "title": "Bleach",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1541/147774.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1541/147774l.jpg"
-        }
-      },
-      "num_recommendations": 44
-    },
-    {
-      "node": {
-        "id": 20,
-        "title": "Naruto",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1141/142503.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1141/142503l.jpg"
-        }
-      },
-      "num_recommendations": 32
-    },
-    {
-      "node": {
-        "id": 20507,
-        "title": "Noragami",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1886/128266.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1886/128266l.webp"
-        }
-      },
-      "num_recommendations": 17
-    },
-    {
-      "node": {
-        "id": 11061,
-        "title": "Hunter x Hunter (2011)",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1337/99013.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1337/99013l.jpg"
-        }
-      },
-      "num_recommendations": 15
-    },
-    {
-      "node": {
-        "id": 1735,
-        "title": "Naruto: Shippuuden",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1565/111305.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1565/111305l.jpg"
-        }
-      },
-      "num_recommendations": 14
-    },
-    {
-      "node": {
-        "id": 9919,
-        "title": "Ao no Exorcist",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/10/75195.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/10/75195l.jpg"
-        }
-      },
-      "num_recommendations": 13
-    },
-    {
-      "node": {
-        "id": 31964,
-        "title": "Boku no Hero Academia",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/10/78745.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/10/78745l.jpg"
-        }
-      },
-      "num_recommendations": 12
-    },
-    {
-      "node": {
-        "id": 32182,
-        "title": "Mob Psycho 100",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/8/80356.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/8/80356l.jpg"
-        }
-      },
-      "num_recommendations": 9
-    }
-  ],
-  "statistics": {
-    "status": {
-      "watching": "369159",
-      "completed": "2468913",
-      "on_hold": "51522",
-      "dropped": "38438",
-      "plan_to_watch": "210639"
-    },
-    "num_list_users": 3138671
-  },
-  "mal_details_updated_at": "2026-11-15T17:18:08.857Z",
-  "translations_updated_at": "2026-11-15T17:23:30.300Z"
+  "translations_updated_at": "2026-11-15T22:15:04.177Z"
 }

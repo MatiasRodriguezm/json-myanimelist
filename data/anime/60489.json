@@ -30,8 +30,8 @@
   "num_episodes": 6,
   "score": 8.73,
   "mean": 8.73,
-  "numListUsers": 366033,
-  "num_list_users": 366033,
+  "numListUsers": 366086,
+  "num_list_users": 366086,
   "genres": [
     {
       "id": 8,
@@ -60,10 +60,7 @@
       "name": "Enishiya"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1444/146894l.webp",
-    "https://cdn.myanimelist.net/images/anime/1182/149879l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/6omimfVty4JD3LXzI5LHEGhXjwn.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/kpTUGoRI2PotlIYO6FZtuH4YWXh.png",
   "tmdb_id": "284445",
@@ -80,72 +77,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1444/146894l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1182/149879l.webp"
     }
   },
   "broadcast": null,
   "rank": 54,
   "popularity": 774,
   "rating": "r",
-  "simkl_id": 2656626,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "title": "To You in 2016",
-      "title_es": "Para ti en 2016",
-      "aired": "2025-06-28T00:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/18/18097277d60a3ac13b_w.webp",
-      "description": "Shizuka lives a painful life until things start to take a sudden turn when she meets an alien named Takopi."
-    },
-    {
-      "episode": 2,
-      "title": "Takopi's Salvation",
-      "title_es": "La salvación de Takopi",
-      "aired": "2025-07-05T00:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/18/18148473dcafbbead6_w.webp",
-      "description": "Takopi makes various attempts to help Shizuka, but things don`t seem to work in his favor."
-    },
-    {
-      "episode": 3,
-      "title": "Takopi's Confession",
-      "title_es": "La confesión de Takopi",
-      "aired": "2025-07-12T00:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/18/1817117340c49bb511_w.webp",
-      "description": "Takopi realizes something important while covering up the crime with Shizuka and Naoki."
-    },
-    {
-      "episode": 4,
-      "title": "Azuma-kun's Salvation",
-      "title_es": "La salvación de Azuma-kun",
-      "aired": "2025-07-19T00:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/18/182133118f9d6d732a_w.webp",
-      "description": "Naoki struggles between his conscience and his desire to help Shizuka."
-    },
-    {
-      "episode": 5,
-      "title": "To You in 2022",
-      "title_es": "Para ti en 2022",
-      "aired": "2025-07-26T00:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/18/182522158c55c6c52a_w.webp",
-      "description": "Shizuka goes to Tokyo, and Takopi remembers something very important that happened in the past."
-    },
-    {
-      "episode": 6,
-      "title": "To All of You in 2016",
-      "title_es": "A todos ustedes en 2016",
-      "aired": "2025-08-02T00:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/18/182898273d845790a2_w.webp",
-      "description": "Takopi makes an important decision that will save not only Shizuka but also Marina and Naoki."
-    }
-  ],
-  "specials_data": [],
-  "characters": [],
   "num_scoring_users": 204927,
   "nsfw": "white",
-  "created_at": "2024-12-09T15:15:32+00:00",
-  "updated_at": "2026-07-31T13:22:57+00:00",
   "source": "manga",
-  "background": null,
   "related_anime": [
     {
       "node": {
@@ -284,5 +225,57 @@
     "num_list_users": 365597
   },
   "mal_details_updated_at": "2026-11-15T17:21:40.884Z",
-  "translations_updated_at": "2026-11-15T17:24:01.329Z"
+  "simkl_id": 2656626,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "title": "To You in 2016",
+      "title_es": "Para ti en 2016",
+      "aired": "2025-06-28T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/18/18097277d60a3ac13b_w.webp",
+      "description": "Shizuka lives a painful life until things start to take a sudden turn when she meets an alien named Takopi."
+    },
+    {
+      "episode": 2,
+      "title": "Takopi's Salvation",
+      "title_es": "La salvación de Takopi",
+      "aired": "2025-07-05T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/18/18148473dcafbbead6_w.webp",
+      "description": "Takopi makes various attempts to help Shizuka, but things don`t seem to work in his favor."
+    },
+    {
+      "episode": 3,
+      "title": "Takopi's Confession",
+      "title_es": "La confesión de Takopi",
+      "aired": "2025-07-12T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/18/1817117340c49bb511_w.webp",
+      "description": "Takopi realizes something important while covering up the crime with Shizuka and Naoki."
+    },
+    {
+      "episode": 4,
+      "title": "Azuma-kun's Salvation",
+      "title_es": "La salvación de Azuma-kun",
+      "aired": "2025-07-19T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/18/182133118f9d6d732a_w.webp",
+      "description": "Naoki struggles between his conscience and his desire to help Shizuka."
+    },
+    {
+      "episode": 5,
+      "title": "To You in 2022",
+      "title_es": "Para ti en 2022",
+      "aired": "2025-07-26T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/18/182522158c55c6c52a_w.webp",
+      "description": "Shizuka goes to Tokyo, and Takopi remembers something very important that happened in the past."
+    },
+    {
+      "episode": 6,
+      "title": "To All of You in 2016",
+      "title_es": "A todos ustedes en 2016",
+      "aired": "2025-08-02T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/18/182898273d845790a2_w.webp",
+      "description": "Takopi makes an important decision that will save not only Shizuka but also Marina and Naoki."
+    }
+  ],
+  "specials_data": [],
+  "translations_updated_at": "2026-11-15T22:15:15.606Z"
 }

@@ -50,9 +50,7 @@
       "name": "Fanworks"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1974/159260l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/48UTYa2IarFeN3u16XpLtSBiQSw.jpg",
   "logo_url": null,
   "tmdb_id": "337456",
@@ -83,6 +81,23 @@
   "rank": 22811,
   "popularity": 20526,
   "rating": "g",
+  "num_scoring_users": 44,
+  "nsfw": "white",
+  "source": "web_manga",
+  "related_anime": [],
+  "related_manga": [],
+  "recommendations": [],
+  "statistics": {
+    "status": {
+      "watching": "117",
+      "completed": 0,
+      "on_hold": "10",
+      "dropped": "87",
+      "plan_to_watch": "182"
+    },
+    "num_list_users": 396
+  },
+  "mal_details_updated_at": "2026-11-15T17:15:35.686Z",
   "simkl_id": 3297136,
   "episodes_data": [
     {
@@ -183,26 +198,5 @@
     }
   ],
   "specials_data": [],
-  "characters": [],
-  "num_scoring_users": 44,
-  "nsfw": "white",
-  "created_at": "2026-07-31T15:51:57+00:00",
-  "updated_at": "2026-09-12T09:06:38+00:00",
-  "source": "web_manga",
-  "background": null,
-  "related_anime": [],
-  "related_manga": [],
-  "recommendations": [],
-  "statistics": {
-    "status": {
-      "watching": "117",
-      "completed": 0,
-      "on_hold": "10",
-      "dropped": "87",
-      "plan_to_watch": "182"
-    },
-    "num_list_users": 396
-  },
-  "mal_details_updated_at": "2026-11-15T17:15:35.686Z",
-  "translations_updated_at": "2026-11-15T17:25:05.538Z"
+  "translations_updated_at": "2026-11-15T22:16:15.493Z"
 }

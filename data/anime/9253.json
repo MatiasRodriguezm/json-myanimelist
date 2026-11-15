@@ -30,8 +30,8 @@
   "num_episodes": 24,
   "score": 9.07,
   "mean": 9.07,
-  "numListUsers": 2867387,
-  "num_list_users": 2867387,
+  "numListUsers": 2867470,
+  "num_list_users": 2867470,
   "genres": [
     {
       "id": 50,
@@ -64,15 +64,7 @@
       "name": "White Fox"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/10/32023l.webp",
-    "https://cdn.myanimelist.net/images/anime/8/35137l.webp",
-    "https://cdn.myanimelist.net/images/anime/3/36433l.webp",
-    "https://cdn.myanimelist.net/images/anime/1167/96846l.webp",
-    "https://cdn.myanimelist.net/images/anime/1935/127974l.webp",
-    "https://cdn.myanimelist.net/images/anime/1491/143199l.webp",
-    "https://cdn.myanimelist.net/images/anime/1457/145286l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/gDvxT2z6TNxervG97WfpePRZ3aR.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/7GEZnpbAgtPr7MeZ04i7HtiLvl3.png",
   "tmdb_id": "42509",
@@ -89,7 +81,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/10/32023l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1935/127974l.webp"
     }
   },
   "broadcast": {
@@ -103,6 +95,220 @@
   "rank": 3,
   "popularity": 14,
   "rating": "pg_13",
+  "num_scoring_users": 1547991,
+  "nsfw": "white",
+  "source": "visual_novel",
+  "background": "Steins;Gate is based on 5pb. and Nitroplus' visual novel of the same title released in 2009. It serves as the second entry in the Science Adventure series.",
+  "related_anime": [
+    {
+      "node": {
+        "id": 4975,
+        "title": "ChäoS;HEAd",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/13/15443.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/13/15443l.jpg"
+        }
+      },
+      "relation_type": "alternative_setting",
+      "relation_type_formatted": "Alternative setting"
+    },
+    {
+      "node": {
+        "id": 10863,
+        "title": "Steins;Gate: Oukoubakko no Poriomania",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1805/123188.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1805/123188l.jpg"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    },
+    {
+      "node": {
+        "id": 13599,
+        "title": "Robotics;Notes",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/42013.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/10/42013l.webp"
+        }
+      },
+      "relation_type": "alternative_setting",
+      "relation_type_formatted": "Alternative setting"
+    },
+    {
+      "node": {
+        "id": 27957,
+        "title": "Steins;Gate: Soumei Eichi no Cognitive Computing",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/71319.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/71319l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 30485,
+        "title": "ChäoS;Child",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1310/90137.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1310/90137l.jpg"
+        }
+      },
+      "relation_type": "alternative_setting",
+      "relation_type_formatted": "Alternative setting"
+    },
+    {
+      "node": {
+        "id": 32188,
+        "title": "Steins;Gate: Kyoukaimenjou no Missing Link - Divide By Zero",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/7/77324.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/7/77324l.jpg"
+        }
+      },
+      "relation_type": "alternative_version",
+      "relation_type_formatted": "Alternative version"
+    },
+    {
+      "node": {
+        "id": 32962,
+        "title": "Occultic;Nine",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1050/149751.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1050/149751l.webp"
+        }
+      },
+      "relation_type": "alternative_setting",
+      "relation_type_formatted": "Alternative setting"
+    }
+  ],
+  "related_manga": [],
+  "recommendations": [
+    {
+      "node": {
+        "id": 31240,
+        "title": "Re:Zero kara Hajimeru Isekai Seikatsu",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1522/128039.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1522/128039l.jpg"
+        }
+      },
+      "num_recommendations": 139
+    },
+    {
+      "node": {
+        "id": 31043,
+        "title": "Boku dake ga Inai Machi",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/77957.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/77957l.jpg"
+        }
+      },
+      "num_recommendations": 136
+    },
+    {
+      "node": {
+        "id": 9756,
+        "title": "Mahou Shoujo Madoka☆Magica",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/11/55225.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/11/55225l.webp"
+        }
+      },
+      "num_recommendations": 55
+    },
+    {
+      "node": {
+        "id": 10620,
+        "title": "Mirai Nikki (TV)",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/13/33465.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/13/33465l.jpg"
+        }
+      },
+      "num_recommendations": 27
+    },
+    {
+      "node": {
+        "id": 44074,
+        "title": "Shiguang Dailiren",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1135/114867.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1135/114867l.webp"
+        }
+      },
+      "num_recommendations": 25
+    },
+    {
+      "node": {
+        "id": 2236,
+        "title": "Toki wo Kakeru Shoujo",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1/2432.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1/2432l.jpg"
+        }
+      },
+      "num_recommendations": 22
+    },
+    {
+      "node": {
+        "id": 47194,
+        "title": "Summertime Render",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1120/120796.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1120/120796l.webp"
+        }
+      },
+      "num_recommendations": 20
+    },
+    {
+      "node": {
+        "id": 1210,
+        "title": "NHK ni Youkoso!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/3/52675.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/3/52675l.jpg"
+        }
+      },
+      "num_recommendations": 19
+    },
+    {
+      "node": {
+        "id": 1535,
+        "title": "Death Note",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1079/138100.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1079/138100l.webp"
+        }
+      },
+      "num_recommendations": 15
+    },
+    {
+      "node": {
+        "id": 46095,
+        "title": "Vivy: Fluorite Eye's Song",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1551/128960.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1551/128960l.webp"
+        }
+      },
+      "num_recommendations": 14
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "189768",
+      "completed": "1795262",
+      "on_hold": "96834",
+      "dropped": "63231",
+      "plan_to_watch": "721505"
+    },
+    "num_list_users": 2866600
+  },
+  "mal_details_updated_at": "2026-11-15T17:12:57.018Z",
   "simkl_id": 38960,
   "episodes_data": [
     {
@@ -324,222 +530,5 @@
       "description": "Shows a map of Akihabara in 2010 and highlights the locations of some of the places in the story."
     }
   ],
-  "characters": [],
-  "num_scoring_users": 1547991,
-  "nsfw": "white",
-  "created_at": "2010-07-26T09:23:40+00:00",
-  "updated_at": "2026-11-13T02:45:21+00:00",
-  "source": "visual_novel",
-  "background": "Steins;Gate is based on 5pb. and Nitroplus' visual novel of the same title released in 2009. It serves as the second entry in the Science Adventure series.",
-  "related_anime": [
-    {
-      "node": {
-        "id": 4975,
-        "title": "ChäoS;HEAd",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/13/15443.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/13/15443l.jpg"
-        }
-      },
-      "relation_type": "alternative_setting",
-      "relation_type_formatted": "Alternative setting"
-    },
-    {
-      "node": {
-        "id": 10863,
-        "title": "Steins;Gate: Oukoubakko no Poriomania",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1805/123188.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1805/123188l.jpg"
-        }
-      },
-      "relation_type": "sequel",
-      "relation_type_formatted": "Sequel"
-    },
-    {
-      "node": {
-        "id": 13599,
-        "title": "Robotics;Notes",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/10/42013.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/10/42013l.webp"
-        }
-      },
-      "relation_type": "alternative_setting",
-      "relation_type_formatted": "Alternative setting"
-    },
-    {
-      "node": {
-        "id": 27957,
-        "title": "Steins;Gate: Soumei Eichi no Cognitive Computing",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/10/71319.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/10/71319l.jpg"
-        }
-      },
-      "relation_type": "other",
-      "relation_type_formatted": "Other"
-    },
-    {
-      "node": {
-        "id": 30485,
-        "title": "ChäoS;Child",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1310/90137.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1310/90137l.jpg"
-        }
-      },
-      "relation_type": "alternative_setting",
-      "relation_type_formatted": "Alternative setting"
-    },
-    {
-      "node": {
-        "id": 32188,
-        "title": "Steins;Gate: Kyoukaimenjou no Missing Link - Divide By Zero",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/7/77324.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/7/77324l.jpg"
-        }
-      },
-      "relation_type": "alternative_version",
-      "relation_type_formatted": "Alternative version"
-    },
-    {
-      "node": {
-        "id": 32962,
-        "title": "Occultic;Nine",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1050/149751.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1050/149751l.webp"
-        }
-      },
-      "relation_type": "alternative_setting",
-      "relation_type_formatted": "Alternative setting"
-    }
-  ],
-  "related_manga": [],
-  "recommendations": [
-    {
-      "node": {
-        "id": 31240,
-        "title": "Re:Zero kara Hajimeru Isekai Seikatsu",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1522/128039.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1522/128039l.jpg"
-        }
-      },
-      "num_recommendations": 139
-    },
-    {
-      "node": {
-        "id": 31043,
-        "title": "Boku dake ga Inai Machi",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/10/77957.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/10/77957l.jpg"
-        }
-      },
-      "num_recommendations": 136
-    },
-    {
-      "node": {
-        "id": 9756,
-        "title": "Mahou Shoujo Madoka☆Magica",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/11/55225.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/11/55225l.webp"
-        }
-      },
-      "num_recommendations": 55
-    },
-    {
-      "node": {
-        "id": 10620,
-        "title": "Mirai Nikki (TV)",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/13/33465.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/13/33465l.jpg"
-        }
-      },
-      "num_recommendations": 27
-    },
-    {
-      "node": {
-        "id": 44074,
-        "title": "Shiguang Dailiren",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1135/114867.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1135/114867l.webp"
-        }
-      },
-      "num_recommendations": 25
-    },
-    {
-      "node": {
-        "id": 2236,
-        "title": "Toki wo Kakeru Shoujo",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1/2432.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1/2432l.jpg"
-        }
-      },
-      "num_recommendations": 22
-    },
-    {
-      "node": {
-        "id": 47194,
-        "title": "Summertime Render",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1120/120796.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1120/120796l.webp"
-        }
-      },
-      "num_recommendations": 20
-    },
-    {
-      "node": {
-        "id": 1210,
-        "title": "NHK ni Youkoso!",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/3/52675.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/3/52675l.jpg"
-        }
-      },
-      "num_recommendations": 19
-    },
-    {
-      "node": {
-        "id": 1535,
-        "title": "Death Note",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1079/138100.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1079/138100l.webp"
-        }
-      },
-      "num_recommendations": 15
-    },
-    {
-      "node": {
-        "id": 46095,
-        "title": "Vivy: Fluorite Eye's Song",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1551/128960.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1551/128960l.webp"
-        }
-      },
-      "num_recommendations": 14
-    }
-  ],
-  "statistics": {
-    "status": {
-      "watching": "189768",
-      "completed": "1795262",
-      "on_hold": "96834",
-      "dropped": "63231",
-      "plan_to_watch": "721505"
-    },
-    "num_list_users": 2866600
-  },
-  "mal_details_updated_at": "2026-11-15T17:12:57.018Z",
-  "translations_updated_at": "2026-11-15T17:23:32.965Z"
+  "translations_updated_at": "2026-11-15T22:15:04.563Z"
 }

@@ -30,8 +30,8 @@
   "num_episodes": 6,
   "score": 8.03,
   "mean": 8.03,
-  "numListUsers": 72562,
-  "num_list_users": 72562,
+  "numListUsers": 72564,
+  "num_list_users": 72564,
   "genres": [
     {
       "id": 8,
@@ -60,19 +60,7 @@
       "name": "Sunrise"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1/82l.webp",
-    "https://cdn.myanimelist.net/images/anime/8/11021l.webp",
-    "https://cdn.myanimelist.net/images/anime/12/12477l.webp",
-    "https://cdn.myanimelist.net/images/anime/5/72881l.webp",
-    "https://cdn.myanimelist.net/images/anime/1839/92857l.webp",
-    "https://cdn.myanimelist.net/images/anime/1166/94378l.webp",
-    "https://cdn.myanimelist.net/images/anime/1088/96223l.webp",
-    "https://cdn.myanimelist.net/images/anime/1010/96224l.webp",
-    "https://cdn.myanimelist.net/images/anime/1518/97601l.webp",
-    "https://cdn.myanimelist.net/images/anime/1822/127519l.webp",
-    "https://cdn.myanimelist.net/images/anime/1552/147570l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/21fk0W388vXQ4TpQ2iZgGzXqwru.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/xIUu0SZZpO6r1tAUaGWWjt9f5ll.png",
   "tmdb_id": "46512",
@@ -89,79 +77,15 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1/82l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1839/92857l.webp"
     }
   },
   "broadcast": null,
   "rank": 720,
   "popularity": 3014,
   "rating": "pg_13",
-  "simkl_id": 40436,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "title": "How Many Miles To The Battlefield",
-      "title_es": "¿Cuántas millas hasta el campo de batalla",
-      "aired": "1989-03-25T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/38/389470a24d767a21_w.webp",
-      "description": null
-    },
-    {
-      "episode": 2,
-      "title": "Reflections In A Brown Eye",
-      "title_es": "Reflejos en un ojo marrón",
-      "aired": "1989-04-25T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/38/389472f01072c01a_w.webp",
-      "description": null
-    },
-    {
-      "episode": 3,
-      "title": "And At The End Of The Rainbow",
-      "title_es": "Y al final del arcoiris",
-      "aired": "1989-05-25T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/38/389474996964fe50_w.webp",
-      "description": null
-    },
-    {
-      "episode": 4,
-      "title": "Over The River And Through The Woods",
-      "title_es": "Sobre el río y a través del bosque",
-      "aired": "1989-06-25T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/38/38947655ec7a1436_w.webp",
-      "description": null
-    },
-    {
-      "episode": 5,
-      "title": "Say It Ain't So, Bernie",
-      "title_es": "Di que no es así, Bernie",
-      "aired": "1989-07-25T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/38/3894782da8c3f207_w.webp",
-      "description": null
-    },
-    {
-      "episode": 6,
-      "title": "War In The Pocket",
-      "title_es": "Guerra en el bolsillo",
-      "aired": "1989-08-25T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/38/3894806da18a7eea_w.webp",
-      "description": null
-    }
-  ],
-  "specials_data": [
-    {
-      "episode": 1,
-      "title": "Music Video (11:24)",
-      "title_es": "Vídeo musical (11:24)",
-      "aired": true,
-      "thumbnail": null,
-      "description": null
-    }
-  ],
-  "characters": [],
   "num_scoring_users": 40054,
   "nsfw": "white",
-  "created_at": "2005-11-11T13:36:33+00:00",
-  "updated_at": "2025-10-17T21:45:51+00:00",
   "source": "original",
   "background": "Mobile Suit Gundam 0080: War in the Pocket was a project made to commemorate the 10th anniversary of the franchise. It marked the first time someone other than Yoshiyuki Tomino had directed a Gundam project, with Fumihiko Takayama acting as lead director.",
   "related_anime": [
@@ -338,5 +262,66 @@
     "num_list_users": 72531
   },
   "mal_details_updated_at": "2026-11-15T17:21:36.223Z",
-  "translations_updated_at": "2026-11-15T17:25:12.981Z"
+  "simkl_id": 40436,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "title": "How Many Miles To The Battlefield",
+      "title_es": "¿Cuántas millas hasta el campo de batalla",
+      "aired": "1989-03-25T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/38/389470a24d767a21_w.webp",
+      "description": null
+    },
+    {
+      "episode": 2,
+      "title": "Reflections In A Brown Eye",
+      "title_es": "Reflejos en un ojo marrón",
+      "aired": "1989-04-25T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/38/389472f01072c01a_w.webp",
+      "description": null
+    },
+    {
+      "episode": 3,
+      "title": "And At The End Of The Rainbow",
+      "title_es": "Y al final del arcoiris",
+      "aired": "1989-05-25T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/38/389474996964fe50_w.webp",
+      "description": null
+    },
+    {
+      "episode": 4,
+      "title": "Over The River And Through The Woods",
+      "title_es": "Sobre el río y a través del bosque",
+      "aired": "1989-06-25T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/38/38947655ec7a1436_w.webp",
+      "description": null
+    },
+    {
+      "episode": 5,
+      "title": "Say It Ain't So, Bernie",
+      "title_es": "Di que no es así, Bernie",
+      "aired": "1989-07-25T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/38/3894782da8c3f207_w.webp",
+      "description": null
+    },
+    {
+      "episode": 6,
+      "title": "War In The Pocket",
+      "title_es": "Guerra en el bolsillo",
+      "aired": "1989-08-25T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/38/3894806da18a7eea_w.webp",
+      "description": null
+    }
+  ],
+  "specials_data": [
+    {
+      "episode": 1,
+      "title": "Music Video (11:24)",
+      "title_es": "Vídeo musical (11:24)",
+      "aired": true,
+      "thumbnail": null,
+      "description": null
+    }
+  ],
+  "translations_updated_at": "2026-11-15T22:16:23.365Z"
 }

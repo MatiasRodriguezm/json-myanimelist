@@ -30,8 +30,8 @@
   "num_episodes": 12,
   "score": 6.98,
   "mean": 6.98,
-  "numListUsers": 33729,
-  "num_list_users": 33729,
+  "numListUsers": 33774,
+  "num_list_users": 33774,
   "genres": [
     {
       "id": 50,
@@ -52,12 +52,7 @@
       "name": "Passione"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1517/155052l.webp",
-    "https://cdn.myanimelist.net/images/anime/1066/155053l.webp",
-    "https://cdn.myanimelist.net/images/anime/1632/159275l.webp",
-    "https://cdn.myanimelist.net/images/anime/1928/160253l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/qFELvRyy0C0vxYcKBQEX7BDe4vO.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/8Obg1bImnamzDmhSaUATI4eKN80.png",
   "tmdb_id": "311842",
@@ -74,7 +69,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1517/155052l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1928/160253l.webp"
     }
   },
   "broadcast": {
@@ -88,6 +83,57 @@
   "rank": 4984,
   "popularity": 4561,
   "rating": "pg_13",
+  "num_scoring_users": 4642,
+  "nsfw": "white",
+  "source": "manga",
+  "related_anime": [],
+  "related_manga": [],
+  "recommendations": [
+    {
+      "node": {
+        "id": 10163,
+        "title": "C: The Money of Soul and Possibility Control",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/5/50551.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/5/50551l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 3002,
+        "title": "Gyakkyou Burai Kaiji: Ultimate Survivor",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/12/80032.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/12/80032l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 63403,
+        "title": "Yani Neko",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1281/156496.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1281/156496l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "18874",
+      "completed": "1",
+      "on_hold": "484",
+      "dropped": "1880",
+      "plan_to_watch": "12485"
+    },
+    "num_list_users": 33724
+  },
+  "mal_details_updated_at": "2026-11-15T17:13:33.673Z",
   "simkl_id": 2997994,
   "episodes_data": [
     {
@@ -188,60 +234,5 @@
     }
   ],
   "specials_data": [],
-  "characters": [],
-  "num_scoring_users": 4642,
-  "nsfw": "white",
-  "created_at": "2026-01-19T10:00:14+00:00",
-  "updated_at": "2026-10-02T23:40:18+00:00",
-  "source": "manga",
-  "background": null,
-  "related_anime": [],
-  "related_manga": [],
-  "recommendations": [
-    {
-      "node": {
-        "id": 10163,
-        "title": "C: The Money of Soul and Possibility Control",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/5/50551.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/5/50551l.jpg"
-        }
-      },
-      "num_recommendations": 1
-    },
-    {
-      "node": {
-        "id": 3002,
-        "title": "Gyakkyou Burai Kaiji: Ultimate Survivor",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/12/80032.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/12/80032l.jpg"
-        }
-      },
-      "num_recommendations": 1
-    },
-    {
-      "node": {
-        "id": 63403,
-        "title": "Yani Neko",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1281/156496.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1281/156496l.jpg"
-        }
-      },
-      "num_recommendations": 1
-    }
-  ],
-  "statistics": {
-    "status": {
-      "watching": "18874",
-      "completed": "1",
-      "on_hold": "484",
-      "dropped": "1880",
-      "plan_to_watch": "12485"
-    },
-    "num_list_users": 33724
-  },
-  "mal_details_updated_at": "2026-11-15T17:13:33.673Z",
-  "translations_updated_at": "2026-11-15T17:24:53.231Z"
+  "translations_updated_at": "2026-11-15T22:16:03.840Z"
 }

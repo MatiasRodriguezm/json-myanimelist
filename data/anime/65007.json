@@ -30,8 +30,8 @@
   "num_episodes": null,
   "score": null,
   "mean": null,
-  "numListUsers": 191,
-  "num_list_users": 191,
+  "numListUsers": 192,
+  "num_list_users": 192,
   "genres": [
     {
       "id": 51,
@@ -52,9 +52,7 @@
       "name": "Studio Nanahoshi"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1929/160087l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/21B81rqTg0Z0pHTswsI5BX34fPy.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/dknJTjJDexTNcsmZOoC658z8XhL.png",
   "tmdb_id": "339181",
@@ -85,6 +83,23 @@
   "rank": 19027,
   "popularity": 24502,
   "rating": "g",
+  "num_scoring_users": 12,
+  "nsfw": "white",
+  "source": "other",
+  "related_anime": [],
+  "related_manga": [],
+  "recommendations": [],
+  "statistics": {
+    "status": {
+      "watching": "34",
+      "completed": 0,
+      "on_hold": "4",
+      "dropped": "72",
+      "plan_to_watch": "81"
+    },
+    "num_list_users": 191
+  },
+  "mal_details_updated_at": "2026-11-15T17:16:18.786Z",
   "simkl_id": 3281962,
   "episodes_data": [
     {
@@ -185,26 +200,5 @@
     }
   ],
   "specials_data": [],
-  "characters": [],
-  "num_scoring_users": 12,
-  "nsfw": "white",
-  "created_at": "2026-09-16T08:14:32+00:00",
-  "updated_at": "2026-09-16T10:17:41+00:00",
-  "source": "other",
-  "background": null,
-  "related_anime": [],
-  "related_manga": [],
-  "recommendations": [],
-  "statistics": {
-    "status": {
-      "watching": "34",
-      "completed": 0,
-      "on_hold": "4",
-      "dropped": "72",
-      "plan_to_watch": "81"
-    },
-    "num_list_users": 191
-  },
-  "mal_details_updated_at": "2026-11-15T17:16:18.786Z",
-  "translations_updated_at": "2026-11-15T17:25:07.277Z"
+  "translations_updated_at": "2026-11-15T22:16:17.142Z"
 }

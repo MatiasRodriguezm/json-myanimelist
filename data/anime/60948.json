@@ -33,8 +33,8 @@
   "num_episodes": 13,
   "score": 6.83,
   "mean": 6.83,
-  "numListUsers": 39909,
-  "num_list_users": 39909,
+  "numListUsers": 40018,
+  "num_list_users": 40018,
   "genres": [
     {
       "id": 1,
@@ -59,11 +59,7 @@
       "name": "Studio A-CAT"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1287/147886l.webp",
-    "https://cdn.myanimelist.net/images/anime/1334/156252l.webp",
-    "https://cdn.myanimelist.net/images/anime/1889/160053l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/k5G4ALskmO8GcSOO3fN8fePa9Ny.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/2n7hXr6wbzFwwJ0rWLiEkQHZByy.png",
   "tmdb_id": "283692",
@@ -80,7 +76,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1287/147886l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1889/160053l.webp"
     }
   },
   "broadcast": {
@@ -94,6 +90,57 @@
   "rank": 5905,
   "popularity": 4219,
   "rating": "pg_13",
+  "num_scoring_users": 5167,
+  "nsfw": "white",
+  "source": "light_novel",
+  "related_anime": [],
+  "related_manga": [],
+  "recommendations": [
+    {
+      "node": {
+        "id": 60154,
+        "title": "Ore wa Seikan Kokka no Akutoku Ryoushu!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1703/148600.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1703/148600l.webp"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 2451,
+        "title": "Space Cobra",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/7/41437.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/7/41437l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 50461,
+        "title": "Otome Game Sekai wa Mob ni Kibishii Sekai desu",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1161/121462.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1161/121462l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "23387",
+      "completed": "2",
+      "on_hold": "516",
+      "dropped": "1182",
+      "plan_to_watch": "14830"
+    },
+    "num_list_users": 39917
+  },
+  "mal_details_updated_at": "2026-11-15T17:14:31.982Z",
   "simkl_id": 2706956,
   "episodes_data": [
     {
@@ -194,60 +241,5 @@
     }
   ],
   "specials_data": [],
-  "characters": [],
-  "num_scoring_users": 5167,
-  "nsfw": "white",
-  "created_at": "2025-02-06T06:01:40+00:00",
-  "updated_at": "2026-10-14T22:15:48+00:00",
-  "source": "light_novel",
-  "background": null,
-  "related_anime": [],
-  "related_manga": [],
-  "recommendations": [
-    {
-      "node": {
-        "id": 60154,
-        "title": "Ore wa Seikan Kokka no Akutoku Ryoushu!",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1703/148600.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1703/148600l.webp"
-        }
-      },
-      "num_recommendations": 2
-    },
-    {
-      "node": {
-        "id": 2451,
-        "title": "Space Cobra",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/7/41437.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/7/41437l.jpg"
-        }
-      },
-      "num_recommendations": 1
-    },
-    {
-      "node": {
-        "id": 50461,
-        "title": "Otome Game Sekai wa Mob ni Kibishii Sekai desu",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1161/121462.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1161/121462l.jpg"
-        }
-      },
-      "num_recommendations": 1
-    }
-  ],
-  "statistics": {
-    "status": {
-      "watching": "23387",
-      "completed": "2",
-      "on_hold": "516",
-      "dropped": "1182",
-      "plan_to_watch": "14830"
-    },
-    "num_list_users": 39917
-  },
-  "mal_details_updated_at": "2026-11-15T17:14:31.982Z",
-  "translations_updated_at": "2026-11-15T17:24:35.558Z"
+  "translations_updated_at": "2026-11-15T22:15:48.934Z"
 }

@@ -32,8 +32,8 @@
   "num_episodes": 1,
   "score": 8.09,
   "mean": 8.09,
-  "numListUsers": 120171,
-  "num_list_users": 120171,
+  "numListUsers": 120175,
+  "num_list_users": 120175,
   "genres": [
     {
       "id": 23,
@@ -58,15 +58,11 @@
       "name": "Production I.G"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/10/74628l.webp",
-    "https://cdn.myanimelist.net/images/anime/2/74642l.webp",
-    "https://cdn.myanimelist.net/images/anime/13/77323l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T17:21:57.295Z",
+  "tmdb_updated_at": "2026-11-15T22:14:39.780Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/13/77323.webp",
@@ -79,13 +75,55 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/10/74628l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/13/77323l.webp"
     }
   },
   "broadcast": null,
   "rank": 624,
   "popularity": 2173,
   "rating": "pg_13",
+  "num_scoring_users": 62879,
+  "nsfw": "white",
+  "source": "manga",
+  "related_anime": [
+    {
+      "node": {
+        "id": 24415,
+        "title": "Kuroko no Basket 3rd Season",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/4/68299.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/4/68299l.webp"
+        }
+      },
+      "relation_type": "parent_story",
+      "relation_type_formatted": "Parent story"
+    }
+  ],
+  "related_manga": [],
+  "recommendations": [
+    {
+      "node": {
+        "id": 16916,
+        "title": "Kuroko no Basket: Tip Off",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/76803.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/76803l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "3030",
+      "completed": "101304",
+      "on_hold": "698",
+      "dropped": "658",
+      "plan_to_watch": "14463"
+    },
+    "num_list_users": 120153
+  },
+  "mal_details_updated_at": "2026-11-15T17:21:57.086Z",
   "simkl_id": 51064,
   "episodes_data": [
     {
@@ -379,51 +417,5 @@
       "description": "Special included on Kuroko no Basket Fan Disc 3: Korekara Nandodemo."
     }
   ],
-  "characters": [],
-  "num_scoring_users": 62879,
-  "nsfw": "white",
-  "created_at": "2015-06-19T02:27:01+00:00",
-  "updated_at": "2023-01-09T01:32:18+00:00",
-  "source": "manga",
-  "background": null,
-  "related_anime": [
-    {
-      "node": {
-        "id": 24415,
-        "title": "Kuroko no Basket 3rd Season",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/4/68299.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/4/68299l.webp"
-        }
-      },
-      "relation_type": "parent_story",
-      "relation_type_formatted": "Parent story"
-    }
-  ],
-  "related_manga": [],
-  "recommendations": [
-    {
-      "node": {
-        "id": 16916,
-        "title": "Kuroko no Basket: Tip Off",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/10/76803.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/10/76803l.jpg"
-        }
-      },
-      "num_recommendations": 1
-    }
-  ],
-  "statistics": {
-    "status": {
-      "watching": "3030",
-      "completed": "101304",
-      "on_hold": "698",
-      "dropped": "658",
-      "plan_to_watch": "14463"
-    },
-    "num_list_users": 120153
-  },
-  "mal_details_updated_at": "2026-11-15T17:21:57.086Z",
-  "translations_updated_at": "2026-11-15T17:24:21.155Z"
+  "translations_updated_at": "2026-11-15T22:15:35.193Z"
 }

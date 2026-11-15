@@ -33,8 +33,8 @@
   "num_episodes": 6,
   "score": 8.04,
   "mean": 8.04,
-  "numListUsers": 913692,
-  "num_list_users": 913692,
+  "numListUsers": 913718,
+  "num_list_users": 913718,
   "genres": [
     {
       "id": 5,
@@ -75,21 +75,7 @@
       "name": "Production I.G"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/9/5401l.webp",
-    "https://cdn.myanimelist.net/images/anime/5/20249l.webp",
-    "https://cdn.myanimelist.net/images/anime/13/24984l.webp",
-    "https://cdn.myanimelist.net/images/anime/4/24987l.webp",
-    "https://cdn.myanimelist.net/images/anime/4/74498l.webp",
-    "https://cdn.myanimelist.net/images/anime/7/77356l.webp",
-    "https://cdn.myanimelist.net/images/anime/1792/92323l.webp",
-    "https://cdn.myanimelist.net/images/anime/1964/95006l.webp",
-    "https://cdn.myanimelist.net/images/anime/1874/95268l.webp",
-    "https://cdn.myanimelist.net/images/anime/1362/95270l.webp",
-    "https://cdn.myanimelist.net/images/anime/1840/95271l.webp",
-    "https://cdn.myanimelist.net/images/anime/1853/145005l.webp",
-    "https://cdn.myanimelist.net/images/anime/1466/145296l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/uiBb01nmHwyVTSILSMKJ4WIvijc.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/vJMgkHdOBq6nH4XtuIBl2AZHQOK.png",
   "tmdb_id": "5895",
@@ -106,13 +92,179 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/9/5401l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/7/77356l.webp"
     }
   },
   "broadcast": null,
   "rank": 701,
   "popularity": 235,
   "rating": "pg_13",
+  "num_scoring_users": 473930,
+  "nsfw": "white",
+  "source": "original",
+  "background": "The original property rights of the anime were sold by Gainax to Production I.G in 2015. \n\nThe anime placed third place for the Best Animation Film at the Fantasia Festival in 2003. In 2007 the anime got a nomination for Best Cast, and won the Best Comedy Series and the Best Short Series at the American Anime Awards show.",
+  "related_anime": [
+    {
+      "node": {
+        "id": 33010,
+        "title": "FLCL Progressive",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1499/93700.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1499/93700l.webp"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    },
+    {
+      "node": {
+        "id": 51304,
+        "title": "FLCL: Grunge",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1330/121527.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1330/121527l.webp"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 51305,
+        "title": "FLCL: Shoegaze",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1540/121528.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1540/121528l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    }
+  ],
+  "related_manga": [],
+  "recommendations": [
+    {
+      "node": {
+        "id": 974,
+        "title": "Dead Leaves",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1827/112657.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1827/112657l.jpg"
+        }
+      },
+      "num_recommendations": 35
+    },
+    {
+      "node": {
+        "id": 18679,
+        "title": "Kill la Kill",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1464/111943.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1464/111943l.jpg"
+        }
+      },
+      "num_recommendations": 28
+    },
+    {
+      "node": {
+        "id": 2001,
+        "title": "Tengen Toppa Gurren Lagann",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/4/5123.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/4/5123l.jpg"
+        }
+      },
+      "num_recommendations": 25
+    },
+    {
+      "node": {
+        "id": 30,
+        "title": "Shinseiki Evangelion",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1314/108941.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1314/108941l.jpg"
+        }
+      },
+      "num_recommendations": 20
+    },
+    {
+      "node": {
+        "id": 306,
+        "title": "Abenobashi Mahou☆Shoutengai",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1350/113655.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1350/113655l.jpg"
+        }
+      },
+      "num_recommendations": 14
+    },
+    {
+      "node": {
+        "id": 379,
+        "title": "Heppoko Jikken Animation Excel♥Saga",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/2/11744.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/2/11744l.jpg"
+        }
+      },
+      "num_recommendations": 12
+    },
+    {
+      "node": {
+        "id": 8795,
+        "title": "Panty & Stocking with Garterbelt",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1296/142674.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1296/142674l.jpg"
+        }
+      },
+      "num_recommendations": 12
+    },
+    {
+      "node": {
+        "id": 7785,
+        "title": "Yojouhan Shinwa Taikei",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1633/123689.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1633/123689l.jpg"
+        }
+      },
+      "num_recommendations": 11
+    },
+    {
+      "node": {
+        "id": 5081,
+        "title": "Bakemonogatari",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/11/75274.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/11/75274l.jpg"
+        }
+      },
+      "num_recommendations": 10
+    },
+    {
+      "node": {
+        "id": 849,
+        "title": "Suzumiya Haruhi no Yuuutsu",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1470/137929.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1470/137929l.jpg"
+        }
+      },
+      "num_recommendations": 9
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "37428",
+      "completed": "579090",
+      "on_hold": "22208",
+      "dropped": "19801",
+      "plan_to_watch": "254904"
+    },
+    "num_list_users": 913431
+  },
+  "mal_details_updated_at": "2026-11-15T17:21:34.713Z",
   "simkl_id": 40225,
   "episodes_data": [
     {
@@ -302,174 +454,5 @@
       "description": null
     }
   ],
-  "characters": [],
-  "num_scoring_users": 473930,
-  "nsfw": "white",
-  "created_at": "2005-11-12T07:37:00+00:00",
-  "updated_at": "2025-10-17T21:38:41+00:00",
-  "source": "original",
-  "background": "The original property rights of the anime were sold by Gainax to Production I.G in 2015. \n\nThe anime placed third place for the Best Animation Film at the Fantasia Festival in 2003. In 2007 the anime got a nomination for Best Cast, and won the Best Comedy Series and the Best Short Series at the American Anime Awards show.",
-  "related_anime": [
-    {
-      "node": {
-        "id": 33010,
-        "title": "FLCL Progressive",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1499/93700.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1499/93700l.webp"
-        }
-      },
-      "relation_type": "sequel",
-      "relation_type_formatted": "Sequel"
-    },
-    {
-      "node": {
-        "id": 51304,
-        "title": "FLCL: Grunge",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1330/121527.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1330/121527l.webp"
-        }
-      },
-      "relation_type": "other",
-      "relation_type_formatted": "Other"
-    },
-    {
-      "node": {
-        "id": 51305,
-        "title": "FLCL: Shoegaze",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1540/121528.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1540/121528l.jpg"
-        }
-      },
-      "relation_type": "other",
-      "relation_type_formatted": "Other"
-    }
-  ],
-  "related_manga": [],
-  "recommendations": [
-    {
-      "node": {
-        "id": 974,
-        "title": "Dead Leaves",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1827/112657.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1827/112657l.jpg"
-        }
-      },
-      "num_recommendations": 35
-    },
-    {
-      "node": {
-        "id": 18679,
-        "title": "Kill la Kill",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1464/111943.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1464/111943l.jpg"
-        }
-      },
-      "num_recommendations": 28
-    },
-    {
-      "node": {
-        "id": 2001,
-        "title": "Tengen Toppa Gurren Lagann",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/4/5123.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/4/5123l.jpg"
-        }
-      },
-      "num_recommendations": 25
-    },
-    {
-      "node": {
-        "id": 30,
-        "title": "Shinseiki Evangelion",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1314/108941.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1314/108941l.jpg"
-        }
-      },
-      "num_recommendations": 20
-    },
-    {
-      "node": {
-        "id": 306,
-        "title": "Abenobashi Mahou☆Shoutengai",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1350/113655.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1350/113655l.jpg"
-        }
-      },
-      "num_recommendations": 14
-    },
-    {
-      "node": {
-        "id": 379,
-        "title": "Heppoko Jikken Animation Excel♥Saga",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/2/11744.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/2/11744l.jpg"
-        }
-      },
-      "num_recommendations": 12
-    },
-    {
-      "node": {
-        "id": 8795,
-        "title": "Panty & Stocking with Garterbelt",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1296/142674.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1296/142674l.jpg"
-        }
-      },
-      "num_recommendations": 12
-    },
-    {
-      "node": {
-        "id": 7785,
-        "title": "Yojouhan Shinwa Taikei",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1633/123689.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1633/123689l.jpg"
-        }
-      },
-      "num_recommendations": 11
-    },
-    {
-      "node": {
-        "id": 5081,
-        "title": "Bakemonogatari",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/11/75274.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/11/75274l.jpg"
-        }
-      },
-      "num_recommendations": 10
-    },
-    {
-      "node": {
-        "id": 849,
-        "title": "Suzumiya Haruhi no Yuuutsu",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1470/137929.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1470/137929l.jpg"
-        }
-      },
-      "num_recommendations": 9
-    }
-  ],
-  "statistics": {
-    "status": {
-      "watching": "37428",
-      "completed": "579090",
-      "on_hold": "22208",
-      "dropped": "19801",
-      "plan_to_watch": "254904"
-    },
-    "num_list_users": 913431
-  },
-  "mal_details_updated_at": "2026-11-15T17:21:34.713Z",
-  "translations_updated_at": "2026-11-15T17:23:55.057Z"
+  "translations_updated_at": "2026-11-15T22:15:11.110Z"
 }

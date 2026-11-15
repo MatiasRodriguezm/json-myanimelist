@@ -34,8 +34,8 @@
   "num_episodes": 1,
   "score": 8,
   "mean": 8,
-  "numListUsers": 185745,
-  "num_list_users": 185745,
+  "numListUsers": 185752,
+  "num_list_users": 185752,
   "genres": [
     {
       "id": 4,
@@ -56,9 +56,7 @@
       "name": "Seven Arcs"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1765/122768l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/rnf2BDKeF1sxPEPhAcdvL0auuxr.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/9cIPjo6rf8owHZ0RvOasFwmj8BE.png",
   "tmdb_id": "100049",
@@ -82,25 +80,9 @@
   "rank": 778,
   "popularity": 1530,
   "rating": "pg_13",
-  "simkl_id": 1505149,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "title": "OVA",
-      "title_es": "ÓVULO",
-      "aired": "2021-08-18T00:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/17/1755495771c5da55ab_w.webp",
-      "description": null
-    }
-  ],
-  "specials_data": [],
-  "characters": [],
   "num_scoring_users": 99244,
   "nsfw": "white",
-  "created_at": "2020-12-18T20:33:44+00:00",
-  "updated_at": "2024-06-26T22:53:50+00:00",
   "source": "manga",
-  "background": null,
   "related_anime": [
     {
       "node": {
@@ -140,5 +122,17 @@
     "num_list_users": 185683
   },
   "mal_details_updated_at": "2026-11-15T17:21:39.011Z",
-  "translations_updated_at": "2026-11-15T17:24:24.431Z"
+  "simkl_id": 1505149,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "title": "OVA",
+      "title_es": "ÓVULO",
+      "aired": "2021-08-18T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/1755495771c5da55ab_w.webp",
+      "description": null
+    }
+  ],
+  "specials_data": [],
+  "translations_updated_at": "2026-11-15T22:15:38.111Z"
 }

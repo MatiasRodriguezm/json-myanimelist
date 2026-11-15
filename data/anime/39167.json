@@ -32,8 +32,8 @@
   "num_episodes": 1,
   "score": 8.39,
   "mean": 8.39,
-  "numListUsers": 29377,
-  "num_list_users": 29377,
+  "numListUsers": 29382,
+  "num_list_users": 29382,
   "genres": [
     {
       "id": 52,
@@ -54,15 +54,11 @@
       "name": "Actas"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1833/119627l.webp",
-    "https://cdn.myanimelist.net/images/anime/1258/136970l.webp",
-    "https://cdn.myanimelist.net/images/anime/1652/138188l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T17:20:24.611Z",
+  "tmdb_updated_at": "2026-11-15T22:14:34.094Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1652/138188.webp",
@@ -75,13 +71,68 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1833/119627l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1652/138188l.webp"
     }
   },
   "broadcast": null,
   "rank": 243,
   "popularity": 4842,
   "rating": "pg_13",
+  "num_scoring_users": 10984,
+  "nsfw": "white",
+  "source": "original",
+  "background": "Girls & Panzer: Saishuushou Part 4 was released on Blu-ray and DVD in Japan on March 27, 2024.",
+  "related_anime": [
+    {
+      "node": {
+        "id": 39166,
+        "title": "Girls & Panzer: Saishuushou Part 3",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1894/119214.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1894/119214l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    },
+    {
+      "node": {
+        "id": 39168,
+        "title": "Girls & Panzer: Saishuushou Part 5",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1928/159811.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1928/159811l.jpg"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    },
+    {
+      "node": {
+        "id": 58606,
+        "title": "Girls & Panzer: Saishuushou Part 4 Specials",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1079/142459.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1079/142459l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    }
+  ],
+  "related_manga": [],
+  "recommendations": [],
+  "statistics": {
+    "status": {
+      "watching": "1117",
+      "completed": "14707",
+      "on_hold": "296",
+      "dropped": "215",
+      "plan_to_watch": "13021"
+    },
+    "num_list_users": 29356
+  },
+  "mal_details_updated_at": "2026-11-15T17:20:24.379Z",
   "simkl_id": 612371,
   "episodes_data": [
     {
@@ -343,63 +394,5 @@
       "description": null
     }
   ],
-  "characters": [],
-  "num_scoring_users": 10984,
-  "nsfw": "white",
-  "created_at": "2019-02-02T11:12:15+00:00",
-  "updated_at": "2024-09-30T14:54:30+00:00",
-  "source": "original",
-  "background": "Girls & Panzer: Saishuushou Part 4 was released on Blu-ray and DVD in Japan on March 27, 2024.",
-  "related_anime": [
-    {
-      "node": {
-        "id": 39166,
-        "title": "Girls & Panzer: Saishuushou Part 3",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1894/119214.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1894/119214l.jpg"
-        }
-      },
-      "relation_type": "prequel",
-      "relation_type_formatted": "Prequel"
-    },
-    {
-      "node": {
-        "id": 39168,
-        "title": "Girls & Panzer: Saishuushou Part 5",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1928/159811.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1928/159811l.jpg"
-        }
-      },
-      "relation_type": "sequel",
-      "relation_type_formatted": "Sequel"
-    },
-    {
-      "node": {
-        "id": 58606,
-        "title": "Girls & Panzer: Saishuushou Part 4 Specials",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1079/142459.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1079/142459l.jpg"
-        }
-      },
-      "relation_type": "other",
-      "relation_type_formatted": "Other"
-    }
-  ],
-  "related_manga": [],
-  "recommendations": [],
-  "statistics": {
-    "status": {
-      "watching": "1117",
-      "completed": "14707",
-      "on_hold": "296",
-      "dropped": "215",
-      "plan_to_watch": "13021"
-    },
-    "num_list_users": 29356
-  },
-  "mal_details_updated_at": "2026-11-15T17:20:24.379Z",
-  "translations_updated_at": "2026-11-15T17:24:06.260Z"
+  "translations_updated_at": "2026-11-15T22:15:20.442Z"
 }

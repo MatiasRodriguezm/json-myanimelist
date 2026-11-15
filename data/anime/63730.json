@@ -32,8 +32,8 @@
   "num_episodes": null,
   "score": null,
   "mean": null,
-  "numListUsers": 4533,
-  "num_list_users": 4533,
+  "numListUsers": 4543,
+  "num_list_users": 4543,
   "genres": [
     {
       "id": 1,
@@ -58,15 +58,11 @@
       "name": "Studio Deen"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1327/156079l.webp",
-    "https://cdn.myanimelist.net/images/anime/1626/159366l.webp",
-    "https://cdn.myanimelist.net/images/anime/1371/161055l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T17:17:46.931Z",
+  "tmdb_updated_at": "2026-11-15T22:13:52.687Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1371/161055.webp",
@@ -79,7 +75,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1327/156079l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1371/161055l.webp"
     }
   },
   "broadcast": {
@@ -93,16 +89,8 @@
   "rank": null,
   "popularity": 10125,
   "rating": null,
-  "simkl_id": 3048522,
-  "episodes_data": [],
-  "specials_data": [],
-  "characters": [],
-  "num_scoring_users": null,
   "nsfw": "white",
-  "created_at": "2026-03-13T14:14:57+00:00",
-  "updated_at": "2026-08-07T09:11:48+00:00",
   "source": "light_novel",
-  "background": null,
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
@@ -117,5 +105,8 @@
     "num_list_users": 4530
   },
   "mal_details_updated_at": "2026-11-15T17:17:46.372Z",
-  "translations_updated_at": "2026-11-15T17:24:56.926Z"
+  "simkl_id": 3048522,
+  "episodes_data": [],
+  "specials_data": [],
+  "translations_updated_at": "2026-11-15T22:16:07.492Z"
 }

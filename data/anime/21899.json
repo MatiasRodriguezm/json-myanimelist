@@ -77,12 +77,7 @@
       "name": "Sunrise"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/11/57615l.webp",
-    "https://cdn.myanimelist.net/images/anime/10/58047l.webp",
-    "https://cdn.myanimelist.net/images/anime/9/58049l.webp",
-    "https://cdn.myanimelist.net/images/anime/1172/90571l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/3gVl0IvJMbhOnAvH9V0Q1Y1HnXE.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/2GFz7E2Z1UWiWqOv2YGIbIaAWrH.png",
   "tmdb_id": "57041",
@@ -99,40 +94,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/11/57615l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1172/90571l.webp"
     }
   },
   "broadcast": null,
   "rank": 225,
   "popularity": 3753,
   "rating": "pg_13",
-  "simkl_id": 47312,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "title": "Shinsengumi Crisis Arc",
-      "title_es": "Arco de la crisis del Shinsengumi",
-      "aired": "2012-08-26T00:00:00+09:00",
-      "thumbnail": null,
-      "description": null
-    },
-    {
-      "episode": 2,
-      "title": "Kabukichou Four Devas Arc",
-      "title_es": "Arco de los Cuatro Devas de Kabukichou",
-      "aired": "2012-08-26T00:00:00+09:00",
-      "thumbnail": null,
-      "description": null
-    }
-  ],
-  "specials_data": [],
-  "characters": [],
   "num_scoring_users": 18554,
   "nsfw": "white",
-  "created_at": "2014-01-02T10:15:52+00:00",
-  "updated_at": "2023-01-16T04:32:13+00:00",
   "source": "manga",
-  "background": null,
   "related_anime": [
     {
       "node": {
@@ -172,5 +143,25 @@
     "num_list_users": 49369
   },
   "mal_details_updated_at": "2026-11-15T17:20:22.583Z",
-  "translations_updated_at": "2026-11-15T17:24:05.658Z"
+  "simkl_id": 47312,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "title": "Shinsengumi Crisis Arc",
+      "title_es": "Arco de la crisis del Shinsengumi",
+      "aired": "2012-08-26T00:00:00+09:00",
+      "thumbnail": null,
+      "description": null
+    },
+    {
+      "episode": 2,
+      "title": "Kabukichou Four Devas Arc",
+      "title_es": "Arco de los Cuatro Devas de Kabukichou",
+      "aired": "2012-08-26T00:00:00+09:00",
+      "thumbnail": null,
+      "description": null
+    }
+  ],
+  "specials_data": [],
+  "translations_updated_at": "2026-11-15T22:15:19.847Z"
 }

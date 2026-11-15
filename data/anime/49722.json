@@ -30,8 +30,8 @@
   "num_episodes": 1,
   "score": 8.39,
   "mean": 8.39,
-  "numListUsers": 99735,
-  "num_list_users": 99735,
+  "numListUsers": 99738,
+  "num_list_users": 99738,
   "genres": [
     {
       "id": 74,
@@ -56,11 +56,7 @@
       "name": "Shin-Ei Animation"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1130/117960l.webp",
-    "https://cdn.myanimelist.net/images/anime/1611/121570l.webp",
-    "https://cdn.myanimelist.net/images/anime/1376/123398l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/t0voVZuqvQ0VlM2m45rVWZO5R52.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/7kUFLMkP093zcfbPaDFeE6uQXS1.png",
   "tmdb_id": "938567",
@@ -77,13 +73,43 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1130/117960l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1376/123398l.webp"
     }
   },
   "broadcast": null,
   "rank": 245,
   "popularity": 2476,
   "rating": "pg_13",
+  "num_scoring_users": 45777,
+  "nsfw": "white",
+  "source": "manga",
+  "related_anime": [
+    {
+      "node": {
+        "id": 49721,
+        "title": "Karakai Jouzu no Takagi-san 3",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1861/120361.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1861/120361l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    }
+  ],
+  "related_manga": [],
+  "recommendations": [],
+  "statistics": {
+    "status": {
+      "watching": "3545",
+      "completed": "60001",
+      "on_hold": "1215",
+      "dropped": "814",
+      "plan_to_watch": "34060"
+    },
+    "num_list_users": 99635
+  },
+  "mal_details_updated_at": "2026-11-15T17:20:24.965Z",
   "simkl_id": 1717395,
   "episodes_data": [
     {
@@ -129,39 +155,5 @@
       "description": null
     }
   ],
-  "characters": [],
-  "num_scoring_users": 45777,
-  "nsfw": "white",
-  "created_at": "2021-09-01T12:40:59+00:00",
-  "updated_at": "2025-01-07T23:17:18+00:00",
-  "source": "manga",
-  "background": null,
-  "related_anime": [
-    {
-      "node": {
-        "id": 49721,
-        "title": "Karakai Jouzu no Takagi-san 3",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1861/120361.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1861/120361l.jpg"
-        }
-      },
-      "relation_type": "prequel",
-      "relation_type_formatted": "Prequel"
-    }
-  ],
-  "related_manga": [],
-  "recommendations": [],
-  "statistics": {
-    "status": {
-      "watching": "3545",
-      "completed": "60001",
-      "on_hold": "1215",
-      "dropped": "814",
-      "plan_to_watch": "34060"
-    },
-    "num_list_users": 99635
-  },
-  "mal_details_updated_at": "2026-11-15T17:20:24.965Z",
-  "translations_updated_at": "2026-11-15T17:24:06.360Z"
+  "translations_updated_at": "2026-11-15T22:15:20.543Z"
 }

@@ -33,8 +33,8 @@
   "num_episodes": 24,
   "score": 8.9,
   "mean": 8.9,
-  "numListUsers": 574591,
-  "num_list_users": 574591,
+  "numListUsers": 574700,
+  "num_list_users": 574700,
   "genres": [
     {
       "id": 8,
@@ -63,23 +63,7 @@
       "name": "TOHO animation STUDIO"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1838/142240l.webp",
-    "https://cdn.myanimelist.net/images/anime/1378/144141l.webp",
-    "https://cdn.myanimelist.net/images/anime/1681/144365l.webp",
-    "https://cdn.myanimelist.net/images/anime/1252/145690l.webp",
-    "https://cdn.myanimelist.net/images/anime/1377/146200l.webp",
-    "https://cdn.myanimelist.net/images/anime/1751/147285l.webp",
-    "https://cdn.myanimelist.net/images/anime/1852/147307l.webp",
-    "https://cdn.myanimelist.net/images/anime/1075/147308l.webp",
-    "https://cdn.myanimelist.net/images/anime/1025/147458l.webp",
-    "https://cdn.myanimelist.net/images/anime/1074/147628l.webp",
-    "https://cdn.myanimelist.net/images/anime/1172/147996l.webp",
-    "https://cdn.myanimelist.net/images/anime/1120/148876l.webp",
-    "https://cdn.myanimelist.net/images/anime/1245/149393l.webp",
-    "https://cdn.myanimelist.net/images/anime/1432/149891l.webp",
-    "https://cdn.myanimelist.net/images/anime/1005/150569l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/6JpmIe9cJcbG6hecyN6ml8AG6RC.png",
   "tmdb_id": "220542",
@@ -96,7 +80,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1838/142240l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1025/147458l.webp"
     }
   },
   "broadcast": {
@@ -110,6 +94,96 @@
   "rank": 23,
   "popularity": 448,
   "rating": "pg_13",
+  "num_scoring_users": 309501,
+  "nsfw": "white",
+  "source": "light_novel",
+  "background": "Kusuriya no Hitorigoto 2nd Season aired on Nippon TV's Friday Anime Night block. It was released on Blu-ray in four volumes by Toho from April 16, 2025, to October 15, 2025. The series adapts the third and fourth volume of the light novel.",
+  "related_anime": [
+    {
+      "node": {
+        "id": 54492,
+        "title": "Kusuriya no Hitorigoto",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1708/138033.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1708/138033l.webp"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    },
+    {
+      "node": {
+        "id": 60749,
+        "title": "Maomao no Hitorigoto 2nd Season",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1946/147490.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1946/147490l.webp"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 61987,
+        "title": "Kusuriya no Hitorigoto 3rd Season",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1028/160277.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1028/160277l.jpg"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    },
+    {
+      "node": {
+        "id": 62844,
+        "title": "Kusuriya no Hitorigoto Movie: Bouhi no Hihou",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1751/160650.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1751/160650l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    }
+  ],
+  "related_manga": [],
+  "recommendations": [
+    {
+      "node": {
+        "id": 8425,
+        "title": "Gosick",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/11/27906.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/11/27906l.jpg"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 60567,
+        "title": "Chang Ge Xing",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1427/147055.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1427/147055l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "93541",
+      "completed": "366448",
+      "on_hold": "9179",
+      "dropped": "3407",
+      "plan_to_watch": "101629"
+    },
+    "num_list_users": 574204
+  },
+  "mal_details_updated_at": "2026-11-15T17:13:05.577Z",
   "simkl_id": 2413572,
   "episodes_data": [
     {
@@ -531,98 +605,5 @@
       "description": null
     }
   ],
-  "characters": [],
-  "num_scoring_users": 309501,
-  "nsfw": "white",
-  "created_at": "2024-03-23T17:15:49+00:00",
-  "updated_at": "2025-12-23T10:50:41+00:00",
-  "source": "light_novel",
-  "background": "Kusuriya no Hitorigoto 2nd Season aired on Nippon TV's Friday Anime Night block. It was released on Blu-ray in four volumes by Toho from April 16, 2025, to October 15, 2025. The series adapts the third and fourth volume of the light novel.",
-  "related_anime": [
-    {
-      "node": {
-        "id": 54492,
-        "title": "Kusuriya no Hitorigoto",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1708/138033.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1708/138033l.webp"
-        }
-      },
-      "relation_type": "prequel",
-      "relation_type_formatted": "Prequel"
-    },
-    {
-      "node": {
-        "id": 60749,
-        "title": "Maomao no Hitorigoto 2nd Season",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1946/147490.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1946/147490l.webp"
-        }
-      },
-      "relation_type": "other",
-      "relation_type_formatted": "Other"
-    },
-    {
-      "node": {
-        "id": 61987,
-        "title": "Kusuriya no Hitorigoto 3rd Season",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1028/160277.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1028/160277l.jpg"
-        }
-      },
-      "relation_type": "sequel",
-      "relation_type_formatted": "Sequel"
-    },
-    {
-      "node": {
-        "id": 62844,
-        "title": "Kusuriya no Hitorigoto Movie: Bouhi no Hihou",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1751/160650.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1751/160650l.jpg"
-        }
-      },
-      "relation_type": "side_story",
-      "relation_type_formatted": "Side story"
-    }
-  ],
-  "related_manga": [],
-  "recommendations": [
-    {
-      "node": {
-        "id": 8425,
-        "title": "Gosick",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/11/27906.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/11/27906l.jpg"
-        }
-      },
-      "num_recommendations": 2
-    },
-    {
-      "node": {
-        "id": 60567,
-        "title": "Chang Ge Xing",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1427/147055.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1427/147055l.jpg"
-        }
-      },
-      "num_recommendations": 1
-    }
-  ],
-  "statistics": {
-    "status": {
-      "watching": "93541",
-      "completed": "366448",
-      "on_hold": "9179",
-      "dropped": "3407",
-      "plan_to_watch": "101629"
-    },
-    "num_list_users": 574204
-  },
-  "mal_details_updated_at": "2026-11-15T17:13:05.577Z",
-  "translations_updated_at": "2026-11-15T17:23:58.484Z"
+  "translations_updated_at": "2026-11-15T22:15:13.389Z"
 }

@@ -35,8 +35,8 @@
   "num_episodes": 10,
   "score": 8.08,
   "mean": 8.08,
-  "numListUsers": 41433,
-  "num_list_users": 41433,
+  "numListUsers": 41436,
+  "num_list_users": 41436,
   "genres": [
     {
       "id": 1,
@@ -65,14 +65,7 @@
       "name": "Studio Pierrot"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/4/36037l.webp",
-    "https://cdn.myanimelist.net/images/anime/8/36039l.webp",
-    "https://cdn.myanimelist.net/images/anime/2/43779l.webp",
-    "https://cdn.myanimelist.net/images/anime/1042/110294l.webp",
-    "https://cdn.myanimelist.net/images/anime/1744/125725l.webp",
-    "https://cdn.myanimelist.net/images/anime/1109/160310l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/dQkKZr3EAlV10kwV0bkCcMTvCtT.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/2ShEAoJhF4kSBY4OV5ruqCrEApF.png",
   "tmdb_id": "66041",
@@ -89,104 +82,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/4/36037l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1042/110294l.webp"
     }
   },
   "broadcast": null,
   "rank": 645,
   "popularity": 4139,
   "rating": "r",
-  "simkl_id": 38356,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "title": "The new beginning!!",
-      "title_es": "¡¡El nuevo comienzo!!",
-      "aired": "1993-04-01T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/68/6887160586c43a738_w.webp",
-      "description": null
-    },
-    {
-      "episode": 2,
-      "title": "The Crimson Coward Against the Sunset",
-      "title_es": "El cobarde carmesí contra el atardecer",
-      "aired": "1994-05-01T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/68/68871628a425c9fec_w.webp",
-      "description": null
-    },
-    {
-      "episode": 3,
-      "title": "The Most Selfish Man in Japan",
-      "title_es": "El hombre más egoísta de Japón",
-      "aired": "1994-08-01T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/68/6887164a06744b997_w.webp",
-      "description": null
-    },
-    {
-      "episode": 4,
-      "title": "And Yet, You're Going to Kyoto",
-      "title_es": "Y, sin embargo, vas a Kioto",
-      "aired": "1995-05-01T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/68/688716690cb47e714_w.webp",
-      "description": null
-    },
-    {
-      "episode": 5,
-      "title": "Unknown, Broke and Underhanded",
-      "title_es": "Desconocido, arruinado y clandestino",
-      "aired": "1995-11-01T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/68/6887168fb172e101c_w.webp",
-      "description": null
-    },
-    {
-      "episode": 6,
-      "title": "Counterstrike: Lullaby",
-      "title_es": "Contraataque: Canción de cuna",
-      "aired": "1996-02-01T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/68/6887170c4a0ec14f9_w.webp",
-      "description": null
-    },
-    {
-      "episode": 7,
-      "title": "Operation: Best Buds - Go! Go! Go!",
-      "title_es": "Operación: Best Buds - ¡Vamos! ¡Ir! ¡Ir!",
-      "aired": "1996-08-01T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/68/6887172da66a021ef_w.webp",
-      "description": null
-    },
-    {
-      "episode": 8,
-      "title": "Bombing on a Dojo Challenge!!",
-      "title_es": "¡¡Bombardeo en un desafío Dojo!!",
-      "aired": "1996-12-21T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/68/68871741f47a9d367_w.webp",
-      "description": null
-    },
-    {
-      "episode": 9,
-      "title": "Once Upon a Time in Chiba",
-      "title_es": "Érase una vez en Chiba",
-      "aired": "1997-12-21T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/68/6887176c09fcfe2b0_w.webp",
-      "description": null
-    },
-    {
-      "episode": 10,
-      "title": "On the Run from the Yakuza",
-      "title_es": "Huyendo de la Yakuza",
-      "aired": "1997-12-21T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/68/6887178c0a69ae1cc_w.webp",
-      "description": null
-    }
-  ],
-  "specials_data": [],
-  "characters": [],
   "num_scoring_users": 13180,
   "nsfw": "white",
-  "created_at": "2006-04-08T01:40:52+00:00",
-  "updated_at": "2025-02-12T14:44:01+00:00",
   "source": "manga",
-  "background": null,
   "related_anime": [],
   "related_manga": [],
   "recommendations": [
@@ -312,5 +217,89 @@
     "num_list_users": 41412
   },
   "mal_details_updated_at": "2026-11-15T17:21:32.692Z",
-  "translations_updated_at": "2026-11-15T17:25:13.674Z"
+  "simkl_id": 38356,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "title": "The new beginning!!",
+      "title_es": "¡¡El nuevo comienzo!!",
+      "aired": "1993-04-01T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/68/6887160586c43a738_w.webp",
+      "description": null
+    },
+    {
+      "episode": 2,
+      "title": "The Crimson Coward Against the Sunset",
+      "title_es": "El cobarde carmesí contra el atardecer",
+      "aired": "1994-05-01T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/68/68871628a425c9fec_w.webp",
+      "description": null
+    },
+    {
+      "episode": 3,
+      "title": "The Most Selfish Man in Japan",
+      "title_es": "El hombre más egoísta de Japón",
+      "aired": "1994-08-01T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/68/6887164a06744b997_w.webp",
+      "description": null
+    },
+    {
+      "episode": 4,
+      "title": "And Yet, You're Going to Kyoto",
+      "title_es": "Y, sin embargo, vas a Kioto",
+      "aired": "1995-05-01T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/68/688716690cb47e714_w.webp",
+      "description": null
+    },
+    {
+      "episode": 5,
+      "title": "Unknown, Broke and Underhanded",
+      "title_es": "Desconocido, arruinado y clandestino",
+      "aired": "1995-11-01T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/68/6887168fb172e101c_w.webp",
+      "description": null
+    },
+    {
+      "episode": 6,
+      "title": "Counterstrike: Lullaby",
+      "title_es": "Contraataque: Canción de cuna",
+      "aired": "1996-02-01T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/68/6887170c4a0ec14f9_w.webp",
+      "description": null
+    },
+    {
+      "episode": 7,
+      "title": "Operation: Best Buds - Go! Go! Go!",
+      "title_es": "Operación: Best Buds - ¡Vamos! ¡Ir! ¡Ir!",
+      "aired": "1996-08-01T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/68/6887172da66a021ef_w.webp",
+      "description": null
+    },
+    {
+      "episode": 8,
+      "title": "Bombing on a Dojo Challenge!!",
+      "title_es": "¡¡Bombardeo en un desafío Dojo!!",
+      "aired": "1996-12-21T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/68/68871741f47a9d367_w.webp",
+      "description": null
+    },
+    {
+      "episode": 9,
+      "title": "Once Upon a Time in Chiba",
+      "title_es": "Érase una vez en Chiba",
+      "aired": "1997-12-21T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/68/6887176c09fcfe2b0_w.webp",
+      "description": null
+    },
+    {
+      "episode": 10,
+      "title": "On the Run from the Yakuza",
+      "title_es": "Huyendo de la Yakuza",
+      "aired": "1997-12-21T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/68/6887178c0a69ae1cc_w.webp",
+      "description": null
+    }
+  ],
+  "specials_data": [],
+  "translations_updated_at": "2026-11-15T22:16:24.026Z"
 }

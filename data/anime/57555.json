@@ -32,8 +32,8 @@
   "num_episodes": 1,
   "score": 9.05,
   "mean": 9.05,
-  "numListUsers": 577241,
-  "num_list_users": 577241,
+  "numListUsers": 577371,
+  "num_list_users": 577371,
   "genres": [
     {
       "id": 1,
@@ -62,16 +62,7 @@
       "name": "MAPPA"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1211/140419l.webp",
-    "https://cdn.myanimelist.net/images/anime/1258/147105l.webp",
-    "https://cdn.myanimelist.net/images/anime/1714/147106l.webp",
-    "https://cdn.myanimelist.net/images/anime/1773/148746l.webp",
-    "https://cdn.myanimelist.net/images/anime/1763/150638l.webp",
-    "https://cdn.myanimelist.net/images/anime/1964/151711l.webp",
-    "https://cdn.myanimelist.net/images/anime/1640/152067l.webp",
-    "https://cdn.myanimelist.net/images/anime/1420/152408l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/gqTz24ZRsCP6AKjARmEivY7m0cK.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/zLyOxg32q3DcMAgABXcKLWIXxTH.png",
   "tmdb_id": "1218925",
@@ -88,32 +79,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1211/140419l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1763/150638l.webp"
     }
   },
   "broadcast": null,
   "rank": 6,
   "popularity": 447,
   "rating": "r",
-  "simkl_id": 2325162,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "title": "Complete Movie",
-      "title_es": "Película completa",
-      "aired": "2025-09-19T00:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/18/18774355e799b44981_w.webp",
-      "description": null
-    }
-  ],
-  "specials_data": [],
-  "characters": [],
   "num_scoring_users": 379227,
   "nsfw": "white",
-  "created_at": "2023-12-17T06:40:35+00:00",
-  "updated_at": "2026-06-24T00:14:59+00:00",
   "source": "manga",
-  "background": null,
   "related_anime": [
     {
       "node": {
@@ -253,5 +228,17 @@
     "num_list_users": 576861
   },
   "mal_details_updated_at": "2026-11-15T17:12:58.147Z",
-  "translations_updated_at": "2026-11-15T17:23:58.381Z"
+  "simkl_id": 2325162,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "title": "Complete Movie",
+      "title_es": "Película completa",
+      "aired": "2025-09-19T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/18/18774355e799b44981_w.webp",
+      "description": null
+    }
+  ],
+  "specials_data": [],
+  "translations_updated_at": "2026-11-15T22:15:13.295Z"
 }

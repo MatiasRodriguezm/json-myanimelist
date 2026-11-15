@@ -35,8 +35,8 @@
   "num_episodes": 4,
   "score": 7.89,
   "mean": 7.89,
-  "numListUsers": 272264,
-  "num_list_users": 272264,
+  "numListUsers": 272268,
+  "num_list_users": 272268,
   "genres": [
     {
       "id": 1,
@@ -57,16 +57,11 @@
       "name": "Bones"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/3/17469l.webp",
-    "https://cdn.myanimelist.net/images/anime/6/21971l.webp",
-    "https://cdn.myanimelist.net/images/anime/3/25014l.webp",
-    "https://cdn.myanimelist.net/images/anime/8/25015l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T17:22:07.562Z",
+  "tmdb_updated_at": "2026-11-15T22:14:42.669Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/3/17469.webp",
@@ -86,6 +81,82 @@
   "rank": 959,
   "popularity": 1066,
   "rating": "r",
+  "num_scoring_users": 148995,
+  "nsfw": "white",
+  "source": "original",
+  "related_anime": [
+    {
+      "node": {
+        "id": 2025,
+        "title": "Darker than Black: Kuro no Keiyakusha",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/5/19570.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/5/19570l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    },
+    {
+      "node": {
+        "id": 6573,
+        "title": "Darker than Black: Ryuusei no Gemini",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1189/134110.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1189/134110l.jpg"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    }
+  ],
+  "related_manga": [],
+  "recommendations": [
+    {
+      "node": {
+        "id": 4725,
+        "title": "Ga-Rei: Zero",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/9/83975.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/9/83975l.webp"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 570,
+        "title": "Jin-Rou",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1323/103343.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1323/103343l.webp"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 33352,
+        "title": "Violet Evergarden",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1795/95088.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1795/95088l.webp"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "6789",
+      "completed": "207050",
+      "on_hold": "3289",
+      "dropped": "1971",
+      "plan_to_watch": "53105"
+    },
+    "num_list_users": 272204
+  },
+  "mal_details_updated_at": "2026-11-15T17:22:07.304Z",
   "simkl_id": 41655,
   "episodes_data": [
     {
@@ -219,85 +290,5 @@
       "description": "Claude sets his plan in motion, pitting several international organizations against each other by offering Yin up for sale. As a war between factions erupts, Hei rushes to rescue the Doll - but it might be too late to keep her safe."
     }
   ],
-  "characters": [],
-  "num_scoring_users": 148995,
-  "nsfw": "white",
-  "created_at": "2009-10-13T08:56:00+00:00",
-  "updated_at": "2025-05-14T12:05:31+00:00",
-  "source": "original",
-  "background": null,
-  "related_anime": [
-    {
-      "node": {
-        "id": 2025,
-        "title": "Darker than Black: Kuro no Keiyakusha",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/5/19570.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/5/19570l.jpg"
-        }
-      },
-      "relation_type": "prequel",
-      "relation_type_formatted": "Prequel"
-    },
-    {
-      "node": {
-        "id": 6573,
-        "title": "Darker than Black: Ryuusei no Gemini",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1189/134110.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1189/134110l.jpg"
-        }
-      },
-      "relation_type": "sequel",
-      "relation_type_formatted": "Sequel"
-    }
-  ],
-  "related_manga": [],
-  "recommendations": [
-    {
-      "node": {
-        "id": 4725,
-        "title": "Ga-Rei: Zero",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/9/83975.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/9/83975l.webp"
-        }
-      },
-      "num_recommendations": 1
-    },
-    {
-      "node": {
-        "id": 570,
-        "title": "Jin-Rou",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1323/103343.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1323/103343l.webp"
-        }
-      },
-      "num_recommendations": 1
-    },
-    {
-      "node": {
-        "id": 33352,
-        "title": "Violet Evergarden",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1795/95088.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1795/95088l.webp"
-        }
-      },
-      "num_recommendations": 1
-    }
-  ],
-  "statistics": {
-    "status": {
-      "watching": "6789",
-      "completed": "207050",
-      "on_hold": "3289",
-      "dropped": "1971",
-      "plan_to_watch": "53105"
-    },
-    "num_list_users": 272204
-  },
-  "mal_details_updated_at": "2026-11-15T17:22:07.304Z",
-  "translations_updated_at": "2026-11-15T17:25:12.776Z"
+  "translations_updated_at": "2026-11-15T22:16:23.164Z"
 }

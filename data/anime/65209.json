@@ -30,8 +30,8 @@
   "num_episodes": 3,
   "score": null,
   "mean": null,
-  "numListUsers": 1025,
-  "num_list_users": 1025,
+  "numListUsers": 1030,
+  "num_list_users": 1030,
   "genres": [
     {
       "id": 4,
@@ -56,14 +56,11 @@
       "name": "Fenz"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1676/160591l.webp",
-    "https://cdn.myanimelist.net/images/anime/1534/160803l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T17:15:16.264Z",
+  "tmdb_updated_at": "2026-11-15T22:12:54.892Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1676/160591.webp",
@@ -83,16 +80,9 @@
   "rank": 21814,
   "popularity": 15579,
   "rating": "pg_13",
-  "simkl_id": null,
-  "episodes_data": [],
-  "specials_data": [],
-  "characters": [],
   "num_scoring_users": 43,
   "nsfw": "white",
-  "created_at": "2026-10-17T15:43:30+00:00",
-  "updated_at": "2026-11-08T22:11:53+00:00",
   "source": "web_manga",
-  "background": null,
   "related_anime": [
     {
       "node": {
@@ -120,5 +110,8 @@
     "num_list_users": 1025
   },
   "mal_details_updated_at": "2026-11-15T17:15:15.609Z",
-  "translations_updated_at": "2026-11-15T17:25:10.451Z"
+  "simkl_id": null,
+  "episodes_data": [],
+  "specials_data": [],
+  "translations_updated_at": "2026-11-15T22:16:20.956Z"
 }

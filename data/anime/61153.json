@@ -31,10 +31,10 @@
   },
   "episodes": 13,
   "num_episodes": 13,
-  "score": 7.05,
-  "mean": 7.05,
-  "numListUsers": 34334,
-  "num_list_users": 34334,
+  "score": 7.06,
+  "mean": 7.06,
+  "numListUsers": 34384,
+  "num_list_users": 34384,
   "genres": [
     {
       "id": 1,
@@ -59,11 +59,7 @@
       "name": "Felix Film"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1999/148320l.webp",
-    "https://cdn.myanimelist.net/images/anime/1667/148703l.webp",
-    "https://cdn.myanimelist.net/images/anime/1454/156338l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/wpNi39uaat5A1VhaVpdcQlKuMB5.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/uAhOxnSEwued04UICWHncQW1DcZ.png",
   "tmdb_id": "285899",
@@ -80,7 +76,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1999/148320l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1454/156338l.webp"
     }
   },
   "broadcast": {
@@ -94,6 +90,23 @@
   "rank": 4707,
   "popularity": 4526,
   "rating": "pg_13",
+  "num_scoring_users": 4089,
+  "nsfw": "white",
+  "source": "light_novel",
+  "related_anime": [],
+  "related_manga": [],
+  "recommendations": [],
+  "statistics": {
+    "status": {
+      "watching": "18364",
+      "completed": "4",
+      "on_hold": "339",
+      "dropped": "862",
+      "plan_to_watch": "14767"
+    },
+    "num_list_users": 34336
+  },
+  "mal_details_updated_at": "2026-11-15T17:13:31.913Z",
   "simkl_id": 2733174,
   "episodes_data": [
     {
@@ -194,26 +207,5 @@
     }
   ],
   "specials_data": [],
-  "characters": [],
-  "num_scoring_users": 4089,
-  "nsfw": "white",
-  "created_at": "2025-03-06T12:20:51+00:00",
-  "updated_at": "2026-11-14T20:24:48+00:00",
-  "source": "light_novel",
-  "background": null,
-  "related_anime": [],
-  "related_manga": [],
-  "recommendations": [],
-  "statistics": {
-    "status": {
-      "watching": "18364",
-      "completed": "4",
-      "on_hold": "339",
-      "dropped": "862",
-      "plan_to_watch": "14767"
-    },
-    "num_list_users": 34336
-  },
-  "mal_details_updated_at": "2026-11-15T17:13:31.913Z",
-  "translations_updated_at": "2026-11-15T17:24:37.257Z"
+  "translations_updated_at": "2026-11-15T22:15:49.972Z"
 }

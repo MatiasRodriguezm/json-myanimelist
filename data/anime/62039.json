@@ -52,11 +52,7 @@
       "name": "Shin-Ei Animation"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1703/151008l.webp",
-    "https://cdn.myanimelist.net/images/anime/1195/154777l.webp",
-    "https://cdn.myanimelist.net/images/anime/1630/160103l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/tZy81uEJH83fqqj9Q8glYXePdRq.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/xN0OdZc2vqCggdXx3Ofyrqj4SjA.png",
   "tmdb_id": "309202",
@@ -73,7 +69,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1703/151008l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1630/160103l.webp"
     }
   },
   "broadcast": {
@@ -87,6 +83,36 @@
   "rank": 19872,
   "popularity": 18193,
   "rating": "g",
+  "num_scoring_users": 87,
+  "nsfw": "white",
+  "source": "picture_book",
+  "related_anime": [
+    {
+      "node": {
+        "id": 59812,
+        "title": "Itoshii Itoshii Itoshi no Pan-hen",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1903/146523.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1903/146523l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    }
+  ],
+  "related_manga": [],
+  "recommendations": [],
+  "statistics": {
+    "status": {
+      "watching": "263",
+      "completed": 0,
+      "on_hold": "15",
+      "dropped": "86",
+      "plan_to_watch": "221"
+    },
+    "num_list_users": 585
+  },
+  "mal_details_updated_at": "2026-11-15T17:15:25.658Z",
   "simkl_id": 2975268,
   "episodes_data": [
     {
@@ -187,39 +213,5 @@
     }
   ],
   "specials_data": [],
-  "characters": [],
-  "num_scoring_users": 87,
-  "nsfw": "white",
-  "created_at": "2025-07-12T06:09:25+00:00",
-  "updated_at": "2026-09-17T00:26:04+00:00",
-  "source": "picture_book",
-  "background": null,
-  "related_anime": [
-    {
-      "node": {
-        "id": 59812,
-        "title": "Itoshii Itoshii Itoshi no Pan-hen",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1903/146523.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1903/146523l.jpg"
-        }
-      },
-      "relation_type": "other",
-      "relation_type_formatted": "Other"
-    }
-  ],
-  "related_manga": [],
-  "recommendations": [],
-  "statistics": {
-    "status": {
-      "watching": "263",
-      "completed": 0,
-      "on_hold": "15",
-      "dropped": "86",
-      "plan_to_watch": "221"
-    },
-    "num_list_users": 585
-  },
-  "mal_details_updated_at": "2026-11-15T17:15:25.658Z",
-  "translations_updated_at": "2026-11-15T17:24:41.481Z"
+  "translations_updated_at": "2026-11-15T22:15:54.111Z"
 }

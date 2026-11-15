@@ -34,8 +34,8 @@
   "num_episodes": 1,
   "score": 8.29,
   "mean": 8.29,
-  "numListUsers": 483224,
-  "num_list_users": 483224,
+  "numListUsers": 483243,
+  "num_list_users": 483243,
   "genres": [
     {
       "id": 4,
@@ -56,15 +56,11 @@
       "name": "White Fox"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/8/73895l.webp",
-    "https://cdn.myanimelist.net/images/anime/1157/123187l.webp",
-    "https://cdn.myanimelist.net/images/anime/1805/123188l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T17:21:49.904Z",
+  "tmdb_updated_at": "2026-11-15T22:14:38.002Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1805/123188.webp",
@@ -77,13 +73,89 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/8/73895l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1805/123188l.webp"
     }
   },
   "broadcast": null,
   "rank": 346,
   "popularity": 558,
   "rating": "pg_13",
+  "num_scoring_users": 301648,
+  "nsfw": "white",
+  "source": "visual_novel",
+  "related_anime": [
+    {
+      "node": {
+        "id": 9253,
+        "title": "Steins;Gate",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1935/127974.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1935/127974l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    },
+    {
+      "node": {
+        "id": 11577,
+        "title": "Steins;Gate Movie: Fuka Ryouiki no Déjà vu",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1611/112806.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1611/112806l.jpg"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    }
+  ],
+  "related_manga": [],
+  "recommendations": [
+    {
+      "node": {
+        "id": 2167,
+        "title": "Clannad",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1804/95033.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1804/95033l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 10638,
+        "title": "Denpa Onna to Seishun Otoko: Mayonaka no Taiyou",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/3/36709.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/3/36709l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 35466,
+        "title": "ReLIFE: Kanketsu-hen",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1566/91061.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1566/91061l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "6570",
+      "completed": "411099",
+      "on_hold": "2151",
+      "dropped": "1122",
+      "plan_to_watch": "62218"
+    },
+    "num_list_users": 483160
+  },
+  "mal_details_updated_at": "2026-11-15T17:21:49.581Z",
   "simkl_id": 38960,
   "episodes_data": [
     {
@@ -305,85 +377,5 @@
       "description": "Shows a map of Akihabara in 2010 and highlights the locations of some of the places in the story."
     }
   ],
-  "characters": [],
-  "num_scoring_users": 301648,
-  "nsfw": "white",
-  "created_at": "2011-06-25T17:00:24+00:00",
-  "updated_at": "2023-01-17T04:22:04+00:00",
-  "source": "visual_novel",
-  "background": null,
-  "related_anime": [
-    {
-      "node": {
-        "id": 9253,
-        "title": "Steins;Gate",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1935/127974.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1935/127974l.jpg"
-        }
-      },
-      "relation_type": "prequel",
-      "relation_type_formatted": "Prequel"
-    },
-    {
-      "node": {
-        "id": 11577,
-        "title": "Steins;Gate Movie: Fuka Ryouiki no Déjà vu",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1611/112806.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1611/112806l.jpg"
-        }
-      },
-      "relation_type": "sequel",
-      "relation_type_formatted": "Sequel"
-    }
-  ],
-  "related_manga": [],
-  "recommendations": [
-    {
-      "node": {
-        "id": 2167,
-        "title": "Clannad",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1804/95033.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1804/95033l.jpg"
-        }
-      },
-      "num_recommendations": 1
-    },
-    {
-      "node": {
-        "id": 10638,
-        "title": "Denpa Onna to Seishun Otoko: Mayonaka no Taiyou",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/3/36709.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/3/36709l.jpg"
-        }
-      },
-      "num_recommendations": 1
-    },
-    {
-      "node": {
-        "id": 35466,
-        "title": "ReLIFE: Kanketsu-hen",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1566/91061.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1566/91061l.jpg"
-        }
-      },
-      "num_recommendations": 1
-    }
-  ],
-  "statistics": {
-    "status": {
-      "watching": "6570",
-      "completed": "411099",
-      "on_hold": "2151",
-      "dropped": "1122",
-      "plan_to_watch": "62218"
-    },
-    "num_list_users": 483160
-  },
-  "mal_details_updated_at": "2026-11-15T17:21:49.581Z",
-  "translations_updated_at": "2026-11-15T17:24:07.916Z"
+  "translations_updated_at": "2026-11-15T22:15:21.593Z"
 }

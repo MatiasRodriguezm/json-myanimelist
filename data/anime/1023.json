@@ -30,8 +30,8 @@
   "num_episodes": 4,
   "score": 7.98,
   "mean": 7.98,
-  "numListUsers": 78193,
-  "num_list_users": 78193,
+  "numListUsers": 78195,
+  "num_list_users": 78195,
   "genres": [
     {
       "id": 1,
@@ -56,19 +56,11 @@
       "name": "Bones"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/10/14176l.webp",
-    "https://cdn.myanimelist.net/images/anime/3/22396l.webp",
-    "https://cdn.myanimelist.net/images/anime/1988/105359l.webp",
-    "https://cdn.myanimelist.net/images/anime/1091/134883l.webp",
-    "https://cdn.myanimelist.net/images/anime/1746/159623l.webp",
-    "https://cdn.myanimelist.net/images/anime/1806/159624l.webp",
-    "https://cdn.myanimelist.net/images/anime/1413/159625l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T17:21:39.710Z",
+  "tmdb_updated_at": "2026-11-15T22:14:35.740Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1091/134883.webp",
@@ -81,13 +73,66 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/10/14176l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1091/134883l.webp"
     }
   },
   "broadcast": null,
   "rank": 803,
   "popularity": 2882,
   "rating": "pg_13",
+  "num_scoring_users": 38231,
+  "nsfw": "white",
+  "source": "original",
+  "related_anime": [
+    {
+      "node": {
+        "id": 202,
+        "title": "Wolf's Rain",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/5/59403.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/5/59403l.webp"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    }
+  ],
+  "related_manga": [],
+  "recommendations": [
+    {
+      "node": {
+        "id": 32,
+        "title": "Shinseiki Evangelion Movie: Air/Magokoro wo, Kimi ni",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1404/98182.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1404/98182l.webp"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 2966,
+        "title": "Ookami to Koushinryou",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/5/59401.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/5/59401l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "1887",
+      "completed": "52624",
+      "on_hold": "982",
+      "dropped": "652",
+      "plan_to_watch": "22033"
+    },
+    "num_list_users": 78178
+  },
+  "mal_details_updated_at": "2026-11-15T17:21:39.377Z",
   "simkl_id": 39558,
   "episodes_data": [
     {
@@ -333,62 +378,5 @@
       "description": null
     }
   ],
-  "characters": [],
-  "num_scoring_users": 38231,
-  "nsfw": "white",
-  "created_at": "2006-06-01T18:43:14+00:00",
-  "updated_at": "2025-02-10T22:09:54+00:00",
-  "source": "original",
-  "background": null,
-  "related_anime": [
-    {
-      "node": {
-        "id": 202,
-        "title": "Wolf's Rain",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/5/59403.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/5/59403l.webp"
-        }
-      },
-      "relation_type": "prequel",
-      "relation_type_formatted": "Prequel"
-    }
-  ],
-  "related_manga": [],
-  "recommendations": [
-    {
-      "node": {
-        "id": 32,
-        "title": "Shinseiki Evangelion Movie: Air/Magokoro wo, Kimi ni",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1404/98182.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1404/98182l.webp"
-        }
-      },
-      "num_recommendations": 2
-    },
-    {
-      "node": {
-        "id": 2966,
-        "title": "Ookami to Koushinryou",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/5/59401.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/5/59401l.jpg"
-        }
-      },
-      "num_recommendations": 1
-    }
-  ],
-  "statistics": {
-    "status": {
-      "watching": "1887",
-      "completed": "52624",
-      "on_hold": "982",
-      "dropped": "652",
-      "plan_to_watch": "22033"
-    },
-    "num_list_users": 78178
-  },
-  "mal_details_updated_at": "2026-11-15T17:21:39.377Z",
-  "translations_updated_at": "2026-11-15T17:24:09.859Z"
+  "translations_updated_at": "2026-11-15T22:15:24.274Z"
 }

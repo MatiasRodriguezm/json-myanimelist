@@ -27,8 +27,8 @@
   "num_episodes": 1,
   "score": null,
   "mean": null,
-  "numListUsers": 57086,
-  "num_list_users": 57086,
+  "numListUsers": 57104,
+  "num_list_users": 57104,
   "genres": [
     {
       "id": 1,
@@ -57,13 +57,11 @@
       "name": "A-1 Pictures"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1775/158856l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T17:19:33.986Z",
+  "tmdb_updated_at": "2026-11-15T22:14:15.838Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1775/158856.webp",
@@ -83,16 +81,8 @@
   "rank": null,
   "popularity": 3453,
   "rating": "r",
-  "simkl_id": 3172648,
-  "episodes_data": [],
-  "specials_data": [],
-  "characters": [],
-  "num_scoring_users": null,
   "nsfw": "white",
-  "created_at": "2026-07-03T22:53:26+00:00",
-  "updated_at": "2026-07-04T03:16:18+00:00",
   "source": "web_manga",
-  "background": null,
   "related_anime": [
     {
       "node": {
@@ -120,5 +110,8 @@
     "num_list_users": 57086
   },
   "mal_details_updated_at": "2026-11-15T17:19:33.516Z",
-  "translations_updated_at": "2026-11-15T17:25:04.570Z"
+  "simkl_id": 3172648,
+  "episodes_data": [],
+  "specials_data": [],
+  "translations_updated_at": "2026-11-15T22:16:14.491Z"
 }

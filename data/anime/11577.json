@@ -50,15 +50,7 @@
       "name": "White Fox"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/12/46591l.webp",
-    "https://cdn.myanimelist.net/images/anime/4/46633l.webp",
-    "https://cdn.myanimelist.net/images/anime/10/50319l.webp",
-    "https://cdn.myanimelist.net/images/anime/11/56947l.webp",
-    "https://cdn.myanimelist.net/images/anime/11/57281l.webp",
-    "https://cdn.myanimelist.net/images/anime/12/57283l.webp",
-    "https://cdn.myanimelist.net/images/anime/1611/112806l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/nFKxirrjjSTbz2rryfJvvG5MLkV.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/6Y8CHT9IxcXsBuGBjfTVSWeM8nD.png",
   "tmdb_id": "225745",
@@ -75,30 +67,15 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/12/46591l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1611/112806l.webp"
     }
   },
   "broadcast": null,
   "rank": 200,
   "popularity": 387,
   "rating": "pg_13",
-  "simkl_id": 43417,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "title": "Complete Movie",
-      "title_es": "Película completa",
-      "aired": "2013-04-20T00:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/17/17582999018fd0ce10_w.webp",
-      "description": null
-    }
-  ],
-  "specials_data": [],
-  "characters": [],
   "num_scoring_users": 389540,
   "nsfw": "white",
-  "created_at": "2011-09-13T17:43:03+00:00",
-  "updated_at": "2023-01-18T16:38:10+00:00",
   "source": "visual_novel",
   "background": "The series won the 2013 Newtype Anime Awards for Best Anime Film.",
   "related_anime": [
@@ -239,5 +216,17 @@
     "num_list_users": 654692
   },
   "mal_details_updated_at": "2026-11-15T17:20:20.852Z",
-  "translations_updated_at": "2026-11-15T17:23:57.856Z"
+  "simkl_id": 43417,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "title": "Complete Movie",
+      "title_es": "Película completa",
+      "aired": "2013-04-20T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/17582999018fd0ce10_w.webp",
+      "description": null
+    }
+  ],
+  "specials_data": [],
+  "translations_updated_at": "2026-11-15T22:15:12.816Z"
 }

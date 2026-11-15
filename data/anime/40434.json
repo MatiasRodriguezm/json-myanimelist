@@ -37,8 +37,8 @@
   "num_episodes": 12,
   "score": 8.63,
   "mean": 8.63,
-  "numListUsers": 99087,
-  "num_list_users": 99087,
+  "numListUsers": 99093,
+  "num_list_users": 99093,
   "genres": [
     {
       "id": 1,
@@ -79,13 +79,7 @@
       "name": "B.CMAY PICTURES"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1797/108863l.webp",
-    "https://cdn.myanimelist.net/images/anime/1247/116487l.webp",
-    "https://cdn.myanimelist.net/images/anime/1634/116782l.webp",
-    "https://cdn.myanimelist.net/images/anime/1453/153737l.webp",
-    "https://cdn.myanimelist.net/images/anime/1661/153738l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/mDIMt1vr7hcZRlcUz5hHY2q2M6r.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/mrvndOpCCoyAQ0BXTdQsii7AwG6.png",
   "tmdb_id": "80732",
@@ -102,13 +96,78 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1797/108863l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1634/116782l.webp"
     }
   },
   "broadcast": null,
   "rank": 97,
   "popularity": 2489,
   "rating": "r",
+  "num_scoring_users": 35993,
+  "nsfw": "white",
+  "source": "web_novel",
+  "related_anime": [
+    {
+      "node": {
+        "id": 38450,
+        "title": "Mo Dao Zu Shi: Xian Yun Pian",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1404/106707.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1404/106707l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    },
+    {
+      "node": {
+        "id": 40435,
+        "title": "Mo Dao Zu Shi Q",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1210/122883.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1210/122883l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    }
+  ],
+  "related_manga": [],
+  "recommendations": [
+    {
+      "node": {
+        "id": 40730,
+        "title": "Tian Guan Cifu",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1319/109301.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1319/109301l.webp"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 41923,
+        "title": "Yi Nian Yong Heng",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1517/155868.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1517/155868l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "8906",
+      "completed": "47198",
+      "on_hold": "1731",
+      "dropped": "1464",
+      "plan_to_watch": "39760"
+    },
+    "num_list_users": 99059
+  },
+  "mal_details_updated_at": "2026-11-15T17:21:43.844Z",
   "simkl_id": 1727409,
   "episodes_data": [
     {
@@ -209,74 +268,5 @@
     }
   ],
   "specials_data": [],
-  "characters": [],
-  "num_scoring_users": 35993,
-  "nsfw": "white",
-  "created_at": "2019-09-23T21:36:06+00:00",
-  "updated_at": "2025-12-03T18:54:11+00:00",
-  "source": "web_novel",
-  "background": null,
-  "related_anime": [
-    {
-      "node": {
-        "id": 38450,
-        "title": "Mo Dao Zu Shi: Xian Yun Pian",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1404/106707.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1404/106707l.jpg"
-        }
-      },
-      "relation_type": "prequel",
-      "relation_type_formatted": "Prequel"
-    },
-    {
-      "node": {
-        "id": 40435,
-        "title": "Mo Dao Zu Shi Q",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1210/122883.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1210/122883l.jpg"
-        }
-      },
-      "relation_type": "other",
-      "relation_type_formatted": "Other"
-    }
-  ],
-  "related_manga": [],
-  "recommendations": [
-    {
-      "node": {
-        "id": 40730,
-        "title": "Tian Guan Cifu",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1319/109301.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1319/109301l.webp"
-        }
-      },
-      "num_recommendations": 2
-    },
-    {
-      "node": {
-        "id": 41923,
-        "title": "Yi Nian Yong Heng",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1517/155868.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1517/155868l.jpg"
-        }
-      },
-      "num_recommendations": 1
-    }
-  ],
-  "statistics": {
-    "status": {
-      "watching": "8906",
-      "completed": "47198",
-      "on_hold": "1731",
-      "dropped": "1464",
-      "plan_to_watch": "39760"
-    },
-    "num_list_users": 99059
-  },
-  "mal_details_updated_at": "2026-11-15T17:21:43.844Z",
-  "translations_updated_at": "2026-11-15T17:24:03.160Z"
+  "translations_updated_at": "2026-11-15T22:15:17.349Z"
 }

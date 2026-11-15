@@ -30,8 +30,8 @@
   "num_episodes": 1,
   "score": 8.44,
   "mean": 8.44,
-  "numListUsers": 13489,
-  "num_list_users": 13489,
+  "numListUsers": 13491,
+  "num_list_users": 13491,
   "genres": [
     {
       "id": 1,
@@ -60,15 +60,11 @@
       "name": "October Media"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1616/147002l.webp",
-    "https://cdn.myanimelist.net/images/anime/1726/150021l.webp",
-    "https://cdn.myanimelist.net/images/anime/1900/151868l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T17:20:21.508Z",
+  "tmdb_updated_at": "2026-11-15T22:14:33.868Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1616/147002.webp",
@@ -88,25 +84,9 @@
   "rank": 206,
   "popularity": 6597,
   "rating": "pg_13",
-  "simkl_id": 2865106,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "title": "Complete Movie",
-      "title_es": "Película completa",
-      "aired": "2025-01-29T00:00:00+09:00",
-      "thumbnail": null,
-      "description": null
-    }
-  ],
-  "specials_data": [],
-  "characters": [],
   "num_scoring_users": 6447,
   "nsfw": "white",
-  "created_at": "2024-12-19T21:09:33+00:00",
-  "updated_at": "2026-11-01T03:27:49+00:00",
   "source": "original",
-  "background": null,
   "related_anime": [
     {
       "node": {
@@ -158,5 +138,17 @@
     "num_list_users": 13444
   },
   "mal_details_updated_at": "2026-11-15T17:20:21.217Z",
-  "translations_updated_at": "2026-11-15T17:24:05.165Z"
+  "simkl_id": 2865106,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "title": "Complete Movie",
+      "title_es": "Película completa",
+      "aired": "2025-01-29T00:00:00+09:00",
+      "thumbnail": null,
+      "description": null
+    }
+  ],
+  "specials_data": [],
+  "translations_updated_at": "2026-11-15T22:15:19.369Z"
 }

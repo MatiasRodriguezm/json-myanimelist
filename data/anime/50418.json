@@ -30,8 +30,8 @@
   "num_episodes": null,
   "score": 5.54,
   "mean": 5.54,
-  "numListUsers": 3988,
-  "num_list_users": 3988,
+  "numListUsers": 3989,
+  "num_list_users": 3989,
   "genres": [
     {
       "id": 1,
@@ -44,9 +44,7 @@
       "name": "OLM"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1552/119871l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/k2yStztk0X68RfSkexEXg9DpqkD.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/yc4tYpSjhr2ujYqRQuB7KhXtid5.png",
   "tmdb_id": "152271",
@@ -77,6 +75,49 @@
   "rank": 13385,
   "popularity": 10560,
   "rating": "pg",
+  "num_scoring_users": 479,
+  "nsfw": "white",
+  "source": "game",
+  "background": "The airing time was Saturdays 10:30 between January 8, 2022 and October 22, 2022 and Saturdays 10:00 beginning October 29, 2022 to September 30, 2023.  The airing time is Saturday 7:00 beginning October 7, 2023",
+  "related_anime": [
+    {
+      "node": {
+        "id": 41547,
+        "title": "Ninjala Episode 0",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1444/106767.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1444/106767l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 42658,
+        "title": "Ninjala",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1161/108830.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1161/108830l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    }
+  ],
+  "related_manga": [],
+  "recommendations": [],
+  "statistics": {
+    "status": {
+      "watching": "1389",
+      "completed": 0,
+      "on_hold": "232",
+      "dropped": "802",
+      "plan_to_watch": "1560"
+    },
+    "num_list_users": 3983
+  },
+  "mal_details_updated_at": "2026-11-15T17:15:03.331Z",
   "simkl_id": 1820872,
   "episodes_data": [
     {
@@ -1974,51 +2015,5 @@
       "title_es": "Episodio T8"
     }
   ],
-  "characters": [],
-  "num_scoring_users": 479,
-  "nsfw": "white",
-  "created_at": "2021-11-21T18:29:40+00:00",
-  "updated_at": "2022-12-29T08:12:05+00:00",
-  "source": "game",
-  "background": "The airing time was Saturdays 10:30 between January 8, 2022 and October 22, 2022 and Saturdays 10:00 beginning October 29, 2022 to September 30, 2023.  The airing time is Saturday 7:00 beginning October 7, 2023",
-  "related_anime": [
-    {
-      "node": {
-        "id": 41547,
-        "title": "Ninjala Episode 0",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1444/106767.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1444/106767l.jpg"
-        }
-      },
-      "relation_type": "other",
-      "relation_type_formatted": "Other"
-    },
-    {
-      "node": {
-        "id": 42658,
-        "title": "Ninjala",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1161/108830.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1161/108830l.jpg"
-        }
-      },
-      "relation_type": "other",
-      "relation_type_formatted": "Other"
-    }
-  ],
-  "related_manga": [],
-  "recommendations": [],
-  "statistics": {
-    "status": {
-      "watching": "1389",
-      "completed": 0,
-      "on_hold": "232",
-      "dropped": "802",
-      "plan_to_watch": "1560"
-    },
-    "num_list_users": 3983
-  },
-  "mal_details_updated_at": "2026-11-15T17:15:03.331Z",
-  "translations_updated_at": "2026-11-15T17:24:25.768Z"
+  "translations_updated_at": "2026-11-15T22:15:39.387Z"
 }

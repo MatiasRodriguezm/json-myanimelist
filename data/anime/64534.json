@@ -30,8 +30,8 @@
   "num_episodes": 13,
   "score": 8.33,
   "mean": 8.33,
-  "numListUsers": 76483,
-  "num_list_users": 76483,
+  "numListUsers": 76589,
+  "num_list_users": 76589,
   "genres": [
     {
       "id": 8,
@@ -52,11 +52,7 @@
       "name": "Studio KAI"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1859/158835l.webp",
-    "https://cdn.myanimelist.net/images/anime/1323/159589l.webp",
-    "https://cdn.myanimelist.net/images/anime/1963/159754l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/ht6WUmez8cFbwlrFmGdjbYyn3RG.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/a5okATkpmXxAClSnAjGP4ums77c.png",
   "tmdb_id": "283428",
@@ -73,7 +69,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1859/158835l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1963/159754l.webp"
     }
   },
   "broadcast": {
@@ -87,6 +83,48 @@
   "rank": 298,
   "popularity": 2915,
   "rating": "pg_13",
+  "num_scoring_users": 10289,
+  "nsfw": "white",
+  "source": "web_manga",
+  "related_anime": [
+    {
+      "node": {
+        "id": 60852,
+        "title": "Koori no Jouheki",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1565/154933.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1565/154933l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    }
+  ],
+  "related_manga": [],
+  "recommendations": [
+    {
+      "node": {
+        "id": 63832,
+        "title": "Seihantai na Kimi to Boku 2nd Season",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1143/158409.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1143/158409l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "46232",
+      "completed": "16",
+      "on_hold": "707",
+      "dropped": "329",
+      "plan_to_watch": "29195"
+    },
+    "num_list_users": 76479
+  },
+  "mal_details_updated_at": "2026-11-15T17:13:08.954Z",
   "simkl_id": 3173582,
   "episodes_data": [
     {
@@ -187,51 +225,5 @@
     }
   ],
   "specials_data": [],
-  "characters": [],
-  "num_scoring_users": 10289,
-  "nsfw": "white",
-  "created_at": "2026-07-02T15:38:50+00:00",
-  "updated_at": "2026-11-13T03:47:08+00:00",
-  "source": "web_manga",
-  "background": null,
-  "related_anime": [
-    {
-      "node": {
-        "id": 60852,
-        "title": "Koori no Jouheki",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1565/154933.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1565/154933l.jpg"
-        }
-      },
-      "relation_type": "prequel",
-      "relation_type_formatted": "Prequel"
-    }
-  ],
-  "related_manga": [],
-  "recommendations": [
-    {
-      "node": {
-        "id": 63832,
-        "title": "Seihantai na Kimi to Boku 2nd Season",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1143/158409.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1143/158409l.jpg"
-        }
-      },
-      "num_recommendations": 1
-    }
-  ],
-  "statistics": {
-    "status": {
-      "watching": "46232",
-      "completed": "16",
-      "on_hold": "707",
-      "dropped": "329",
-      "plan_to_watch": "29195"
-    },
-    "num_list_users": 76479
-  },
-  "mal_details_updated_at": "2026-11-15T17:13:08.954Z",
-  "translations_updated_at": "2026-11-15T17:25:04.373Z"
+  "translations_updated_at": "2026-11-15T22:16:14.310Z"
 }

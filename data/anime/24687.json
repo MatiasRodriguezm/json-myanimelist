@@ -35,8 +35,8 @@
   "num_episodes": 1,
   "score": 8.42,
   "mean": 8.42,
-  "numListUsers": 112826,
-  "num_list_users": 112826,
+  "numListUsers": 112833,
+  "num_list_users": 112833,
   "genres": [
     {
       "id": 50,
@@ -77,13 +77,11 @@
       "name": "Artland"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/8/63539l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T17:21:45.964Z",
+  "tmdb_updated_at": "2026-11-15T22:14:36.705Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/8/63539.webp",
@@ -103,6 +101,48 @@
   "rank": 218,
   "popularity": 2270,
   "rating": "pg_13",
+  "num_scoring_users": 54757,
+  "nsfw": "white",
+  "source": "manga",
+  "related_anime": [
+    {
+      "node": {
+        "id": 21939,
+        "title": "Mushishi Zoku Shou",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/13/58533.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/13/58533l.webp"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    },
+    {
+      "node": {
+        "id": 24701,
+        "title": "Mushishi Zoku Shou 2nd Season",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/9/68095.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/9/68095l.jpg"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    }
+  ],
+  "related_manga": [],
+  "recommendations": [],
+  "statistics": {
+    "status": {
+      "watching": "2734",
+      "completed": "74746",
+      "on_hold": "1016",
+      "dropped": "560",
+      "plan_to_watch": "33748"
+    },
+    "num_list_users": 112804
+  },
+  "mal_details_updated_at": "2026-11-15T17:21:45.701Z",
   "simkl_id": 46388,
   "episodes_data": [
     {
@@ -212,51 +252,5 @@
       "description": null
     }
   ],
-  "characters": [],
-  "num_scoring_users": 54757,
-  "nsfw": "white",
-  "created_at": "2014-06-15T13:08:52+00:00",
-  "updated_at": "2024-01-02T05:01:23+00:00",
-  "source": "manga",
-  "background": null,
-  "related_anime": [
-    {
-      "node": {
-        "id": 21939,
-        "title": "Mushishi Zoku Shou",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/13/58533.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/13/58533l.webp"
-        }
-      },
-      "relation_type": "prequel",
-      "relation_type_formatted": "Prequel"
-    },
-    {
-      "node": {
-        "id": 24701,
-        "title": "Mushishi Zoku Shou 2nd Season",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/9/68095.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/9/68095l.jpg"
-        }
-      },
-      "relation_type": "sequel",
-      "relation_type_formatted": "Sequel"
-    }
-  ],
-  "related_manga": [],
-  "recommendations": [],
-  "statistics": {
-    "status": {
-      "watching": "2734",
-      "completed": "74746",
-      "on_hold": "1016",
-      "dropped": "560",
-      "plan_to_watch": "33748"
-    },
-    "num_list_users": 112804
-  },
-  "mal_details_updated_at": "2026-11-15T17:21:45.701Z",
-  "translations_updated_at": "2026-11-15T17:24:05.365Z"
+  "translations_updated_at": "2026-11-15T22:15:19.569Z"
 }

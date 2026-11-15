@@ -52,14 +52,7 @@
       "name": "Suoyi Technology Enabled Vision"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1898/151396l.webp",
-    "https://cdn.myanimelist.net/images/anime/1595/158600l.webp",
-    "https://cdn.myanimelist.net/images/anime/1475/158610l.webp",
-    "https://cdn.myanimelist.net/images/anime/1790/160205l.webp",
-    "https://cdn.myanimelist.net/images/anime/1739/160207l.webp",
-    "https://cdn.myanimelist.net/images/anime/1991/160323l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/fImqNRUlwVCxnLxlGoNmOdglSUe.jpg",
   "logo_url": null,
   "tmdb_id": "297924",
@@ -76,13 +69,31 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1898/151396l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1790/160205l.webp"
     }
   },
   "broadcast": null,
   "rank": 16543,
   "popularity": 19358,
   "rating": "pg_13",
+  "num_scoring_users": 54,
+  "nsfw": "white",
+  "source": "web_novel",
+  "background": "Adaptation of Yu Luo Zhu Leng's (雨落竹冷) web novel of the same title.",
+  "related_anime": [],
+  "related_manga": [],
+  "recommendations": [],
+  "statistics": {
+    "status": {
+      "watching": "178",
+      "completed": 0,
+      "on_hold": "14",
+      "dropped": "55",
+      "plan_to_watch": "235"
+    },
+    "num_list_users": 482
+  },
+  "mal_details_updated_at": "2026-11-15T17:15:31.693Z",
   "simkl_id": 3269444,
   "episodes_data": [
     {
@@ -247,26 +258,5 @@
     }
   ],
   "specials_data": [],
-  "characters": [],
-  "num_scoring_users": 54,
-  "nsfw": "white",
-  "created_at": "2025-08-09T20:04:18+00:00",
-  "updated_at": "2026-10-19T19:42:17+00:00",
-  "source": "web_novel",
-  "background": "Adaptation of Yu Luo Zhu Leng's (雨落竹冷) web novel of the same title.",
-  "related_anime": [],
-  "related_manga": [],
-  "recommendations": [],
-  "statistics": {
-    "status": {
-      "watching": "178",
-      "completed": 0,
-      "on_hold": "14",
-      "dropped": "55",
-      "plan_to_watch": "235"
-    },
-    "num_list_users": 482
-  },
-  "mal_details_updated_at": "2026-11-15T17:15:31.693Z",
-  "translations_updated_at": "2026-11-15T17:24:41.979Z"
+  "translations_updated_at": "2026-11-15T22:15:54.590Z"
 }

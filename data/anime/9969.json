@@ -32,8 +32,8 @@
   "num_episodes": 51,
   "score": 9.02,
   "mean": 9.02,
-  "numListUsers": 624765,
-  "num_list_users": 624765,
+  "numListUsers": 624776,
+  "num_list_users": 624776,
   "genres": [
     {
       "id": 1,
@@ -74,16 +74,7 @@
       "name": "Sunrise"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/2/33345l.webp",
-    "https://cdn.myanimelist.net/images/anime/6/33489l.webp",
-    "https://cdn.myanimelist.net/images/anime/6/33491l.webp",
-    "https://cdn.myanimelist.net/images/anime/5/33493l.webp",
-    "https://cdn.myanimelist.net/images/anime/3/36969l.webp",
-    "https://cdn.myanimelist.net/images/anime/4/36971l.webp",
-    "https://cdn.myanimelist.net/images/anime/4/50361l.webp",
-    "https://cdn.myanimelist.net/images/anime/2/73247l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/3gVl0IvJMbhOnAvH9V0Q1Y1HnXE.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/2GFz7E2Z1UWiWqOv2YGIbIaAWrH.png",
   "tmdb_id": "57041",
@@ -100,7 +91,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/2/33345l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/4/50361l.webp"
     }
   },
   "broadcast": {
@@ -114,6 +105,195 @@
   "rank": 12,
   "popularity": 411,
   "rating": "pg_13",
+  "num_scoring_users": 261835,
+  "nsfw": "white",
+  "source": "manga",
+  "related_anime": [
+    {
+      "node": {
+        "id": 918,
+        "title": "Gintama",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/73274.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/73274l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    },
+    {
+      "node": {
+        "id": 9863,
+        "title": "SKET Dance",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/9/73974.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/9/73974l.jpg"
+        }
+      },
+      "relation_type": "character",
+      "relation_type_formatted": "Character"
+    },
+    {
+      "node": {
+        "id": 15417,
+        "title": "Gintama': Enchousen",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1452/123686.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1452/123686l.jpg"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    },
+    {
+      "node": {
+        "id": 21899,
+        "title": "Gintama: Yorinuki Gintama-san on Theater 2D",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1172/90571.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1172/90571l.jpg"
+        }
+      },
+      "relation_type": "summary",
+      "relation_type_formatted": "Summary"
+    },
+    {
+      "node": {
+        "id": 56544,
+        "title": "Gintama on Theater 2D: Baragaki-hen",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1579/150207.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1579/150207l.jpg"
+        }
+      },
+      "relation_type": "summary",
+      "relation_type_formatted": "Summary"
+    }
+  ],
+  "related_manga": [],
+  "recommendations": [
+    {
+      "node": {
+        "id": 9863,
+        "title": "SKET Dance",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/9/73974.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/9/73974l.jpg"
+        }
+      },
+      "num_recommendations": 5
+    },
+    {
+      "node": {
+        "id": 11843,
+        "title": "Danshi Koukousei no Nichijou",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/3/33257.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/3/33257l.webp"
+        }
+      },
+      "num_recommendations": 4
+    },
+    {
+      "node": {
+        "id": 37105,
+        "title": "Grand Blue",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1302/94882.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1302/94882l.jpg"
+        }
+      },
+      "num_recommendations": 2
+    },
+    {
+      "node": {
+        "id": 2026,
+        "title": "Hayate no Gotoku!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/7/73932.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/7/73932l.webp"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 4192,
+        "title": "Hayate no Gotoku!!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1015/142749.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1015/142749l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 9513,
+        "title": "Beelzebub",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/3/28013.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/3/28013l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 114,
+        "title": "Sakigake!! Cromartie Koukou",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1782/130913.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1782/130913l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 24,
+        "title": "School Rumble",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1465/142014.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1465/142014l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 16211,
+        "title": "Bakumatsu Gijinden Roman",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/9/43673.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/9/43673l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 13535,
+        "title": "Binbougami ga!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/8/39333.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/8/39333l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "49233",
+      "completed": "311136",
+      "on_hold": "18535",
+      "dropped": "12772",
+      "plan_to_watch": "232960"
+    },
+    "num_list_users": 624636
+  },
+  "mal_details_updated_at": "2026-11-15T17:13:00.624Z",
   "simkl_id": 39573,
   "episodes_data": [
     {
@@ -535,198 +715,5 @@
       "description": "Like previous Gintama live event in 2010, special animated segments were shown. And also, live dubbing performance by the series` seiyuu to clips from Gintama (2006) and Gintama` (2011), live band performances and more."
     }
   ],
-  "characters": [],
-  "num_scoring_users": 261835,
-  "nsfw": "white",
-  "created_at": "2010-12-06T15:47:56+00:00",
-  "updated_at": "2024-03-04T09:27:01+00:00",
-  "source": "manga",
-  "background": null,
-  "related_anime": [
-    {
-      "node": {
-        "id": 918,
-        "title": "Gintama",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/10/73274.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/10/73274l.jpg"
-        }
-      },
-      "relation_type": "prequel",
-      "relation_type_formatted": "Prequel"
-    },
-    {
-      "node": {
-        "id": 9863,
-        "title": "SKET Dance",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/9/73974.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/9/73974l.jpg"
-        }
-      },
-      "relation_type": "character",
-      "relation_type_formatted": "Character"
-    },
-    {
-      "node": {
-        "id": 15417,
-        "title": "Gintama': Enchousen",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1452/123686.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1452/123686l.jpg"
-        }
-      },
-      "relation_type": "sequel",
-      "relation_type_formatted": "Sequel"
-    },
-    {
-      "node": {
-        "id": 21899,
-        "title": "Gintama: Yorinuki Gintama-san on Theater 2D",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1172/90571.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1172/90571l.jpg"
-        }
-      },
-      "relation_type": "summary",
-      "relation_type_formatted": "Summary"
-    },
-    {
-      "node": {
-        "id": 56544,
-        "title": "Gintama on Theater 2D: Baragaki-hen",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1579/150207.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1579/150207l.jpg"
-        }
-      },
-      "relation_type": "summary",
-      "relation_type_formatted": "Summary"
-    }
-  ],
-  "related_manga": [],
-  "recommendations": [
-    {
-      "node": {
-        "id": 9863,
-        "title": "SKET Dance",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/9/73974.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/9/73974l.jpg"
-        }
-      },
-      "num_recommendations": 5
-    },
-    {
-      "node": {
-        "id": 11843,
-        "title": "Danshi Koukousei no Nichijou",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/3/33257.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/3/33257l.webp"
-        }
-      },
-      "num_recommendations": 4
-    },
-    {
-      "node": {
-        "id": 37105,
-        "title": "Grand Blue",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1302/94882.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1302/94882l.jpg"
-        }
-      },
-      "num_recommendations": 2
-    },
-    {
-      "node": {
-        "id": 2026,
-        "title": "Hayate no Gotoku!",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/7/73932.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/7/73932l.webp"
-        }
-      },
-      "num_recommendations": 1
-    },
-    {
-      "node": {
-        "id": 4192,
-        "title": "Hayate no Gotoku!!",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1015/142749.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1015/142749l.jpg"
-        }
-      },
-      "num_recommendations": 1
-    },
-    {
-      "node": {
-        "id": 9513,
-        "title": "Beelzebub",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/3/28013.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/3/28013l.jpg"
-        }
-      },
-      "num_recommendations": 1
-    },
-    {
-      "node": {
-        "id": 114,
-        "title": "Sakigake!! Cromartie Koukou",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1782/130913.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1782/130913l.jpg"
-        }
-      },
-      "num_recommendations": 1
-    },
-    {
-      "node": {
-        "id": 24,
-        "title": "School Rumble",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1465/142014.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1465/142014l.jpg"
-        }
-      },
-      "num_recommendations": 1
-    },
-    {
-      "node": {
-        "id": 16211,
-        "title": "Bakumatsu Gijinden Roman",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/9/43673.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/9/43673l.jpg"
-        }
-      },
-      "num_recommendations": 1
-    },
-    {
-      "node": {
-        "id": 13535,
-        "title": "Binbougami ga!",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/8/39333.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/8/39333l.jpg"
-        }
-      },
-      "num_recommendations": 1
-    }
-  ],
-  "statistics": {
-    "status": {
-      "watching": "49233",
-      "completed": "311136",
-      "on_hold": "18535",
-      "dropped": "12772",
-      "plan_to_watch": "232960"
-    },
-    "num_list_users": 624636
-  },
-  "mal_details_updated_at": "2026-11-15T17:13:00.624Z",
-  "translations_updated_at": "2026-11-15T17:23:58.061Z"
+  "translations_updated_at": "2026-11-15T22:15:13.007Z"
 }

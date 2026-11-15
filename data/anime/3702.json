@@ -32,8 +32,8 @@
   "num_episodes": 12,
   "score": 8.08,
   "mean": 8.08,
-  "numListUsers": 227101,
-  "num_list_users": 227101,
+  "numListUsers": 227108,
+  "num_list_users": 227108,
   "genres": [
     {
       "id": 50,
@@ -70,12 +70,7 @@
       "name": "Studio 4°C"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/5/6474l.webp",
-    "https://cdn.myanimelist.net/images/anime/3/9853l.webp",
-    "https://cdn.myanimelist.net/images/anime/4/9979l.webp",
-    "https://cdn.myanimelist.net/images/anime/12/11225l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/x32lkbTZdjMyrmQ50YuuI3vUjee.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/yMIopQBnk65lJx3aAv5jhAvtWKL.png",
   "tmdb_id": "43066",
@@ -92,127 +87,15 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/5/6474l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/3/9853l.webp"
     }
   },
   "broadcast": null,
   "rank": 635,
   "popularity": 1281,
   "rating": "r",
-  "simkl_id": 37414,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "title": "PV / Sick Murderer",
-      "title_es": "PV / Asesino enfermo",
-      "aired": "2008-08-08T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/26/26274426e005c9167_w.webp",
-      "description": null
-    },
-    {
-      "episode": 2,
-      "title": "Real Legend / Satan",
-      "title_es": "Leyenda real / Satán",
-      "aired": "2008-08-08T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/26/2627444dafc10c195_w.webp",
-      "description": null
-    },
-    {
-      "episode": 3,
-      "title": "Pig / Drug",
-      "title_es": "Cerdo / Droga",
-      "aired": "2008-08-08T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/26/26274487a9292664b_w.webp",
-      "description": null
-    },
-    {
-      "episode": 4,
-      "title": "Frustration / Good Song",
-      "title_es": "Frustración / Buena Canción",
-      "aired": "2008-08-08T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/26/26274463e191dc167_w.webp",
-      "description": null
-    },
-    {
-      "episode": 5,
-      "title": "Masochist / Family",
-      "title_es": "Masoquista / Familia",
-      "aired": "2008-08-08T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/26/26274406efb0ec733_w.webp",
-      "description": null
-    },
-    {
-      "episode": 6,
-      "title": "Punk.1 / Punk.2",
-      "title_es": "Punk.1 / Punk.2",
-      "aired": "2008-08-08T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/26/2627438ede53c02e6_w.webp",
-      "description": null
-    },
-    {
-      "episode": 7,
-      "title": "Tower / Confession",
-      "title_es": "Torre / Confesión",
-      "aired": "2008-08-08T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/26/2627436f1e989455f_w.webp",
-      "description": null
-    },
-    {
-      "episode": 8,
-      "title": "Promise / Alternation",
-      "title_es": "Promesa / Alternancia",
-      "aired": "2008-08-08T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/26/26274300f4cbeaa66_w.webp",
-      "description": null
-    },
-    {
-      "episode": 9,
-      "title": "Cinema.1 / Cinema.2",
-      "title_es": "Cine.1 / Cine.2",
-      "aired": "2008-08-08T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/26/2627434641c89e090_w.webp",
-      "description": null
-    },
-    {
-      "episode": 10,
-      "title": "Fake / Detroit-Moe-City",
-      "title_es": "Falso / Detroit-Moe-City",
-      "aired": "2008-08-08T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/26/262742693547a53da_w.webp",
-      "description": null
-    },
-    {
-      "episode": 11,
-      "title": "Hip Hop.1 / Hip Hop.2",
-      "title_es": "Hip Hop.1 / Hip Hop.2",
-      "aired": "2008-08-08T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/26/262742833f46df77c_w.webp",
-      "description": null
-    },
-    {
-      "episode": 12,
-      "title": "Emperor.1 / Emperor.2",
-      "title_es": "Emperador.1 / Emperador.2",
-      "aired": "2008-08-08T19:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/26/2627432e5876155fe_w.webp",
-      "description": null
-    }
-  ],
-  "specials_data": [
-    {
-      "episode": 1,
-      "title": "Birth of the Metal Devil",
-      "title_es": "Nacimiento del diablo de metal",
-      "aired": "2008-07-11T19:00:00+09:00",
-      "thumbnail": null,
-      "description": null
-    }
-  ],
-  "characters": [],
   "num_scoring_users": 114372,
   "nsfw": "white",
-  "created_at": "2008-01-10T00:37:08+00:00",
-  "updated_at": "2024-01-05T05:09:57+00:00",
   "source": "manga",
   "background": "Detroit Metal City's name originated from the song Detroit Rock City by the band KISS.",
   "related_anime": [
@@ -353,5 +236,114 @@
     "num_list_users": 227057
   },
   "mal_details_updated_at": "2026-11-15T17:21:32.331Z",
-  "translations_updated_at": "2026-11-15T17:24:23.029Z"
+  "simkl_id": 37414,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "title": "PV / Sick Murderer",
+      "title_es": "PV / Asesino enfermo",
+      "aired": "2008-08-08T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/26/26274426e005c9167_w.webp",
+      "description": null
+    },
+    {
+      "episode": 2,
+      "title": "Real Legend / Satan",
+      "title_es": "Leyenda real / Satán",
+      "aired": "2008-08-08T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/26/2627444dafc10c195_w.webp",
+      "description": null
+    },
+    {
+      "episode": 3,
+      "title": "Pig / Drug",
+      "title_es": "Cerdo / Droga",
+      "aired": "2008-08-08T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/26/26274487a9292664b_w.webp",
+      "description": null
+    },
+    {
+      "episode": 4,
+      "title": "Frustration / Good Song",
+      "title_es": "Frustración / Buena Canción",
+      "aired": "2008-08-08T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/26/26274463e191dc167_w.webp",
+      "description": null
+    },
+    {
+      "episode": 5,
+      "title": "Masochist / Family",
+      "title_es": "Masoquista / Familia",
+      "aired": "2008-08-08T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/26/26274406efb0ec733_w.webp",
+      "description": null
+    },
+    {
+      "episode": 6,
+      "title": "Punk.1 / Punk.2",
+      "title_es": "Punk.1 / Punk.2",
+      "aired": "2008-08-08T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/26/2627438ede53c02e6_w.webp",
+      "description": null
+    },
+    {
+      "episode": 7,
+      "title": "Tower / Confession",
+      "title_es": "Torre / Confesión",
+      "aired": "2008-08-08T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/26/2627436f1e989455f_w.webp",
+      "description": null
+    },
+    {
+      "episode": 8,
+      "title": "Promise / Alternation",
+      "title_es": "Promesa / Alternancia",
+      "aired": "2008-08-08T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/26/26274300f4cbeaa66_w.webp",
+      "description": null
+    },
+    {
+      "episode": 9,
+      "title": "Cinema.1 / Cinema.2",
+      "title_es": "Cine.1 / Cine.2",
+      "aired": "2008-08-08T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/26/2627434641c89e090_w.webp",
+      "description": null
+    },
+    {
+      "episode": 10,
+      "title": "Fake / Detroit-Moe-City",
+      "title_es": "Falso / Detroit-Moe-City",
+      "aired": "2008-08-08T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/26/262742693547a53da_w.webp",
+      "description": null
+    },
+    {
+      "episode": 11,
+      "title": "Hip Hop.1 / Hip Hop.2",
+      "title_es": "Hip Hop.1 / Hip Hop.2",
+      "aired": "2008-08-08T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/26/262742833f46df77c_w.webp",
+      "description": null
+    },
+    {
+      "episode": 12,
+      "title": "Emperor.1 / Emperor.2",
+      "title_es": "Emperador.1 / Emperador.2",
+      "aired": "2008-08-08T19:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/26/2627432e5876155fe_w.webp",
+      "description": null
+    }
+  ],
+  "specials_data": [
+    {
+      "episode": 1,
+      "title": "Birth of the Metal Devil",
+      "title_es": "Nacimiento del diablo de metal",
+      "aired": "2008-07-11T19:00:00+09:00",
+      "thumbnail": null,
+      "description": null
+    }
+  ],
+  "translations_updated_at": "2026-11-15T22:15:36.783Z"
 }

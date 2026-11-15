@@ -34,8 +34,8 @@
   "num_episodes": 1,
   "score": 7.86,
   "mean": 7.86,
-  "numListUsers": 138330,
-  "num_list_users": 138330,
+  "numListUsers": 138336,
+  "num_list_users": 138336,
   "genres": [
     {
       "id": 52,
@@ -60,13 +60,11 @@
       "name": "Kyoto Animation"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/7/26965l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T17:22:09.200Z",
+  "tmdb_updated_at": "2026-11-15T22:14:43.061Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/7/26965.webp",
@@ -86,6 +84,36 @@
   "rank": 1035,
   "popularity": 1951,
   "rating": "pg_13",
+  "num_scoring_users": 78117,
+  "nsfw": "white",
+  "source": "4_koma_manga",
+  "related_anime": [
+    {
+      "node": {
+        "id": 7791,
+        "title": "K-On!!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/12/76121.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/12/76121l.webp"
+        }
+      },
+      "relation_type": "parent_story",
+      "relation_type_formatted": "Parent story"
+    }
+  ],
+  "related_manga": [],
+  "recommendations": [],
+  "statistics": {
+    "status": {
+      "watching": "1954",
+      "completed": "112962",
+      "on_hold": "925",
+      "dropped": "515",
+      "plan_to_watch": "21942"
+    },
+    "num_list_users": 138298
+  },
+  "mal_details_updated_at": "2026-11-15T17:22:08.923Z",
   "simkl_id": 36406,
   "episodes_data": [
     {
@@ -395,39 +423,5 @@
       "description": null
     }
   ],
-  "characters": [],
-  "num_scoring_users": 78117,
-  "nsfw": "white",
-  "created_at": "2010-10-26T17:23:12+00:00",
-  "updated_at": "2023-08-01T02:45:29+00:00",
-  "source": "4_koma_manga",
-  "background": null,
-  "related_anime": [
-    {
-      "node": {
-        "id": 7791,
-        "title": "K-On!!",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/12/76121.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/12/76121l.webp"
-        }
-      },
-      "relation_type": "parent_story",
-      "relation_type_formatted": "Parent story"
-    }
-  ],
-  "related_manga": [],
-  "recommendations": [],
-  "statistics": {
-    "status": {
-      "watching": "1954",
-      "completed": "112962",
-      "on_hold": "925",
-      "dropped": "515",
-      "plan_to_watch": "21942"
-    },
-    "num_list_users": 138298
-  },
-  "mal_details_updated_at": "2026-11-15T17:22:08.923Z",
-  "translations_updated_at": "2026-11-15T17:25:16.022Z"
+  "translations_updated_at": "2026-11-15T22:16:26.315Z"
 }

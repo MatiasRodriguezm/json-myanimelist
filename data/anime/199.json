@@ -32,8 +32,8 @@
   "num_episodes": 1,
   "score": 8.77,
   "mean": 8.77,
-  "numListUsers": 2064771,
-  "num_list_users": 2064771,
+  "numListUsers": 2064831,
+  "num_list_users": 2064831,
   "genres": [
     {
       "id": 2,
@@ -58,14 +58,7 @@
       "name": "Studio Ghibli"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/3/55143l.webp",
-    "https://cdn.myanimelist.net/images/anime/6/79597l.webp",
-    "https://cdn.myanimelist.net/images/anime/1127/116848l.webp",
-    "https://cdn.myanimelist.net/images/anime/1618/138716l.webp",
-    "https://cdn.myanimelist.net/images/anime/1082/138717l.webp",
-    "https://cdn.myanimelist.net/images/anime/1390/138718l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/m4TUa2ciEWSlk37rOsjiSIvZDXE.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/hkUi1Z15Ymj9GNamWQkzUhehLuy.png",
   "tmdb_id": "129",
@@ -82,87 +75,15 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/3/55143l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/6/79597l.webp"
     }
   },
   "broadcast": null,
   "rank": 49,
   "popularity": 45,
   "rating": "pg",
-  "simkl_id": 39079,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "title": "Complete Movie",
-      "title_es": "Película completa",
-      "aired": "2001-07-20T00:00:00+09:00",
-      "thumbnail": null,
-      "description": null
-    }
-  ],
-  "specials_data": [
-    {
-      "episode": 1,
-      "title": "Spirited Away Extra - Behind the microphone",
-      "title_es": "El viaje de Chihiro Extra - Detrás del micrófono",
-      "aired": true,
-      "thumbnail": null,
-      "description": null
-    },
-    {
-      "episode": 2,
-      "title": "Spirited Away Extra - Storyboard-To-Scene-Selection",
-      "title_es": "El viaje de Chihiro extra - Selección del guión gráfico a la escena",
-      "aired": true,
-      "thumbnail": null,
-      "description": null
-    },
-    {
-      "episode": 3,
-      "title": "Spirited Away Extra - The Art of Spirited Away",
-      "title_es": "El viaje de Chihiro Extra - El arte de El viaje de Chihiro",
-      "aired": true,
-      "thumbnail": null,
-      "description": null
-    },
-    {
-      "episode": 4,
-      "title": "Introduction with John Lasseter",
-      "title_es": "Introducción con John Lasseter",
-      "aired": true,
-      "thumbnail": null,
-      "description": null
-    },
-    {
-      "episode": 5,
-      "title": "Meet Hayao Miyazaki",
-      "title_es": "Conoce a Hayao Miyazaki",
-      "aired": true,
-      "thumbnail": null,
-      "description": null
-    },
-    {
-      "episode": 6,
-      "title": "Nippon Television Special",
-      "title_es": "Especial de televisión de Japón",
-      "aired": true,
-      "thumbnail": null,
-      "description": null
-    },
-    {
-      "episode": 7,
-      "title": "Storyboards",
-      "title_es": "Guiones gráficos",
-      "aired": true,
-      "thumbnail": null,
-      "description": null
-    }
-  ],
-  "characters": [],
   "num_scoring_users": 1435744,
   "nsfw": "white",
-  "created_at": "2005-11-12T07:05:54+00:00",
-  "updated_at": "2024-11-26T03:03:29+00:00",
   "source": "original",
   "background": "Sen to Chihiro no Kamikakushi held the record of being the highest-grossing film in Japanese history from 2001 until 2020. As of December 2020, it has amassed a total of 31.68 billion yen from Japanese box office sales and a total of $395.8 million worldwide. \n\nThis critically acclaimed film has won numerous awards, including the Academy Award—more commonly known as the \"Oscar\"—for Best Animated Feature at the 75th Academy Awards in 2003 as well as the Golden Bear at the 2002 Berlin International Film Festival (alongside Bloody Sunday). It is also among the top 10 in the British Film Institute's list of the \"50 films you should see by the age of 14.\" \n\nThe English version of Sen to Chihiro no Kamikakushi was dubbed by Walt Disney Pictures and premiered in 2002. The film was released on DVD and VHS formats in North America by Buena Vista Home Entertainment in 2003.",
   "related_anime": [],
@@ -290,5 +211,74 @@
     "num_list_users": 2064527
   },
   "mal_details_updated_at": "2026-11-15T17:18:21.213Z",
-  "translations_updated_at": "2026-11-15T17:23:47.219Z"
+  "simkl_id": 39079,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "title": "Complete Movie",
+      "title_es": "Película completa",
+      "aired": "2001-07-20T00:00:00+09:00",
+      "thumbnail": null,
+      "description": null
+    }
+  ],
+  "specials_data": [
+    {
+      "episode": 1,
+      "title": "Spirited Away Extra - Behind the microphone",
+      "title_es": "El viaje de Chihiro Extra - Detrás del micrófono",
+      "aired": true,
+      "thumbnail": null,
+      "description": null
+    },
+    {
+      "episode": 2,
+      "title": "Spirited Away Extra - Storyboard-To-Scene-Selection",
+      "title_es": "El viaje de Chihiro extra - Selección del guión gráfico a la escena",
+      "aired": true,
+      "thumbnail": null,
+      "description": null
+    },
+    {
+      "episode": 3,
+      "title": "Spirited Away Extra - The Art of Spirited Away",
+      "title_es": "El viaje de Chihiro Extra - El arte de El viaje de Chihiro",
+      "aired": true,
+      "thumbnail": null,
+      "description": null
+    },
+    {
+      "episode": 4,
+      "title": "Introduction with John Lasseter",
+      "title_es": "Introducción con John Lasseter",
+      "aired": true,
+      "thumbnail": null,
+      "description": null
+    },
+    {
+      "episode": 5,
+      "title": "Meet Hayao Miyazaki",
+      "title_es": "Conoce a Hayao Miyazaki",
+      "aired": true,
+      "thumbnail": null,
+      "description": null
+    },
+    {
+      "episode": 6,
+      "title": "Nippon Television Special",
+      "title_es": "Especial de televisión de Japón",
+      "aired": true,
+      "thumbnail": null,
+      "description": null
+    },
+    {
+      "episode": 7,
+      "title": "Storyboards",
+      "title_es": "Guiones gráficos",
+      "aired": true,
+      "thumbnail": null,
+      "description": null
+    }
+  ],
+  "translations_updated_at": "2026-11-15T22:15:07.667Z"
 }

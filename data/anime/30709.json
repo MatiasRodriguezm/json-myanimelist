@@ -30,8 +30,8 @@
   "num_episodes": 4,
   "score": 8.41,
   "mean": 8.41,
-  "numListUsers": 188829,
-  "num_list_users": 188829,
+  "numListUsers": 188834,
+  "num_list_users": 188834,
   "genres": [
     {
       "id": 4,
@@ -64,15 +64,11 @@
       "name": "TMS Entertainment"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/3/81250l.webp",
-    "https://cdn.myanimelist.net/images/anime/13/81264l.webp",
-    "https://cdn.myanimelist.net/images/anime/1477/147517l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T17:21:21.201Z",
+  "tmdb_updated_at": "2026-11-15T22:14:34.806Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/3/81250.webp",
@@ -92,65 +88,9 @@
   "rank": 227,
   "popularity": 1511,
   "rating": "pg_13",
-  "simkl_id": 43094,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "title": "The God Was Discarded / The God Goes to the Hot Spring",
-      "title_es": "El Dios fue descartado / El Dios va a las aguas termales",
-      "aired": "2013-08-20T00:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/17/17587723553445abe3_w.webp",
-      "description": null
-    },
-    {
-      "episode": 2,
-      "title": "The God Leaps into the Past",
-      "title_es": "El Dios salta al pasado",
-      "aired": "2015-08-20T00:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/17/175877251998f91d66_w.webp",
-      "description": null
-    },
-    {
-      "episode": 3,
-      "title": "The Fox Falls in Love",
-      "title_es": "El Zorro se enamora",
-      "aired": "2015-12-18T00:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/17/1758772734851372c5_w.webp",
-      "description": null
-    },
-    {
-      "episode": 4,
-      "title": "The God Becomes a Bride",
-      "title_es": "El Dios se convierte en novia",
-      "aired": "2016-04-20T00:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/17/17587729e23ee2acec_w.webp",
-      "description": null
-    },
-    {
-      "episode": 5,
-      "title": "The God Meets Someone",
-      "title_es": "El Dios se encuentra con alguien",
-      "aired": "2016-08-19T00:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/17/1758773135f9a6ded0_w.webp",
-      "description": null
-    },
-    {
-      "episode": 6,
-      "title": "The Goddess Will Be Happy",
-      "title_es": "La diosa será feliz",
-      "aired": "2016-12-20T00:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/17/1758773385a5940940_w.webp",
-      "description": null
-    }
-  ],
-  "specials_data": [],
-  "characters": [],
   "num_scoring_users": 93210,
   "nsfw": "white",
-  "created_at": "2015-05-01T18:11:32+00:00",
-  "updated_at": "2024-10-06T16:30:15+00:00",
   "source": "manga",
-  "background": null,
   "related_anime": [
     {
       "node": {
@@ -224,5 +164,57 @@
     "num_list_users": 188800
   },
   "mal_details_updated_at": "2026-11-15T17:21:20.835Z",
-  "translations_updated_at": "2026-11-15T17:24:05.760Z"
+  "simkl_id": 43094,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "title": "The God Was Discarded / The God Goes to the Hot Spring",
+      "title_es": "El Dios fue descartado / El Dios va a las aguas termales",
+      "aired": "2013-08-20T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/17587723553445abe3_w.webp",
+      "description": null
+    },
+    {
+      "episode": 2,
+      "title": "The God Leaps into the Past",
+      "title_es": "El Dios salta al pasado",
+      "aired": "2015-08-20T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/175877251998f91d66_w.webp",
+      "description": null
+    },
+    {
+      "episode": 3,
+      "title": "The Fox Falls in Love",
+      "title_es": "El Zorro se enamora",
+      "aired": "2015-12-18T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/1758772734851372c5_w.webp",
+      "description": null
+    },
+    {
+      "episode": 4,
+      "title": "The God Becomes a Bride",
+      "title_es": "El Dios se convierte en novia",
+      "aired": "2016-04-20T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/17587729e23ee2acec_w.webp",
+      "description": null
+    },
+    {
+      "episode": 5,
+      "title": "The God Meets Someone",
+      "title_es": "El Dios se encuentra con alguien",
+      "aired": "2016-08-19T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/1758773135f9a6ded0_w.webp",
+      "description": null
+    },
+    {
+      "episode": 6,
+      "title": "The Goddess Will Be Happy",
+      "title_es": "La diosa será feliz",
+      "aired": "2016-12-20T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/1758773385a5940940_w.webp",
+      "description": null
+    }
+  ],
+  "specials_data": [],
+  "translations_updated_at": "2026-11-15T22:15:19.942Z"
 }

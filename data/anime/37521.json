@@ -30,8 +30,8 @@
   "num_episodes": 24,
   "score": 8.78,
   "mean": 8.78,
-  "numListUsers": 1887244,
-  "num_list_users": 1887244,
+  "numListUsers": 1887312,
+  "num_list_users": 1887312,
   "genres": [
     {
       "id": 1,
@@ -64,21 +64,7 @@
       "name": "Wit Studio"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1612/93576l.webp",
-    "https://cdn.myanimelist.net/images/anime/1281/98955l.webp",
-    "https://cdn.myanimelist.net/images/anime/1048/102249l.webp",
-    "https://cdn.myanimelist.net/images/anime/1500/103005l.webp",
-    "https://cdn.myanimelist.net/images/anime/1981/105158l.webp",
-    "https://cdn.myanimelist.net/images/anime/1083/105436l.webp",
-    "https://cdn.myanimelist.net/images/anime/1116/105437l.webp",
-    "https://cdn.myanimelist.net/images/anime/1358/106890l.webp",
-    "https://cdn.myanimelist.net/images/anime/1043/106891l.webp",
-    "https://cdn.myanimelist.net/images/anime/1413/106892l.webp",
-    "https://cdn.myanimelist.net/images/anime/1870/106893l.webp",
-    "https://cdn.myanimelist.net/images/anime/1557/106894l.webp",
-    "https://cdn.myanimelist.net/images/anime/1253/106895l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/sPN7Ylc7swmyukJeQBNcRAl9usS.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/3gRatXdgLfzYU9q9WRwuQaIvpGQ.png",
   "tmdb_id": "88803",
@@ -95,7 +81,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1612/93576l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1500/103005l.webp"
     }
   },
   "broadcast": {
@@ -109,6 +95,159 @@
   "rank": 46,
   "popularity": 59,
   "rating": "r",
+  "num_scoring_users": 1103454,
+  "nsfw": "white",
+  "source": "manga",
+  "related_anime": [
+    {
+      "node": {
+        "id": 31647,
+        "title": "Ponkotsuland Saga",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/2/76400.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/2/76400l.webp"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 49387,
+        "title": "Vinland Saga Season 2",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1170/124312.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1170/124312l.jpg"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    }
+  ],
+  "related_manga": [],
+  "recommendations": [
+    {
+      "node": {
+        "id": 16498,
+        "title": "Shingeki no Kyojin",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/47347.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/47347l.jpg"
+        }
+      },
+      "num_recommendations": 44
+    },
+    {
+      "node": {
+        "id": 37520,
+        "title": "Dororo",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1879/100467.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1879/100467l.jpg"
+        }
+      },
+      "num_recommendations": 17
+    },
+    {
+      "node": {
+        "id": 33,
+        "title": "Kenpuu Denki Berserk",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1384/119988.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1384/119988l.jpg"
+        }
+      },
+      "num_recommendations": 16
+    },
+    {
+      "node": {
+        "id": 32998,
+        "title": "91 Days",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/13/80515.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/13/80515l.jpg"
+        }
+      },
+      "num_recommendations": 12
+    },
+    {
+      "node": {
+        "id": 52215,
+        "title": "Chi. Chikyuu no Undou ni Tsuite",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1749/145922.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1749/145922l.jpg"
+        }
+      },
+      "num_recommendations": 11
+    },
+    {
+      "node": {
+        "id": 2199,
+        "title": "Chirin no Suzu",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1391/156459.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1391/156459l.jpg"
+        }
+      },
+      "num_recommendations": 7
+    },
+    {
+      "node": {
+        "id": 36028,
+        "title": "Golden Kamuy",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1145/90880.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1145/90880l.jpg"
+        }
+      },
+      "num_recommendations": 7
+    },
+    {
+      "node": {
+        "id": 40028,
+        "title": "Shingeki no Kyojin: The Final Season",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1000/110531.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1000/110531l.jpg"
+        }
+      },
+      "num_recommendations": 6
+    },
+    {
+      "node": {
+        "id": 12031,
+        "title": "Kingdom",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/13/39511.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/13/39511l.jpg"
+        }
+      },
+      "num_recommendations": 6
+    },
+    {
+      "node": {
+        "id": 28249,
+        "title": "Arslan Senki (TV)",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1168/148973.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1168/148973l.jpg"
+        }
+      },
+      "num_recommendations": 5
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "157331",
+      "completed": "1311600",
+      "on_hold": "47693",
+      "dropped": "27966",
+      "plan_to_watch": "342105"
+    },
+    "num_list_users": 1886695
+  },
+  "mal_details_updated_at": "2026-11-15T17:20:01.589Z",
   "simkl_id": 784557,
   "episodes_data": [
     {
@@ -322,162 +461,5 @@
       "description": null
     }
   ],
-  "characters": [],
-  "num_scoring_users": 1103454,
-  "nsfw": "white",
-  "created_at": "2018-03-19T13:28:36+00:00",
-  "updated_at": "2023-10-16T06:33:35+00:00",
-  "source": "manga",
-  "background": null,
-  "related_anime": [
-    {
-      "node": {
-        "id": 31647,
-        "title": "Ponkotsuland Saga",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/2/76400.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/2/76400l.webp"
-        }
-      },
-      "relation_type": "other",
-      "relation_type_formatted": "Other"
-    },
-    {
-      "node": {
-        "id": 49387,
-        "title": "Vinland Saga Season 2",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1170/124312.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1170/124312l.jpg"
-        }
-      },
-      "relation_type": "sequel",
-      "relation_type_formatted": "Sequel"
-    }
-  ],
-  "related_manga": [],
-  "recommendations": [
-    {
-      "node": {
-        "id": 16498,
-        "title": "Shingeki no Kyojin",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/10/47347.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/10/47347l.jpg"
-        }
-      },
-      "num_recommendations": 44
-    },
-    {
-      "node": {
-        "id": 37520,
-        "title": "Dororo",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1879/100467.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1879/100467l.jpg"
-        }
-      },
-      "num_recommendations": 17
-    },
-    {
-      "node": {
-        "id": 33,
-        "title": "Kenpuu Denki Berserk",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1384/119988.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1384/119988l.jpg"
-        }
-      },
-      "num_recommendations": 16
-    },
-    {
-      "node": {
-        "id": 32998,
-        "title": "91 Days",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/13/80515.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/13/80515l.jpg"
-        }
-      },
-      "num_recommendations": 12
-    },
-    {
-      "node": {
-        "id": 52215,
-        "title": "Chi. Chikyuu no Undou ni Tsuite",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1749/145922.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1749/145922l.jpg"
-        }
-      },
-      "num_recommendations": 11
-    },
-    {
-      "node": {
-        "id": 2199,
-        "title": "Chirin no Suzu",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1391/156459.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1391/156459l.jpg"
-        }
-      },
-      "num_recommendations": 7
-    },
-    {
-      "node": {
-        "id": 36028,
-        "title": "Golden Kamuy",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1145/90880.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1145/90880l.jpg"
-        }
-      },
-      "num_recommendations": 7
-    },
-    {
-      "node": {
-        "id": 40028,
-        "title": "Shingeki no Kyojin: The Final Season",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1000/110531.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1000/110531l.jpg"
-        }
-      },
-      "num_recommendations": 6
-    },
-    {
-      "node": {
-        "id": 12031,
-        "title": "Kingdom",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/13/39511.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/13/39511l.jpg"
-        }
-      },
-      "num_recommendations": 6
-    },
-    {
-      "node": {
-        "id": 28249,
-        "title": "Arslan Senki (TV)",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1168/148973.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1168/148973l.jpg"
-        }
-      },
-      "num_recommendations": 5
-    }
-  ],
-  "statistics": {
-    "status": {
-      "watching": "157331",
-      "completed": "1311600",
-      "on_hold": "47693",
-      "dropped": "27966",
-      "plan_to_watch": "342105"
-    },
-    "num_list_users": 1886695
-  },
-  "mal_details_updated_at": "2026-11-15T17:20:01.589Z",
-  "translations_updated_at": "2026-11-15T17:23:50.899Z"
+  "translations_updated_at": "2026-11-15T22:15:08.266Z"
 }

@@ -32,8 +32,8 @@
   "num_episodes": 1,
   "score": 8.17,
   "mean": 8.17,
-  "numListUsers": 75667,
-  "num_list_users": 75667,
+  "numListUsers": 75669,
+  "num_list_users": 75669,
   "genres": [
     {
       "id": 4,
@@ -62,15 +62,11 @@
       "name": "TMS Entertainment"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/8/80071l.webp",
-    "https://cdn.myanimelist.net/images/anime/13/83410l.webp",
-    "https://cdn.myanimelist.net/images/anime/1542/148441l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T17:21:26.945Z",
+  "tmdb_updated_at": "2026-11-15T22:14:35.023Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1542/148441.webp",
@@ -83,13 +79,43 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/8/80071l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1542/148441l.webp"
     }
   },
   "broadcast": null,
   "rank": 511,
   "popularity": 2936,
   "rating": "pg_13",
+  "num_scoring_users": 37886,
+  "nsfw": "white",
+  "source": "manga",
+  "related_anime": [
+    {
+      "node": {
+        "id": 30709,
+        "title": "Kamisama Hajimemashita: Kako-hen",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/3/81250.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/3/81250l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    }
+  ],
+  "related_manga": [],
+  "recommendations": [],
+  "statistics": {
+    "status": {
+      "watching": "1851",
+      "completed": "58593",
+      "on_hold": "557",
+      "dropped": "403",
+      "plan_to_watch": "14248"
+    },
+    "num_list_users": 75652
+  },
+  "mal_details_updated_at": "2026-11-15T17:21:26.648Z",
   "simkl_id": 43094,
   "episodes_data": [
     {
@@ -142,39 +168,5 @@
     }
   ],
   "specials_data": [],
-  "characters": [],
-  "num_scoring_users": 37886,
-  "nsfw": "white",
-  "created_at": "2016-05-20T14:14:42+00:00",
-  "updated_at": "2025-06-12T00:07:07+00:00",
-  "source": "manga",
-  "background": null,
-  "related_anime": [
-    {
-      "node": {
-        "id": 30709,
-        "title": "Kamisama Hajimemashita: Kako-hen",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/3/81250.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/3/81250l.jpg"
-        }
-      },
-      "relation_type": "prequel",
-      "relation_type_formatted": "Prequel"
-    }
-  ],
-  "related_manga": [],
-  "recommendations": [],
-  "statistics": {
-    "status": {
-      "watching": "1851",
-      "completed": "58593",
-      "on_hold": "557",
-      "dropped": "403",
-      "plan_to_watch": "14248"
-    },
-    "num_list_users": 75652
-  },
-  "mal_details_updated_at": "2026-11-15T17:21:26.648Z",
-  "translations_updated_at": "2026-11-15T17:24:22.505Z"
+  "translations_updated_at": "2026-11-15T22:15:36.281Z"
 }

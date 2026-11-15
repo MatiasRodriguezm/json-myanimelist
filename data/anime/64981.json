@@ -30,8 +30,8 @@
   "num_episodes": null,
   "score": null,
   "mean": null,
-  "numListUsers": 209,
-  "num_list_users": 209,
+  "numListUsers": 210,
+  "num_list_users": 210,
   "genres": [
     {
       "id": 51,
@@ -48,13 +48,11 @@
       "name": "MI"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1853/160049l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": null,
   "logo_url": "https://image.tmdb.org/t/p/w300/jplDxULR4tuGt9jEowCZUgoxTQz.svg",
   "tmdb_id": "337260",
-  "tmdb_updated_at": "2026-11-15T17:16:16.762Z",
+  "tmdb_updated_at": "2026-11-15T22:13:14.382Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1853/160049.webp",
@@ -81,6 +79,23 @@
   "rank": 17008,
   "popularity": 23975,
   "rating": "g",
+  "num_scoring_users": 14,
+  "nsfw": "white",
+  "source": "other",
+  "related_anime": [],
+  "related_manga": [],
+  "recommendations": [],
+  "statistics": {
+    "status": {
+      "watching": "31",
+      "completed": 0,
+      "on_hold": "6",
+      "dropped": "82",
+      "plan_to_watch": "90"
+    },
+    "num_list_users": 209
+  },
+  "mal_details_updated_at": "2026-11-15T17:16:16.370Z",
   "simkl_id": 3251654,
   "episodes_data": [
     {
@@ -181,26 +196,5 @@
     }
   ],
   "specials_data": [],
-  "characters": [],
-  "num_scoring_users": 14,
-  "nsfw": "white",
-  "created_at": "2026-09-15T08:34:48+00:00",
-  "updated_at": "2026-09-15T16:14:38+00:00",
-  "source": "other",
-  "background": null,
-  "related_anime": [],
-  "related_manga": [],
-  "recommendations": [],
-  "statistics": {
-    "status": {
-      "watching": "31",
-      "completed": 0,
-      "on_hold": "6",
-      "dropped": "82",
-      "plan_to_watch": "90"
-    },
-    "num_list_users": 209
-  },
-  "mal_details_updated_at": "2026-11-15T17:16:16.370Z",
-  "translations_updated_at": "2026-11-15T17:25:07.082Z"
+  "translations_updated_at": "2026-11-15T22:16:16.960Z"
 }

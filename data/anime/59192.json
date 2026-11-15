@@ -32,8 +32,8 @@
   "num_episodes": 1,
   "score": 8.64,
   "mean": 8.64,
-  "numListUsers": 446356,
-  "num_list_users": 446356,
+  "numListUsers": 446433,
+  "num_list_users": 446433,
   "genres": [
     {
       "id": 1,
@@ -62,15 +62,7 @@
       "name": "ufotable"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1687/143891l.webp",
-    "https://cdn.myanimelist.net/images/anime/1465/146881l.webp",
-    "https://cdn.myanimelist.net/images/anime/1681/148216l.webp",
-    "https://cdn.myanimelist.net/images/anime/1921/150778l.webp",
-    "https://cdn.myanimelist.net/images/anime/1728/151186l.webp",
-    "https://cdn.myanimelist.net/images/anime/1097/151557l.webp",
-    "https://cdn.myanimelist.net/images/anime/1022/151866l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/w3H7PDwwss5SLuMQ8UBrAProasG.png",
   "tmdb_id": "1311031",
@@ -87,57 +79,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1687/143891l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1681/148216l.webp"
     }
   },
   "broadcast": null,
   "rank": 92,
   "popularity": 614,
   "rating": "r",
-  "simkl_id": 2498112,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "title": "Movie 1",
-      "title_es": "Película 1",
-      "aired": "2025-07-18T00:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/20/204603256bd7a7bdbb_w.webp",
-      "description": null
-    },
-    {
-      "episode": 2,
-      "title": "Movie 2",
-      "title_es": "Película 2",
-      "aired": true,
-      "thumbnail": null,
-      "description": null
-    },
-    {
-      "episode": 3,
-      "title": "Movie 3",
-      "title_es": "Película 3",
-      "aired": true,
-      "thumbnail": null,
-      "description": null
-    }
-  ],
-  "specials_data": [
-    {
-      "episode": 1,
-      "title": "Chapter 1 x TOHO Cinemas: Collaboration Manner Course",
-      "title_es": "Capítulo 1 x Cines TOHO: Curso de Maneras de Colaboración",
-      "aired": "2025-06-20T00:00:00+09:00",
-      "thumbnail": null,
-      "description": null
-    }
-  ],
-  "characters": [],
   "num_scoring_users": 249397,
   "nsfw": "white",
-  "created_at": "2024-06-30T15:19:23+00:00",
-  "updated_at": "2026-07-31T06:47:34+00:00",
   "source": "manga",
-  "background": null,
   "related_anime": [
     {
       "node": {
@@ -212,5 +163,42 @@
     "num_list_users": 445980
   },
   "mal_details_updated_at": "2026-11-15T17:20:09.833Z",
-  "translations_updated_at": "2026-11-15T17:24:02.963Z"
+  "simkl_id": 2498112,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "title": "Movie 1",
+      "title_es": "Película 1",
+      "aired": "2025-07-18T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/20/204603256bd7a7bdbb_w.webp",
+      "description": null
+    },
+    {
+      "episode": 2,
+      "title": "Movie 2",
+      "title_es": "Película 2",
+      "aired": true,
+      "thumbnail": null,
+      "description": null
+    },
+    {
+      "episode": 3,
+      "title": "Movie 3",
+      "title_es": "Película 3",
+      "aired": true,
+      "thumbnail": null,
+      "description": null
+    }
+  ],
+  "specials_data": [
+    {
+      "episode": 1,
+      "title": "Chapter 1 x TOHO Cinemas: Collaboration Manner Course",
+      "title_es": "Capítulo 1 x Cines TOHO: Curso de Maneras de Colaboración",
+      "aired": "2025-06-20T00:00:00+09:00",
+      "thumbnail": null,
+      "description": null
+    }
+  ],
+  "translations_updated_at": "2026-11-15T22:15:17.155Z"
 }

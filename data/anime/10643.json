@@ -32,8 +32,8 @@
   "num_episodes": 1,
   "score": 8.05,
   "mean": 8.05,
-  "numListUsers": 42486,
-  "num_list_users": 42486,
+  "numListUsers": 42488,
+  "num_list_users": 42488,
   "genres": [
     {
       "id": 1,
@@ -62,15 +62,11 @@
       "name": "Sunrise"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/7/29295l.webp",
-    "https://cdn.myanimelist.net/images/anime/1725/110927l.webp",
-    "https://cdn.myanimelist.net/images/anime/1489/141627l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T17:22:00.381Z",
+  "tmdb_updated_at": "2026-11-15T22:14:40.624Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1725/110927.webp",
@@ -83,13 +79,43 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/7/29295l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1725/110927l.webp"
     }
   },
   "broadcast": null,
   "rank": 680,
   "popularity": 4098,
   "rating": "pg_13",
+  "num_scoring_users": 17745,
+  "nsfw": "white",
+  "source": "manga",
+  "related_anime": [
+    {
+      "node": {
+        "id": 918,
+        "title": "Gintama",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/73274.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/73274l.jpg"
+        }
+      },
+      "relation_type": "parent_story",
+      "relation_type_formatted": "Parent story"
+    }
+  ],
+  "related_manga": [],
+  "recommendations": [],
+  "statistics": {
+    "status": {
+      "watching": "1284",
+      "completed": "27911",
+      "on_hold": "538",
+      "dropped": "510",
+      "plan_to_watch": "12232"
+    },
+    "num_list_users": 42475
+  },
+  "mal_details_updated_at": "2026-11-15T17:22:00.172Z",
   "simkl_id": 37474,
   "episodes_data": [
     {
@@ -1759,39 +1785,5 @@
       "description": null
     }
   ],
-  "characters": [],
-  "num_scoring_users": 17745,
-  "nsfw": "white",
-  "created_at": "2011-04-27T17:50:18+00:00",
-  "updated_at": "2022-11-17T07:06:09+00:00",
-  "source": "manga",
-  "background": null,
-  "related_anime": [
-    {
-      "node": {
-        "id": 918,
-        "title": "Gintama",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/10/73274.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/10/73274l.jpg"
-        }
-      },
-      "relation_type": "parent_story",
-      "relation_type_formatted": "Parent story"
-    }
-  ],
-  "related_manga": [],
-  "recommendations": [],
-  "statistics": {
-    "status": {
-      "watching": "1284",
-      "completed": "27911",
-      "on_hold": "538",
-      "dropped": "510",
-      "plan_to_watch": "12232"
-    },
-    "num_list_users": 42475
-  },
-  "mal_details_updated_at": "2026-11-15T17:22:00.172Z",
-  "translations_updated_at": "2026-11-15T17:24:10.146Z"
+  "translations_updated_at": "2026-11-15T22:15:24.555Z"
 }

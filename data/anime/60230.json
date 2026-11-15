@@ -30,8 +30,8 @@
   "num_episodes": 1,
   "score": null,
   "mean": null,
-  "numListUsers": 3720,
-  "num_list_users": 3720,
+  "numListUsers": 3721,
+  "num_list_users": 3721,
   "genres": [
     {
       "id": 8,
@@ -55,14 +55,11 @@
     }
   ],
   "studios": [],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1486/146354l.webp",
-    "https://cdn.myanimelist.net/images/anime/1255/160461l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T17:17:49.691Z",
+  "tmdb_updated_at": "2026-11-15T22:13:54.478Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1255/160461.webp",
@@ -75,32 +72,15 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1486/146354l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1255/160461l.webp"
     }
   },
   "broadcast": null,
   "rank": null,
   "popularity": 10766,
   "rating": "r",
-  "simkl_id": 2625628,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "title": "Complete Movie",
-      "aired": "2027-01-15T00:00:00+09:00",
-      "thumbnail": null,
-      "description": null,
-      "title_es": "Película completa"
-    }
-  ],
-  "specials_data": [],
-  "characters": [],
-  "num_scoring_users": null,
   "nsfw": "white",
-  "created_at": "2024-11-01T23:00:21+00:00",
-  "updated_at": "2026-10-08T22:48:17+00:00",
   "source": "original",
-  "background": null,
   "related_anime": [
     {
       "node": {
@@ -140,5 +120,17 @@
     "num_list_users": 3720
   },
   "mal_details_updated_at": "2026-11-15T17:17:49.009Z",
-  "translations_updated_at": "2026-11-15T17:24:33.906Z"
+  "simkl_id": 2625628,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "title": "Complete Movie",
+      "aired": "2027-01-15T00:00:00+09:00",
+      "thumbnail": null,
+      "description": null,
+      "title_es": "Película completa"
+    }
+  ],
+  "specials_data": [],
+  "translations_updated_at": "2026-11-15T22:15:47.366Z"
 }

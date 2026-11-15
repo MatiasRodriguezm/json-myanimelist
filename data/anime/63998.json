@@ -34,8 +34,8 @@
   "num_episodes": null,
   "score": null,
   "mean": null,
-  "numListUsers": 3174,
-  "num_list_users": 3174,
+  "numListUsers": 3176,
+  "num_list_users": 3176,
   "genres": [
     {
       "id": 1,
@@ -64,15 +64,11 @@
       "name": "Yanchester"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1352/156963l.webp",
-    "https://cdn.myanimelist.net/images/anime/1111/160120l.webp",
-    "https://cdn.myanimelist.net/images/anime/1290/160849l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": "320589",
-  "tmdb_updated_at": "2026-11-15T17:17:51.291Z",
+  "tmdb_updated_at": "2026-11-15T22:13:55.621Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1111/160120.webp",
@@ -85,32 +81,15 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1352/156963l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1111/160120l.webp"
     }
   },
   "broadcast": null,
   "rank": null,
   "popularity": 11363,
   "rating": null,
-  "simkl_id": 3092734,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "title": "Episode 1",
-      "aired": "2027-01-01T00:00:00+09:00",
-      "thumbnail": null,
-      "description": null,
-      "title_es": "Episodio 1"
-    }
-  ],
-  "specials_data": [],
-  "characters": [],
-  "num_scoring_users": null,
   "nsfw": "white",
-  "created_at": "2026-04-22T01:52:15+00:00",
-  "updated_at": "2026-09-18T18:50:18+00:00",
   "source": "light_novel",
-  "background": null,
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
@@ -125,5 +104,17 @@
     "num_list_users": 3174
   },
   "mal_details_updated_at": "2026-11-15T17:17:50.906Z",
-  "translations_updated_at": "2026-11-15T17:25:00.089Z"
+  "simkl_id": 3092734,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "title": "Episode 1",
+      "aired": "2027-01-01T00:00:00+09:00",
+      "thumbnail": null,
+      "description": null,
+      "title_es": "Episodio 1"
+    }
+  ],
+  "specials_data": [],
+  "translations_updated_at": "2026-11-15T22:16:10.443Z"
 }

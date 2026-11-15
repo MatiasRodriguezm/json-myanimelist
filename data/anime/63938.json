@@ -30,8 +30,8 @@
   "num_episodes": 3,
   "score": null,
   "mean": null,
-  "numListUsers": 1171,
-  "num_list_users": 1171,
+  "numListUsers": 1172,
+  "num_list_users": 1172,
   "genres": [
     {
       "id": 1,
@@ -56,14 +56,11 @@
       "name": "Studio Jemi"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1454/156802l.webp",
-    "https://cdn.myanimelist.net/images/anime/1380/159150l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T17:15:12.773Z",
+  "tmdb_updated_at": "2026-11-15T22:12:53.172Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1380/159150.webp",
@@ -76,7 +73,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1454/156802l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1380/159150l.webp"
     }
   },
   "broadcast": {
@@ -90,25 +87,9 @@
   "rank": 16100,
   "popularity": 15028,
   "rating": "pg_13",
-  "simkl_id": 3078868,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "title": "Complete Movie",
-      "aired": "2026-10-02T08:00:00+09:00",
-      "thumbnail": null,
-      "description": null,
-      "title_es": "Película completa"
-    }
-  ],
-  "specials_data": [],
-  "characters": [],
   "num_scoring_users": 64,
   "nsfw": "white",
-  "created_at": "2026-04-10T23:57:06+00:00",
-  "updated_at": "2026-07-24T14:50:03+00:00",
   "source": "original",
-  "background": null,
   "related_anime": [
     {
       "node": {
@@ -136,5 +117,17 @@
     "num_list_users": 1171
   },
   "mal_details_updated_at": "2026-11-15T17:15:12.057Z",
-  "translations_updated_at": "2026-11-15T17:24:59.799Z"
+  "simkl_id": 3078868,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "title": "Complete Movie",
+      "aired": "2026-10-02T08:00:00+09:00",
+      "thumbnail": null,
+      "description": null,
+      "title_es": "Película completa"
+    }
+  ],
+  "specials_data": [],
+  "translations_updated_at": "2026-11-15T22:16:10.173Z"
 }

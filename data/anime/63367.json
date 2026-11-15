@@ -28,10 +28,10 @@
   },
   "episodes": null,
   "num_episodes": null,
-  "score": 8.18,
-  "mean": 8.18,
-  "numListUsers": 55002,
-  "num_list_users": 55002,
+  "score": 8.17,
+  "mean": 8.17,
+  "numListUsers": 55089,
+  "num_list_users": 55089,
   "genres": [
     {
       "id": 1,
@@ -60,10 +60,7 @@
       "name": "Toei Animation"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1015/155108l.webp",
-    "https://cdn.myanimelist.net/images/anime/1624/159991l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/aFlyMKCE5hAR0OyUSMSbihFHgif.png",
   "tmdb_id": "312359",
@@ -80,7 +77,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1015/155108l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1624/159991l.webp"
     }
   },
   "broadcast": {
@@ -94,6 +91,48 @@
   "rank": 483,
   "popularity": 3530,
   "rating": "pg_13",
+  "num_scoring_users": 7436,
+  "nsfw": "white",
+  "source": "manga",
+  "related_anime": [
+    {
+      "node": {
+        "id": 14837,
+        "title": "Dragon Ball Z Movie 14: Kami to Kami",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1734/93678.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1734/93678l.webp"
+        }
+      },
+      "relation_type": "alternative_version",
+      "relation_type_formatted": "Alternative version"
+    },
+    {
+      "node": {
+        "id": 30694,
+        "title": "Dragon Ball Super",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/7/74606.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/7/74606l.jpg"
+        }
+      },
+      "relation_type": "alternative_version",
+      "relation_type_formatted": "Alternative version"
+    }
+  ],
+  "related_manga": [],
+  "recommendations": [],
+  "statistics": {
+    "status": {
+      "watching": "30691",
+      "completed": "2",
+      "on_hold": "494",
+      "dropped": "437",
+      "plan_to_watch": "23378"
+    },
+    "num_list_users": 55002
+  },
+  "mal_details_updated_at": "2026-11-15T17:13:11.164Z",
   "simkl_id": 3281958,
   "episodes_data": [
     {
@@ -140,7 +179,7 @@
       "episode": 6,
       "title": "Battle of Gods",
       "aired": "2026-11-15T23:15:00+09:00",
-      "thumbnail": null,
+      "thumbnail": "https://simkl.in/episodes/21/21090801b1b6483aed_w.webp",
       "description": null,
       "title_es": "Batalla de dioses"
     },
@@ -194,51 +233,5 @@
     }
   ],
   "specials_data": [],
-  "characters": [],
-  "num_scoring_users": 7436,
-  "nsfw": "white",
-  "created_at": "2026-01-25T09:22:20+00:00",
-  "updated_at": "2026-10-11T15:55:49+00:00",
-  "source": "manga",
-  "background": null,
-  "related_anime": [
-    {
-      "node": {
-        "id": 14837,
-        "title": "Dragon Ball Z Movie 14: Kami to Kami",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1734/93678.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1734/93678l.webp"
-        }
-      },
-      "relation_type": "alternative_version",
-      "relation_type_formatted": "Alternative version"
-    },
-    {
-      "node": {
-        "id": 30694,
-        "title": "Dragon Ball Super",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/7/74606.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/7/74606l.jpg"
-        }
-      },
-      "relation_type": "alternative_version",
-      "relation_type_formatted": "Alternative version"
-    }
-  ],
-  "related_manga": [],
-  "recommendations": [],
-  "statistics": {
-    "status": {
-      "watching": "30691",
-      "completed": "2",
-      "on_hold": "494",
-      "dropped": "437",
-      "plan_to_watch": "23378"
-    },
-    "num_list_users": 55002
-  },
-  "mal_details_updated_at": "2026-11-15T17:13:11.164Z",
-  "translations_updated_at": "2026-11-15T17:24:53.731Z"
+  "translations_updated_at": "2026-11-15T22:16:05.174Z"
 }

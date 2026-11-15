@@ -30,8 +30,8 @@
   "num_episodes": 1,
   "score": 8.39,
   "mean": 8.39,
-  "numListUsers": 52299,
-  "num_list_users": 52299,
+  "numListUsers": 52305,
+  "num_list_users": 52305,
   "genres": [
     {
       "id": 8,
@@ -52,16 +52,7 @@
       "name": "Nut"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1703/118920l.webp",
-    "https://cdn.myanimelist.net/images/anime/1665/124693l.webp",
-    "https://cdn.myanimelist.net/images/anime/1289/124694l.webp",
-    "https://cdn.myanimelist.net/images/anime/1438/124705l.webp",
-    "https://cdn.myanimelist.net/images/anime/1802/129467l.webp",
-    "https://cdn.myanimelist.net/images/anime/1576/132154l.webp",
-    "https://cdn.myanimelist.net/images/anime/1958/132159l.webp",
-    "https://cdn.myanimelist.net/images/anime/1108/135247l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/pRfBBi7q8cvM4NiKCh9cGmQdocV.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/45YdjAYhSDjwgRhycX5AmyPr1yr.png",
   "tmdb_id": "887870",
@@ -78,55 +69,15 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1703/118920l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1958/132159l.webp"
     }
   },
   "broadcast": null,
   "rank": 242,
   "popularity": 3629,
   "rating": "pg_13",
-  "simkl_id": 1758943,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "title": "Complete Movie",
-      "title_es": "Película completa",
-      "aired": "2023-02-17T00:00:00+09:00",
-      "thumbnail": null,
-      "description": null
-    }
-  ],
-  "specials_data": [
-    {
-      "episode": 1,
-      "title": "Completion Preview Screening Event",
-      "title_es": "Finalización del evento de proyección previa",
-      "aired": true,
-      "thumbnail": null,
-      "description": null
-    },
-    {
-      "episode": 2,
-      "title": "First Day Theater Greeting Event",
-      "title_es": "Evento de bienvenida al teatro del primer día",
-      "aired": true,
-      "thumbnail": null,
-      "description": null
-    },
-    {
-      "episode": 3,
-      "title": "Q&A with Hiromi",
-      "title_es": "Preguntas y respuestas con Hiromi",
-      "aired": true,
-      "thumbnail": null,
-      "description": null
-    }
-  ],
-  "characters": [],
   "num_scoring_users": 19371,
   "nsfw": "white",
-  "created_at": "2021-10-21T01:38:19+00:00",
-  "updated_at": "2026-06-20T10:16:48+00:00",
   "source": "manga",
   "background": "Blue Giant won the Best Music Award at the 47th Japan Academy Film Prizes in 2024.\n\nThe film was released on Blu-ray in North America by Shout! Factory on April 30, 2024.",
   "related_anime": [],
@@ -254,5 +205,42 @@
     "num_list_users": 52247
   },
   "mal_details_updated_at": "2026-11-15T17:20:24.024Z",
-  "translations_updated_at": "2026-11-15T17:24:06.152Z"
+  "simkl_id": 1758943,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "title": "Complete Movie",
+      "title_es": "Película completa",
+      "aired": "2023-02-17T00:00:00+09:00",
+      "thumbnail": null,
+      "description": null
+    }
+  ],
+  "specials_data": [
+    {
+      "episode": 1,
+      "title": "Completion Preview Screening Event",
+      "title_es": "Finalización del evento de proyección previa",
+      "aired": true,
+      "thumbnail": null,
+      "description": null
+    },
+    {
+      "episode": 2,
+      "title": "First Day Theater Greeting Event",
+      "title_es": "Evento de bienvenida al teatro del primer día",
+      "aired": true,
+      "thumbnail": null,
+      "description": null
+    },
+    {
+      "episode": 3,
+      "title": "Q&A with Hiromi",
+      "title_es": "Preguntas y respuestas con Hiromi",
+      "aired": true,
+      "thumbnail": null,
+      "description": null
+    }
+  ],
+  "translations_updated_at": "2026-11-15T22:15:20.347Z"
 }

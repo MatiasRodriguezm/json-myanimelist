@@ -32,8 +32,8 @@
   "num_episodes": 12,
   "score": 7.21,
   "mean": 7.21,
-  "numListUsers": 35077,
-  "num_list_users": 35077,
+  "numListUsers": 35103,
+  "num_list_users": 35103,
   "genres": [
     {
       "id": 2,
@@ -58,13 +58,7 @@
       "name": "SILVER LINK."
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1391/145200l.webp",
-    "https://cdn.myanimelist.net/images/anime/1055/145202l.webp",
-    "https://cdn.myanimelist.net/images/anime/1454/153633l.webp",
-    "https://cdn.myanimelist.net/images/anime/1402/158487l.webp",
-    "https://cdn.myanimelist.net/images/anime/1655/159979l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/xljpEwFQF6Rl1rU1w7SEs1pk3YE.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/wtdVpvYlnwARmdJesDEk88IQh8M.png",
   "tmdb_id": "206630",
@@ -81,7 +75,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1391/145200l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1655/159979l.webp"
     }
   },
   "broadcast": {
@@ -95,6 +89,36 @@
   "rank": 3770,
   "popularity": 4483,
   "rating": "pg_13",
+  "num_scoring_users": 2696,
+  "nsfw": "white",
+  "source": "light_novel",
+  "related_anime": [
+    {
+      "node": {
+        "id": 52482,
+        "title": "Sasaki to Pii-chan",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1624/139672.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1624/139672l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    }
+  ],
+  "related_manga": [],
+  "recommendations": [],
+  "statistics": {
+    "status": {
+      "watching": "13289",
+      "completed": "2",
+      "on_hold": "284",
+      "dropped": "390",
+      "plan_to_watch": "21114"
+    },
+    "num_list_users": 35079
+  },
+  "mal_details_updated_at": "2026-11-15T17:13:28.931Z",
   "simkl_id": 2414238,
   "episodes_data": [
     {
@@ -195,39 +219,5 @@
     }
   ],
   "specials_data": [],
-  "characters": [],
-  "num_scoring_users": 2696,
-  "nsfw": "white",
-  "created_at": "2024-03-24T07:00:03+00:00",
-  "updated_at": "2026-10-07T19:21:07+00:00",
-  "source": "light_novel",
-  "background": null,
-  "related_anime": [
-    {
-      "node": {
-        "id": 52482,
-        "title": "Sasaki to Pii-chan",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1624/139672.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1624/139672l.jpg"
-        }
-      },
-      "relation_type": "prequel",
-      "relation_type_formatted": "Prequel"
-    }
-  ],
-  "related_manga": [],
-  "recommendations": [],
-  "statistics": {
-    "status": {
-      "watching": "13289",
-      "completed": "2",
-      "on_hold": "284",
-      "dropped": "390",
-      "plan_to_watch": "21114"
-    },
-    "num_list_users": 35079
-  },
-  "mal_details_updated_at": "2026-11-15T17:13:28.931Z",
-  "translations_updated_at": "2026-11-15T17:24:30.026Z"
+  "translations_updated_at": "2026-11-15T22:15:43.369Z"
 }

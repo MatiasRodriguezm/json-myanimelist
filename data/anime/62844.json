@@ -30,8 +30,8 @@
   "num_episodes": 1,
   "score": null,
   "mean": null,
-  "numListUsers": 70147,
-  "num_list_users": 70147,
+  "numListUsers": 70168,
+  "num_list_users": 70168,
   "genres": [
     {
       "id": 8,
@@ -56,11 +56,7 @@
       "name": "TOHO animation STUDIO"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1059/152815l.webp",
-    "https://cdn.myanimelist.net/images/anime/1656/158840l.webp",
-    "https://cdn.myanimelist.net/images/anime/1751/160650l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/yOUg48i59CeX4Qd20ItYi8lTAW2.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/f4gQGrMijpV6oEKL3xnJ5IXDOI5.png",
   "tmdb_id": "1566920",
@@ -77,32 +73,15 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1059/152815l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1751/160650l.webp"
     }
   },
   "broadcast": null,
   "rank": null,
   "popularity": 3078,
   "rating": "pg_13",
-  "simkl_id": 2909050,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "title": "Complete Movie",
-      "aired": "2026-12-11T00:00:00+09:00",
-      "thumbnail": null,
-      "description": null,
-      "title_es": "Película completa"
-    }
-  ],
-  "specials_data": [],
-  "characters": [],
-  "num_scoring_users": null,
   "nsfw": "white",
-  "created_at": "2025-10-22T15:22:43+00:00",
-  "updated_at": "2026-08-16T15:25:22+00:00",
   "source": "light_novel",
-  "background": null,
   "related_anime": [
     {
       "node": {
@@ -130,5 +109,17 @@
     "num_list_users": 70147
   },
   "mal_details_updated_at": "2026-11-15T17:15:04.515Z",
-  "translations_updated_at": "2026-11-15T17:24:46.718Z"
+  "simkl_id": 2909050,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "title": "Complete Movie",
+      "aired": "2026-12-11T00:00:00+09:00",
+      "thumbnail": null,
+      "description": null,
+      "title_es": "Película completa"
+    }
+  ],
+  "specials_data": [],
+  "translations_updated_at": "2026-11-15T22:15:58.491Z"
 }

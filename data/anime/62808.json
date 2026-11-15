@@ -33,8 +33,8 @@
   "num_episodes": null,
   "score": null,
   "mean": null,
-  "numListUsers": 11413,
-  "num_list_users": 11413,
+  "numListUsers": 11421,
+  "num_list_users": 11421,
   "genres": [
     {
       "id": 50,
@@ -59,16 +59,11 @@
       "name": "Sakura Create"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1511/155454l.webp",
-    "https://cdn.myanimelist.net/images/anime/1433/155455l.webp",
-    "https://cdn.myanimelist.net/images/anime/1985/160227l.webp",
-    "https://cdn.myanimelist.net/images/anime/1613/160883l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": "314118",
-  "tmdb_updated_at": "2026-11-15T17:17:07.340Z",
+  "tmdb_updated_at": "2026-11-15T22:13:44.883Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1985/160227.webp",
@@ -81,32 +76,15 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1511/155454l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1985/160227l.webp"
     }
   },
   "broadcast": null,
   "rank": null,
   "popularity": 7080,
   "rating": null,
-  "simkl_id": 2905686,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "title": "Episode 1",
-      "aired": "2027-01-01T00:00:00+09:00",
-      "thumbnail": null,
-      "description": null,
-      "title_es": "Episodio 1"
-    }
-  ],
-  "specials_data": [],
-  "characters": [],
-  "num_scoring_users": null,
   "nsfw": "white",
-  "created_at": "2025-10-17T11:45:18+00:00",
-  "updated_at": "2025-10-17T12:15:24+00:00",
   "source": "manga",
-  "background": null,
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
@@ -121,5 +99,17 @@
     "num_list_users": 11413
   },
   "mal_details_updated_at": "2026-11-15T17:17:06.918Z",
-  "translations_updated_at": "2026-11-15T17:24:46.312Z"
+  "simkl_id": 2905686,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "title": "Episode 1",
+      "aired": "2027-01-01T00:00:00+09:00",
+      "thumbnail": null,
+      "description": null,
+      "title_es": "Episodio 1"
+    }
+  ],
+  "specials_data": [],
+  "translations_updated_at": "2026-11-15T22:15:58.130Z"
 }

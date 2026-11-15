@@ -32,8 +32,8 @@
   "num_episodes": 1,
   "score": 8.21,
   "mean": 8.21,
-  "numListUsers": 256315,
-  "num_list_users": 256315,
+  "numListUsers": 256326,
+  "num_list_users": 256326,
   "genres": [
     {
       "id": 4,
@@ -66,10 +66,7 @@
       "name": "Egg Firm"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1159/95661l.webp",
-    "https://cdn.myanimelist.net/images/anime/1298/96432l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/hI76O9slOz3vPkhQWWQoN36WyhG.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/eLqHIN9F9Wo029f8LowGLKwGWmU.png",
   "tmdb_id": "67676",
@@ -93,41 +90,9 @@
   "rank": 444,
   "popularity": 1145,
   "rating": "pg_13",
-  "simkl_id": 850565,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "title": "TV Special",
-      "title_es": "Especial de televisión",
-      "aired": "2018-12-28T00:00:00+09:00",
-      "thumbnail": null,
-      "description": null
-    },
-    {
-      "episode": 2,
-      "title": "Part 1 of 2",
-      "title_es": "Parte 1 de 2",
-      "aired": "2018-12-28T00:00:00+09:00",
-      "thumbnail": null,
-      "description": null
-    },
-    {
-      "episode": 3,
-      "title": "Part 2 of 2",
-      "title_es": "Parte 2 de 2",
-      "aired": "2018-12-28T00:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/14/1449559734a806b9e3_w.webp",
-      "description": null
-    }
-  ],
-  "specials_data": [],
-  "characters": [],
   "num_scoring_users": 151559,
   "nsfw": "white",
-  "created_at": "2018-08-30T12:09:31+00:00",
-  "updated_at": "2024-10-04T15:13:10+00:00",
   "source": "manga",
-  "background": null,
   "related_anime": [
     {
       "node": {
@@ -212,5 +177,33 @@
     "num_list_users": 256272
   },
   "mal_details_updated_at": "2026-11-15T17:21:52.690Z",
-  "translations_updated_at": "2026-11-15T17:24:08.996Z"
+  "simkl_id": 850565,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "title": "TV Special",
+      "title_es": "Especial de televisión",
+      "aired": "2018-12-28T00:00:00+09:00",
+      "thumbnail": null,
+      "description": null
+    },
+    {
+      "episode": 2,
+      "title": "Part 1 of 2",
+      "title_es": "Parte 1 de 2",
+      "aired": "2018-12-28T00:00:00+09:00",
+      "thumbnail": null,
+      "description": null
+    },
+    {
+      "episode": 3,
+      "title": "Part 2 of 2",
+      "title_es": "Parte 2 de 2",
+      "aired": "2018-12-28T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/14/1449559734a806b9e3_w.webp",
+      "description": null
+    }
+  ],
+  "specials_data": [],
+  "translations_updated_at": "2026-11-15T22:15:22.641Z"
 }

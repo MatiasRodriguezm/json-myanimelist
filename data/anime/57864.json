@@ -35,8 +35,8 @@
   "num_episodes": 14,
   "score": 8.63,
   "mean": 8.63,
-  "numListUsers": 109762,
-  "num_list_users": 109762,
+  "numListUsers": 109775,
+  "num_list_users": 109775,
   "genres": [
     {
       "id": 4,
@@ -61,12 +61,7 @@
       "name": "Shaft"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1741/140952l.webp",
-    "https://cdn.myanimelist.net/images/anime/1793/142260l.webp",
-    "https://cdn.myanimelist.net/images/anime/1223/145353l.webp",
-    "https://cdn.myanimelist.net/images/anime/1142/146776l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/cHII6sQ91q8H5EMONKCwCQMauCP.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/1PloWpJba8A3I0x8Ry92IGYromk.png",
   "tmdb_id": "46195",
@@ -83,13 +78,92 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1741/140952l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1142/146776l.webp"
     }
   },
   "broadcast": null,
   "rank": 98,
   "popularity": 2310,
   "rating": "r",
+  "num_scoring_users": 42773,
+  "nsfw": "white",
+  "source": "light_novel",
+  "background": "Monogatari Series: Off & Monster Season was released on Blu-ray and DVD in seven volumes from December 11, 2024, to June 4, 2025.",
+  "related_anime": [
+    {
+      "node": {
+        "id": 36999,
+        "title": "Zoku Owarimonogatari",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1022/96168.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1022/96168l.webp"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    },
+    {
+      "node": {
+        "id": 59612,
+        "title": "Monogatari Series: Off & Monster Season - Zankoku Douwa: Utsukushi-hime",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1887/144936.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1887/144936l.jpg"
+        }
+      },
+      "relation_type": "side_story",
+      "relation_type_formatted": "Side story"
+    },
+    {
+      "node": {
+        "id": 59825,
+        "title": "Undead",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1760/145472.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1760/145472l.jpg"
+        }
+      },
+      "relation_type": "other",
+      "relation_type_formatted": "Other"
+    },
+    {
+      "node": {
+        "id": 61968,
+        "title": "Monogatari Series: Off & Monster Season - Wazamonogatari: Karen Ogre",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1823/150866.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1823/150866l.jpg"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    }
+  ],
+  "related_manga": [],
+  "recommendations": [
+    {
+      "node": {
+        "id": 37999,
+        "title": "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1295/106551.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1295/106551l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "15827",
+      "completed": "47384",
+      "on_hold": "3046",
+      "dropped": "1221",
+      "plan_to_watch": "42161"
+    },
+    "num_list_users": 109639
+  },
+  "mal_details_updated_at": "2026-11-15T17:21:44.221Z",
   "simkl_id": 2352394,
   "episodes_data": [
     {
@@ -223,87 +297,5 @@
       "description": null
     }
   ],
-  "characters": [],
-  "num_scoring_users": 42773,
-  "nsfw": "white",
-  "created_at": "2024-01-18T09:13:30+00:00",
-  "updated_at": "2024-10-19T15:29:42+00:00",
-  "source": "light_novel",
-  "background": "Monogatari Series: Off & Monster Season was released on Blu-ray and DVD in seven volumes from December 11, 2024, to June 4, 2025.",
-  "related_anime": [
-    {
-      "node": {
-        "id": 36999,
-        "title": "Zoku Owarimonogatari",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1022/96168.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1022/96168l.webp"
-        }
-      },
-      "relation_type": "prequel",
-      "relation_type_formatted": "Prequel"
-    },
-    {
-      "node": {
-        "id": 59612,
-        "title": "Monogatari Series: Off & Monster Season - Zankoku Douwa: Utsukushi-hime",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1887/144936.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1887/144936l.jpg"
-        }
-      },
-      "relation_type": "side_story",
-      "relation_type_formatted": "Side story"
-    },
-    {
-      "node": {
-        "id": 59825,
-        "title": "Undead",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1760/145472.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1760/145472l.jpg"
-        }
-      },
-      "relation_type": "other",
-      "relation_type_formatted": "Other"
-    },
-    {
-      "node": {
-        "id": 61968,
-        "title": "Monogatari Series: Off & Monster Season - Wazamonogatari: Karen Ogre",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1823/150866.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1823/150866l.jpg"
-        }
-      },
-      "relation_type": "sequel",
-      "relation_type_formatted": "Sequel"
-    }
-  ],
-  "related_manga": [],
-  "recommendations": [
-    {
-      "node": {
-        "id": 37999,
-        "title": "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1295/106551.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1295/106551l.jpg"
-        }
-      },
-      "num_recommendations": 1
-    }
-  ],
-  "statistics": {
-    "status": {
-      "watching": "15827",
-      "completed": "47384",
-      "on_hold": "3046",
-      "dropped": "1221",
-      "plan_to_watch": "42161"
-    },
-    "num_list_users": 109639
-  },
-  "mal_details_updated_at": "2026-11-15T17:21:44.221Z",
-  "translations_updated_at": "2026-11-15T17:24:03.257Z"
+  "translations_updated_at": "2026-11-15T22:15:17.450Z"
 }

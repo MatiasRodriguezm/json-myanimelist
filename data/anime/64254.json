@@ -30,10 +30,10 @@
   },
   "episodes": 12,
   "num_episodes": 12,
-  "score": 6.41,
-  "mean": 6.41,
-  "numListUsers": 35327,
-  "num_list_users": 35327,
+  "score": 6.42,
+  "mean": 6.42,
+  "numListUsers": 35357,
+  "num_list_users": 35357,
   "genres": [
     {
       "id": 1,
@@ -54,10 +54,7 @@
       "name": "Zero-G"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1968/158143l.webp",
-    "https://cdn.myanimelist.net/images/anime/1190/159644l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/oL459mgvcnc3jL90K7zkfvXQu0.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/8OsfCGXIj6dc65ln2Cr567zh2sj.png",
   "tmdb_id": "200777",
@@ -74,7 +71,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1968/158143l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1190/159644l.webp"
     }
   },
   "broadcast": {
@@ -88,6 +85,36 @@
   "rank": 8689,
   "popularity": 4468,
   "rating": "pg_13",
+  "num_scoring_users": 2886,
+  "nsfw": "white",
+  "source": "light_novel",
+  "related_anime": [
+    {
+      "node": {
+        "id": 51711,
+        "title": "Hyouken no Majutsushi ga Sekai wo Suberu",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1049/131580.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1049/131580l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    }
+  ],
+  "related_manga": [],
+  "recommendations": [],
+  "statistics": {
+    "status": {
+      "watching": "15298",
+      "completed": "2",
+      "on_hold": "462",
+      "dropped": "868",
+      "plan_to_watch": "18694"
+    },
+    "num_list_users": 35324
+  },
+  "mal_details_updated_at": "2026-11-15T17:14:48.991Z",
   "simkl_id": 3127764,
   "episodes_data": [
     {
@@ -156,39 +183,5 @@
     }
   ],
   "specials_data": [],
-  "characters": [],
-  "num_scoring_users": 2886,
-  "nsfw": "white",
-  "created_at": "2026-05-22T11:02:14+00:00",
-  "updated_at": "2026-10-08T19:01:44+00:00",
-  "source": "light_novel",
-  "background": null,
-  "related_anime": [
-    {
-      "node": {
-        "id": 51711,
-        "title": "Hyouken no Majutsushi ga Sekai wo Suberu",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1049/131580.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1049/131580l.jpg"
-        }
-      },
-      "relation_type": "prequel",
-      "relation_type_formatted": "Prequel"
-    }
-  ],
-  "related_manga": [],
-  "recommendations": [],
-  "statistics": {
-    "status": {
-      "watching": "15298",
-      "completed": "2",
-      "on_hold": "462",
-      "dropped": "868",
-      "plan_to_watch": "18694"
-    },
-    "num_list_users": 35324
-  },
-  "mal_details_updated_at": "2026-11-15T17:14:48.991Z",
-  "translations_updated_at": "2026-11-15T17:25:01.166Z"
+  "translations_updated_at": "2026-11-15T22:16:11.506Z"
 }

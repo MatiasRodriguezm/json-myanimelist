@@ -60,11 +60,7 @@
       "name": "Shaft"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/3/72754l.webp",
-    "https://cdn.myanimelist.net/images/anime/1954/132952l.webp",
-    "https://cdn.myanimelist.net/images/anime/1913/146300l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/POCKoyMDc7YH50vlTyjicqJgqW.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/kqgRbdzbIY00BZsEIPYvuCPhEyE.png",
   "tmdb_id": "45893",
@@ -81,40 +77,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/3/72754l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1913/146300l.webp"
     }
   },
   "broadcast": null,
   "rank": 560,
   "popularity": 6022,
   "rating": "pg_13",
-  "simkl_id": 45394,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "title": "February 1st - 20th, Exam Sketch",
-      "title_es": "Del 1 al 20 de febrero, bosquejo del examen",
-      "aired": "2013-11-27T00:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/17/17576299160e849961_w.webp",
-      "description": null
-    },
-    {
-      "episode": 2,
-      "title": "February 28 - March 1, Graduation Sketch",
-      "title_es": "28 de febrero - 1 de marzo, Bosquejo de graduación",
-      "aired": "2013-11-27T00:00:00+09:00",
-      "thumbnail": null,
-      "description": null
-    }
-  ],
-  "specials_data": [],
-  "characters": [],
   "num_scoring_users": 7354,
   "nsfw": "white",
-  "created_at": "2013-03-08T11:54:54+00:00",
-  "updated_at": "2023-09-12T22:27:57+00:00",
   "source": "4_koma_manga",
-  "background": null,
   "related_anime": [
     {
       "node": {
@@ -165,5 +137,25 @@
     "num_list_users": 17201
   },
   "mal_details_updated_at": "2026-11-15T17:21:29.193Z",
-  "translations_updated_at": "2026-11-15T17:24:14.984Z"
+  "simkl_id": 45394,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "title": "February 1st - 20th, Exam Sketch",
+      "title_es": "Del 1 al 20 de febrero, bosquejo del examen",
+      "aired": "2013-11-27T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/17576299160e849961_w.webp",
+      "description": null
+    },
+    {
+      "episode": 2,
+      "title": "February 28 - March 1, Graduation Sketch",
+      "title_es": "28 de febrero - 1 de marzo, Bosquejo de graduación",
+      "aired": "2013-11-27T00:00:00+09:00",
+      "thumbnail": null,
+      "description": null
+    }
+  ],
+  "specials_data": [],
+  "translations_updated_at": "2026-11-15T22:15:29.255Z"
 }

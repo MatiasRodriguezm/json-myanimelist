@@ -52,10 +52,7 @@
       "name": "DLE"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1966/153554l.webp",
-    "https://cdn.myanimelist.net/images/anime/1899/155697l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/6xFW6WBy6dcn1OlNpGCsoAxyoYK.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/w2CVe5bTNx1JIMdxpO6Uj86qHs2.png",
   "tmdb_id": "319455",
@@ -72,7 +69,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1966/153554l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1899/155697l.webp"
     }
   },
   "broadcast": {
@@ -86,6 +83,36 @@
   "rank": 20900,
   "popularity": 20808,
   "rating": "g",
+  "num_scoring_users": 18,
+  "nsfw": "white",
+  "source": "manga",
+  "related_anime": [
+    {
+      "node": {
+        "id": 32571,
+        "title": "Shounen Ashibe: Go! Go! Goma-chan",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/4/79805.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/4/79805l.jpg"
+        }
+      },
+      "relation_type": "parent_story",
+      "relation_type_formatted": "Parent story"
+    }
+  ],
+  "related_manga": [],
+  "recommendations": [],
+  "statistics": {
+    "status": {
+      "watching": "49",
+      "completed": 0,
+      "on_hold": "14",
+      "dropped": "131",
+      "plan_to_watch": "183"
+    },
+    "num_list_users": 377
+  },
+  "mal_details_updated_at": "2026-11-15T17:16:03.908Z",
   "simkl_id": 3042350,
   "episodes_data": [
     {
@@ -378,39 +405,5 @@
     }
   ],
   "specials_data": [],
-  "characters": [],
-  "num_scoring_users": 18,
-  "nsfw": "white",
-  "created_at": "2025-11-13T07:08:51+00:00",
-  "updated_at": "2026-03-07T23:56:29+00:00",
-  "source": "manga",
-  "background": null,
-  "related_anime": [
-    {
-      "node": {
-        "id": 32571,
-        "title": "Shounen Ashibe: Go! Go! Goma-chan",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/4/79805.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/4/79805l.jpg"
-        }
-      },
-      "relation_type": "parent_story",
-      "relation_type_formatted": "Parent story"
-    }
-  ],
-  "related_manga": [],
-  "recommendations": [],
-  "statistics": {
-    "status": {
-      "watching": "49",
-      "completed": 0,
-      "on_hold": "14",
-      "dropped": "131",
-      "plan_to_watch": "183"
-    },
-    "num_list_users": 377
-  },
-  "mal_details_updated_at": "2026-11-15T17:16:03.908Z",
-  "translations_updated_at": "2026-11-15T17:24:48.039Z"
+  "translations_updated_at": "2026-11-15T22:15:59.042Z"
 }

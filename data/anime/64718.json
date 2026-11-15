@@ -32,8 +32,8 @@
   "num_episodes": null,
   "score": 5.94,
   "mean": 5.94,
-  "numListUsers": 4095,
-  "num_list_users": 4095,
+  "numListUsers": 4096,
+  "num_list_users": 4096,
   "genres": [
     {
       "id": 60,
@@ -46,9 +46,7 @@
       "name": "AtoriE"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1800/159261l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/tRKExfBgUi4LzZ4z1bZ0W7RRg6w.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/2tOo2AGDUzIxuoJB9xZ4NjUy85W.png",
   "tmdb_id": "334103",
@@ -79,6 +77,36 @@
   "rank": 11401,
   "popularity": 10474,
   "rating": "pg_13",
+  "num_scoring_users": 309,
+  "nsfw": "white",
+  "source": "4_koma_manga",
+  "related_anime": [
+    {
+      "node": {
+        "id": 9539,
+        "title": "Cardfight!! Vanguard",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1856/113654.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1856/113654l.jpg"
+        }
+      },
+      "relation_type": "parent_story",
+      "relation_type_formatted": "Parent story"
+    }
+  ],
+  "related_manga": [],
+  "recommendations": [],
+  "statistics": {
+    "status": {
+      "watching": "1431",
+      "completed": 0,
+      "on_hold": "88",
+      "dropped": "236",
+      "plan_to_watch": "2340"
+    },
+    "num_list_users": 4095
+  },
+  "mal_details_updated_at": "2026-11-15T17:14:59.415Z",
   "simkl_id": 3240648,
   "episodes_data": [
     {
@@ -179,39 +207,5 @@
     }
   ],
   "specials_data": [],
-  "characters": [],
-  "num_scoring_users": 309,
-  "nsfw": "white",
-  "created_at": "2026-07-31T16:02:26+00:00",
-  "updated_at": "2026-09-27T22:36:53+00:00",
-  "source": "4_koma_manga",
-  "background": null,
-  "related_anime": [
-    {
-      "node": {
-        "id": 9539,
-        "title": "Cardfight!! Vanguard",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1856/113654.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1856/113654l.jpg"
-        }
-      },
-      "relation_type": "parent_story",
-      "relation_type_formatted": "Parent story"
-    }
-  ],
-  "related_manga": [],
-  "recommendations": [],
-  "statistics": {
-    "status": {
-      "watching": "1431",
-      "completed": 0,
-      "on_hold": "88",
-      "dropped": "236",
-      "plan_to_watch": "2340"
-    },
-    "num_list_users": 4095
-  },
-  "mal_details_updated_at": "2026-11-15T17:14:59.415Z",
-  "translations_updated_at": "2026-11-15T17:25:05.730Z"
+  "translations_updated_at": "2026-11-15T22:16:15.673Z"
 }

@@ -32,8 +32,8 @@
   "num_episodes": 5,
   "score": 7.91,
   "mean": 7.91,
-  "numListUsers": 461022,
-  "num_list_users": 461022,
+  "numListUsers": 461031,
+  "num_list_users": 461031,
   "genres": [
     {
       "id": 4,
@@ -54,11 +54,7 @@
       "name": "Shaft"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/2/62643l.webp",
-    "https://cdn.myanimelist.net/images/anime/13/65755l.webp",
-    "https://cdn.myanimelist.net/images/anime/2/65761l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/cHII6sQ91q8H5EMONKCwCQMauCP.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/1PloWpJba8A3I0x8Ry92IGYromk.png",
   "tmdb_id": "46195",
@@ -75,70 +71,15 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/2/62643l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/13/65755l.webp"
     }
   },
   "broadcast": null,
   "rank": 921,
   "popularity": 590,
   "rating": "r",
-  "simkl_id": 46134,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "title": "TV Special",
-      "title_es": "Especial de televisión",
-      "aired": "2014-08-16T00:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/27/27561621bce9cc347_w.webp",
-      "description": "Hanamonogatari follows Suruga Kanbaru after Koyomi Araragi has graduated from high school."
-    },
-    {
-      "episode": 2,
-      "title": "Part 1 of 5",
-      "title_es": "Parte 1 de 5",
-      "aired": "2014-08-16T00:00:00+09:00",
-      "thumbnail": null,
-      "description": null
-    },
-    {
-      "episode": 3,
-      "title": "Part 2 of 5",
-      "title_es": "Parte 2 de 5",
-      "aired": "2014-08-16T00:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/17/175801534c426c40bd_w.webp",
-      "description": null
-    },
-    {
-      "episode": 4,
-      "title": "Part 3 of 5",
-      "title_es": "Parte 3 de 5",
-      "aired": "2014-08-16T00:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/17/1758015521bacc04fa_w.webp",
-      "description": null
-    },
-    {
-      "episode": 5,
-      "title": "Part 4 of 5",
-      "title_es": "Parte 4 de 5",
-      "aired": "2014-08-16T00:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/17/17580157ac647009a8_w.webp",
-      "description": null
-    },
-    {
-      "episode": 6,
-      "title": "Part 5 of 5",
-      "title_es": "Parte 5 de 5",
-      "aired": "2014-08-16T00:00:00+09:00",
-      "thumbnail": "https://simkl.in/episodes/17/17580159669c5f2628_w.webp",
-      "description": null
-    }
-  ],
-  "specials_data": [],
-  "characters": [],
   "num_scoring_users": 259902,
   "nsfw": "white",
-  "created_at": "2013-12-29T19:22:52+00:00",
-  "updated_at": "2024-02-04T16:05:24+00:00",
   "source": "light_novel",
   "background": "Hanamonogatari adapts the third volume of NisiOisiN's Monogatari Series: Second Season.",
   "related_anime": [
@@ -236,5 +177,57 @@
     "num_list_users": 460950
   },
   "mal_details_updated_at": "2026-11-15T17:22:05.258Z",
-  "translations_updated_at": "2026-11-15T17:24:17.873Z"
+  "simkl_id": 46134,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "title": "TV Special",
+      "title_es": "Especial de televisión",
+      "aired": "2014-08-16T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/27/27561621bce9cc347_w.webp",
+      "description": "Hanamonogatari follows Suruga Kanbaru after Koyomi Araragi has graduated from high school."
+    },
+    {
+      "episode": 2,
+      "title": "Part 1 of 5",
+      "title_es": "Parte 1 de 5",
+      "aired": "2014-08-16T00:00:00+09:00",
+      "thumbnail": null,
+      "description": null
+    },
+    {
+      "episode": 3,
+      "title": "Part 2 of 5",
+      "title_es": "Parte 2 de 5",
+      "aired": "2014-08-16T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/175801534c426c40bd_w.webp",
+      "description": null
+    },
+    {
+      "episode": 4,
+      "title": "Part 3 of 5",
+      "title_es": "Parte 3 de 5",
+      "aired": "2014-08-16T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/1758015521bacc04fa_w.webp",
+      "description": null
+    },
+    {
+      "episode": 5,
+      "title": "Part 4 of 5",
+      "title_es": "Parte 4 de 5",
+      "aired": "2014-08-16T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/17580157ac647009a8_w.webp",
+      "description": null
+    },
+    {
+      "episode": 6,
+      "title": "Part 5 of 5",
+      "title_es": "Parte 5 de 5",
+      "aired": "2014-08-16T00:00:00+09:00",
+      "thumbnail": "https://simkl.in/episodes/17/17580159669c5f2628_w.webp",
+      "description": null
+    }
+  ],
+  "specials_data": [],
+  "translations_updated_at": "2026-11-15T22:15:32.045Z"
 }

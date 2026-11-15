@@ -32,8 +32,8 @@
   "num_episodes": null,
   "score": null,
   "mean": null,
-  "numListUsers": 16832,
-  "num_list_users": 16832,
+  "numListUsers": 16856,
+  "num_list_users": 16856,
   "genres": [
     {
       "id": 1,
@@ -54,16 +54,11 @@
       "name": "Blade"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1870/148020l.webp",
-    "https://cdn.myanimelist.net/images/anime/1540/158788l.webp",
-    "https://cdn.myanimelist.net/images/anime/1755/160362l.webp",
-    "https://cdn.myanimelist.net/images/anime/1565/160612l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": "284563",
-  "tmdb_updated_at": "2026-11-15T17:17:01.044Z",
+  "tmdb_updated_at": "2026-11-15T22:13:41.162Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1755/160362.webp",
@@ -76,32 +71,15 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1870/148020l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1755/160362l.webp"
     }
   },
   "broadcast": null,
   "rank": null,
   "popularity": 6061,
   "rating": null,
-  "simkl_id": 2716150,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "title": "Episode 1",
-      "aired": "2027-01-01T00:00:00+09:00",
-      "thumbnail": null,
-      "description": null,
-      "title_es": "Episodio 1"
-    }
-  ],
-  "specials_data": [],
-  "characters": [],
-  "num_scoring_users": null,
   "nsfw": "white",
-  "created_at": "2025-02-16T16:06:59+00:00",
-  "updated_at": "2026-06-29T09:49:46+00:00",
   "source": "light_novel",
-  "background": null,
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
@@ -116,5 +94,17 @@
     "num_list_users": 16832
   },
   "mal_details_updated_at": "2026-11-15T17:17:00.670Z",
-  "translations_updated_at": "2026-11-15T17:24:36.044Z"
+  "simkl_id": 2716150,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "title": "Episode 1",
+      "aired": "2027-01-01T00:00:00+09:00",
+      "thumbnail": null,
+      "description": null,
+      "title_es": "Episodio 1"
+    }
+  ],
+  "specials_data": [],
+  "translations_updated_at": "2026-11-15T22:15:49.395Z"
 }

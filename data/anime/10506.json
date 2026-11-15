@@ -44,13 +44,11 @@
       "name": "Kachidoki Studio"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/2/28900l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T17:15:11.594Z",
+  "tmdb_updated_at": "2026-11-15T22:12:52.315Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/2/28900.webp",
@@ -77,25 +75,9 @@
   "rank": 20796,
   "popularity": 13544,
   "rating": null,
-  "simkl_id": 37878,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "title": "Episode 1",
-      "aired": "2011-03-25T00:00:00+09:00",
-      "thumbnail": null,
-      "description": null,
-      "title_es": "Episodio 1"
-    }
-  ],
-  "specials_data": [],
-  "characters": [],
   "num_scoring_users": 88,
   "nsfw": "white",
-  "created_at": "2011-03-30T12:06:38+00:00",
-  "updated_at": "2022-02-25T01:01:21+00:00",
   "source": "original",
-  "background": null,
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
@@ -110,5 +92,17 @@
     "num_list_users": 1695
   },
   "mal_details_updated_at": "2026-11-15T17:15:11.043Z",
-  "translations_updated_at": "2026-11-15T17:24:10.047Z"
+  "simkl_id": 37878,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "title": "Episode 1",
+      "aired": "2011-03-25T00:00:00+09:00",
+      "thumbnail": null,
+      "description": null,
+      "title_es": "Episodio 1"
+    }
+  ],
+  "specials_data": [],
+  "translations_updated_at": "2026-11-15T22:15:24.462Z"
 }

@@ -79,13 +79,7 @@
       "name": "Sunrise"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/8/47621l.webp",
-    "https://cdn.myanimelist.net/images/anime/12/49197l.webp",
-    "https://cdn.myanimelist.net/images/anime/3/51279l.webp",
-    "https://cdn.myanimelist.net/images/anime/10/51723l.webp",
-    "https://cdn.myanimelist.net/images/anime/1741/155092l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/3gVl0IvJMbhOnAvH9V0Q1Y1HnXE.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/2GFz7E2Z1UWiWqOv2YGIbIaAWrH.png",
   "tmdb_id": "57041",
@@ -102,57 +96,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/8/47621l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/10/51723l.webp"
     }
   },
   "broadcast": null,
   "rank": 27,
   "popularity": 1105,
   "rating": "pg_13",
-  "simkl_id": 44970,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "title": "Complete Movie",
-      "title_es": "Película completa",
-      "aired": "2013-07-06T00:00:00+09:00",
-      "thumbnail": null,
-      "description": null
-    }
-  ],
-  "specials_data": [
-    {
-      "episode": 1,
-      "title": "Special Movie Report",
-      "title_es": "Reportaje especial de película",
-      "aired": "2013-07-02T00:00:00+09:00",
-      "thumbnail": null,
-      "description": null
-    },
-    {
-      "episode": 2,
-      "title": "Gintama the Movie: Silver Screen Eve Festival (2013)",
-      "title_es": "Gintama la película: Silver Screen Eve Festival (2013)",
-      "aired": "2013-06-29T00:00:00+09:00",
-      "thumbnail": null,
-      "description": "Features clip where Yorozuya discusses 8 years of Gintama, live dubbing performance by the series` seiyuu to clips from Gintama (2006) and Gintama`: Enchousen (2012), live band performances and more."
-    },
-    {
-      "episode": 3,
-      "title": "Yorozuya Shinsengumi Talk Battle!!",
-      "title_es": "¡¡Batalla de conversación Yorozuya Shinsengumi!!",
-      "aired": true,
-      "thumbnail": null,
-      "description": null
-    }
-  ],
-  "characters": [],
   "num_scoring_users": 146481,
   "nsfw": "white",
-  "created_at": "2012-08-26T22:06:53+00:00",
-  "updated_at": "2026-09-06T13:05:27+00:00",
   "source": "manga",
-  "background": null,
   "related_anime": [
     {
       "node": {
@@ -259,5 +212,42 @@
     "num_list_users": 265973
   },
   "mal_details_updated_at": "2026-11-15T17:19:54.493Z",
-  "translations_updated_at": "2026-11-15T17:23:59.686Z"
+  "simkl_id": 44970,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "title": "Complete Movie",
+      "title_es": "Película completa",
+      "aired": "2013-07-06T00:00:00+09:00",
+      "thumbnail": null,
+      "description": null
+    }
+  ],
+  "specials_data": [
+    {
+      "episode": 1,
+      "title": "Special Movie Report",
+      "title_es": "Reportaje especial de película",
+      "aired": "2013-07-02T00:00:00+09:00",
+      "thumbnail": null,
+      "description": null
+    },
+    {
+      "episode": 2,
+      "title": "Gintama the Movie: Silver Screen Eve Festival (2013)",
+      "title_es": "Gintama la película: Silver Screen Eve Festival (2013)",
+      "aired": "2013-06-29T00:00:00+09:00",
+      "thumbnail": null,
+      "description": "Features clip where Yorozuya discusses 8 years of Gintama, live dubbing performance by the series` seiyuu to clips from Gintama (2006) and Gintama`: Enchousen (2012), live band performances and more."
+    },
+    {
+      "episode": 3,
+      "title": "Yorozuya Shinsengumi Talk Battle!!",
+      "title_es": "¡¡Batalla de conversación Yorozuya Shinsengumi!!",
+      "aired": true,
+      "thumbnail": null,
+      "description": null
+    }
+  ],
+  "translations_updated_at": "2026-11-15T22:15:14.557Z"
 }

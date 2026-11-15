@@ -32,8 +32,8 @@
   "num_episodes": 1,
   "score": 8.63,
   "mean": 8.63,
-  "numListUsers": 419570,
-  "num_list_users": 419570,
+  "numListUsers": 419585,
+  "num_list_users": 419585,
   "genres": [
     {
       "id": 1,
@@ -54,20 +54,11 @@
       "name": "ufotable"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1336/100534l.webp",
-    "https://cdn.myanimelist.net/images/anime/1545/102397l.webp",
-    "https://cdn.myanimelist.net/images/anime/1400/104685l.webp",
-    "https://cdn.myanimelist.net/images/anime/1201/106081l.webp",
-    "https://cdn.myanimelist.net/images/anime/1071/106675l.webp",
-    "https://cdn.myanimelist.net/images/anime/1142/112957l.webp",
-    "https://cdn.myanimelist.net/images/anime/1465/113810l.webp",
-    "https://cdn.myanimelist.net/images/anime/1852/151195l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T17:20:10.344Z",
+  "tmdb_updated_at": "2026-11-15T22:14:32.050Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1142/112957.webp",
@@ -80,13 +71,78 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1336/100534l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1142/112957l.webp"
     }
   },
   "broadcast": null,
   "rank": 96,
   "popularity": 662,
   "rating": "r",
+  "num_scoring_users": 230179,
+  "nsfw": "white",
+  "source": "visual_novel",
+  "background": "Fate/stay night Movie: Heaven's Feel - III. Spring Song was ranked the ninth highest grossing Japanese film of 2020 for the Japanese box office, generating 1.95 billion yen (aprox. $19,252,497 million) during its box office run. The opening weekend grossed 474 million yen, debuting at No. 1 at the Japanese box office.",
+  "related_anime": [
+    {
+      "node": {
+        "id": 33049,
+        "title": "Fate/stay night Movie: Heaven's Feel - II. Lost Butterfly",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1974/98158.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1974/98158l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    }
+  ],
+  "related_manga": [],
+  "recommendations": [
+    {
+      "node": {
+        "id": 31758,
+        "title": "Kizumonogatari III: Reiketsu-hen",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1084/112813.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1084/112813l.webp"
+        }
+      },
+      "num_recommendations": 4
+    },
+    {
+      "node": {
+        "id": 2593,
+        "title": "Kara no Kyoukai Movie 1: Fukan Fuukei",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/12/21741.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/12/21741l.jpg"
+        }
+      },
+      "num_recommendations": 1
+    },
+    {
+      "node": {
+        "id": 3786,
+        "title": "Shin Evangelion Movie:||",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1422/113533.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1422/113533l.webp"
+        }
+      },
+      "num_recommendations": 1
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "12179",
+      "completed": "289298",
+      "on_hold": "2700",
+      "dropped": "1409",
+      "plan_to_watch": "113842"
+    },
+    "num_list_users": 419428
+  },
+  "mal_details_updated_at": "2026-11-15T17:20:10.188Z",
   "simkl_id": 52810,
   "episodes_data": [
     {
@@ -220,73 +276,5 @@
       "description": null
     }
   ],
-  "characters": [],
-  "num_scoring_users": 230179,
-  "nsfw": "white",
-  "created_at": "2016-03-27T07:00:57+00:00",
-  "updated_at": "2024-10-02T16:16:24+00:00",
-  "source": "visual_novel",
-  "background": "Fate/stay night Movie: Heaven's Feel - III. Spring Song was ranked the ninth highest grossing Japanese film of 2020 for the Japanese box office, generating 1.95 billion yen (aprox. $19,252,497 million) during its box office run. The opening weekend grossed 474 million yen, debuting at No. 1 at the Japanese box office.",
-  "related_anime": [
-    {
-      "node": {
-        "id": 33049,
-        "title": "Fate/stay night Movie: Heaven's Feel - II. Lost Butterfly",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1974/98158.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1974/98158l.jpg"
-        }
-      },
-      "relation_type": "prequel",
-      "relation_type_formatted": "Prequel"
-    }
-  ],
-  "related_manga": [],
-  "recommendations": [
-    {
-      "node": {
-        "id": 31758,
-        "title": "Kizumonogatari III: Reiketsu-hen",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1084/112813.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1084/112813l.webp"
-        }
-      },
-      "num_recommendations": 4
-    },
-    {
-      "node": {
-        "id": 2593,
-        "title": "Kara no Kyoukai Movie 1: Fukan Fuukei",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/12/21741.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/12/21741l.jpg"
-        }
-      },
-      "num_recommendations": 1
-    },
-    {
-      "node": {
-        "id": 3786,
-        "title": "Shin Evangelion Movie:||",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1422/113533.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1422/113533l.webp"
-        }
-      },
-      "num_recommendations": 1
-    }
-  ],
-  "statistics": {
-    "status": {
-      "watching": "12179",
-      "completed": "289298",
-      "on_hold": "2700",
-      "dropped": "1409",
-      "plan_to_watch": "113842"
-    },
-    "num_list_users": 419428
-  },
-  "mal_details_updated_at": "2026-11-15T17:20:10.188Z",
-  "translations_updated_at": "2026-11-15T17:24:03.060Z"
+  "translations_updated_at": "2026-11-15T22:15:17.255Z"
 }

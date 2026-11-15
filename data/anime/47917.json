@@ -30,8 +30,8 @@
   "num_episodes": 12,
   "score": 8.72,
   "mean": 8.72,
-  "numListUsers": 836511,
-  "num_list_users": 836511,
+  "numListUsers": 836569,
+  "num_list_users": 836569,
   "genres": [
     {
       "id": 52,
@@ -52,18 +52,7 @@
       "name": "CloverWorks"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1130/112176l.webp",
-    "https://cdn.myanimelist.net/images/anime/1294/125289l.webp",
-    "https://cdn.myanimelist.net/images/anime/1448/127956l.webp",
-    "https://cdn.myanimelist.net/images/anime/1125/131611l.webp",
-    "https://cdn.myanimelist.net/images/anime/1425/149082l.webp",
-    "https://cdn.myanimelist.net/images/anime/1244/149087l.webp",
-    "https://cdn.myanimelist.net/images/anime/1812/149088l.webp",
-    "https://cdn.myanimelist.net/images/anime/1987/149089l.webp",
-    "https://cdn.myanimelist.net/images/anime/1119/149091l.webp",
-    "https://cdn.myanimelist.net/images/anime/1608/149092l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/riRJGnbb18zVBEXpov8GJKnBczj.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/1VebplEahcKYgValCV9rlHnuTbA.png",
   "tmdb_id": "119100",
@@ -80,7 +69,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1130/112176l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1448/127956l.webp"
     }
   },
   "broadcast": {
@@ -94,6 +83,184 @@
   "rank": 55,
   "popularity": 279,
   "rating": "pg_13",
+  "num_scoring_users": 504741,
+  "nsfw": "white",
+  "source": "4_koma_manga",
+  "background": "Bocchi the Rock! was released on Blu-ray and DVD in six volumes from December 28, 2022, to May 24, 2023.",
+  "related_anime": [
+    {
+      "node": {
+        "id": 55357,
+        "title": "Bocchi the Rock! Movie",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1256/142261.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1256/142261l.webp"
+        }
+      },
+      "relation_type": "summary",
+      "relation_type_formatted": "Summary"
+    },
+    {
+      "node": {
+        "id": 59806,
+        "title": "Bocchi the Rock!: Gotou Futari no Onee-chan Kansatsu Nikki",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1589/145448.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1589/145448l.jpg"
+        }
+      },
+      "relation_type": "summary",
+      "relation_type_formatted": "Summary"
+    },
+    {
+      "node": {
+        "id": 61006,
+        "title": "Bocchi the Rock! 2nd Season",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1142/148003.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1142/148003l.jpg"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
+    },
+    {
+      "node": {
+        "id": 65302,
+        "title": "Bocchi the Rock! Movie: Hoshi no Ashiato",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1613/160830.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1613/160830l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    }
+  ],
+  "related_manga": [],
+  "recommendations": [
+    {
+      "node": {
+        "id": 5680,
+        "title": "K-On!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/10/76120.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/10/76120l.webp"
+        }
+      },
+      "num_recommendations": 53
+    },
+    {
+      "node": {
+        "id": 55102,
+        "title": "Girls Band Cry",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1711/140515.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1711/140515l.jpg"
+        }
+      },
+      "num_recommendations": 16
+    },
+    {
+      "node": {
+        "id": 16742,
+        "title": "Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/12/51619.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/12/51619l.jpg"
+        }
+      },
+      "num_recommendations": 10
+    },
+    {
+      "node": {
+        "id": 37614,
+        "title": "Hitoribocchi no Marumaru Seikatsu",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1612/145601.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1612/145601l.jpg"
+        }
+      },
+      "num_recommendations": 10
+    },
+    {
+      "node": {
+        "id": 10165,
+        "title": "Nichijou",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/3/75617.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/3/75617l.webp"
+        }
+      },
+      "num_recommendations": 8
+    },
+    {
+      "node": {
+        "id": 59459,
+        "title": "Silent Witch: Chinmoku no Majo no Kakushigoto",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1669/149732.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1669/149732l.webp"
+        }
+      },
+      "num_recommendations": 8
+    },
+    {
+      "node": {
+        "id": 48926,
+        "title": "Komi-san wa, Comyushou desu.",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1899/117237.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1899/117237l.jpg"
+        }
+      },
+      "num_recommendations": 7
+    },
+    {
+      "node": {
+        "id": 34798,
+        "title": "Yuru Camp△",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/4/89877.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/4/89877l.webp"
+        }
+      },
+      "num_recommendations": 6
+    },
+    {
+      "node": {
+        "id": 39533,
+        "title": "Given",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1666/102238.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1666/102238l.jpg"
+        }
+      },
+      "num_recommendations": 6
+    },
+    {
+      "node": {
+        "id": 57,
+        "title": "Beck",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/11/11636.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/11/11636l.webp"
+        }
+      },
+      "num_recommendations": 4
+    }
+  ],
+  "statistics": {
+    "status": {
+      "watching": "67047",
+      "completed": "584203",
+      "on_hold": "16741",
+      "dropped": "13183",
+      "plan_to_watch": "154824"
+    },
+    "num_list_users": 835998
+  },
+  "mal_details_updated_at": "2026-11-15T17:20:03.787Z",
   "simkl_id": 1548997,
   "episodes_data": [
     {
@@ -395,186 +562,5 @@
       "description": null
     }
   ],
-  "characters": [],
-  "num_scoring_users": 504741,
-  "nsfw": "white",
-  "created_at": "2021-02-18T15:21:45+00:00",
-  "updated_at": "2025-05-14T21:29:47+00:00",
-  "source": "4_koma_manga",
-  "background": "Bocchi the Rock! was released on Blu-ray and DVD in six volumes from December 28, 2022, to May 24, 2023.",
-  "related_anime": [
-    {
-      "node": {
-        "id": 55357,
-        "title": "Bocchi the Rock! Movie",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1256/142261.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1256/142261l.webp"
-        }
-      },
-      "relation_type": "summary",
-      "relation_type_formatted": "Summary"
-    },
-    {
-      "node": {
-        "id": 59806,
-        "title": "Bocchi the Rock!: Gotou Futari no Onee-chan Kansatsu Nikki",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1589/145448.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1589/145448l.jpg"
-        }
-      },
-      "relation_type": "summary",
-      "relation_type_formatted": "Summary"
-    },
-    {
-      "node": {
-        "id": 61006,
-        "title": "Bocchi the Rock! 2nd Season",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1142/148003.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1142/148003l.jpg"
-        }
-      },
-      "relation_type": "sequel",
-      "relation_type_formatted": "Sequel"
-    },
-    {
-      "node": {
-        "id": 65302,
-        "title": "Bocchi the Rock! Movie: Hoshi no Ashiato",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1613/160830.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1613/160830l.jpg"
-        }
-      },
-      "relation_type": "prequel",
-      "relation_type_formatted": "Prequel"
-    }
-  ],
-  "related_manga": [],
-  "recommendations": [
-    {
-      "node": {
-        "id": 5680,
-        "title": "K-On!",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/10/76120.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/10/76120l.webp"
-        }
-      },
-      "num_recommendations": 53
-    },
-    {
-      "node": {
-        "id": 55102,
-        "title": "Girls Band Cry",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1711/140515.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1711/140515l.jpg"
-        }
-      },
-      "num_recommendations": 16
-    },
-    {
-      "node": {
-        "id": 16742,
-        "title": "Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/12/51619.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/12/51619l.jpg"
-        }
-      },
-      "num_recommendations": 10
-    },
-    {
-      "node": {
-        "id": 37614,
-        "title": "Hitoribocchi no Marumaru Seikatsu",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1612/145601.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1612/145601l.jpg"
-        }
-      },
-      "num_recommendations": 10
-    },
-    {
-      "node": {
-        "id": 10165,
-        "title": "Nichijou",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/3/75617.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/3/75617l.webp"
-        }
-      },
-      "num_recommendations": 8
-    },
-    {
-      "node": {
-        "id": 59459,
-        "title": "Silent Witch: Chinmoku no Majo no Kakushigoto",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1669/149732.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1669/149732l.webp"
-        }
-      },
-      "num_recommendations": 8
-    },
-    {
-      "node": {
-        "id": 48926,
-        "title": "Komi-san wa, Comyushou desu.",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1899/117237.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1899/117237l.jpg"
-        }
-      },
-      "num_recommendations": 7
-    },
-    {
-      "node": {
-        "id": 34798,
-        "title": "Yuru Camp△",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/4/89877.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/4/89877l.webp"
-        }
-      },
-      "num_recommendations": 6
-    },
-    {
-      "node": {
-        "id": 39533,
-        "title": "Given",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1666/102238.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1666/102238l.jpg"
-        }
-      },
-      "num_recommendations": 6
-    },
-    {
-      "node": {
-        "id": 57,
-        "title": "Beck",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/11/11636.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/11/11636l.webp"
-        }
-      },
-      "num_recommendations": 4
-    }
-  ],
-  "statistics": {
-    "status": {
-      "watching": "67047",
-      "completed": "584203",
-      "on_hold": "16741",
-      "dropped": "13183",
-      "plan_to_watch": "154824"
-    },
-    "num_list_users": 835998
-  },
-  "mal_details_updated_at": "2026-11-15T17:20:03.787Z",
-  "translations_updated_at": "2026-11-15T17:23:55.968Z"
+  "translations_updated_at": "2026-11-15T22:15:11.896Z"
 }

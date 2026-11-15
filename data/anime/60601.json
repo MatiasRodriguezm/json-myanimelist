@@ -32,8 +32,8 @@
   "num_episodes": 12,
   "score": 7.37,
   "mean": 7.37,
-  "numListUsers": 60796,
-  "num_list_users": 60796,
+  "numListUsers": 60845,
+  "num_list_users": 60845,
   "genres": [
     {
       "id": 2,
@@ -58,11 +58,7 @@
       "name": "GeyeG Pictures"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1487/156631l.webp",
-    "https://cdn.myanimelist.net/images/anime/1533/159859l.webp",
-    "https://cdn.myanimelist.net/images/anime/1313/160711l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/n493br0MLJHASsqEsUwG5PvxDkN.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/aQiYM1K2rIbiblU9vnZNVBrWj7I.png",
   "tmdb_id": "237150",
@@ -79,7 +75,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1487/156631l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1533/159859l.webp"
     }
   },
   "broadcast": {
@@ -93,6 +89,37 @@
   "rank": 2844,
   "popularity": 3333,
   "rating": "pg_13",
+  "num_scoring_users": 4949,
+  "nsfw": "white",
+  "source": "light_novel",
+  "background": "Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season aired on CBC and TBS' Agaru Anime block.",
+  "related_anime": [
+    {
+      "node": {
+        "id": 59131,
+        "title": "Tensei Kizoku, Kantei Skill de Nariagaru 2nd Season",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1280/143705.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1280/143705l.jpg"
+        }
+      },
+      "relation_type": "prequel",
+      "relation_type_formatted": "Prequel"
+    }
+  ],
+  "related_manga": [],
+  "recommendations": [],
+  "statistics": {
+    "status": {
+      "watching": "26638",
+      "completed": "7",
+      "on_hold": "592",
+      "dropped": "507",
+      "plan_to_watch": "33046"
+    },
+    "num_list_users": 60790
+  },
+  "mal_details_updated_at": "2026-11-15T17:13:26.496Z",
   "simkl_id": 2667698,
   "episodes_data": [
     {
@@ -193,39 +220,5 @@
     }
   ],
   "specials_data": [],
-  "characters": [],
-  "num_scoring_users": 4949,
-  "nsfw": "white",
-  "created_at": "2024-12-22T15:08:54+00:00",
-  "updated_at": "2026-10-30T10:20:39+00:00",
-  "source": "light_novel",
-  "background": "Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season aired on CBC and TBS' Agaru Anime block.",
-  "related_anime": [
-    {
-      "node": {
-        "id": 59131,
-        "title": "Tensei Kizoku, Kantei Skill de Nariagaru 2nd Season",
-        "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1280/143705.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1280/143705l.jpg"
-        }
-      },
-      "relation_type": "prequel",
-      "relation_type_formatted": "Prequel"
-    }
-  ],
-  "related_manga": [],
-  "recommendations": [],
-  "statistics": {
-    "status": {
-      "watching": "26638",
-      "completed": "7",
-      "on_hold": "592",
-      "dropped": "507",
-      "plan_to_watch": "33046"
-    },
-    "num_list_users": 60790
-  },
-  "mal_details_updated_at": "2026-11-15T17:13:26.496Z",
-  "translations_updated_at": "2026-11-15T17:24:35.365Z"
+  "translations_updated_at": "2026-11-15T22:15:48.741Z"
 }

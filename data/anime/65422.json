@@ -30,8 +30,8 @@
   "num_episodes": null,
   "score": null,
   "mean": null,
-  "numListUsers": 20,
-  "num_list_users": 20,
+  "numListUsers": 22,
+  "num_list_users": 22,
   "genres": [
     {
       "id": 24,
@@ -44,13 +44,11 @@
       "name": "Hurray!"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1565/161005l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T17:16:49.775Z",
+  "tmdb_updated_at": "2026-11-15T22:13:33.700Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1565/161005.webp",
@@ -70,16 +68,8 @@
   "rank": null,
   "popularity": 30771,
   "rating": null,
-  "simkl_id": null,
-  "episodes_data": [],
-  "specials_data": [],
-  "characters": [],
-  "num_scoring_users": null,
   "nsfw": "white",
-  "created_at": "2026-11-11T16:00:18+00:00",
-  "updated_at": "2026-11-12T08:30:41+00:00",
   "source": "original",
-  "background": null,
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
@@ -94,5 +84,8 @@
     "num_list_users": 20
   },
   "mal_details_updated_at": "2026-11-15T17:16:49.235Z",
-  "translations_updated_at": "2026-11-15T17:25:12.375Z"
+  "simkl_id": null,
+  "episodes_data": [],
+  "specials_data": [],
+  "translations_updated_at": "2026-11-15T22:16:22.790Z"
 }
