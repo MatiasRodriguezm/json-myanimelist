@@ -60,7 +60,10 @@
       "name": "Enishiya"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1444/146894l.webp",
+    "https://cdn.myanimelist.net/images/anime/1182/149879l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/6omimfVty4JD3LXzI5LHEGhXjwn.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/kpTUGoRI2PotlIYO6FZtuH4YWXh.png",
   "tmdb_id": "284445",
@@ -77,12 +80,12 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1182/149879l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1444/146894l.webp"
     }
   },
   "broadcast": null,
   "rank": 54,
-  "popularity": 776,
+  "popularity": 774,
   "rating": "r",
   "simkl_id": 2656626,
   "episodes_data": [
@@ -137,10 +140,10 @@
   ],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 204298,
+  "num_scoring_users": 204927,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2024-12-09T15:15:32+00:00",
+  "updated_at": "2026-07-31T13:22:57+00:00",
   "source": "manga",
   "background": null,
   "related_anime": [
@@ -149,8 +152,8 @@
         "id": 64266,
         "title": "Takopii no Genzai Movie: Arigatou, Mata Ashita",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1691/160653.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1691/160653l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1691/160653.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1691/160653l.webp"
         }
       },
       "relation_type": "summary",
@@ -197,8 +200,8 @@
         "id": 9756,
         "title": "Mahou Shoujo Madoka☆Magica",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/11/55225.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/11/55225l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/11/55225.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/11/55225l.webp"
         }
       },
       "num_recommendations": 5
@@ -272,12 +275,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "34161",
-      "completed": "234001",
-      "on_hold": "5083",
-      "dropped": "3319",
-      "plan_to_watch": "87946"
+      "watching": "34150",
+      "completed": "234832",
+      "on_hold": "5103",
+      "dropped": "3336",
+      "plan_to_watch": "88176"
     },
-    "num_list_users": 364510
-  }
+    "num_list_users": 365597
+  },
+  "mal_details_updated_at": "2026-11-15T17:21:40.884Z",
+  "translations_updated_at": "2026-11-15T17:24:01.329Z"
 }

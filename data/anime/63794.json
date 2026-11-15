@@ -29,8 +29,8 @@
   "num_episodes": null,
   "score": null,
   "mean": null,
-  "numListUsers": 77607,
-  "num_list_users": 77607,
+  "numListUsers": 77618,
+  "num_list_users": 77618,
   "genres": [
     {
       "id": 8,
@@ -55,7 +55,10 @@
       "name": "Doga Kobo"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1702/156273l.webp",
+    "https://cdn.myanimelist.net/images/anime/1052/159561l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/s76eYQi6hcAcOVYpVd9hofdyt11.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/lxzrNYYgM51CtUAeXWzF5OMxiCF.png",
   "tmdb_id": "203737",
@@ -72,21 +75,21 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1052/159561l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1702/156273l.webp"
     }
   },
   "broadcast": null,
   "rank": null,
-  "popularity": 2890,
+  "popularity": 2889,
   "rating": "pg_13",
   "simkl_id": 3062558,
   "episodes_data": [],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 2,
+  "num_scoring_users": null,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2026-03-25T15:07:23+00:00",
+  "updated_at": "2026-08-16T12:06:09+00:00",
   "source": "manga",
   "background": null,
   "related_anime": [
@@ -107,12 +110,14 @@
   "recommendations": [],
   "statistics": {
     "status": {
-      "watching": "1",
-      "completed": "1",
-      "on_hold": "5",
+      "watching": "2",
+      "completed": 0,
+      "on_hold": "2",
       "dropped": 0,
-      "plan_to_watch": "77562"
+      "plan_to_watch": "77614"
     },
-    "num_list_users": 77569
-  }
+    "num_list_users": 77618
+  },
+  "mal_details_updated_at": "2026-11-15T17:18:33.178Z",
+  "translations_updated_at": "2026-11-15T17:24:58.151Z"
 }

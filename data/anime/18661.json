@@ -32,8 +32,8 @@
   "num_episodes": 2,
   "score": 8.09,
   "mean": 8.09,
-  "numListUsers": 152457,
-  "num_list_users": 152457,
+  "numListUsers": 152463,
+  "num_list_users": 152463,
   "genres": [
     {
       "id": 4,
@@ -62,11 +62,13 @@
       "name": "TMS Entertainment"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/6/56425l.webp"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T13:06:01.601Z",
+  "tmdb_updated_at": "2026-11-15T17:21:31.196Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/6/56425.webp",
@@ -83,7 +85,7 @@
     }
   },
   "broadcast": null,
-  "rank": 621,
+  "rank": 622,
   "popularity": 1798,
   "rating": "pg_13",
   "simkl_id": 43094,
@@ -139,10 +141,10 @@
   ],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 78805,
+  "num_scoring_users": 78848,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2013-05-07T19:11:18+00:00",
+  "updated_at": "2026-07-23T21:09:09+00:00",
   "source": "manga",
   "background": "Kamisama Hajimemashita OVA was bundled with the release of the 16th volume of the Kamisama Hajimemashita manga.",
   "related_anime": [
@@ -163,12 +165,14 @@
   "recommendations": [],
   "statistics": {
     "status": {
-      "watching": "7238",
-      "completed": "121010",
+      "watching": "7243",
+      "completed": "121083",
       "on_hold": "1445",
       "dropped": "746",
-      "plan_to_watch": "21906"
+      "plan_to_watch": "21916"
     },
-    "num_list_users": 152345
-  }
+    "num_list_users": 152433
+  },
+  "mal_details_updated_at": "2026-11-15T17:21:31.030Z",
+  "translations_updated_at": "2026-11-15T17:24:15.093Z"
 }

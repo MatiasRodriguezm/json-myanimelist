@@ -28,10 +28,10 @@
   },
   "episodes": 12,
   "num_episodes": 12,
-  "score": 6.99,
-  "mean": 6.99,
-  "numListUsers": 33691,
-  "num_list_users": 33691,
+  "score": 6.98,
+  "mean": 6.98,
+  "numListUsers": 33729,
+  "num_list_users": 33729,
   "genres": [
     {
       "id": 50,
@@ -52,7 +52,12 @@
       "name": "Passione"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1517/155052l.webp",
+    "https://cdn.myanimelist.net/images/anime/1066/155053l.webp",
+    "https://cdn.myanimelist.net/images/anime/1632/159275l.webp",
+    "https://cdn.myanimelist.net/images/anime/1928/160253l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/qFELvRyy0C0vxYcKBQEX7BDe4vO.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/8Obg1bImnamzDmhSaUATI4eKN80.png",
   "tmdb_id": "311842",
@@ -69,7 +74,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1928/160253l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1517/155052l.webp"
     }
   },
   "broadcast": {
@@ -81,113 +86,113 @@
     "string": "thursday 21:30"
   },
   "rank": 4984,
-  "popularity": 4573,
+  "popularity": 4561,
   "rating": "pg_13",
   "simkl_id": 2997994,
   "episodes_data": [
     {
       "episode": 1,
       "title": "What's Forex?",
-      "title_es": "¿Qué es Forex?",
       "aired": "2026-09-27T21:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/2077518774bf7bc6b8_w.webp",
-      "description": "Kurumi enters the world of forex to prove she can succeed where her mother once failed."
+      "description": "Kurumi enters the world of forex to prove she can succeed where her mother once failed.",
+      "title_es": "¿Qué es Forex?"
     },
     {
       "episode": 2,
       "title": "It's Okay, I've Got Leverage",
-      "title_es": "Está bien, tengo influencia",
       "aired": "2026-10-08T21:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/208218990da43aee2a_w.webp",
-      "description": "After some advice from her friend Mochiko, Kurumi takes a risky position trading the Australian dollar."
+      "description": "After some advice from her friend Mochiko, Kurumi takes a risky position trading the Australian dollar.",
+      "title_es": "Está bien, tengo influencia"
     },
     {
       "episode": 3,
       "title": "Do I Have to Cut My Losses...?",
-      "title_es": "¿Tengo que reducir mis pérdidas...?",
       "aired": "2026-10-15T21:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20865875991e4e139a_w.webp",
-      "description": "AUD/JPY takes Kurumi on a wild ride, and she finds herself at risk of losing all the money she \"borrowed.\""
+      "description": "AUD/JPY takes Kurumi on a wild ride, and she finds herself at risk of losing all the money she \"borrowed.\"",
+      "title_es": "¿Tengo que reducir mis pérdidas...?"
     },
     {
       "episode": 4,
       "title": "Having No Unrealized Losses Is the Best",
-      "title_es": "No tener pérdidas no realizadas es lo mejor",
       "aired": "2026-10-22T21:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20910431e6e2c4e2cc_w.webp",
-      "description": "Kurumi has an awkward confrontation with her dad, and then gets roped into teaching forex to a new investor."
+      "description": "Kurumi has an awkward confrontation with her dad, and then gets roped into teaching forex to a new investor.",
+      "title_es": "No tener pérdidas no realizadas es lo mejor"
     },
     {
       "episode": 5,
       "title": "Long? Short? Which Do I Choose?",
-      "title_es": "¿Largo? ¿Corto? ¿Cuál elijo?",
       "aired": "2026-10-29T21:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20956841790cee82b0_w.webp",
-      "description": "Kurumi quits forex and tries hard to find a new hobby, but the temptation to start trading again is strong."
+      "description": "Kurumi quits forex and tries hard to find a new hobby, but the temptation to start trading again is strong.",
+      "title_es": "¿Largo? ¿Corto? ¿Cuál elijo?"
     },
     {
       "episode": 6,
       "title": "Pay Attention to Economic Indicators!",
-      "title_es": "¡Preste atención a los indicadores económicos!",
       "aired": "2026-11-05T21:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/21/210033775b60a22b70_w.webp",
-      "description": "Mebuki attempts to trade forex without Kurumi`s help, but does she know enough about how the markets work?"
+      "description": "Mebuki attempts to trade forex without Kurumi`s help, but does she know enough about how the markets work?",
+      "title_es": "¡Preste atención a los indicadores económicos!"
     },
     {
       "episode": 7,
       "title": "Episode 7",
-      "title_es": "Episodio 7",
       "aired": "2026-11-12T21:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/21/21047189db48340297_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Episodio 7"
     },
     {
       "episode": 8,
       "title": "Episode 8",
-      "title_es": "Episodio 8",
       "aired": "2026-11-19T21:30:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 8"
     },
     {
       "episode": 9,
       "title": "Episode 9",
-      "title_es": "Episodio 9",
       "aired": "2026-11-26T21:30:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 9"
     },
     {
       "episode": 10,
       "title": "Episode 10",
-      "title_es": "Episodio 10",
       "aired": "2026-12-03T21:30:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 10"
     },
     {
       "episode": 11,
       "title": "Episode 11",
-      "title_es": "Episodio 11",
       "aired": "2026-12-10T21:30:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 11"
     },
     {
       "episode": 12,
       "title": "Episode 12",
-      "title_es": "Episodio 12",
       "aired": "2026-12-17T21:30:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 12"
     }
   ],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 4614,
+  "num_scoring_users": 4642,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2026-01-19T10:00:14+00:00",
+  "updated_at": "2026-10-02T23:40:18+00:00",
   "source": "manga",
   "background": null,
   "related_anime": [],
@@ -209,8 +214,8 @@
         "id": 3002,
         "title": "Gyakkyou Burai Kaiji: Ultimate Survivor",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/12/80032.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/12/80032l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/12/80032.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/12/80032l.jpg"
         }
       },
       "num_recommendations": 1
@@ -229,12 +234,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "18828",
-      "completed": "8",
-      "on_hold": "481",
-      "dropped": "1857",
-      "plan_to_watch": "12431"
+      "watching": "18874",
+      "completed": "1",
+      "on_hold": "484",
+      "dropped": "1880",
+      "plan_to_watch": "12485"
     },
-    "num_list_users": 33605
-  }
+    "num_list_users": 33724
+  },
+  "mal_details_updated_at": "2026-11-15T17:13:33.673Z",
+  "translations_updated_at": "2026-11-15T17:24:53.231Z"
 }

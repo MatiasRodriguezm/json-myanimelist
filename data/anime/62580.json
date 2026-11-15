@@ -32,8 +32,8 @@
   "num_episodes": null,
   "score": null,
   "mean": null,
-  "numListUsers": 5681,
-  "num_list_users": 5681,
+  "numListUsers": 5683,
+  "num_list_users": 5683,
   "genres": [
     {
       "id": 1,
@@ -58,11 +58,15 @@
       "name": "Wit Studio"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1913/152261l.webp",
+    "https://cdn.myanimelist.net/images/anime/1449/156330l.webp",
+    "https://cdn.myanimelist.net/images/anime/1541/160140l.webp"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T13:05:23.112Z",
+  "tmdb_updated_at": "2026-11-15T17:17:42.566Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1541/160140.webp",
@@ -75,7 +79,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1541/160140l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1913/152261l.webp"
     }
   },
   "broadcast": {
@@ -87,25 +91,25 @@
     "string": "saturday 17:30"
   },
   "rank": null,
-  "popularity": 9370,
+  "popularity": 9366,
   "rating": "pg_13",
   "simkl_id": 2890692,
   "episodes_data": [
     {
       "episode": 1,
       "title": "Episode 1",
-      "title_es": "Episodio 1",
       "aired": "2027-01-09T17:30:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 1"
     }
   ],
   "specials_data": [],
   "characters": [],
   "num_scoring_users": null,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2025-09-27T09:38:30+00:00",
+  "updated_at": "2026-09-19T03:25:56+00:00",
   "source": "manga",
   "background": null,
   "related_anime": [
@@ -138,12 +142,14 @@
   "recommendations": [],
   "statistics": {
     "status": {
-      "watching": "3",
-      "completed": 0,
+      "watching": "1",
+      "completed": "1",
       "on_hold": 0,
-      "dropped": "1",
-      "plan_to_watch": "5670"
+      "dropped": 0,
+      "plan_to_watch": "5681"
     },
-    "num_list_users": 5674
-  }
+    "num_list_users": 5683
+  },
+  "mal_details_updated_at": "2026-11-15T17:17:41.938Z",
+  "translations_updated_at": "2026-11-15T17:24:44.179Z"
 }

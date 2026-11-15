@@ -32,8 +32,8 @@
   "num_episodes": 1,
   "score": 8.43,
   "mean": 8.43,
-  "numListUsers": 495599,
-  "num_list_users": 495599,
+  "numListUsers": 495609,
+  "num_list_users": 495609,
   "genres": [
     {
       "id": 8,
@@ -46,7 +46,11 @@
       "name": "Kyoto Animation"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1947/101712l.webp",
+    "https://cdn.myanimelist.net/images/anime/1425/102304l.webp",
+    "https://cdn.myanimelist.net/images/anime/1667/112943l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/fgUacNwfO5paHavroHtHeMHZMDB.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/7aU7gs0e4qbwEVmbRR3FewsqmFU.png",
   "tmdb_id": "610892",
@@ -63,11 +67,11 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1667/112943l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1947/101712l.webp"
     }
   },
   "broadcast": null,
-  "rank": 213,
+  "rank": 215,
   "popularity": 544,
   "rating": "pg_13",
   "simkl_id": 1077743,
@@ -83,10 +87,10 @@
   ],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 291072,
+  "num_scoring_users": 291239,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2019-04-19T04:52:05+00:00",
+  "updated_at": "2024-10-04T16:04:37+00:00",
   "source": "light_novel",
   "background": null,
   "related_anime": [
@@ -95,8 +99,8 @@
         "id": 33352,
         "title": "Violet Evergarden",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1795/95088.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1795/95088l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1795/95088.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1795/95088l.jpg"
         }
       },
       "relation_type": "parent_story",
@@ -110,8 +114,8 @@
         "id": 12189,
         "title": "Hyouka",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/13/50521.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/13/50521l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/13/50521.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/13/50521l.webp"
         }
       },
       "num_recommendations": 1
@@ -119,12 +123,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "10124",
-      "completed": "384870",
-      "on_hold": "3166",
-      "dropped": "1227",
-      "plan_to_watch": "95813"
+      "watching": "10136",
+      "completed": "385112",
+      "on_hold": "3168",
+      "dropped": "1229",
+      "plan_to_watch": "95855"
     },
-    "num_list_users": 495200
-  }
+    "num_list_users": 495500
+  },
+  "mal_details_updated_at": "2026-11-15T17:20:21.867Z",
+  "translations_updated_at": "2026-11-15T17:24:05.266Z"
 }

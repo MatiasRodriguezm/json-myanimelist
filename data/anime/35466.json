@@ -30,8 +30,8 @@
   "num_episodes": 4,
   "score": 8.21,
   "mean": 8.21,
-  "numListUsers": 457497,
-  "num_list_users": 457497,
+  "numListUsers": 457503,
+  "num_list_users": 457503,
   "genres": [
     {
       "id": 8,
@@ -52,7 +52,10 @@
       "name": "TMS Entertainment"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1326/91060l.webp",
+    "https://cdn.myanimelist.net/images/anime/1566/91061l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/j8gNkno0nWmwAsIJd19wa3wryn6.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/y8pc5cm8pHi1bVKCv1j91CTnRSk.png",
   "tmdb_id": "66941",
@@ -69,12 +72,12 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1566/91061l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1326/91060l.webp"
     }
   },
   "broadcast": null,
-  "rank": 444,
-  "popularity": 598,
+  "rank": 443,
+  "popularity": 597,
   "rating": "pg_13",
   "simkl_id": 679987,
   "episodes_data": [
@@ -130,10 +133,10 @@
     }
   ],
   "characters": [],
-  "num_scoring_users": 271884,
+  "num_scoring_users": 272013,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2017-04-23T13:07:56+00:00",
+  "updated_at": "2023-01-25T14:47:54+00:00",
   "source": "web_manga",
   "background": null,
   "related_anime": [
@@ -142,8 +145,8 @@
         "id": 30015,
         "title": "ReLIFE",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/3/82149.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/3/82149l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/3/82149.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/3/82149l.webp"
         }
       },
       "relation_type": "prequel",
@@ -154,8 +157,8 @@
         "id": 37921,
         "title": "ReLIFE: Kanketsu-hen Specials",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1563/93020.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1563/93020l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1563/93020.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1563/93020l.jpg"
         }
       },
       "relation_type": "side_story",
@@ -169,8 +172,8 @@
         "id": 32281,
         "title": "Kimi no Na wa.",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/5/87048.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/5/87048l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/5/87048.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/5/87048l.webp"
         }
       },
       "num_recommendations": 10
@@ -180,8 +183,8 @@
         "id": 30015,
         "title": "ReLIFE",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/3/82149.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/3/82149l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/3/82149.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/3/82149l.webp"
         }
       },
       "num_recommendations": 2
@@ -244,12 +247,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "12261",
-      "completed": "362321",
-      "on_hold": "3670",
-      "dropped": "2813",
-      "plan_to_watch": "76136"
+      "watching": "12256",
+      "completed": "362515",
+      "on_hold": "3671",
+      "dropped": "2816",
+      "plan_to_watch": "76150"
     },
-    "num_list_users": 457201
-  }
+    "num_list_users": 457408
+  },
+  "mal_details_updated_at": "2026-11-15T17:21:52.327Z",
+  "translations_updated_at": "2026-11-15T17:24:08.902Z"
 }

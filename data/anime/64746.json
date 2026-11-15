@@ -48,11 +48,13 @@
       "name": "dwarf"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1371/159335l.webp"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T13:05:35.031Z",
+  "tmdb_updated_at": "2026-11-15T17:18:03.256Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1371/159335.webp",
@@ -78,8 +80,8 @@
   "characters": [],
   "num_scoring_users": null,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2026-08-05T16:14:31+00:00",
+  "updated_at": "2026-08-13T15:27:42+00:00",
   "source": "game",
   "background": null,
   "related_anime": [
@@ -88,8 +90,8 @@
         "id": 33899,
         "title": "IDOLiSH7",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1390/90828.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1390/90828l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1390/90828.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1390/90828l.jpg"
         }
       },
       "relation_type": "other",
@@ -107,5 +109,7 @@
       "plan_to_watch": "226"
     },
     "num_list_users": 226
-  }
+  },
+  "mal_details_updated_at": "2026-11-15T17:18:02.723Z",
+  "translations_updated_at": "2026-11-15T17:25:05.930Z"
 }

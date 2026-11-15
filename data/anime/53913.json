@@ -32,8 +32,8 @@
   "num_episodes": 12,
   "score": 7.51,
   "mean": 7.51,
-  "numListUsers": 118609,
-  "num_list_users": 118609,
+  "numListUsers": 118638,
+  "num_list_users": 118638,
   "genres": [
     {
       "id": 1,
@@ -62,7 +62,13 @@
       "name": "C2C"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1710/131965l.webp",
+    "https://cdn.myanimelist.net/images/anime/1153/140695l.webp",
+    "https://cdn.myanimelist.net/images/anime/1955/150906l.webp",
+    "https://cdn.myanimelist.net/images/anime/1539/159559l.webp",
+    "https://cdn.myanimelist.net/images/anime/1725/160874l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/fo5qwDAVqY7j2jmL350WKjk6kmi.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/n7zVxzyhaB2vLdyF5XwwynrgcXO.png",
   "tmdb_id": "134667",
@@ -79,7 +85,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1725/160874l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1710/131965l.webp"
     }
   },
   "broadcast": {
@@ -98,106 +104,106 @@
     {
       "episode": 1,
       "title": "The Floating Island",
-      "title_es": "La isla flotante",
       "aired": "2026-10-01T00:00:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/207806675f0b8fc857_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "La isla flotante"
     },
     {
       "episode": 2,
       "title": "Jean du Vix Knows His Stuff",
-      "title_es": "Jean du Vix sabe lo que hace",
       "aired": "2026-10-08T00:00:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/208408771eafdec928_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Jean du Vix sabe lo que hace"
     },
     {
       "episode": 3,
       "title": "The Undead Monster Was Tough as Nails",
-      "title_es": "El monstruo no muerto era duro como un clavo",
       "aired": "2026-10-15T00:00:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20884263a3548b4c19_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "El monstruo no muerto era duro como un clavo"
     },
     {
       "episode": 4,
       "title": "The Hopeless Battle Against the Undead King",
-      "title_es": "La batalla desesperada contra el rey no muerto",
       "aired": "2026-10-22T00:00:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20929819da61e8f26d_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "La batalla desesperada contra el rey no muerto"
     },
     {
       "episode": 5,
       "title": "A Smiling Farewell",
-      "title_es": "Una despedida sonriente",
       "aired": "2026-10-29T00:00:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/209761559b00a925d0_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Una despedida sonriente"
     },
     {
       "episode": 6,
       "title": "The Briny Beach Experience",
-      "title_es": "La experiencia de Briny Beach",
       "aired": "2026-11-05T00:00:00+09:00",
       "thumbnail": "https://simkl.in/episodes/21/21022137610b04fcea_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "La experiencia de Briny Beach"
     },
     {
       "episode": 7,
       "title": "The Humungous Sea Monster",
-      "title_es": "El enorme monstruo marino",
       "aired": "2026-11-12T00:00:00+09:00",
       "thumbnail": "https://simkl.in/episodes/21/21066099ac43c5b766_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "El enorme monstruo marino"
     },
     {
       "episode": 8,
       "title": "Episode 8",
-      "title_es": "Episodio 8",
       "aired": "2026-11-19T00:00:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 8"
     },
     {
       "episode": 9,
       "title": "Episode 9",
-      "title_es": "Episodio 9",
       "aired": "2026-11-26T00:00:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 9"
     },
     {
       "episode": 10,
       "title": "Episode 10",
-      "title_es": "Episodio 10",
       "aired": "2026-12-03T00:00:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 10"
     },
     {
       "episode": 11,
       "title": "Episode 11",
-      "title_es": "Episodio 11",
       "aired": "2026-12-10T00:00:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 11"
     },
     {
       "episode": 12,
       "title": "Episode 12",
-      "title_es": "Episodio 12",
       "aired": "2026-12-17T00:00:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 12"
     }
   ],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 6506,
+  "num_scoring_users": 6536,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2022-12-21T14:34:58+00:00",
+  "updated_at": "2026-11-04T23:19:12+00:00",
   "source": "light_novel",
   "background": "Each episode was streamed one week in advance of the TV broadcast starting on October 1, 2026, on Abema and HIDIVE. Regular broadcasting began on October 8, 2026.",
   "related_anime": [
@@ -218,12 +224,14 @@
   "recommendations": [],
   "statistics": {
     "status": {
-      "watching": "34169",
-      "completed": "6",
-      "on_hold": "812",
-      "dropped": "894",
-      "plan_to_watch": "82649"
+      "watching": "34266",
+      "completed": "5",
+      "on_hold": "819",
+      "dropped": "901",
+      "plan_to_watch": "82644"
     },
-    "num_list_users": 118530
-  }
+    "num_list_users": 118635
+  },
+  "mal_details_updated_at": "2026-11-15T17:13:20.993Z",
+  "translations_updated_at": "2026-11-15T17:24:27.498Z"
 }

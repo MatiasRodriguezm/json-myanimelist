@@ -30,8 +30,8 @@
   "num_episodes": 12,
   "score": 8.72,
   "mean": 8.72,
-  "numListUsers": 836467,
-  "num_list_users": 836467,
+  "numListUsers": 836511,
+  "num_list_users": 836511,
   "genres": [
     {
       "id": 52,
@@ -52,7 +52,18 @@
       "name": "CloverWorks"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1130/112176l.webp",
+    "https://cdn.myanimelist.net/images/anime/1294/125289l.webp",
+    "https://cdn.myanimelist.net/images/anime/1448/127956l.webp",
+    "https://cdn.myanimelist.net/images/anime/1125/131611l.webp",
+    "https://cdn.myanimelist.net/images/anime/1425/149082l.webp",
+    "https://cdn.myanimelist.net/images/anime/1244/149087l.webp",
+    "https://cdn.myanimelist.net/images/anime/1812/149088l.webp",
+    "https://cdn.myanimelist.net/images/anime/1987/149089l.webp",
+    "https://cdn.myanimelist.net/images/anime/1119/149091l.webp",
+    "https://cdn.myanimelist.net/images/anime/1608/149092l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/riRJGnbb18zVBEXpov8GJKnBczj.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/1VebplEahcKYgValCV9rlHnuTbA.png",
   "tmdb_id": "119100",
@@ -69,7 +80,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1448/127956l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1130/112176l.webp"
     }
   },
   "broadcast": {
@@ -385,10 +396,10 @@
     }
   ],
   "characters": [],
-  "num_scoring_users": 504080,
+  "num_scoring_users": 504741,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2021-02-18T15:21:45+00:00",
+  "updated_at": "2025-05-14T21:29:47+00:00",
   "source": "4_koma_manga",
   "background": "Bocchi the Rock! was released on Blu-ray and DVD in six volumes from December 28, 2022, to May 24, 2023.",
   "related_anime": [
@@ -448,8 +459,8 @@
         "id": 5680,
         "title": "K-On!",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/10/76120.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/10/76120l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/10/76120.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/10/76120l.webp"
         }
       },
       "num_recommendations": 53
@@ -459,19 +470,19 @@
         "id": 55102,
         "title": "Girls Band Cry",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1711/140515.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1711/140515l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1711/140515.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1711/140515l.jpg"
         }
       },
-      "num_recommendations": 17
+      "num_recommendations": 16
     },
     {
       "node": {
         "id": 16742,
         "title": "Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/12/51619.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/12/51619l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/12/51619.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/12/51619l.jpg"
         }
       },
       "num_recommendations": 10
@@ -481,8 +492,8 @@
         "id": 37614,
         "title": "Hitoribocchi no Marumaru Seikatsu",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1612/145601.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1612/145601l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1612/145601.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1612/145601l.jpg"
         }
       },
       "num_recommendations": 10
@@ -492,8 +503,8 @@
         "id": 10165,
         "title": "Nichijou",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/3/75617.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/3/75617l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/3/75617.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/3/75617l.webp"
         }
       },
       "num_recommendations": 8
@@ -503,8 +514,8 @@
         "id": 59459,
         "title": "Silent Witch: Chinmoku no Majo no Kakushigoto",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1669/149732.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1669/149732l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1669/149732.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1669/149732l.webp"
         }
       },
       "num_recommendations": 8
@@ -525,8 +536,8 @@
         "id": 34798,
         "title": "Yuru Camp△",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/4/89877.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/4/89877l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/4/89877.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/4/89877l.webp"
         }
       },
       "num_recommendations": 6
@@ -547,8 +558,8 @@
         "id": 57,
         "title": "Beck",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/11/11636.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/11/11636l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/11/11636.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/11/11636l.webp"
         }
       },
       "num_recommendations": 4
@@ -556,12 +567,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "67000",
-      "completed": "583433",
-      "on_hold": "16722",
-      "dropped": "13156",
-      "plan_to_watch": "154644"
+      "watching": "67047",
+      "completed": "584203",
+      "on_hold": "16741",
+      "dropped": "13183",
+      "plan_to_watch": "154824"
     },
-    "num_list_users": 834955
-  }
+    "num_list_users": 835998
+  },
+  "mal_details_updated_at": "2026-11-15T17:20:03.787Z",
+  "translations_updated_at": "2026-11-15T17:23:55.968Z"
 }

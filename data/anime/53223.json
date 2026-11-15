@@ -30,8 +30,8 @@
   "num_episodes": 13,
   "score": 8.72,
   "mean": 8.72,
-  "numListUsers": 67251,
-  "num_list_users": 67251,
+  "numListUsers": 67255,
+  "num_list_users": 67255,
   "genres": [
     {
       "id": 1,
@@ -60,7 +60,12 @@
       "name": "Studio Signpost"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1196/128712l.webp",
+    "https://cdn.myanimelist.net/images/anime/1946/137349l.webp",
+    "https://cdn.myanimelist.net/images/anime/1250/138742l.webp",
+    "https://cdn.myanimelist.net/images/anime/1050/139641l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/5CGM0vQpq0QBcslUXqoo0unlGPZ.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/njxcMoizy5vstTcBK9Sm4BnYaZB.png",
   "tmdb_id": "46437",
@@ -77,7 +82,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1050/139641l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1196/128712l.webp"
     }
   },
   "broadcast": {
@@ -89,7 +94,7 @@
     "string": "sunday 00:00"
   },
   "rank": 59,
-  "popularity": 3153,
+  "popularity": 3151,
   "rating": "r",
   "simkl_id": 2003646,
   "episodes_data": [
@@ -200,10 +205,10 @@
   ],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 31235,
+  "num_scoring_users": 31294,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2022-10-01T17:34:04+00:00",
+  "updated_at": "2026-01-19T13:09:41+00:00",
   "source": "manga",
   "background": "Kingdom 5th Season adapts chapters 442-489 of the original manga.",
   "related_anime": [
@@ -212,8 +217,8 @@
         "id": 50160,
         "title": "Kingdom 4th Season",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1566/122794.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1566/122794l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1566/122794.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1566/122794l.webp"
         }
       },
       "relation_type": "prequel",
@@ -224,8 +229,8 @@
         "id": 61517,
         "title": "Kingdom 6th Season",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1282/151476.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1282/151476l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1282/151476.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1282/151476l.webp"
         }
       },
       "relation_type": "sequel",
@@ -248,12 +253,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "5734",
-      "completed": "39168",
-      "on_hold": "745",
-      "dropped": "583",
-      "plan_to_watch": "20881"
+      "watching": "5738",
+      "completed": "39241",
+      "on_hold": "746",
+      "dropped": "584",
+      "plan_to_watch": "20897"
     },
-    "num_list_users": 67111
-  }
+    "num_list_users": 67206
+  },
+  "mal_details_updated_at": "2026-11-15T17:20:04.902Z",
+  "translations_updated_at": "2026-11-15T17:24:01.764Z"
 }

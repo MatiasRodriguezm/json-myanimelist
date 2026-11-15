@@ -32,8 +32,8 @@
   "num_episodes": 5,
   "score": 8.03,
   "mean": 8.03,
-  "numListUsers": 337490,
-  "num_list_users": 337490,
+  "numListUsers": 337497,
+  "num_list_users": 337497,
   "genres": [
     {
       "id": 1,
@@ -58,7 +58,13 @@
       "name": "Madhouse"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/10/22268l.webp",
+    "https://cdn.myanimelist.net/images/anime/6/56043l.webp",
+    "https://cdn.myanimelist.net/images/anime/8/75529l.webp",
+    "https://cdn.myanimelist.net/images/anime/13/77819l.webp",
+    "https://cdn.myanimelist.net/images/anime/1771/143104l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/9Sz85jzgFAt2NUWV6e9AfJUSRkM.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/8NcZWGDedMIfkH2NQNxZe4mV8JR.png",
   "tmdb_id": "12598",
@@ -75,12 +81,12 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/8/75529l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/10/22268l.webp"
     }
   },
   "broadcast": null,
   "rank": 712,
-  "popularity": 861,
+  "popularity": 862,
   "rating": "r+",
   "simkl_id": 37527,
   "episodes_data": [
@@ -168,10 +174,10 @@
     }
   ],
   "characters": [],
-  "num_scoring_users": 189431,
+  "num_scoring_users": 189496,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2008-07-13T05:52:57+00:00",
+  "updated_at": "2022-06-12T05:31:30+00:00",
   "source": "manga",
   "background": null,
   "related_anime": [
@@ -270,12 +276,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "10989",
-      "completed": "247937",
-      "on_hold": "4755",
-      "dropped": "2354",
-      "plan_to_watch": "71276"
+      "watching": "10987",
+      "completed": "248037",
+      "on_hold": "4756",
+      "dropped": "2355",
+      "plan_to_watch": "71298"
     },
-    "num_list_users": 337311
-  }
+    "num_list_users": 337433
+  },
+  "mal_details_updated_at": "2026-11-15T17:21:35.845Z",
+  "translations_updated_at": "2026-11-15T17:24:24.635Z"
 }

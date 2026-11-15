@@ -54,7 +54,10 @@
       "name": "Madhouse"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1/264l.webp",
+    "https://cdn.myanimelist.net/images/anime/1521/137978l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/uvCkSZwCTKnBtBOvDpcOvQA6xBg.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/qlJ4cCqnHNs8cPEZDlM67RwZIFQ.png",
   "tmdb_id": "42705",
@@ -71,12 +74,12 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1521/137978l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1/264l.webp"
     }
   },
   "broadcast": null,
   "rank": 394,
-  "popularity": 1720,
+  "popularity": 1721,
   "rating": "pg_13",
   "simkl_id": 37301,
   "episodes_data": [
@@ -91,10 +94,10 @@
   ],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 96924,
+  "num_scoring_users": 96963,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2005-11-13T07:03:31+00:00",
+  "updated_at": "2024-02-04T16:04:31+00:00",
   "source": "manga",
   "background": null,
   "related_anime": [
@@ -103,8 +106,8 @@
         "id": 263,
         "title": "Hajime no Ippo",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/4/86334.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/4/86334l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/4/86334.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/4/86334l.webp"
         }
       },
       "relation_type": "prequel",
@@ -127,12 +130,14 @@
   "recommendations": [],
   "statistics": {
     "status": {
-      "watching": "3569",
-      "completed": "134949",
-      "on_hold": "921",
+      "watching": "3575",
+      "completed": "135021",
+      "on_hold": "920",
       "dropped": "652",
-      "plan_to_watch": "20852"
+      "plan_to_watch": "20853"
     },
-    "num_list_users": 160943
-  }
+    "num_list_users": 161021
+  },
+  "mal_details_updated_at": "2026-11-15T17:21:51.961Z",
+  "translations_updated_at": "2026-11-15T17:24:08.609Z"
 }

@@ -32,8 +32,8 @@
   "num_episodes": 12,
   "score": 6.52,
   "mean": 6.52,
-  "numListUsers": 8775,
-  "num_list_users": 8775,
+  "numListUsers": 8781,
+  "num_list_users": 8781,
   "genres": [
     {
       "id": 50,
@@ -54,7 +54,12 @@
       "name": "East Fish Studio"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1259/152350l.webp",
+    "https://cdn.myanimelist.net/images/anime/1489/156321l.webp",
+    "https://cdn.myanimelist.net/images/anime/1264/158994l.webp",
+    "https://cdn.myanimelist.net/images/anime/1618/160107l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/3jnuPu5CMCDWX7h9JM7SAuF2Ick.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/yi9tqIr0fhIAcqygZCLfpzKRq6n.png",
   "tmdb_id": "302020",
@@ -71,7 +76,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1618/160107l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1259/152350l.webp"
     }
   },
   "broadcast": {
@@ -82,82 +87,82 @@
     "timezone": "Asia/Tokyo",
     "string": "friday 00:00"
   },
-  "rank": 8003,
-  "popularity": 7883,
+  "rank": 8065,
+  "popularity": 7881,
   "rating": "pg_13",
   "simkl_id": 2892686,
   "episodes_data": [
     {
       "episode": 1,
       "title": "Where Should I Go?",
-      "title_es": "¿A dónde debo ir?",
       "aired": "2026-10-09T00:00:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/2076253179e88f9d29_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "¿A dónde debo ir?"
     },
     {
       "episode": 2,
       "title": "What Is the Tetsuryo Club?",
-      "title_es": "¿Qué es el Club Tetsuryo?",
       "aired": "2026-10-16T00:00:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/2085327950ae8ec943_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "¿Qué es el Club Tetsuryo?"
     },
     {
       "episode": 3,
       "title": "Working Is... Hard Work.",
-      "title_es": "Trabajar es... trabajo duro.",
       "aired": "2026-10-23T00:00:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/209416452e9b27d605_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Trabajar es... trabajo duro."
     },
     {
       "episode": 4,
       "title": "How's the Weather over There?",
-      "title_es": "¿Cómo está el clima allí?",
       "aired": "2026-10-30T00:00:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20941647cc979d793d_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "¿Cómo está el clima allí?"
     },
     {
       "episode": 5,
       "title": "I Don't Want Things to Stay Awkward, So...",
-      "title_es": "No quiero que las cosas sigan siendo incómodas, así que...",
       "aired": "2026-11-06T00:00:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/209903573445383db9_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "No quiero que las cosas sigan siendo incómodas, así que..."
     },
     {
       "episode": 6,
       "title": "Episode 6",
-      "title_es": "Episodio 6",
       "aired": "2026-11-13T00:00:00+09:00",
       "thumbnail": "https://simkl.in/episodes/21/21059301a0367f704b_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Episodio 6"
     },
     {
       "episode": 7,
       "title": "Episode 7",
-      "title_es": "Episodio 7",
       "aired": "2026-11-20T00:00:00+09:00",
       "thumbnail": "https://simkl.in/episodes/21/2107774769511d9a2a_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Episodio 7"
     },
     {
       "episode": 8,
       "title": "Episode 8",
-      "title_es": "Episodio 8",
       "aired": "2026-11-27T00:00:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 8"
     }
   ],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 1004,
+  "num_scoring_users": 1009,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2025-10-01T16:20:15+00:00",
+  "updated_at": "2026-10-09T09:59:04+00:00",
   "source": "original",
   "background": null,
   "related_anime": [],
@@ -165,12 +170,14 @@
   "recommendations": [],
   "statistics": {
     "status": {
-      "watching": "3584",
-      "completed": "1",
+      "watching": "3590",
+      "completed": 0,
       "on_hold": "120",
-      "dropped": "615",
-      "plan_to_watch": "4445"
+      "dropped": "621",
+      "plan_to_watch": "4449"
     },
-    "num_list_users": 8765
-  }
+    "num_list_users": 8780
+  },
+  "mal_details_updated_at": "2026-11-15T17:14:45.584Z",
+  "translations_updated_at": "2026-11-15T17:24:44.769Z"
 }

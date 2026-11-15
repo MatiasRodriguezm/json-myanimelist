@@ -34,8 +34,8 @@
   "num_episodes": 1,
   "score": 8.29,
   "mean": 8.29,
-  "numListUsers": 483213,
-  "num_list_users": 483213,
+  "numListUsers": 483224,
+  "num_list_users": 483224,
   "genres": [
     {
       "id": 4,
@@ -56,11 +56,15 @@
       "name": "White Fox"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/8/73895l.webp",
+    "https://cdn.myanimelist.net/images/anime/1157/123187l.webp",
+    "https://cdn.myanimelist.net/images/anime/1805/123188l.webp"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T13:06:03.909Z",
+  "tmdb_updated_at": "2026-11-15T17:21:49.904Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1805/123188.webp",
@@ -73,7 +77,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1805/123188l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/8/73895l.webp"
     }
   },
   "broadcast": null,
@@ -302,10 +306,10 @@
     }
   ],
   "characters": [],
-  "num_scoring_users": 301539,
+  "num_scoring_users": 301648,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2011-06-25T17:00:24+00:00",
+  "updated_at": "2023-01-17T04:22:04+00:00",
   "source": "visual_novel",
   "background": null,
   "related_anime": [
@@ -314,8 +318,8 @@
         "id": 9253,
         "title": "Steins;Gate",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1935/127974.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1935/127974l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1935/127974.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1935/127974l.jpg"
         }
       },
       "relation_type": "prequel",
@@ -372,12 +376,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "6567",
-      "completed": "410943",
-      "on_hold": "2147",
-      "dropped": "1121",
-      "plan_to_watch": "62185"
+      "watching": "6570",
+      "completed": "411099",
+      "on_hold": "2151",
+      "dropped": "1122",
+      "plan_to_watch": "62218"
     },
-    "num_list_users": 482963
-  }
+    "num_list_users": 483160
+  },
+  "mal_details_updated_at": "2026-11-15T17:21:49.581Z",
+  "translations_updated_at": "2026-11-15T17:24:07.916Z"
 }

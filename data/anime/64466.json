@@ -34,8 +34,8 @@
   "num_episodes": null,
   "score": null,
   "mean": null,
-  "numListUsers": 1061,
-  "num_list_users": 1061,
+  "numListUsers": 1073,
+  "num_list_users": 1073,
   "genres": [
     {
       "id": 50,
@@ -56,11 +56,13 @@
       "name": "J.C.Staff"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1103/158697l.webp"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T13:05:33.231Z",
+  "tmdb_updated_at": "2026-11-15T17:17:59.908Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1103/158697.webp",
@@ -78,7 +80,7 @@
   },
   "broadcast": null,
   "rank": null,
-  "popularity": 16474,
+  "popularity": 15389,
   "rating": null,
   "simkl_id": 3164232,
   "episodes_data": [],
@@ -86,8 +88,8 @@
   "characters": [],
   "num_scoring_users": null,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2026-06-25T10:04:07+00:00",
+  "updated_at": "2026-11-12T09:36:18+00:00",
   "source": "web_manga",
   "background": null,
   "related_anime": [],
@@ -99,8 +101,10 @@
       "completed": 0,
       "on_hold": 0,
       "dropped": 0,
-      "plan_to_watch": "818"
+      "plan_to_watch": "1073"
     },
-    "num_list_users": 818
-  }
+    "num_list_users": 1073
+  },
+  "mal_details_updated_at": "2026-11-15T17:17:59.483Z",
+  "translations_updated_at": "2026-11-15T17:25:02.977Z"
 }

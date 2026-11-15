@@ -54,11 +54,13 @@
       "name": "ufotable"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/9/67425l.webp"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T13:06:06.474Z",
+  "tmdb_updated_at": "2026-11-15T17:22:00.964Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/9/67425.webp",
@@ -75,7 +77,7 @@
     }
   },
   "broadcast": null,
-  "rank": 715,
+  "rank": 714,
   "popularity": 805,
   "rating": "pg_13",
   "simkl_id": 46116,
@@ -196,10 +198,10 @@
     }
   ],
   "characters": [],
-  "num_scoring_users": 217894,
+  "num_scoring_users": 217967,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2014-10-04T15:22:05+00:00",
+  "updated_at": "2024-10-02T16:15:00+00:00",
   "source": "visual_novel",
   "background": null,
   "related_anime": [
@@ -232,12 +234,14 @@
   "recommendations": [],
   "statistics": {
     "status": {
-      "watching": "5715",
-      "completed": "306217",
-      "on_hold": "1641",
-      "dropped": "1111",
-      "plan_to_watch": "40203"
+      "watching": "5716",
+      "completed": "306339",
+      "on_hold": "1639",
+      "dropped": "1112",
+      "plan_to_watch": "40213"
     },
-    "num_list_users": 354887
-  }
+    "num_list_users": 355019
+  },
+  "mal_details_updated_at": "2026-11-15T17:22:00.749Z",
+  "translations_updated_at": "2026-11-15T17:24:20.358Z"
 }

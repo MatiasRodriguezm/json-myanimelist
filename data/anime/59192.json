@@ -32,8 +32,8 @@
   "num_episodes": 1,
   "score": 8.64,
   "mean": 8.64,
-  "numListUsers": 446292,
-  "num_list_users": 446292,
+  "numListUsers": 446356,
+  "num_list_users": 446356,
   "genres": [
     {
       "id": 1,
@@ -62,7 +62,15 @@
       "name": "ufotable"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1687/143891l.webp",
+    "https://cdn.myanimelist.net/images/anime/1465/146881l.webp",
+    "https://cdn.myanimelist.net/images/anime/1681/148216l.webp",
+    "https://cdn.myanimelist.net/images/anime/1921/150778l.webp",
+    "https://cdn.myanimelist.net/images/anime/1728/151186l.webp",
+    "https://cdn.myanimelist.net/images/anime/1097/151557l.webp",
+    "https://cdn.myanimelist.net/images/anime/1022/151866l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/w3H7PDwwss5SLuMQ8UBrAProasG.png",
   "tmdb_id": "1311031",
@@ -79,12 +87,12 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1681/148216l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1687/143891l.webp"
     }
   },
   "broadcast": null,
   "rank": 92,
-  "popularity": 618,
+  "popularity": 614,
   "rating": "r",
   "simkl_id": 2498112,
   "episodes_data": [
@@ -124,10 +132,10 @@
     }
   ],
   "characters": [],
-  "num_scoring_users": 248163,
+  "num_scoring_users": 249397,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2024-06-30T15:19:23+00:00",
+  "updated_at": "2026-07-31T06:47:34+00:00",
   "source": "manga",
   "background": null,
   "related_anime": [
@@ -136,8 +144,8 @@
         "id": 55701,
         "title": "Kimetsu no Yaiba: Hashira Geiko-hen",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1565/142711.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1565/142711l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1565/142711.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1565/142711l.webp"
         }
       },
       "relation_type": "prequel",
@@ -195,12 +203,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "19332",
-      "completed": "312542",
-      "on_hold": "2511",
-      "dropped": "503",
-      "plan_to_watch": "109440"
+      "watching": "19334",
+      "completed": "314307",
+      "on_hold": "2518",
+      "dropped": "501",
+      "plan_to_watch": "109320"
     },
-    "num_list_users": 444328
-  }
+    "num_list_users": 445980
+  },
+  "mal_details_updated_at": "2026-11-15T17:20:09.833Z",
+  "translations_updated_at": "2026-11-15T17:24:02.963Z"
 }

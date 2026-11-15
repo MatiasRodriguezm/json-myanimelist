@@ -74,7 +74,13 @@
       "name": "Bandai Namco Pictures"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/3/72078l.webp",
+    "https://cdn.myanimelist.net/images/anime/13/77340l.webp",
+    "https://cdn.myanimelist.net/images/anime/13/77980l.webp",
+    "https://cdn.myanimelist.net/images/anime/11/78166l.webp",
+    "https://cdn.myanimelist.net/images/anime/2/78266l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/3gVl0IvJMbhOnAvH9V0Q1Y1HnXE.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/2GFz7E2Z1UWiWqOv2YGIbIaAWrH.png",
   "tmdb_id": "57041",
@@ -535,10 +541,10 @@
     }
   ],
   "characters": [],
-  "num_scoring_users": 276534,
+  "num_scoring_users": 276620,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2014-12-21T07:58:01+00:00",
+  "updated_at": "2024-05-08T21:24:25+00:00",
   "source": "manga",
   "background": null,
   "related_anime": [
@@ -559,8 +565,8 @@
         "id": 32122,
         "title": "Gintama°: Umai-mono wa Atomawashi ni Suru to Yokodorisareru kara Yappari Saki ni Kue",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1720/110926.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1720/110926l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1720/110926.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1720/110926l.webp"
         }
       },
       "relation_type": "side_story",
@@ -571,8 +577,8 @@
         "id": 32366,
         "title": "Gintama°: Aizome Kaori-hen",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1962/133573.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1962/133573l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1962/133573.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1962/133573l.webp"
         }
       },
       "relation_type": "side_story",
@@ -583,8 +589,8 @@
         "id": 34096,
         "title": "Gintama.",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/3/83528.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/3/83528l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/3/83528.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/3/83528l.jpg"
         }
       },
       "relation_type": "sequel",
@@ -620,8 +626,8 @@
         "id": 6347,
         "title": "Baka to Test to Shoukanjuu",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/3/50389.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/3/50389l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/3/50389.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/3/50389l.webp"
         }
       },
       "num_recommendations": 2
@@ -631,8 +637,8 @@
         "id": 37105,
         "title": "Grand Blue",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1302/94882.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1302/94882l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1302/94882.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1302/94882l.jpg"
         }
       },
       "num_recommendations": 2
@@ -642,8 +648,8 @@
         "id": 32937,
         "title": "Kono Subarashii Sekai ni Shukufuku wo! 2",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/2/83188.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/2/83188l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/2/83188.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/2/83188l.webp"
         }
       },
       "num_recommendations": 1
@@ -653,8 +659,8 @@
         "id": 9253,
         "title": "Steins;Gate",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1935/127974.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1935/127974l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1935/127974.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1935/127974l.jpg"
         }
       },
       "num_recommendations": 1
@@ -675,8 +681,8 @@
         "id": 20507,
         "title": "Noragami",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1886/128266.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1886/128266l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1886/128266.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1886/128266l.webp"
         }
       },
       "num_recommendations": 1
@@ -706,12 +712,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "76761",
-      "completed": "298212",
-      "on_hold": "26842",
-      "dropped": "21071",
-      "plan_to_watch": "279102"
+      "watching": "76789",
+      "completed": "298317",
+      "on_hold": "26851",
+      "dropped": "21083",
+      "plan_to_watch": "279151"
     },
-    "num_list_users": 701988
-  }
+    "num_list_users": 702191
+  },
+  "mal_details_updated_at": "2026-11-15T17:12:58.867Z",
+  "translations_updated_at": "2026-11-15T17:23:56.595Z"
 }

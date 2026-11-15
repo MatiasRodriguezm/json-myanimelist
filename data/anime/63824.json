@@ -52,7 +52,10 @@
       "name": "MAPPA"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1031/156352l.webp",
+    "https://cdn.myanimelist.net/images/anime/1915/159776l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/flgn0jXbg8GIe2qaWfd70A0uzfp.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/tEmqJ1k4MdjuaKaetn8wGyZGcyC.png",
   "tmdb_id": "95479",
@@ -69,21 +72,21 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1915/159776l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1031/156352l.webp"
     }
   },
   "broadcast": null,
   "rank": null,
-  "popularity": 2871,
+  "popularity": 2870,
   "rating": "r",
   "simkl_id": 3063276,
   "episodes_data": [],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 4,
+  "num_scoring_users": null,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2026-03-28T12:33:01+00:00",
+  "updated_at": "2026-08-29T09:40:19+00:00",
   "source": "manga",
   "background": null,
   "related_anime": [
@@ -92,8 +95,8 @@
         "id": 57658,
         "title": "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1659/154920.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1659/154920l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1659/154920.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1659/154920l.webp"
         }
       },
       "relation_type": "prequel",
@@ -104,12 +107,14 @@
   "recommendations": [],
   "statistics": {
     "status": {
-      "watching": "4",
-      "completed": "1",
-      "on_hold": "4",
+      "watching": "1",
+      "completed": 0,
+      "on_hold": 0,
       "dropped": 0,
-      "plan_to_watch": "78619"
+      "plan_to_watch": "78683"
     },
-    "num_list_users": 78628
-  }
+    "num_list_users": 78684
+  },
+  "mal_details_updated_at": "2026-11-15T17:18:32.585Z",
+  "translations_updated_at": "2026-11-15T17:24:59.025Z"
 }

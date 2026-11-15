@@ -32,8 +32,8 @@
   "num_episodes": 7,
   "score": 8.09,
   "mean": 8.09,
-  "numListUsers": 109376,
-  "num_list_users": 109376,
+  "numListUsers": 109378,
+  "num_list_users": 109378,
   "genres": [
     {
       "id": 8,
@@ -62,7 +62,15 @@
       "name": "Sunrise"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/7/14464l.webp",
+    "https://cdn.myanimelist.net/images/anime/4/30270l.webp",
+    "https://cdn.myanimelist.net/images/anime/11/31775l.webp",
+    "https://cdn.myanimelist.net/images/anime/2/38521l.webp",
+    "https://cdn.myanimelist.net/images/anime/8/43571l.webp",
+    "https://cdn.myanimelist.net/images/anime/12/50459l.webp",
+    "https://cdn.myanimelist.net/images/anime/1209/95286l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/qpAwEOyajTvZpHO3c6GZQcBzhrJ.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/rq5NY5zVwkZBhYf7KY4uz3PzBUn.png",
   "tmdb_id": "45500",
@@ -79,11 +87,11 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/12/50459l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/7/14464l.webp"
     }
   },
   "broadcast": null,
-  "rank": 622,
+  "rank": 623,
   "popularity": 2316,
   "rating": "pg_13",
   "simkl_id": 38825,
@@ -724,10 +732,10 @@
     }
   ],
   "characters": [],
-  "num_scoring_users": 55778,
+  "num_scoring_users": 55800,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2009-04-09T01:24:25+00:00",
+  "updated_at": "2025-10-17T22:26:12+00:00",
   "source": "novel",
   "background": "Mobile Suit Gundam Unicorn was awarded the Tokyo Anime Award in the OVA category twice in a row, in 2011 and 2012.",
   "related_anime": [
@@ -736,8 +744,8 @@
         "id": 87,
         "title": "Kidou Senshi Gundam: Gyakushuu no Char",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1523/92371.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1523/92371l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1523/92371.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1523/92371l.webp"
         }
       },
       "relation_type": "prequel",
@@ -894,8 +902,8 @@
         "id": 237,
         "title": "Koukyoushihen Eureka Seven",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/12/34443.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/12/34443l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/12/34443.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/12/34443l.webp"
         }
       },
       "num_recommendations": 1
@@ -905,8 +913,8 @@
         "id": 8888,
         "title": "Code Geass: Boukoku no Akito 1 - Yokuryuu wa Maiorita",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/10/41401.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/10/41401l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/10/41401.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/10/41401l.webp"
         }
       },
       "num_recommendations": 1
@@ -938,8 +946,8 @@
         "id": 85,
         "title": "Kidou Senshi Zeta Gundam",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/6/11153.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/6/11153l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/6/11153.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/6/11153l.jpg"
         }
       },
       "num_recommendations": 1
@@ -949,8 +957,8 @@
         "id": 86,
         "title": "Kidou Senshi Gundam ZZ",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1964/149469.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1964/149469l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1964/149469.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1964/149469l.webp"
         }
       },
       "num_recommendations": 1
@@ -969,12 +977,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "11798",
-      "completed": "63996",
+      "watching": "11794",
+      "completed": "64024",
       "on_hold": "5144",
-      "dropped": "2523",
-      "plan_to_watch": "25853"
+      "dropped": "2522",
+      "plan_to_watch": "25864"
     },
-    "num_list_users": 109314
-  }
+    "num_list_users": 109348
+  },
+  "mal_details_updated_at": "2026-11-15T17:21:31.580Z",
+  "translations_updated_at": "2026-11-15T17:24:53.632Z"
 }

@@ -52,11 +52,13 @@
       "name": "Tecarat"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1505/154780l.webp"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T13:04:54.519Z",
+  "tmdb_updated_at": "2026-11-15T17:16:23.477Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1505/154780.webp",
@@ -74,7 +76,7 @@
   },
   "broadcast": null,
   "rank": null,
-  "popularity": 25505,
+  "popularity": 25507,
   "rating": "g",
   "simkl_id": null,
   "episodes_data": [],
@@ -82,8 +84,8 @@
   "characters": [],
   "num_scoring_users": null,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2026-01-01T16:55:25+00:00",
+  "updated_at": "2026-01-02T09:13:54+00:00",
   "source": "original",
   "background": null,
   "related_anime": [
@@ -92,8 +94,8 @@
         "id": 44225,
         "title": "Norman the Snowman: Nagareboshi no Furu Yoru ni",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1957/110425.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1957/110425l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1957/110425.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1957/110425l.webp"
         }
       },
       "relation_type": "prequel",
@@ -111,5 +113,7 @@
       "plan_to_watch": "161"
     },
     "num_list_users": 161
-  }
+  },
+  "mal_details_updated_at": "2026-11-15T17:16:23.010Z",
+  "translations_updated_at": "2026-11-15T17:24:52.152Z"
 }

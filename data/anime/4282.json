@@ -34,8 +34,8 @@
   "num_episodes": 1,
   "score": 8.5,
   "mean": 8.5,
-  "numListUsers": 256946,
-  "num_list_users": 256946,
+  "numListUsers": 256948,
+  "num_list_users": 256948,
   "genres": [
     {
       "id": 1,
@@ -72,11 +72,20 @@
       "name": "ufotable"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/11/7992l.webp",
+    "https://cdn.myanimelist.net/images/anime/8/15223l.webp",
+    "https://cdn.myanimelist.net/images/anime/6/27321l.webp",
+    "https://cdn.myanimelist.net/images/anime/12/51739l.webp",
+    "https://cdn.myanimelist.net/images/anime/4/75851l.webp",
+    "https://cdn.myanimelist.net/images/anime/1574/112838l.webp",
+    "https://cdn.myanimelist.net/images/anime/1872/138084l.webp",
+    "https://cdn.myanimelist.net/images/anime/1935/158320l.webp"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T13:05:59.732Z",
+  "tmdb_updated_at": "2026-11-15T17:20:19.705Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1574/112838.webp",
@@ -89,12 +98,12 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1574/112838l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/11/7992l.webp"
     }
   },
   "broadcast": null,
-  "rank": 169,
-  "popularity": 1135,
+  "rank": 170,
+  "popularity": 1137,
   "rating": "r",
   "simkl_id": 39881,
   "episodes_data": [
@@ -254,10 +263,10 @@
     }
   ],
   "characters": [],
-  "num_scoring_users": 141203,
+  "num_scoring_users": 141234,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2008-04-10T12:39:50+00:00",
+  "updated_at": "2024-10-08T20:34:58+00:00",
   "source": "light_novel",
   "background": "Includes claymation short which was shown before the movie in theaters.",
   "related_anime": [
@@ -266,8 +275,8 @@
         "id": 4280,
         "title": "Kara no Kyoukai Movie 4: Garan no Dou",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/9/21736.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/9/21736l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/9/21736.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/9/21736l.webp"
         }
       },
       "relation_type": "prequel",
@@ -290,8 +299,8 @@
         "id": 6624,
         "title": "Kara no Kyoukai Remix: Gate of Seventh Heaven",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/11/15175.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/11/15175l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/11/15175.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/11/15175l.jpg"
         }
       },
       "relation_type": "summary",
@@ -328,8 +337,8 @@
         "id": 437,
         "title": "Perfect Blue",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1254/134212.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1254/134212l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1254/134212.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1254/134212l.webp"
         }
       },
       "num_recommendations": 5
@@ -339,8 +348,8 @@
         "id": 10087,
         "title": "Fate/Zero",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1887/117644.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1887/117644l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1887/117644.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1887/117644l.jpg"
         }
       },
       "num_recommendations": 3
@@ -350,8 +359,8 @@
         "id": 468,
         "title": "Innocence",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/10/75628.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/10/75628l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/10/75628.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/10/75628l.webp"
         }
       },
       "num_recommendations": 3
@@ -361,8 +370,8 @@
         "id": 32,
         "title": "Shinseiki Evangelion Movie: Air/Magokoro wo, Kimi ni",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1404/98182.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1404/98182l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1404/98182.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1404/98182l.webp"
         }
       },
       "num_recommendations": 2
@@ -372,8 +381,8 @@
         "id": 28701,
         "title": "Fate/stay night: Unlimited Blade Works 2nd Season",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1881/124810.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1881/124810l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1881/124810.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1881/124810l.jpg"
         }
       },
       "num_recommendations": 2
@@ -383,8 +392,8 @@
         "id": 339,
         "title": "Serial Experiments Lain",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1718/91550.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1718/91550l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1718/91550.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1718/91550l.jpg"
         }
       },
       "num_recommendations": 2
@@ -416,8 +425,8 @@
         "id": 1556,
         "title": "Kikoushi Enma",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/8/50391.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/8/50391l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/8/50391.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/8/50391l.jpg"
         }
       },
       "num_recommendations": 1
@@ -425,12 +434,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "5651",
-      "completed": "181437",
-      "on_hold": "2292",
+      "watching": "5653",
+      "completed": "181485",
+      "on_hold": "2293",
       "dropped": "1098",
-      "plan_to_watch": "66341"
+      "plan_to_watch": "66359"
     },
-    "num_list_users": 256819
-  }
+    "num_list_users": 256888
+  },
+  "mal_details_updated_at": "2026-11-15T17:20:19.434Z",
+  "translations_updated_at": "2026-11-15T17:24:04.758Z"
 }

@@ -52,11 +52,13 @@
       "name": "KaKa Technology Studio"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1656/161011l.webp"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T13:05:08.822Z",
+  "tmdb_updated_at": "2026-11-15T17:16:48.875Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1656/161011.webp",
@@ -73,17 +75,17 @@
     }
   },
   "broadcast": null,
-  "rank": 19854,
-  "popularity": 30767,
+  "rank": 19857,
+  "popularity": 30737,
   "rating": "g",
   "simkl_id": null,
   "episodes_data": [],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": null,
+  "num_scoring_users": 4,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2026-11-11T16:48:25+00:00",
+  "updated_at": "2026-11-12T08:08:33+00:00",
   "source": "other",
   "background": null,
   "related_anime": [
@@ -92,8 +94,8 @@
         "id": 7261,
         "title": "Mameshiba",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/5/63601.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/5/63601l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/5/63601.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/5/63601l.webp"
         }
       },
       "relation_type": "spin_off",
@@ -104,12 +106,14 @@
   "recommendations": [],
   "statistics": {
     "status": {
-      "watching": 0,
+      "watching": "7",
       "completed": 0,
-      "on_hold": 0,
-      "dropped": 0,
-      "plan_to_watch": "7"
+      "on_hold": "2",
+      "dropped": "7",
+      "plan_to_watch": "12"
     },
-    "num_list_users": 7
-  }
+    "num_list_users": 28
+  },
+  "mal_details_updated_at": "2026-11-15T17:16:48.398Z",
+  "translations_updated_at": "2026-11-15T17:25:12.476Z"
 }

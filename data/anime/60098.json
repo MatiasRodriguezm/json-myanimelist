@@ -32,8 +32,8 @@
   "num_episodes": 11,
   "score": 8.7,
   "mean": 8.7,
-  "numListUsers": 359908,
-  "num_list_users": 359908,
+  "numListUsers": 359946,
+  "num_list_users": 359946,
   "genres": [
     {
       "id": 1,
@@ -58,7 +58,16 @@
       "name": "Bones Film"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1766/146050l.webp",
+    "https://cdn.myanimelist.net/images/anime/1370/146328l.webp",
+    "https://cdn.myanimelist.net/images/anime/1441/148713l.webp",
+    "https://cdn.myanimelist.net/images/anime/1276/150585l.webp",
+    "https://cdn.myanimelist.net/images/anime/1959/151055l.webp",
+    "https://cdn.myanimelist.net/images/anime/1814/153616l.webp",
+    "https://cdn.myanimelist.net/images/anime/1152/154205l.webp",
+    "https://cdn.myanimelist.net/images/anime/1092/154229l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/3ILMlmC30QUnYkY3XEBOyJ82Dqu.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/ztteKox6S97uwEuEF2lsaFxaJmg.png",
   "tmdb_id": "65930",
@@ -75,7 +84,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1959/151055l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1766/146050l.webp"
     }
   },
   "broadcast": {
@@ -87,7 +96,7 @@
     "string": "saturday 17:30"
   },
   "rank": 65,
-  "popularity": 788,
+  "popularity": 784,
   "rating": "pg_13",
   "simkl_id": 2607190,
   "episodes_data": [
@@ -182,10 +191,10 @@
   ],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 194431,
+  "num_scoring_users": 195176,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2024-10-12T11:22:54+00:00",
+  "updated_at": "2026-02-26T22:53:12+00:00",
   "source": "manga",
   "background": null,
   "related_anime": [
@@ -206,8 +215,8 @@
         "id": 63130,
         "title": "Boku no Hero Academia: More",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1273/156615.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1273/156615l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1273/156615.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1273/156615l.jpg"
         }
       },
       "relation_type": "sequel",
@@ -230,12 +239,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "27436",
-      "completed": "250389",
-      "on_hold": "3077",
-      "dropped": "1812",
-      "plan_to_watch": "75869"
+      "watching": "27443",
+      "completed": "251481",
+      "on_hold": "3083",
+      "dropped": "1829",
+      "plan_to_watch": "75864"
     },
-    "num_list_users": 358583
-  }
+    "num_list_users": 359700
+  },
+  "mal_details_updated_at": "2026-11-15T17:20:06.374Z",
+  "translations_updated_at": "2026-11-15T17:24:02.066Z"
 }

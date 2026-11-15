@@ -65,7 +65,18 @@
       "name": "Sunrise"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/12/14006l.webp",
+    "https://cdn.myanimelist.net/images/anime/10/16703l.webp",
+    "https://cdn.myanimelist.net/images/anime/1948/95432l.webp",
+    "https://cdn.myanimelist.net/images/anime/1614/95548l.webp",
+    "https://cdn.myanimelist.net/images/anime/1566/131972l.webp",
+    "https://cdn.myanimelist.net/images/anime/1516/132006l.webp",
+    "https://cdn.myanimelist.net/images/anime/1187/132740l.webp",
+    "https://cdn.myanimelist.net/images/anime/1960/132741l.webp",
+    "https://cdn.myanimelist.net/images/anime/1255/132742l.webp",
+    "https://cdn.myanimelist.net/images/anime/1614/155263l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/bmv8e9LQiNhl2KccYoa42RZm3WY.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/oeKkJdstVPGImPeeaBfAv9FbfeR.png",
   "tmdb_id": "45116",
@@ -82,12 +93,12 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1187/132740l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/12/14006l.webp"
     }
   },
   "broadcast": null,
   "rank": 526,
-  "popularity": 6672,
+  "popularity": 6675,
   "rating": "pg_13",
   "simkl_id": 38038,
   "episodes_data": [
@@ -160,8 +171,8 @@
   "characters": [],
   "num_scoring_users": 5158,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2006-08-19T00:03:24+00:00",
+  "updated_at": "2023-09-02T22:31:51+00:00",
   "source": "original",
   "background": null,
   "related_anime": [
@@ -197,8 +208,8 @@
         "id": 2001,
         "title": "Tengen Toppa Gurren Lagann",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/4/5123.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/4/5123l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/4/5123.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/4/5123l.jpg"
         }
       },
       "num_recommendations": 2
@@ -208,8 +219,8 @@
         "id": 2734,
         "title": "Mazinkaiser: Shitou! Ankoku Dai Shougun",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/5/51795.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/5/51795l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/5/51795.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/5/51795l.webp"
         }
       },
       "num_recommendations": 1
@@ -228,12 +239,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "727",
+      "watching": "728",
       "completed": "7308",
       "on_hold": "246",
       "dropped": "345",
-      "plan_to_watch": "4509"
+      "plan_to_watch": "4511"
     },
-    "num_list_users": 13135
-  }
+    "num_list_users": 13138
+  },
+  "mal_details_updated_at": "2026-11-15T17:21:27.324Z",
+  "translations_updated_at": "2026-11-15T17:24:11.247Z"
 }

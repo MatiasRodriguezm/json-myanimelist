@@ -32,8 +32,8 @@
   "num_episodes": 51,
   "score": 9.02,
   "mean": 9.02,
-  "numListUsers": 624752,
-  "num_list_users": 624752,
+  "numListUsers": 624765,
+  "num_list_users": 624765,
   "genres": [
     {
       "id": 1,
@@ -74,7 +74,16 @@
       "name": "Sunrise"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/2/33345l.webp",
+    "https://cdn.myanimelist.net/images/anime/6/33489l.webp",
+    "https://cdn.myanimelist.net/images/anime/6/33491l.webp",
+    "https://cdn.myanimelist.net/images/anime/5/33493l.webp",
+    "https://cdn.myanimelist.net/images/anime/3/36969l.webp",
+    "https://cdn.myanimelist.net/images/anime/4/36971l.webp",
+    "https://cdn.myanimelist.net/images/anime/4/50361l.webp",
+    "https://cdn.myanimelist.net/images/anime/2/73247l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/3gVl0IvJMbhOnAvH9V0Q1Y1HnXE.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/2GFz7E2Z1UWiWqOv2YGIbIaAWrH.png",
   "tmdb_id": "57041",
@@ -91,7 +100,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/4/50361l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/2/33345l.webp"
     }
   },
   "broadcast": {
@@ -527,10 +536,10 @@
     }
   ],
   "characters": [],
-  "num_scoring_users": 261755,
+  "num_scoring_users": 261835,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2010-12-06T15:47:56+00:00",
+  "updated_at": "2024-03-04T09:27:01+00:00",
   "source": "manga",
   "background": null,
   "related_anime": [
@@ -613,8 +622,8 @@
         "id": 11843,
         "title": "Danshi Koukousei no Nichijou",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/3/33257.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/3/33257l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/3/33257.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/3/33257l.webp"
         }
       },
       "num_recommendations": 4
@@ -624,8 +633,8 @@
         "id": 37105,
         "title": "Grand Blue",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1302/94882.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1302/94882l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1302/94882.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1302/94882l.jpg"
         }
       },
       "num_recommendations": 2
@@ -668,8 +677,8 @@
         "id": 114,
         "title": "Sakigake!! Cromartie Koukou",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1782/130913.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1782/130913l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1782/130913.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1782/130913l.jpg"
         }
       },
       "num_recommendations": 1
@@ -690,8 +699,8 @@
         "id": 16211,
         "title": "Bakumatsu Gijinden Roman",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/9/43673.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/9/43673l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/9/43673.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/9/43673l.jpg"
         }
       },
       "num_recommendations": 1
@@ -710,12 +719,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "49235",
-      "completed": "311022",
-      "on_hold": "18530",
-      "dropped": "12763",
-      "plan_to_watch": "232924"
+      "watching": "49233",
+      "completed": "311136",
+      "on_hold": "18535",
+      "dropped": "12772",
+      "plan_to_watch": "232960"
     },
-    "num_list_users": 624474
-  }
+    "num_list_users": 624636
+  },
+  "mal_details_updated_at": "2026-11-15T17:13:00.624Z",
+  "translations_updated_at": "2026-11-15T17:23:58.061Z"
 }

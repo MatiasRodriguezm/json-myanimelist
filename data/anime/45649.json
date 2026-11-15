@@ -30,8 +30,8 @@
   "num_episodes": 1,
   "score": 8.7,
   "mean": 8.7,
-  "numListUsers": 81819,
-  "num_list_users": 81819,
+  "numListUsers": 81822,
+  "num_list_users": 81822,
   "genres": [
     {
       "id": 46,
@@ -64,11 +64,20 @@
       "name": "DandeLion Animation Studio"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1308/111087l.webp",
+    "https://cdn.myanimelist.net/images/anime/1121/124964l.webp",
+    "https://cdn.myanimelist.net/images/anime/1431/125198l.webp",
+    "https://cdn.myanimelist.net/images/anime/1663/125199l.webp",
+    "https://cdn.myanimelist.net/images/anime/1705/125200l.webp",
+    "https://cdn.myanimelist.net/images/anime/1922/125201l.webp",
+    "https://cdn.myanimelist.net/images/anime/1955/128243l.webp",
+    "https://cdn.myanimelist.net/images/anime/1745/129284l.webp"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T13:05:57.813Z",
+  "tmdb_updated_at": "2026-11-15T17:20:08.087Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1745/129284.webp",
@@ -81,7 +90,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1745/129284l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1308/111087l.webp"
     }
   },
   "broadcast": null,
@@ -101,10 +110,10 @@
   ],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 38691,
+  "num_scoring_users": 38764,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2021-01-07T05:16:26+00:00",
+  "updated_at": "2024-04-05T19:47:22+00:00",
   "source": "manga",
   "background": "The movie partially adapts the chapters between 223 to 276 from the manga while incorporating original scenes created for the film.\n\nIt won the Best Animation of the Year award at the Japan Academy Film Prize in 2023. It also won the awards for Anime of the Year - Film, Best Director, Best Writer, and Best Visual Arts at the 2024 Tokyo Anime Award Festival.",
   "related_anime": [
@@ -113,8 +122,8 @@
         "id": 170,
         "title": "Slam Dunk",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/12/86890.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/12/86890l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/12/86890.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/12/86890l.jpg"
         }
       },
       "relation_type": "other",
@@ -125,12 +134,14 @@
   "recommendations": [],
   "statistics": {
     "status": {
-      "watching": "4378",
-      "completed": "47239",
-      "on_hold": "777",
+      "watching": "4383",
+      "completed": "47336",
+      "on_hold": "774",
       "dropped": "607",
-      "plan_to_watch": "28670"
+      "plan_to_watch": "28688"
     },
-    "num_list_users": 81671
-  }
+    "num_list_users": 81788
+  },
+  "mal_details_updated_at": "2026-11-15T17:20:07.704Z",
+  "translations_updated_at": "2026-11-15T17:24:02.379Z"
 }

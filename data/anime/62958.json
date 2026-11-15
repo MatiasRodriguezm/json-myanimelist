@@ -33,8 +33,8 @@
   "num_episodes": 30,
   "score": null,
   "mean": null,
-  "numListUsers": 994,
-  "num_list_users": 994,
+  "numListUsers": 995,
+  "num_list_users": 995,
   "genres": [
     {
       "id": 1,
@@ -55,11 +55,15 @@
       "name": "L²Studio"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1586/153607l.webp",
+    "https://cdn.myanimelist.net/images/anime/1613/160193l.webp",
+    "https://cdn.myanimelist.net/images/anime/1919/160194l.webp"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T13:04:35.792Z",
+  "tmdb_updated_at": "2026-11-15T17:15:17.137Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1613/160193.webp",
@@ -72,21 +76,21 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1613/160193l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1586/153607l.webp"
     }
   },
   "broadcast": null,
   "rank": null,
-  "popularity": 15690,
+  "popularity": 15688,
   "rating": "pg_13",
   "simkl_id": null,
   "episodes_data": [],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 1,
+  "num_scoring_users": null,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2025-11-15T13:35:13+00:00",
+  "updated_at": "2026-09-27T14:22:14+00:00",
   "source": "web_manga",
   "background": null,
   "related_anime": [
@@ -108,11 +112,13 @@
   "statistics": {
     "status": {
       "watching": 0,
-      "completed": "1",
+      "completed": 0,
       "on_hold": 0,
       "dropped": 0,
-      "plan_to_watch": "993"
+      "plan_to_watch": "995"
     },
-    "num_list_users": 994
-  }
+    "num_list_users": 995
+  },
+  "mal_details_updated_at": "2026-11-15T17:15:16.651Z",
+  "translations_updated_at": "2026-11-15T17:24:48.242Z"
 }

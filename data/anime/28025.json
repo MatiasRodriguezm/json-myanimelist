@@ -63,7 +63,12 @@
       "name": "Shaft"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/6/68259l.webp",
+    "https://cdn.myanimelist.net/images/anime/9/81103l.webp",
+    "https://cdn.myanimelist.net/images/anime/8/81104l.webp",
+    "https://cdn.myanimelist.net/images/anime/3/84002l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/cHII6sQ91q8H5EMONKCwCQMauCP.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/1PloWpJba8A3I0x8Ry92IGYromk.png",
   "tmdb_id": "46195",
@@ -84,7 +89,7 @@
     }
   },
   "broadcast": null,
-  "rank": 650,
+  "rank": 651,
   "popularity": 608,
   "rating": "r",
   "simkl_id": 428592,
@@ -132,10 +137,10 @@
   ],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 255486,
+  "num_scoring_users": 255568,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2014-10-20T07:14:05+00:00",
+  "updated_at": "2024-09-05T01:03:24+00:00",
   "source": "light_novel",
   "background": "Tsukimonogatari adapts the first volume of NisiOisiN's Monogatari Series: Final Season.",
   "related_anime": [
@@ -183,8 +188,8 @@
         "id": 22535,
         "title": "Kiseijuu: Sei no Kakuritsu",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/3/73178.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/3/73178l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/3/73178.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/3/73178l.jpg"
         }
       },
       "num_recommendations": 1
@@ -192,12 +197,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "10593",
-      "completed": "331282",
-      "on_hold": "4026",
-      "dropped": "1908",
-      "plan_to_watch": "102292"
+      "watching": "10592",
+      "completed": "331390",
+      "on_hold": "4029",
+      "dropped": "1909",
+      "plan_to_watch": "102320"
     },
-    "num_list_users": 450101
-  }
+    "num_list_users": 450240
+  },
+  "mal_details_updated_at": "2026-11-15T17:21:58.672Z",
+  "translations_updated_at": "2026-11-15T17:24:20.455Z"
 }

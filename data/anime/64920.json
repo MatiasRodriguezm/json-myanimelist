@@ -57,11 +57,14 @@
     }
   ],
   "studios": [],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1898/159906l.webp",
+    "https://cdn.myanimelist.net/images/anime/1034/160099l.webp"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T13:05:34.586Z",
+  "tmdb_updated_at": "2026-11-15T17:18:02.350Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1034/160099.webp",
@@ -74,30 +77,30 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1034/160099l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1898/159906l.webp"
     }
   },
   "broadcast": null,
   "rank": null,
-  "popularity": 20917,
+  "popularity": 20918,
   "rating": "pg",
   "simkl_id": 3196706,
   "episodes_data": [
     {
       "episode": 1,
       "title": "Complete Movie",
-      "title_es": "Película completa",
       "aired": "2027-03-05T00:00:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Película completa"
     }
   ],
   "specials_data": [],
   "characters": [],
   "num_scoring_users": null,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2026-09-07T04:51:24+00:00",
+  "updated_at": "2026-09-07T04:55:29+00:00",
   "source": "manga",
   "background": null,
   "related_anime": [
@@ -125,5 +128,7 @@
       "plan_to_watch": "368"
     },
     "num_list_users": 368
-  }
+  },
+  "mal_details_updated_at": "2026-11-15T17:18:01.958Z",
+  "translations_updated_at": "2026-11-15T17:25:06.690Z"
 }

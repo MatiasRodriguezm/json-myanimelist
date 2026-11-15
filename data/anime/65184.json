@@ -52,11 +52,13 @@
       "name": "David Production"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1277/160535l.webp"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T13:04:46.836Z",
+  "tmdb_updated_at": "2026-11-15T17:16:07.024Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1277/160535.webp",
@@ -73,8 +75,8 @@
     }
   },
   "broadcast": null,
-  "rank": 17646,
-  "popularity": 21058,
+  "rank": 17647,
+  "popularity": 20992,
   "rating": "pg_13",
   "simkl_id": null,
   "episodes_data": [],
@@ -82,8 +84,8 @@
   "characters": [],
   "num_scoring_users": 47,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2026-10-13T12:58:20+00:00",
+  "updated_at": "2026-10-14T08:47:44+00:00",
   "source": "web_manga",
   "background": null,
   "related_anime": [
@@ -104,12 +106,14 @@
   "recommendations": [],
   "statistics": {
     "status": {
-      "watching": "185",
+      "watching": "186",
       "completed": 0,
       "on_hold": "15",
       "dropped": "36",
-      "plan_to_watch": "122"
+      "plan_to_watch": "126"
     },
-    "num_list_users": 358
-  }
+    "num_list_users": 363
+  },
+  "mal_details_updated_at": "2026-11-15T17:16:06.498Z",
+  "translations_updated_at": "2026-11-15T17:25:09.789Z"
 }

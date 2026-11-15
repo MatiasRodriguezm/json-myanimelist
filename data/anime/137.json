@@ -59,7 +59,17 @@
       "name": "Nippon Animation"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1/137l.webp",
+    "https://cdn.myanimelist.net/images/anime/10/3429l.webp",
+    "https://cdn.myanimelist.net/images/anime/9/14329l.webp",
+    "https://cdn.myanimelist.net/images/anime/9/20514l.webp",
+    "https://cdn.myanimelist.net/images/anime/13/20676l.webp",
+    "https://cdn.myanimelist.net/images/anime/8/20901l.webp",
+    "https://cdn.myanimelist.net/images/anime/10/23130l.webp",
+    "https://cdn.myanimelist.net/images/anime/1450/92657l.webp",
+    "https://cdn.myanimelist.net/images/anime/1579/97473l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/575sxZXNNulSlIz7DvtWH5r4lkC.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/qDSB90QFXHQayEOgtN5kqFzbOlw.png",
   "tmdb_id": "45952",
@@ -152,10 +162,10 @@
   ],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 71255,
+  "num_scoring_users": 71273,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2005-11-11T14:49:59+00:00",
+  "updated_at": "2023-01-15T04:16:17+00:00",
   "source": "manga",
   "background": null,
   "related_anime": [
@@ -164,8 +174,8 @@
         "id": 136,
         "title": "Hunter x Hunter",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1305/132237.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1305/132237l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1305/132237.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1305/132237l.webp"
         }
       },
       "relation_type": "prequel",
@@ -176,8 +186,8 @@
         "id": 138,
         "title": "Hunter x Hunter: Greed Island",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1902/122320.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1902/122320l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1902/122320.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1902/122320l.webp"
         }
       },
       "relation_type": "sequel",
@@ -203,8 +213,8 @@
         "id": 1535,
         "title": "Death Note",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1079/138100.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1079/138100l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1079/138100.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1079/138100l.webp"
         }
       },
       "num_recommendations": 2
@@ -214,8 +224,8 @@
         "id": 392,
         "title": "Yuu☆Yuu☆Hakusho",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1228/111372.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1228/111372l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1228/111372.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1228/111372l.jpg"
         }
       },
       "num_recommendations": 1
@@ -223,12 +233,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "3915",
-      "completed": "107778",
-      "on_hold": "1309",
-      "dropped": "1284",
-      "plan_to_watch": "24559"
+      "watching": "3914",
+      "completed": "107808",
+      "on_hold": "1310",
+      "dropped": "1285",
+      "plan_to_watch": "24565"
     },
-    "num_list_users": 138845
-  }
+    "num_list_users": 138882
+  },
+  "mal_details_updated_at": "2026-11-15T17:21:22.597Z",
+  "translations_updated_at": "2026-11-15T17:24:07.311Z"
 }

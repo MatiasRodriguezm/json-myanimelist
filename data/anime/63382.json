@@ -28,10 +28,10 @@
   },
   "episodes": 25,
   "num_episodes": 25,
-  "score": 7.42,
-  "mean": 7.42,
-  "numListUsers": 45185,
-  "num_list_users": 45185,
+  "score": 7.41,
+  "mean": 7.41,
+  "numListUsers": 45227,
+  "num_list_users": 45227,
   "genres": [
     {
       "id": 10,
@@ -48,7 +48,12 @@
       "name": "Konami animation"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1116/155161l.webp",
+    "https://cdn.myanimelist.net/images/anime/1000/159223l.webp",
+    "https://cdn.myanimelist.net/images/anime/1362/160050l.webp",
+    "https://cdn.myanimelist.net/images/anime/1393/160054l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/5obfnImCRn0LzQnRb4jxuCJRlxd.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/riCiNoSEkHZzHtMg1RUXPxgGcgc.png",
   "tmdb_id": "312850",
@@ -65,7 +70,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1000/159223l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1116/155161l.webp"
     }
   },
   "broadcast": {
@@ -76,219 +81,219 @@
     "timezone": "Asia/Tokyo",
     "string": "tuesday 21:25"
   },
-  "rank": 2592,
-  "popularity": 3969,
+  "rank": 2640,
+  "popularity": 3962,
   "rating": "pg_13",
   "simkl_id": 3007186,
   "episodes_data": [
     {
       "episode": 1,
       "title": "Rising from the Darkness",
-      "title_es": "Surgiendo de la oscuridad",
       "aired": "2026-10-06T21:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/208276437008ebaf94_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Surgiendo de la oscuridad"
     },
     {
       "episode": 2,
       "title": "A Job in the Royal Capital",
-      "title_es": "Un trabajo en la capital real",
       "aired": "2026-10-13T21:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/208772775a7157be5d_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Un trabajo en la capital real"
     },
     {
       "episode": 3,
       "title": "After the Curtain Falls",
-      "title_es": "Después de que caiga el telón",
       "aired": "2026-10-20T21:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/2091666930ad1ebe82_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Después de que caiga el telón"
     },
     {
       "episode": 4,
       "title": "The Girls Meet",
-      "title_es": "Las chicas se conocen",
       "aired": "2026-10-27T21:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20956363ea724246ad_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Las chicas se conocen"
     },
     {
       "episode": 5,
       "title": "Project Magivision Kickoff Meeting",
-      "title_es": "Reunión inicial del Proyecto Magivision",
       "aired": "2026-11-03T21:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/21/210096635da568c0d7_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Reunión inicial del Proyecto Magivision"
     },
     {
       "episode": 6,
       "title": "The Academy Martial Arts Tournament Is On!",
-      "title_es": "¡El Torneo de Artes Marciales de la Academia ha comenzado!",
       "aired": "2026-11-10T21:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/21/2101579180ff7c4ab0_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "¡El Torneo de Artes Marciales de la Academia ha comenzado!"
     },
     {
       "episode": 7,
       "title": "Infiltrating the Umbral Arena",
-      "title_es": "Infiltrándose en la Arena Umbral",
       "aired": "2026-11-17T21:25:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Infiltrándose en la Arena Umbral"
     },
     {
       "episode": 8,
       "title": "Episode 8",
-      "title_es": "Episodio 8",
       "aired": "2026-11-24T21:25:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 8"
     },
     {
       "episode": 9,
       "title": "Episode 9",
-      "title_es": "Episodio 9",
       "aired": "2026-12-01T21:25:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 9"
     },
     {
       "episode": 10,
       "title": "Episode 10",
-      "title_es": "Episodio 10",
       "aired": "2026-12-08T21:25:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 10"
     },
     {
       "episode": 11,
       "title": "Episode 11",
-      "title_es": "Episodio 11",
       "aired": "2026-12-15T21:25:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 11"
     },
     {
       "episode": 12,
       "title": "Episode 12",
-      "title_es": "Episodio 12",
       "aired": "2026-12-22T21:25:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 12"
     }
   ],
   "specials_data": [
     {
       "episode": 1,
       "title": "Rinokis Saw 1",
-      "title_es": "Rinokis vio 1",
       "aired": "2026-10-07T21:25:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Rinokis vio 1"
     },
     {
       "episode": 2,
       "title": "Rinokis Saw 2",
-      "title_es": "Rinokis vio 2",
       "aired": "2026-10-14T21:25:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Rinokis vio 2"
     },
     {
       "episode": 3,
       "title": "Rinokis Saw 3",
-      "title_es": "Rinokis vio 3",
       "aired": "2026-10-21T21:25:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Rinokis vio 3"
     },
     {
       "episode": 4,
       "title": "Rinokis Saw 4",
-      "title_es": "Rinokis vio 4",
       "aired": "2026-10-28T21:25:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Rinokis vio 4"
     },
     {
       "episode": 5,
       "title": "Rinokis Saw 5",
-      "title_es": "Rinokis vio 5",
       "aired": "2026-11-04T21:25:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Rinokis vio 5"
     },
     {
       "episode": 6,
       "title": "Rinokis Saw 6",
-      "title_es": "Rinokis vio 6",
       "aired": "2026-11-11T21:25:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Rinokis vio 6"
     },
     {
       "episode": 7,
       "title": "Rinokis Saw 7",
-      "title_es": "Rinokis vio 7",
       "aired": "2026-11-18T21:25:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Rinokis vio 7"
     },
     {
       "episode": 8,
       "title": "Rinokis Saw 8",
-      "title_es": "Rinokis vio 8",
       "aired": "2026-11-25T21:25:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Rinokis vio 8"
     },
     {
       "episode": 26,
       "title": "Mini Anime 1",
-      "title_es": "Mini anime 1",
       "aired": "2026-10-15T21:25:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Mini anime 1"
     },
     {
       "episode": 27,
       "title": "Mini Anime 2",
-      "title_es": "Mini anime 2",
       "aired": "2026-10-28T21:25:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Mini anime 2"
     },
     {
       "episode": 28,
       "title": "Mini Anime 3",
-      "title_es": "Mini anime 3",
       "aired": "2026-11-12T21:25:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Mini anime 3"
     },
     {
       "episode": 39,
       "title": "Episode S39",
-      "title_es": "Episodio T39",
       "aired": "2026-10-02T21:25:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio T39"
     },
     {
       "episode": 40,
       "title": "Episode S40",
-      "title_es": "Episodio T40",
       "aired": "2026-11-07T21:25:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio T40"
     }
   ],
   "characters": [],
-  "num_scoring_users": 5520,
+  "num_scoring_users": 5545,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2026-01-28T09:37:58+00:00",
+  "updated_at": "2026-10-07T09:41:46+00:00",
   "source": "light_novel",
   "background": null,
   "related_anime": [
@@ -324,8 +329,8 @@
         "id": 50481,
         "title": "Eiyuuou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1044/129594.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1044/129594l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1044/129594.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1044/129594l.webp"
         }
       },
       "num_recommendations": 2
@@ -335,8 +340,8 @@
         "id": 59846,
         "title": "Saigo ni Hitotsu dake Onegai shitemo Yoroshii deshou ka",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1190/151754.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1190/151754l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1190/151754.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1190/151754l.webp"
         }
       },
       "num_recommendations": 2
@@ -377,12 +382,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "24790",
-      "completed": "4",
-      "on_hold": "512",
-      "dropped": "1108",
-      "plan_to_watch": "18661"
+      "watching": "24887",
+      "completed": 0,
+      "on_hold": "515",
+      "dropped": "1121",
+      "plan_to_watch": "18704"
     },
-    "num_list_users": 45075
-  }
+    "num_list_users": 45227
+  },
+  "mal_details_updated_at": "2026-11-15T17:13:23.462Z",
+  "translations_updated_at": "2026-11-15T17:24:54.022Z"
 }

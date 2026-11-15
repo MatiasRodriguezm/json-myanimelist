@@ -30,8 +30,8 @@
   "num_episodes": 1,
   "score": 9.05,
   "mean": 9.05,
-  "numListUsers": 190273,
-  "num_list_users": 190273,
+  "numListUsers": 190280,
+  "num_list_users": 190280,
   "genres": [
     {
       "id": 1,
@@ -76,7 +76,14 @@
       "name": "Bandai Namco Pictures"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1904/99650l.webp",
+    "https://cdn.myanimelist.net/images/anime/1631/104925l.webp",
+    "https://cdn.myanimelist.net/images/anime/1839/108982l.webp",
+    "https://cdn.myanimelist.net/images/anime/1988/113791l.webp",
+    "https://cdn.myanimelist.net/images/anime/1236/114673l.webp",
+    "https://cdn.myanimelist.net/images/anime/1245/116760l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/ahjMJCgB8DAPapWZMgaXkbB7IOh.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/959B1jpwIaicDxPklh7O56OK8ml.png",
   "tmdb_id": "732203",
@@ -93,7 +100,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1245/116760l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1904/99650l.webp"
     }
   },
   "broadcast": null,
@@ -113,10 +120,10 @@
   ],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 89854,
+  "num_scoring_users": 89915,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2019-03-07T20:54:42+00:00",
+  "updated_at": "2023-04-02T18:10:44+00:00",
   "source": "manga",
   "background": "As of March 2021, Gintama: The Final has earned a franchise record of 1.85 billion yen (16.94 million USD) and debuted at No. 1 at the Japanese box office. The film concludes the Gintama anime series, adapting chapters 699-704 of the original manga with new story elements.",
   "related_anime": [
@@ -125,8 +132,8 @@
         "id": 44087,
         "title": "Gintama: The Semi-Final",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1694/110521.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1694/110521l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1694/110521.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1694/110521l.jpg"
         }
       },
       "relation_type": "prequel",
@@ -149,12 +156,14 @@
   "recommendations": [],
   "statistics": {
     "status": {
-      "watching": "9939",
-      "completed": "106613",
-      "on_hold": "2043",
-      "dropped": "1964",
-      "plan_to_watch": "69535"
+      "watching": "9946",
+      "completed": "106698",
+      "on_hold": "2046",
+      "dropped": "1966",
+      "plan_to_watch": "69566"
     },
-    "num_list_users": 190094
-  }
+    "num_list_users": 190222
+  },
+  "mal_details_updated_at": "2026-11-15T17:12:58.507Z",
+  "translations_updated_at": "2026-11-15T17:23:58.874Z"
 }

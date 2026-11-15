@@ -30,8 +30,8 @@
   "num_episodes": 6,
   "score": 8.04,
   "mean": 8.04,
-  "numListUsers": 471990,
-  "num_list_users": 471990,
+  "numListUsers": 471998,
+  "num_list_users": 471998,
   "genres": [
     {
       "id": 50,
@@ -68,7 +68,16 @@
       "name": "APPP"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/7/10216l.webp",
+    "https://cdn.myanimelist.net/images/anime/3/12016l.webp",
+    "https://cdn.myanimelist.net/images/anime/6/12021l.webp",
+    "https://cdn.myanimelist.net/images/anime/10/19210l.webp",
+    "https://cdn.myanimelist.net/images/anime/10/19211l.webp",
+    "https://cdn.myanimelist.net/images/anime/3/62867l.webp",
+    "https://cdn.myanimelist.net/images/anime/10/74480l.webp",
+    "https://cdn.myanimelist.net/images/anime/1228/106413l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/v3w1ttzuqoBWaJ17w8lv4AATMdo.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/9Ki5asRlmeu9q5Vi0hI4aFF6Lu2.png",
   "tmdb_id": "34105",
@@ -85,11 +94,11 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/3/62867l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/7/10216l.webp"
     }
   },
   "broadcast": null,
-  "rank": 701,
+  "rank": 702,
   "popularity": 574,
   "rating": "r+",
   "simkl_id": 41430,
@@ -178,10 +187,10 @@
     }
   ],
   "characters": [],
-  "num_scoring_users": 251618,
+  "num_scoring_users": 251748,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2005-11-13T07:05:30+00:00",
+  "updated_at": "2025-03-02T12:20:48+00:00",
   "source": "manga",
   "background": null,
   "related_anime": [],
@@ -192,8 +201,8 @@
         "id": 245,
         "title": "Great Teacher Onizuka",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/13/11460.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/13/11460l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/13/11460.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/13/11460l.jpg"
         }
       },
       "num_recommendations": 56
@@ -203,8 +212,8 @@
         "id": 37105,
         "title": "Grand Blue",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1302/94882.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1302/94882l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1302/94882.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1302/94882l.jpg"
         }
       },
       "num_recommendations": 6
@@ -247,8 +256,8 @@
         "id": 114,
         "title": "Sakigake!! Cromartie Koukou",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1782/130913.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1782/130913l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1782/130913.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1782/130913l.jpg"
         }
       },
       "num_recommendations": 3
@@ -258,8 +267,8 @@
         "id": 1470,
         "title": "City Hunter",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/8/20587.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/8/20587l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/8/20587.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/8/20587l.jpg"
         }
       },
       "num_recommendations": 3
@@ -291,8 +300,8 @@
         "id": 263,
         "title": "Hajime no Ippo",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/4/86334.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/4/86334l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/4/86334.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/4/86334l.webp"
         }
       },
       "num_recommendations": 2
@@ -300,12 +309,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "20070",
-      "completed": "312640",
-      "on_hold": "8163",
-      "dropped": "7275",
-      "plan_to_watch": "123349"
+      "watching": "20093",
+      "completed": "312823",
+      "on_hold": "8168",
+      "dropped": "7281",
+      "plan_to_watch": "123410"
     },
-    "num_list_users": 471497
-  }
+    "num_list_users": 471775
+  },
+  "mal_details_updated_at": "2026-11-15T17:21:35.078Z",
+  "translations_updated_at": "2026-11-15T17:24:09.520Z"
 }

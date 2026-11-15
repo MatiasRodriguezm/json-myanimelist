@@ -48,11 +48,14 @@
       "name": "Gravity Well"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1295/160700l.webp",
+    "https://cdn.myanimelist.net/images/anime/1698/160701l.webp"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T13:04:47.242Z",
+  "tmdb_updated_at": "2026-11-15T17:16:07.973Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1698/160701.webp",
@@ -65,12 +68,12 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1698/160701l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1295/160700l.webp"
     }
   },
   "broadcast": null,
-  "rank": 18852,
-  "popularity": 21188,
+  "rank": 18853,
+  "popularity": 21164,
   "rating": "pg_13",
   "simkl_id": null,
   "episodes_data": [],
@@ -78,8 +81,8 @@
   "characters": [],
   "num_scoring_users": 35,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2026-10-25T15:46:22+00:00",
+  "updated_at": "2026-10-26T21:27:20+00:00",
   "source": "game",
   "background": null,
   "related_anime": [
@@ -88,8 +91,8 @@
         "id": 42163,
         "title": "Arknights",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1216/109447.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1216/109447l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1216/109447.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1216/109447l.jpg"
         }
       },
       "relation_type": "other",
@@ -100,8 +103,8 @@
         "id": 50205,
         "title": "Arknights: Prelude to Dawn",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1644/128406.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1644/128406l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1644/128406.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1644/128406l.webp"
         }
       },
       "relation_type": "other",
@@ -113,11 +116,12 @@
   "statistics": {
     "status": {
       "watching": "110",
-      "completed": "1",
-      "on_hold": "24",
-      "dropped": "23",
-      "plan_to_watch": "192"
+      "completed": 0,
+      "on_hold": "25",
+      "dropped": "24",
+      "plan_to_watch": "193"
     },
-    "num_list_users": 350
-  }
+    "num_list_users": 352
+  },
+  "mal_details_updated_at": "2026-11-15T17:16:07.415Z"
 }

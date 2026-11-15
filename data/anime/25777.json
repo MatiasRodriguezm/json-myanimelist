@@ -68,7 +68,11 @@
       "name": "Wit Studio"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/4/65641l.webp",
+    "https://cdn.myanimelist.net/images/anime/11/80720l.webp",
+    "https://cdn.myanimelist.net/images/anime/4/84177l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/rqbCbjB19amtOtFQbb3K2lgm2zv.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/eHMfVTIwen9anB4HuvQlFRGZFms.png",
   "tmdb_id": "1429",
@@ -85,7 +89,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/4/84177l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/4/65641l.webp"
     }
   },
   "broadcast": {
@@ -297,10 +301,10 @@
     }
   ],
   "characters": [],
-  "num_scoring_users": 2108121,
+  "num_scoring_users": 2109134,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2014-08-04T23:40:50+00:00",
+  "updated_at": "2024-07-05T07:07:10+00:00",
   "source": "manga",
   "background": "Shingeki no Kyojin Season 2 adapts content from volumes 9-12 of Hajime Isayama's award-winning manga.",
   "related_anime": [
@@ -345,8 +349,8 @@
         "id": 39478,
         "title": "Shingeki no Kyojin in the Dome: Heishi-tachi no Hoshizora",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1893/99639.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1893/99639l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1893/99639.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1893/99639l.webp"
         }
       },
       "relation_type": "other",
@@ -394,8 +398,8 @@
         "id": 24893,
         "title": "Sidonia no Kishi: Daikyuu Wakusei Seneki",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/11/72712.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/11/72712l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/11/72712.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/11/72712l.webp"
         }
       },
       "num_recommendations": 1
@@ -405,8 +409,8 @@
         "id": 20787,
         "title": "Black Bullet",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1292/94693.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1292/94693l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1292/94693.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1292/94693l.webp"
         }
       },
       "num_recommendations": 1
@@ -449,8 +453,8 @@
         "id": 37779,
         "title": "Yakusoku no Neverland",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1830/118780.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1830/118780l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1830/118780.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1830/118780l.jpg"
         }
       },
       "num_recommendations": 1
@@ -469,12 +473,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "95200",
-      "completed": "2783919",
+      "watching": "95246",
+      "completed": "2785396",
       "on_hold": "18457",
-      "dropped": "17826",
-      "plan_to_watch": "168500"
+      "dropped": "17828",
+      "plan_to_watch": "168524"
     },
-    "num_list_users": 3083902
-  }
+    "num_list_users": 3085451
+  },
+  "mal_details_updated_at": "2026-11-15T17:18:10.072Z",
+  "translations_updated_at": "2026-11-15T17:23:32.867Z"
 }

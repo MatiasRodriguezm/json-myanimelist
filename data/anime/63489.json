@@ -78,7 +78,11 @@
       "name": "Tatsunoko Production"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1274/155459l.webp",
+    "https://cdn.myanimelist.net/images/anime/1158/158138l.webp",
+    "https://cdn.myanimelist.net/images/anime/1949/160250l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/pHzcs5Ru1lwoVcQsPA5lNYlxJy2.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/r7OojaSpdEB8hYVzMwuAC7TaxJl.png",
   "tmdb_id": "314054",
@@ -95,7 +99,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1158/158138l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1274/155459l.webp"
     }
   },
   "broadcast": {
@@ -106,210 +110,210 @@
     "timezone": "Asia/Tokyo",
     "string": "wednesday 01:35"
   },
-  "rank": 12862,
-  "popularity": 5545,
+  "rank": 12861,
+  "popularity": 5542,
   "rating": "pg_13",
   "simkl_id": 3021646,
   "episodes_data": [
     {
       "episode": 1,
       "title": "A Goodbye Kiss, A Hello Kiss",
-      "title_es": "Un beso de despedida, un beso de hola",
       "aired": "2026-07-08T01:35:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20196135c66ebecf62_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Un beso de despedida, un beso de hola"
     },
     {
       "episode": 2,
       "title": "The Black Water",
-      "title_es": "El agua negra",
       "aired": "2026-07-15T01:35:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20308271d06c24b4b7_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "El agua negra"
     },
     {
       "episode": 3,
       "title": "I Can't Go Back, I Won't Go Back",
-      "title_es": "No puedo volver, no volveré",
       "aired": "2026-07-22T01:35:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20342691d12b731cc8_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "No puedo volver, no volveré"
     },
     {
       "episode": 4,
       "title": "Ishtar Incarnate",
-      "title_es": "Ishtar Encarnada",
       "aired": "2026-07-29T01:35:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20379629e5a11fd1bc_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Ishtar Encarnada"
     },
     {
       "episode": 5,
       "title": "A Sword to Fight",
-      "title_es": "Una espada para luchar",
       "aired": "2026-08-05T01:35:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/204214371b91b8b384_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Una espada para luchar"
     },
     {
       "episode": 6,
       "title": "The One I Can't Love",
-      "title_es": "El que no puedo amar",
       "aired": "2026-08-12T01:35:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/204547910278408875_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "El que no puedo amar"
     },
     {
       "episode": 7,
       "title": "Cold Lips",
-      "title_es": "Labios fríos",
       "aired": "2026-08-19T01:35:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/204940014623c7be88_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Labios fríos"
     },
     {
       "episode": 8,
       "title": "Under the Apple Tree",
-      "title_es": "Debajo del manzano",
       "aired": "2026-08-26T01:35:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/205336452b18ce5d4d_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Debajo del manzano"
     },
     {
       "episode": 9,
       "title": "The Sign on the Palm",
-      "title_es": "El cartel en la palma",
       "aired": "2026-09-02T01:35:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/2057101952d9afe660_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "El cartel en la palma"
     },
     {
       "episode": 10,
       "title": "Ishtar the Purloined",
-      "title_es": "Ishtar la Robada",
       "aired": "2026-09-09T01:35:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20622271f0ddb5517d_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Ishtar la Robada"
     },
     {
       "episode": 11,
       "title": "Where My Heart Is",
-      "title_es": "Donde está mi corazón",
       "aired": "2026-09-16T01:35:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/2066554926f0303426_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Donde está mi corazón"
     },
     {
       "episode": 12,
       "title": "The Appointed Time",
-      "title_es": "La hora señalada",
       "aired": "2026-09-23T01:35:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20715263915a7b4396_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "La hora señalada"
     },
     {
       "episode": 13,
       "title": "A Letter from Egypt",
-      "title_es": "Una carta desde Egipto",
       "aired": "2026-09-30T01:35:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/207675656c0120c990_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Una carta desde Egipto"
     },
     {
       "episode": 14,
       "title": "The Arrow Wound of Grief",
-      "title_es": "La flecha del dolor",
       "aired": "2026-10-07T01:35:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/208156152164451946_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "La flecha del dolor"
     },
     {
       "episode": 15,
       "title": "The False Ishtar",
-      "title_es": "La falsa Ishtar",
       "aired": "2026-10-14T01:35:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20848369cf31841c67_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "La falsa Ishtar"
     },
     {
       "episode": 16,
       "title": "The Oath at the Grave",
-      "title_es": "El juramento en la tumba",
       "aired": "2026-10-21T01:35:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20891343e499d75a98_w.webp",
-      "description": "A woman from Kail`s past arrives with a son and a secret that shocks the royal court—and Yuri."
+      "description": "A woman from Kail`s past arrives with a son and a secret that shocks the royal court—and Yuri.",
+      "title_es": "El juramento en la tumba"
     },
     {
       "episode": 17,
       "title": "A New Conspiracy",
-      "title_es": "Una nueva conspiración",
       "aired": "2026-10-28T01:35:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/209353153b887b38c9_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Una nueva conspiración"
     },
     {
       "episode": 18,
       "title": "Proof of Innocence",
-      "title_es": "Prueba de inocencia",
       "aired": "2026-11-04T01:35:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20984525c7ed7fc5cd_w.webp",
-      "description": "Accused of murdering the king, Yuri flees to Alinna as Kail works to prove her innocence."
+      "description": "Accused of murdering the king, Yuri flees to Alinna as Kail works to prove her innocence.",
+      "title_es": "Prueba de inocencia"
     },
     {
       "episode": 19,
       "title": "Dream of That Wonderful Day",
-      "title_es": "Sueña con ese maravilloso día",
       "aired": "2026-11-11T01:35:00+09:00",
       "thumbnail": "https://simkl.in/episodes/21/2102873598d4636985_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Sueña con ese maravilloso día"
     },
     {
       "episode": 20,
       "title": "Episode 20",
-      "title_es": "Episodio 20",
       "aired": "2026-11-18T01:35:00+09:00",
       "thumbnail": "https://simkl.in/episodes/21/21072429477e605243_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Episodio 20"
     },
     {
       "episode": 21,
       "title": "Episode 21",
-      "title_es": "Episodio 21",
       "aired": "2026-11-25T01:35:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 21"
     },
     {
       "episode": 22,
       "title": "Episode 22",
-      "title_es": "Episodio 22",
       "aired": "2026-12-02T01:35:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 22"
     },
     {
       "episode": 23,
       "title": "Episode 23",
-      "title_es": "Episodio 23",
       "aired": "2026-12-09T01:35:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 23"
     },
     {
       "episode": 24,
       "title": "Episode 24",
-      "title_es": "Episodio 24",
       "aired": "2026-12-16T01:35:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 24"
     }
   ],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 3392,
+  "num_scoring_users": 3394,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2026-02-15T03:07:01+00:00",
+  "updated_at": "2026-08-24T04:13:22+00:00",
   "source": "manga",
   "background": null,
   "related_anime": [],
@@ -362,12 +366,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "7899",
-      "completed": "2",
+      "watching": "7898",
+      "completed": 0,
       "on_hold": "590",
-      "dropped": "3185",
-      "plan_to_watch": "9757"
+      "dropped": "3192",
+      "plan_to_watch": "9762"
     },
-    "num_list_users": 21433
-  }
+    "num_list_users": 21442
+  },
+  "mal_details_updated_at": "2026-11-15T17:15:00.956Z",
+  "translations_updated_at": "2026-11-15T17:24:55.382Z"
 }

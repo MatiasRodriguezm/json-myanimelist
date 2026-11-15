@@ -52,7 +52,10 @@
       "name": "SynergySP"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/7/38269l.webp",
+    "https://cdn.myanimelist.net/images/anime/5/75220l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/ks0KMwgv05PLZW95H8u1zji9BC5.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/msJl5eAFvFrlOVM64DFv0Z7hvru.png",
   "tmdb_id": "29602",
@@ -69,12 +72,12 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/5/75220l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/7/38269l.webp"
     }
   },
   "broadcast": null,
   "rank": 341,
-  "popularity": 4175,
+  "popularity": 4176,
   "rating": "pg_13",
   "simkl_id": 39950,
   "episodes_data": [
@@ -97,10 +100,10 @@
   ],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 22262,
+  "num_scoring_users": 22268,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2011-10-31T03:12:36+00:00",
+  "updated_at": "2023-01-15T04:31:13+00:00",
   "source": "manga",
   "background": null,
   "related_anime": [
@@ -109,8 +112,8 @@
         "id": 7655,
         "title": "Major S6",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/2/75216.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/2/75216l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/2/75216.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/2/75216l.webp"
         }
       },
       "relation_type": "prequel",
@@ -136,8 +139,8 @@
         "id": 22507,
         "title": "Initial D Final Stage",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1404/101364.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1404/101364l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1404/101364.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1404/101364l.webp"
         }
       },
       "num_recommendations": 1
@@ -145,12 +148,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "1100",
-      "completed": "31797",
+      "watching": "1098",
+      "completed": "31807",
       "on_hold": "311",
-      "dropped": "503",
-      "plan_to_watch": "6836"
+      "dropped": "504",
+      "plan_to_watch": "6837"
     },
-    "num_list_users": 40547
-  }
+    "num_list_users": 40557
+  },
+  "mal_details_updated_at": "2026-11-15T17:21:24.125Z",
+  "translations_updated_at": "2026-11-15T17:24:07.814Z"
 }

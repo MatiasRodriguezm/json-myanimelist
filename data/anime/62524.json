@@ -30,8 +30,8 @@
   "num_episodes": 12,
   "score": 6.61,
   "mean": 6.61,
-  "numListUsers": 20077,
-  "num_list_users": 20077,
+  "numListUsers": 20103,
+  "num_list_users": 20103,
   "genres": [
     {
       "id": 2,
@@ -52,7 +52,11 @@
       "name": "Studio Comet"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1090/152127l.webp",
+    "https://cdn.myanimelist.net/images/anime/1479/156166l.webp",
+    "https://cdn.myanimelist.net/images/anime/1151/160025l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/yeRnq9N1HkZHXRxeyUec5lTLpfp.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/1SMygZPB6m392uOgvixy0OyijUJ.png",
   "tmdb_id": "301139",
@@ -69,7 +73,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1151/160025l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1090/152127l.webp"
     }
   },
   "broadcast": {
@@ -80,82 +84,82 @@
     "timezone": "Asia/Tokyo",
     "string": "saturday 23:30"
   },
-  "rank": 7352,
-  "popularity": 5674,
+  "rank": 7353,
+  "popularity": 5666,
   "rating": "pg_13",
   "simkl_id": 2885450,
   "episodes_data": [
     {
       "episode": 1,
       "title": "I'm Looking For My Dad",
-      "title_es": "Estoy buscando a mi papá",
       "aired": "2026-10-03T23:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20775189e2fa56a523_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Estoy buscando a mi papá"
     },
     {
       "episode": 2,
       "title": "I'm Looking For My Friends",
-      "title_es": "Estoy buscando a mis amigos",
       "aired": "2026-10-10T23:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20821901341fccccf7_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Estoy buscando a mis amigos"
     },
     {
       "episode": 3,
       "title": "I'm Looking For a Photo Shop",
-      "title_es": "Estoy buscando una tienda de fotografía",
       "aired": "2026-10-17T23:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20865877217a36a169_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Estoy buscando una tienda de fotografía"
     },
     {
       "episode": 4,
       "title": "I'm Looking For a Hospital",
-      "title_es": "Estoy buscando un hospital",
       "aired": "2026-10-24T23:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20910435c59c0f80a1_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Estoy buscando un hospital"
     },
     {
       "episode": 5,
       "title": "I'm Looking For a Mechanic",
-      "title_es": "Busco mecánico",
       "aired": "2026-10-31T23:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20956845e1cf38b6c8_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Busco mecánico"
     },
     {
       "episode": 6,
       "title": "Episode 6",
-      "title_es": "Episodio 6",
       "aired": "2026-11-14T23:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/21/210471936ce8e23a93_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Episodio 6"
     },
     {
       "episode": 7,
       "title": "Episode 7",
-      "title_es": "Episodio 7",
       "aired": "2026-11-21T23:30:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 7"
     },
     {
       "episode": 8,
       "title": "Episode 8",
-      "title_es": "Episodio 8",
       "aired": "2026-11-28T23:30:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 8"
     }
   ],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 2469,
+  "num_scoring_users": 2486,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2025-09-19T09:17:58+00:00",
+  "updated_at": "2026-10-03T19:37:23+00:00",
   "source": "manga",
   "background": "#Zombie Sagashitemasu aired on TV Asahi's IMAnimation block.",
   "related_anime": [],
@@ -186,12 +190,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "10081",
-      "completed": "4",
-      "on_hold": "285",
-      "dropped": "1228",
-      "plan_to_watch": "8399"
+      "watching": "10122",
+      "completed": 0,
+      "on_hold": "287",
+      "dropped": "1239",
+      "plan_to_watch": "8453"
     },
-    "num_list_users": 19997
-  }
+    "num_list_users": 20101
+  },
+  "mal_details_updated_at": "2026-11-15T17:14:39.737Z",
+  "translations_updated_at": "2026-11-15T17:24:43.196Z"
 }

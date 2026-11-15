@@ -30,8 +30,8 @@
   "num_episodes": 1,
   "score": null,
   "mean": null,
-  "numListUsers": 17940,
-  "num_list_users": 17940,
+  "numListUsers": 17946,
+  "num_list_users": 17946,
   "genres": [
     {
       "id": 1,
@@ -68,11 +68,14 @@
       "name": "Fugaku"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1190/156795l.webp",
+    "https://cdn.myanimelist.net/images/anime/1661/160694l.webp"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T13:05:15.271Z",
+  "tmdb_updated_at": "2026-11-15T17:17:00.316Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1661/160694.webp",
@@ -85,30 +88,30 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1661/160694l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1190/156795l.webp"
     }
   },
   "broadcast": null,
   "rank": null,
-  "popularity": 5933,
+  "popularity": 5932,
   "rating": "r",
   "simkl_id": 2751800,
   "episodes_data": [
     {
       "episode": 1,
       "title": "Complete Movie",
-      "title_es": "Película completa",
       "aired": "2027-03-26T00:00:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Película completa"
     }
   ],
   "specials_data": [],
   "characters": [],
   "num_scoring_users": null,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2026-04-10T13:53:16+00:00",
+  "updated_at": "2026-10-25T09:49:04+00:00",
   "source": "light_novel",
   "background": null,
   "related_anime": [
@@ -133,8 +136,10 @@
       "completed": 0,
       "on_hold": "2",
       "dropped": 0,
-      "plan_to_watch": "17922"
+      "plan_to_watch": "17943"
     },
-    "num_list_users": 17925
-  }
+    "num_list_users": 17946
+  },
+  "mal_details_updated_at": "2026-11-15T17:16:59.826Z",
+  "translations_updated_at": "2026-11-15T17:24:59.607Z"
 }

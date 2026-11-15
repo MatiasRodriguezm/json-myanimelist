@@ -30,8 +30,8 @@
   "num_episodes": null,
   "score": null,
   "mean": null,
-  "numListUsers": 12906,
-  "num_list_users": 12906,
+  "numListUsers": 12923,
+  "num_list_users": 12923,
   "genres": [
     {
       "id": 50,
@@ -52,7 +52,12 @@
       "name": "Production +h."
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1344/151128l.webp",
+    "https://cdn.myanimelist.net/images/anime/1738/156127l.webp",
+    "https://cdn.myanimelist.net/images/anime/1371/160291l.webp",
+    "https://cdn.myanimelist.net/images/anime/1492/160296l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/c3AZsjinLr4U90bRnsqJSdFi0Fz.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/hOc6YbzkLGKeNYGpkOOJenoCtx8.png",
   "tmdb_id": "296551",
@@ -69,12 +74,12 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1371/160291l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1344/151128l.webp"
     }
   },
   "broadcast": null,
   "rank": null,
-  "popularity": 6750,
+  "popularity": 6729,
   "rating": null,
   "simkl_id": 2839390,
   "episodes_data": [],
@@ -82,8 +87,8 @@
   "characters": [],
   "num_scoring_users": null,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2025-07-21T22:14:18+00:00",
+  "updated_at": "2026-09-29T05:14:36+00:00",
   "source": "manga",
   "background": null,
   "related_anime": [],
@@ -92,11 +97,13 @@
   "statistics": {
     "status": {
       "watching": "1",
-      "completed": "1",
-      "on_hold": "2",
+      "completed": 0,
+      "on_hold": "3",
       "dropped": 0,
-      "plan_to_watch": "12851"
+      "plan_to_watch": "12919"
     },
-    "num_list_users": 12855
-  }
+    "num_list_users": 12923
+  },
+  "mal_details_updated_at": "2026-11-15T17:17:03.861Z",
+  "translations_updated_at": "2026-11-15T17:24:41.669Z"
 }

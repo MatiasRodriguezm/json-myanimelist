@@ -62,7 +62,10 @@
       "name": "Trigger"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1796/143572l.webp",
+    "https://cdn.myanimelist.net/images/anime/1830/158890l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/xC5GyeIzLsSRizJE5LedGShNgBa.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/rIEILsWo5ARUeThCc4hGYzG9SGo.png",
   "tmdb_id": "207784",
@@ -79,7 +82,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1830/158890l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1796/143572l.webp"
     }
   },
   "broadcast": null,
@@ -91,18 +94,18 @@
     {
       "episode": 1,
       "title": "Episode 1",
-      "title_es": "Episodio 1",
       "aired": "2027-10-01T00:00:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 1"
     }
   ],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 3,
+  "num_scoring_users": null,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2024-06-13T14:19:00+00:00",
+  "updated_at": "2026-07-05T02:09:34+00:00",
   "source": "manga",
   "background": null,
   "related_anime": [
@@ -123,12 +126,14 @@
   "recommendations": [],
   "statistics": {
     "status": {
-      "watching": "4",
-      "completed": "2",
-      "on_hold": "4",
-      "dropped": "1",
-      "plan_to_watch": "126643"
+      "watching": "2",
+      "completed": 0,
+      "on_hold": "1",
+      "dropped": 0,
+      "plan_to_watch": "126707"
     },
-    "num_list_users": 126654
-  }
+    "num_list_users": 126710
+  },
+  "mal_details_updated_at": "2026-11-15T17:18:24.382Z",
+  "translations_updated_at": "2026-11-15T17:24:30.781Z"
 }

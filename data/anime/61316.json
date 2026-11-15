@@ -33,8 +33,8 @@
   "num_episodes": 19,
   "score": 9.06,
   "mean": 9.06,
-  "numListUsers": 371787,
-  "num_list_users": 371787,
+  "numListUsers": 371866,
+  "num_list_users": 371866,
   "genres": [
     {
       "id": 8,
@@ -67,7 +67,19 @@
       "name": "White Fox"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1070/148834l.webp",
+    "https://cdn.myanimelist.net/images/anime/1718/148835l.webp",
+    "https://cdn.myanimelist.net/images/anime/1794/148838l.webp",
+    "https://cdn.myanimelist.net/images/anime/1564/149905l.webp",
+    "https://cdn.myanimelist.net/images/anime/1815/149906l.webp",
+    "https://cdn.myanimelist.net/images/anime/1827/150917l.webp",
+    "https://cdn.myanimelist.net/images/anime/1497/153635l.webp",
+    "https://cdn.myanimelist.net/images/anime/1040/153636l.webp",
+    "https://cdn.myanimelist.net/images/anime/1540/155824l.webp",
+    "https://cdn.myanimelist.net/images/anime/1579/158534l.webp",
+    "https://cdn.myanimelist.net/images/anime/1446/158539l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/7ZruEnSnHD6Jx5mF0hBt1E306Vt.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/5cfRiR2U7m3DuCTRRwB7LeJYte8.png",
   "tmdb_id": "65942",
@@ -84,7 +96,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1540/155824l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1070/148834l.webp"
     }
   },
   "broadcast": {
@@ -96,7 +108,7 @@
     "string": "wednesday 22:00"
   },
   "rank": 4,
-  "popularity": 763,
+  "popularity": 759,
   "rating": "r",
   "simkl_id": 2743422,
   "episodes_data": [
@@ -424,10 +436,10 @@
     }
   ],
   "characters": [],
-  "num_scoring_users": 180038,
+  "num_scoring_users": 182465,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2025-03-26T15:47:32+00:00",
+  "updated_at": "2026-10-01T03:59:03+00:00",
   "source": "light_novel",
   "background": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season is comprised of two arcs. The first eleven episodes are subtitled Soushitsu-hen (Loss Arc). The latter eight, subtitled Dakkan-hen (Recapture Arc), began airing on August 12, 2026.",
   "related_anime": [
@@ -454,6 +466,18 @@
       },
       "relation_type": "spin_off",
       "relation_type_formatted": "Spin-off"
+    },
+    {
+      "node": {
+        "id": 65450,
+        "title": "Re:Zero kara Hajimeru Isekai Seikatsu 5th Season",
+        "main_picture": {
+          "medium": "https://cdn.myanimelist.net/images/anime/1357/161172.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1357/161172l.jpg"
+        }
+      },
+      "relation_type": "sequel",
+      "relation_type_formatted": "Sequel"
     }
   ],
   "related_manga": [],
@@ -463,8 +487,8 @@
         "id": 38524,
         "title": "Shingeki no Kyojin Season 3 Part 2",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1517/100633.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1517/100633l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1517/100633.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1517/100633l.jpg"
         }
       },
       "num_recommendations": 2
@@ -516,12 +540,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "121596",
-      "completed": "141528",
-      "on_hold": "5062",
-      "dropped": "2610",
-      "plan_to_watch": "98342"
+      "watching": "119752",
+      "completed": "145850",
+      "on_hold": "5077",
+      "dropped": "2625",
+      "plan_to_watch": "98048"
     },
-    "num_list_users": 369138
-  }
+    "num_list_users": 371352
+  },
+  "mal_details_updated_at": "2026-11-15T17:12:57.377Z",
+  "translations_updated_at": "2026-11-15T17:23:58.780Z"
 }

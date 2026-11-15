@@ -59,11 +59,13 @@
       "name": "Studio fu"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1593/159958l.webp"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T13:05:21.578Z",
+  "tmdb_updated_at": "2026-11-15T17:17:39.321Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1593/159958.webp",
@@ -81,25 +83,25 @@
   },
   "broadcast": null,
   "rank": null,
-  "popularity": 8778,
+  "popularity": 8776,
   "rating": null,
   "simkl_id": 3244808,
   "episodes_data": [
     {
       "episode": 1,
       "title": "Episode 1",
-      "title_es": "Episodio 1",
       "aired": "2027-01-01T00:00:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 1"
     }
   ],
   "specials_data": [],
   "characters": [],
   "num_scoring_users": null,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2026-09-09T20:32:03+00:00",
+  "updated_at": "2026-10-11T04:26:10+00:00",
   "source": "web_manga",
   "background": "Shishite Ikiru SSS-kyuu Hunter aired on Fuji TV's +Ultra block.",
   "related_anime": [],
@@ -107,12 +109,14 @@
   "recommendations": [],
   "statistics": {
     "status": {
-      "watching": "4",
-      "completed": "1",
-      "on_hold": 0,
+      "watching": 0,
+      "completed": 0,
+      "on_hold": "1",
       "dropped": 0,
-      "plan_to_watch": "6671"
+      "plan_to_watch": "6703"
     },
-    "num_list_users": 6676
-  }
+    "num_list_users": 6704
+  },
+  "mal_details_updated_at": "2026-11-15T17:17:38.378Z",
+  "translations_updated_at": "2026-11-15T17:25:06.887Z"
 }

@@ -33,8 +33,8 @@
   "num_episodes": 24,
   "score": 7.48,
   "mean": 7.48,
-  "numListUsers": 2309041,
-  "num_list_users": 2309041,
+  "numListUsers": 2309097,
+  "num_list_users": 2309097,
   "genres": [
     {
       "id": 1,
@@ -59,7 +59,21 @@
       "name": "White Fox"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/11/59611l.webp",
+    "https://cdn.myanimelist.net/images/anime/9/65351l.webp",
+    "https://cdn.myanimelist.net/images/anime/7/75944l.webp",
+    "https://cdn.myanimelist.net/images/anime/9/75945l.webp",
+    "https://cdn.myanimelist.net/images/anime/11/75946l.webp",
+    "https://cdn.myanimelist.net/images/anime/4/77259l.webp",
+    "https://cdn.myanimelist.net/images/anime/5/81843l.webp",
+    "https://cdn.myanimelist.net/images/anime/9/81844l.webp",
+    "https://cdn.myanimelist.net/images/anime/3/81845l.webp",
+    "https://cdn.myanimelist.net/images/anime/10/81846l.webp",
+    "https://cdn.myanimelist.net/images/anime/1429/95946l.webp",
+    "https://cdn.myanimelist.net/images/anime/1115/97001l.webp",
+    "https://cdn.myanimelist.net/images/anime/1975/158246l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/3XAGgklKkJhv5M9m5NkfhBYb7l8.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/x9PcCizBEh6YcYxl4gNYPoon9p2.png",
   "tmdb_id": "61223",
@@ -76,7 +90,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1429/95946l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/11/59611l.webp"
     }
   },
   "broadcast": {
@@ -488,10 +502,10 @@
     }
   ],
   "characters": [],
-  "num_scoring_users": 1431889,
+  "num_scoring_users": 1432390,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2014-01-20T15:10:34+00:00",
+  "updated_at": "2024-10-14T20:42:25+00:00",
   "source": "manga",
   "background": "Akame ga Kill! is the anime adaptation of Takahiro's shounen manga of the same title, which is illustrated by Tetsuya Tashiro and was serialized in Square Enix's Gangan Joker from April 2010 to December 2016. The anime follows the source material through the first eight volumes of the manga, incorporating events from later issues as well, before concluding with an original story arc that deviates from the manga.",
   "related_anime": [
@@ -500,8 +514,8 @@
         "id": 25241,
         "title": "AkaKill! Gekijou",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/6/64537.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/6/64537l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/6/64537.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/6/64537l.jpg"
         }
       },
       "relation_type": "other",
@@ -549,8 +563,8 @@
         "id": 41433,
         "title": "Akudama Drive",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1468/109172.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1468/109172l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1468/109172.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1468/109172l.webp"
         }
       },
       "num_recommendations": 18
@@ -560,8 +574,8 @@
         "id": 1575,
         "title": "Code Geass: Hangyaku no Lelouch",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1032/135088.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1032/135088l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1032/135088.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1032/135088l.webp"
         }
       },
       "num_recommendations": 14
@@ -582,8 +596,8 @@
         "id": 10620,
         "title": "Mirai Nikki (TV)",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/13/33465.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/13/33465l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/13/33465.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/13/33465l.jpg"
         }
       },
       "num_recommendations": 11
@@ -619,15 +633,15 @@
           "large": "https://cdn.myanimelist.net/images/anime/1818/126435l.jpg"
         }
       },
-      "num_recommendations": 9
+      "num_recommendations": 10
     },
     {
       "node": {
         "id": 37349,
         "title": "Goblin Slayer",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1719/95621.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1719/95621l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1719/95621.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1719/95621l.jpg"
         }
       },
       "num_recommendations": 8
@@ -635,12 +649,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "99228",
-      "completed": "1795648",
-      "on_hold": "41133",
-      "dropped": "68618",
-      "plan_to_watch": "303050"
+      "watching": "99273",
+      "completed": "1796316",
+      "on_hold": "41143",
+      "dropped": "68639",
+      "plan_to_watch": "303163"
     },
-    "num_list_users": 2307677
-  }
+    "num_list_users": 2308534
+  },
+  "mal_details_updated_at": "2026-11-15T17:18:15.730Z",
+  "translations_updated_at": "2026-11-15T17:23:40.901Z"
 }

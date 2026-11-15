@@ -59,7 +59,11 @@
       "name": "Production I.G"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/11/79115l.webp",
+    "https://cdn.myanimelist.net/images/anime/2/79231l.webp",
+    "https://cdn.myanimelist.net/images/anime/7/81992l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/zr1MDQCPVB5uJEHxiO6Tukn4OjH.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/p5FxSYg0sOqnOQqfT8LLFxDyfI6.png",
   "tmdb_id": "60863",
@@ -76,7 +80,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/7/81992l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/11/79115l.webp"
     }
   },
   "broadcast": {
@@ -232,10 +236,10 @@
     }
   ],
   "characters": [],
-  "num_scoring_users": 889189,
+  "num_scoring_users": 889570,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2016-03-16T14:25:47+00:00",
+  "updated_at": "2023-01-05T17:16:57+00:00",
   "source": "manga",
   "background": null,
   "related_anime": [
@@ -317,8 +321,8 @@
         "id": 24415,
         "title": "Kuroko no Basket 3rd Season",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/4/68299.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/4/68299l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/4/68299.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/4/68299l.webp"
         }
       },
       "num_recommendations": 1
@@ -339,8 +343,8 @@
         "id": 38524,
         "title": "Shingeki no Kyojin Season 3 Part 2",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1517/100633.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1517/100633l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1517/100633.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1517/100633l.jpg"
         }
       },
       "num_recommendations": 1
@@ -372,8 +376,8 @@
         "id": 45577,
         "title": "IDOLiSH7 Third Beat!",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1646/115723.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1646/115723l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1646/115723.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1646/115723l.jpg"
         }
       },
       "num_recommendations": 1
@@ -381,12 +385,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "45732",
-      "completed": "1189357",
-      "on_hold": "9233",
-      "dropped": "6810",
-      "plan_to_watch": "101044"
+      "watching": "45736",
+      "completed": "1189943",
+      "on_hold": "9242",
+      "dropped": "6821",
+      "plan_to_watch": "101057"
     },
-    "num_list_users": 1352176
-  }
+    "num_list_users": 1352799
+  },
+  "mal_details_updated_at": "2026-11-15T17:20:02.332Z",
+  "translations_updated_at": "2026-11-15T17:23:54.138Z"
 }

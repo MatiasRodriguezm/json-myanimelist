@@ -34,8 +34,8 @@
   "num_episodes": 24,
   "score": 8.13,
   "mean": 8.13,
-  "numListUsers": 27689,
-  "num_list_users": 27689,
+  "numListUsers": 27691,
+  "num_list_users": 27691,
   "genres": [
     {
       "id": 1,
@@ -64,7 +64,14 @@
       "name": "K-Factory"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/9/28463l.webp",
+    "https://cdn.myanimelist.net/images/anime/1887/103039l.webp",
+    "https://cdn.myanimelist.net/images/anime/1436/110210l.webp",
+    "https://cdn.myanimelist.net/images/anime/1084/134156l.webp",
+    "https://cdn.myanimelist.net/images/anime/1178/134165l.webp",
+    "https://cdn.myanimelist.net/images/anime/1024/151313l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/wfonVgJaNQsjpbp5afbscZSBmX1.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/7brhNxFjohzRaHv05F8KTGrC80l.png",
   "tmdb_id": "68312",
@@ -85,8 +92,8 @@
     }
   },
   "broadcast": null,
-  "rank": 558,
-  "popularity": 4971,
+  "rank": 557,
+  "popularity": 4973,
   "rating": "r+",
   "simkl_id": 39897,
   "episodes_data": [
@@ -285,10 +292,10 @@
   ],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 10086,
+  "num_scoring_users": 10090,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2007-11-07T21:45:06+00:00",
+  "updated_at": "2023-01-30T15:16:52+00:00",
   "source": "novel",
   "background": null,
   "related_anime": [
@@ -370,8 +377,8 @@
         "id": 8425,
         "title": "Gosick",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/11/27906.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/11/27906l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/11/27906.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/11/27906l.jpg"
         }
       },
       "num_recommendations": 1
@@ -380,11 +387,13 @@
   "statistics": {
     "status": {
       "watching": "1514",
-      "completed": "12531",
-      "on_hold": "841",
+      "completed": "12536",
+      "on_hold": "843",
       "dropped": "478",
-      "plan_to_watch": "12294"
+      "plan_to_watch": "12300"
     },
-    "num_list_users": 27658
-  }
+    "num_list_users": 27671
+  },
+  "mal_details_updated_at": "2026-11-15T17:21:28.450Z",
+  "translations_updated_at": "2026-11-15T17:24:22.616Z"
 }

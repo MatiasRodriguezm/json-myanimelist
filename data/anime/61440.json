@@ -32,8 +32,8 @@
   "num_episodes": 3,
   "score": 7.58,
   "mean": 7.58,
-  "numListUsers": 24860,
-  "num_list_users": 24860,
+  "numListUsers": 24882,
+  "num_list_users": 24882,
   "genres": [
     {
       "id": 50,
@@ -62,7 +62,10 @@
       "name": "Kinema Citrus"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1511/149166l.webp",
+    "https://cdn.myanimelist.net/images/anime/1460/153740l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/7uyRCBMQIWwJSWIR2aCrvPjbPzi.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/3JqKLnwoGAE8nK7YfESzmzn8qDG.png",
   "tmdb_id": "196944",
@@ -79,12 +82,12 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1460/153740l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1511/149166l.webp"
     }
   },
   "broadcast": null,
-  "rank": 1860,
-  "popularity": 5234,
+  "rank": 1908,
+  "popularity": 5189,
   "rating": "pg_13",
   "simkl_id": 2751750,
   "episodes_data": [
@@ -132,10 +135,10 @@
     }
   ],
   "characters": [],
-  "num_scoring_users": 3944,
+  "num_scoring_users": 4386,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2025-04-09T14:19:24+00:00",
+  "updated_at": "2026-10-31T04:46:17+00:00",
   "source": "novel",
   "background": null,
   "related_anime": [
@@ -156,12 +159,14 @@
   "recommendations": [],
   "statistics": {
     "status": {
-      "watching": "1154",
-      "completed": "5265",
-      "on_hold": "190",
+      "watching": "1104",
+      "completed": "5897",
+      "on_hold": "195",
       "dropped": "54",
-      "plan_to_watch": "17758"
+      "plan_to_watch": "17626"
     },
-    "num_list_users": 24421
-  }
+    "num_list_users": 24876
+  },
+  "mal_details_updated_at": "2026-11-15T17:13:19.975Z",
+  "translations_updated_at": "2026-11-15T17:24:38.332Z"
 }

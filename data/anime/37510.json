@@ -34,8 +34,8 @@
   "num_episodes": 13,
   "score": 8.78,
   "mean": 8.78,
-  "numListUsers": 1767174,
-  "num_list_users": 1767174,
+  "numListUsers": 1767208,
+  "num_list_users": 1767208,
   "genres": [
     {
       "id": 1,
@@ -56,7 +56,12 @@
       "name": "Bones"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1793/93254l.webp",
+    "https://cdn.myanimelist.net/images/anime/1918/96303l.webp",
+    "https://cdn.myanimelist.net/images/anime/1331/126582l.webp",
+    "https://cdn.myanimelist.net/images/anime/1684/150513l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/kP5duNJEbTfXpBs6CITsaZ88pQi.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/nH2KsyLFAj9hB0VZYVhpPkFeKPD.png",
   "tmdb_id": "67075",
@@ -73,7 +78,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1918/96303l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1793/93254l.webp"
     }
   },
   "broadcast": {
@@ -84,7 +89,7 @@
     "timezone": "Asia/Tokyo",
     "string": "monday 23:00"
   },
-  "rank": 45,
+  "rank": 44,
   "popularity": 73,
   "rating": "pg_13",
   "simkl_id": 784013,
@@ -196,10 +201,10 @@
   ],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 1114787,
+  "num_scoring_users": 1115335,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2018-03-18T10:14:35+00:00",
+  "updated_at": "2024-10-07T04:09:58+00:00",
   "source": "web_manga",
   "background": null,
   "related_anime": [
@@ -220,8 +225,8 @@
         "id": 39651,
         "title": "Mob Psycho 100: Dai Ikkai Rei toka Soudansho Ian Ryokou - Kokoro Mitasu Iyashi no Tabi",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1605/119301.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1605/119301l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1605/119301.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1605/119301l.jpg"
         }
       },
       "relation_type": "side_story",
@@ -258,8 +263,8 @@
         "id": 33255,
         "title": "Saiki Kusuo no Ψ-nan",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1973/142750.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1973/142750l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1973/142750.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1973/142750l.webp"
         }
       },
       "num_recommendations": 5
@@ -269,8 +274,8 @@
         "id": 34612,
         "title": "Saiki Kusuo no Ψ-nan 2",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1961/91383.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1961/91383l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1961/91383.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1961/91383l.webp"
         }
       },
       "num_recommendations": 2
@@ -324,8 +329,8 @@
         "id": 41345,
         "title": "Noblesse",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1903/111646.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1903/111646l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1903/111646.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1903/111646l.webp"
         }
       },
       "num_recommendations": 1
@@ -355,12 +360,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "91933",
-      "completed": "1413202",
+      "watching": "91959",
+      "completed": "1414008",
       "on_hold": "21824",
-      "dropped": "9861",
-      "plan_to_watch": "229322"
+      "dropped": "9873",
+      "plan_to_watch": "229356"
     },
-    "num_list_users": 1766142
-  }
+    "num_list_users": 1767020
+  },
+  "mal_details_updated_at": "2026-11-15T17:20:00.781Z",
+  "translations_updated_at": "2026-11-15T17:23:51.096Z"
 }

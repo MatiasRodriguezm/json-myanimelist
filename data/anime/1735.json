@@ -32,8 +32,8 @@
   "num_episodes": 500,
   "score": 8.29,
   "mean": 8.29,
-  "numListUsers": 2804649,
-  "num_list_users": 2804649,
+  "numListUsers": 2804688,
+  "num_list_users": 2804688,
   "genres": [
     {
       "id": 1,
@@ -62,7 +62,26 @@
       "name": "Studio Pierrot"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/13/11194l.webp",
+    "https://cdn.myanimelist.net/images/anime/5/17407l.webp",
+    "https://cdn.myanimelist.net/images/anime/5/22654l.webp",
+    "https://cdn.myanimelist.net/images/anime/2/50745l.webp",
+    "https://cdn.myanimelist.net/images/anime/9/59431l.webp",
+    "https://cdn.myanimelist.net/images/anime/11/63249l.webp",
+    "https://cdn.myanimelist.net/images/anime/4/71532l.webp",
+    "https://cdn.myanimelist.net/images/anime/3/79849l.webp",
+    "https://cdn.myanimelist.net/images/anime/4/80792l.webp",
+    "https://cdn.myanimelist.net/images/anime/8/82294l.webp",
+    "https://cdn.myanimelist.net/images/anime/5/85122l.webp",
+    "https://cdn.myanimelist.net/images/anime/1406/94611l.webp",
+    "https://cdn.myanimelist.net/images/anime/1164/98099l.webp",
+    "https://cdn.myanimelist.net/images/anime/1565/111305l.webp",
+    "https://cdn.myanimelist.net/images/anime/1434/111462l.webp",
+    "https://cdn.myanimelist.net/images/anime/1477/120172l.webp",
+    "https://cdn.myanimelist.net/images/anime/1900/134425l.webp",
+    "https://cdn.myanimelist.net/images/anime/1664/145346l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/z0YhJvomqedHF85bplUJEotkN5l.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/qopvxH4C4YIoeJWss0EVLv13rgW.png",
   "tmdb_id": "31910",
@@ -79,7 +98,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1565/111305l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/13/11194l.webp"
     }
   },
   "broadcast": {
@@ -3938,7 +3957,7 @@
     {
       "episode": 481,
       "title": "Sasuke / Sakura",
-      "title_es": null,
+      "title_es": "Sasuke/Sakura",
       "aired": "2016-10-27T19:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/50/5060350c3a84d8d62_w.webp",
       "description": "As a child, Sasuke craved attention from his older brother Itachi. Sasuke and Itachi have a chance to spend some time alone when their parents are away. Meanwhile, Sakura is very shy and tends to spend her free time by herself. One day, her new friend Ino gives her a present."
@@ -3946,7 +3965,7 @@
     {
       "episode": 482,
       "title": "Gaara / Shikamaru",
-      "title_es": null,
+      "title_es": "Gaara/Shikamaru",
       "aired": "2016-11-03T19:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/50/5074550f78e21093c_w.webp",
       "description": "\"Gaara spends his days with Yashamaru, his surrogate parent.\nMeanwhile, a bored Shikamaru pulls a prank on Choji\""
@@ -3954,7 +3973,7 @@
     {
       "episode": 483,
       "title": "Jiraiya / Kakashi",
-      "title_es": null,
+      "title_es": "Jiraiya/Kakashi",
       "aired": "2016-11-10T19:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/50/5092394f1b8361ada_w.webp",
       "description": "Ever since he was young, Jiraiya has been a little pervy. He tries to involve Orochimaru in many of his exploits as well as his schemes to get Tsunade’s attention. In Kakashi`s story, we see him living on his own since his father, Sakumo, died. Rin and Obito are fascinated by Kakashi, but his aloofness makes him hard to figure out."
@@ -3962,7 +3981,7 @@
     {
       "episode": 484,
       "title": "Sasuke's Story: Sunrise, Part 1 - The Exploding Human",
-      "title_es": null,
+      "title_es": "La historia de Sasuke: Amanecer, Parte 1 - El humano explosivo",
       "aired": "2016-12-01T19:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/51/514952816afd05142_w.webp",
       "description": "\"The fourth Great Shinobi World War has ended. But Sasuke decides to continue his solitary journey—this time to atone for his sins.\nMeanwhile, back at the Leaf Village, there is a growing number of missing shinobi. As Kakashi—the sixth Hokage—and the others discuss these incidents, the Leaf is attacked by a mysterious group of shinobi.\""
@@ -3970,7 +3989,7 @@
     {
       "episode": 485,
       "title": "Sasuke's Story: Sunrise, Part 2 - Coliseum",
-      "title_es": null,
+      "title_es": "La historia de Sasuke: Amanecer, Parte 2 - Coliseo",
       "aired": "2016-12-08T19:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/51/516729842353505e0_w.webp",
       "description": "Instead of returning to the Hidden Leaf, Sasuke sets out with Chino and Nowaki to investigate the cause of the exploding humans."
@@ -3978,7 +3997,7 @@
     {
       "episode": 486,
       "title": "Sasuke's Story: Sunrise, Part 3 - Fuushin",
-      "title_es": null,
+      "title_es": "La historia de Sasuke: Amanecer, Parte 3 - Fuushin",
       "aired": "2016-12-15T19:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/51/51865008c128a08da_w.webp",
       "description": "Orochimaru brings Sasuke to the Coliseum fighting ring, to lure out En Oyashiro, who may have some information regarding the Exploding Human incident. The match is called off when more Exploding Humans appear and the opportunity to meet Oyashiro seems lost. However, impressed by Sasuke’s Sharingan, Oyashiro approaches him in person."
@@ -3986,7 +4005,7 @@
     {
       "episode": 487,
       "title": "Sasuke's Story: Sunrise, Part 4 - The Ketsuryugan",
-      "title_es": null,
+      "title_es": "La historia de Sasuke: Amanecer, Parte 4 - El Ketsuryugan",
       "aired": "2016-12-22T19:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/52/5200170a7efcc3b16_w.webp",
       "description": "Sasuke uncovers Fuushin’s true identity at last, and begins to fight him. The moment Sasuke tries to read Fuushin’s memories with his Sharingan, a wave of genjutsu from a massive red eye causes Sasuke to lose consciousness. He awakens to find himself alone, and sees tracks in the snow that indicate Fuushin has barely escaped alive."
@@ -3994,7 +4013,7 @@
     {
       "episode": 488,
       "title": "Sasuke's Story: Sunrise, Part 5 - The Last One",
-      "title_es": null,
+      "title_es": "La historia de Sasuke: Amanecer, Parte 5 - El último",
       "aired": "2017-01-05T19:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/52/5223150dd540dda44_w.webp",
       "description": "Sasuke begins his own investigation into the incidents. He overcomes many dangers on his path to the truth. The Exploding Humans, the Ketsuryugan, the Chinoike Clan, and the Uchiha Clan—just how are they connected? Where does his journey lead? The mystery is about to be solved..."
@@ -4002,7 +4021,7 @@
     {
       "episode": 489,
       "title": "Shikamaru's Story: A Cloud Drifting in the Silent Dark, Part 1 - The State of Affairs",
-      "title_es": null,
+      "title_es": "La historia de Shikamaru: Una nube a la deriva en la oscuridad silenciosa, Parte 1 - El estado de las cosas",
       "aired": "2017-01-12T19:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/52/52413461dd34d29e6_w.webp",
       "description": "It’s been two years since the end of the Fourth Great Ninja War. Shikamaru now has an important role within the Hidden Leaf government, and as a representative of the Leaf in the Alliance. One day, a situation develops with shinobi disappearing in droves, and Shikamaru takes on a dangerous mission."
@@ -4010,7 +4029,7 @@
     {
       "episode": 490,
       "title": "Shikamaru's Story: A Cloud Drifting in the Silent Dark, Part 2 - Dark Clouds",
-      "title_es": null,
+      "title_es": "La historia de Shikamaru: Una nube a la deriva en la oscuridad silenciosa, Parte 2 - Nubes oscuras",
       "aired": "2017-01-19T19:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/52/52593088a80c38da6_w.webp",
       "description": "After the Great War, many missing and Rogue Ninja made their way into the Land of Silence. Sai, who has infiltrated the region to investigate, sends a cryptic message back to the Leaf. Shikamaru, determined to find out what`s happening, heads for the Land of Silence with two members of the ANBU, Soku and Ro. However, they must first get past a heavily guarded checkpoint."
@@ -4018,7 +4037,7 @@
     {
       "episode": 491,
       "title": "Shikamaru's Story: A Cloud Drifting in the Silent Dark, Part 3 - Recklessness",
-      "title_es": null,
+      "title_es": "La historia de Shikamaru: Una nube a la deriva en la oscuridad silenciosa, Parte 3 - Imprudencia",
       "aired": "2017-01-26T19:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/52/52769565df9ffcf65_w.webp",
       "description": "Shikamaru and his team are within range of Fushu Castle, where Gengo is purported to be. But they are unable to glean any intel about the man. Learning that Gengo will make a public appearance, Shikamaru and company infiltrate the square, where they see Sai being held captive."
@@ -4026,7 +4045,7 @@
     {
       "episode": 492,
       "title": "Shikamaru's Story: A Cloud Drifting in the Silent Dark, Part 4 - Cloud of Suspicion",
-      "title_es": null,
+      "title_es": "La historia de Shikamaru: Una nube a la deriva en la oscuridad silenciosa, Parte 4 - Nube de sospecha",
       "aired": "2017-02-02T19:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/52/52950526ba117c3c8_w.webp",
       "description": "Shikamaru is captured while trying to save Sai and stop Gengo. Far from giving up, he racks his brain to find a away out of the situation. Just as an opportunity presents itself, Ro and Soku appear under Gengo’s control!"
@@ -4034,7 +4053,7 @@
     {
       "episode": 493,
       "title": "Shikamaru's Story: A Cloud Drifting in the Silent Dark, Part 5 - Dawn",
-      "title_es": null,
+      "title_es": "La historia de Shikamaru: Una nube a la deriva en la oscuridad silenciosa, Parte 5 - Amanecer",
       "aired": "2017-02-09T19:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/53/5314916aef17a344b_w.webp",
       "description": "Ino, Choji, and Temari rush to Shikamaru’s aid! Choji takes on Ro, Temari goes after Soku, and Ino goes after Sai! Meanwhile, Shikamaru pursues Gengo. Can Shikamaru defeat Gengo’s evil ambitions? The final battle begins!"
@@ -4042,7 +4061,7 @@
     {
       "episode": 494,
       "title": "Hidden Leaf Story: The Perfect Day for a Wedding, Part 1 - Naruto's Wedding",
-      "title_es": null,
+      "title_es": "Historia de Hidden Leaf: El día perfecto para una boda, Parte 1 - La boda de Naruto",
       "aired": "2017-02-16T19:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/53/53347588bc1748637_w.webp",
       "description": "Naruto and Hinata’s wedding day has been set. As the date approaches, Kakashi encounters a problem: Naruto’s friends are all top shinobi—the first line of defense in the village. They work 24/7, and there are always a few who cannot attend celebrations. As Kakashi tries to find the most reasonable solution, he announces a super-secret mission to find the couple a wedding gift."
@@ -4050,7 +4069,7 @@
     {
       "episode": 495,
       "title": "Hidden Leaf Story: The Perfect Day for a Wedding, Part 2 - A Full-Powered Wedding Gift",
-      "title_es": null,
+      "title_es": "Historia de Hidden Leaf: El día perfecto para una boda, Parte 2: Un regalo de bodas potente",
       "aired": "2017-02-16T19:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/53/5334756a9fdcdfc01_w.webp",
       "description": "Naruto and Hinata’s wedding day has been set. As the date approaches, Kakashi encounters a problem: Naruto’s friends are all top shinobi—the first line of defense in the village. They work 24/7, and there are always a few who cannot attend celebrations. As Kakashi tries to find the most reasonable solution, he announces a super-secret mission to find the couple a wedding gift."
@@ -4058,7 +4077,7 @@
     {
       "episode": 496,
       "title": "Hidden Leaf Story: The Perfect Day for a Wedding, Part 3 - Steam and Food Pills",
-      "title_es": null,
+      "title_es": "Historia de Hidden Leaf: El día perfecto para una boda, Parte 3 - Pastillas de vapor y comida",
       "aired": "2017-02-23T19:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/53/53560581054bfa850_w.webp",
       "description": "The super-secret mission to find Naruto and Hinata a wedding gift proves to be difficult for Shikamaru. Choji has found the perfect gift, which adds to Shikamaru`s panic. But then Choji mentions something in passing and Shikamaru gets an idea. All he needs now is to enlist Temari`s help!"
@@ -4066,7 +4085,7 @@
     {
       "episode": 497,
       "title": "Hidden Leaf Story: The Perfect Day for a Wedding, Part 4 - The Kazekage's Wedding Gift",
-      "title_es": null,
+      "title_es": "Historia de la hoja oculta: El día perfecto para una boda, Parte 4 - El regalo de bodas del Kazekage",
       "aired": "2017-03-02T19:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/53/5381906aa178c034f_w.webp",
       "description": "The Tsuchikage and Raikage, who are in the Leaf Village to attend the Five Kage Summit, mention that they have already prepared wedding gifts for Naruto. Gaara finds himself in a dilemma. He`s advised that the gift should be something that befits the Kazekage. He also learns that the Raikage is planning to perform a dance. Kankuro chimes in and suggests Gaara should dance as well—further plunging Gaara into indecision."
@@ -4074,7 +4093,7 @@
     {
       "episode": 498,
       "title": "Hidden Leaf Story: The Perfect Day for a Wedding, Part 5 - The Last Mission",
-      "title_es": null,
+      "title_es": "Historia de Hidden Leaf: El día perfecto para una boda, Parte 5 - La última misión",
       "aired": "2017-03-09T19:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/54/5416480c8060c1fed_w.webp",
       "description": "Shino and Kiba still don`t have a wedding gift for Hinata`s wedding. Kiba`s made it his goal to become the next Hokage, but unlike his teammates, who are steadfastly chasing their dreams, Shino is unsure about his. With this uncertainty, he sets out with Kiba and Akamaru on their final mission as Team 8!"
@@ -4082,7 +4101,7 @@
     {
       "episode": 499,
       "title": "Hidden Leaf Story: The Perfect Day for a Wedding, Part 6 - The Outcome of the Secret Mission",
-      "title_es": null,
+      "title_es": "Historia de Hidden Leaf: El día perfecto para una boda, Parte 6 - El resultado de la misión secreta",
       "aired": "2017-03-16T19:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/54/543181434cae2c04a_w.webp",
       "description": "Naruto had once lived a lonely existence, ostracized by everyone. But Iruka`s words and his very presence have supported Naruto to this day. As Naruto`s wedding nears, Iruka begins to lose sight of what he was to Naruto, and is unsure of what to say for his message."
@@ -4090,7 +4109,7 @@
     {
       "episode": 500,
       "title": "Hidden Leaf Story: The Perfect Day for a Wedding, Part 7 - The Message",
-      "title_es": null,
+      "title_es": "Historia de Hidden Leaf: El día perfecto para una boda, Parte 7 - El mensaje",
       "aired": "2017-03-23T19:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/54/5451770b3b55336c9_w.webp",
       "description": "Naruto had once lived a lonely existence, ostracized by everyone. But Iruka`s words and his very presence have supported Naruto to this day. As Naruto`s wedding nears, Iruka begins to lose sight of what he was to Naruto, and is unsure of what to say for his message."
@@ -4131,10 +4150,10 @@
     }
   ],
   "characters": [],
-  "num_scoring_users": 1858109,
+  "num_scoring_users": 1858932,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2006-12-09T15:28:11+00:00",
+  "updated_at": "2025-06-23T01:00:53+00:00",
   "source": "manga",
   "background": null,
   "related_anime": [
@@ -4179,8 +4198,8 @@
         "id": 4437,
         "title": "Naruto: Shippuuden Movie 2 - Kizuna",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1484/134494.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1484/134494l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1484/134494.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1484/134494l.webp"
         }
       },
       "relation_type": "side_story",
@@ -4239,8 +4258,8 @@
         "id": 12979,
         "title": "Naruto SD: Rock Lee no Seishun Full-Power Ninden",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/13/36475.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/13/36475l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/13/36475.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/13/36475l.jpg"
         }
       },
       "relation_type": "spin_off",
@@ -4251,8 +4270,8 @@
         "id": 13667,
         "title": "Naruto: Shippuuden Movie 6 - Road to Ninja",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1620/94336.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1620/94336l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1620/94336.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1620/94336l.webp"
         }
       },
       "relation_type": "side_story",
@@ -4263,8 +4282,8 @@
         "id": 16870,
         "title": "The Last: Naruto the Movie",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1491/134498.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1491/134498l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1491/134498.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1491/134498l.webp"
         }
       },
       "relation_type": "side_story",
@@ -4275,8 +4294,8 @@
         "id": 19511,
         "title": "Naruto: Shippuuden - Sunny Side Battle",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1047/91638.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1047/91638l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1047/91638.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1047/91638l.jpg"
         }
       },
       "relation_type": "other",
@@ -4287,8 +4306,8 @@
         "id": 28755,
         "title": "Boruto: Naruto the Movie",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/4/78280.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/4/78280l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/4/78280.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/4/78280l.jpg"
         }
       },
       "relation_type": "sequel",
@@ -4299,8 +4318,8 @@
         "id": 32365,
         "title": "Boruto: Naruto the Movie - Naruto ga Hokage ni Natta Hi",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/6/77678.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/6/77678l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/6/77678.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/6/77678l.jpg"
         }
       },
       "relation_type": "side_story",
@@ -4335,8 +4354,8 @@
         "id": 53236,
         "title": "Road of Naruto",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1731/128787.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1731/128787l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1731/128787.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1731/128787l.jpg"
         }
       },
       "relation_type": "other",
@@ -4359,8 +4378,8 @@
         "id": 64614,
         "title": "PUBG Mobile x Naruto: Shippuuden Collab",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1237/159001.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1237/159001l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1237/159001.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1237/159001l.jpg"
         }
       },
       "relation_type": "other",
@@ -4385,8 +4404,8 @@
         "id": 34572,
         "title": "Black Clover",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/2/88336.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/2/88336l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/2/88336.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/2/88336l.webp"
         }
       },
       "num_recommendations": 23
@@ -4418,8 +4437,8 @@
         "id": 40748,
         "title": "Jujutsu Kaisen",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1171/109222.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1171/109222l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1171/109222.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1171/109222l.jpg"
         }
       },
       "num_recommendations": 14
@@ -4482,12 +4501,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "458934",
-      "completed": "1885371",
-      "on_hold": "148986",
-      "dropped": "166095",
-      "plan_to_watch": "143739"
+      "watching": "459026",
+      "completed": "1886487",
+      "on_hold": "149020",
+      "dropped": "166131",
+      "plan_to_watch": "143817"
     },
-    "num_list_users": 2803125
-  }
+    "num_list_users": 2804481
+  },
+  "mal_details_updated_at": "2026-11-15T17:18:10.445Z",
+  "translations_updated_at": "2026-11-15T17:24:14.880Z"
 }

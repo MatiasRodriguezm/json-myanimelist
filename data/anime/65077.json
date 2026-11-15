@@ -27,8 +27,8 @@
   "num_episodes": null,
   "score": null,
   "mean": null,
-  "numListUsers": 65776,
-  "num_list_users": 65776,
+  "numListUsers": 65825,
+  "num_list_users": 65825,
   "genres": [
     {
       "id": 2,
@@ -56,11 +56,13 @@
     }
   ],
   "studios": [],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1216/160273l.webp"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T13:05:43.412Z",
+  "tmdb_updated_at": "2026-11-15T17:18:36.395Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1216/160273.webp",
@@ -78,16 +80,16 @@
   },
   "broadcast": null,
   "rank": null,
-  "popularity": 3188,
+  "popularity": 3187,
   "rating": "r",
   "simkl_id": 3265400,
   "episodes_data": [],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 8,
+  "num_scoring_users": 2,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2026-09-27T15:42:46+00:00",
+  "updated_at": "2026-09-27T15:45:07+00:00",
   "source": "light_novel",
   "background": null,
   "related_anime": [
@@ -96,8 +98,8 @@
         "id": 59193,
         "title": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1527/158340.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1527/158340l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1527/158340.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1527/158340l.webp"
         }
       },
       "relation_type": "prequel",
@@ -108,12 +110,14 @@
   "recommendations": [],
   "statistics": {
     "status": {
-      "watching": "8",
-      "completed": "2",
-      "on_hold": "7",
+      "watching": "4",
+      "completed": "1",
+      "on_hold": "3",
       "dropped": 0,
-      "plan_to_watch": "65687"
+      "plan_to_watch": "65817"
     },
-    "num_list_users": 65704
-  }
+    "num_list_users": 65825
+  },
+  "mal_details_updated_at": "2026-11-15T17:18:35.776Z",
+  "translations_updated_at": "2026-11-15T17:25:07.958Z"
 }

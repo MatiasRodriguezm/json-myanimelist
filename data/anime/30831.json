@@ -62,7 +62,17 @@
       "name": "Studio Deen"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/3/76876l.webp",
+    "https://cdn.myanimelist.net/images/anime/8/77831l.webp",
+    "https://cdn.myanimelist.net/images/anime/10/81308l.webp",
+    "https://cdn.myanimelist.net/images/anime/7/81309l.webp",
+    "https://cdn.myanimelist.net/images/anime/3/81310l.webp",
+    "https://cdn.myanimelist.net/images/anime/10/81311l.webp",
+    "https://cdn.myanimelist.net/images/anime/8/81312l.webp",
+    "https://cdn.myanimelist.net/images/anime/1053/142747l.webp",
+    "https://cdn.myanimelist.net/images/anime/1895/142748l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/rvZJxD36tKoglL8fXoMMWKGQfM.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/9ao3YjNJuezcnxv9Bmr0NQk9FSf.png",
   "tmdb_id": "65844",
@@ -79,7 +89,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1895/142748l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/3/76876l.webp"
     }
   },
   "broadcast": {
@@ -90,7 +100,7 @@
     "timezone": "Asia/Tokyo",
     "string": "thursday 01:05"
   },
-  "rank": 642,
+  "rank": 643,
   "popularity": 37,
   "rating": "pg_13",
   "simkl_id": 520074,
@@ -187,10 +197,10 @@
     }
   ],
   "characters": [],
-  "num_scoring_users": 1408546,
+  "num_scoring_users": 1409056,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2015-05-25T09:13:07+00:00",
+  "updated_at": "2025-06-13T08:29:25+00:00",
   "source": "light_novel",
   "background": "Kono Subarashii Sekai ni Shukufuku wo! adapts the first 2 volumes of Natsume Akatsuki's light novel series of the same name.",
   "related_anime": [
@@ -211,8 +221,8 @@
         "id": 32937,
         "title": "Kono Subarashii Sekai ni Shukufuku wo! 2",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/2/83188.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/2/83188l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/2/83188.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/2/83188l.webp"
         }
       },
       "relation_type": "sequel",
@@ -271,8 +281,8 @@
         "id": 61851,
         "title": "Isekai Quartet 3",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1044/152103.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1044/152103l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1044/152103.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1044/152103l.jpg"
         }
       },
       "relation_type": "character",
@@ -319,8 +329,8 @@
         "id": 41456,
         "title": "Sentouin, Haken shimasu!",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1444/115118.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1444/115118l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1444/115118.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1444/115118l.jpg"
         }
       },
       "num_recommendations": 27
@@ -352,8 +362,8 @@
         "id": 35203,
         "title": "Isekai wa Smartphone to Tomo ni.",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/7/86794.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/7/86794l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/7/86794.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/7/86794l.webp"
         }
       },
       "num_recommendations": 19
@@ -374,8 +384,8 @@
         "id": 37105,
         "title": "Grand Blue",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1302/94882.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1302/94882l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1302/94882.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1302/94882l.jpg"
         }
       },
       "num_recommendations": 14
@@ -394,12 +404,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "98670",
-      "completed": "1779285",
-      "on_hold": "34854",
-      "dropped": "43676",
-      "plan_to_watch": "235258"
+      "watching": "98740",
+      "completed": "1780023",
+      "on_hold": "34869",
+      "dropped": "43703",
+      "plan_to_watch": "235348"
     },
-    "num_list_users": 2191743
-  }
+    "num_list_users": 2192683
+  },
+  "mal_details_updated_at": "2026-11-15T17:18:18.149Z",
+  "translations_updated_at": "2026-11-15T17:23:42.189Z"
 }

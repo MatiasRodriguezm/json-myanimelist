@@ -28,10 +28,10 @@
   },
   "episodes": 12,
   "num_episodes": 12,
-  "score": 6.59,
-  "mean": 6.59,
-  "numListUsers": 14772,
-  "num_list_users": 14772,
+  "score": 6.6,
+  "mean": 6.6,
+  "numListUsers": 14776,
+  "num_list_users": 14776,
   "genres": [
     {
       "id": 1,
@@ -64,7 +64,10 @@
       "name": "SynergySP"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1711/152746l.webp",
+    "https://cdn.myanimelist.net/images/anime/1518/160127l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/a5ibYt8Ri2w74TR99lbP2aHyFMY.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/oPcuaK02bY2Gcs6qViDHn7mB98k.png",
   "tmdb_id": "337277",
@@ -81,7 +84,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1518/160127l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1711/152746l.webp"
     }
   },
   "broadcast": {
@@ -92,114 +95,114 @@
     "timezone": "Asia/Tokyo",
     "string": "tuesday 02:00"
   },
-  "rank": 7529,
-  "popularity": 6354,
+  "rank": 7460,
+  "popularity": 6355,
   "rating": "r",
   "simkl_id": 2086928,
   "episodes_data": [
     {
       "episode": 1,
       "title": "Episode 1",
-      "title_es": "Episodio 1",
       "aired": "2026-10-06T02:00:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/208275617419ec3779_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Episodio 1"
     },
     {
       "episode": 2,
       "title": "Episode 2",
-      "title_es": "Episodio 2",
       "aired": "2026-10-13T02:00:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20871371a4dd7de456_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Episodio 2"
     },
     {
       "episode": 3,
       "title": "Episode 3",
-      "title_es": "Episodio 3",
       "aired": "2026-10-20T02:00:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20916323706a44fe8e_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Episodio 3"
     },
     {
       "episode": 4,
       "title": "Episode 4",
-      "title_es": "Episodio 4",
       "aired": "2026-10-27T02:00:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/209620115f75b91942_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Episodio 4"
     },
     {
       "episode": 5,
       "title": "Episode 5",
-      "title_es": "Episodio 5",
       "aired": "2026-11-03T02:00:00+09:00",
       "thumbnail": "https://simkl.in/episodes/21/210090796b80ddb228_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Episodio 5"
     },
     {
       "episode": 6,
       "title": "Episode 6",
-      "title_es": "Episodio 6",
       "aired": "2026-11-10T02:00:00+09:00",
       "thumbnail": "https://simkl.in/episodes/21/210525477c60a88ca3_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Episodio 6"
     },
     {
       "episode": 7,
       "title": "Episode 7",
-      "title_es": "Episodio 7",
       "aired": "2026-11-17T02:00:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 7"
     },
     {
       "episode": 8,
       "title": "Episode 8",
-      "title_es": "Episodio 8",
       "aired": "2026-11-24T02:00:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 8"
     },
     {
       "episode": 9,
       "title": "Episode 9",
-      "title_es": "Episodio 9",
       "aired": "2026-12-01T02:00:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 9"
     },
     {
       "episode": 10,
       "title": "Episode 10",
-      "title_es": "Episodio 10",
       "aired": "2026-12-08T02:00:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 10"
     },
     {
       "episode": 11,
       "title": "Episode 11",
-      "title_es": "Episodio 11",
       "aired": "2026-12-15T02:00:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 11"
     },
     {
       "episode": 12,
       "title": "Episode 12",
-      "title_es": "Episodio 12",
       "aired": "2026-12-22T02:00:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 12"
     }
   ],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 913,
+  "num_scoring_users": 919,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2023-01-30T00:08:35+00:00",
+  "updated_at": "2026-11-14T20:33:04+00:00",
   "source": "light_novel",
   "background": null,
   "related_anime": [
@@ -220,12 +223,14 @@
   "recommendations": [],
   "statistics": {
     "status": {
-      "watching": "3963",
-      "completed": "2",
-      "on_hold": "181",
-      "dropped": "405",
-      "plan_to_watch": "10216"
+      "watching": "3971",
+      "completed": 0,
+      "on_hold": "182",
+      "dropped": "407",
+      "plan_to_watch": "10215"
     },
-    "num_list_users": 14767
-  }
+    "num_list_users": 14775
+  },
+  "mal_details_updated_at": "2026-11-15T17:14:40.317Z",
+  "translations_updated_at": "2026-11-15T17:24:27.811Z"
 }

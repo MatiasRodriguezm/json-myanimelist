@@ -33,8 +33,8 @@
   "num_episodes": null,
   "score": 6.5,
   "mean": 6.5,
-  "numListUsers": 5077,
-  "num_list_users": 5077,
+  "numListUsers": 5080,
+  "num_list_users": 5080,
   "genres": [
     {
       "id": 4,
@@ -59,7 +59,11 @@
       "name": "Bandai Namco Pictures"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1096/154574l.webp",
+    "https://cdn.myanimelist.net/images/anime/1729/159909l.webp",
+    "https://cdn.myanimelist.net/images/anime/1827/160110l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/qPJ7HP6w73k3FzsYsvnKHMfil8M.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/hrisHdxVN8QRnx7Pl5df9xtE5wy.png",
   "tmdb_id": "308977",
@@ -76,7 +80,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1827/160110l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1096/154574l.webp"
     }
   },
   "broadcast": {
@@ -87,42 +91,42 @@
     "timezone": "Asia/Tokyo",
     "string": "saturday 09:30"
   },
-  "rank": 8037,
-  "popularity": 9749,
+  "rank": 8106,
+  "popularity": 9746,
   "rating": "pg_13",
   "simkl_id": 3152176,
   "episodes_data": [
     {
       "episode": 1,
       "title": "Keroro's Dreamland",
-      "title_es": "La tierra de los sueños de Keroro",
       "aired": "2026-10-03T09:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/2080869126b64d0c41_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "La tierra de los sueños de Keroro"
     },
     {
       "episode": 2,
       "title": "My Friend Is an Invader / Sergeant Keroro in a Windowless, Bathless Room with History",
-      "title_es": "Mi amigo es un invasor / Sargento Keroro en una habitación sin ventanas ni bañera con historia",
       "aired": "2026-10-10T09:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20941991b040c92b7e_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Mi amigo es un invasor / Sargento Keroro en una habitación sin ventanas ni bañera con historia"
     },
     {
       "episode": 3,
       "title": "The Secretive Duo / Heart-Pounding! Momoka's Grand Romantic Tour Operation!",
-      "title_es": "El dúo secreto / ¡El corazón palpitante! ¡La gran operación del tour romántico de Momoka!",
       "aired": "2026-10-17T09:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/209419938804362123_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "El dúo secreto / ¡El corazón palpitante! ¡La gran operación del tour romántico de Momoka!"
     }
   ],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 532,
+  "num_scoring_users": 533,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2025-12-23T11:38:09+00:00",
+  "updated_at": "2026-10-07T07:09:47+00:00",
   "source": "manga",
   "background": null,
   "related_anime": [
@@ -131,8 +135,8 @@
         "id": 516,
         "title": "Keroro Gunsou",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1121/117792.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1121/117792l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1121/117792.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1121/117792l.jpg"
         }
       },
       "relation_type": "alternative_version",
@@ -143,12 +147,14 @@
   "recommendations": [],
   "statistics": {
     "status": {
-      "watching": "1980",
-      "completed": "2",
+      "watching": "1982",
+      "completed": 0,
       "on_hold": "94",
-      "dropped": "427",
-      "plan_to_watch": "2569"
+      "dropped": "433",
+      "plan_to_watch": "2571"
     },
-    "num_list_users": 5072
-  }
+    "num_list_users": 5080
+  },
+  "mal_details_updated_at": "2026-11-15T17:14:46.157Z",
+  "translations_updated_at": "2026-11-15T17:24:51.130Z"
 }

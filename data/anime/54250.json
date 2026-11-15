@@ -32,8 +32,8 @@
   "num_episodes": 1,
   "score": 7.4,
   "mean": 7.4,
-  "numListUsers": 76454,
-  "num_list_users": 76454,
+  "numListUsers": 76461,
+  "num_list_users": 76461,
   "genres": [
     {
       "id": 2,
@@ -66,11 +66,17 @@
       "name": "Kinema Citrus"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1411/151354l.webp",
+    "https://cdn.myanimelist.net/images/anime/1724/151355l.webp",
+    "https://cdn.myanimelist.net/images/anime/1444/156382l.webp",
+    "https://cdn.myanimelist.net/images/anime/1593/160668l.webp",
+    "https://cdn.myanimelist.net/images/anime/1255/160670l.webp"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T13:04:09.030Z",
+  "tmdb_updated_at": "2026-11-15T17:13:24.271Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1444/156382.webp",
@@ -83,12 +89,12 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1444/156382l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1411/151354l.webp"
     }
   },
   "broadcast": null,
-  "rank": 2640,
-  "popularity": 2919,
+  "rank": 2688,
+  "popularity": 2916,
   "rating": "r",
   "simkl_id": 2076802,
   "episodes_data": [
@@ -103,10 +109,10 @@
   ],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 280,
+  "num_scoring_users": 317,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2023-01-15T14:55:04+00:00",
+  "updated_at": "2026-10-23T03:22:33+00:00",
   "source": "web_manga",
   "background": null,
   "related_anime": [
@@ -139,12 +145,14 @@
   "recommendations": [],
   "statistics": {
     "status": {
-      "watching": "1325",
-      "completed": "350",
-      "on_hold": "535",
-      "dropped": "43",
-      "plan_to_watch": "73888"
+      "watching": "1424",
+      "completed": "395",
+      "on_hold": "563",
+      "dropped": "50",
+      "plan_to_watch": "74028"
     },
-    "num_list_users": 76141
-  }
+    "num_list_users": 76460
+  },
+  "mal_details_updated_at": "2026-11-15T17:13:24.043Z",
+  "translations_updated_at": "2026-11-15T17:24:27.607Z"
 }

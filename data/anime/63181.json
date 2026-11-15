@@ -28,10 +28,10 @@
   },
   "episodes": 12,
   "num_episodes": 12,
-  "score": 7.29,
-  "mean": 7.29,
-  "numListUsers": 37082,
-  "num_list_users": 37082,
+  "score": 7.28,
+  "mean": 7.28,
+  "numListUsers": 37109,
+  "num_list_users": 37109,
   "genres": [
     {
       "id": 1,
@@ -56,7 +56,11 @@
       "name": "Studio Hibari"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1243/154648l.webp",
+    "https://cdn.myanimelist.net/images/anime/1377/160010l.webp",
+    "https://cdn.myanimelist.net/images/anime/1332/160147l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/k7h9p81H6X6TGV70TgOp4TmjXco.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/5KJjTVvl4ZDFJNHT5NV6etyBHCy.png",
   "tmdb_id": "253811",
@@ -73,7 +77,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1332/160147l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1243/154648l.webp"
     }
   },
   "broadcast": {
@@ -92,163 +96,163 @@
     {
       "episode": 1,
       "title": "Let the Training Begin",
-      "title_es": "Que comience el entrenamiento",
       "aired": "2026-10-02T23:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20896863ac7150e88c_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Que comience el entrenamiento"
     },
     {
       "episode": 2,
       "title": "The Path to Growing Strong",
-      "title_es": "El camino hacia el crecimiento fuerte",
       "aired": "2026-10-09T23:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/208968676542c664f9_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "El camino hacia el crecimiento fuerte"
     },
     {
       "episode": 3,
       "title": "Purpose",
-      "title_es": "Propósito",
       "aired": "2026-10-16T23:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/2089686907aedccb6f_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Propósito"
     },
     {
       "episode": 4,
       "title": "Child of Kishin: Hayate Todoroki",
-      "title_es": "Hijo de Kishin: Hayate Todoroki",
       "aired": "2026-10-23T23:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/2093523920a264f7c1_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Hijo de Kishin: Hayate Todoroki"
     },
     {
       "episode": 5,
       "title": "New Blood",
-      "title_es": "Sangre nueva",
       "aired": "2026-10-30T23:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20983931c18d04700c_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Sangre nueva"
     },
     {
       "episode": 6,
       "title": "Out of Focus",
-      "title_es": "Fuera de foco",
       "aired": "2026-11-06T23:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/21/210284538d6a3578f1_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Fuera de foco"
     },
     {
       "episode": 7,
       "title": "Episode 7",
-      "title_es": "Episodio 7",
       "aired": "2026-11-13T23:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/21/21071591d60cec4cef_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Episodio 7"
     },
     {
       "episode": 8,
       "title": "Episode 8",
-      "title_es": "Episodio 8",
       "aired": "2026-11-20T23:30:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 8"
     },
     {
       "episode": 9,
       "title": "Episode 9",
-      "title_es": "Episodio 9",
       "aired": "2026-11-27T23:30:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 9"
     },
     {
       "episode": 10,
       "title": "Episode 10",
-      "title_es": "Episodio 10",
       "aired": "2026-12-04T23:30:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 10"
     },
     {
       "episode": 11,
       "title": "Episode 11",
-      "title_es": "Episodio 11",
       "aired": "2026-12-11T23:30:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 11"
     },
     {
       "episode": 12,
       "title": "Episode 12",
-      "title_es": "Episodio 12",
       "aired": "2026-12-18T23:30:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 12"
     }
   ],
   "specials_data": [
     {
       "episode": 1,
       "title": "Special Recap: Kyoto Arc",
-      "title_es": "Resumen especial: Arco de Kioto",
       "aired": "2026-09-30T23:30:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Resumen especial: Arco de Kioto"
     },
     {
       "episode": 2,
       "title": "Special Recap: Nerima Arc",
-      "title_es": "Resumen especial: Arco de Nerima",
       "aired": "2026-10-01T23:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20976639ba29fb2fbc_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Resumen especial: Arco de Nerima"
     },
     {
       "episode": 3,
       "title": "Oni and Momo Too Episode 25",
-      "title_es": "Oni y Momo también Episodio 25",
       "aired": "2026-10-06T23:30:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Oni y Momo también Episodio 25"
     },
     {
       "episode": 4,
       "title": "Oni and Momo Too Episode 26",
-      "title_es": "Oni y Momo también Episodio 26",
       "aired": "2026-10-20T23:30:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Oni y Momo también Episodio 26"
     },
     {
       "episode": 5,
       "title": "Oni and Momo Too Episode 27",
-      "title_es": "Oni y Momo también Episodio 27",
       "aired": "2026-11-03T23:30:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Oni y Momo también Episodio 27"
     },
     {
       "episode": 6,
       "title": "Oni and Momo Too Episode 28",
-      "title_es": "Oni y Momo también Episodio 28",
       "aired": null,
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Oni y Momo también Episodio 28"
     },
     {
       "episode": 7,
       "title": "Oni and Momo Too Episode 29",
-      "title_es": "Oni y Momo también Episodio 29",
       "aired": null,
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Oni y Momo también Episodio 29"
     }
   ],
   "characters": [],
-  "num_scoring_users": 2990,
+  "num_scoring_users": 3010,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2025-12-26T16:58:44+00:00",
+  "updated_at": "2026-10-02T23:38:04+00:00",
   "source": "manga",
   "background": "Tougen Anki: Nikko Kegon no Taki-hen aired on Nippon TV's Friday Anime Night block.",
   "related_anime": [
@@ -293,12 +297,14 @@
   "recommendations": [],
   "statistics": {
     "status": {
-      "watching": "16139",
-      "completed": "9",
-      "on_hold": "445",
-      "dropped": "349",
-      "plan_to_watch": "20078"
+      "watching": "16212",
+      "completed": "6",
+      "on_hold": "449",
+      "dropped": "350",
+      "plan_to_watch": "20088"
     },
-    "num_list_users": 37020
-  }
+    "num_list_users": 37105
+  },
+  "mal_details_updated_at": "2026-11-15T17:13:28.351Z",
+  "translations_updated_at": "2026-11-15T17:24:51.661Z"
 }

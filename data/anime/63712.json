@@ -32,8 +32,8 @@
   "num_episodes": 12,
   "score": 6.59,
   "mean": 6.59,
-  "numListUsers": 30525,
-  "num_list_users": 30525,
+  "numListUsers": 30538,
+  "num_list_users": 30538,
   "genres": [
     {
       "id": 10,
@@ -58,7 +58,10 @@
       "name": "Bakkka"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1008/156031l.webp",
+    "https://cdn.myanimelist.net/images/anime/1760/159941l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/3knNVqZlEdwYPwYBWQechjvRzx0.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/rrfcUelVro1vO4vR9ZjE2vrUKNe.png",
   "tmdb_id": "316694",
@@ -75,7 +78,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1760/159941l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1008/156031l.webp"
     }
   },
   "broadcast": {
@@ -87,81 +90,81 @@
     "string": "monday 22:00"
   },
   "rank": 7556,
-  "popularity": 4768,
+  "popularity": 4765,
   "rating": "pg_13",
   "simkl_id": 3046168,
   "episodes_data": [
     {
       "episode": 1,
       "title": "So What's Wrong with Getting Reborn as a Goblin?",
-      "title_es": "Entonces, ¿qué hay de malo en renacer como duende?",
       "aired": "2026-10-05T22:00:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/208213891266ddd9fb_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Entonces, ¿qué hay de malo en renacer como duende?"
     },
     {
       "episode": 2,
       "title": "So What's Wrong with Meeting a Sly Old Fox?",
-      "title_es": "Entonces, ¿qué tiene de malo encontrarse con un viejo zorro astuto?",
       "aired": "2026-10-05T22:00:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20827361282003db77_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Entonces, ¿qué tiene de malo encontrarse con un viejo zorro astuto?"
     },
     {
       "episode": 3,
       "title": "So What's Wrong with Negotiating with Humans?",
-      "title_es": "Entonces, ¿qué hay de malo en negociar con los humanos?",
       "aired": "2026-10-12T22:00:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20871095fb45bf7dda_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Entonces, ¿qué hay de malo en negociar con los humanos?"
     },
     {
       "episode": 4,
       "title": "So What's Wrong with Being an Assassination Target?",
-      "title_es": "Entonces, ¿qué tiene de malo ser blanco de asesinato?",
       "aired": "2026-10-19T22:00:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/209161498d9effa361_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Entonces, ¿qué tiene de malo ser blanco de asesinato?"
     },
     {
       "episode": 5,
       "title": "So What's Wrong with Being Disliked by an Adolescent Elf?",
-      "title_es": "Entonces, ¿qué hay de malo en que un elfo adolescente no le guste?",
       "aired": "2026-10-26T22:00:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20961795c0e2d0e589_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Entonces, ¿qué hay de malo en que un elfo adolescente no le guste?"
     },
     {
       "episode": 6,
       "title": "So What's Wrong with Waging Wardrobe Warfare?",
-      "title_es": "Entonces, ¿qué hay de malo en librar una guerra de vestuario?",
       "aired": "2026-11-02T22:00:00+09:00",
       "thumbnail": "https://simkl.in/episodes/21/210087355916ff39d7_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Entonces, ¿qué hay de malo en librar una guerra de vestuario?"
     },
     {
       "episode": 7,
       "title": "Episode 7",
-      "title_es": "Episodio 7",
       "aired": "2026-11-16T22:00:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 7"
     },
     {
       "episode": 8,
       "title": "Episode 8",
-      "title_es": "Episodio 8",
       "aired": "2026-11-23T22:00:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 8"
     }
   ],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 4497,
+  "num_scoring_users": 4513,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2026-03-11T14:08:55+00:00",
+  "updated_at": "2026-11-14T20:27:57+00:00",
   "source": "web_manga",
   "background": null,
   "related_anime": [
@@ -194,12 +197,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "19849",
-      "completed": "3",
-      "on_hold": "368",
-      "dropped": "1193",
-      "plan_to_watch": "9043"
+      "watching": "19903",
+      "completed": "1",
+      "on_hold": "369",
+      "dropped": "1198",
+      "plan_to_watch": "9065"
     },
-    "num_list_users": 30456
-  }
+    "num_list_users": 30536
+  },
+  "mal_details_updated_at": "2026-11-15T17:14:40.901Z",
+  "translations_updated_at": "2026-11-15T17:24:56.829Z"
 }

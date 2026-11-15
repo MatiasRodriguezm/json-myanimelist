@@ -33,8 +33,8 @@
   "num_episodes": 4,
   "score": 8.69,
   "mean": 8.69,
-  "numListUsers": 295150,
-  "num_list_users": 295150,
+  "numListUsers": 295151,
+  "num_list_users": 295151,
   "genres": [
     {
       "id": 1,
@@ -71,7 +71,20 @@
       "name": "Studio Deen"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/4/7076l.webp",
+    "https://cdn.myanimelist.net/images/anime/7/9565l.webp",
+    "https://cdn.myanimelist.net/images/anime/12/9566l.webp",
+    "https://cdn.myanimelist.net/images/anime/9/13160l.webp",
+    "https://cdn.myanimelist.net/images/anime/3/36133l.webp",
+    "https://cdn.myanimelist.net/images/anime/3/83143l.webp",
+    "https://cdn.myanimelist.net/images/anime/1899/94562l.webp",
+    "https://cdn.myanimelist.net/images/anime/1807/102419l.webp",
+    "https://cdn.myanimelist.net/images/anime/1391/120839l.webp",
+    "https://cdn.myanimelist.net/images/anime/1656/137618l.webp",
+    "https://cdn.myanimelist.net/images/anime/1595/137749l.webp",
+    "https://cdn.myanimelist.net/images/anime/1798/141803l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/xogL7RDFo7c21nrGDabYT9FFzTH.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/y6wr1ukaqRzWRlRUBahkyAB1SNT.png",
   "tmdb_id": "28136",
@@ -88,11 +101,11 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1656/137618l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/4/7076l.webp"
     }
   },
   "broadcast": null,
-  "rank": 71,
+  "rank": 70,
   "popularity": 976,
   "rating": "r",
   "simkl_id": 39604,
@@ -141,10 +154,10 @@
     }
   ],
   "characters": [],
-  "num_scoring_users": 145178,
+  "num_scoring_users": 145191,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2005-11-11T05:54:34+00:00",
+  "updated_at": "2023-12-14T09:55:38+00:00",
   "source": "manga",
   "background": null,
   "related_anime": [
@@ -168,8 +181,8 @@
         "id": 67,
         "title": "Basilisk: Kouga Ninpou Chou",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1103/133549.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1103/133549l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1103/133549.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1103/133549l.jpg"
         }
       },
       "num_recommendations": 9
@@ -179,8 +192,8 @@
         "id": 617,
         "title": "Juubee Ninpuuchou",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1520/145971.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1520/145971l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1520/145971.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1520/145971l.jpg"
         }
       },
       "num_recommendations": 5
@@ -223,8 +236,8 @@
         "id": 2216,
         "title": "Shigurui",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1440/115872.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1440/115872l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1440/115872.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1440/115872l.webp"
         }
       },
       "num_recommendations": 3
@@ -234,8 +247,8 @@
         "id": 570,
         "title": "Jin-Rou",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1323/103343.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1323/103343l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1323/103343.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1323/103343l.webp"
         }
       },
       "num_recommendations": 3
@@ -276,12 +289,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "10878",
-      "completed": "188195",
-      "on_hold": "4002",
-      "dropped": "2672",
-      "plan_to_watch": "89304"
+      "watching": "10879",
+      "completed": "188215",
+      "on_hold": "4003",
+      "dropped": "2673",
+      "plan_to_watch": "89320"
     },
-    "num_list_users": 295051
-  }
+    "num_list_users": 295090
+  },
+  "mal_details_updated_at": "2026-11-15T17:20:25.330Z",
+  "translations_updated_at": "2026-11-15T17:24:02.478Z"
 }

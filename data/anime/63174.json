@@ -32,8 +32,8 @@
   "num_episodes": null,
   "score": null,
   "mean": null,
-  "numListUsers": 20637,
-  "num_list_users": 20637,
+  "numListUsers": 20656,
+  "num_list_users": 20656,
   "genres": [
     {
       "id": 4,
@@ -54,11 +54,13 @@
       "name": "SynergySP"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1678/154623l.webp"
+  ],
   "backdrop_url": null,
   "logo_url": "https://image.tmdb.org/t/p/w300/9p78tIGQHH2WrTTn6yeLAf9Y6FI.png",
   "tmdb_id": "309176",
-  "tmdb_updated_at": "2026-11-15T13:05:14.498Z",
+  "tmdb_updated_at": "2026-11-15T17:16:58.683Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1678/154623.webp",
@@ -83,25 +85,25 @@
     "string": "friday 00:26"
   },
   "rank": null,
-  "popularity": 5612,
+  "popularity": 5607,
   "rating": null,
   "simkl_id": 2975270,
   "episodes_data": [
     {
       "episode": 1,
       "title": "Episode 1",
-      "title_es": "Episodio 1",
       "aired": "2027-01-07T00:26:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 1"
     }
   ],
   "specials_data": [],
   "characters": [],
   "num_scoring_users": null,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2025-12-25T09:23:11+00:00",
+  "updated_at": "2026-10-15T10:16:29+00:00",
   "source": "web_manga",
   "background": "Jirai nan desu ka? Chihara-san aired on MBS and TBS' Super Animeism Turbo block.",
   "related_anime": [],
@@ -109,12 +111,14 @@
   "recommendations": [],
   "statistics": {
     "status": {
-      "watching": "8",
+      "watching": "2",
       "completed": 0,
-      "on_hold": "3",
+      "on_hold": "1",
       "dropped": 0,
-      "plan_to_watch": "20579"
+      "plan_to_watch": "20652"
     },
-    "num_list_users": 20590
-  }
+    "num_list_users": 20655
+  },
+  "mal_details_updated_at": "2026-11-15T17:16:58.270Z",
+  "translations_updated_at": "2026-11-15T17:24:51.379Z"
 }

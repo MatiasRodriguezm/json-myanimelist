@@ -32,8 +32,8 @@
   "num_episodes": 47,
   "score": 8.83,
   "mean": 8.83,
-  "numListUsers": 71512,
-  "num_list_users": 71512,
+  "numListUsers": 71517,
+  "num_list_users": 71517,
   "genres": [
     {
       "id": 54,
@@ -58,7 +58,21 @@
       "name": "Tokyo Movie Shinsha"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/13/21340l.webp",
+    "https://cdn.myanimelist.net/images/anime/3/45028l.webp",
+    "https://cdn.myanimelist.net/images/anime/4/51807l.webp",
+    "https://cdn.myanimelist.net/images/anime/7/52187l.webp",
+    "https://cdn.myanimelist.net/images/anime/11/52189l.webp",
+    "https://cdn.myanimelist.net/images/anime/13/52191l.webp",
+    "https://cdn.myanimelist.net/images/anime/2/52193l.webp",
+    "https://cdn.myanimelist.net/images/anime/3/52195l.webp",
+    "https://cdn.myanimelist.net/images/anime/9/52197l.webp",
+    "https://cdn.myanimelist.net/images/anime/1358/92766l.webp",
+    "https://cdn.myanimelist.net/images/anime/1566/96747l.webp",
+    "https://cdn.myanimelist.net/images/anime/1685/96867l.webp",
+    "https://cdn.myanimelist.net/images/anime/1746/135424l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/tFwx94xIVKI5heRXdcmYLoI0GhU.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/iRrnxsatHRAjyntZUFRtgcIEgXh.png",
   "tmdb_id": "25117",
@@ -75,11 +89,11 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/3/45028l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/13/21340l.webp"
     }
   },
   "broadcast": null,
-  "rank": 37,
+  "rank": 34,
   "popularity": 3038,
   "rating": "pg_13",
   "simkl_id": 36725,
@@ -463,10 +477,10 @@
   ],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 27710,
+  "num_scoring_users": 27762,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2007-08-05T11:33:15+00:00",
+  "updated_at": "2023-01-06T15:14:22+00:00",
   "source": "manga",
   "background": null,
   "related_anime": [
@@ -502,8 +516,8 @@
         "id": 263,
         "title": "Hajime no Ippo",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/4/86334.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/4/86334l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/4/86334.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/4/86334l.webp"
         }
       },
       "num_recommendations": 2
@@ -513,8 +527,8 @@
         "id": 1,
         "title": "Cowboy Bebop",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/4/19644.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/4/19644l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/4/19644.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/4/19644l.webp"
         }
       },
       "num_recommendations": 2
@@ -577,12 +591,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "5653",
-      "completed": "33287",
-      "on_hold": "1401",
-      "dropped": "1495",
-      "plan_to_watch": "29556"
+      "watching": "5669",
+      "completed": "33341",
+      "on_hold": "1403",
+      "dropped": "1497",
+      "plan_to_watch": "29577"
     },
-    "num_list_users": 71392
-  }
+    "num_list_users": 71487
+  },
+  "mal_details_updated_at": "2026-11-15T17:19:57.048Z",
+  "translations_updated_at": "2026-11-15T17:24:00.175Z"
 }

@@ -32,8 +32,8 @@
   "num_episodes": 7,
   "score": 8.86,
   "mean": 8.86,
-  "numListUsers": 444688,
-  "num_list_users": 444688,
+  "numListUsers": 444695,
+  "num_list_users": 444695,
   "genres": [
     {
       "id": 4,
@@ -58,7 +58,13 @@
       "name": "Shaft"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/6/87322l.webp",
+    "https://cdn.myanimelist.net/images/anime/2/89401l.webp",
+    "https://cdn.myanimelist.net/images/anime/1239/96206l.webp",
+    "https://cdn.myanimelist.net/images/anime/1317/122614l.webp",
+    "https://cdn.myanimelist.net/images/anime/1684/142420l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/cHII6sQ91q8H5EMONKCwCQMauCP.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/1PloWpJba8A3I0x8Ry92IGYromk.png",
   "tmdb_id": "46195",
@@ -120,10 +126,10 @@
     }
   ],
   "characters": [],
-  "num_scoring_users": 214019,
+  "num_scoring_users": 214096,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2017-03-25T01:32:08+00:00",
+  "updated_at": "2024-02-04T16:41:33+00:00",
   "source": "light_novel",
   "background": "Owarimonogatari 2nd Season adapts the fifth volume of NisiOisiN's Monogatari Series: Final Season.",
   "related_anime": [
@@ -168,12 +174,14 @@
   "recommendations": [],
   "statistics": {
     "status": {
-      "watching": "19369",
-      "completed": "272012",
-      "on_hold": "5736",
-      "dropped": "3157",
-      "plan_to_watch": "144154"
+      "watching": "19386",
+      "completed": "272106",
+      "on_hold": "5740",
+      "dropped": "3164",
+      "plan_to_watch": "144190"
     },
-    "num_list_users": 444428
-  }
+    "num_list_users": 444586
+  },
+  "mal_details_updated_at": "2026-11-15T17:19:55.213Z",
+  "translations_updated_at": "2026-11-15T17:23:59.880Z"
 }

@@ -30,8 +30,8 @@
   "num_episodes": 6,
   "score": 8.03,
   "mean": 8.03,
-  "numListUsers": 72558,
-  "num_list_users": 72558,
+  "numListUsers": 72562,
+  "num_list_users": 72562,
   "genres": [
     {
       "id": 8,
@@ -60,7 +60,19 @@
       "name": "Sunrise"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1/82l.webp",
+    "https://cdn.myanimelist.net/images/anime/8/11021l.webp",
+    "https://cdn.myanimelist.net/images/anime/12/12477l.webp",
+    "https://cdn.myanimelist.net/images/anime/5/72881l.webp",
+    "https://cdn.myanimelist.net/images/anime/1839/92857l.webp",
+    "https://cdn.myanimelist.net/images/anime/1166/94378l.webp",
+    "https://cdn.myanimelist.net/images/anime/1088/96223l.webp",
+    "https://cdn.myanimelist.net/images/anime/1010/96224l.webp",
+    "https://cdn.myanimelist.net/images/anime/1518/97601l.webp",
+    "https://cdn.myanimelist.net/images/anime/1822/127519l.webp",
+    "https://cdn.myanimelist.net/images/anime/1552/147570l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/21fk0W388vXQ4TpQ2iZgGzXqwru.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/xIUu0SZZpO6r1tAUaGWWjt9f5ll.png",
   "tmdb_id": "46512",
@@ -77,12 +89,12 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1839/92857l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1/82l.webp"
     }
   },
   "broadcast": null,
-  "rank": 721,
-  "popularity": 3015,
+  "rank": 720,
+  "popularity": 3014,
   "rating": "pg_13",
   "simkl_id": 40436,
   "episodes_data": [
@@ -146,10 +158,10 @@
     }
   ],
   "characters": [],
-  "num_scoring_users": 40013,
+  "num_scoring_users": 40054,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2005-11-11T13:36:33+00:00",
+  "updated_at": "2025-10-17T21:45:51+00:00",
   "source": "original",
   "background": "Mobile Suit Gundam 0080: War in the Pocket was a project made to commemorate the 10th anniversary of the franchise. It marked the first time someone other than Yoshiyuki Tomino had directed a Gundam project, with Fumihiko Takayama acting as lead director.",
   "related_anime": [
@@ -182,8 +194,8 @@
         "id": 84,
         "title": "Kidou Senshi Gundam 0083: Stardust Memory",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1404/106449.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1404/106449l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1404/106449.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1404/106449l.webp"
         }
       },
       "relation_type": "sequel",
@@ -220,8 +232,8 @@
         "id": 37521,
         "title": "Vinland Saga",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1500/103005.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1500/103005l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1500/103005.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1500/103005l.jpg"
         }
       },
       "num_recommendations": 2
@@ -286,8 +298,8 @@
         "id": 949,
         "title": "Top wo Nerae! Gunbuster",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1303/92309.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1303/92309l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1303/92309.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1303/92309l.jpg"
         }
       },
       "num_recommendations": 1
@@ -318,11 +330,13 @@
   "statistics": {
     "status": {
       "watching": "2243",
-      "completed": "50637",
-      "on_hold": "897",
+      "completed": "50690",
+      "on_hold": "896",
       "dropped": "616",
       "plan_to_watch": "18086"
     },
-    "num_list_users": 72479
-  }
+    "num_list_users": 72531
+  },
+  "mal_details_updated_at": "2026-11-15T17:21:36.223Z",
+  "translations_updated_at": "2026-11-15T17:25:12.981Z"
 }

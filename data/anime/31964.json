@@ -56,7 +56,19 @@
       "name": "Bones"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/9/76970l.webp",
+    "https://cdn.myanimelist.net/images/anime/2/77692l.webp",
+    "https://cdn.myanimelist.net/images/anime/10/78745l.webp",
+    "https://cdn.myanimelist.net/images/anime/1109/92566l.webp",
+    "https://cdn.myanimelist.net/images/anime/1618/92567l.webp",
+    "https://cdn.myanimelist.net/images/anime/1600/92568l.webp",
+    "https://cdn.myanimelist.net/images/anime/1262/92569l.webp",
+    "https://cdn.myanimelist.net/images/anime/1949/92570l.webp",
+    "https://cdn.myanimelist.net/images/anime/1985/96688l.webp",
+    "https://cdn.myanimelist.net/images/anime/1136/114625l.webp",
+    "https://cdn.myanimelist.net/images/anime/1647/114626l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/3ILMlmC30QUnYkY3XEBOyJ82Dqu.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/ztteKox6S97uwEuEF2lsaFxaJmg.png",
   "tmdb_id": "65930",
@@ -73,7 +85,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/10/78745l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/9/76970l.webp"
     }
   },
   "broadcast": {
@@ -84,7 +96,7 @@
     "timezone": "Asia/Tokyo",
     "string": "sunday 17:00"
   },
-  "rank": 1125,
+  "rank": 1126,
   "popularity": 6,
   "rating": "pg_13",
   "simkl_id": 532942,
@@ -333,10 +345,10 @@
     }
   ],
   "characters": [],
-  "num_scoring_users": 2277148,
+  "num_scoring_users": 2277988,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2015-10-27T08:31:53+00:00",
+  "updated_at": "2025-11-09T23:52:28+00:00",
   "source": "manga",
   "background": "Mangaka Kouhei Horikoshi has noted that American superhero comics are the inspiration for the series, and has based character pages on logos for Marvel and DC comic characters.",
   "related_anime": [
@@ -407,8 +419,8 @@
         "id": 34572,
         "title": "Black Clover",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/2/88336.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/2/88336l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/2/88336.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/2/88336l.webp"
         }
       },
       "num_recommendations": 48
@@ -429,8 +441,8 @@
         "id": 24833,
         "title": "Ansatsu Kyoushitsu",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/5/75639.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/5/75639l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/5/75639.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/5/75639l.webp"
         }
       },
       "num_recommendations": 28
@@ -473,8 +485,8 @@
         "id": 33489,
         "title": "Little Witch Academia (TV)",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1520/147248.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1520/147248l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1520/147248.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1520/147248l.jpg"
         }
       },
       "num_recommendations": 21
@@ -504,12 +516,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "147821",
-      "completed": "2947393",
-      "on_hold": "34410",
-      "dropped": "52297",
-      "plan_to_watch": "185232"
+      "watching": "147891",
+      "completed": "2948710",
+      "on_hold": "34443",
+      "dropped": "52340",
+      "plan_to_watch": "185298"
     },
-    "num_list_users": 3367153
-  }
+    "num_list_users": 3368682
+  },
+  "mal_details_updated_at": "2026-11-15T17:18:07.769Z",
+  "translations_updated_at": "2026-11-15T17:23:29.894Z"
 }

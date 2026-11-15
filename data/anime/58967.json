@@ -27,8 +27,8 @@
   "num_episodes": 1,
   "score": null,
   "mean": null,
-  "numListUsers": 57975,
-  "num_list_users": 57975,
+  "numListUsers": 57983,
+  "num_list_users": 57983,
   "genres": [
     {
       "id": 23,
@@ -53,11 +53,15 @@
       "name": "Production I.G"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1767/148248l.webp",
+    "https://cdn.myanimelist.net/images/anime/1633/159618l.webp",
+    "https://cdn.myanimelist.net/images/anime/1970/159635l.webp"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T13:05:44.716Z",
+  "tmdb_updated_at": "2026-11-15T17:19:33.141Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1970/159635.webp",
@@ -70,7 +74,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1970/159635l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1767/148248l.webp"
     }
   },
   "broadcast": null,
@@ -82,35 +86,35 @@
     {
       "episode": 1,
       "title": "The Dumpster Battle",
-      "title_es": "La batalla del contenedor de basura",
       "aired": "2024-02-16T00:00:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/17541637ba5b727463_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "La batalla del contenedor de basura"
     },
     {
       "episode": 2,
       "title": "Movie 2",
-      "title_es": "Película 2",
       "aired": null,
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Película 2"
     }
   ],
   "specials_data": [
     {
       "episode": 1,
       "title": "Episode S1",
-      "title_es": "Episodio T1",
       "aired": "2024-02-17T00:00:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio T1"
     }
   ],
   "characters": [],
   "num_scoring_users": 1,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2024-05-31T07:10:08+00:00",
+  "updated_at": "2026-08-19T23:57:59+00:00",
   "source": "manga",
   "background": null,
   "related_anime": [
@@ -119,8 +123,8 @@
         "id": 52742,
         "title": "Haikyuu!! Movie: Gomisuteba no Kessen",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1665/140360.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1665/140360l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1665/140360.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1665/140360l.jpg"
         }
       },
       "relation_type": "prequel",
@@ -133,10 +137,12 @@
     "status": {
       "watching": "2",
       "completed": 0,
-      "on_hold": "2",
+      "on_hold": "1",
       "dropped": 0,
-      "plan_to_watch": "57957"
+      "plan_to_watch": "57980"
     },
-    "num_list_users": 57961
-  }
+    "num_list_users": 57983
+  },
+  "mal_details_updated_at": "2026-11-15T17:19:32.465Z",
+  "translations_updated_at": "2026-11-15T17:24:30.591Z"
 }

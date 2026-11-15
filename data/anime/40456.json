@@ -34,8 +34,8 @@
   "num_episodes": 1,
   "score": 8.53,
   "mean": 8.53,
-  "numListUsers": 1823679,
-  "num_list_users": 1823679,
+  "numListUsers": 1823725,
+  "num_list_users": 1823725,
   "genres": [
     {
       "id": 1,
@@ -60,7 +60,16 @@
       "name": "ufotable"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1238/103624l.webp",
+    "https://cdn.myanimelist.net/images/anime/1286/106641l.webp",
+    "https://cdn.myanimelist.net/images/anime/1704/106947l.webp",
+    "https://cdn.myanimelist.net/images/anime/1191/108738l.webp",
+    "https://cdn.myanimelist.net/images/anime/1629/110558l.webp",
+    "https://cdn.myanimelist.net/images/anime/1840/114334l.webp",
+    "https://cdn.myanimelist.net/images/anime/1015/114572l.webp",
+    "https://cdn.myanimelist.net/images/anime/1209/116449l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/qjGrUmKW78MCFG8PTLDBp67S27p.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/xhPL1PDIweY7WTHC4fwGYgtGzvU.png",
   "tmdb_id": "635302",
@@ -77,11 +86,11 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1704/106947l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1238/103624l.webp"
     }
   },
   "broadcast": null,
-  "rank": 147,
+  "rank": 148,
   "popularity": 63,
   "rating": "r",
   "simkl_id": 1176707,
@@ -97,10 +106,10 @@
   ],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 1210051,
+  "num_scoring_users": 1210755,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2019-09-28T17:30:35+00:00",
+  "updated_at": "2024-10-07T21:32:35+00:00",
   "source": "manga",
   "background": "The worldwide box office total for Kimetsu no Yaiba Movie: Mugen Ressha-hen is over $503 million from more than 41 million tickets sold, making it the highest-grossing film of 2020 as well as the highest-grossing anime and Japanese film of all time. It was the first time in the history of cinema that a non-Hollywood production topped the annual worldwide box office. It also became the highest-grossing R-rated animated film of all time. ",
   "related_anime": [
@@ -148,8 +157,8 @@
         "id": 13667,
         "title": "Naruto: Shippuuden Movie 6 - Road to Ninja",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1620/94336.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1620/94336l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1620/94336.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1620/94336l.webp"
         }
       },
       "num_recommendations": 1
@@ -170,8 +179,8 @@
         "id": 10417,
         "title": "Gyo",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/9/31905.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/9/31905l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/9/31905.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/9/31905l.jpg"
         }
       },
       "num_recommendations": 1
@@ -181,8 +190,8 @@
         "id": 32281,
         "title": "Kimi no Na wa.",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/5/87048.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/5/87048l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/5/87048.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/5/87048l.webp"
         }
       },
       "num_recommendations": 1
@@ -201,12 +210,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "32081",
-      "completed": "1604165",
-      "on_hold": "3832",
-      "dropped": "2696",
-      "plan_to_watch": "179742"
+      "watching": "32100",
+      "completed": "1605249",
+      "on_hold": "3828",
+      "dropped": "2698",
+      "plan_to_watch": "179736"
     },
-    "num_list_users": 1822516
-  }
+    "num_list_users": 1823611
+  },
+  "mal_details_updated_at": "2026-11-15T17:20:16.777Z",
+  "translations_updated_at": "2026-11-15T17:23:50.998Z"
 }

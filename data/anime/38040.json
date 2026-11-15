@@ -33,8 +33,8 @@
   "num_episodes": 1,
   "score": 8.4,
   "mean": 8.4,
-  "numListUsers": 908777,
-  "num_list_users": 908777,
+  "numListUsers": 908800,
+  "num_list_users": 908800,
   "genres": [
     {
       "id": 2,
@@ -63,7 +63,12 @@
       "name": "J.C.Staff"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1892/93231l.webp",
+    "https://cdn.myanimelist.net/images/anime/1907/96074l.webp",
+    "https://cdn.myanimelist.net/images/anime/1129/117109l.webp",
+    "https://cdn.myanimelist.net/images/anime/1638/119321l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/wqpTrmGiqMJ6onAq3zrBhfomIJl.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/ruE6Hfmoogfx0UKoXc8H6a3oq8M.png",
   "tmdb_id": "532067",
@@ -80,11 +85,11 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1638/119321l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1892/93231l.webp"
     }
   },
   "broadcast": null,
-  "rank": 234,
+  "rank": 236,
   "popularity": 237,
   "rating": "pg_13",
   "simkl_id": 704879,
@@ -100,10 +105,10 @@
   ],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 574107,
+  "num_scoring_users": 574376,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2018-07-21T22:12:10+00:00",
+  "updated_at": "2024-04-02T21:02:28+00:00",
   "source": "light_novel",
   "background": "Kono Subarashii Sekai ni Shukufuku wo!: Kurenai Densetsu adapts volume 5 of Natsume Akatsuki's light novel series of the same name. ",
   "related_anime": [
@@ -112,8 +117,8 @@
         "id": 32937,
         "title": "Kono Subarashii Sekai ni Shukufuku wo! 2",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/2/83188.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/2/83188l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/2/83188.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/2/83188l.webp"
         }
       },
       "relation_type": "prequel",
@@ -148,12 +153,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "20751",
-      "completed": "752757",
-      "on_hold": "4473",
-      "dropped": "3837",
-      "plan_to_watch": "126337"
+      "watching": "20759",
+      "completed": "753189",
+      "on_hold": "4474",
+      "dropped": "3839",
+      "plan_to_watch": "126369"
     },
-    "num_list_users": 908155
-  }
+    "num_list_users": 908630
+  },
+  "mal_details_updated_at": "2026-11-15T17:20:23.304Z",
+  "translations_updated_at": "2026-11-15T17:23:55.155Z"
 }

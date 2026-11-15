@@ -33,8 +33,8 @@
   "num_episodes": 12,
   "score": 7,
   "mean": 7,
-  "numListUsers": 62582,
-  "num_list_users": 62582,
+  "numListUsers": 62603,
+  "num_list_users": 62603,
   "genres": [
     {
       "id": 1,
@@ -59,7 +59,13 @@
       "name": "Arvo Animation"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1988/140571l.webp",
+    "https://cdn.myanimelist.net/images/anime/1068/158401l.webp",
+    "https://cdn.myanimelist.net/images/anime/1137/158402l.webp",
+    "https://cdn.myanimelist.net/images/anime/1422/160051l.webp",
+    "https://cdn.myanimelist.net/images/anime/1740/160052l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/2KKDIwALX3HJWCjeDnvLa3Ag6ki.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/ah6wYzvs50YeR5PpMUjWKCknako.png",
   "tmdb_id": "230050",
@@ -76,7 +82,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1740/160052l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1988/140571l.webp"
     }
   },
   "broadcast": {
@@ -87,7 +93,7 @@
     "timezone": "Asia/Tokyo",
     "string": "thursday 00:45"
   },
-  "rank": 4931,
+  "rank": 4932,
   "popularity": 3284,
   "rating": "pg_13",
   "simkl_id": 2330432,
@@ -95,74 +101,74 @@
     {
       "episode": 1,
       "title": "Into the Shadow",
-      "title_es": "Hacia la sombra",
       "aired": "2026-10-08T00:45:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20840453318ed3740a_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Hacia la sombra"
     },
     {
       "episode": 2,
       "title": "Judgment",
-      "title_es": "Sentencia",
       "aired": "2026-10-15T00:45:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20884325fd576020ff_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Sentencia"
     },
     {
       "episode": 3,
       "title": "Yellow Ocean",
-      "title_es": "Océano Amarillo",
       "aired": "2026-10-22T00:45:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20929759056da8ea60_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Océano Amarillo"
     },
     {
       "episode": 4,
       "title": "Beginning",
-      "title_es": "Comienzo",
       "aired": "2026-10-29T00:45:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/2096236387397b4490_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Comienzo"
     },
     {
       "episode": 5,
       "title": "Error",
-      "title_es": "Error",
       "aired": "2026-11-05T00:45:00+09:00",
       "thumbnail": "https://simkl.in/episodes/21/21016379d29d7eb21c_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Error"
     },
     {
       "episode": 6,
       "title": "Episode 6",
-      "title_es": "Episodio 6",
       "aired": "2026-11-12T00:45:00+09:00",
       "thumbnail": "https://simkl.in/episodes/21/210529371a96ea2517_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Episodio 6"
     },
     {
       "episode": 7,
       "title": "Episode 7",
-      "title_es": "Episodio 7",
       "aired": "2026-11-19T00:45:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 7"
     },
     {
       "episode": 8,
       "title": "Episode 8",
-      "title_es": "Episodio 8",
       "aired": "2026-11-26T00:45:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 8"
     }
   ],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 3566,
+  "num_scoring_users": 3595,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2023-12-23T15:56:39+00:00",
+  "updated_at": "2026-11-14T20:20:51+00:00",
   "source": "web_manga",
   "background": "Kikansha no Mahou wa Tokubetsu desu 2nd Season aired on Fuji TV's +Ultra block.",
   "related_anime": [
@@ -183,12 +189,14 @@
   "recommendations": [],
   "statistics": {
     "status": {
-      "watching": "20856",
+      "watching": "20940",
       "completed": "4",
-      "on_hold": "617",
-      "dropped": "728",
-      "plan_to_watch": "40305"
+      "on_hold": "623",
+      "dropped": "733",
+      "plan_to_watch": "40298"
     },
-    "num_list_users": 62510
-  }
+    "num_list_users": 62598
+  },
+  "mal_details_updated_at": "2026-11-15T17:13:33.076Z",
+  "translations_updated_at": "2026-11-15T17:24:29.680Z"
 }

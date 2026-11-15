@@ -63,7 +63,14 @@
       "name": "Studio Deen"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1/401l.webp",
+    "https://cdn.myanimelist.net/images/anime/13/28895l.webp",
+    "https://cdn.myanimelist.net/images/anime/1971/90877l.webp",
+    "https://cdn.myanimelist.net/images/anime/1421/92658l.webp",
+    "https://cdn.myanimelist.net/images/anime/1489/120837l.webp",
+    "https://cdn.myanimelist.net/images/anime/1458/154800l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/xogL7RDFo7c21nrGDabYT9FFzTH.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/y6wr1ukaqRzWRlRUBahkyAB1SNT.png",
   "tmdb_id": "28136",
@@ -80,11 +87,11 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1971/90877l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1/401l.webp"
     }
   },
   "broadcast": null,
-  "rank": 821,
+  "rank": 822,
   "popularity": 2634,
   "rating": "r",
   "simkl_id": 40937,
@@ -108,10 +115,10 @@
   ],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 48726,
+  "num_scoring_users": 48731,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2005-12-23T20:22:37+00:00",
+  "updated_at": "2022-04-17T23:11:04+00:00",
   "source": "manga",
   "background": null,
   "related_anime": [
@@ -135,8 +142,8 @@
         "id": 617,
         "title": "Juubee Ninpuuchou",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1520/145971.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1520/145971l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1520/145971.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1520/145971l.jpg"
         }
       },
       "num_recommendations": 2
@@ -146,8 +153,8 @@
         "id": 4981,
         "title": "Casshern Sins",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/8/23336.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/8/23336l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/8/23336.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/8/23336l.webp"
         }
       },
       "num_recommendations": 1
@@ -168,8 +175,8 @@
         "id": 18153,
         "title": "Kyoukai no Kanata",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/3/85468.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/3/85468l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/3/85468.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/3/85468l.jpg"
         }
       },
       "num_recommendations": 1
@@ -199,12 +206,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "1882",
-      "completed": "67798",
-      "on_hold": "894",
+      "watching": "1883",
+      "completed": "67806",
+      "on_hold": "893",
       "dropped": "637",
-      "plan_to_watch": "19279"
+      "plan_to_watch": "19280"
     },
-    "num_list_users": 90490
-  }
+    "num_list_users": 90499
+  },
+  "mal_details_updated_at": "2026-11-15T17:21:40.463Z",
+  "translations_updated_at": "2026-11-15T17:24:23.442Z"
 }

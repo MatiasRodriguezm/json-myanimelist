@@ -33,8 +33,8 @@
   "num_episodes": null,
   "score": null,
   "mean": null,
-  "numListUsers": 50696,
-  "num_list_users": 50696,
+  "numListUsers": 50731,
+  "num_list_users": 50731,
   "genres": [
     {
       "id": 1,
@@ -67,11 +67,14 @@
       "name": "J.C.Staff"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1970/154694l.webp",
+    "https://cdn.myanimelist.net/images/anime/1008/160499l.webp"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T13:05:11.965Z",
+  "tmdb_updated_at": "2026-11-15T17:16:53.739Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1008/160499.webp",
@@ -84,30 +87,30 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1008/160499l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1970/154694l.webp"
     }
   },
   "broadcast": null,
   "rank": null,
-  "popularity": 3689,
+  "popularity": 3688,
   "rating": "r",
   "simkl_id": 2978034,
   "episodes_data": [
     {
       "episode": 1,
       "title": "Episode 1",
-      "title_es": "Episodio 1",
       "aired": "2027-01-01T00:00:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 1"
     }
   ],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 2,
+  "num_scoring_users": 1,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2025-12-28T18:43:57+00:00",
+  "updated_at": "2025-12-28T18:45:30+00:00",
   "source": "web_manga",
   "background": null,
   "related_anime": [
@@ -116,8 +119,8 @@
         "id": 52807,
         "title": "One Punch Man 3",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1168/148347.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1168/148347l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1168/148347.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1168/148347l.jpg"
         }
       },
       "relation_type": "prequel",
@@ -128,12 +131,14 @@
   "recommendations": [],
   "statistics": {
     "status": {
-      "watching": "9",
-      "completed": "2",
+      "watching": "3",
+      "completed": "1",
       "on_hold": "4",
-      "dropped": "2",
-      "plan_to_watch": "50632"
+      "dropped": 0,
+      "plan_to_watch": "50723"
     },
-    "num_list_users": 50649
-  }
+    "num_list_users": 50731
+  },
+  "mal_details_updated_at": "2026-11-15T17:16:53.258Z",
+  "translations_updated_at": "2026-11-15T17:24:51.863Z"
 }

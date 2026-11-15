@@ -33,8 +33,8 @@
   "num_episodes": 12,
   "score": 6.67,
   "mean": 6.67,
-  "numListUsers": 34935,
-  "num_list_users": 34935,
+  "numListUsers": 34965,
+  "num_list_users": 34965,
   "genres": [
     {
       "id": 4,
@@ -51,7 +51,11 @@
       "name": "Tezuka Productions"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1001/156154l.webp",
+    "https://cdn.myanimelist.net/images/anime/1598/158730l.webp",
+    "https://cdn.myanimelist.net/images/anime/1160/160129l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/ukHKDQO3ILHEAsZ6uXRCeT7tKlO.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/x7SnoIng0q5GyAO9AN8QhX6JPEi.png",
   "tmdb_id": "316891",
@@ -68,7 +72,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1160/160129l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1001/156154l.webp"
     }
   },
   "broadcast": {
@@ -79,82 +83,82 @@
     "timezone": "Asia/Tokyo",
     "string": "tuesday 20:30"
   },
-  "rank": 6943,
-  "popularity": 4493,
+  "rank": 7001,
+  "popularity": 4488,
   "rating": "pg_13",
   "simkl_id": 3054050,
   "episodes_data": [
     {
       "episode": 1,
       "title": "The Cold Sato-San",
-      "title_es": "El frío Sato-San",
       "aired": "2026-10-06T20:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20827967002a29fb47_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "El frío Sato-San"
     },
     {
       "episode": 2,
       "title": "A Second First Love",
-      "title_es": "Un segundo primer amor",
       "aired": "2026-10-13T20:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20877275d2f4b1ddca_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Un segundo primer amor"
     },
     {
       "episode": 3,
       "title": "The End of Their Mutual Crush",
-      "title_es": "El fin de su mutuo enamoramiento",
       "aired": "2026-10-20T20:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20916781b3fb0d7362_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "El fin de su mutuo enamoramiento"
     },
     {
       "episode": 4,
       "title": "Magic",
-      "title_es": "Magia",
       "aired": "2026-10-27T20:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/209623652b4564f404_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Magia"
     },
     {
       "episode": 5,
       "title": "Now Serving: Mutual Feelings",
-      "title_es": "Ahora en servicio: Sentimientos mutuos",
       "aired": "2026-11-03T20:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/21/210096610b94caaa0c_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Ahora en servicio: Sentimientos mutuos"
     },
     {
       "episode": 6,
       "title": "Episode 6",
-      "title_es": "Episodio 6",
       "aired": "2026-11-10T20:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/21/21052895fc6406eba0_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Episodio 6"
     },
     {
       "episode": 7,
       "title": "Episode 7",
-      "title_es": "Episodio 7",
       "aired": "2026-11-17T20:30:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 7"
     },
     {
       "episode": 8,
       "title": "Episode 8",
-      "title_es": "Episodio 8",
       "aired": "2026-11-24T20:30:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 8"
     }
   ],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 4363,
+  "num_scoring_users": 4393,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2026-03-18T12:09:37+00:00",
+  "updated_at": "2026-11-14T20:23:38+00:00",
   "source": "light_novel",
   "background": null,
   "related_anime": [],
@@ -162,12 +166,14 @@
   "recommendations": [],
   "statistics": {
     "status": {
-      "watching": "17825",
-      "completed": "3",
-      "on_hold": "460",
-      "dropped": "1618",
-      "plan_to_watch": "14968"
+      "watching": "17861",
+      "completed": "1",
+      "on_hold": "461",
+      "dropped": "1635",
+      "plan_to_watch": "15002"
     },
-    "num_list_users": 34874
-  }
+    "num_list_users": 34960
+  },
+  "mal_details_updated_at": "2026-11-15T17:14:37.641Z",
+  "translations_updated_at": "2026-11-15T17:24:57.613Z"
 }

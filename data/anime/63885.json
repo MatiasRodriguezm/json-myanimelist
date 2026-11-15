@@ -30,8 +30,8 @@
   "num_episodes": null,
   "score": null,
   "mean": null,
-  "numListUsers": 13753,
-  "num_list_users": 13753,
+  "numListUsers": 13754,
+  "num_list_users": 13754,
   "genres": [
     {
       "id": 50,
@@ -60,11 +60,14 @@
       "name": "Tezuka Productions"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1126/156454l.webp",
+    "https://cdn.myanimelist.net/images/anime/1384/160534l.webp"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T13:05:16.299Z",
+  "tmdb_updated_at": "2026-11-15T17:17:02.559Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1384/160534.webp",
@@ -77,7 +80,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1384/160534l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1126/156454l.webp"
     }
   },
   "broadcast": {
@@ -89,25 +92,25 @@
     "string": "sunday 00:55"
   },
   "rank": null,
-  "popularity": 6550,
+  "popularity": 6545,
   "rating": "r",
   "simkl_id": 3068612,
   "episodes_data": [
     {
       "episode": 1,
       "title": "Episode 1",
-      "title_es": "Episodio 1",
       "aired": "2027-01-10T00:55:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 1"
     }
   ],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 1,
+  "num_scoring_users": null,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2026-04-01T17:02:10+00:00",
+  "updated_at": "2026-09-14T15:12:48+00:00",
   "source": "manga",
   "background": null,
   "related_anime": [
@@ -128,12 +131,14 @@
   "recommendations": [],
   "statistics": {
     "status": {
-      "watching": "2",
+      "watching": 0,
       "completed": 0,
       "on_hold": "1",
-      "dropped": "1",
-      "plan_to_watch": "13730"
+      "dropped": 0,
+      "plan_to_watch": "13752"
     },
-    "num_list_users": 13734
-  }
+    "num_list_users": 13753
+  },
+  "mal_details_updated_at": "2026-11-15T17:17:02.089Z",
+  "translations_updated_at": "2026-11-15T17:24:59.413Z"
 }

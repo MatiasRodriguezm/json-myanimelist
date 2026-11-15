@@ -48,7 +48,13 @@
       "name": "CoMix Wave Films"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/9/77484l.webp",
+    "https://cdn.myanimelist.net/images/anime/5/87048l.webp",
+    "https://cdn.myanimelist.net/images/anime/3/87049l.webp",
+    "https://cdn.myanimelist.net/images/anime/7/87281l.webp",
+    "https://cdn.myanimelist.net/images/anime/1823/127994l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/mMtUybQ6hL24FXo0F3Z4j2KG7kZ.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/zKI7UKmsB5ywy6Rjs3wWvBfhafJ.png",
   "tmdb_id": "372058",
@@ -65,7 +71,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/5/87048l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/9/77484l.webp"
     }
   },
   "broadcast": null,
@@ -190,10 +196,10 @@
     }
   ],
   "characters": [],
-  "num_scoring_users": 2120978,
+  "num_scoring_users": 2121876,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2015-12-10T09:41:12+00:00",
+  "updated_at": "2024-10-04T00:35:05+00:00",
   "source": "original",
   "background": "Kimi no Na wa. won the LAFCA Animation Award in 2016 and the Best Animated Film in 2017 by Mainichi Film Awards. It also won the Grand Prize Award on the 20th Japan Media Arts Festival.",
   "related_anime": [
@@ -202,8 +208,8 @@
         "id": 33902,
         "title": "Suntory Minami Alps no Tennensui",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/13/81596.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/13/81596l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/13/81596.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/13/81596l.webp"
         }
       },
       "relation_type": "other",
@@ -273,8 +279,8 @@
         "id": 2236,
         "title": "Toki wo Kakeru Shoujo",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1/2432.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1/2432l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1/2432.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1/2432l.jpg"
         }
       },
       "num_recommendations": 16
@@ -337,12 +343,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "71119",
-      "completed": "2677136",
-      "on_hold": "8009",
-      "dropped": "4467",
-      "plan_to_watch": "323830"
+      "watching": "71159",
+      "completed": "2678381",
+      "on_hold": "8014",
+      "dropped": "4473",
+      "plan_to_watch": "323964"
     },
-    "num_list_users": 3084561
-  }
+    "num_list_users": 3085991
+  },
+  "mal_details_updated_at": "2026-11-15T17:18:09.698Z",
+  "translations_updated_at": "2026-11-15T17:23:32.762Z"
 }

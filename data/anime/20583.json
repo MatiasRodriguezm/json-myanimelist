@@ -59,7 +59,17 @@
       "name": "Production I.G"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/8/59955l.webp",
+    "https://cdn.myanimelist.net/images/anime/4/60431l.webp",
+    "https://cdn.myanimelist.net/images/anime/7/64053l.webp",
+    "https://cdn.myanimelist.net/images/anime/6/66815l.webp",
+    "https://cdn.myanimelist.net/images/anime/5/69833l.webp",
+    "https://cdn.myanimelist.net/images/anime/11/69835l.webp",
+    "https://cdn.myanimelist.net/images/anime/7/69837l.webp",
+    "https://cdn.myanimelist.net/images/anime/12/69839l.webp",
+    "https://cdn.myanimelist.net/images/anime/7/76014l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/zr1MDQCPVB5uJEHxiO6Tukn4OjH.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/p5FxSYg0sOqnOQqfT8LLFxDyfI6.png",
   "tmdb_id": "60863",
@@ -76,7 +86,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/7/76014l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/8/59955l.webp"
     }
   },
   "broadcast": {
@@ -87,7 +97,7 @@
     "timezone": "Asia/Tokyo",
     "string": "sunday 17:00"
   },
-  "rank": 210,
+  "rank": 212,
   "popularity": 36,
   "rating": "pg_13",
   "simkl_id": 47270,
@@ -312,10 +322,10 @@
     }
   ],
   "characters": [],
-  "num_scoring_users": 1371428,
+  "num_scoring_users": 1371913,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2013-09-22T17:50:56+00:00",
+  "updated_at": "2023-01-24T01:23:49+00:00",
   "source": "manga",
   "background": "Haikyuu!! adapts the first 8 volumes of Haruichi Furudate's manga of the same name.",
   "related_anime": [
@@ -336,8 +346,8 @@
         "id": 28891,
         "title": "Haikyuu!! Second Season",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/9/76662.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/9/76662l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/9/76662.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/9/76662l.webp"
         }
       },
       "relation_type": "sequel",
@@ -348,8 +358,8 @@
         "id": 29755,
         "title": "Haikyuu!! Movie 1: Owari to Hajimari",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/8/76011.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/8/76011l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/8/76011.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/8/76011l.jpg"
         }
       },
       "relation_type": "summary",
@@ -360,8 +370,8 @@
         "id": 30364,
         "title": "Haikyuu!! Movie 2: Shousha to Haisha",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/2/74813.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/2/74813l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/2/74813.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/2/74813l.jpg"
         }
       },
       "relation_type": "summary",
@@ -372,8 +382,8 @@
         "id": 31675,
         "title": "Haikyuu!! Quest Picture Drama",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1061/98110.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1061/98110l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1061/98110.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1061/98110l.jpg"
         }
       },
       "relation_type": "other",
@@ -443,8 +453,8 @@
         "id": 31964,
         "title": "Boku no Hero Academia",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/10/78745.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/10/78745l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/10/78745.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/78745l.jpg"
         }
       },
       "num_recommendations": 25
@@ -498,8 +508,8 @@
         "id": 37403,
         "title": "Ahiru no Sora",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1975/108030.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1975/108030l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1975/108030.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1975/108030l.jpg"
         }
       },
       "num_recommendations": 15
@@ -507,12 +517,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "136555",
-      "completed": "1725528",
-      "on_hold": "56736",
-      "dropped": "51351",
-      "plan_to_watch": "243362"
+      "watching": "136560",
+      "completed": "1726279",
+      "on_hold": "56746",
+      "dropped": "51377",
+      "plan_to_watch": "243464"
     },
-    "num_list_users": 2213532
-  }
+    "num_list_users": 2214426
+  },
+  "mal_details_updated_at": "2026-11-15T17:18:17.753Z",
+  "translations_updated_at": "2026-11-15T17:23:42.090Z"
 }

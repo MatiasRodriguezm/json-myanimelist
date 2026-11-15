@@ -59,7 +59,14 @@
       "name": "Wit Studio"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/13/78932l.webp",
+    "https://cdn.myanimelist.net/images/anime/4/80587l.webp",
+    "https://cdn.myanimelist.net/images/anime/8/86362l.webp",
+    "https://cdn.myanimelist.net/images/anime/12/86363l.webp",
+    "https://cdn.myanimelist.net/images/anime/1322/93987l.webp",
+    "https://cdn.myanimelist.net/images/anime/1951/151320l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/pjXffujvrhSYvoZcdV7RbeklxwL.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/iRJFlg0qVb6vdJzvoLXNuVe6USd.png",
   "tmdb_id": "67800",
@@ -76,11 +83,11 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/4/80587l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/13/78932l.webp"
     }
   },
   "broadcast": null,
-  "rank": 624,
+  "rank": 625,
   "popularity": 952,
   "rating": "pg_13",
   "simkl_id": 565938,
@@ -145,10 +152,10 @@
     }
   ],
   "characters": [],
-  "num_scoring_users": 135440,
+  "num_scoring_users": 135464,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2016-03-09T15:28:37+00:00",
+  "updated_at": "2024-10-06T18:08:55+00:00",
   "source": "manga",
   "background": "Mahoutsukai no Yome: Hoshi Matsu Hito takes place during episode 13 of Mahoutsukai no Yome.",
   "related_anime": [
@@ -157,8 +164,8 @@
         "id": 35062,
         "title": "Mahoutsukai no Yome",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/3/88476.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/3/88476l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/3/88476.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/3/88476l.jpg"
         }
       },
       "relation_type": "parent_story",
@@ -172,8 +179,8 @@
         "id": 4081,
         "title": "Natsume Yuujinchou",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1681/108439.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1681/108439l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1681/108439.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1681/108439l.jpg"
         }
       },
       "num_recommendations": 4
@@ -216,8 +223,8 @@
         "id": 457,
         "title": "Mushishi",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/2/73862.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/2/73862l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/2/73862.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/2/73862l.webp"
         }
       },
       "num_recommendations": 1
@@ -249,8 +256,8 @@
         "id": 10408,
         "title": "Hotarubi no Mori e",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1599/112267.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1599/112267l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1599/112267.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1599/112267l.jpg"
         }
       },
       "num_recommendations": 1
@@ -260,8 +267,8 @@
         "id": 44,
         "title": "Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku-hen",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1656/137618.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1656/137618l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1656/137618.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1656/137618l.webp"
         }
       },
       "num_recommendations": 1
@@ -280,12 +287,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "22048",
-      "completed": "183336",
-      "on_hold": "7532",
+      "watching": "22051",
+      "completed": "183379",
+      "on_hold": "7536",
       "dropped": "4916",
-      "plan_to_watch": "83834"
+      "plan_to_watch": "83853"
     },
-    "num_list_users": 301666
-  }
+    "num_list_users": 301735
+  },
+  "mal_details_updated_at": "2026-11-15T17:21:31.965Z",
+  "translations_updated_at": "2026-11-15T17:24:22.311Z"
 }

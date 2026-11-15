@@ -34,8 +34,8 @@
   "num_episodes": 11,
   "score": 7.61,
   "mean": 7.61,
-  "numListUsers": 32582,
-  "num_list_users": 32582,
+  "numListUsers": 32611,
+  "num_list_users": 32611,
   "genres": [
     {
       "id": 4,
@@ -60,7 +60,11 @@
       "name": "feel."
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1342/152043l.webp",
+    "https://cdn.myanimelist.net/images/anime/1903/159669l.webp",
+    "https://cdn.myanimelist.net/images/anime/1102/160781l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/4BE1aoCu5mCG3ZJ7alNDQkB3oK4.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/ukWiOIWceHNGiS81CurwkfOSwWc.png",
   "tmdb_id": "261343",
@@ -77,7 +81,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1903/159669l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1342/152043l.webp"
     }
   },
   "broadcast": {
@@ -89,90 +93,90 @@
     "string": "tuesday 23:00"
   },
   "rank": 1747,
-  "popularity": 4634,
+  "popularity": 4628,
   "rating": "pg_13",
   "simkl_id": 3203592,
   "episodes_data": [
     {
       "episode": 1,
       "title": "Runaway Senpai and You",
-      "title_es": "Senpai fugitivo y tú",
       "aired": "2026-10-13T23:00:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20853033fee6c9d1a9_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Senpai fugitivo y tú"
     },
     {
       "episode": 2,
       "title": "A Distant Indigo Night, Remembered",
-      "title_es": "Una noche índigo lejana, recordada",
       "aired": "2026-10-20T23:00:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20904047d0c4a0189a_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Una noche índigo lejana, recordada"
     },
     {
       "episode": 3,
       "title": "Episode 3",
-      "title_es": "Episodio 3",
       "aired": "2026-10-27T23:00:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20942363bbde99d0c3_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Episodio 3"
     },
     {
       "episode": 4,
       "title": "Episode 4",
-      "title_es": "Episodio 4",
       "aired": "2026-11-03T23:00:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20990927ccfbd47b2a_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Episodio 4"
     },
     {
       "episode": 5,
       "title": "Episode 5",
-      "title_es": "Episodio 5",
       "aired": "2026-11-10T23:00:00+09:00",
       "thumbnail": "https://simkl.in/episodes/21/21052917dd69210856_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Episodio 5"
     },
     {
       "episode": 6,
       "title": "Episode 6",
-      "title_es": "Episodio 6",
       "aired": "2026-11-17T23:00:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 6"
     },
     {
       "episode": 7,
       "title": "Episode 7",
-      "title_es": "Episodio 7",
       "aired": "2026-11-24T23:00:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 7"
     },
     {
       "episode": 8,
       "title": "Episode 8",
-      "title_es": "Episodio 8",
       "aired": "2026-12-01T23:00:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 8"
     }
   ],
   "specials_data": [
     {
       "episode": 1,
       "title": "Season 1 Recap",
-      "title_es": "Resumen de la temporada 1",
       "aired": "2026-10-06T23:00:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/208530311974ff09aa_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Resumen de la temporada 1"
     }
   ],
   "characters": [],
-  "num_scoring_users": 2486,
+  "num_scoring_users": 2504,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2025-09-13T11:22:57+00:00",
+  "updated_at": "2026-10-13T19:20:18+00:00",
   "source": "light_novel",
   "background": null,
   "related_anime": [
@@ -181,8 +185,8 @@
         "id": 59517,
         "title": "Chitose-kun wa Ramune Bin no Naka",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1015/151233.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1015/151233l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1015/151233.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1015/151233l.webp"
         }
       },
       "relation_type": "prequel",
@@ -205,12 +209,14 @@
   "recommendations": [],
   "statistics": {
     "status": {
-      "watching": "11918",
-      "completed": "2",
-      "on_hold": "307",
-      "dropped": "271",
-      "plan_to_watch": "20045"
+      "watching": "11983",
+      "completed": "1",
+      "on_hold": "306",
+      "dropped": "273",
+      "plan_to_watch": "20049"
     },
-    "num_list_users": 32543
-  }
+    "num_list_users": 32612
+  },
+  "mal_details_updated_at": "2026-11-15T17:13:18.754Z",
+  "translations_updated_at": "2026-11-15T17:24:42.901Z"
 }

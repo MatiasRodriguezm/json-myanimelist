@@ -29,8 +29,8 @@
   "num_episodes": 1,
   "score": null,
   "mean": null,
-  "numListUsers": 114684,
-  "num_list_users": 114684,
+  "numListUsers": 114701,
+  "num_list_users": 114701,
   "genres": [
     {
       "id": 1,
@@ -50,11 +50,13 @@
     }
   ],
   "studios": [],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1000/152184l.webp"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T13:05:39.303Z",
+  "tmdb_updated_at": "2026-11-15T17:18:28.755Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1000/152184.webp",
@@ -72,50 +74,50 @@
   },
   "broadcast": null,
   "rank": null,
-  "popularity": 2248,
+  "popularity": 2247,
   "rating": "r",
   "simkl_id": 2498112,
   "episodes_data": [
     {
       "episode": 1,
       "title": "Movie 1",
-      "title_es": "Película 1",
       "aired": "2025-07-18T00:00:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/204603256bd7a7bdbb_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Película 1"
     },
     {
       "episode": 2,
       "title": "Movie 2",
-      "title_es": "Película 2",
       "aired": null,
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Película 2"
     },
     {
       "episode": 3,
       "title": "Movie 3",
-      "title_es": "Película 3",
       "aired": null,
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Película 3"
     }
   ],
   "specials_data": [
     {
       "episode": 1,
       "title": "Chapter 1 x TOHO Cinemas: Collaboration Manner Course",
-      "title_es": "Capítulo 1 x Cines TOHO: Curso de Maneras de Colaboración",
       "aired": "2025-06-20T00:00:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Capítulo 1 x Cines TOHO: Curso de Maneras de Colaboración"
     }
   ],
   "characters": [],
-  "num_scoring_users": 4,
+  "num_scoring_users": null,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2025-09-23T01:39:10+00:00",
+  "updated_at": "2026-07-31T06:51:20+00:00",
   "source": "manga",
   "background": null,
   "related_anime": [
@@ -149,11 +151,13 @@
   "statistics": {
     "status": {
       "watching": "3",
-      "completed": "9",
-      "on_hold": "6",
+      "completed": "2",
+      "on_hold": "3",
       "dropped": 0,
-      "plan_to_watch": "114619"
+      "plan_to_watch": "114693"
     },
-    "num_list_users": 114637
-  }
+    "num_list_users": 114701
+  },
+  "mal_details_updated_at": "2026-11-15T17:18:28.052Z",
+  "translations_updated_at": "2026-11-15T17:24:43.795Z"
 }

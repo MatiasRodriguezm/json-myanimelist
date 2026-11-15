@@ -35,8 +35,8 @@
   "num_episodes": 1,
   "score": 8.26,
   "mean": 8.26,
-  "numListUsers": 48432,
-  "num_list_users": 48432,
+  "numListUsers": 48433,
+  "num_list_users": 48433,
   "genres": [
     {
       "id": 1,
@@ -73,11 +73,13 @@
       "name": "Sunrise"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/12/26966l.webp"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T13:06:04.296Z",
+  "tmdb_updated_at": "2026-11-15T17:21:51.223Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/12/26966.webp",
@@ -94,8 +96,8 @@
     }
   },
   "broadcast": null,
-  "rank": 373,
-  "popularity": 3796,
+  "rank": 374,
+  "popularity": 3798,
   "rating": "pg_13",
   "simkl_id": 39078,
   "episodes_data": [
@@ -127,10 +129,10 @@
     }
   ],
   "characters": [],
-  "num_scoring_users": 21337,
+  "num_scoring_users": 21341,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2010-10-26T17:42:06+00:00",
+  "updated_at": "2023-01-16T22:44:03+00:00",
   "source": "manga",
   "background": null,
   "related_anime": [
@@ -139,8 +141,8 @@
         "id": 7472,
         "title": "Gintama Movie 1: Shinyaku Benizakura-hen",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/4/28803.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/4/28803l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/4/28803.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/4/28803l.jpg"
         }
       },
       "relation_type": "other",
@@ -151,12 +153,14 @@
   "recommendations": [],
   "statistics": {
     "status": {
-      "watching": "1461",
-      "completed": "33504",
+      "watching": "1463",
+      "completed": "33511",
       "on_hold": "558",
       "dropped": "566",
       "plan_to_watch": "12322"
     },
-    "num_list_users": 48411
-  }
+    "num_list_users": 48420
+  },
+  "mal_details_updated_at": "2026-11-15T17:21:50.835Z",
+  "translations_updated_at": "2026-11-15T17:24:08.207Z"
 }

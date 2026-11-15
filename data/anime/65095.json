@@ -30,8 +30,8 @@
   "num_episodes": null,
   "score": null,
   "mean": null,
-  "numListUsers": 337,
-  "num_list_users": 337,
+  "numListUsers": 338,
+  "num_list_users": 338,
   "genres": [
     {
       "id": 66,
@@ -47,11 +47,13 @@
     }
   ],
   "studios": [],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1032/160343l.webp"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T13:04:47.686Z",
+  "tmdb_updated_at": "2026-11-15T17:16:08.854Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1032/160343.webp",
@@ -68,8 +70,8 @@
     }
   },
   "broadcast": null,
-  "rank": 19941,
-  "popularity": 21431,
+  "rank": 19942,
+  "popularity": 21416,
   "rating": "pg",
   "simkl_id": null,
   "episodes_data": [],
@@ -77,8 +79,8 @@
   "characters": [],
   "num_scoring_users": 37,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2026-10-01T17:27:05+00:00",
+  "updated_at": "2026-10-02T09:34:27+00:00",
   "source": "original",
   "background": null,
   "related_anime": [
@@ -87,8 +89,8 @@
         "id": 63773,
         "title": "PetitCure: Precure Fairies Season 3",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1909/156227.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1909/156227l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1909/156227.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1909/156227l.webp"
         }
       },
       "relation_type": "prequel",
@@ -103,8 +105,10 @@
       "completed": 0,
       "on_hold": "18",
       "dropped": "37",
-      "plan_to_watch": "155"
+      "plan_to_watch": "156"
     },
-    "num_list_users": 337
-  }
+    "num_list_users": 338
+  },
+  "mal_details_updated_at": "2026-11-15T17:16:08.376Z",
+  "translations_updated_at": "2026-11-15T17:25:08.150Z"
 }

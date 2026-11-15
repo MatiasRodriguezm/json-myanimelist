@@ -33,8 +33,8 @@
   "num_episodes": 1,
   "score": 8.58,
   "mean": 8.58,
-  "numListUsers": 1069562,
-  "num_list_users": 1069562,
+  "numListUsers": 1069581,
+  "num_list_users": 1069581,
   "genres": [
     {
       "id": 5,
@@ -71,7 +71,16 @@
       "name": "Production I.G"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/4/11131l.webp",
+    "https://cdn.myanimelist.net/images/anime/12/23255l.webp",
+    "https://cdn.myanimelist.net/images/anime/12/39305l.webp",
+    "https://cdn.myanimelist.net/images/anime/13/83080l.webp",
+    "https://cdn.myanimelist.net/images/anime/1080/97658l.webp",
+    "https://cdn.myanimelist.net/images/anime/1404/98182l.webp",
+    "https://cdn.myanimelist.net/images/anime/1597/113123l.webp",
+    "https://cdn.myanimelist.net/images/anime/1543/146865l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/2NNKYsWXoO9w8fMctWX7utqyh95.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/jNIXy1QNfYKzHCarH043bjOjBOD.png",
   "tmdb_id": "890",
@@ -88,7 +97,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1404/98182l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/4/11131l.webp"
     }
   },
   "broadcast": null,
@@ -117,10 +126,10 @@
     }
   ],
   "characters": [],
-  "num_scoring_users": 714108,
+  "num_scoring_users": 714523,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2005-11-11T01:37:28+00:00",
+  "updated_at": "2025-10-17T22:55:48+00:00",
   "source": "original",
   "background": "Shinseiki Evangelion Movie: Air/Magokoro wo, Kimi ni is an alternate version of the series ending, which either supplements or replaces episodes 25 and 26, depending on how they are viewed.\n\nThe movie was awarded the Animage Anime Grand Prix prize for 1997, the Japan Academy Prize for Biggest Public Sensation of the Year, and Special Audience Choice Award by the 1997 Animation Kobe.",
   "related_anime": [
@@ -141,8 +150,8 @@
         "id": 31,
         "title": "Shinseiki Evangelion Movie: Shi to Shinsei",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1993/113122.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1993/113122l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1993/113122.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1993/113122l.jpg"
         }
       },
       "relation_type": "summary",
@@ -167,8 +176,8 @@
         "id": 35120,
         "title": "Devilman: Crybaby",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/2/89973.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/2/89973l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/2/89973.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/2/89973l.jpg"
         }
       },
       "num_recommendations": 11
@@ -178,8 +187,8 @@
         "id": 47,
         "title": "Akira",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1408/114012.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1408/114012l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1408/114012.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1408/114012l.jpg"
         }
       },
       "num_recommendations": 9
@@ -189,8 +198,8 @@
         "id": 2761,
         "title": "Densetsu Kyojin Ideon: Hatsudou-hen",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1146/91266.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1146/91266l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1146/91266.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1146/91266l.jpg"
         }
       },
       "num_recommendations": 6
@@ -200,8 +209,8 @@
         "id": 437,
         "title": "Perfect Blue",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1254/134212.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1254/134212l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1254/134212.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1254/134212l.webp"
         }
       },
       "num_recommendations": 4
@@ -244,8 +253,8 @@
         "id": 790,
         "title": "Ergo Proxy",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1183/136187.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1183/136187l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1183/136187.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1183/136187l.jpg"
         }
       },
       "num_recommendations": 2
@@ -264,12 +273,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "18733",
-      "completed": "912904",
-      "on_hold": "4459",
-      "dropped": "2761",
-      "plan_to_watch": "129997"
+      "watching": "18731",
+      "completed": "913449",
+      "on_hold": "4458",
+      "dropped": "2764",
+      "plan_to_watch": "130060"
     },
-    "num_list_users": 1068854
-  }
+    "num_list_users": 1069462
+  },
+  "mal_details_updated_at": "2026-11-15T17:20:13.989Z",
+  "translations_updated_at": "2026-11-15T17:23:54.755Z"
 }

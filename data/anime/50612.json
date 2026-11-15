@@ -30,8 +30,8 @@
   "num_episodes": 1,
   "score": 8.1,
   "mean": 8.1,
-  "numListUsers": 408827,
-  "num_list_users": 408827,
+  "numListUsers": 408835,
+  "num_list_users": 408835,
   "genres": [
     {
       "id": 2,
@@ -52,7 +52,12 @@
       "name": "TMS Entertainment"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1488/120136l.webp",
+    "https://cdn.myanimelist.net/images/anime/1588/124405l.webp",
+    "https://cdn.myanimelist.net/images/anime/1860/124426l.webp",
+    "https://cdn.myanimelist.net/images/anime/1071/124921l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/lN13BPAEnc5iXmoxxBQHOZ1ScfZ.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/hnCHjH1xvqDDGLrt7vL7Ur0oy5c.png",
   "tmdb_id": "86031",
@@ -69,12 +74,12 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1071/124921l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1488/120136l.webp"
     }
   },
   "broadcast": null,
-  "rank": 605,
-  "popularity": 682,
+  "rank": 604,
+  "popularity": 681,
   "rating": "pg_13",
   "simkl_id": 1577787,
   "episodes_data": [
@@ -98,10 +103,10 @@
     }
   ],
   "characters": [],
-  "num_scoring_users": 236840,
+  "num_scoring_users": 237085,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2021-12-19T09:53:40+00:00",
+  "updated_at": "2025-12-10T20:01:07+00:00",
   "source": "manga",
   "background": "Dr. Stone: Ryuusui adapts chapters 84-89 of the manga.",
   "related_anime": [
@@ -122,8 +127,8 @@
         "id": 48549,
         "title": "Dr. Stone: New World",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1316/136268.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1316/136268l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1316/136268.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1316/136268l.jpg"
         }
       },
       "relation_type": "sequel",
@@ -146,12 +151,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "10393",
-      "completed": "339279",
-      "on_hold": "1908",
-      "dropped": "1217",
-      "plan_to_watch": "55557"
+      "watching": "10400",
+      "completed": "339647",
+      "on_hold": "1906",
+      "dropped": "1216",
+      "plan_to_watch": "55567"
     },
-    "num_list_users": 408354
-  }
+    "num_list_users": 408736
+  },
+  "mal_details_updated_at": "2026-11-15T17:21:55.137Z",
+  "translations_updated_at": "2026-11-15T17:24:25.871Z"
 }

@@ -59,11 +59,14 @@
       "name": "Shaft"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1532/103026l.webp",
+    "https://cdn.myanimelist.net/images/anime/1981/112812l.webp"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T13:05:58.841Z",
+  "tmdb_updated_at": "2026-11-15T17:20:14.972Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1981/112812.webp",
@@ -76,7 +79,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1981/112812l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1532/103026l.webp"
     }
   },
   "broadcast": null,
@@ -112,10 +115,10 @@
   ],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 302728,
+  "num_scoring_users": 302868,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2015-10-03T17:19:13+00:00",
+  "updated_at": "2023-09-10T04:31:19+00:00",
   "source": "light_novel",
   "background": "The Kizumonogatari movie trilogy adapts the third volume of NisiOisiN's Monogatari Series: First Season.",
   "related_anime": [
@@ -136,8 +139,8 @@
         "id": 31758,
         "title": "Kizumonogatari III: Reiketsu-hen",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1084/112813.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1084/112813l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1084/112813.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1084/112813l.webp"
         }
       },
       "relation_type": "sequel",
@@ -163,8 +166,8 @@
         "id": 35120,
         "title": "Devilman: Crybaby",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/2/89973.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/2/89973l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/2/89973.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/2/89973l.jpg"
         }
       },
       "num_recommendations": 1
@@ -172,12 +175,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "10481",
-      "completed": "386028",
-      "on_hold": "2818",
-      "dropped": "1395",
-      "plan_to_watch": "97833"
+      "watching": "10487",
+      "completed": "386213",
+      "on_hold": "2816",
+      "dropped": "1397",
+      "plan_to_watch": "97851"
     },
-    "num_list_users": 498555
-  }
+    "num_list_users": 498764
+  },
+  "mal_details_updated_at": "2026-11-15T17:20:14.375Z",
+  "translations_updated_at": "2026-11-15T17:24:04.058Z"
 }

@@ -32,8 +32,8 @@
   "num_episodes": 2,
   "score": 8.18,
   "mean": 8.18,
-  "numListUsers": 87240,
-  "num_list_users": 87240,
+  "numListUsers": 87241,
+  "num_list_users": 87241,
   "genres": [
     {
       "id": 8,
@@ -58,7 +58,11 @@
       "name": "Production I.G"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/2/19477l.webp",
+    "https://cdn.myanimelist.net/images/anime/9/25080l.webp",
+    "https://cdn.myanimelist.net/images/anime/7/29111l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/93Zwr1UckwikK8ZAcL9KmxKhszu.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/1dV7yTS1n8ZBvRwgB6ijw8mlrQW.png",
   "tmdb_id": "36250",
@@ -75,7 +79,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/9/25080l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/2/19477l.webp"
     }
   },
   "broadcast": null,
@@ -103,10 +107,10 @@
   ],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 34742,
+  "num_scoring_users": 34754,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2009-07-22T09:04:23+00:00",
+  "updated_at": "2023-08-02T05:18:02+00:00",
   "source": "manga",
   "background": "Bundled with the limited editions of the 17th and 19th volumes of the xxxHOLiC manga.",
   "related_anime": [
@@ -115,8 +119,8 @@
         "id": 4918,
         "title": "xxxHOLiC Shunmuki",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/12/25079.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/12/25079l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/12/25079.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/12/25079l.webp"
         }
       },
       "relation_type": "prequel",
@@ -130,8 +134,8 @@
         "id": 457,
         "title": "Mushishi",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/2/73862.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/2/73862l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/2/73862.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/2/73862l.webp"
         }
       },
       "num_recommendations": 1
@@ -139,12 +143,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "2841",
-      "completed": "60366",
-      "on_hold": "1210",
+      "watching": "2838",
+      "completed": "60384",
+      "on_hold": "1211",
       "dropped": "672",
-      "plan_to_watch": "22115"
+      "plan_to_watch": "22123"
     },
-    "num_list_users": 87204
-  }
+    "num_list_users": 87228
+  },
+  "mal_details_updated_at": "2026-11-15T17:21:26.204Z",
+  "translations_updated_at": "2026-11-15T17:25:12.674Z"
 }

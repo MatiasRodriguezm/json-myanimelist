@@ -35,8 +35,8 @@
   "num_episodes": 64,
   "score": 9.11,
   "mean": 9.11,
-  "numListUsers": 3756440,
-  "num_list_users": 3756440,
+  "numListUsers": 3756526,
+  "num_list_users": 3756526,
   "genres": [
     {
       "id": 1,
@@ -69,7 +69,19 @@
       "name": "Bones"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/13/13738l.webp",
+    "https://cdn.myanimelist.net/images/anime/2/17090l.webp",
+    "https://cdn.myanimelist.net/images/anime/2/17472l.webp",
+    "https://cdn.myanimelist.net/images/anime/5/47603l.webp",
+    "https://cdn.myanimelist.net/images/anime/10/57095l.webp",
+    "https://cdn.myanimelist.net/images/anime/7/74317l.webp",
+    "https://cdn.myanimelist.net/images/anime/1521/94614l.webp",
+    "https://cdn.myanimelist.net/images/anime/1208/94745l.webp",
+    "https://cdn.myanimelist.net/images/anime/1223/96541l.webp",
+    "https://cdn.myanimelist.net/images/anime/1286/96542l.webp",
+    "https://cdn.myanimelist.net/images/anime/1014/148251l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/2UG177tWHy7xRmMKWJHB7nAUmKd.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/1uxD6336yvySlaNqAuCl5XuGt3U.png",
   "tmdb_id": "31911",
@@ -86,7 +98,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1208/94745l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/13/13738l.webp"
     }
   },
   "broadcast": {
@@ -794,10 +806,10 @@
     }
   ],
   "characters": [],
-  "num_scoring_users": 2352728,
+  "num_scoring_users": 2353687,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2008-08-21T03:35:22+00:00",
+  "updated_at": "2023-04-02T18:07:03+00:00",
   "source": "manga",
   "background": null,
   "related_anime": [
@@ -806,8 +818,8 @@
         "id": 121,
         "title": "Fullmetal Alchemist",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/10/75815.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/10/75815l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/10/75815.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/75815l.jpg"
         }
       },
       "relation_type": "alternative_version",
@@ -830,8 +842,8 @@
         "id": 7902,
         "title": "Fullmetal Alchemist: Brotherhood - 4-koma Gekijou",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/3/76154.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/3/76154l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/3/76154.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/3/76154l.webp"
         }
       },
       "relation_type": "spin_off",
@@ -923,8 +935,8 @@
         "id": 1575,
         "title": "Code Geass: Hangyaku no Lelouch",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1032/135088.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1032/135088l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1032/135088.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1032/135088l.webp"
         }
       },
       "num_recommendations": 16
@@ -965,12 +977,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "294004",
-      "completed": "2713505",
-      "on_hold": "123749",
-      "dropped": "66525",
-      "plan_to_watch": "556463"
+      "watching": "294140",
+      "completed": "2714747",
+      "on_hold": "123799",
+      "dropped": "66549",
+      "plan_to_watch": "556750"
     },
-    "num_list_users": 3754246
-  }
+    "num_list_users": 3755985
+  },
+  "mal_details_updated_at": "2026-11-15T17:12:56.657Z",
+  "translations_updated_at": "2026-11-15T17:23:28.701Z"
 }

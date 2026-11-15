@@ -32,8 +32,8 @@
   "num_episodes": 37,
   "score": 8.62,
   "mean": 8.62,
-  "numListUsers": 4391243,
-  "num_list_users": 4391243,
+  "numListUsers": 4391336,
+  "num_list_users": 4391336,
   "genres": [
     {
       "id": 40,
@@ -58,7 +58,16 @@
       "name": "Madhouse"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/7/20451l.webp",
+    "https://cdn.myanimelist.net/images/anime/9/21498l.webp",
+    "https://cdn.myanimelist.net/images/anime/3/22530l.webp",
+    "https://cdn.myanimelist.net/images/anime/3/22531l.webp",
+    "https://cdn.myanimelist.net/images/anime/13/22532l.webp",
+    "https://cdn.myanimelist.net/images/anime/1528/107948l.webp",
+    "https://cdn.myanimelist.net/images/anime/1001/121564l.webp",
+    "https://cdn.myanimelist.net/images/anime/1079/138100l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/koBa94NxTaGe2FoDzlXMuJptsv0.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/mbDyY5qEDKVQNvuHk71OvxH8Cjg.png",
   "tmdb_id": "13916",
@@ -75,7 +84,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1079/138100l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/7/20451l.webp"
     }
   },
   "broadcast": {
@@ -511,10 +520,10 @@
     }
   ],
   "characters": [],
-  "num_scoring_users": 3065739,
+  "num_scoring_users": 3067145,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2006-10-04T03:39:19+00:00",
+  "updated_at": "2024-03-06T11:24:14+00:00",
   "source": "manga",
   "background": null,
   "related_anime": [
@@ -523,8 +532,8 @@
         "id": 2994,
         "title": "Death Note: Rewrite",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/13/8518.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/13/8518l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/13/8518.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/13/8518l.webp"
         }
       },
       "relation_type": "summary",
@@ -538,8 +547,8 @@
         "id": 1575,
         "title": "Code Geass: Hangyaku no Lelouch",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1032/135088.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1032/135088l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1032/135088.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1032/135088l.webp"
         }
       },
       "num_recommendations": 647
@@ -571,8 +580,8 @@
         "id": 10620,
         "title": "Mirai Nikki (TV)",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/13/33465.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/13/33465l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/13/33465.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/13/33465l.jpg"
         }
       },
       "num_recommendations": 71
@@ -582,8 +591,8 @@
         "id": 13601,
         "title": "Psycho-Pass",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1314/142015.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1314/142015l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1314/142015.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1314/142015l.jpg"
         }
       },
       "num_recommendations": 66
@@ -593,8 +602,8 @@
         "id": 40911,
         "title": "Yuukoku no Moriarty",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1464/108330.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1464/108330l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1464/108330.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1464/108330l.webp"
         }
       },
       "num_recommendations": 54
@@ -604,8 +613,8 @@
         "id": 2904,
         "title": "Code Geass: Hangyaku no Lelouch R2",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1088/135089.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1088/135089l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1088/135089.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1088/135089l.jpg"
         }
       },
       "num_recommendations": 54
@@ -626,8 +635,8 @@
         "id": 5040,
         "title": "One Outs",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/7/21065.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/7/21065l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/7/21065.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/7/21065l.jpg"
         }
       },
       "num_recommendations": 47
@@ -637,8 +646,8 @@
         "id": 37779,
         "title": "Yakusoku no Neverland",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1830/118780.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1830/118780l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1830/118780.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1830/118780l.jpg"
         }
       },
       "num_recommendations": 41
@@ -646,12 +655,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "219469",
-      "completed": "3659790",
-      "on_hold": "119227",
-      "dropped": "131980",
-      "plan_to_watch": "258213"
+      "watching": "219622",
+      "completed": "3661665",
+      "on_hold": "119282",
+      "dropped": "132032",
+      "plan_to_watch": "258322"
     },
-    "num_list_users": 4388679
-  }
+    "num_list_users": 4390923
+  },
+  "mal_details_updated_at": "2026-11-15T17:18:06.660Z",
+  "translations_updated_at": "2026-11-15T17:23:28.600Z"
 }

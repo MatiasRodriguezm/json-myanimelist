@@ -58,7 +58,13 @@
       "name": "Bandai Namco Pictures"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/8/79704l.webp",
+    "https://cdn.myanimelist.net/images/anime/12/80432l.webp",
+    "https://cdn.myanimelist.net/images/anime/8/81479l.webp",
+    "https://cdn.myanimelist.net/images/anime/1265/133572l.webp",
+    "https://cdn.myanimelist.net/images/anime/1962/133573l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/3gVl0IvJMbhOnAvH9V0Q1Y1HnXE.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/2GFz7E2Z1UWiWqOv2YGIbIaAWrH.png",
   "tmdb_id": "57041",
@@ -75,12 +81,12 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1962/133573l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/8/79704l.webp"
     }
   },
   "broadcast": null,
   "rank": 264,
-  "popularity": 2566,
+  "popularity": 2568,
   "rating": "pg_13",
   "simkl_id": 545452,
   "episodes_data": [
@@ -103,10 +109,10 @@
   ],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 49720,
+  "num_scoring_users": 49737,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2015-12-19T19:50:10+00:00",
+  "updated_at": "2023-01-24T00:15:46+00:00",
   "source": "manga",
   "background": null,
   "related_anime": [
@@ -140,11 +146,13 @@
   "statistics": {
     "status": {
       "watching": "3553",
-      "completed": "67793",
-      "on_hold": "1035",
+      "completed": "67814",
+      "on_hold": "1033",
       "dropped": "805",
-      "plan_to_watch": "21183"
+      "plan_to_watch": "21187"
     },
-    "num_list_users": 94369
-  }
+    "num_list_users": 94392
+  },
+  "mal_details_updated_at": "2026-11-15T17:21:21.863Z",
+  "translations_updated_at": "2026-11-15T17:24:06.465Z"
 }

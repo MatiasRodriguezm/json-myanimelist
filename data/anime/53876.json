@@ -38,8 +38,8 @@
   "num_episodes": null,
   "score": 7.38,
   "mean": 7.38,
-  "numListUsers": 44132,
-  "num_list_users": 44132,
+  "numListUsers": 44135,
+  "num_list_users": 44135,
   "genres": [
     {
       "id": 1,
@@ -68,7 +68,19 @@
       "name": "OLM"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1896/131888l.webp",
+    "https://cdn.myanimelist.net/images/anime/1210/133296l.webp",
+    "https://cdn.myanimelist.net/images/anime/1831/133946l.webp",
+    "https://cdn.myanimelist.net/images/anime/1970/135281l.webp",
+    "https://cdn.myanimelist.net/images/anime/1066/137118l.webp",
+    "https://cdn.myanimelist.net/images/anime/1703/137216l.webp",
+    "https://cdn.myanimelist.net/images/anime/1628/139216l.webp",
+    "https://cdn.myanimelist.net/images/anime/1907/139359l.webp",
+    "https://cdn.myanimelist.net/images/anime/1949/142593l.webp",
+    "https://cdn.myanimelist.net/images/anime/1420/145459l.webp",
+    "https://cdn.myanimelist.net/images/anime/1772/148477l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/d0axpGojOqDag5lDa0eNSEtw11l.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/mYDlRCy9uvowwwyYWQbMj9HUKay.png",
   "tmdb_id": "220150",
@@ -85,7 +97,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1703/137216l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1896/131888l.webp"
     }
   },
   "broadcast": {
@@ -96,7 +108,7 @@
     "timezone": "Asia/Tokyo",
     "string": "friday 18:55"
   },
-  "rank": 2793,
+  "rank": 2792,
   "popularity": 4017,
   "rating": "pg",
   "simkl_id": 2059216,
@@ -104,967 +116,966 @@
     {
       "episode": 1,
       "title": "The Pendant That Starts It All: Part One",
-      "title_es": "El colgante que lo empieza todo: Primera parte",
       "aired": "2023-04-14T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/17569233ffa77ca131_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "El colgante que lo empieza todo: Primera parte"
     },
     {
       "episode": 2,
       "title": "The Pendant That Starts It All: Part Two",
-      "title_es": "El colgante que lo empieza todo: segunda parte",
       "aired": "2023-04-14T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/17569235ae082d0ee8_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "El colgante que lo empieza todo: segunda parte"
     },
     {
       "episode": 3,
       "title": "For Sure! 'Cause Sprigatito's with Me!",
-      "title_es": "¡Con seguridad! ¡Porque Sprigatito está conmigo!",
       "aired": "2023-04-21T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/17569237b886462e01_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "¡Con seguridad! ¡Porque Sprigatito está conmigo!"
     },
     {
       "episode": 4,
       "title": "The Treasure After the Storm!",
-      "title_es": "¡El tesoro después de la tormenta!",
       "aired": "2023-04-28T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/17569239e38073be55_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "¡El tesoro después de la tormenta!"
     },
     {
       "episode": 5,
       "title": "Found You, Fuecoco!",
-      "title_es": "¡Te encontré, Fuecoco!",
       "aired": "2023-05-05T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/17569241d124f7e76b_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "¡Te encontré, Fuecoco!"
     },
     {
       "episode": 6,
       "title": "The Ancient Poke Ball!",
-      "title_es": "¡La antigua Poke Ball!",
       "aired": "2023-05-12T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/1756924336c6dcad24_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "¡La antigua Poke Ball!"
     },
     {
       "episode": 7,
       "title": "Special Training with Cap!",
-      "title_es": "¡Entrenamiento especial con gorra!",
       "aired": "2023-05-19T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/17569245f756cb4a0d_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "¡Entrenamiento especial con gorra!"
     },
     {
       "episode": 8,
       "title": "The Door That Never Opens!",
-      "title_es": "¡La puerta que nunca se abre!",
       "aired": "2023-05-26T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/175692477ac5b25879_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "¡La puerta que nunca se abre!"
     },
     {
       "episode": 9,
       "title": "Welcome to Paldea!",
-      "title_es": "¡Bienvenidos a Paldea!",
       "aired": "2023-06-02T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/17569249aba66bb361_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "¡Bienvenidos a Paldea!"
     },
     {
       "episode": 10,
       "title": "Nemona and Brassius and...",
-      "title_es": "Nemona y Brassius y...",
       "aired": "2023-06-09T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/1756925176bb8dd3b0_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Nemona y Brassius y..."
     },
     {
       "episode": 11,
       "title": "Arboliva's Forest",
-      "title_es": "Bosque de Arboliva",
       "aired": "2023-06-16T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/17569253e3549aef45_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Bosque de Arboliva"
     },
     {
       "episode": 12,
       "title": "The Future I Choose!",
-      "title_es": "¡El futuro que elijo!",
       "aired": "2023-06-23T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/17569255e1c693df10_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "¡El futuro que elijo!"
     },
     {
       "episode": 13,
       "title": "An Unexpected Picnic!",
-      "title_es": "¡Un picnic inesperado!",
       "aired": "2023-07-14T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/175692578920699fb2_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "¡Un picnic inesperado!"
     },
     {
       "episode": 14,
       "title": "Fly! Wattrel!!",
-      "title_es": "¡Volar! Wattrel!!",
       "aired": "2023-07-21T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/1756925964aa1bfe1c_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "¡Volar! Wattrel!!"
     },
     {
       "episode": 15,
       "title": "Someone We Can't See! Whosawhatsit?!",
-      "title_es": "¡Alguien que no podemos ver! ¡¿Quién sabe qué?!",
       "aired": "2023-07-28T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/175692619b603b93de_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "¡Alguien que no podemos ver! ¡¿Quién sabe qué?!"
     },
     {
       "episode": 16,
       "title": "Quaxly, We Can Do It!",
-      "title_es": "¡Quaxly, podemos hacerlo!",
       "aired": "2023-08-04T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/1756926304bbcd5632_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "¡Quaxly, podemos hacerlo!"
     },
     {
       "episode": 17,
       "title": "Special Training Time!",
-      "title_es": "¡Tiempo especial de entrenamiento!",
       "aired": "2023-08-11T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/1756926570d8f133c4_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "¡Tiempo especial de entrenamiento!"
     },
     {
       "episode": 18,
       "title": "Flying Pikachu, Rising Higher and Higher!",
-      "title_es": "¡Pikachu volador, elevándose cada vez más alto!",
       "aired": "2023-08-18T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/17569267edb1439f84_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "¡Pikachu volador, elevándose cada vez más alto!"
     },
     {
       "episode": 19,
       "title": "The Bittersweet Truth",
-      "title_es": "La agridulce verdad",
       "aired": "2023-08-25T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/17569269d3c7386182_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "La agridulce verdad"
     },
     {
       "episode": 20,
       "title": "Kabu's Battle Training!",
-      "title_es": "¡El entrenamiento de batalla de Kabu!",
       "aired": "2023-09-01T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/17569271511ca0ba16_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "¡El entrenamiento de batalla de Kabu!"
     },
     {
       "episode": 21,
       "title": "The Lonely Hatenna",
-      "title_es": "La solitaria Hatenna",
       "aired": "2023-09-08T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/175692736be75ab442_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "La solitaria Hatenna"
     },
     {
       "episode": 22,
       "title": "Charge! Galar Mine!",
-      "title_es": "¡Cargar! ¡Mina Galar!",
       "aired": "2023-09-15T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/175692755b4d3f5ca2_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "¡Cargar! ¡Mina Galar!"
     },
     {
       "episode": 23,
       "title": "Fiery Galarian Moltres",
-      "title_es": "Ardiente Moltres de Galar",
       "aired": "2023-09-22T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/175692777c99dab193_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Ardiente Moltres de Galar"
     },
     {
       "episode": 24,
       "title": "Reunion at the Ancient Castle!",
-      "title_es": "¡Reunión en el Castillo Antiguo!",
       "aired": "2023-10-13T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/175692790790ca20b5_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "¡Reunión en el Castillo Antiguo!"
     },
     {
       "episode": 25,
       "title": "Rivals in the Dark of Night!",
-      "title_es": "¡Rivales en la oscuridad de la noche!",
       "aired": "2023-10-20T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/1756928111f1f52c5e_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "¡Rivales en la oscuridad de la noche!"
     },
     {
       "episode": 26,
       "title": "Terapagos's Adventure!",
-      "title_es": "¡La aventura de Terápagos!",
       "aired": "2023-10-27T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/1756928302a9bdc401_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "¡La aventura de Terápagos!"
     },
     {
       "episode": 27,
       "title": "As Long As I'm with My Friends",
-      "title_es": "Mientras esté con mis amigos",
       "aired": "2023-11-03T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/175692853b4dc6e84a_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Mientras esté con mis amigos"
     },
     {
       "episode": 28,
       "title": "The Stolen Treasure",
-      "title_es": "El tesoro robado",
       "aired": "2023-11-10T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/175692877f6a168e54_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "El tesoro robado"
     },
     {
       "episode": 29,
       "title": "Orla and the Poke Ball Smith",
-      "title_es": "Orla y el Smith Poke Ball",
       "aired": "2023-11-17T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/17569289cca311f987_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Orla y el Smith Poke Ball"
     },
     {
       "episode": 30,
       "title": "Slip and Crash! A Mystery Pokemon?!",
-      "title_es": "¡Resbalón y choque! ¿Un Pokémon misterioso?",
       "aired": "2023-11-24T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/17569291ed22df2ae8_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "¡Resbalón y choque! ¿Un Pokémon misterioso?"
     },
     {
       "episode": 31,
       "title": "Song Within the Mist",
-      "title_es": "Canción dentro de la niebla",
       "aired": "2023-12-01T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/1756929379669743dc_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Canción dentro de la niebla"
     },
     {
       "episode": 32,
       "title": "Lapras's Feelings for Its Friends",
-      "title_es": "Los sentimientos de Lapras por sus amigos",
       "aired": "2023-12-08T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/17569295d9bbfbca64_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Los sentimientos de Lapras por sus amigos"
     },
     {
       "episode": 33,
       "title": "Roar of the Black Rayquaza",
-      "title_es": "Rugido del Rayquaza Negro",
       "aired": "2023-12-15T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/17569297c9ba3e3ecc_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Rugido del Rayquaza Negro"
     },
     {
       "episode": 34,
       "title": "Respective Departures",
-      "title_es": "Salidas respectivas",
       "aired": "2023-12-22T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/17569299e0d69356ee_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Salidas respectivas"
     },
     {
       "episode": 35,
       "title": "A Duo in the Wilderness: Friede and Cap",
-      "title_es": "Un dúo en el desierto: Friede y Cap",
       "aired": "2024-01-12T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/175693018dc2bd9bc5_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Un dúo en el desierto: Friede y Cap"
     },
     {
       "episode": 36,
       "title": "Operation: Oinkologne Friendship!",
-      "title_es": "Operación: ¡Amistad Oinkologne!",
       "aired": "2024-01-19T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/1756930306ae605a1b_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Operación: ¡Amistad Oinkologne!"
     },
     {
       "episode": 37,
       "title": "Fuecoco Becomes a Bad Boy?",
-      "title_es": "¿Fuecoco se convierte en un chico malo?",
       "aired": "2024-01-26T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/175693059744502f30_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "¿Fuecoco se convierte en un chico malo?"
     },
     {
       "episode": 38,
       "title": "The SOS Comes From Tandemaus?",
-      "title_es": "¿El SOS viene de Tandemaus?",
       "aired": "2024-02-02T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/17569307b413787af9_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "¿El SOS viene de Tandemaus?"
     },
     {
       "episode": 39,
       "title": "Tinkatink and Its Choice Hammer",
-      "title_es": "Tinkatink y su martillo elegido",
       "aired": "2024-02-09T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/175693092797c8b91c_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Tinkatink y su martillo elegido"
     },
     {
       "episode": 40,
       "title": "Farewell, Sprigatito?",
-      "title_es": "¿Adiós, Sprigatito?",
       "aired": "2024-02-16T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/17569311ad5033ade7_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "¿Adiós, Sprigatito?"
     },
     {
       "episode": 41,
       "title": "Enter the Intense Mom!",
-      "title_es": "¡Entra la Mamá Intensa!",
       "aired": "2024-03-01T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/175693137a5ef4efd6_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "¡Entra la Mamá Intensa!"
     },
     {
       "episode": 42,
       "title": "Transform! Palafin, the Hero of the Sea",
-      "title_es": "¡Transformar! Palafin, el héroe del mar",
       "aired": "2024-03-08T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/17569315516c716342_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "¡Transformar! Palafin, el héroe del mar"
     },
     {
       "episode": 43,
       "title": "A Letter of Challenge from the Explorers",
-      "title_es": "Una carta de desafío de los exploradores",
       "aired": "2024-03-15T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/175693174a55d1bd27_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Una carta de desafío de los exploradores"
     },
     {
       "episode": 44,
       "title": "The Plan for Capturing Rayquaza",
-      "title_es": "El plan para capturar a Rayquaza",
       "aired": "2024-03-22T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/175693191b0dd70e2c_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "El plan para capturar a Rayquaza"
     },
     {
       "episode": 45,
       "title": "To Places Far Far Away",
-      "title_es": "A lugares muy, muy lejanos",
       "aired": "2024-03-29T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/175693214c3e186d39_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "A lugares muy, muy lejanos"
     },
     {
       "episode": 46,
       "title": "How Thrilling! Naranja Academy",
-      "title_es": "¡Qué emocionante! Academia Naranja",
       "aired": "2024-04-12T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/1756932380ce7e1487_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "¡Qué emocionante! Academia Naranja"
     },
     {
       "episode": 47,
       "title": "Liko and Floragato, Put All Your Heart Into It",
-      "title_es": "Liko y Floragato, pon todo tu corazón en ello",
       "aired": "2024-04-19T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/17569325e76b9955d9_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Liko y Floragato, pon todo tu corazón en ello"
     },
     {
       "episode": 48,
       "title": "Shine! The Glimmer of Fire and Art",
-      "title_es": "¡Brillar! El brillo del fuego y el arte",
       "aired": "2024-05-03T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/17569327b2d7d336f8_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "¡Brillar! El brillo del fuego y el arte"
     },
     {
       "episode": 49,
       "title": "Dot and Nidothing",
-      "title_es": "Dot y Nidothing",
       "aired": "2024-05-10T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/175693291b17e223f9_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Dot y Nidothing"
     },
     {
       "episode": 50,
       "title": "Trending Terastallization! Dance, Dance, Quaxly!",
-      "title_es": "¡Terastalización de tendencia! ¡Baila, baila, Quaxly!",
       "aired": "2024-05-17T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/175693314471e1af25_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "¡Terastalización de tendencia! ¡Baila, baila, Quaxly!"
     },
     {
       "episode": 51,
       "title": "The Flower Tower",
-      "title_es": "La Torre de las Flores",
       "aired": "2024-05-24T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/17569333007c145a55_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "La Torre de las Flores"
     },
     {
       "episode": 52,
       "title": "Wattrel's High Wind Warning!",
-      "title_es": "¡Advertencia de fuertes vientos de Wattrel!",
       "aired": "2024-05-31T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/175693353ac5361c7b_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "¡Advertencia de fuertes vientos de Wattrel!"
     },
     {
       "episode": 53,
       "title": "Hatenna and the Otherworldly",
-      "title_es": "Hatenna y el Otro Mundo",
       "aired": "2024-06-07T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/17569337e68dd4352d_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Hatenna y el Otro Mundo"
     },
     {
       "episode": 54,
       "title": "The Treasure of Eternity",
-      "title_es": "El Tesoro de la Eternidad",
       "aired": "2024-06-14T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/175693390738989932_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "El Tesoro de la Eternidad"
     },
     {
       "episode": 55,
       "title": "Showdown! The Paldea Elite Four",
-      "title_es": "¡Confrontación! Los cuatro de élite de Paldea",
       "aired": "2024-06-21T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/17569341ba0c3906f8_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "¡Confrontación! Los cuatro de élite de Paldea"
     },
     {
       "episode": 56,
       "title": "Liko vs. Rika! Towards the Battle's End",
-      "title_es": "¡Liko contra Rika! Hacia el final de la batalla",
       "aired": "2024-06-28T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/175693430ed855493b_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "¡Liko contra Rika! Hacia el final de la batalla"
     },
     {
       "episode": 57,
       "title": "The Terapagos I Don't Know",
-      "title_es": "Las Terápagos que no conozco",
       "aired": "2024-07-05T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/17569345e1af1ed0ea_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Las Terápagos que no conozco"
     },
     {
       "episode": 58,
       "title": "Food Fit for a Kingambit!",
-      "title_es": "¡Comida digna de un Kingambit!",
       "aired": "2024-07-12T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/17569347019c43de3e_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "¡Comida digna de un Kingambit!"
     },
     {
       "episode": 59,
       "title": "Dance, Quaxly! The Blue Medali Step!",
-      "title_es": "¡Baila, Quaxly! ¡El paso Medali Azul!",
       "aired": "2024-07-26T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/17569349ef44224364_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "¡Baila, Quaxly! ¡El paso Medali Azul!"
     },
     {
       "episode": 60,
       "title": "Roy and Fuecoco's First Snow!",
-      "title_es": "¡La primera nevada de Roy y Fuecoco!",
       "aired": "2024-08-09T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/17569351acd6fd1296_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "¡La primera nevada de Roy y Fuecoco!"
     },
     {
       "episode": 61,
       "title": "Resonating Spirits in a Challenge to Ryme!",
-      "title_es": "¡Espíritus resonantes en un desafío para Ryme!",
       "aired": "2024-08-16T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/17569353f607c573c9_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "¡Espíritus resonantes en un desafío para Ryme!"
     },
     {
       "episode": 62,
       "title": "A New Song for Fuecoco",
-      "title_es": "Una nueva canción para Fuecoco",
       "aired": "2024-08-23T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/175693551377b674ad_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Una nueva canción para Fuecoco"
     },
     {
       "episode": 63,
       "title": "Ice Battle! Cold-Eyed Grusha",
-      "title_es": "¡Batalla de hielo! Grusha de ojos fríos",
       "aired": "2024-08-30T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/17569357b21f55c50c_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "¡Batalla de hielo! Grusha de ojos fríos"
     },
     {
       "episode": 64,
       "title": "The Approaching Shadow!",
-      "title_es": "¡La sombra que se acerca!",
       "aired": "2024-09-06T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/17569359de469e1f0b_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "¡La sombra que se acerca!"
     },
     {
       "episode": 65,
       "title": "Liko and Amethio",
-      "title_es": "Liko y Ametio",
       "aired": "2024-09-13T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/17569361c97fb6c123_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Liko y Ametio"
     },
     {
       "episode": 66,
       "title": "Infiltrating the System! Naranja Academy in Danger!",
-      "title_es": "¡Infiltrándose en el sistema! ¡Academia Naranja en Peligro!",
       "aired": "2024-09-20T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/175693635c527823ce_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "¡Infiltrándose en el sistema! ¡Academia Naranja en Peligro!"
     },
     {
       "episode": 67,
       "title": "Shine On, Terastallization! Liko vs. Roy!",
-      "title_es": "¡Brilla, terastalización! ¡Liko contra Roy!",
       "aired": "2024-09-27T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/1756936580dcd973f0_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "¡Brilla, terastalización! ¡Liko contra Roy!"
     },
     {
       "episode": 68,
       "title": "Into a New Sky! The Brave Olivine",
-      "title_es": "¡Hacia un nuevo cielo! El Valiente Olivino",
       "aired": "2024-10-11T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/17569367ed01dc5666_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "¡Hacia un nuevo cielo! El Valiente Olivino"
     },
     {
       "episode": 69,
       "title": "Roy Is Crocalor, and Crocalor Is Roy!",
-      "title_es": "¡Roy es Crocalor y Crocalor es Roy!",
       "aired": "2024-10-18T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/175693690ea9601f42_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "¡Roy es Crocalor y Crocalor es Roy!"
     },
     {
       "episode": 70,
       "title": "Tinkatink's Hammer Wasn't Made in a Day",
-      "title_es": "El martillo de Tinkatink no se hizo en un día",
       "aired": "2024-10-25T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/17569371561da75889_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "El martillo de Tinkatink no se hizo en un día"
     },
     {
       "episode": 71,
       "title": "Encounters at the Crystal Pool",
-      "title_es": "Encuentros en la Piscina de Cristal",
       "aired": "2024-11-01T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/17569373bbe4aadfd0_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Encuentros en la Piscina de Cristal"
     },
     {
       "episode": 72,
       "title": "The Search for Kleavor!",
-      "title_es": "¡La búsqueda de Kleavor!",
       "aired": "2024-11-08T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/175693757e012e1450_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "¡La búsqueda de Kleavor!"
     },
     {
       "episode": 73,
       "title": "Kleavor the Solitary Warrior",
-      "title_es": "Kleavor el guerrero solitario",
       "aired": "2024-11-15T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/175693778c11f3969f_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Kleavor el guerrero solitario"
     },
     {
       "episode": 74,
       "title": "The Three Explorers",
-      "title_es": "Los tres exploradores",
       "aired": "2024-11-22T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/1756937902eecf0d4c_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Los tres exploradores"
     },
     {
       "episode": 75,
       "title": "The Wonders of the World!",
-      "title_es": "¡Las maravillas del mundo!",
       "aired": "2024-11-29T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/1756938154af01b016_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "¡Las maravillas del mundo!"
     },
     {
       "episode": 76,
       "title": "Wynaut! Wy-Yes!",
-      "title_es": "¡Wynaut! Wy-¡Sí!",
       "aired": "2024-12-06T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/17569383a9b3432982_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "¡Wynaut! Wy-¡Sí!"
     },
     {
       "episode": 77,
       "title": "Ludlow's Homecoming!",
-      "title_es": "¡El regreso a casa de Ludlow!",
       "aired": "2024-12-13T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/175693853c86275055_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "¡El regreso a casa de Ludlow!"
     },
     {
       "episode": 78,
       "title": "Entei's Fierce Battle Cry!",
-      "title_es": "¡El feroz grito de batalla de Entei!",
       "aired": "2024-12-20T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/17569387e13dcf9c1d_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "¡El feroz grito de batalla de Entei!"
     },
     {
       "episode": 79,
       "title": "Over the Top",
-      "title_es": "Por encima",
       "aired": "2025-01-10T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/175693891c473c8994_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Por encima"
     },
     {
       "episode": 80,
       "title": "Tota-lie Awesome Pokemon in Area Zero?!",
-      "title_es": "¡¿Pokémon increíbles en el Área Cero ?!",
       "aired": "2025-01-17T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/175693915751663650_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "¡¿Pokémon increíbles en el Área Cero ?!"
     },
     {
       "episode": 81,
       "title": "The Pillar of Fire",
-      "title_es": "La columna de fuego",
       "aired": "2025-01-24T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/1756939347cc379516_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "La columna de fuego"
     },
     {
       "episode": 82,
       "title": "Beyond the Shining Rainbow",
-      "title_es": "Más allá del brillante arcoíris",
       "aired": "2025-01-31T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/17569395f04541fb86_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Más allá del brillante arcoíris"
     },
     {
       "episode": 83,
       "title": "The Truth Revealed!",
-      "title_es": "¡La verdad revelada!",
       "aired": "2025-02-07T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/175693971bdc07a484_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "¡La verdad revelada!"
     },
     {
       "episode": 84,
       "title": "Where the Land Meets the Sky",
-      "title_es": "Donde la tierra se encuentra con el cielo",
       "aired": "2025-02-14T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/175693996c87e6a56d_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Donde la tierra se encuentra con el cielo"
     },
     {
       "episode": 85,
       "title": "The Pokemon Paradise of Laqua",
-      "title_es": "El paraíso Pokémon de Laqua",
       "aired": "2025-02-21T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/17569401127ad66752_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "El paraíso Pokémon de Laqua"
     },
     {
       "episode": 86,
       "title": "The Rising Volt Tacklers vs. the Explorers!",
-      "title_es": "¡Los Tacklers Rising Volt contra los Exploradores!",
       "aired": "2025-02-28T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/17569403cb62abc033_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "¡Los Tacklers Rising Volt contra los Exploradores!"
     },
     {
       "episode": 87,
       "title": "Guided by the Black Rayquaza!",
-      "title_es": "¡Guiados por el Rayquaza Negro!",
       "aired": "2025-03-07T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/175694051946084744_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "¡Guiados por el Rayquaza Negro!"
     },
     {
       "episode": 88,
       "title": "The Earthshaking White Zygarde",
-      "title_es": "El Zygarde blanco que hace temblar la tierra",
       "aired": "2025-03-14T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/1756940719865fb079_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "El Zygarde blanco que hace temblar la tierra"
     },
     {
       "episode": 89,
       "title": "Where the Adventure Leads",
-      "title_es": "A dónde lleva la aventura",
       "aired": "2025-03-21T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/17569409da1e1ec8fd_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "A dónde lleva la aventura"
     },
     {
       "episode": 90,
       "title": "Eyes to the Skies Once Again (Part One)",
-      "title_es": "Ojos al cielo una vez más (Primera parte)",
       "aired": "2025-04-11T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/176740814554e287cd_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Ojos al cielo una vez más (Primera parte)"
     },
     {
       "episode": 91,
       "title": "Eyes to the Skies Once Again (Part Two)",
-      "title_es": "Ojos al cielo una vez más (Segunda parte)",
       "aired": "2025-04-11T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/17674083c8fff95146_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Ojos al cielo una vez más (Segunda parte)"
     },
     {
       "episode": 92,
       "title": "Following Traces of Laquium",
-      "title_es": "Siguiendo las huellas de Laquium",
       "aired": "2025-04-18T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/177177259a9c73013b_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Siguiendo las huellas de Laquium"
     },
     {
       "episode": 93,
       "title": "Clash of the Nidothing Fans",
-      "title_es": "Choque de fans de Nidothing",
       "aired": "2025-04-25T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/1771772717fdeaecc3_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Choque de fans de Nidothing"
     },
     {
       "episode": 94,
       "title": "The Pokemon Center Lady",
-      "title_es": "La dama del Centro Pokémon",
       "aired": "2025-05-02T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/1776010700da3e2e32_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "La dama del Centro Pokémon"
     },
     {
       "episode": 95,
       "title": "The Strong Sphere",
-      "title_es": "La Esfera Fuerte",
       "aired": "2025-05-09T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/1778333740f9b36cc0_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "La Esfera Fuerte"
     },
     {
       "episode": 96,
       "title": "Crash! Team Dragon Rampage!",
-      "title_es": "¡Chocar! ¡Equipo Dragón Alboroto!",
       "aired": "2025-05-16T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/17835031c8a73dd7d0_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "¡Chocar! ¡Equipo Dragón Alboroto!"
     },
     {
       "episode": 97,
       "title": "The Prankster",
-      "title_es": "El bromista",
       "aired": "2025-05-30T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/178627597ad513e4a1_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "El bromista"
     },
     {
       "episode": 98,
       "title": "Reunion in Cortondo",
-      "title_es": "Reunión en Cortondo",
       "aired": "2025-06-06T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/17964833db01d47cb0_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Reunión en Cortondo"
     },
     {
       "episode": 99,
       "title": "Orla, Grounded",
-      "title_es": "Orla, castigada",
       "aired": "2025-06-13T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/179967335fc878a560_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Orla, castigada"
     },
     {
       "episode": 100,
       "title": "We Are the Rising Volt Tacklers!",
-      "title_es": "¡Somos los atacantes del Volt en ascenso!",
       "aired": "2025-06-20T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/18/18028395e079e80f87_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "¡Somos los atacantes del Volt en ascenso!"
     },
     {
       "episode": 101,
       "title": "Terastallization vs. Mega Evolution!",
-      "title_es": "¡Terastalización versus megaevolución!",
       "aired": "2025-06-27T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/18/1809631727f908c70b_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "¡Terastalización versus megaevolución!"
     },
     {
       "episode": 102,
       "title": "The Knight in the Ruins",
-      "title_es": "El caballero de las ruinas",
       "aired": "2025-07-04T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/18/181148451f4a464f64_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "El caballero de las ruinas"
     },
     {
       "episode": 103,
       "title": "Nidothing Love!",
-      "title_es": "¡Nidothing Amor!",
       "aired": "2025-07-18T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/18/18160317d958876fab_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "¡Nidothing Amor!"
     },
     {
       "episode": 104,
       "title": "Charcadet's Wish!",
-      "title_es": "¡El deseo de Charcadet!",
       "aired": "2025-08-01T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/18/182204796fed273cb2_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "¡El deseo de Charcadet!"
     },
     {
       "episode": 105,
       "title": "Riding the Waves",
-      "title_es": "Montando las olas",
       "aired": "2025-08-08T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/18/182967232bbb6e3ca3_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Montando las olas"
     },
     {
       "episode": 106,
       "title": "The Dusk Ball That Wouldn't Open",
-      "title_es": "La bola del anochecer que no se abría",
       "aired": "2025-08-15T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/18/18336847a747d1cc16_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "La bola del anochecer que no se abría"
     },
     {
       "episode": 107,
       "title": "Friends as Two, Me and You",
-      "title_es": "Amigos como dos, tú y yo",
       "aired": "2025-08-22T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/18/183745536a9f7f6c19_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Amigos como dos, tú y yo"
     },
     {
       "episode": 108,
       "title": "Taking the Next Steps",
-      "title_es": "Tomando los próximos pasos",
       "aired": "2025-08-29T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/18/1840427569b641af6b_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Tomando los próximos pasos"
     },
     {
       "episode": 109,
       "title": "Tinkatuff's Hammer Wasn't Made in a Year!",
-      "title_es": "¡El martillo de Tinkatuff no se fabricó en un año!",
       "aired": "2025-09-05T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/18/184481936d50b05a54_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "¡El martillo de Tinkatuff no se fabricó en un año!"
     },
     {
       "episode": 110,
       "title": "The Six Heroes Unleashed!",
-      "title_es": "¡Los seis héroes desatados!",
       "aired": "2025-09-12T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/18/18474525e3684d43ba_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "¡Los seis héroes desatados!"
     },
     {
       "episode": 111,
       "title": "Better, Farther, Stronger!",
-      "title_es": "¡Mejor, más lejos, más fuerte!",
       "aired": "2025-09-19T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/18/18523621b8cf4e61a3_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "¡Mejor, más lejos, más fuerte!"
     },
     {
       "episode": 112,
       "title": "Mega Evolution: Roy",
-      "title_es": "Megaevolución: Roy",
       "aired": "2025-10-10T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/18/1856875746ee278aae_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Megaevolución: Roy"
     },
     {
       "episode": 113,
       "title": "Mega Evolution: Ult",
-      "title_es": "Megaevolución: definitiva",
       "aired": "2025-10-17T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/18/186692416e62ce54eb_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Megaevolución: definitiva"
     },
     {
       "episode": 114,
       "title": "Mega Evolution: Bonds",
-      "title_es": "Mega Evolución: Vínculos",
       "aired": "2025-10-24T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/18/18735943c57e3536df_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Mega Evolución: Vínculos"
     },
     {
       "episode": 115,
       "title": "Welcome to Blueberry Academy!",
-      "title_es": "¡Bienvenidos a la Academia Blueberry!",
       "aired": "2025-10-31T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/18/18758887ee42e578eb_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "¡Bienvenidos a la Academia Blueberry!"
     },
     {
       "episode": 116,
       "title": "Terarium Training!",
-      "title_es": "¡Entrenamiento en terario!",
       "aired": "2025-11-07T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/18/1880344140e81bdda4_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "¡Entrenamiento en terario!"
     },
     {
       "episode": 117,
       "title": "Ult-imate Training",
-      "title_es": "Entrenamiento definitivo",
       "aired": "2025-11-14T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/18/1884531701a3dd24d0_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Entrenamiento definitivo"
     },
     {
       "episode": 118,
       "title": "Liko and Hattrem, Bonded by Happiness!",
-      "title_es": "¡Liko y Hattrem, unidos por la felicidad!",
       "aired": "2025-11-21T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/18/189822632b3c1bea43_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "¡Liko y Hattrem, unidos por la felicidad!"
     },
     {
       "episode": 119,
       "title": "Don't Give Up, Crocalor!",
-      "title_es": "¡No te rindas, Crocalor!",
       "aired": "2025-11-28T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/19/1906260988bcd4a8f8_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "¡No te rindas, Crocalor!"
     },
     {
       "episode": 120,
       "title": "Dot and Penny's Top-Secret Mission!",
-      "title_es": "¡La misión ultrasecreta de Dot y Penny!",
       "aired": "2025-12-05T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/19/19056221695ff1805e_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "¡La misión ultrasecreta de Dot y Penny!"
     },
     {
       "episode": 121,
       "title": "The Catcher in the Sky",
-      "title_es": null,
       "aired": "2025-12-12T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/19/1910029780cd73a16b_w.webp",
       "description": null
@@ -1072,7 +1083,6 @@
     {
       "episode": 122,
       "title": "Roy vs. Friede: Wings of Fire!",
-      "title_es": null,
       "aired": "2025-12-19T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/19/191408699704ddadf8_w.webp",
       "description": null
@@ -1080,7 +1090,6 @@
     {
       "episode": 123,
       "title": "Mochi Mayhem!",
-      "title_es": null,
       "aired": "2026-01-09T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/19/19180069a2156cb190_w.webp",
       "description": null
@@ -1088,7 +1097,6 @@
     {
       "episode": 124,
       "title": "Operation Infiltration!",
-      "title_es": null,
       "aired": "2026-01-23T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/19/1931574582f9cc6d5e_w.webp",
       "description": null
@@ -1096,7 +1104,6 @@
     {
       "episode": 125,
       "title": "Battle for the Six Heroes!",
-      "title_es": null,
       "aired": "2026-01-30T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/19/19402077c25df07590_w.webp",
       "description": null
@@ -1104,7 +1111,6 @@
     {
       "episode": 126,
       "title": "Strong Bonds, Can't Lose!",
-      "title_es": null,
       "aired": "2026-02-06T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/19/1945073542738707e1_w.webp",
       "description": null
@@ -1112,7 +1118,6 @@
     {
       "episode": 127,
       "title": "The Training Royale!",
-      "title_es": null,
       "aired": "2026-02-13T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/19/194758651b97cd4f48_w.webp",
       "description": null
@@ -1120,7 +1125,6 @@
     {
       "episode": 128,
       "title": "Dot and Quaxwell Step it Up!",
-      "title_es": null,
       "aired": "2026-02-20T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/19/19521077566dcd8038_w.webp",
       "description": null
@@ -1128,7 +1132,6 @@
     {
       "episode": 129,
       "title": "Episode 129",
-      "title_es": null,
       "aired": "2026-02-27T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/19/1955667135e6c75677_w.webp",
       "description": null
@@ -1136,7 +1139,6 @@
     {
       "episode": 130,
       "title": "Hamber's Moonlight Battle",
-      "title_es": null,
       "aired": "2026-03-06T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/19/195940557e92fd31ec_w.webp",
       "description": null
@@ -1144,7 +1146,6 @@
     {
       "episode": 131,
       "title": "A Surprise Reunion",
-      "title_es": null,
       "aired": "2026-03-13T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/19/196283094959cc4ae7_w.webp",
       "description": null
@@ -1152,7 +1153,6 @@
     {
       "episode": 132,
       "title": "Lucario's Challenge!",
-      "title_es": null,
       "aired": "2026-03-20T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/19/196643530e15de12a1_w.webp",
       "description": null
@@ -1160,7 +1160,6 @@
     {
       "episode": 133,
       "title": "The Final Battle Is Near",
-      "title_es": null,
       "aired": "2026-04-10T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/19/19706535029d045b36_w.webp",
       "description": null
@@ -1168,7 +1167,6 @@
     {
       "episode": 134,
       "title": "One Step Closer",
-      "title_es": null,
       "aired": "2026-04-17T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/19/198131953ad05a2b39_w.webp",
       "description": null
@@ -1176,7 +1174,6 @@
     {
       "episode": 135,
       "title": "The Core Awakens",
-      "title_es": null,
       "aired": "2026-04-24T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/19/19890857a5c0c21a9d_w.webp",
       "description": null
@@ -1184,7 +1181,6 @@
     {
       "episode": 136,
       "title": "Stellar Finale",
-      "title_es": null,
       "aired": "2026-05-01T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/19/19890859d32bb8a54c_w.webp",
       "description": null
@@ -1192,7 +1188,6 @@
     {
       "episode": 137,
       "title": "Reboot! Off to the World of Adventure!!",
-      "title_es": null,
       "aired": "2026-05-22T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/200551431aaec68cfb_w.webp",
       "description": null
@@ -1200,7 +1195,6 @@
     {
       "episode": 138,
       "title": "Episode 138",
-      "title_es": null,
       "aired": "2026-05-29T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20055145172ffefd18_w.webp",
       "description": null
@@ -1208,7 +1202,6 @@
     {
       "episode": 139,
       "title": "Episode 139",
-      "title_es": null,
       "aired": "2026-06-05T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20087221ebeb016037_w.webp",
       "description": null
@@ -1216,7 +1209,6 @@
     {
       "episode": 140,
       "title": "Episode 140",
-      "title_es": null,
       "aired": "2026-06-12T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/201368079d7a472703_w.webp",
       "description": null
@@ -1224,7 +1216,6 @@
     {
       "episode": 141,
       "title": "Episode 141",
-      "title_es": null,
       "aired": "2026-06-19T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/2015168195f9c2bbdc_w.webp",
       "description": null
@@ -1232,7 +1223,6 @@
     {
       "episode": 142,
       "title": "Miare City! A New Encounter",
-      "title_es": null,
       "aired": "2026-06-26T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20195999f17d72dada_w.webp",
       "description": null
@@ -1240,7 +1230,6 @@
     {
       "episode": 143,
       "title": "Dream Ball to You!",
-      "title_es": null,
       "aired": "2026-07-17T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/2031899130b848e6be_w.webp",
       "description": null
@@ -1248,7 +1237,6 @@
     {
       "episode": 144,
       "title": "Navi's Little Adventure!",
-      "title_es": null,
       "aired": "2026-07-24T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/203427331e8ce8e5b9_w.webp",
       "description": null
@@ -1256,7 +1244,6 @@
     {
       "episode": 145,
       "title": "Episode 145",
-      "title_es": null,
       "aired": "2026-07-31T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/203851132fb92d0f34_w.webp",
       "description": null
@@ -1264,7 +1251,6 @@
     {
       "episode": 146,
       "title": "Episode 146",
-      "title_es": null,
       "aired": "2026-08-07T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/205171037ae192bfef_w.webp",
       "description": null
@@ -1272,7 +1258,6 @@
     {
       "episode": 147,
       "title": "Episode 147",
-      "title_es": null,
       "aired": "2026-08-28T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20545765ed5282b7cc_w.webp",
       "description": null
@@ -1280,7 +1265,6 @@
     {
       "episode": 148,
       "title": "Episode 148",
-      "title_es": null,
       "aired": "2026-09-04T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/205888079726a3cf02_w.webp",
       "description": null
@@ -1288,7 +1272,6 @@
     {
       "episode": 149,
       "title": "Episode 149",
-      "title_es": null,
       "aired": "2026-09-11T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/206282417df8749c3c_w.webp",
       "description": null
@@ -1296,7 +1279,6 @@
     {
       "episode": 150,
       "title": "Episode 150",
-      "title_es": null,
       "aired": "2026-09-18T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20634537d862882563_w.webp",
       "description": null
@@ -1304,7 +1286,6 @@
     {
       "episode": 151,
       "title": "Episode 151",
-      "title_es": null,
       "aired": "2026-09-25T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/207222095bcfbfd009_w.webp",
       "description": null
@@ -1312,7 +1293,6 @@
     {
       "episode": 152,
       "title": "Episode 152",
-      "title_es": null,
       "aired": "2026-10-02T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/207222118c3abb5d86_w.webp",
       "description": null
@@ -1320,7 +1300,6 @@
     {
       "episode": 153,
       "title": "Episode 153",
-      "title_es": null,
       "aired": "2026-10-16T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20871791022934b071_w.webp",
       "description": null
@@ -1328,7 +1307,6 @@
     {
       "episode": 154,
       "title": "Episode 154",
-      "title_es": null,
       "aired": "2016-10-23T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/2089697590e201c9ef_w.webp",
       "description": null
@@ -1336,7 +1314,6 @@
     {
       "episode": 155,
       "title": "Episode 155",
-      "title_es": null,
       "aired": "2026-10-30T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/209424078998659ad6_w.webp",
       "description": null
@@ -1344,7 +1321,6 @@
     {
       "episode": 156,
       "title": "Episode 156",
-      "title_es": null,
       "aired": "2026-11-06T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/209903675b489a14d7_w.webp",
       "description": null
@@ -1352,7 +1328,6 @@
     {
       "episode": 157,
       "title": "Episode 157",
-      "title_es": null,
       "aired": "2026-11-13T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/21/21035043b3d120eaa0_w.webp",
       "description": null
@@ -1360,7 +1335,6 @@
     {
       "episode": 158,
       "title": "Episode 158",
-      "title_es": null,
       "aired": "2026-11-20T18:55:00+09:00",
       "thumbnail": "https://simkl.in/episodes/21/2107758734da8718c6_w.webp",
       "description": null
@@ -1368,7 +1342,6 @@
     {
       "episode": 159,
       "title": "Episode 159",
-      "title_es": null,
       "aired": "2026-11-27T18:55:00+09:00",
       "thumbnail": null,
       "description": null
@@ -1378,113 +1351,113 @@
     {
       "episode": 1,
       "title": "New Year Special",
-      "title_es": "Especial de Año Nuevo",
       "aired": "2024-01-05T18:55:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Especial de Año Nuevo"
     },
     {
       "episode": 2,
       "title": "Pokemon GO Collab Short",
-      "title_es": "Cortometraje de colaboración de Pokémon GO",
       "aired": null,
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Cortometraje de colaboración de Pokémon GO"
     },
     {
       "episode": 3,
       "title": "Pokemon GO Collab Short 2",
-      "title_es": "Cortometraje de colaboración de Pokémon GO 2",
       "aired": null,
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Cortometraje de colaboración de Pokémon GO 2"
     },
     {
       "episode": 4,
       "title": "LikoRoy Channel 01",
-      "title_es": "LikoRoy Canal 01",
       "aired": null,
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "LikoRoy Canal 01"
     },
     {
       "episode": 5,
       "title": "LikoRoy Channel 02",
-      "title_es": "LikoRoy Canal 02",
       "aired": null,
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "LikoRoy Canal 02"
     },
     {
       "episode": 6,
       "title": "LikoRoy Channel 03",
-      "title_es": "LikoRoy Canal 03",
       "aired": null,
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "LikoRoy Canal 03"
     },
     {
       "episode": 7,
       "title": "LikoRoy Channel 04",
-      "title_es": "LikoRoy Canal 04",
       "aired": null,
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "LikoRoy Canal 04"
     },
     {
       "episode": 8,
       "title": "LikoRoy Channel 05",
-      "title_es": "LikoRoy Canal 05",
       "aired": null,
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "LikoRoy Canal 05"
     },
     {
       "episode": 9,
       "title": "LikoRoy Channel 06",
-      "title_es": "LikoRoy Canal 06",
       "aired": null,
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "LikoRoy Canal 06"
     },
     {
       "episode": 10,
       "title": "LikoRoy Channel 07",
-      "title_es": "LikoRoy Canal 07",
       "aired": null,
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "LikoRoy Canal 07"
     },
     {
       "episode": 11,
       "title": "LikoRoy Channel 08",
-      "title_es": "LikoRoy Canal 08",
       "aired": null,
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "LikoRoy Canal 08"
     },
     {
       "episode": 12,
       "title": "LikoRoy Channel 09",
-      "title_es": "LikoRoy Canal 09",
       "aired": null,
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "LikoRoy Canal 09"
     },
     {
       "episode": 13,
       "title": "LikoRoy Channel 10",
-      "title_es": "LikoRoy Canal 10",
       "aired": null,
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "LikoRoy Canal 10"
     }
   ],
   "characters": [],
-  "num_scoring_users": 11161,
+  "num_scoring_users": 11165,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2022-12-16T15:23:07+00:00",
+  "updated_at": "2025-03-21T18:28:05+00:00",
   "source": "game",
   "background": "Pokemon (2023) features elements and settings from the 2022 Nintendo Switch games Pokémon Scarlet and Violet by Game Freak.",
   "related_anime": [
@@ -1493,8 +1466,8 @@
         "id": 527,
         "title": "Pokemon",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1787/140239.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1787/140239l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1787/140239.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1787/140239l.jpg"
         }
       },
       "relation_type": "other",
@@ -1604,8 +1577,8 @@
         "id": 237,
         "title": "Koukyoushihen Eureka Seven",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/12/34443.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/12/34443l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/12/34443.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/12/34443l.webp"
         }
       },
       "num_recommendations": 1
@@ -1624,12 +1597,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "21437",
-      "completed": "1",
+      "watching": "21441",
+      "completed": 0,
       "on_hold": "6085",
-      "dropped": "4450",
-      "plan_to_watch": "12086"
+      "dropped": "4452",
+      "plan_to_watch": "12087"
     },
-    "num_list_users": 44059
-  }
+    "num_list_users": 44065
+  },
+  "mal_details_updated_at": "2026-11-15T17:13:25.250Z",
+  "translations_updated_at": "2026-11-15T17:24:27.307Z"
 }

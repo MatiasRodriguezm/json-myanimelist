@@ -30,8 +30,8 @@
   "num_episodes": 24,
   "score": 8.66,
   "mean": 8.66,
-  "numListUsers": 274420,
-  "num_list_users": 274420,
+  "numListUsers": 274436,
+  "num_list_users": 274436,
   "genres": [
     {
       "id": 1,
@@ -60,7 +60,14 @@
       "name": "B.COOL STUDIO"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1190/147034l.webp",
+    "https://cdn.myanimelist.net/images/anime/1232/148474l.webp",
+    "https://cdn.myanimelist.net/images/anime/1492/150628l.webp",
+    "https://cdn.myanimelist.net/images/anime/1389/152049l.webp",
+    "https://cdn.myanimelist.net/images/anime/1604/154509l.webp",
+    "https://cdn.myanimelist.net/images/anime/1363/157436l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/4b0oKiGtlwX19b0y6tQQC1ea0o5.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/vXGfIlREc2VnzuLD86Huz7T4SMc.png",
   "tmdb_id": "272059",
@@ -77,12 +84,12 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1492/150628l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1190/147034l.webp"
     }
   },
   "broadcast": null,
   "rank": 88,
-  "popularity": 1057,
+  "popularity": 1056,
   "rating": "pg_13",
   "simkl_id": 2025858,
   "episodes_data": [
@@ -281,10 +288,10 @@
   ],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 124552,
+  "num_scoring_users": 124818,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2022-10-29T13:20:01+00:00",
+  "updated_at": "2026-07-23T20:20:52+00:00",
   "source": "original",
   "background": null,
   "related_anime": [
@@ -329,8 +336,8 @@
         "id": 62576,
         "title": "Tu Bian Yingxiong X Character Concept Movie",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1703/159139.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1703/159139l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1703/159139.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1703/159139l.webp"
         }
       },
       "relation_type": "character",
@@ -344,8 +351,8 @@
         "id": 31964,
         "title": "Boku no Hero Academia",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/10/78745.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/10/78745l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/10/78745.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/78745l.jpg"
         }
       },
       "num_recommendations": 4
@@ -443,8 +450,8 @@
         "id": 35848,
         "title": "Promare",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1008/101845.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1008/101845l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1008/101845.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1008/101845l.jpg"
         }
       },
       "num_recommendations": 1
@@ -452,12 +459,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "56477",
-      "completed": "125158",
-      "on_hold": "10970",
-      "dropped": "10425",
-      "plan_to_watch": "70439"
+      "watching": "56469",
+      "completed": "125476",
+      "on_hold": "10994",
+      "dropped": "10461",
+      "plan_to_watch": "70520"
     },
-    "num_list_users": 273469
-  }
+    "num_list_users": 273920
+  },
+  "mal_details_updated_at": "2026-11-15T17:21:43.075Z",
+  "translations_updated_at": "2026-11-15T17:24:02.868Z"
 }

@@ -30,8 +30,8 @@
   "num_episodes": 24,
   "score": 8.83,
   "mean": 8.83,
-  "numListUsers": 904869,
-  "num_list_users": 904869,
+  "numListUsers": 904910,
+  "num_list_users": 904910,
   "genres": [
     {
       "id": 1,
@@ -64,7 +64,13 @@
       "name": "MAPPA"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1833/116404l.webp",
+    "https://cdn.myanimelist.net/images/anime/1170/124312l.webp",
+    "https://cdn.myanimelist.net/images/anime/1227/124318l.webp",
+    "https://cdn.myanimelist.net/images/anime/1763/136447l.webp",
+    "https://cdn.myanimelist.net/images/anime/1881/136448l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/sPN7Ylc7swmyukJeQBNcRAl9usS.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/3gRatXdgLfzYU9q9WRwuQaIvpGQ.png",
   "tmdb_id": "88803",
@@ -81,7 +87,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1170/124312l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1833/116404l.webp"
     }
   },
   "broadcast": {
@@ -92,7 +98,7 @@
     "timezone": "Asia/Tokyo",
     "string": "tuesday 00:30"
   },
-  "rank": 35,
+  "rank": 36,
   "popularity": 241,
   "rating": "r",
   "simkl_id": 1681241,
@@ -309,10 +315,10 @@
     }
   ],
   "characters": [],
-  "num_scoring_users": 516890,
+  "num_scoring_users": 517669,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2021-07-07T12:25:57+00:00",
+  "updated_at": "2025-10-22T18:36:58+00:00",
   "source": "manga",
   "background": "Vinland Saga Season 2 was released on Blu-ray and DVD in two volumes from June 21, 2023, to August 23, 2023.",
   "related_anime": [
@@ -321,8 +327,8 @@
         "id": 37521,
         "title": "Vinland Saga",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1500/103005.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1500/103005l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1500/103005.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1500/103005l.jpg"
         }
       },
       "relation_type": "prequel",
@@ -333,8 +339,8 @@
         "id": 54463,
         "title": "Vinland Saga Season 2: Drowning in the Shadow",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1118/133378.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1118/133378l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1118/133378.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1118/133378l.jpg"
         }
       },
       "relation_type": "side_story",
@@ -345,8 +351,8 @@
         "id": 55272,
         "title": "Vinland Saga Season 2: Same Old Story",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1528/135912.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1528/135912l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1528/135912.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1528/135912l.webp"
         }
       },
       "relation_type": "side_story",
@@ -393,8 +399,8 @@
         "id": 49827,
         "title": "Kidou Senshi Gundam: Cucuruz Doan no Shima",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1629/124154.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1629/124154l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1629/124154.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1629/124154l.webp"
         }
       },
       "num_recommendations": 1
@@ -404,8 +410,8 @@
         "id": 48569,
         "title": "86 Part 2",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1321/117508.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1321/117508l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1321/117508.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1321/117508l.jpg"
         }
       },
       "num_recommendations": 1
@@ -468,12 +474,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "97425",
-      "completed": "608614",
-      "on_hold": "17994",
-      "dropped": "10165",
-      "plan_to_watch": "169257"
+      "watching": "97431",
+      "completed": "609652",
+      "on_hold": "18032",
+      "dropped": "10191",
+      "plan_to_watch": "169336"
     },
-    "num_list_users": 903455
-  }
+    "num_list_users": 904642
+  },
+  "mal_details_updated_at": "2026-11-15T17:19:57.763Z",
+  "translations_updated_at": "2026-11-15T17:23:55.373Z"
 }

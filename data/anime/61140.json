@@ -30,8 +30,8 @@
   "num_episodes": 23,
   "score": 6.39,
   "mean": 6.39,
-  "numListUsers": 12298,
-  "num_list_users": 12298,
+  "numListUsers": 12303,
+  "num_list_users": 12303,
   "genres": [
     {
       "id": 1,
@@ -52,7 +52,13 @@
       "name": "Konami animation"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1772/151303l.webp",
+    "https://cdn.myanimelist.net/images/anime/1562/152258l.webp",
+    "https://cdn.myanimelist.net/images/anime/1405/156377l.webp",
+    "https://cdn.myanimelist.net/images/anime/1827/159314l.webp",
+    "https://cdn.myanimelist.net/images/anime/1579/160352l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/sqfxKwR0mYva1LJlkMqIMNb2W36.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/mVemzOPsHUCFTFUAmPEueKDFTxC.png",
   "tmdb_id": "285710",
@@ -69,7 +75,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1579/160352l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1772/151303l.webp"
     }
   },
   "broadcast": {
@@ -81,113 +87,113 @@
     "string": "tuesday 23:30"
   },
   "rank": 8807,
-  "popularity": 6870,
+  "popularity": 6868,
   "rating": "pg_13",
   "simkl_id": 2731104,
   "episodes_data": [
     {
       "episode": 1,
       "title": "Hometown",
-      "title_es": "Ciudad natal",
       "aired": "2026-10-03T23:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/2081470955b9f221fb_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Ciudad natal"
     },
     {
       "episode": 2,
       "title": "Mad Prince Luca",
-      "title_es": "Príncipe Loco Luca",
       "aired": "2026-10-13T23:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/2091675349c8609f52_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Príncipe Loco Luca"
     },
     {
       "episode": 3,
       "title": "The Runes",
-      "title_es": "Las Runas",
       "aired": "2026-10-20T23:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20916755ef528f8f6d_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Las Runas"
     },
     {
       "episode": 4,
       "title": "Turning Point",
-      "title_es": "Punto de inflexión",
       "aired": "2026-10-27T23:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/209618018e3fcfe93f_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Punto de inflexión"
     },
     {
       "episode": 5,
       "title": "Parting Ways",
-      "title_es": "Separando caminos",
       "aired": "2026-11-03T23:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/21/21009667dae849ff6d_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Separando caminos"
     },
     {
       "episode": 6,
       "title": "The Strategist",
-      "title_es": "El estratega",
       "aired": "2026-11-10T23:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/21/2105291945e803832d_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "El estratega"
     },
     {
       "episode": 7,
       "title": "Episode 7",
-      "title_es": "Episodio 7",
       "aired": "2026-11-17T23:30:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 7"
     },
     {
       "episode": 8,
       "title": "Episode 8",
-      "title_es": "Episodio 8",
       "aired": "2026-11-24T23:30:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 8"
     },
     {
       "episode": 9,
       "title": "Episode 9",
-      "title_es": "Episodio 9",
       "aired": "2026-12-01T23:30:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 9"
     },
     {
       "episode": 10,
       "title": "Episode 10",
-      "title_es": "Episodio 10",
       "aired": "2026-12-08T23:30:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 10"
     },
     {
       "episode": 11,
       "title": "Episode 11",
-      "title_es": "Episodio 11",
       "aired": "2026-12-15T23:30:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 11"
     },
     {
       "episode": 12,
       "title": "Episode 12",
-      "title_es": "Episodio 12",
       "aired": "2026-12-22T23:30:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 12"
     }
   ],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 1298,
+  "num_scoring_users": 1303,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2025-03-03T23:57:57+00:00",
+  "updated_at": "2026-10-13T16:31:03+00:00",
   "source": "game",
   "background": null,
   "related_anime": [],
@@ -207,12 +213,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "4552",
-      "completed": "3",
-      "on_hold": "229",
-      "dropped": "903",
-      "plan_to_watch": "6591"
+      "watching": "4563",
+      "completed": 0,
+      "on_hold": "230",
+      "dropped": "908",
+      "plan_to_watch": "6603"
     },
-    "num_list_users": 12278
-  }
+    "num_list_users": 12304
+  },
+  "mal_details_updated_at": "2026-11-15T17:14:50.709Z",
+  "translations_updated_at": "2026-11-15T17:24:36.429Z"
 }

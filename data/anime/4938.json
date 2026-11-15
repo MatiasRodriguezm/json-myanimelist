@@ -67,7 +67,12 @@
       "name": "Production I.G"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/13/14186l.webp",
+    "https://cdn.myanimelist.net/images/anime/9/33841l.webp",
+    "https://cdn.myanimelist.net/images/anime/10/76631l.webp",
+    "https://cdn.myanimelist.net/images/anime/1975/116552l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/6yEPWAfQQmkZTht21z9OYZP9f8E.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/hJJrDltSIDfZhQDF2GFKacGXPY.png",
   "tmdb_id": "37565",
@@ -84,11 +89,11 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/9/33841l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/13/14186l.webp"
     }
   },
   "broadcast": null,
-  "rank": 649,
+  "rank": 650,
   "popularity": 3183,
   "rating": "r",
   "simkl_id": 39704,
@@ -112,10 +117,10 @@
   ],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 31167,
+  "num_scoring_users": 31170,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2008-07-17T23:27:43+00:00",
+  "updated_at": "2023-08-02T04:46:53+00:00",
   "source": "manga",
   "background": "Bundled with the limited editions of the 26th and 27th volumes of the Tsubasa Chronicle manga.",
   "related_anime": [
@@ -136,8 +141,8 @@
         "id": 4918,
         "title": "xxxHOLiC Shunmuki",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/12/25079.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/12/25079l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/12/25079.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/12/25079l.webp"
         }
       },
       "relation_type": "side_story",
@@ -151,8 +156,8 @@
         "id": 4918,
         "title": "xxxHOLiC Shunmuki",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/12/25079.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/12/25079l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/12/25079.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/12/25079l.webp"
         }
       },
       "num_recommendations": 1
@@ -162,8 +167,8 @@
         "id": 8311,
         "title": "Tegamibachi Reverse",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/4/26472.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/4/26472l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/4/26472.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/4/26472l.jpg"
         }
       },
       "num_recommendations": 1
@@ -184,8 +189,8 @@
         "id": 13667,
         "title": "Naruto: Shippuuden Movie 6 - Road to Ninja",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1620/94336.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1620/94336l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1620/94336.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1620/94336l.webp"
         }
       },
       "num_recommendations": 1
@@ -195,8 +200,8 @@
         "id": 21639,
         "title": "Yu☆Gi☆Oh! Arc-V",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/10/62939.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/10/62939l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/10/62939.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/62939l.jpg"
         }
       },
       "num_recommendations": 1
@@ -204,12 +209,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "1834",
-      "completed": "45236",
-      "on_hold": "959",
+      "watching": "1838",
+      "completed": "45242",
+      "on_hold": "961",
       "dropped": "653",
-      "plan_to_watch": "17249"
+      "plan_to_watch": "17250"
     },
-    "num_list_users": 65931
-  }
+    "num_list_users": 65944
+  },
+  "mal_details_updated_at": "2026-11-15T17:21:33.083Z",
+  "translations_updated_at": "2026-11-15T17:24:24.927Z"
 }

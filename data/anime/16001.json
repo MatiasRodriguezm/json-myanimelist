@@ -33,8 +33,8 @@
   "num_episodes": 4,
   "score": 7.9,
   "mean": 7.9,
-  "numListUsers": 276859,
-  "num_list_users": 276859,
+  "numListUsers": 276860,
+  "num_list_users": 276860,
   "genres": [
     {
       "id": 8,
@@ -59,11 +59,16 @@
       "name": "SILVER LINK."
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/10/45526l.webp",
+    "https://cdn.myanimelist.net/images/anime/8/51865l.webp",
+    "https://cdn.myanimelist.net/images/anime/6/53659l.webp",
+    "https://cdn.myanimelist.net/images/anime/1755/98075l.webp"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T13:06:07.750Z",
+  "tmdb_updated_at": "2026-11-15T17:22:06.928Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/10/45526.webp",
@@ -225,10 +230,10 @@
     }
   ],
   "characters": [],
-  "num_scoring_users": 178936,
+  "num_scoring_users": 178963,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2012-10-18T20:11:11+00:00",
+  "updated_at": "2022-04-20T07:09:07+00:00",
   "source": "light_novel",
   "background": "Episodes 14 and 15 aired at a special event at Cinemart Shinjuku from November 19 to 25, 2012. Episodes 16 and 17 aired at a special event at Cinemart Shinjuku from December 10 to 16. All four episodes aired on AT-X on December 30. The first and second pairs of episodes were released on Blu-ray on March 27 and April 17, 2013. ",
   "related_anime": [
@@ -263,8 +268,8 @@
         "id": 228,
         "title": "Jigoku Shoujo",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/4/86907.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/4/86907l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/4/86907.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/4/86907l.webp"
         }
       },
       "num_recommendations": 1
@@ -274,8 +279,8 @@
         "id": 4224,
         "title": "Toradora!",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/13/22128.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/13/22128l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/13/22128.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/13/22128l.jpg"
         }
       },
       "num_recommendations": 1
@@ -296,8 +301,8 @@
         "id": 31553,
         "title": "Charlotte: Tsuyoimono-tachi",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1709/98068.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1709/98068l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1709/98068.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1709/98068l.jpg"
         }
       },
       "num_recommendations": 1
@@ -305,12 +310,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "5006",
-      "completed": "230743",
-      "on_hold": "2367",
-      "dropped": "1672",
-      "plan_to_watch": "36956"
+      "watching": "5007",
+      "completed": "230789",
+      "on_hold": "2370",
+      "dropped": "1673",
+      "plan_to_watch": "36963"
     },
-    "num_list_users": 276744
-  }
+    "num_list_users": 276802
+  },
+  "mal_details_updated_at": "2026-11-15T17:22:06.690Z",
+  "translations_updated_at": "2026-11-15T17:24:14.164Z"
 }

@@ -32,8 +32,8 @@
   "num_episodes": 22,
   "score": 8.89,
   "mean": 8.89,
-  "numListUsers": 445712,
-  "num_list_users": 445712,
+  "numListUsers": 445721,
+  "num_list_users": 445721,
   "genres": [
     {
       "id": 8,
@@ -54,7 +54,13 @@
       "name": "Shaft"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/3/88469l.webp",
+    "https://cdn.myanimelist.net/images/anime/1325/96912l.webp",
+    "https://cdn.myanimelist.net/images/anime/1429/100628l.webp",
+    "https://cdn.myanimelist.net/images/anime/1818/108774l.webp",
+    "https://cdn.myanimelist.net/images/anime/1745/108775l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/mLzJpP9YRexGbvgiqunirAM5HAA.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/4716QMHw5W11TP3BEGdEvJoWLWl.png",
   "tmdb_id": "65336",
@@ -83,7 +89,7 @@
     "string": "saturday 23:00"
   },
   "rank": 25,
-  "popularity": 615,
+  "popularity": 616,
   "rating": "pg_13",
   "simkl_id": 669743,
   "episodes_data": [
@@ -275,10 +281,10 @@
     }
   ],
   "characters": [],
-  "num_scoring_users": 218521,
+  "num_scoring_users": 218604,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2017-03-18T15:14:28+00:00",
+  "updated_at": "2026-03-20T13:11:55+00:00",
   "source": "manga",
   "background": null,
   "related_anime": [
@@ -422,12 +428,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "28207",
-      "completed": "256769",
-      "on_hold": "11417",
-      "dropped": "6483",
-      "plan_to_watch": "142581"
+      "watching": "28231",
+      "completed": "256866",
+      "on_hold": "11420",
+      "dropped": "6485",
+      "plan_to_watch": "142624"
     },
-    "num_list_users": 445457
-  }
+    "num_list_users": 445626
+  },
+  "mal_details_updated_at": "2026-11-15T17:13:06.317Z",
+  "translations_updated_at": "2026-11-15T17:23:59.493Z"
 }

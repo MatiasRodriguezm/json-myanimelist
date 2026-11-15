@@ -50,11 +50,13 @@
       "name": "SANZIGEN"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1935/160726l.webp"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T13:05:05.627Z",
+  "tmdb_updated_at": "2026-11-15T17:16:42.935Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1935/160726.webp",
@@ -72,16 +74,16 @@
   },
   "broadcast": null,
   "rank": null,
-  "popularity": 30500,
+  "popularity": 30471,
   "rating": "pg_13",
   "simkl_id": null,
   "episodes_data": [],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 31,
+  "num_scoring_users": 32,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2026-10-27T16:03:38+00:00",
+  "updated_at": "2026-10-27T16:03:38+00:00",
   "source": "original",
   "background": null,
   "related_anime": [],
@@ -90,11 +92,13 @@
   "statistics": {
     "status": {
       "watching": "2",
-      "completed": "45",
+      "completed": "48",
       "on_hold": 0,
       "dropped": "6",
-      "plan_to_watch": "10"
+      "plan_to_watch": "11"
     },
-    "num_list_users": 63
-  }
+    "num_list_users": 67
+  },
+  "mal_details_updated_at": "2026-11-15T17:16:42.496Z",
+  "translations_updated_at": "2026-11-15T17:25:11.308Z"
 }

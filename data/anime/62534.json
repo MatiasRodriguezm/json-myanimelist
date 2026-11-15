@@ -52,7 +52,12 @@
       "name": "M.S.C"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1530/154497l.webp",
+    "https://cdn.myanimelist.net/images/anime/1475/156294l.webp",
+    "https://cdn.myanimelist.net/images/anime/1760/159517l.webp",
+    "https://cdn.myanimelist.net/images/anime/1529/159518l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/x3kTIGpx66VUTlUsPASyfjAlp98.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/sbvUf8kWE87Gn6pS5tC5PmqJRH6.png",
   "tmdb_id": "205493",
@@ -69,7 +74,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1529/159518l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1530/154497l.webp"
     }
   },
   "broadcast": {
@@ -80,114 +85,114 @@
     "timezone": "Asia/Tokyo",
     "string": "thursday 00:00"
   },
-  "rank": 7273,
-  "popularity": 10993,
+  "rank": 7275,
+  "popularity": 10991,
   "rating": "pg_13",
   "simkl_id": 3249262,
   "episodes_data": [
     {
       "episode": 1,
       "title": "Team Japan's Next Challenge",
-      "title_es": "El próximo desafío del equipo de Japón",
       "aired": "2026-10-01T00:00:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20877781f8559ba621_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "El próximo desafío del equipo de Japón"
     },
     {
       "episode": 2,
       "title": "The Selection Match Begins!",
-      "title_es": "¡Comienza el partido de selección!",
       "aired": "2026-10-08T00:00:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20877783888f7a8495_w.webp",
-      "description": "Nostalgic pairs and repeated rivals, each player battles to secure their spot on the Team. Even..."
+      "description": "Nostalgic pairs and repeated rivals, each player battles to secure their spot on the Team. Even...",
+      "title_es": "¡Comienza el partido de selección!"
     },
     {
       "episode": 3,
       "title": "Men Who Never Give Up",
-      "title_es": "Hombres que nunca se rinden",
       "aired": "2026-10-15T00:00:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/208842753c9f15d232_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Hombres que nunca se rinden"
     },
     {
       "episode": 4,
       "title": "Episode 4",
-      "title_es": "Episodio 4",
       "aired": "2026-10-22T00:00:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/209298239aac0f0b53_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Episodio 4"
     },
     {
       "episode": 5,
       "title": "Episode 5",
-      "title_es": "Episodio 5",
       "aired": "2026-10-29T00:00:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/209761579279e43d3b_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Episodio 5"
     },
     {
       "episode": 6,
       "title": "Episode 6",
-      "title_es": "Episodio 6",
       "aired": "2026-11-05T00:00:00+09:00",
       "thumbnail": "https://simkl.in/episodes/21/21022141c383c30129_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Episodio 6"
     },
     {
       "episode": 7,
       "title": "Episode 7",
-      "title_es": "Episodio 7",
       "aired": "2026-11-12T00:00:00+09:00",
       "thumbnail": "https://simkl.in/episodes/21/210661014787b580c0_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Episodio 7"
     },
     {
       "episode": 8,
       "title": "Episode 8",
-      "title_es": "Episodio 8",
       "aired": "2026-11-19T00:00:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 8"
     },
     {
       "episode": 9,
       "title": "Episode 9",
-      "title_es": "Episodio 9",
       "aired": "2026-11-26T00:00:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 9"
     },
     {
       "episode": 10,
       "title": "Episode 10",
-      "title_es": "Episodio 10",
       "aired": "2026-12-03T00:00:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 10"
     },
     {
       "episode": 11,
       "title": "Episode 11",
-      "title_es": "Episodio 11",
       "aired": "2026-12-10T00:00:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 11"
     },
     {
       "episode": 12,
       "title": "Episode 12",
-      "title_es": "Episodio 12",
       "aired": "2026-12-17T00:00:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 12"
     }
   ],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 270,
+  "num_scoring_users": 271,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2025-09-21T09:25:01+00:00",
+  "updated_at": "2026-10-02T23:42:18+00:00",
   "source": "manga",
   "background": null,
   "related_anime": [
@@ -208,12 +213,14 @@
   "recommendations": [],
   "statistics": {
     "status": {
-      "watching": "1258",
+      "watching": "1259",
       "completed": 0,
-      "on_hold": "72",
-      "dropped": "131",
-      "plan_to_watch": "2042"
+      "on_hold": "73",
+      "dropped": "132",
+      "plan_to_watch": "2044"
     },
-    "num_list_users": 3503
-  }
+    "num_list_users": 3508
+  },
+  "mal_details_updated_at": "2026-11-15T17:14:39.153Z",
+  "translations_updated_at": "2026-11-15T17:24:43.386Z"
 }

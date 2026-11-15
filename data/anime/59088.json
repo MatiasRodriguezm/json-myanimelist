@@ -30,8 +30,8 @@
   "num_episodes": 13,
   "score": 7.82,
   "mean": 7.82,
-  "numListUsers": 87188,
-  "num_list_users": 87188,
+  "numListUsers": 87234,
+  "num_list_users": 87234,
   "genres": [
     {
       "id": 1,
@@ -60,7 +60,11 @@
       "name": "LIDENFILMS"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1051/143611l.webp",
+    "https://cdn.myanimelist.net/images/anime/1340/148694l.webp",
+    "https://cdn.myanimelist.net/images/anime/1321/159720l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/zYIFOocMfsKAEysBjhZ8akfXFdB.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/eEGzmdEdVEkduO8IYsltQZo5ejO.png",
   "tmdb_id": "105009",
@@ -77,7 +81,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1321/159720l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1051/143611l.webp"
     }
   },
   "broadcast": {
@@ -89,113 +93,113 @@
     "string": "saturday 01:23"
   },
   "rank": 1149,
-  "popularity": 2707,
+  "popularity": 2704,
   "rating": "r",
   "simkl_id": 2493596,
   "episodes_data": [
     {
       "episode": 1,
       "title": "Break Up",
-      "title_es": "Romper",
       "aired": "2026-10-03T01:23:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/2078671952c2878f3e_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Romper"
     },
     {
       "episode": 2,
       "title": "Episode 2",
-      "title_es": "Episodio 2",
       "aired": "2026-10-10T01:23:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/208482855fe0e8d4b1_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Episodio 2"
     },
     {
       "episode": 3,
       "title": "Episode 3",
-      "title_es": "Episodio 3",
       "aired": "2026-10-17T01:23:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20877431e060bda142_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Episodio 3"
     },
     {
       "episode": 4,
       "title": "Episode 4",
-      "title_es": "Episodio 4",
       "aired": "2026-10-24T01:23:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/209229857c7d8b5490_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Episodio 4"
     },
     {
       "episode": 5,
       "title": "Episode 5",
-      "title_es": "Episodio 5",
       "aired": "2026-10-31T01:23:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20967761acad43ef70_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Episodio 5"
     },
     {
       "episode": 6,
       "title": "Episode 6",
-      "title_es": "Episodio 6",
       "aired": "2026-11-07T01:23:00+09:00",
       "thumbnail": "https://simkl.in/episodes/21/210160498c95bf9f1d_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Episodio 6"
     },
     {
       "episode": 7,
       "title": "Episode 7",
-      "title_es": "Episodio 7",
       "aired": "2026-11-14T01:23:00+09:00",
       "thumbnail": "https://simkl.in/episodes/21/21066507ab1081cabe_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Episodio 7"
     },
     {
       "episode": 8,
       "title": "Episode 8",
-      "title_es": "Episodio 8",
       "aired": "2026-11-21T01:23:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 8"
     },
     {
       "episode": 9,
       "title": "Episode 9",
-      "title_es": "Episodio 9",
       "aired": "2026-11-28T01:23:00+09:00",
       "thumbnail": "https://simkl.in/episodes/11/11437820156a1052cc_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Episodio 9"
     },
     {
       "episode": 10,
       "title": "Episode 10",
-      "title_es": "Episodio 10",
       "aired": "2026-12-05T01:23:00+09:00",
       "thumbnail": "https://simkl.in/episodes/11/11439340caac7b6750_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Episodio 10"
     },
     {
       "episode": 11,
       "title": "Episode 11",
-      "title_es": "Episodio 11",
       "aired": "2026-12-12T01:23:00+09:00",
       "thumbnail": "https://simkl.in/episodes/11/1150740044d2b68e7d_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Episodio 11"
     },
     {
       "episode": 12,
       "title": "Episode 12",
-      "title_es": "Episodio 12",
       "aired": "2026-12-19T01:23:00+09:00",
       "thumbnail": "https://simkl.in/episodes/11/11518522661e4e7e62_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Episodio 12"
     }
   ],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 6484,
+  "num_scoring_users": 6524,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2024-06-16T13:13:33+00:00",
+  "updated_at": "2026-10-02T23:30:37+00:00",
   "source": "manga",
   "background": "Tokyo Revengers: Santen Sensou-hen aired on MBS' Animeism block.",
   "related_anime": [
@@ -216,12 +220,14 @@
   "recommendations": [],
   "statistics": {
     "status": {
-      "watching": "33397",
-      "completed": "34",
-      "on_hold": "787",
-      "dropped": "515",
-      "plan_to_watch": "52366"
+      "watching": "33530",
+      "completed": "7",
+      "on_hold": "792",
+      "dropped": "520",
+      "plan_to_watch": "52377"
     },
-    "num_list_users": 87099
-  }
+    "num_list_users": 87226
+  },
+  "mal_details_updated_at": "2026-11-15T17:13:14.895Z",
+  "translations_updated_at": "2026-11-15T17:24:30.965Z"
 }

@@ -66,11 +66,15 @@
       "name": "Sunrise"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/6/16161l.webp",
+    "https://cdn.myanimelist.net/images/anime/12/24962l.webp",
+    "https://cdn.myanimelist.net/images/anime/13/24963l.webp"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T13:06:03.364Z",
+  "tmdb_updated_at": "2026-11-15T17:21:47.877Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/6/16161.webp",
@@ -1760,10 +1764,10 @@
     }
   ],
   "characters": [],
-  "num_scoring_users": 37241,
+  "num_scoring_users": 37243,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2009-08-06T12:26:19+00:00",
+  "updated_at": "2026-08-26T07:28:51+00:00",
   "source": "manga",
   "background": null,
   "related_anime": [
@@ -1787,8 +1791,8 @@
         "id": 30514,
         "title": "Nisekoimonogatari",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1940/121746.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1940/121746l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1940/121746.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1940/121746l.jpg"
         }
       },
       "num_recommendations": 1
@@ -1797,11 +1801,13 @@
   "statistics": {
     "status": {
       "watching": "1924",
-      "completed": "55097",
-      "on_hold": "713",
-      "dropped": "670",
-      "plan_to_watch": "18155"
+      "completed": "55108",
+      "on_hold": "715",
+      "dropped": "671",
+      "plan_to_watch": "18157"
     },
-    "num_list_users": 76559
-  }
+    "num_list_users": 76575
+  },
+  "mal_details_updated_at": "2026-11-15T17:21:47.631Z",
+  "translations_updated_at": "2026-11-15T17:24:06.563Z"
 }

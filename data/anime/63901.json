@@ -30,8 +30,8 @@
   "num_episodes": null,
   "score": null,
   "mean": null,
-  "numListUsers": 367,
-  "num_list_users": 367,
+  "numListUsers": 368,
+  "num_list_users": 368,
   "genres": [
     {
       "id": 4,
@@ -48,11 +48,14 @@
       "name": "Lesprit"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1247/156572l.webp",
+    "https://cdn.myanimelist.net/images/anime/1551/159808l.webp"
+  ],
   "backdrop_url": null,
   "logo_url": "https://image.tmdb.org/t/p/w300/v1k2JRs5IyzxsFm1A2kiNujmgs.png",
   "tmdb_id": "337195",
-  "tmdb_updated_at": "2026-11-15T13:04:46.400Z",
+  "tmdb_updated_at": "2026-11-15T17:16:06.071Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1551/159808.webp",
@@ -65,7 +68,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1551/159808l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1247/156572l.webp"
     }
   },
   "broadcast": {
@@ -76,114 +79,114 @@
     "timezone": "Asia/Tokyo",
     "string": "saturday 16:29"
   },
-  "rank": 20882,
-  "popularity": 20969,
+  "rank": 20883,
+  "popularity": 20926,
   "rating": "g",
   "simkl_id": 3273448,
   "episodes_data": [
     {
       "episode": 1,
       "title": "Episode 1",
-      "title_es": "Episodio 1",
       "aired": "2026-10-03T16:30:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 1"
     },
     {
       "episode": 2,
       "title": "Episode 2",
-      "title_es": "Episodio 2",
       "aired": "2026-10-10T16:30:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 2"
     },
     {
       "episode": 3,
       "title": "Episode 3",
-      "title_es": "Episodio 3",
       "aired": "2026-10-17T16:30:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 3"
     },
     {
       "episode": 4,
       "title": "Episode 4",
-      "title_es": "Episodio 4",
       "aired": "2026-10-24T16:30:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 4"
     },
     {
       "episode": 5,
       "title": "Episode 5",
-      "title_es": "Episodio 5",
       "aired": "2026-10-31T16:30:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 5"
     },
     {
       "episode": 6,
       "title": "Episode 6",
-      "title_es": "Episodio 6",
       "aired": "2026-11-07T16:30:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 6"
     },
     {
       "episode": 7,
       "title": "Episode 7",
-      "title_es": "Episodio 7",
       "aired": "2026-11-14T16:30:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 7"
     },
     {
       "episode": 8,
       "title": "Episode 8",
-      "title_es": "Episodio 8",
       "aired": "2026-11-21T16:30:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 8"
     },
     {
       "episode": 9,
       "title": "Episode 9",
-      "title_es": "Episodio 9",
       "aired": "2026-11-28T16:30:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 9"
     },
     {
       "episode": 10,
       "title": "Episode 10",
-      "title_es": "Episodio 10",
       "aired": "2026-12-05T16:30:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 10"
     },
     {
       "episode": 11,
       "title": "Episode 11",
-      "title_es": "Episodio 11",
       "aired": "2026-12-12T16:30:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 11"
     },
     {
       "episode": 12,
       "title": "Episode 12",
-      "title_es": "Episodio 12",
       "aired": "2026-12-19T16:30:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 12"
     }
   ],
   "specials_data": [],
   "characters": [],
   "num_scoring_users": 28,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2026-04-04T12:58:52+00:00",
+  "updated_at": "2026-09-01T00:40:20+00:00",
   "source": "other",
   "background": null,
   "related_anime": [
@@ -204,12 +207,14 @@
   "recommendations": [],
   "statistics": {
     "status": {
-      "watching": "90",
+      "watching": "91",
       "completed": 0,
       "on_hold": "4",
       "dropped": "49",
-      "plan_to_watch": "223"
+      "plan_to_watch": "224"
     },
-    "num_list_users": 366
-  }
+    "num_list_users": 368
+  },
+  "mal_details_updated_at": "2026-11-15T17:16:05.414Z",
+  "translations_updated_at": "2026-11-15T17:24:59.511Z"
 }

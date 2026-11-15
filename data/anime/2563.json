@@ -30,8 +30,8 @@
   "num_episodes": 1,
   "score": 8,
   "mean": 8,
-  "numListUsers": 42718,
-  "num_list_users": 42718,
+  "numListUsers": 42721,
+  "num_list_users": 42721,
   "genres": [
     {
       "id": 63,
@@ -56,7 +56,10 @@
       "name": "HAL Film Maker"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/10/8542l.webp",
+    "https://cdn.myanimelist.net/images/anime/11/77622l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/9ZfSM7eZVLbjYdZB31tlUi2egR8.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/oZM43BqZjXCFKODCY1FacfxnVt8.png",
   "tmdb_id": "53787",
@@ -73,12 +76,12 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/11/77622l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/10/8542l.webp"
     }
   },
   "broadcast": null,
   "rank": 763,
-  "popularity": 4083,
+  "popularity": 4084,
   "rating": "g",
   "simkl_id": 40450,
   "episodes_data": [
@@ -102,10 +105,10 @@
     }
   ],
   "characters": [],
-  "num_scoring_users": 18998,
+  "num_scoring_users": 19004,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2007-05-31T09:38:39+00:00",
+  "updated_at": "2025-03-31T20:47:20+00:00",
   "source": "manga",
   "background": null,
   "related_anime": [
@@ -138,12 +141,14 @@
   "recommendations": [],
   "statistics": {
     "status": {
-      "watching": "989",
-      "completed": "26039",
-      "on_hold": "629",
-      "dropped": "484",
-      "plan_to_watch": "14538"
+      "watching": "990",
+      "completed": "26050",
+      "on_hold": "628",
+      "dropped": "485",
+      "plan_to_watch": "14550"
     },
-    "num_list_users": 42679
-  }
+    "num_list_users": 42703
+  },
+  "mal_details_updated_at": "2026-11-15T17:21:37.877Z",
+  "translations_updated_at": "2026-11-15T17:24:20.158Z"
 }

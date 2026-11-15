@@ -32,8 +32,8 @@
   "num_episodes": null,
   "score": null,
   "mean": null,
-  "numListUsers": 29074,
-  "num_list_users": 29074,
+  "numListUsers": 29090,
+  "num_list_users": 29090,
   "genres": [
     {
       "id": 1,
@@ -58,11 +58,14 @@
       "name": "Bones Film"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1090/158805l.webp",
+    "https://cdn.myanimelist.net/images/anime/1589/159917l.webp"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T13:05:13.189Z",
+  "tmdb_updated_at": "2026-11-15T17:16:56.044Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1589/159917.webp",
@@ -75,7 +78,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1589/159917l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1090/158805l.webp"
     }
   },
   "broadcast": {
@@ -87,25 +90,25 @@
     "string": "tuesday 23:00"
   },
   "rank": null,
-  "popularity": 4865,
+  "popularity": 4861,
   "rating": "pg_13",
   "simkl_id": 3169196,
   "episodes_data": [
     {
       "episode": 1,
       "title": "Episode 1",
-      "title_es": "Episodio 1",
       "aired": "2027-01-01T23:00:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 1"
     }
   ],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": null,
+  "num_scoring_users": 1,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2026-06-30T15:00:52+00:00",
+  "updated_at": "2026-07-15T00:25:06+00:00",
   "source": "manga",
   "background": "Marriagetoxin 2nd Season aired on Kansai TV and Fuji TV's Ka-Anival!! block.",
   "related_anime": [
@@ -126,12 +129,14 @@
   "recommendations": [],
   "statistics": {
     "status": {
-      "watching": "8",
+      "watching": "3",
       "completed": 0,
-      "on_hold": "3",
+      "on_hold": 0,
       "dropped": 0,
-      "plan_to_watch": "29018"
+      "plan_to_watch": "29071"
     },
-    "num_list_users": 29029
-  }
+    "num_list_users": 29074
+  },
+  "mal_details_updated_at": "2026-11-15T17:16:55.669Z",
+  "translations_updated_at": "2026-11-15T17:25:04.249Z"
 }

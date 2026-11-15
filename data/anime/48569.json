@@ -30,8 +30,8 @@
   "num_episodes": 12,
   "score": 8.73,
   "mean": 8.73,
-  "numListUsers": 673713,
-  "num_list_users": 673713,
+  "numListUsers": 673747,
+  "num_list_users": 673747,
   "genres": [
     {
       "id": 8,
@@ -56,7 +56,11 @@
       "name": "A-1 Pictures"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1863/113726l.webp",
+    "https://cdn.myanimelist.net/images/anime/1712/117500l.webp",
+    "https://cdn.myanimelist.net/images/anime/1321/117508l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/lSlL2CAPSDJ9gf2MZX0x2u2inKX.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/bo3UdG5WgEwbkeeDfChwKkoZtCu.png",
   "tmdb_id": "100565",
@@ -73,7 +77,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1321/117508l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1863/113726l.webp"
     }
   },
   "broadcast": {
@@ -253,10 +257,10 @@
     }
   ],
   "characters": [],
-  "num_scoring_users": 394328,
+  "num_scoring_users": 394830,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2021-03-27T07:57:31+00:00",
+  "updated_at": "2025-10-17T21:28:31+00:00",
   "source": "light_novel",
   "background": null,
   "related_anime": [
@@ -326,8 +330,8 @@
         "id": 8888,
         "title": "Code Geass: Boukoku no Akito 1 - Yokuryuu wa Maiorita",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/10/41401.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/10/41401l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/10/41401.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/10/41401l.webp"
         }
       },
       "num_recommendations": 2
@@ -337,8 +341,8 @@
         "id": 93,
         "title": "Kidou Senshi Gundam SEED",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1792/91081.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1792/91081l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1792/91081.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1792/91081l.jpg"
         }
       },
       "num_recommendations": 1
@@ -403,8 +407,8 @@
         "id": 32281,
         "title": "Kimi no Na wa.",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/5/87048.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/5/87048l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/5/87048.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/5/87048l.webp"
         }
       },
       "num_recommendations": 1
@@ -412,12 +416,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "56064",
-      "completed": "471676",
+      "watching": "56103",
+      "completed": "472379",
       "on_hold": "14277",
-      "dropped": "9987",
-      "plan_to_watch": "120666"
+      "dropped": "9996",
+      "plan_to_watch": "120747"
     },
-    "num_list_users": 672670
-  }
+    "num_list_users": 673502
+  },
+  "mal_details_updated_at": "2026-11-15T17:20:03.061Z",
+  "translations_updated_at": "2026-11-15T17:23:57.659Z"
 }

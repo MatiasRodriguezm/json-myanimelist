@@ -44,11 +44,13 @@
       "name": "CALF"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1894/160724l.webp"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T13:05:03.487Z",
+  "tmdb_updated_at": "2026-11-15T17:16:39.608Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1894/160724.webp",
@@ -66,16 +68,16 @@
   },
   "broadcast": null,
   "rank": null,
-  "popularity": 30426,
+  "popularity": 30395,
   "rating": "pg_13",
   "simkl_id": null,
   "episodes_data": [],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 35,
+  "num_scoring_users": 36,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2026-10-27T14:36:41+00:00",
+  "updated_at": "2026-10-29T09:32:04+00:00",
   "source": "mixed_media",
   "background": null,
   "related_anime": [
@@ -96,12 +98,14 @@
   "recommendations": [],
   "statistics": {
     "status": {
-      "watching": "4",
-      "completed": "51",
+      "watching": "5",
+      "completed": "54",
       "on_hold": "3",
       "dropped": "5",
       "plan_to_watch": "6"
     },
-    "num_list_users": 69
-  }
+    "num_list_users": 73
+  },
+  "mal_details_updated_at": "2026-11-15T17:16:39.158Z",
+  "translations_updated_at": "2026-11-15T17:25:11.211Z"
 }

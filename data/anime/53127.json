@@ -32,8 +32,8 @@
   "num_episodes": 1,
   "score": 8.14,
   "mean": 8.14,
-  "numListUsers": 130518,
-  "num_list_users": 130518,
+  "numListUsers": 130521,
+  "num_list_users": 130521,
   "genres": [
     {
       "id": 1,
@@ -54,7 +54,17 @@
       "name": "A-1 Pictures"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1502/128320l.webp",
+    "https://cdn.myanimelist.net/images/anime/1329/132201l.webp",
+    "https://cdn.myanimelist.net/images/anime/1679/132203l.webp",
+    "https://cdn.myanimelist.net/images/anime/1462/132204l.webp",
+    "https://cdn.myanimelist.net/images/anime/1319/132205l.webp",
+    "https://cdn.myanimelist.net/images/anime/1723/132206l.webp",
+    "https://cdn.myanimelist.net/images/anime/1472/132207l.webp",
+    "https://cdn.myanimelist.net/images/anime/1410/132208l.webp",
+    "https://cdn.myanimelist.net/images/anime/1220/136619l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/3wUOyQbIOFNLPObXa7Iae8RzJ87.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/vWozUkiKsqThqw4bHHjB5t0J2YR.png",
   "tmdb_id": "1145612",
@@ -71,11 +81,11 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1220/136619l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1502/128320l.webp"
     }
   },
   "broadcast": null,
-  "rank": 542,
+  "rank": 543,
   "popularity": 2031,
   "rating": "r",
   "simkl_id": 1999306,
@@ -91,10 +101,10 @@
   ],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 71053,
+  "num_scoring_users": 71151,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2022-09-24T07:50:54+00:00",
+  "updated_at": "2024-10-02T16:28:54+00:00",
   "source": "light_novel",
   "background": null,
   "related_anime": [
@@ -115,8 +125,8 @@
         "id": 38959,
         "title": "Lord El-Melloi II-sei no Jikenbo: Rail Zeppelin Grace Note",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1107/111530.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1107/111530l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1107/111530.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1107/111530l.webp"
         }
       },
       "relation_type": "character",
@@ -151,12 +161,14 @@
   "recommendations": [],
   "statistics": {
     "status": {
-      "watching": "4666",
-      "completed": "91942",
-      "on_hold": "860",
-      "dropped": "395",
-      "plan_to_watch": "32417"
+      "watching": "4664",
+      "completed": "92078",
+      "on_hold": "862",
+      "dropped": "397",
+      "plan_to_watch": "32425"
     },
-    "num_list_users": 130280
-  }
+    "num_list_users": 130426
+  },
+  "mal_details_updated_at": "2026-11-15T17:21:53.788Z",
+  "translations_updated_at": "2026-11-15T17:24:26.483Z"
 }

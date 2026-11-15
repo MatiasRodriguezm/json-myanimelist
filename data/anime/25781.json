@@ -46,11 +46,16 @@
       "name": "Wit Studio"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/8/69497l.webp",
+    "https://cdn.myanimelist.net/images/anime/10/73489l.webp",
+    "https://cdn.myanimelist.net/images/anime/12/73490l.webp",
+    "https://cdn.myanimelist.net/images/anime/11/73545l.webp"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T13:06:00.643Z",
+  "tmdb_updated_at": "2026-11-15T17:20:25.929Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/8/69497.webp",
@@ -67,8 +72,8 @@
     }
   },
   "broadcast": null,
-  "rank": 220,
-  "popularity": 448,
+  "rank": 221,
+  "popularity": 449,
   "rating": "r",
   "simkl_id": 419356,
   "episodes_data": [
@@ -91,10 +96,10 @@
   ],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 341505,
+  "num_scoring_users": 341627,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2014-08-05T07:40:02+00:00",
+  "updated_at": "2023-01-24T00:23:07+00:00",
   "source": "visual_novel",
   "background": "Shingeki no Kyojin: Kuinaki Sentaku is based on the visual novel of the same name. The visual novel was bundled with the first press release of the 6th Blu-ray volume of the anime's 1st season and was supervised by Shingeki no Kyojin creator Hajime Isayama. It was later adapted into a 2-volume manga series which was serialized in shoujo magazine ARIA and illustrated by Hikaru Suruga.\n\nThe OVA was released for the Western audience when bundled with Kodansha Comics USA's Attack on Titan Special Edition manga. The first part of the OVA was included with the manga's 18th volume on April 5, 2016 while the second part was included with the 19th volume's release on August 2, 2016.",
   "related_anime": [
@@ -118,8 +123,8 @@
         "id": 44,
         "title": "Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku-hen",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1656/137618.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1656/137618l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1656/137618.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1656/137618l.webp"
         }
       },
       "num_recommendations": 1
@@ -162,8 +167,8 @@
         "id": 10161,
         "title": "No.6",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1474/90768.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1474/90768l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1474/90768.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1474/90768l.jpg"
         }
       },
       "num_recommendations": 1
@@ -184,8 +189,8 @@
         "id": 36522,
         "title": "Ling Qi 2",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1328/90485.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1328/90485l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1328/90485.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1328/90485l.webp"
         }
       },
       "num_recommendations": 1
@@ -195,8 +200,8 @@
         "id": 40911,
         "title": "Yuukoku no Moriarty",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1464/108330.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1464/108330l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1464/108330.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1464/108330l.webp"
         }
       },
       "num_recommendations": 1
@@ -215,12 +220,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "12423",
-      "completed": "492289",
-      "on_hold": "3419",
+      "watching": "12433",
+      "completed": "492510",
+      "on_hold": "3415",
       "dropped": "1684",
-      "plan_to_watch": "64283"
+      "plan_to_watch": "64296"
     },
-    "num_list_users": 574098
-  }
+    "num_list_users": 574338
+  },
+  "mal_details_updated_at": "2026-11-15T17:20:25.688Z",
+  "translations_updated_at": "2026-11-15T17:23:58.583Z"
 }

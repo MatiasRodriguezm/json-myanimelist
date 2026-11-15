@@ -32,8 +32,8 @@
   "num_episodes": 26,
   "score": 6.8,
   "mean": 6.8,
-  "numListUsers": 110729,
-  "num_list_users": 110729,
+  "numListUsers": 110781,
+  "num_list_users": 110781,
   "genres": [
     {
       "id": 1,
@@ -62,7 +62,13 @@
       "name": "GoHands"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1502/145271l.webp",
+    "https://cdn.myanimelist.net/images/anime/1690/155778l.webp",
+    "https://cdn.myanimelist.net/images/anime/1863/158503l.webp",
+    "https://cdn.myanimelist.net/images/anime/1322/158711l.webp",
+    "https://cdn.myanimelist.net/images/anime/1556/160219l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/rQmzx7qyoK5YiXJHnv0jdgVlKyl.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/cViYa926pHMY1d1u5jkJkgmMugH.png",
   "tmdb_id": "270603",
@@ -79,7 +85,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1322/158711l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1502/145271l.webp"
     }
   },
   "broadcast": {
@@ -90,210 +96,210 @@
     "timezone": "Asia/Tokyo",
     "string": "friday 00:26"
   },
-  "rank": 6134,
-  "popularity": 2292,
+  "rank": 6135,
+  "popularity": 2291,
   "rating": "r",
   "simkl_id": 2573730,
   "episodes_data": [
     {
       "episode": 1,
       "title": "Elymas the Heavy Knight",
-      "title_es": "Elimas el Caballero Pesado",
       "aired": "2026-07-03T00:26:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20252167845a8bc329_w.webp",
-      "description": "Elymas Edvaughn is disowned by his father for becoming a Heavy Knight."
+      "description": "Elymas Edvaughn is disowned by his father for becoming a Heavy Knight.",
+      "title_es": "Elimas el Caballero Pesado"
     },
     {
       "episode": 2,
       "title": "Menacing Foul Eight-Legged Beast",
-      "title_es": "Amenazante y asquerosa bestia de ocho patas",
       "aired": "2026-07-10T00:26:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20302989417620c403_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Amenazante y asquerosa bestia de ocho patas"
     },
     {
       "episode": 3,
       "title": "The Raid Quest",
-      "title_es": "La misión de incursión",
       "aired": "2026-07-17T00:26:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20334641f3a4021791_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "La misión de incursión"
     },
     {
       "episode": 4,
       "title": "Existence Evolution",
-      "title_es": "Evolución de la existencia",
       "aired": "2026-07-24T00:26:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/203695094da8578351_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Evolución de la existencia"
     },
     {
       "episode": 5,
       "title": "Fang of Smoldering Insanity",
-      "title_es": "Colmillo de locura ardiente",
       "aired": "2026-07-31T00:26:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/2040267905960d8063_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Colmillo de locura ardiente"
     },
     {
       "episode": 6,
       "title": "Ruche the Pierrot",
-      "title_es": "Ruche el Pierrot",
       "aired": "2026-08-07T00:26:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/2044916345c2b28156_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Ruche el Pierrot"
     },
     {
       "episode": 7,
       "title": "Golden Raana Farming",
-      "title_es": "Agricultura de Golden Raana",
       "aired": "2026-08-14T00:26:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/2048848700168ef3ba_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Agricultura de Golden Raana"
     },
     {
       "episode": 8,
       "title": "Wandering",
-      "title_es": "Errante",
       "aired": "2026-08-21T00:26:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20533005316aed7b96_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Errante"
     },
     {
       "episode": 9,
       "title": "Dreamlord",
-      "title_es": "Señor de los sueños",
       "aired": "2026-08-28T00:26:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20570299bdf10d61ae_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Señor de los sueños"
     },
     {
       "episode": 10,
       "title": "Negotiation",
-      "title_es": "Negociación",
       "aired": "2026-09-04T00:26:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/206211859563ada833_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Negociación"
     },
     {
       "episode": 11,
       "title": "Inescapable Past",
-      "title_es": "Pasado ineludible",
       "aired": "2026-09-11T00:26:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/206646311b3f3225ab_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Pasado ineludible"
     },
     {
       "episode": 12,
       "title": "Malice the Master Swordsman",
-      "title_es": "Malicia, el maestro espadachín",
       "aired": "2026-09-18T00:26:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20709291708d82a066_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Malicia, el maestro espadachín"
     },
     {
       "episode": 13,
       "title": "Lacoryna, the City of Adventurers",
-      "title_es": "Lacoryna, la ciudad de los aventureros",
       "aired": "2026-09-25T00:26:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20748561500047c35c_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Lacoryna, la ciudad de los aventureros"
     },
     {
       "episode": 14,
       "title": "Mythril Giant",
-      "title_es": "Gigante de mithril",
       "aired": "2026-10-02T00:26:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/2078671774c108abf5_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Gigante de mithril"
     },
     {
       "episode": 15,
       "title": "Dreamlord of the Dreamhole",
-      "title_es": "Señor de los sueños del agujero de los sueños",
       "aired": "2026-10-09T00:26:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/2084769367ba1013fc_w.webp",
-      "description": "With their new skills gained on level up, Elymas and Ruche decide to take on the Rock Centipede."
+      "description": "With their new skills gained on level up, Elymas and Ruche decide to take on the Rock Centipede.",
+      "title_es": "Señor de los sueños del agujero de los sueños"
     },
     {
       "episode": 16,
       "title": "No Defense Spared",
-      "title_es": "No se salva ninguna defensa",
       "aired": "2026-10-16T00:26:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20884721a34ef2b05c_w.webp",
-      "description": "The Rock Centipede Existence Evolves into a Death Amude, trapping Elymas and Ruche in a desperate situation."
+      "description": "The Rock Centipede Existence Evolves into a Death Amude, trapping Elymas and Ruche in a desperate situation.",
+      "title_es": "No se salva ninguna defensa"
     },
     {
       "episode": 17,
       "title": "Guildmaster Hailenn",
-      "title_es": "Maestro del gremio Hailenn",
       "aired": "2026-10-23T00:26:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20930243729f29173e_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Maestro del gremio Hailenn"
     },
     {
       "episode": 18,
       "title": "Blacksmith Veruga",
-      "title_es": "Herrero Veruga",
       "aired": "2026-10-30T00:26:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20969209a5c5af0098_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Herrero Veruga"
     },
     {
       "episode": 19,
       "title": "Empress of the Angler Clan",
-      "title_es": "Emperatriz del clan de los pescadores",
       "aired": "2026-11-06T00:26:00+09:00",
       "thumbnail": "https://simkl.in/episodes/21/210163818dac72827b_w.webp",
-      "description": "Elymas is challenged to a fishing contest by the leader of the Sea Dragon’s Fang angler clan."
+      "description": "Elymas is challenged to a fishing contest by the leader of the Sea Dragon’s Fang angler clan.",
+      "title_es": "Emperatriz del clan de los pescadores"
     },
     {
       "episode": 20,
       "title": "Magic Swordman Hilde",
-      "title_es": "Hilde, la espadachín mágica",
       "aired": "2026-11-13T00:26:00+09:00",
       "thumbnail": "https://simkl.in/episodes/21/21059897ff59cf4cd3_w.webp",
-      "description": "Elymas and Ruche return to pick up their sword and discover that someone else is trying to buy it."
+      "description": "Elymas and Ruche return to pick up their sword and discover that someone else is trying to buy it.",
+      "title_es": "Hilde, la espadachín mágica"
     },
     {
       "episode": 21,
       "title": "Episode 21",
-      "title_es": "Episodio 21",
       "aired": "2026-11-20T00:26:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 21"
     },
     {
       "episode": 22,
       "title": "Episode 22",
-      "title_es": "Episodio 22",
       "aired": "2026-11-27T00:26:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 22"
     },
     {
       "episode": 23,
       "title": "Episode 23",
-      "title_es": "Episodio 23",
       "aired": "2026-12-04T00:26:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 23"
     },
     {
       "episode": 24,
       "title": "Episode 24",
-      "title_es": "Episodio 24",
       "aired": "2026-12-11T00:26:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 24"
     }
   ],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 23180,
+  "num_scoring_users": 23236,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2024-09-05T03:05:44+00:00",
+  "updated_at": "2026-09-25T02:23:16+00:00",
   "source": "web_manga",
   "background": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru aired on MBS and TBS' Super Animeism Turbo block.",
   "related_anime": [],
@@ -301,12 +307,14 @@
   "recommendations": [],
   "statistics": {
     "status": {
-      "watching": "68395",
-      "completed": "21",
-      "on_hold": "1846",
-      "dropped": "5158",
-      "plan_to_watch": "35193"
+      "watching": "68524",
+      "completed": "11",
+      "on_hold": "1848",
+      "dropped": "5171",
+      "plan_to_watch": "35221"
     },
-    "num_list_users": 110613
-  }
+    "num_list_users": 110775
+  },
+  "mal_details_updated_at": "2026-11-15T17:14:34.775Z",
+  "translations_updated_at": "2026-11-15T17:24:32.130Z"
 }

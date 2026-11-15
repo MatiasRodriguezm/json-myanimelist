@@ -56,7 +56,12 @@
       "name": "Studio Pierrot"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/8/75974l.webp",
+    "https://cdn.myanimelist.net/images/anime/3/79914l.webp",
+    "https://cdn.myanimelist.net/images/anime/6/79915l.webp",
+    "https://cdn.myanimelist.net/images/anime/7/83974l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/8ysVo7GTYYtr4Xiua5pYoJ4rMGI.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/cFH0hORyqHzpFHSRzty8JqHbBuV.png",
   "tmdb_id": "61461",
@@ -77,7 +82,7 @@
     }
   },
   "broadcast": null,
-  "rank": 588,
+  "rank": 587,
   "popularity": 1837,
   "rating": "pg_13",
   "simkl_id": 481964,
@@ -118,10 +123,10 @@
     }
   ],
   "characters": [],
-  "num_scoring_users": 76723,
+  "num_scoring_users": 76739,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2015-03-20T07:10:40+00:00",
+  "updated_at": "2026-01-20T02:19:58+00:00",
   "source": "manga",
   "background": null,
   "related_anime": [
@@ -130,8 +135,8 @@
         "id": 25013,
         "title": "Akatsuki no Yona",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/9/64225.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/9/64225l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/9/64225.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/9/64225l.webp"
         }
       },
       "relation_type": "parent_story",
@@ -177,11 +182,13 @@
   "statistics": {
     "status": {
       "watching": "9241",
-      "completed": "106936",
-      "on_hold": "3803",
+      "completed": "106967",
+      "on_hold": "3801",
       "dropped": "1388",
-      "plan_to_watch": "26969"
+      "plan_to_watch": "26974"
     },
-    "num_list_users": 148337
-  }
+    "num_list_users": 148371
+  },
+  "mal_details_updated_at": "2026-11-15T17:21:30.590Z",
+  "translations_updated_at": "2026-11-15T17:24:21.049Z"
 }

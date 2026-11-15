@@ -30,8 +30,8 @@
   "num_episodes": 1,
   "score": 8.61,
   "mean": 8.61,
-  "numListUsers": 272236,
-  "num_list_users": 272236,
+  "numListUsers": 272259,
+  "num_list_users": 272259,
   "genres": [
     {
       "id": 46,
@@ -56,7 +56,11 @@
       "name": "Studio DURIAN"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1584/141396l.webp",
+    "https://cdn.myanimelist.net/images/anime/1716/142633l.webp",
+    "https://cdn.myanimelist.net/images/anime/1848/146196l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/2okfik8YwzSfdETpT5cUClSiGFO.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/vgwvmnnGODDN9yVAwelxgDFKbvx.png",
   "tmdb_id": "1244492",
@@ -73,12 +77,12 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1716/142633l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1584/141396l.webp"
     }
   },
   "broadcast": null,
-  "rank": 115,
-  "popularity": 1069,
+  "rank": 113,
+  "popularity": 1067,
   "rating": "pg_13",
   "simkl_id": 2375584,
   "episodes_data": [
@@ -93,10 +97,10 @@
   ],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 156476,
+  "num_scoring_users": 156877,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2024-02-13T15:24:58+00:00",
+  "updated_at": "2026-09-30T06:50:40+00:00",
   "source": "manga",
   "background": null,
   "related_anime": [],
@@ -107,8 +111,8 @@
         "id": 7674,
         "title": "Bakuman.",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/6/26138.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/6/26138l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/6/26138.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/6/26138l.webp"
         }
       },
       "num_recommendations": 2
@@ -151,8 +155,8 @@
         "id": 44511,
         "title": "Chainsaw Man",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1806/126216.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1806/126216l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1806/126216.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1806/126216l.jpg"
         }
       },
       "num_recommendations": 1
@@ -173,8 +177,8 @@
         "id": 48992,
         "title": "Aru Nihon no Ekaki Shounen",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1564/114969.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1564/114969l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1564/114969.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1564/114969l.jpg"
         }
       },
       "num_recommendations": 1
@@ -184,8 +188,8 @@
         "id": 35677,
         "title": "Liz to Aoi Tori",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1638/93032.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1638/93032l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1638/93032.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1638/93032l.webp"
         }
       },
       "num_recommendations": 1
@@ -215,12 +219,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "8479",
-      "completed": "186334",
-      "on_hold": "1481",
-      "dropped": "401",
-      "plan_to_watch": "74753"
+      "watching": "8497",
+      "completed": "186842",
+      "on_hold": "1484",
+      "dropped": "402",
+      "plan_to_watch": "74851"
     },
-    "num_list_users": 271448
-  }
+    "num_list_users": 272076
+  },
+  "mal_details_updated_at": "2026-11-15T17:20:11.795Z",
+  "translations_updated_at": "2026-11-15T17:24:03.659Z"
 }

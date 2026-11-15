@@ -32,8 +32,8 @@
   "num_episodes": null,
   "score": null,
   "mean": null,
-  "numListUsers": 120655,
-  "num_list_users": 120655,
+  "numListUsers": 120676,
+  "num_list_users": 120676,
   "genres": [
     {
       "id": 2,
@@ -58,7 +58,9 @@
       "name": "Madhouse"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1619/156313l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/rBOnrVlck7BIlGeWVlzYiZeg4l2.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/yQuc8JcBxRWXfRHrNUSM47gCXOo.png",
   "tmdb_id": "209867",
@@ -80,25 +82,25 @@
   },
   "broadcast": null,
   "rank": null,
-  "popularity": 2165,
+  "popularity": 2164,
   "rating": "pg_13",
   "simkl_id": 3063278,
   "episodes_data": [
     {
       "episode": 1,
       "title": "Episode 1",
-      "title_es": "Episodio 1",
       "aired": "2027-10-01T00:00:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 1"
     }
   ],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 4,
+  "num_scoring_users": null,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2026-03-27T14:35:29+00:00",
+  "updated_at": "2026-08-30T10:20:44+00:00",
   "source": "manga",
   "background": null,
   "related_anime": [
@@ -119,12 +121,14 @@
   "recommendations": [],
   "statistics": {
     "status": {
-      "watching": "5",
-      "completed": "1",
-      "on_hold": "4",
-      "dropped": "2",
-      "plan_to_watch": "120578"
+      "watching": "4",
+      "completed": 0,
+      "on_hold": "2",
+      "dropped": 0,
+      "plan_to_watch": "120670"
     },
-    "num_list_users": 120590
-  }
+    "num_list_users": 120676
+  },
+  "mal_details_updated_at": "2026-11-15T17:18:26.761Z",
+  "translations_updated_at": "2026-11-15T17:24:58.343Z"
 }

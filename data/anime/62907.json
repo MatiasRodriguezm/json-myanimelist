@@ -34,8 +34,8 @@
   "num_episodes": 12,
   "score": 6.55,
   "mean": 6.55,
-  "numListUsers": 12513,
-  "num_list_users": 12513,
+  "numListUsers": 12535,
+  "num_list_users": 12535,
   "genres": [
     {
       "id": 50,
@@ -52,7 +52,10 @@
       "name": "LIDENFILMS"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1842/153411l.webp",
+    "https://cdn.myanimelist.net/images/anime/1322/159256l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/kn0Vt7Zft7cDIp5YKwLkoNWJbJy.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/mJFNofhp5Khsi35VuWrEho4IhrT.png",
   "tmdb_id": "330505",
@@ -69,7 +72,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1322/159256l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1842/153411l.webp"
     }
   },
   "broadcast": {
@@ -80,114 +83,114 @@
     "timezone": "Asia/Tokyo",
     "string": "sunday 22:00"
   },
-  "rank": 7785,
-  "popularity": 6830,
+  "rank": 7784,
+  "popularity": 6823,
   "rating": "pg_13",
   "simkl_id": 2926050,
   "episodes_data": [
     {
       "episode": 1,
       "title": "Chief Oji and Cute Things",
-      "title_es": "Jefe Oji y cosas lindas",
       "aired": "2026-10-04T22:00:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/208154659f87959bd7_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Jefe Oji y cosas lindas"
     },
     {
       "episode": 2,
       "title": "Chief Oji and the Gacha Guy",
-      "title_es": "El jefe Oji y el chico Gacha",
       "aired": "2026-10-11T22:00:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20859583ed9fa6749a_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "El jefe Oji y el chico Gacha"
     },
     {
       "episode": 3,
       "title": "Chief Oji and His First Comrade",
-      "title_es": "Jefe Oji y su primer camarada",
       "aired": "2026-10-18T22:00:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20909169edcdcd0cbb_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Jefe Oji y su primer camarada"
     },
     {
       "episode": 4,
       "title": "Chief Oji and Sweet Things",
-      "title_es": "Jefe Oji y cosas dulces",
       "aired": "2026-10-25T22:00:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20949163e0e105b486_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Jefe Oji y cosas dulces"
     },
     {
       "episode": 5,
       "title": "Chief Oji and the Home Drinking Party",
-      "title_es": "El jefe Oji y la fiesta para beber en casa",
       "aired": "2026-11-01T22:00:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20990949c78a78dd2b_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "El jefe Oji y la fiesta para beber en casa"
     },
     {
       "episode": 6,
       "title": "Episode 6",
-      "title_es": "Episodio 6",
       "aired": "2026-11-08T22:00:00+09:00",
       "thumbnail": "https://simkl.in/episodes/21/21040989c87dbb6886_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Episodio 6"
     },
     {
       "episode": 7,
       "title": "Episode 7",
-      "title_es": "Episodio 7",
       "aired": "2026-11-15T22:00:00+09:00",
       "thumbnail": "https://simkl.in/episodes/21/2107805748f3d1d0ff_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Episodio 7"
     },
     {
       "episode": 8,
       "title": "Episode 8",
-      "title_es": "Episodio 8",
       "aired": "2026-11-22T22:00:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 8"
     },
     {
       "episode": 9,
       "title": "Episode 9",
-      "title_es": "Episodio 9",
       "aired": "2026-11-29T22:00:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 9"
     },
     {
       "episode": 10,
       "title": "Episode 10",
-      "title_es": "Episodio 10",
       "aired": "2026-12-06T22:00:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 10"
     },
     {
       "episode": 11,
       "title": "Episode 11",
-      "title_es": "Episodio 11",
       "aired": "2026-12-13T22:00:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 11"
     },
     {
       "episode": 12,
       "title": "Episode 12",
-      "title_es": "Episodio 12",
       "aired": "2026-12-20T22:00:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 12"
     }
   ],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 1527,
+  "num_scoring_users": 1541,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2025-11-08T10:10:30+00:00",
+  "updated_at": "2026-11-14T20:33:37+00:00",
   "source": "web_manga",
   "background": null,
   "related_anime": [],
@@ -195,12 +198,14 @@
   "recommendations": [],
   "statistics": {
     "status": {
-      "watching": "6323",
-      "completed": "2",
-      "on_hold": "169",
-      "dropped": "820",
-      "plan_to_watch": "5172"
+      "watching": "6351",
+      "completed": "3",
+      "on_hold": "171",
+      "dropped": "825",
+      "plan_to_watch": "5184"
     },
-    "num_list_users": 12486
-  }
+    "num_list_users": 12534
+  },
+  "mal_details_updated_at": "2026-11-15T17:14:43.519Z",
+  "translations_updated_at": "2026-11-15T17:24:46.917Z"
 }

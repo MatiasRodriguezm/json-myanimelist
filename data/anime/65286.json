@@ -52,11 +52,13 @@
       "name": "Piso Studio"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1326/160763l.webp"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T13:05:00.930Z",
+  "tmdb_updated_at": "2026-11-15T17:16:35.332Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1326/160763.webp",
@@ -73,7 +75,7 @@
     }
   },
   "broadcast": null,
-  "rank": 22587,
+  "rank": 22588,
   "popularity": 30192,
   "rating": "pg_13",
   "simkl_id": null,
@@ -82,8 +84,8 @@
   "characters": [],
   "num_scoring_users": 4,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2026-10-30T02:02:04+00:00",
+  "updated_at": "2026-10-30T11:31:59+00:00",
   "source": "original",
   "background": null,
   "related_anime": [
@@ -104,12 +106,14 @@
   "recommendations": [],
   "statistics": {
     "status": {
-      "watching": "14",
-      "completed": "1",
+      "watching": "15",
+      "completed": 0,
       "on_hold": "5",
       "dropped": "18",
       "plan_to_watch": "47"
     },
     "num_list_users": 85
-  }
+  },
+  "mal_details_updated_at": "2026-11-15T17:16:34.880Z",
+  "translations_updated_at": "2026-11-15T17:25:11.496Z"
 }

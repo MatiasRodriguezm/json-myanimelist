@@ -75,7 +75,12 @@
       "name": "Artland"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/2/58821l.webp",
+    "https://cdn.myanimelist.net/images/anime/10/59315l.webp",
+    "https://cdn.myanimelist.net/images/anime/1559/147521l.webp",
+    "https://cdn.myanimelist.net/images/anime/1573/150170l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/8ysRHGV3URjOJT7u7NkZiFjvObk.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/xFiCp8wraCYN2l2aYJPI4hLxniT.png",
   "tmdb_id": "26867",
@@ -92,12 +97,12 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1559/147521l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/2/58821l.webp"
     }
   },
   "broadcast": null,
-  "rank": 148,
-  "popularity": 1767,
+  "rank": 149,
+  "popularity": 1768,
   "rating": "pg_13",
   "simkl_id": 45412,
   "episodes_data": [
@@ -112,10 +117,10 @@
   ],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 74262,
+  "num_scoring_users": 74286,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2013-11-20T16:50:45+00:00",
+  "updated_at": "2023-12-27T00:27:51+00:00",
   "source": "manga",
   "background": null,
   "related_anime": [
@@ -124,8 +129,8 @@
         "id": 457,
         "title": "Mushishi",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/2/73862.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/2/73862l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/2/73862.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/2/73862l.webp"
         }
       },
       "relation_type": "prequel",
@@ -136,8 +141,8 @@
         "id": 21939,
         "title": "Mushishi Zoku Shou",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/13/58533.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/13/58533l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/13/58533.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/13/58533l.webp"
         }
       },
       "relation_type": "sequel",
@@ -151,8 +156,8 @@
         "id": 2175,
         "title": "Kino no Tabi: The Beautiful World - Byouki no Kuni - For You",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/8/73906.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/8/73906l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/8/73906.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/8/73906l.jpg"
         }
       },
       "num_recommendations": 1
@@ -160,12 +165,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "4312",
-      "completed": "100972",
-      "on_hold": "1509",
+      "watching": "4316",
+      "completed": "101014",
+      "on_hold": "1508",
       "dropped": "854",
-      "plan_to_watch": "48293"
+      "plan_to_watch": "48321"
     },
-    "num_list_users": 155940
-  }
+    "num_list_users": 156013
+  },
+  "mal_details_updated_at": "2026-11-15T17:21:44.581Z",
+  "translations_updated_at": "2026-11-15T17:24:04.160Z"
 }

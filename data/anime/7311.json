@@ -34,8 +34,8 @@
   "num_episodes": 1,
   "score": 8.6,
   "mean": 8.6,
-  "numListUsers": 659080,
-  "num_list_users": 659080,
+  "numListUsers": 659085,
+  "num_list_users": 659085,
   "genres": [
     {
       "id": 46,
@@ -64,7 +64,20 @@
       "name": "Kyoto Animation"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/13/17544l.webp",
+    "https://cdn.myanimelist.net/images/anime/2/17779l.webp",
+    "https://cdn.myanimelist.net/images/anime/9/17783l.webp",
+    "https://cdn.myanimelist.net/images/anime/7/19595l.webp",
+    "https://cdn.myanimelist.net/images/anime/8/21368l.webp",
+    "https://cdn.myanimelist.net/images/anime/9/24646l.webp",
+    "https://cdn.myanimelist.net/images/anime/9/27751l.webp",
+    "https://cdn.myanimelist.net/images/anime/10/75900l.webp",
+    "https://cdn.myanimelist.net/images/anime/9/75902l.webp",
+    "https://cdn.myanimelist.net/images/anime/1867/109034l.webp",
+    "https://cdn.myanimelist.net/images/anime/1248/112352l.webp",
+    "https://cdn.myanimelist.net/images/anime/1313/154130l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/gDlx60iOCQjTLH53ybjAPOUyVIp.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/oWx5Iz6akegr1138bA08BCarJAv.png",
   "tmdb_id": "42511",
@@ -81,7 +94,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1248/112352l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/13/17544l.webp"
     }
   },
   "broadcast": null,
@@ -150,10 +163,10 @@
     }
   ],
   "characters": [],
-  "num_scoring_users": 333614,
+  "num_scoring_users": 333723,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2009-10-08T18:06:42+00:00",
+  "updated_at": "2026-05-18T00:27:01+00:00",
   "source": "light_novel",
   "background": "Suzumiya Haruhi no Shoushitsu won the Theatrical Film Award at the Animation Kobe Awards in 2010. The film earned an estimated 200 million yen in its first week of release in Japan; it also placed in the top 10 for Japanese box office sales in its first weekend.\n\nThe film was released on Blu-ray and DVD in Japan on December 18, 2010. The movie was released on the same formats in North America by Bandai Entertainment as The Disappearance of Haruhi Suzumiya on September 20, 2011. It was later republished by Funimation Entertainment on May 30, 2017.\n",
   "related_anime": [
@@ -162,8 +175,8 @@
         "id": 4382,
         "title": "Suzumiya Haruhi no Yuuutsu (2009)",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/8/75377.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/8/75377l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/8/75377.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/8/75377l.webp"
         }
       },
       "relation_type": "prequel",
@@ -200,8 +213,8 @@
         "id": 38329,
         "title": "Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1613/102179.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1613/102179l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1613/102179.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1613/102179l.jpg"
         }
       },
       "num_recommendations": 10
@@ -222,8 +235,8 @@
         "id": 13667,
         "title": "Naruto: Shippuuden Movie 6 - Road to Ninja",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1620/94336.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1620/94336l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1620/94336.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1620/94336l.webp"
         }
       },
       "num_recommendations": 5
@@ -244,8 +257,8 @@
         "id": 2236,
         "title": "Toki wo Kakeru Shoujo",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1/2432.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1/2432l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1/2432.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1/2432l.jpg"
         }
       },
       "num_recommendations": 4
@@ -255,8 +268,8 @@
         "id": 32281,
         "title": "Kimi no Na wa.",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/5/87048.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/5/87048l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/5/87048.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/5/87048l.webp"
         }
       },
       "num_recommendations": 4
@@ -266,8 +279,8 @@
         "id": 32,
         "title": "Shinseiki Evangelion Movie: Air/Magokoro wo, Kimi ni",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1404/98182.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1404/98182l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1404/98182.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1404/98182l.webp"
         }
       },
       "num_recommendations": 4
@@ -297,12 +310,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "18694",
-      "completed": "425592",
-      "on_hold": "6916",
-      "dropped": "5576",
-      "plan_to_watch": "201937"
+      "watching": "18698",
+      "completed": "425741",
+      "on_hold": "6913",
+      "dropped": "5577",
+      "plan_to_watch": "202004"
     },
-    "num_list_users": 658715
-  }
+    "num_list_users": 658933
+  },
+  "mal_details_updated_at": "2026-11-15T17:20:12.536Z",
+  "translations_updated_at": "2026-11-15T17:23:57.755Z"
 }

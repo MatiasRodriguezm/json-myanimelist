@@ -32,8 +32,8 @@
   "num_episodes": null,
   "score": null,
   "mean": null,
-  "numListUsers": 2886,
-  "num_list_users": 2886,
+  "numListUsers": 2891,
+  "num_list_users": 2891,
   "genres": [
     {
       "id": 1,
@@ -58,11 +58,13 @@
       "name": "Studio Massket"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1224/159433l.webp"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T13:05:29.674Z",
+  "tmdb_updated_at": "2026-11-15T17:17:53.706Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1224/159433.webp",
@@ -80,7 +82,7 @@
   },
   "broadcast": null,
   "rank": null,
-  "popularity": 11748,
+  "popularity": 11725,
   "rating": null,
   "simkl_id": 3046170,
   "episodes_data": [],
@@ -88,8 +90,8 @@
   "characters": [],
   "num_scoring_users": null,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2026-03-11T04:53:24+00:00",
+  "updated_at": "2026-08-10T09:11:12+00:00",
   "source": "light_novel",
   "background": null,
   "related_anime": [],
@@ -97,12 +99,14 @@
   "recommendations": [],
   "statistics": {
     "status": {
-      "watching": "1",
+      "watching": 0,
       "completed": 0,
       "on_hold": 0,
       "dropped": 0,
-      "plan_to_watch": "2873"
+      "plan_to_watch": "2891"
     },
-    "num_list_users": 2874
-  }
+    "num_list_users": 2891
+  },
+  "mal_details_updated_at": "2026-11-15T17:17:53.211Z",
+  "translations_updated_at": "2026-11-15T17:24:55.864Z"
 }

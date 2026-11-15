@@ -56,11 +56,19 @@
       "name": "Bones"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/10/14176l.webp",
+    "https://cdn.myanimelist.net/images/anime/3/22396l.webp",
+    "https://cdn.myanimelist.net/images/anime/1988/105359l.webp",
+    "https://cdn.myanimelist.net/images/anime/1091/134883l.webp",
+    "https://cdn.myanimelist.net/images/anime/1746/159623l.webp",
+    "https://cdn.myanimelist.net/images/anime/1806/159624l.webp",
+    "https://cdn.myanimelist.net/images/anime/1413/159625l.webp"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T13:06:01.869Z",
+  "tmdb_updated_at": "2026-11-15T17:21:39.710Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1091/134883.webp",
@@ -73,12 +81,12 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1091/134883l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/10/14176l.webp"
     }
   },
   "broadcast": null,
-  "rank": 802,
-  "popularity": 2880,
+  "rank": 803,
+  "popularity": 2882,
   "rating": "pg_13",
   "simkl_id": 39558,
   "episodes_data": [
@@ -326,10 +334,10 @@
     }
   ],
   "characters": [],
-  "num_scoring_users": 38222,
+  "num_scoring_users": 38231,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2006-06-01T18:43:14+00:00",
+  "updated_at": "2025-02-10T22:09:54+00:00",
   "source": "original",
   "background": null,
   "related_anime": [
@@ -338,8 +346,8 @@
         "id": 202,
         "title": "Wolf's Rain",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/5/59403.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/5/59403l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/5/59403.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/5/59403l.webp"
         }
       },
       "relation_type": "prequel",
@@ -353,8 +361,8 @@
         "id": 32,
         "title": "Shinseiki Evangelion Movie: Air/Magokoro wo, Kimi ni",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1404/98182.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1404/98182l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1404/98182.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1404/98182l.webp"
         }
       },
       "num_recommendations": 2
@@ -373,12 +381,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "1884",
-      "completed": "52608",
-      "on_hold": "984",
+      "watching": "1887",
+      "completed": "52624",
+      "on_hold": "982",
       "dropped": "652",
-      "plan_to_watch": "22027"
+      "plan_to_watch": "22033"
     },
-    "num_list_users": 78155
-  }
+    "num_list_users": 78178
+  },
+  "mal_details_updated_at": "2026-11-15T17:21:39.377Z",
+  "translations_updated_at": "2026-11-15T17:24:09.859Z"
 }

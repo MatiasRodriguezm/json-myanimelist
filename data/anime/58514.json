@@ -33,8 +33,8 @@
   "num_episodes": 24,
   "score": 8.9,
   "mean": 8.9,
-  "numListUsers": 574514,
-  "num_list_users": 574514,
+  "numListUsers": 574591,
+  "num_list_users": 574591,
   "genres": [
     {
       "id": 8,
@@ -63,7 +63,23 @@
       "name": "TOHO animation STUDIO"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1838/142240l.webp",
+    "https://cdn.myanimelist.net/images/anime/1378/144141l.webp",
+    "https://cdn.myanimelist.net/images/anime/1681/144365l.webp",
+    "https://cdn.myanimelist.net/images/anime/1252/145690l.webp",
+    "https://cdn.myanimelist.net/images/anime/1377/146200l.webp",
+    "https://cdn.myanimelist.net/images/anime/1751/147285l.webp",
+    "https://cdn.myanimelist.net/images/anime/1852/147307l.webp",
+    "https://cdn.myanimelist.net/images/anime/1075/147308l.webp",
+    "https://cdn.myanimelist.net/images/anime/1025/147458l.webp",
+    "https://cdn.myanimelist.net/images/anime/1074/147628l.webp",
+    "https://cdn.myanimelist.net/images/anime/1172/147996l.webp",
+    "https://cdn.myanimelist.net/images/anime/1120/148876l.webp",
+    "https://cdn.myanimelist.net/images/anime/1245/149393l.webp",
+    "https://cdn.myanimelist.net/images/anime/1432/149891l.webp",
+    "https://cdn.myanimelist.net/images/anime/1005/150569l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/6JpmIe9cJcbG6hecyN6ml8AG6RC.png",
   "tmdb_id": "220542",
@@ -80,7 +96,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1025/147458l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1838/142240l.webp"
     }
   },
   "broadcast": {
@@ -92,7 +108,7 @@
     "string": "friday 23:00"
   },
   "rank": 23,
-  "popularity": 450,
+  "popularity": 448,
   "rating": "pg_13",
   "simkl_id": 2413572,
   "episodes_data": [
@@ -516,10 +532,10 @@
     }
   ],
   "characters": [],
-  "num_scoring_users": 308222,
+  "num_scoring_users": 309501,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2024-03-23T17:15:49+00:00",
+  "updated_at": "2025-12-23T10:50:41+00:00",
   "source": "light_novel",
   "background": "Kusuriya no Hitorigoto 2nd Season aired on Nippon TV's Friday Anime Night block. It was released on Blu-ray in four volumes by Toho from April 16, 2025, to October 15, 2025. The series adapts the third and fourth volume of the light novel.",
   "related_anime": [
@@ -528,8 +544,8 @@
         "id": 54492,
         "title": "Kusuriya no Hitorigoto",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1708/138033.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1708/138033l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1708/138033.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1708/138033l.webp"
         }
       },
       "relation_type": "prequel",
@@ -540,8 +556,8 @@
         "id": 60749,
         "title": "Maomao no Hitorigoto 2nd Season",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1946/147490.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1946/147490l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1946/147490.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1946/147490l.webp"
         }
       },
       "relation_type": "other",
@@ -579,8 +595,8 @@
         "id": 8425,
         "title": "Gosick",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/11/27906.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/11/27906l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/11/27906.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/11/27906l.jpg"
         }
       },
       "num_recommendations": 2
@@ -599,12 +615,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "93520",
-      "completed": "364629",
-      "on_hold": "9177",
-      "dropped": "3393",
-      "plan_to_watch": "101562"
+      "watching": "93541",
+      "completed": "366448",
+      "on_hold": "9179",
+      "dropped": "3407",
+      "plan_to_watch": "101629"
     },
-    "num_list_users": 572281
-  }
+    "num_list_users": 574204
+  },
+  "mal_details_updated_at": "2026-11-15T17:13:05.577Z",
+  "translations_updated_at": "2026-11-15T17:23:58.484Z"
 }

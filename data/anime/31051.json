@@ -58,11 +58,15 @@
       "name": "Production I.G"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/10/74628l.webp",
+    "https://cdn.myanimelist.net/images/anime/2/74642l.webp",
+    "https://cdn.myanimelist.net/images/anime/13/77323l.webp"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T13:06:05.518Z",
+  "tmdb_updated_at": "2026-11-15T17:21:57.295Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/13/77323.webp",
@@ -75,12 +79,12 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/13/77323l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/10/74628l.webp"
     }
   },
   "broadcast": null,
-  "rank": 623,
-  "popularity": 2172,
+  "rank": 624,
+  "popularity": 2173,
   "rating": "pg_13",
   "simkl_id": 51064,
   "episodes_data": [
@@ -376,10 +380,10 @@
     }
   ],
   "characters": [],
-  "num_scoring_users": 62857,
+  "num_scoring_users": 62879,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2015-06-19T02:27:01+00:00",
+  "updated_at": "2023-01-09T01:32:18+00:00",
   "source": "manga",
   "background": null,
   "related_anime": [
@@ -388,8 +392,8 @@
         "id": 24415,
         "title": "Kuroko no Basket 3rd Season",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/4/68299.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/4/68299l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/4/68299.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/4/68299l.webp"
         }
       },
       "relation_type": "parent_story",
@@ -412,12 +416,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "3027",
-      "completed": "101249",
+      "watching": "3030",
+      "completed": "101304",
       "on_hold": "698",
       "dropped": "658",
-      "plan_to_watch": "14460"
+      "plan_to_watch": "14463"
     },
-    "num_list_users": 120092
-  }
+    "num_list_users": 120153
+  },
+  "mal_details_updated_at": "2026-11-15T17:21:57.086Z",
+  "translations_updated_at": "2026-11-15T17:24:21.155Z"
 }

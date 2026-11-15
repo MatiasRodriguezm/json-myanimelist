@@ -32,8 +32,8 @@
   "num_episodes": 7,
   "score": 8.72,
   "mean": 8.72,
-  "numListUsers": 36739,
-  "num_list_users": 36739,
+  "numListUsers": 36766,
+  "num_list_users": 36766,
   "genres": [
     {
       "id": 1,
@@ -62,11 +62,21 @@
       "name": "Studio Tumble"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1288/147047l.webp",
+    "https://cdn.myanimelist.net/images/anime/1769/159291l.webp",
+    "https://cdn.myanimelist.net/images/anime/1156/159295l.webp",
+    "https://cdn.myanimelist.net/images/anime/1569/159296l.webp",
+    "https://cdn.myanimelist.net/images/anime/1833/159297l.webp",
+    "https://cdn.myanimelist.net/images/anime/1045/159415l.webp",
+    "https://cdn.myanimelist.net/images/anime/1348/159416l.webp",
+    "https://cdn.myanimelist.net/images/anime/1350/159751l.webp",
+    "https://cdn.myanimelist.net/images/anime/1220/159752l.webp"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T13:06:02.063Z",
+  "tmdb_updated_at": "2026-11-15T17:21:41.473Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1288/147047.webp",
@@ -84,7 +94,7 @@
   },
   "broadcast": null,
   "rank": 57,
-  "popularity": 4417,
+  "popularity": 4387,
   "rating": "pg_13",
   "simkl_id": 3198582,
   "episodes_data": [
@@ -147,10 +157,10 @@
   ],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 6848,
+  "num_scoring_users": 7083,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2024-12-21T17:54:58+00:00",
+  "updated_at": "2026-11-07T06:22:27+00:00",
   "source": "original",
   "background": null,
   "related_anime": [
@@ -159,8 +169,8 @@
         "id": 50462,
         "title": "Jiyi Guanli Ju",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1238/159323.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1238/159323l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1238/159323.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1238/159323l.jpg"
         }
       },
       "relation_type": "alternative_version",
@@ -196,8 +206,8 @@
         "id": 7785,
         "title": "Yojouhan Shinwa Taikei",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1633/123689.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1633/123689l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1633/123689.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1633/123689l.jpg"
         }
       },
       "num_recommendations": 1
@@ -218,8 +228,8 @@
         "id": 44074,
         "title": "Shiguang Dailiren",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1135/114867.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1135/114867l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1135/114867.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1135/114867l.webp"
         }
       },
       "num_recommendations": 1
@@ -227,12 +237,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "5205",
-      "completed": "7072",
-      "on_hold": "572",
-      "dropped": "289",
-      "plan_to_watch": "23020"
+      "watching": "5247",
+      "completed": "7335",
+      "on_hold": "575",
+      "dropped": "297",
+      "plan_to_watch": "23310"
     },
-    "num_list_users": 36158
-  }
+    "num_list_users": 36764
+  },
+  "mal_details_updated_at": "2026-11-15T17:21:41.253Z",
+  "translations_updated_at": "2026-11-15T17:24:01.562Z"
 }

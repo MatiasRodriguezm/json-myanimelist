@@ -59,11 +59,14 @@
       "name": "LIDENFILMS"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1949/154771l.webp",
+    "https://cdn.myanimelist.net/images/anime/1234/158210l.webp"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T13:05:17.591Z",
+  "tmdb_updated_at": "2026-11-15T17:17:05.016Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1234/158210.webp",
@@ -76,12 +79,12 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1234/158210l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1949/154771l.webp"
     }
   },
   "broadcast": null,
   "rank": null,
-  "popularity": 6752,
+  "popularity": 6742,
   "rating": null,
   "simkl_id": 2982150,
   "episodes_data": [],
@@ -89,8 +92,8 @@
   "characters": [],
   "num_scoring_users": null,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2026-01-01T03:11:31+00:00",
+  "updated_at": "2026-05-25T17:51:52+00:00",
   "source": "manga",
   "background": null,
   "related_anime": [],
@@ -98,12 +101,14 @@
   "recommendations": [],
   "statistics": {
     "status": {
-      "watching": "1",
+      "watching": 0,
       "completed": 0,
-      "on_hold": "1",
+      "on_hold": 0,
       "dropped": 0,
-      "plan_to_watch": "12845"
+      "plan_to_watch": "12873"
     },
-    "num_list_users": 12847
-  }
+    "num_list_users": 12873
+  },
+  "mal_details_updated_at": "2026-11-15T17:17:04.445Z",
+  "translations_updated_at": "2026-11-15T17:24:52.061Z"
 }

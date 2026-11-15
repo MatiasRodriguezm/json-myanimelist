@@ -30,10 +30,10 @@
   },
   "episodes": 12,
   "num_episodes": 12,
-  "score": 7.73,
-  "mean": 7.73,
-  "numListUsers": 85620,
-  "num_list_users": 85620,
+  "score": 7.74,
+  "mean": 7.74,
+  "numListUsers": 85864,
+  "num_list_users": 85864,
   "genres": [
     {
       "id": 4,
@@ -58,7 +58,13 @@
       "name": "Passione"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1410/149470l.webp",
+    "https://cdn.myanimelist.net/images/anime/1098/159407l.webp",
+    "https://cdn.myanimelist.net/images/anime/1917/159466l.webp",
+    "https://cdn.myanimelist.net/images/anime/1810/159933l.webp",
+    "https://cdn.myanimelist.net/images/anime/1877/160134l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/kuYMjcQ6BeLTBYUR1l1T8W8ZMcf.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/bKvyj38ZrE7KWWh5iwQfc8jvm3k.png",
   "tmdb_id": "283938",
@@ -75,7 +81,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1877/160134l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1410/149470l.webp"
     }
   },
   "broadcast": {
@@ -86,114 +92,114 @@
     "timezone": "Asia/Tokyo",
     "string": "sunday 00:30"
   },
-  "rank": 1425,
-  "popularity": 2747,
+  "rank": 1374,
+  "popularity": 2729,
   "rating": "r+",
   "simkl_id": 2764258,
   "episodes_data": [
     {
       "episode": 1,
       "title": "Episode 1",
-      "title_es": "Episodio 1",
       "aired": "2026-10-04T00:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20801673075006d5f7_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Episodio 1"
     },
     {
       "episode": 2,
       "title": "Episode 2",
-      "title_es": "Episodio 2",
       "aired": "2026-10-11T00:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20852981db7202b9d3_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Episodio 2"
     },
     {
       "episode": 3,
       "title": "Episode 3",
-      "title_es": "Episodio 3",
       "aired": "2026-10-18T00:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20891329549ef0a80d_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Episodio 3"
     },
     {
       "episode": 4,
       "title": "Episode 4",
-      "title_es": "Episodio 4",
       "aired": "2026-10-25T00:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20941637870073104b_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Episodio 4"
     },
     {
       "episode": 5,
       "title": "Episode 5",
-      "title_es": "Episodio 5",
       "aired": "2026-11-01T00:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/209845099439520169_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Episodio 5"
     },
     {
       "episode": 6,
       "title": "Episode 6",
-      "title_es": "Episodio 6",
       "aired": "2026-11-08T00:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/21/21028731c74644c929_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Episodio 6"
     },
     {
       "episode": 7,
       "title": "Episode 7",
-      "title_es": "Episodio 7",
       "aired": "2026-11-15T00:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/21/210724217a1908a074_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Episodio 7"
     },
     {
       "episode": 8,
       "title": "Episode 8",
-      "title_es": "Episodio 8",
       "aired": "2026-11-22T00:30:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 8"
     },
     {
       "episode": 9,
       "title": "Episode 9",
-      "title_es": "Episodio 9",
       "aired": "2026-11-29T00:30:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 9"
     },
     {
       "episode": 10,
       "title": "Episode 10",
-      "title_es": "Episodio 10",
       "aired": "2026-12-06T00:30:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 10"
     },
     {
       "episode": 11,
       "title": "Episode 11",
-      "title_es": "Episodio 11",
       "aired": "2026-12-13T00:30:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 11"
     },
     {
       "episode": 12,
       "title": "Episode 12",
-      "title_es": "Episodio 12",
       "aired": "2026-12-20T00:30:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 12"
     }
   ],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 10643,
+  "num_scoring_users": 10821,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2025-04-27T09:48:53+00:00",
+  "updated_at": "2026-10-04T18:24:40+00:00",
   "source": "4_koma_manga",
   "background": null,
   "related_anime": [
@@ -217,8 +223,8 @@
         "id": 8675,
         "title": "Seitokai Yakuindomo",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/4/75550.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/4/75550l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/4/75550.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/4/75550l.webp"
         }
       },
       "num_recommendations": 4
@@ -228,8 +234,8 @@
         "id": 6347,
         "title": "Baka to Test to Shoukanjuu",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/3/50389.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/3/50389l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/3/50389.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/3/50389l.webp"
         }
       },
       "num_recommendations": 1
@@ -270,12 +276,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "46941",
-      "completed": "12",
-      "on_hold": "900",
-      "dropped": "1607",
-      "plan_to_watch": "35691"
+      "watching": "47390",
+      "completed": "10",
+      "on_hold": "909",
+      "dropped": "1618",
+      "plan_to_watch": "35937"
     },
-    "num_list_users": 85151
-  }
+    "num_list_users": 85864
+  },
+  "mal_details_updated_at": "2026-11-15T17:13:16.655Z",
+  "translations_updated_at": "2026-11-15T17:24:39.436Z"
 }

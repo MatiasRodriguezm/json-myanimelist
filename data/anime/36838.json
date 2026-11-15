@@ -30,8 +30,8 @@
   "num_episodes": 12,
   "score": 8.81,
   "mean": 8.81,
-  "numListUsers": 242648,
-  "num_list_users": 242648,
+  "numListUsers": 242652,
+  "num_list_users": 242652,
   "genres": [
     {
       "id": 1,
@@ -72,11 +72,13 @@
       "name": "Bandai Namco Pictures"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/12/89603l.webp"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T13:05:57.057Z",
+  "tmdb_updated_at": "2026-11-15T17:19:59.045Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/12/89603.webp",
@@ -100,7 +102,7 @@
     "timezone": "Asia/Tokyo",
     "string": "monday 01:35"
   },
-  "rank": 40,
+  "rank": 39,
   "popularity": 1207,
   "rating": "pg_13",
   "simkl_id": 699045,
@@ -308,10 +310,10 @@
   ],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 118253,
+  "num_scoring_users": 118296,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2017-11-20T05:11:48+00:00",
+  "updated_at": "2024-11-11T01:57:03+00:00",
   "source": "manga",
   "background": null,
   "related_anime": [
@@ -367,12 +369,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "13473",
-      "completed": "151695",
-      "on_hold": "3460",
-      "dropped": "2351",
-      "plan_to_watch": "71507"
+      "watching": "13472",
+      "completed": "151769",
+      "on_hold": "3461",
+      "dropped": "2352",
+      "plan_to_watch": "71529"
     },
-    "num_list_users": 242486
-  }
+    "num_list_users": 242583
+  },
+  "mal_details_updated_at": "2026-11-15T17:19:58.487Z",
+  "translations_updated_at": "2026-11-15T17:24:00.272Z"
 }

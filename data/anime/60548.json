@@ -30,8 +30,8 @@
   "num_episodes": null,
   "score": null,
   "mean": null,
-  "numListUsers": 46074,
-  "num_list_users": 46074,
+  "numListUsers": 46077,
+  "num_list_users": 46077,
   "genres": [
     {
       "id": 8,
@@ -52,11 +52,16 @@
       "name": "P.A. Works"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1963/147011l.webp",
+    "https://cdn.myanimelist.net/images/anime/1800/148268l.webp",
+    "https://cdn.myanimelist.net/images/anime/1561/150704l.webp",
+    "https://cdn.myanimelist.net/images/anime/1580/154606l.webp"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T13:05:50.640Z",
+  "tmdb_updated_at": "2026-11-15T17:19:43.484Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1800/148268.webp",
@@ -69,7 +74,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1800/148268l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1963/147011l.webp"
     }
   },
   "broadcast": null,
@@ -81,18 +86,18 @@
     {
       "episode": 1,
       "title": "Episode 1",
-      "title_es": "Episodio 1",
       "aired": "2027-04-01T00:00:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 1"
     }
   ],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 1,
+  "num_scoring_users": null,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2024-12-20T03:10:41+00:00",
+  "updated_at": "2026-08-16T07:03:51+00:00",
   "source": "manga",
   "background": null,
   "related_anime": [
@@ -113,12 +118,14 @@
   "recommendations": [],
   "statistics": {
     "status": {
-      "watching": "2",
+      "watching": "1",
       "completed": 0,
       "on_hold": "1",
       "dropped": 0,
-      "plan_to_watch": "46063"
+      "plan_to_watch": "46075"
     },
-    "num_list_users": 46066
-  }
+    "num_list_users": 46077
+  },
+  "mal_details_updated_at": "2026-11-15T17:19:43.016Z",
+  "translations_updated_at": "2026-11-15T17:24:34.583Z"
 }

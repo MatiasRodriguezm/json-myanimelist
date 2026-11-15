@@ -30,8 +30,8 @@
   "num_episodes": 1,
   "score": null,
   "mean": null,
-  "numListUsers": 73,
-  "num_list_users": 73,
+  "numListUsers": 74,
+  "num_list_users": 74,
   "genres": [
     {
       "id": 4,
@@ -44,11 +44,13 @@
       "name": "Studio Wrong"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1166/160929l.webp"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T13:05:03.027Z",
+  "tmdb_updated_at": "2026-11-15T17:16:38.804Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1166/160929.webp",
@@ -65,17 +67,17 @@
     }
   },
   "broadcast": null,
-  "rank": 21852,
-  "popularity": 30722,
+  "rank": 21861,
+  "popularity": 30388,
   "rating": "pg_13",
   "simkl_id": null,
   "episodes_data": [],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 8,
+  "num_scoring_users": 28,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2026-11-07T20:15:22+00:00",
+  "updated_at": "2026-11-08T13:12:37+00:00",
   "source": "original",
   "background": null,
   "related_anime": [],
@@ -83,12 +85,13 @@
   "recommendations": [],
   "statistics": {
     "status": {
-      "watching": "1",
-      "completed": "17",
-      "on_hold": "1",
-      "dropped": "3",
-      "plan_to_watch": "6"
+      "watching": "4",
+      "completed": "46",
+      "on_hold": "2",
+      "dropped": "7",
+      "plan_to_watch": "15"
     },
-    "num_list_users": 28
-  }
+    "num_list_users": 74
+  },
+  "mal_details_updated_at": "2026-11-15T17:16:38.344Z"
 }

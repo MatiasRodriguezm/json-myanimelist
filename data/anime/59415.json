@@ -28,10 +28,10 @@
   },
   "episodes": null,
   "num_episodes": null,
-  "score": 5.58,
-  "mean": 5.58,
-  "numListUsers": 5653,
-  "num_list_users": 5653,
+  "score": 5.57,
+  "mean": 5.57,
+  "numListUsers": 5655,
+  "num_list_users": 5655,
   "genres": [
     {
       "id": 18,
@@ -48,7 +48,10 @@
       "name": "Production +h."
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1450/144524l.webp",
+    "https://cdn.myanimelist.net/images/anime/1465/153763l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/fvzlpOEJS2eIPtcIwQi4oYcBwdh.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/53KwUKPlfED6y896SfvB4C85Cgh.svg",
   "tmdb_id": "306565",
@@ -65,7 +68,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1465/153763l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1450/144524l.webp"
     }
   },
   "broadcast": {
@@ -76,7 +79,7 @@
     "timezone": "Asia/Tokyo",
     "string": "wednesday 01:45"
   },
-  "rank": 13220,
+  "rank": 13267,
   "popularity": 9379,
   "rating": "pg_13",
   "simkl_id": 2526390,
@@ -84,74 +87,74 @@
     {
       "episode": 1,
       "title": "Episode 1",
-      "title_es": "Episodio 1",
       "aired": "2026-10-14T01:45:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20877531884feb12c0_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Episodio 1"
     },
     {
       "episode": 2,
       "title": "Episode 2",
-      "title_es": "Episodio 2",
       "aired": "2026-10-21T01:45:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/209167612b0653b0c8_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Episodio 2"
     },
     {
       "episode": 3,
       "title": "Episode 3",
-      "title_es": "Episodio 3",
       "aired": "2026-10-28T01:45:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20961803d46c919089_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Episodio 3"
     },
     {
       "episode": 4,
       "title": "Episode 4",
-      "title_es": "Episodio 4",
       "aired": "2026-11-04T01:45:00+09:00",
       "thumbnail": "https://simkl.in/episodes/21/21009673fec1d4bf5e_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Episodio 4"
     },
     {
       "episode": 5,
       "title": "Episode 5",
-      "title_es": "Episodio 5",
       "aired": "2026-11-11T01:45:00+09:00",
       "thumbnail": "https://simkl.in/episodes/21/21052921a119049efd_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Episodio 5"
     },
     {
       "episode": 6,
       "title": "Episode 6",
-      "title_es": "Episodio 6",
       "aired": "2026-11-18T01:45:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 6"
     },
     {
       "episode": 7,
       "title": "Episode 7",
-      "title_es": "Episodio 7",
       "aired": "2026-11-25T01:45:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 7"
     },
     {
       "episode": 8,
       "title": "Episode 8",
-      "title_es": "Episodio 8",
       "aired": "2026-12-02T01:45:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 8"
     }
   ],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 638,
+  "num_scoring_users": 639,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2024-07-28T14:12:42+00:00",
+  "updated_at": "2026-10-14T11:59:18+00:00",
   "source": "mixed_media",
   "background": null,
   "related_anime": [],
@@ -171,12 +174,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "1967",
-      "completed": "2",
-      "on_hold": "71",
-      "dropped": "652",
-      "plan_to_watch": "2954"
+      "watching": "1969",
+      "completed": 0,
+      "on_hold": "73",
+      "dropped": "657",
+      "plan_to_watch": "2957"
     },
-    "num_list_users": 5646
-  }
+    "num_list_users": 5656
+  },
+  "mal_details_updated_at": "2026-11-15T17:15:02.120Z",
+  "translations_updated_at": "2026-11-15T17:24:31.556Z"
 }

@@ -30,8 +30,8 @@
   "num_episodes": 24,
   "score": 9.07,
   "mean": 9.07,
-  "numListUsers": 2867325,
-  "num_list_users": 2867325,
+  "numListUsers": 2867387,
+  "num_list_users": 2867387,
   "genres": [
     {
       "id": 50,
@@ -64,7 +64,15 @@
       "name": "White Fox"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/10/32023l.webp",
+    "https://cdn.myanimelist.net/images/anime/8/35137l.webp",
+    "https://cdn.myanimelist.net/images/anime/3/36433l.webp",
+    "https://cdn.myanimelist.net/images/anime/1167/96846l.webp",
+    "https://cdn.myanimelist.net/images/anime/1935/127974l.webp",
+    "https://cdn.myanimelist.net/images/anime/1491/143199l.webp",
+    "https://cdn.myanimelist.net/images/anime/1457/145286l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/gDvxT2z6TNxervG97WfpePRZ3aR.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/7GEZnpbAgtPr7MeZ04i7HtiLvl3.png",
   "tmdb_id": "42509",
@@ -81,7 +89,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1935/127974l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/10/32023l.webp"
     }
   },
   "broadcast": {
@@ -317,10 +325,10 @@
     }
   ],
   "characters": [],
-  "num_scoring_users": 1547350,
+  "num_scoring_users": 1547991,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2010-07-26T09:23:40+00:00",
+  "updated_at": "2026-11-13T02:45:21+00:00",
   "source": "visual_novel",
   "background": "Steins;Gate is based on 5pb. and Nitroplus' visual novel of the same title released in 2009. It serves as the second entry in the Science Adventure series.",
   "related_anime": [
@@ -353,8 +361,8 @@
         "id": 13599,
         "title": "Robotics;Notes",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/10/42013.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/10/42013l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/10/42013.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/10/42013l.webp"
         }
       },
       "relation_type": "alternative_setting",
@@ -377,8 +385,8 @@
         "id": 30485,
         "title": "ChäoS;Child",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1310/90137.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1310/90137l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1310/90137.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1310/90137l.jpg"
         }
       },
       "relation_type": "alternative_setting",
@@ -401,8 +409,8 @@
         "id": 32962,
         "title": "Occultic;Nine",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1050/149751.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1050/149751l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1050/149751.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1050/149751l.webp"
         }
       },
       "relation_type": "alternative_setting",
@@ -420,7 +428,7 @@
           "large": "https://cdn.myanimelist.net/images/anime/1522/128039l.jpg"
         }
       },
-      "num_recommendations": 138
+      "num_recommendations": 139
     },
     {
       "node": {
@@ -438,8 +446,8 @@
         "id": 9756,
         "title": "Mahou Shoujo Madoka☆Magica",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/11/55225.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/11/55225l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/11/55225.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/11/55225l.webp"
         }
       },
       "num_recommendations": 55
@@ -449,8 +457,8 @@
         "id": 10620,
         "title": "Mirai Nikki (TV)",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/13/33465.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/13/33465l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/13/33465.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/13/33465l.jpg"
         }
       },
       "num_recommendations": 27
@@ -460,8 +468,8 @@
         "id": 44074,
         "title": "Shiguang Dailiren",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1135/114867.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1135/114867l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1135/114867.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1135/114867l.webp"
         }
       },
       "num_recommendations": 25
@@ -471,8 +479,8 @@
         "id": 2236,
         "title": "Toki wo Kakeru Shoujo",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1/2432.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1/2432l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1/2432.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1/2432l.jpg"
         }
       },
       "num_recommendations": 22
@@ -524,12 +532,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "189656",
-      "completed": "1794479",
-      "on_hold": "96809",
-      "dropped": "63201",
-      "plan_to_watch": "721166"
+      "watching": "189768",
+      "completed": "1795262",
+      "on_hold": "96834",
+      "dropped": "63231",
+      "plan_to_watch": "721505"
     },
-    "num_list_users": 2865311
-  }
+    "num_list_users": 2866600
+  },
+  "mal_details_updated_at": "2026-11-15T17:12:57.018Z",
+  "translations_updated_at": "2026-11-15T17:23:32.965Z"
 }

@@ -75,7 +75,11 @@
       "name": "Sunrise"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/12/64865l.webp",
+    "https://cdn.myanimelist.net/images/anime/7/73502l.webp",
+    "https://cdn.myanimelist.net/images/anime/1327/110925l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/3gVl0IvJMbhOnAvH9V0Q1Y1HnXE.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/2GFz7E2Z1UWiWqOv2YGIbIaAWrH.png",
   "tmdb_id": "57041",
@@ -92,12 +96,12 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1327/110925l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/12/64865l.webp"
     }
   },
   "broadcast": null,
-  "rank": 573,
-  "popularity": 3892,
+  "rank": 572,
+  "popularity": 3893,
   "rating": "pg_13",
   "simkl_id": 433226,
   "episodes_data": [
@@ -112,10 +116,10 @@
   ],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 20293,
+  "num_scoring_users": 20297,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2014-07-15T21:54:47+00:00",
+  "updated_at": "2022-04-04T13:24:04+00:00",
   "source": "manga",
   "background": "This special Gintama episode was previewed at a screening at Jump Special Anime Festa 2014. On April 3, 2015, it was later bundled with a limited edition of the manga's 58th volume.",
   "related_anime": [
@@ -137,11 +141,13 @@
   "statistics": {
     "status": {
       "watching": "1322",
-      "completed": "31238",
+      "completed": "31245",
       "on_hold": "533",
       "dropped": "490",
-      "plan_to_watch": "12820"
+      "plan_to_watch": "12824"
     },
-    "num_list_users": 46403
-  }
+    "num_list_users": 46414
+  },
+  "mal_details_updated_at": "2026-11-15T17:21:54.186Z",
+  "translations_updated_at": "2026-11-15T17:24:20.063Z"
 }

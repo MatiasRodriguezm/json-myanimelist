@@ -30,8 +30,8 @@
   "num_episodes": null,
   "score": null,
   "mean": null,
-  "numListUsers": 5537,
-  "num_list_users": 5537,
+  "numListUsers": 5540,
+  "num_list_users": 5540,
   "genres": [
     {
       "id": 1,
@@ -60,11 +60,14 @@
       "name": "Project No.9"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1934/158698l.webp",
+    "https://cdn.myanimelist.net/images/anime/1970/160423l.webp"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T13:05:24.153Z",
+  "tmdb_updated_at": "2026-11-15T17:17:44.341Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1970/160423.webp",
@@ -77,30 +80,30 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1970/160423l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1934/158698l.webp"
     }
   },
   "broadcast": null,
   "rank": null,
-  "popularity": 9463,
+  "popularity": 9456,
   "rating": null,
   "simkl_id": 3164230,
   "episodes_data": [
     {
       "episode": 1,
       "title": "Episode 1",
-      "title_es": "Episodio 1",
       "aired": "2027-01-01T00:00:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 1"
     }
   ],
   "specials_data": [],
   "characters": [],
   "num_scoring_users": null,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2026-06-25T10:08:12+00:00",
+  "updated_at": "2026-10-06T08:41:16+00:00",
   "source": "manga",
   "background": null,
   "related_anime": [],
@@ -108,12 +111,14 @@
   "recommendations": [],
   "statistics": {
     "status": {
-      "watching": "4",
+      "watching": "3",
       "completed": 0,
       "on_hold": 0,
       "dropped": 0,
-      "plan_to_watch": "5519"
+      "plan_to_watch": "5537"
     },
-    "num_list_users": 5523
-  }
+    "num_list_users": 5540
+  },
+  "mal_details_updated_at": "2026-11-15T17:17:43.719Z",
+  "translations_updated_at": "2026-11-15T17:25:03.168Z"
 }

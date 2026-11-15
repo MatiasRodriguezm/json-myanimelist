@@ -30,8 +30,8 @@
   "num_episodes": 12,
   "score": 6.47,
   "mean": 6.47,
-  "numListUsers": 1359,
-  "num_list_users": 1359,
+  "numListUsers": 1363,
+  "num_list_users": 1363,
   "genres": [
     {
       "id": 4,
@@ -48,11 +48,13 @@
       "name": "Front Wing"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1432/160506l.webp"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T13:04:21.875Z",
+  "tmdb_updated_at": "2026-11-15T17:14:48.027Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1432/160506.webp",
@@ -76,17 +78,17 @@
     "timezone": "Asia/Tokyo",
     "string": "sunday 00:00"
   },
-  "rank": 8275,
-  "popularity": 14422,
+  "rank": 8276,
+  "popularity": 14374,
   "rating": "pg_13",
   "simkl_id": null,
   "episodes_data": [],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 185,
+  "num_scoring_users": 186,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2026-10-11T11:13:17+00:00",
+  "updated_at": "2026-10-11T12:22:18+00:00",
   "source": "web_manga",
   "background": null,
   "related_anime": [
@@ -107,12 +109,14 @@
   "recommendations": [],
   "statistics": {
     "status": {
-      "watching": "813",
-      "completed": "2",
-      "on_hold": "35",
-      "dropped": "96",
-      "plan_to_watch": "405"
+      "watching": "824",
+      "completed": 0,
+      "on_hold": "36",
+      "dropped": "97",
+      "plan_to_watch": "406"
     },
-    "num_list_users": 1351
-  }
+    "num_list_users": 1363
+  },
+  "mal_details_updated_at": "2026-11-15T17:14:47.591Z",
+  "translations_updated_at": "2026-11-15T17:25:09.503Z"
 }

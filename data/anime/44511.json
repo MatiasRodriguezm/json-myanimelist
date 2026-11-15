@@ -32,8 +32,8 @@
   "num_episodes": 12,
   "score": 8.41,
   "mean": 8.41,
-  "numListUsers": 2053724,
-  "num_list_users": 2053724,
+  "numListUsers": 2053818,
+  "num_list_users": 2053818,
   "genres": [
     {
       "id": 1,
@@ -62,7 +62,12 @@
       "name": "MAPPA"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1915/110629l.webp",
+    "https://cdn.myanimelist.net/images/anime/1632/110707l.webp",
+    "https://cdn.myanimelist.net/images/anime/1806/126216l.webp",
+    "https://cdn.myanimelist.net/images/anime/1803/132254l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/fOUKSCbZzaoQKsO39enivHnWDid.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/8X3AdUA5q3owusAXOiCOn3FwXUa.png",
   "tmdb_id": "114410",
@@ -79,7 +84,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1806/126216l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1915/110629l.webp"
     }
   },
   "broadcast": {
@@ -90,7 +95,7 @@
     "timezone": "Asia/Tokyo",
     "string": "wednesday 00:00"
   },
-  "rank": 223,
+  "rank": 224,
   "popularity": 46,
   "rating": "r",
   "simkl_id": 1498301,
@@ -267,10 +272,10 @@
     }
   ],
   "characters": [],
-  "num_scoring_users": 1202199,
+  "num_scoring_users": 1203637,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2020-12-09T12:09:06+00:00",
+  "updated_at": "2025-12-22T02:34:49+00:00",
   "source": "manga",
   "background": "Chainsaw Man was released in four volumes on Blu-ray and DVD from January 27, 2023, to April 28, 2023. It adapts chapters 1-38 of the original manga.",
   "related_anime": [
@@ -279,8 +284,8 @@
         "id": 53405,
         "title": "Zanki",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1228/145152.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1228/145152l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1228/145152.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1228/145152l.jpg"
         }
       },
       "relation_type": "other",
@@ -366,8 +371,8 @@
         "id": 40748,
         "title": "Jujutsu Kaisen",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1171/109222.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1171/109222l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1171/109222.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1171/109222l.jpg"
         }
       },
       "num_recommendations": 52
@@ -377,8 +382,8 @@
         "id": 38668,
         "title": "Dorohedoro",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1230/119278.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1230/119278l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1230/119278.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1230/119278l.webp"
         }
       },
       "num_recommendations": 18
@@ -388,8 +393,8 @@
         "id": 57334,
         "title": "Dandadan",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1584/143719.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1584/143719l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1584/143719.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1584/143719l.jpg"
         }
       },
       "num_recommendations": 10
@@ -410,8 +415,8 @@
         "id": 35120,
         "title": "Devilman: Crybaby",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/2/89973.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/2/89973l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/2/89973.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/2/89973l.jpg"
         }
       },
       "num_recommendations": 9
@@ -454,8 +459,8 @@
         "id": 22535,
         "title": "Kiseijuu: Sei no Kakuritsu",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/3/73178.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/3/73178l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/3/73178.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/3/73178l.jpg"
         }
       },
       "num_recommendations": 5
@@ -474,12 +479,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "227266",
-      "completed": "1458937",
-      "on_hold": "30863",
-      "dropped": "31905",
-      "plan_to_watch": "302267"
+      "watching": "227283",
+      "completed": "1460936",
+      "on_hold": "30914",
+      "dropped": "31947",
+      "plan_to_watch": "302303"
     },
-    "num_list_users": 2051238
-  }
+    "num_list_users": 2053383
+  },
+  "mal_details_updated_at": "2026-11-15T17:18:21.649Z",
+  "translations_updated_at": "2026-11-15T17:23:47.314Z"
 }

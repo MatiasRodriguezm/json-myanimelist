@@ -32,8 +32,8 @@
   "num_episodes": 1,
   "score": 7.93,
   "mean": 7.93,
-  "numListUsers": 323677,
-  "num_list_users": 323677,
+  "numListUsers": 323685,
+  "num_list_users": 323685,
   "genres": [
     {
       "id": 8,
@@ -54,11 +54,19 @@
       "name": "Kyoto Animation"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/11/9735l.webp",
+    "https://cdn.myanimelist.net/images/anime/10/10041l.webp",
+    "https://cdn.myanimelist.net/images/anime/11/17039l.webp",
+    "https://cdn.myanimelist.net/images/anime/5/18889l.webp",
+    "https://cdn.myanimelist.net/images/anime/12/19620l.webp",
+    "https://cdn.myanimelist.net/images/anime/8/20467l.webp",
+    "https://cdn.myanimelist.net/images/anime/9/27509l.webp"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T13:06:07.186Z",
+  "tmdb_updated_at": "2026-11-15T17:22:04.160Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/12/19620.webp",
@@ -71,11 +79,11 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/12/19620l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/11/9735l.webp"
     }
   },
   "broadcast": null,
-  "rank": 880,
+  "rank": 878,
   "popularity": 898,
   "rating": "pg_13",
   "simkl_id": 40750,
@@ -276,10 +284,10 @@
     }
   ],
   "characters": [],
-  "num_scoring_users": 213190,
+  "num_scoring_users": 213254,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2008-03-06T09:49:33+00:00",
+  "updated_at": "2022-04-29T18:24:22+00:00",
   "source": "visual_novel",
   "background": null,
   "related_anime": [
@@ -314,8 +322,8 @@
         "id": 35677,
         "title": "Liz to Aoi Tori",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1638/93032.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1638/93032l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1638/93032.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1638/93032l.webp"
         }
       },
       "num_recommendations": 2
@@ -336,8 +344,8 @@
         "id": 5216,
         "title": "D.C.if: Da Capo if",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/2/25445.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/2/25445l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/2/25445.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/2/25445l.jpg"
         }
       },
       "num_recommendations": 1
@@ -347,8 +355,8 @@
         "id": 7054,
         "title": "Kaichou wa Maid-sama!",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/6/25254.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/6/25254l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/6/25254.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/6/25254l.jpg"
         }
       },
       "num_recommendations": 1
@@ -378,12 +386,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "3095",
-      "completed": "288869",
-      "on_hold": "1240",
+      "watching": "3099",
+      "completed": "288953",
+      "on_hold": "1242",
       "dropped": "998",
-      "plan_to_watch": "29333"
+      "plan_to_watch": "29338"
     },
-    "num_list_users": 323535
-  }
+    "num_list_users": 323630
+  },
+  "mal_details_updated_at": "2026-11-15T17:22:03.968Z",
+  "translations_updated_at": "2026-11-15T17:24:23.545Z"
 }

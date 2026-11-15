@@ -32,8 +32,8 @@
   "num_episodes": 1,
   "score": 8.77,
   "mean": 8.77,
-  "numListUsers": 2064739,
-  "num_list_users": 2064739,
+  "numListUsers": 2064771,
+  "num_list_users": 2064771,
   "genres": [
     {
       "id": 2,
@@ -58,7 +58,14 @@
       "name": "Studio Ghibli"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/3/55143l.webp",
+    "https://cdn.myanimelist.net/images/anime/6/79597l.webp",
+    "https://cdn.myanimelist.net/images/anime/1127/116848l.webp",
+    "https://cdn.myanimelist.net/images/anime/1618/138716l.webp",
+    "https://cdn.myanimelist.net/images/anime/1082/138717l.webp",
+    "https://cdn.myanimelist.net/images/anime/1390/138718l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/m4TUa2ciEWSlk37rOsjiSIvZDXE.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/hkUi1Z15Ymj9GNamWQkzUhehLuy.png",
   "tmdb_id": "129",
@@ -75,7 +82,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/6/79597l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/3/55143l.webp"
     }
   },
   "broadcast": null,
@@ -152,10 +159,10 @@
     }
   ],
   "characters": [],
-  "num_scoring_users": 1435193,
+  "num_scoring_users": 1435744,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2005-11-12T07:05:54+00:00",
+  "updated_at": "2024-11-26T03:03:29+00:00",
   "source": "original",
   "background": "Sen to Chihiro no Kamikakushi held the record of being the highest-grossing film in Japanese history from 2001 until 2020. As of December 2020, it has amassed a total of 31.68 billion yen from Japanese box office sales and a total of $395.8 million worldwide. \n\nThis critically acclaimed film has won numerous awards, including the Academy Award—more commonly known as the \"Oscar\"—for Best Animated Feature at the 75th Academy Awards in 2003 as well as the Golden Bear at the 2002 Berlin International Film Festival (alongside Bloody Sunday). It is also among the top 10 in the British Film Institute's list of the \"50 films you should see by the age of 14.\" \n\nThe English version of Sen to Chihiro no Kamikakushi was dubbed by Walt Disney Pictures and premiered in 2002. The film was released on DVD and VHS formats in North America by Buena Vista Home Entertainment in 2003.",
   "related_anime": [],
@@ -177,8 +184,8 @@
         "id": 4081,
         "title": "Natsume Yuujinchou",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1681/108439.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1681/108439l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1681/108439.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1681/108439l.jpg"
         }
       },
       "num_recommendations": 14
@@ -199,8 +206,8 @@
         "id": 10408,
         "title": "Hotarubi no Mori e",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1599/112267.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1599/112267l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1599/112267.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1599/112267l.jpg"
         }
       },
       "num_recommendations": 8
@@ -232,8 +239,8 @@
         "id": 10259,
         "title": "Da Yu Hai Tang (Movie)",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/5/83826.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/5/83826l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/5/83826.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/5/83826l.jpg"
         }
       },
       "num_recommendations": 6
@@ -254,8 +261,8 @@
         "id": 457,
         "title": "Mushishi",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/2/73862.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/2/73862l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/2/73862.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/2/73862l.webp"
         }
       },
       "num_recommendations": 6
@@ -274,12 +281,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "30932",
-      "completed": "1866894",
-      "on_hold": "5255",
-      "dropped": "2515",
-      "plan_to_watch": "158084"
+      "watching": "30950",
+      "completed": "1867671",
+      "on_hold": "5261",
+      "dropped": "2514",
+      "plan_to_watch": "158131"
     },
-    "num_list_users": 2063680
-  }
+    "num_list_users": 2064527
+  },
+  "mal_details_updated_at": "2026-11-15T17:18:21.213Z",
+  "translations_updated_at": "2026-11-15T17:23:47.219Z"
 }

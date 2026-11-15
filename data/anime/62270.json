@@ -30,8 +30,8 @@
   "num_episodes": 1,
   "score": null,
   "mean": null,
-  "numListUsers": 4714,
-  "num_list_users": 4714,
+  "numListUsers": 4716,
+  "num_list_users": 4716,
   "genres": [
     {
       "id": 8,
@@ -48,11 +48,16 @@
       "name": "Nichicaline"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1438/154964l.webp",
+    "https://cdn.myanimelist.net/images/anime/1479/159247l.webp",
+    "https://cdn.myanimelist.net/images/anime/1237/159287l.webp",
+    "https://cdn.myanimelist.net/images/anime/1080/160621l.webp"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T13:04:31.469Z",
+  "tmdb_updated_at": "2026-11-15T17:15:08.605Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1080/160621.webp",
@@ -65,12 +70,12 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1080/160621l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1438/154964l.webp"
     }
   },
   "broadcast": null,
-  "rank": 15737,
-  "popularity": 10009,
+  "rank": 15749,
+  "popularity": 9991,
   "rating": "pg_13",
   "simkl_id": 2991028,
   "episodes_data": [
@@ -85,10 +90,10 @@
   ],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 101,
+  "num_scoring_users": 103,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2025-08-14T23:13:06+00:00",
+  "updated_at": "2026-08-02T02:16:49+00:00",
   "source": "mixed_media",
   "background": null,
   "related_anime": [
@@ -97,8 +102,8 @@
         "id": 56653,
         "title": "BanG Dream! Ave Mujica",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1181/148235.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1181/148235l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1181/148235.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1181/148235l.jpg"
         }
       },
       "relation_type": "parent_story",
@@ -109,12 +114,14 @@
   "recommendations": [],
   "statistics": {
     "status": {
-      "watching": "112",
-      "completed": "127",
-      "on_hold": "66",
-      "dropped": "28",
-      "plan_to_watch": "4349"
+      "watching": "116",
+      "completed": "132",
+      "on_hold": "68",
+      "dropped": "30",
+      "plan_to_watch": "4370"
     },
-    "num_list_users": 4682
-  }
+    "num_list_users": 4716
+  },
+  "mal_details_updated_at": "2026-11-15T17:15:08.176Z",
+  "translations_updated_at": "2026-11-15T17:24:42.144Z"
 }

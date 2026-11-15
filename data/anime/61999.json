@@ -30,8 +30,8 @@
   "num_episodes": null,
   "score": 6.89,
   "mean": 6.89,
-  "numListUsers": 28304,
-  "num_list_users": 28304,
+  "numListUsers": 28333,
+  "num_list_users": 28333,
   "genres": [
     {
       "id": 1,
@@ -52,7 +52,11 @@
       "name": "100studio"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1668/150903l.webp",
+    "https://cdn.myanimelist.net/images/anime/1249/156304l.webp",
+    "https://cdn.myanimelist.net/images/anime/1299/159977l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/d63e5W3rWWuMIDcrUgmZTauMbna.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/mzzv48m0o3nvgMyNpbi8J4Ri6IC.png",
   "tmdb_id": "295420",
@@ -69,7 +73,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1299/159977l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1668/150903l.webp"
     }
   },
   "broadcast": {
@@ -80,82 +84,82 @@
     "timezone": "Asia/Tokyo",
     "string": "saturday 17:30"
   },
-  "rank": 5488,
-  "popularity": 4932,
+  "rank": 5554,
+  "popularity": 4926,
   "rating": "r",
   "simkl_id": 2831382,
   "episodes_data": [
     {
       "episode": 1,
       "title": "Peru the Mask Maker",
-      "title_es": "Perú el fabricante de máscaras",
       "aired": "2026-10-10T17:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20853899a7dbaa6419_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Perú el fabricante de máscaras"
     },
     {
       "episode": 2,
       "title": "Mask of the War God",
-      "title_es": "Máscara del Dios de la Guerra",
       "aired": "2026-10-17T17:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20904107b7f12e354e_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Máscara del Dios de la Guerra"
     },
     {
       "episode": 3,
       "title": "The Mask of Smoke",
-      "title_es": "La máscara de humo",
       "aired": "2026-10-24T17:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20942443e240a84f82_w.webp",
-      "description": "Peru and Sona arrive at Cornbloom, where a very peculiar employee insists on traveling with them."
+      "description": "Peru and Sona arrive at Cornbloom, where a very peculiar employee insists on traveling with them.",
+      "title_es": "La máscara de humo"
     },
     {
       "episode": 4,
       "title": "Episode 4",
-      "title_es": "Episodio 4",
       "aired": "2026-10-31T17:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20983933221b0186ca_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Episodio 4"
     },
     {
       "episode": 5,
       "title": "Episode 5",
-      "title_es": "Episodio 5",
       "aired": "2026-11-07T17:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/21/21028455d512fbf727_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Episodio 5"
     },
     {
       "episode": 6,
       "title": "Episode 6",
-      "title_es": "Episodio 6",
       "aired": "2026-11-14T17:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/21/2107150511173fab57_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Episodio 6"
     },
     {
       "episode": 7,
       "title": "Episode 7",
-      "title_es": "Episodio 7",
       "aired": "2026-11-21T17:30:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 7"
     },
     {
       "episode": 8,
       "title": "Episode 8",
-      "title_es": "Episodio 8",
       "aired": "2026-11-28T17:30:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 8"
     }
   ],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 2841,
+  "num_scoring_users": 2874,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2025-07-05T18:17:48+00:00",
+  "updated_at": "2026-11-14T20:28:57+00:00",
   "source": "manga",
   "background": null,
   "related_anime": [
@@ -179,8 +183,8 @@
         "id": 20853,
         "title": "Hitsugi no Chaika",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/4/61781.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/4/61781l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/4/61781.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/4/61781l.webp"
         }
       },
       "num_recommendations": 1
@@ -188,12 +192,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "13352",
-      "completed": "5",
-      "on_hold": "401",
-      "dropped": "990",
-      "plan_to_watch": "13482"
+      "watching": "13406",
+      "completed": "2",
+      "on_hold": "411",
+      "dropped": "1010",
+      "plan_to_watch": "13502"
     },
-    "num_list_users": 28230
-  }
+    "num_list_users": 28331
+  },
+  "mal_details_updated_at": "2026-11-15T17:13:34.845Z",
+  "translations_updated_at": "2026-11-15T17:24:41.293Z"
 }

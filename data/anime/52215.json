@@ -32,8 +32,8 @@
   "num_episodes": 25,
   "score": 8.72,
   "mean": 8.72,
-  "numListUsers": 328412,
-  "num_list_users": 328412,
+  "numListUsers": 328443,
+  "num_list_users": 328443,
   "genres": [
     {
       "id": 8,
@@ -54,7 +54,12 @@
       "name": "Madhouse"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1458/124802l.webp",
+    "https://cdn.myanimelist.net/images/anime/1713/144437l.webp",
+    "https://cdn.myanimelist.net/images/anime/1749/145922l.webp",
+    "https://cdn.myanimelist.net/images/anime/1546/147461l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/o5GDX8zmKLpOxRkBoAonoQL8gbg.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/9G0REfRD39gP51RHRs7zwsz1nXb.png",
   "tmdb_id": "204635",
@@ -71,7 +76,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1749/145922l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1458/124802l.webp"
     }
   },
   "broadcast": {
@@ -83,7 +88,7 @@
     "string": "saturday 23:45"
   },
   "rank": 56,
-  "popularity": 887,
+  "popularity": 884,
   "rating": "r",
   "simkl_id": 1939202,
   "episodes_data": [
@@ -315,10 +320,10 @@
     }
   ],
   "characters": [],
-  "num_scoring_users": 134621,
+  "num_scoring_users": 134993,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2022-06-26T15:14:38+00:00",
+  "updated_at": "2025-01-11T03:03:23+00:00",
   "source": "manga",
   "background": null,
   "related_anime": [
@@ -354,8 +359,8 @@
         "id": 37521,
         "title": "Vinland Saga",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1500/103005.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1500/103005l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1500/103005.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1500/103005l.jpg"
         }
       },
       "num_recommendations": 11
@@ -442,8 +447,8 @@
         "id": 50796,
         "title": "Kimi wa Houkago Insomnia",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1402/134007.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1402/134007l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1402/134007.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1402/134007l.webp"
         }
       },
       "num_recommendations": 1
@@ -462,12 +467,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "52259",
-      "completed": "139255",
-      "on_hold": "12812",
-      "dropped": "9448",
-      "plan_to_watch": "113507"
+      "watching": "52307",
+      "completed": "139692",
+      "on_hold": "12855",
+      "dropped": "9473",
+      "plan_to_watch": "113768"
     },
-    "num_list_users": 327281
-  }
+    "num_list_users": 328095
+  },
+  "mal_details_updated_at": "2026-11-15T17:20:04.153Z",
+  "translations_updated_at": "2026-11-15T17:24:01.453Z"
 }

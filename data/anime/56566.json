@@ -30,8 +30,8 @@
   "num_episodes": null,
   "score": 6.83,
   "mean": 6.83,
-  "numListUsers": 7953,
-  "num_list_users": 7953,
+  "numListUsers": 7956,
+  "num_list_users": 7956,
   "genres": [
     {
       "id": 2,
@@ -52,7 +52,13 @@
       "name": "OLM"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1312/138299l.webp",
+    "https://cdn.myanimelist.net/images/anime/1670/140694l.webp",
+    "https://cdn.myanimelist.net/images/anime/1657/143183l.webp",
+    "https://cdn.myanimelist.net/images/anime/1394/145458l.webp",
+    "https://cdn.myanimelist.net/images/anime/1533/152273l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/qAq9RBeHZoTMDFqQZ2o4cE5CJIQ.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/sC8VGgUi1KSJpx9TjAWj8Z3Ee1A.png",
   "tmdb_id": "226688",
@@ -69,7 +75,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1394/145458l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1312/138299l.webp"
     }
   },
   "broadcast": {
@@ -81,974 +87,973 @@
     "string": "friday 18:25"
   },
   "rank": 5878,
-  "popularity": 8176,
+  "popularity": 8175,
   "rating": "pg",
   "simkl_id": 2249414,
   "episodes_data": [
     {
       "episode": 1,
       "title": "X",
-      "title_es": "X",
       "aired": "2023-10-06T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/14/1468402507a672a90b_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "X"
     },
     {
       "episode": 2,
       "title": "Multi-Colored Ambush",
-      "title_es": "Emboscada multicolor",
       "aired": "2023-10-13T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/14/1468402743c5233303_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Emboscada multicolor"
     },
     {
       "episode": 3,
       "title": "Team Persona",
-      "title_es": "Persona del equipo",
       "aired": "2023-10-20T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/14/14687605129ff2cff9_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Persona del equipo"
     },
     {
       "episode": 4,
       "title": "Bey Sponsor",
-      "title_es": "Patrocinador Bey",
       "aired": "2023-10-27T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/14/14704795e83683fa57_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Patrocinador Bey"
     },
     {
       "episode": 5,
       "title": "To the X",
-      "title_es": "A la X",
       "aired": "2023-11-03T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/14/14741143f5b335a07f_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "A la X"
     },
     {
       "episode": 6,
       "title": "Lion's Jungle",
-      "title_es": "Selva del León",
       "aired": "2023-11-10T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/14/148093450c4eb7733b_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Selva del León"
     },
     {
       "episode": 7,
       "title": "Team Zooganic",
-      "title_es": "Equipo Zooganic",
       "aired": "2023-11-17T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/14/1484537765dbf4a143_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Equipo Zooganic"
     },
     {
       "episode": 8,
       "title": "The Mask and the King",
-      "title_es": "La Máscara y el Rey",
       "aired": "2023-11-24T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/14/14876841f4a1edcf49_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "La Máscara y el Rey"
     },
     {
       "episode": 9,
       "title": "Beycrafter",
-      "title_es": "Beycrafter",
       "aired": "2023-12-01T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/14/1491021781ee4d1e33_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Beycrafter"
     },
     {
       "episode": 10,
       "title": "The Pro Realm",
-      "title_es": "El reino profesional",
       "aired": "2023-12-08T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/14/14938157ba8d8883e8_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "El reino profesional"
     },
     {
       "episode": 11,
       "title": "Warden's Exam",
-      "title_es": "Examen del director",
       "aired": "2023-12-15T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/14/14974045994f0cc47e_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Examen del director"
     },
     {
       "episode": 12,
       "title": "The Final Battle",
-      "title_es": "La batalla final",
       "aired": "2023-12-22T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/15/1501190773ddc1c77f_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "La batalla final"
     },
     {
       "episode": 13,
       "title": "The First Fan",
-      "title_es": "El primer fan",
       "aired": "2024-01-05T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/15/151782914f978c47ae_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "El primer fan"
     },
     {
       "episode": 14,
       "title": "Jax-ercise",
-      "title_es": "Ejercicio Jax",
       "aired": "2024-01-12T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/15/1517829328bba86ea5_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Ejercicio Jax"
     },
     {
       "episode": 15,
       "title": "Riddles and Beys",
-      "title_es": "Acertijos y Beys",
       "aired": "2024-01-19T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/15/152197096643bb07a0_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Acertijos y Beys"
     },
     {
       "episode": 16,
       "title": "Noblesse Oblige",
-      "title_es": "La nobleza obliga",
       "aired": "2024-01-26T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/15/1521971193b10266a6_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "La nobleza obliga"
     },
     {
       "episode": 17,
       "title": "Bey Timeshift",
-      "title_es": "Bey Timeshift",
       "aired": "2024-02-02T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/15/1532063532a8d87d97_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Bey Timeshift"
     },
     {
       "episode": 18,
       "title": "Pride",
-      "title_es": "Orgullo",
       "aired": "2024-02-09T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/15/15320637937693db97_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Orgullo"
     },
     {
       "episode": 19,
       "title": "Zip and Zoom",
-      "title_es": "Comprimir y ampliar",
       "aired": "2024-02-16T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/15/1535531591c0992005_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Comprimir y ampliar"
     },
     {
       "episode": 20,
       "title": "Memories of Sushi",
-      "title_es": "Recuerdos de sushi",
       "aired": "2024-02-23T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/15/1539663932b4bfd131_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Recuerdos de sushi"
     },
     {
       "episode": 21,
       "title": "Pop Production",
-      "title_es": "Producción pop",
       "aired": "2024-03-01T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/15/154575073d2dbe05a3_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Producción pop"
     },
     {
       "episode": 22,
       "title": "Black and White",
-      "title_es": "Blanco y negro",
       "aired": "2024-03-08T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/15/15457509ad8fa62dee_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Blanco y negro"
     },
     {
       "episode": 23,
       "title": "True Heart",
-      "title_es": "Corazón verdadero",
       "aired": "2024-03-15T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/15/154771494ce7d9bfa6_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Corazón verdadero"
     },
     {
       "episode": 24,
       "title": "Arrival of the Fastest",
-      "title_es": "Llegada de los más rápidos",
       "aired": "2024-03-22T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/15/15546223ee179dbea2_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Llegada de los más rápidos"
     },
     {
       "episode": 25,
       "title": "Proof of the Fastest",
-      "title_es": "Prueba del más rápido",
       "aired": "2024-03-29T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/15/15551027958fad663c_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Prueba del más rápido"
     },
     {
       "episode": 26,
       "title": "Invitation",
-      "title_es": "Invitación",
       "aired": "2024-04-05T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/15/156028177fe7e1eb1a_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Invitación"
     },
     {
       "episode": 27,
       "title": "The End of Persistence",
-      "title_es": "El fin de la persistencia",
       "aired": "2024-04-12T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/15/156370213dba460743_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "El fin de la persistencia"
     },
     {
       "episode": 28,
       "title": "The King and the Phoenix",
-      "title_es": "El Rey y el Fénix",
       "aired": "2024-04-19T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/15/1569333948ce801090_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "El Rey y el Fénix"
     },
     {
       "episode": 29,
       "title": "Mask and Meat Buns",
-      "title_es": "Bollos de Mascarilla y Carne",
       "aired": "2024-04-26T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/15/15725389635b504f56_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Bollos de Mascarilla y Carne"
     },
     {
       "episode": 30,
       "title": "Riddles and Pop",
-      "title_es": "Acertijos y pop",
       "aired": "2024-05-03T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/15/157659953d0a6d3e34_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Acertijos y pop"
     },
     {
       "episode": 31,
       "title": "My Teammates",
-      "title_es": "Mis compañeros de equipo",
       "aired": "2024-05-10T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/15/15765997c70398abbc_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Mis compañeros de equipo"
     },
     {
       "episode": 32,
       "title": "New Partner",
-      "title_es": "Nuevo socio",
       "aired": "2024-05-17T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/15/158611591c1f99e2d6_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Nuevo socio"
     },
     {
       "episode": 33,
       "title": "Our Promise",
-      "title_es": "Nuestra promesa",
       "aired": "2024-05-24T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/15/158611612188e237d8_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Nuestra promesa"
     },
     {
       "episode": 34,
       "title": "A Rainbow Guest",
-      "title_es": "Un invitado arcoíris",
       "aired": "2024-05-31T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/15/15876373acb3afd4a3_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Un invitado arcoíris"
     },
     {
       "episode": 35,
       "title": "The Dream Contest",
-      "title_es": "El concurso de los sueños",
       "aired": "2024-06-07T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/15/15935959b4224c68a6_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "El concurso de los sueños"
     },
     {
       "episode": 36,
       "title": "Bladership",
-      "title_es": "Bladership",
       "aired": "2024-06-14T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/15/1593596142a56a521e_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Bladership"
     },
     {
       "episode": 37,
       "title": "Unpredictable",
-      "title_es": "Impredecible",
       "aired": "2024-06-21T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/15/1597321500d82ea01d_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Impredecible"
     },
     {
       "episode": 38,
       "title": "Return of the Queen",
-      "title_es": "El regreso de la Reina",
       "aired": "2024-06-28T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/16/16027303ccdb805c8f_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "El regreso de la Reina"
     },
     {
       "episode": 39,
       "title": "The Greatest Blader",
-      "title_es": "El mejor espadachín",
       "aired": "2024-07-05T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/16/1605571517c79b2523_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "El mejor espadachín"
     },
     {
       "episode": 40,
       "title": "The Other Mask",
-      "title_es": "La otra máscara",
       "aired": "2024-07-12T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/16/1609088997b4165364_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "La otra máscara"
     },
     {
       "episode": 41,
       "title": "The Three Masks",
-      "title_es": "Las Tres Máscaras",
       "aired": "2024-07-19T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/16/161188837a2e3e0419_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Las Tres Máscaras"
     },
     {
       "episode": 42,
       "title": "XYZ",
-      "title_es": "XYZ",
       "aired": "2024-07-26T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/16/16154133a510813687_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "XYZ"
     },
     {
       "episode": 43,
       "title": "Pendragon, Back Then",
-      "title_es": "Pendragon, en aquel entonces",
       "aired": "2024-08-09T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/16/1622576187733095da_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Pendragon, en aquel entonces"
     },
     {
       "episode": 44,
       "title": "Family, Back Then",
-      "title_es": "Familia, en aquel entonces",
       "aired": "2024-08-16T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/16/16267419b0afe1ed39_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Familia, en aquel entonces"
     },
     {
       "episode": 45,
       "title": "You, Back Then",
-      "title_es": "Tú, en aquel entonces",
       "aired": "2024-08-23T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/16/1629391793f356b2ec_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Tú, en aquel entonces"
     },
     {
       "episode": 46,
       "title": "Time Off",
-      "title_es": "Tiempo libre",
       "aired": "2024-08-30T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/16/163653072c2fa960dd_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Tiempo libre"
     },
     {
       "episode": 47,
       "title": "Battle at the Top",
-      "title_es": "Batalla en la cima",
       "aired": "2024-09-06T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/16/164116813169ecd2b0_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Batalla en la cima"
     },
     {
       "episode": 48,
       "title": "The Nana-iro Showdown",
-      "title_es": "El enfrentamiento de Nana-iro",
       "aired": "2024-09-13T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/16/16417459ebfed1a8d5_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "El enfrentamiento de Nana-iro"
     },
     {
       "episode": 49,
       "title": "Something Xtraordinary",
-      "title_es": "Algo Xtraordinario",
       "aired": "2024-09-20T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/16/1648622541cca8893c_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Algo Xtraordinario"
     },
     {
       "episode": 50,
       "title": "The Two Xs",
-      "title_es": "Las dos X",
       "aired": "2024-09-27T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/16/164979619ca58b9c32_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Las dos X"
     },
     {
       "episode": 51,
       "title": "The Most Fun Ever",
-      "title_es": "Lo más divertido de todos los tiempos",
       "aired": "2024-10-04T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/16/165702396e31172885_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Lo más divertido de todos los tiempos"
     },
     {
       "episode": 52,
       "title": "Restart",
-      "title_es": "Reiniciar",
       "aired": "2024-10-18T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/16/166022335d383cdbea_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Reiniciar"
     },
     {
       "episode": 53,
       "title": "Signs of a New Era",
-      "title_es": "Señales de una nueva era",
       "aired": "2024-10-25T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/16/16650775e24df22fc4_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Señales de una nueva era"
     },
     {
       "episode": 54,
       "title": "Path of Resolve",
-      "title_es": "Camino de resolución",
       "aired": "2024-11-01T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/16/168356779965e739ba_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Camino de resolución"
     },
     {
       "episode": 55,
       "title": "Advance Bey Timeshift",
-      "title_es": "Avance Bey Timeshift",
       "aired": "2024-11-08T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/16/168356795872be2c60_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Avance Bey Timeshift"
     },
     {
       "episode": 56,
       "title": "Star Plot",
-      "title_es": "Trama estelar",
       "aired": "2024-11-15T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/16/16835681cc0dbcfe90_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Trama estelar"
     },
     {
       "episode": 57,
       "title": "Tri-Blader Battle",
-      "title_es": "Batalla de tres espadas",
       "aired": "2024-11-22T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/16/168356830f0c56b6a0_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Batalla de tres espadas"
     },
     {
       "episode": 58,
       "title": "Triple Battle",
-      "title_es": "Triple batalla",
       "aired": "2024-11-29T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/16/16860745f9bef89256_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Triple batalla"
     },
     {
       "episode": 59,
       "title": "Blader S",
-      "title_es": "Blader S",
       "aired": "2024-12-06T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/16/169730837a20fbb3d4_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Blader S"
     },
     {
       "episode": 60,
       "title": "Multi-Colored Trial",
-      "title_es": "Prueba multicolor",
       "aired": "2024-12-13T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/16/169730852ee84f352f_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Prueba multicolor"
     },
     {
       "episode": 61,
       "title": "Invincible",
-      "title_es": "Invencible",
       "aired": "2024-12-20T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/16/16973087094a8d272a_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Invencible"
     },
     {
       "episode": 62,
       "title": "The Prestigious Bey Academy",
-      "title_es": "La prestigiosa Academia Bey",
       "aired": "2024-12-27T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/16/169889635c9ce9d9b3_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "La prestigiosa Academia Bey"
     },
     {
       "episode": 63,
       "title": "The Manju Clan",
-      "title_es": "El clan Manju",
       "aired": "2025-01-10T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/17083687da280df5db_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "El clan Manju"
     },
     {
       "episode": 64,
       "title": "The Shapeless Shadow",
-      "title_es": "La sombra informe",
       "aired": "2025-01-17T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/17099713cb385225f5_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "La sombra informe"
     },
     {
       "episode": 65,
       "title": "First Flight",
-      "title_es": "Primer vuelo",
       "aired": "2025-01-24T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/17155101bb5bba6c1f_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Primer vuelo"
     },
     {
       "episode": 66,
       "title": "Something Captivating",
-      "title_es": "Algo cautivador",
       "aired": "2025-01-31T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/171796839750865c6b_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Algo cautivador"
     },
     {
       "episode": 67,
       "title": "Silver Wolf",
-      "title_es": "Lobo plateado",
       "aired": "2025-02-07T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/172989537793d55b9f_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Lobo plateado"
     },
     {
       "episode": 68,
       "title": "Light and Dark",
-      "title_es": "Luz y oscuridad",
       "aired": "2025-02-14T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/17298955627047fca5_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Luz y oscuridad"
     },
     {
       "episode": 69,
       "title": "Shadowy Underground",
-      "title_es": "Subterráneo sombrío",
       "aired": "2025-02-21T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/1731205542e2ae4e00_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Subterráneo sombrío"
     },
     {
       "episode": 70,
       "title": "Dread Dragon",
-      "title_es": "Dragón aterrador",
       "aired": "2025-02-28T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/173390138dd22dfaa7_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Dragón aterrador"
     },
     {
       "episode": 71,
       "title": "To That Place",
-      "title_es": "A ese lugar",
       "aired": "2025-03-07T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/17379895f003c3c51c_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "A ese lugar"
     },
     {
       "episode": 72,
       "title": "Labyrinth of Riddles and Terror",
-      "title_es": "Laberinto de acertijos y terror",
       "aired": "2025-03-14T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/1739402376a89f1027_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Laberinto de acertijos y terror"
     },
     {
       "episode": 73,
       "title": "The Star Battle",
-      "title_es": "La batalla estelar",
       "aired": "2025-03-21T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/17422843a9727c5951_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "La batalla estelar"
     },
     {
       "episode": 74,
       "title": "Cursed",
-      "title_es": "Maldito",
       "aired": "2025-03-28T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/175642639e3824e805_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Maldito"
     },
     {
       "episode": 75,
       "title": "Return of the Knight",
-      "title_es": "El regreso del caballero",
       "aired": "2025-04-04T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/17626619d7014f5ed1_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "El regreso del caballero"
     },
     {
       "episode": 76,
       "title": "White Nova",
-      "title_es": "Nova blanca",
       "aired": "2025-04-11T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/17661873b329df1062_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Nova blanca"
     },
     {
       "episode": 77,
       "title": "Blue Dragon and Dread Dragon",
-      "title_es": "Dragón Azul y Dragón Aterrador",
       "aired": "2025-04-18T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/177312334f940be19a_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Dragón Azul y Dragón Aterrador"
     },
     {
       "episode": 78,
       "title": "Customization",
-      "title_es": "Personalización",
       "aired": "2025-04-25T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/17760131de6ea8c407_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Personalización"
     },
     {
       "episode": 79,
       "title": "King and Queen",
-      "title_es": "Rey y Reina",
       "aired": "2025-05-02T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/177973153cf30d5b1c_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Rey y Reina"
     },
     {
       "episode": 80,
       "title": "The Gradual One",
-      "title_es": "El gradual",
       "aired": "2025-05-09T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/17828617887e3623df_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "El gradual"
     },
     {
       "episode": 81,
       "title": "All In",
-      "title_es": "Todo dentro",
       "aired": "2025-05-16T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/17863303fed55f5bda_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Todo dentro"
     },
     {
       "episode": 82,
       "title": "Multi-Colored Decision",
-      "title_es": "Decisión multicolor",
       "aired": "2025-05-23T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/17909267f0b7d2f392_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Decisión multicolor"
     },
     {
       "episode": 83,
       "title": "Partner",
-      "title_es": "Socio",
       "aired": "2025-05-30T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/17952721773d3421e6_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Socio"
     },
     {
       "episode": 84,
       "title": "Proxy Conflict",
-      "title_es": "Conflicto de poderes",
       "aired": "2025-06-06T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/18/180027050756038822_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Conflicto de poderes"
     },
     {
       "episode": 85,
       "title": "Pop vs Curse",
-      "title_es": "Pop vs Maldición",
       "aired": "2025-06-13T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/18/18023719de2c6f3cb1_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Pop vs Maldición"
     },
     {
       "episode": 86,
       "title": "Red Confrontation",
-      "title_es": "Confrontación Roja",
       "aired": "2025-06-20T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/18/180856293817e64812_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Confrontación Roja"
     },
     {
       "episode": 87,
       "title": "Path of the Dread Dragon",
-      "title_es": "Camino del Dragón Temible",
       "aired": "2025-06-27T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/18/18107457543f1235f7_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Camino del Dragón Temible"
     },
     {
       "episode": 88,
       "title": "Blading Soul",
-      "title_es": "Alma abrasadora",
       "aired": "2025-07-04T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/18/18148749b8a671f654_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Alma abrasadora"
     },
     {
       "episode": 89,
       "title": "What Must Be Done",
-      "title_es": "Qué se debe hacer",
       "aired": "2025-07-18T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/18/182208539d16e46af5_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Qué se debe hacer"
     },
     {
       "episode": 90,
       "title": "Nine-Tailed Fox",
-      "title_es": "Zorro de nueve colas",
       "aired": "2025-07-25T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/18/182579855a76c1f41d_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Zorro de nueve colas"
     },
     {
       "episode": 91,
       "title": "Dream Match",
-      "title_es": "Partido de ensueño",
       "aired": "2025-08-01T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/18/182965835c20e2ba65_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Partido de ensueño"
     },
     {
       "episode": 92,
       "title": "Perseus the Messenger",
-      "title_es": "Perseo el Mensajero",
       "aired": "2025-08-08T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/18/183303856794aabc34_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Perseo el Mensajero"
     },
     {
       "episode": 93,
       "title": "Super Champion Challenger Chooser Match",
-      "title_es": "Partido de selección de retadores y súper campeones",
       "aired": "2025-08-15T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/18/183789634b79c73208_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Partido de selección de retadores y súper campeones"
     },
     {
       "episode": 94,
       "title": "Unknown",
-      "title_es": "Desconocido",
       "aired": "2025-08-22T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/18/184345955621278c0c_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Desconocido"
     },
     {
       "episode": 95,
       "title": "Foxes Enchant, Tanukis Bewitch",
-      "title_es": "Los zorros encantan, Tanukis embruja",
       "aired": "2025-08-29T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/18/184369996837e185fd_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Los zorros encantan, Tanukis embruja"
     },
     {
       "episode": 96,
       "title": "Shiroboshi, Back Then",
-      "title_es": "Shiroboshi, en aquel entonces",
       "aired": "2025-09-05T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/18/1851592520728c66d5_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Shiroboshi, en aquel entonces"
     },
     {
       "episode": 97,
       "title": "Star Battle Grand Final",
-      "title_es": "Gran Final de Batalla Estelar",
       "aired": "2025-09-12T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/18/18515927368f939291_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Gran Final de Batalla Estelar"
     },
     {
       "episode": 98,
       "title": "Never Defeated",
-      "title_es": "Nunca derrotado",
       "aired": "2025-09-19T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/18/18558099731abb8dd1_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Nunca derrotado"
     },
     {
       "episode": 99,
       "title": "Supernova",
-      "title_es": "Supernova",
       "aired": "2025-09-26T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/18/185958798c3b02fece_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Supernova"
     },
     {
       "episode": 100,
       "title": "Star Devourer",
-      "title_es": "Devorador de estrellas",
       "aired": "2025-10-03T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/18/18624275543d1814f1_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Devorador de estrellas"
     },
     {
       "episode": 101,
       "title": "Annihilation",
-      "title_es": "Aniquilación",
       "aired": "2025-10-24T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/18/187571672b776b4098_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Aniquilación"
     },
     {
       "episode": 102,
       "title": "Another X",
-      "title_es": "Otra X",
       "aired": "2025-10-31T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/18/188174377a649a1ac1_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Otra X"
     },
     {
       "episode": 103,
       "title": "Bey of the Future",
-      "title_es": "Bey del futuro",
       "aired": "2025-11-07T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/18/189552575a4218cfc5_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Bey del futuro"
     },
     {
       "episode": 104,
       "title": "Wolf and Sun",
-      "title_es": "Lobo y Sol",
       "aired": "2025-11-14T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/18/18955259caf47d46df_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Lobo y Sol"
     },
     {
       "episode": 105,
       "title": "Challenge from the Future",
-      "title_es": "Desafío del futuro",
       "aired": "2025-11-21T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/19/190134952bad561056_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Desafío del futuro"
     },
     {
       "episode": 106,
       "title": "As the Super-Champions",
-      "title_es": "Como Supercampeones",
       "aired": "2025-11-28T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/19/1905609534fe2fd85d_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Como Supercampeones"
     },
     {
       "episode": 107,
       "title": "Tarnished Phoenix",
-      "title_es": "Fénix deslustrado",
       "aired": "2025-12-05T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/19/19105995c35c742820_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Fénix deslustrado"
     },
     {
       "episode": 108,
       "title": "Savior of Xenon City",
-      "title_es": "Salvador de Xenon City",
       "aired": "2025-12-12T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/19/19151987016e1885c6_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Salvador de Xenon City"
     },
     {
       "episode": 109,
       "title": "End of the Dread Dragon",
-      "title_es": "El fin del dragón aterrador",
       "aired": "2025-12-19T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/19/191799075e1d2750dc_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "El fin del dragón aterrador"
     },
     {
       "episode": 110,
       "title": "Counterattack Beacon",
-      "title_es": "Baliza de contraataque",
       "aired": "2025-12-26T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/19/19226013b3207cee9f_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Baliza de contraataque"
     },
     {
       "episode": 111,
       "title": "Pro Bladers",
-      "title_es": "Bladers profesionales",
       "aired": "2026-01-09T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/19/1932324164b376171e_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Bladers profesionales"
     },
     {
       "episode": 112,
       "title": "Crafter vs Crafter",
-      "title_es": "Artesano contra artesano",
       "aired": "2026-01-16T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/19/193574711297032fc3_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Artesano contra artesano"
     },
     {
       "episode": 113,
       "title": "Phoenix's Choice",
-      "title_es": "La elección del Fénix",
       "aired": "2026-01-23T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/19/194020858e5c8138a8_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "La elección del Fénix"
     },
     {
       "episode": 114,
       "title": "Facing the Future",
-      "title_es": "De cara al futuro",
       "aired": "2026-01-30T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/19/19457305099a8370ba_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "De cara al futuro"
     },
     {
       "episode": 115,
       "title": "Transfer or Disband",
-      "title_es": "Transferir o disolver",
       "aired": "2026-02-06T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/19/194761415989a1f817_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Transferir o disolver"
     },
     {
       "episode": 116,
       "title": "Future Pros",
-      "title_es": "Futuros profesionales",
       "aired": "2026-02-13T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/19/1951909914560ea624_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Futuros profesionales"
     },
     {
       "episode": 117,
       "title": "Growing Power",
-      "title_es": "Poder creciente",
       "aired": "2026-02-20T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/19/195628655054c19d80_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Poder creciente"
     },
     {
       "episode": 118,
       "title": "Motive to Motive",
-      "title_es": "Motivo a motivo",
       "aired": "2026-02-27T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/19/1959408378b0f704ea_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Motivo a motivo"
     },
     {
       "episode": 119,
       "title": "To the Place",
-      "title_es": "Al lugar",
       "aired": "2026-03-06T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/19/196284616648b04d1e_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Al lugar"
     },
     {
       "episode": 120,
       "title": "Clash at the X",
-      "title_es": "Choque en la X",
       "aired": "2026-03-13T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/19/19670181199f3d343a_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Choque en la X"
     },
     {
       "episode": 121,
       "title": "Where the Dragon Goes",
-      "title_es": null,
       "aired": "2026-03-20T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/19/19706545c396c7813b_w.webp",
       "description": null
@@ -1056,7 +1061,6 @@
     {
       "episode": 122,
       "title": "The Future Beyond",
-      "title_es": null,
       "aired": "2026-03-27T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/19/197376570894cbf759_w.webp",
       "description": null
@@ -1064,7 +1068,6 @@
     {
       "episode": 123,
       "title": "One Percent Hope",
-      "title_es": null,
       "aired": "2026-04-17T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/19/1981871135fa4a2e48_w.webp",
       "description": null
@@ -1072,7 +1075,6 @@
     {
       "episode": 124,
       "title": "The True X Battle Royale",
-      "title_es": null,
       "aired": "2026-04-17T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/19/198187134ad9e8111e_w.webp",
       "description": null
@@ -1080,7 +1082,6 @@
     {
       "episode": 125,
       "title": "Strength Without Motive",
-      "title_es": null,
       "aired": "2026-05-01T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/19/19925449fbd45d0b21_w.webp",
       "description": null
@@ -1088,7 +1089,6 @@
     {
       "episode": 126,
       "title": "The Betrayer Betrays",
-      "title_es": null,
       "aired": "2026-05-15T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20005065aeea984292_w.webp",
       "description": null
@@ -1096,7 +1096,6 @@
     {
       "episode": 127,
       "title": "Cross Tactics",
-      "title_es": null,
       "aired": "2026-06-05T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/2011502932fad200a5_w.webp",
       "description": null
@@ -1104,7 +1103,6 @@
     {
       "episode": 128,
       "title": "Protector of the X",
-      "title_es": null,
       "aired": "2026-06-19T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20195977c782368feb_w.webp",
       "description": null
@@ -1112,7 +1110,6 @@
     {
       "episode": 129,
       "title": "Natural Gift",
-      "title_es": null,
       "aired": "2026-07-03T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20276447b5fb79ddc3_w.webp",
       "description": null
@@ -1120,7 +1117,6 @@
     {
       "episode": 130,
       "title": "Fourth Stagey-Wagey",
-      "title_es": null,
       "aired": "2026-07-17T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20421395bd2f22a6ee_w.webp",
       "description": null
@@ -1128,7 +1124,6 @@
     {
       "episode": 131,
       "title": "With the Future on the Line",
-      "title_es": null,
       "aired": "2026-08-07T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/204601452778cfb513_w.webp",
       "description": null
@@ -1136,7 +1131,6 @@
     {
       "episode": 132,
       "title": "True Super Champion Match",
-      "title_es": null,
       "aired": "2026-08-21T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/205454335994ed5a4f_w.webp",
       "description": null
@@ -1144,7 +1138,6 @@
     {
       "episode": 133,
       "title": "The Final Future",
-      "title_es": null,
       "aired": "2026-09-04T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/2065199309bb71dbb2_w.webp",
       "description": null
@@ -1152,7 +1145,6 @@
     {
       "episode": 134,
       "title": "The True Final Future",
-      "title_es": null,
       "aired": "2026-09-18T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/2072188582e63e5863_w.webp",
       "description": null
@@ -1160,7 +1152,6 @@
     {
       "episode": 135,
       "title": "Version 2.0",
-      "title_es": null,
       "aired": "2026-10-09T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20853197d78c2ccab7_w.webp",
       "description": null
@@ -1168,7 +1159,6 @@
     {
       "episode": 136,
       "title": "The 88th Prince",
-      "title_es": null,
       "aired": "2026-10-16T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/208968493eb748ad28_w.webp",
       "description": null
@@ -1176,7 +1166,6 @@
     {
       "episode": 137,
       "title": "Bey Kingdom",
-      "title_es": null,
       "aired": "2026-10-23T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20955013d62832b658_w.webp",
       "description": null
@@ -1184,7 +1173,6 @@
     {
       "episode": 138,
       "title": "The Kingdom's Way",
-      "title_es": null,
       "aired": "2026-10-30T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/21/21022463639fcb1b85_w.webp",
       "description": null
@@ -1192,7 +1180,6 @@
     {
       "episode": 139,
       "title": "The Dazzling True Dragon",
-      "title_es": null,
       "aired": "2026-11-06T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/21/21052487b79e69074a_w.webp",
       "description": null
@@ -1200,7 +1187,6 @@
     {
       "episode": 140,
       "title": "Transformation",
-      "title_es": null,
       "aired": "2026-11-13T18:25:00+09:00",
       "thumbnail": "https://simkl.in/episodes/21/21083511ca38de4e11_w.webp",
       "description": null
@@ -1208,7 +1194,6 @@
     {
       "episode": 141,
       "title": "Episode 141",
-      "title_es": null,
       "aired": "2026-11-20T18:25:00+09:00",
       "thumbnail": null,
       "description": null
@@ -1216,7 +1201,6 @@
     {
       "episode": 142,
       "title": "Episode 142",
-      "title_es": null,
       "aired": "2026-11-27T18:25:00+09:00",
       "thumbnail": null,
       "description": null
@@ -1224,7 +1208,6 @@
     {
       "episode": 143,
       "title": "Episode 143",
-      "title_es": null,
       "aired": "2026-12-04T18:25:00+09:00",
       "thumbnail": null,
       "description": null
@@ -1232,7 +1215,6 @@
     {
       "episode": 144,
       "title": "Episode 144",
-      "title_es": null,
       "aired": "2026-12-11T18:25:00+09:00",
       "thumbnail": null,
       "description": null
@@ -1242,41 +1224,41 @@
     {
       "episode": 1,
       "title": "New Chapter Celebration! Grand Reopening of Beyblade Sushi - Go Shoot!",
-      "title_es": "¡Celebración del nuevo capítulo! Gran reapertura de Beyblade Sushi - ¡Ve a disparar!",
       "aired": "2024-10-11T18:25:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "¡Celebración del nuevo capítulo! Gran reapertura de Beyblade Sushi - ¡Ve a disparar!"
     },
     {
       "episode": 2,
       "title": "Episode S2",
-      "title_es": "Episodio T2",
       "aired": "2025-07-11T18:25:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio T2"
     },
     {
       "episode": 3,
       "title": "Episode S3",
-      "title_es": "Episodio T3",
       "aired": "2025-10-10T18:25:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio T3"
     },
     {
       "episode": 4,
       "title": "Episode S4",
-      "title_es": "Episodio T4",
       "aired": "2025-10-17T18:25:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio T4"
     }
   ],
   "characters": [],
-  "num_scoring_users": 2155,
+  "num_scoring_users": 2157,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2023-09-07T03:08:30+00:00",
+  "updated_at": "2024-12-01T04:32:50+00:00",
   "source": "manga",
   "background": null,
   "related_anime": [
@@ -1285,8 +1267,8 @@
         "id": 288,
         "title": "Bakuten Shoot Beyblade",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1429/127983.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1429/127983l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1429/127983.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1429/127983l.jpg"
         }
       },
       "relation_type": "other",
@@ -1348,8 +1330,8 @@
         "id": 34034,
         "title": "Pokemon Sun & Moon",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/11/84673.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/11/84673l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/11/84673.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/11/84673l.jpg"
         }
       },
       "num_recommendations": 1
@@ -1370,10 +1352,12 @@
     "status": {
       "watching": "3909",
       "completed": "1",
-      "on_hold": "857",
-      "dropped": "996",
-      "plan_to_watch": "2159"
+      "on_hold": "859",
+      "dropped": "997",
+      "plan_to_watch": "2157"
     },
-    "num_list_users": 7922
-  }
+    "num_list_users": 7923
+  },
+  "mal_details_updated_at": "2026-11-15T17:14:32.560Z",
+  "translations_updated_at": "2026-11-15T17:24:28.902Z"
 }

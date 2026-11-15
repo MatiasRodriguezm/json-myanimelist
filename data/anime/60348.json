@@ -30,8 +30,8 @@
   "num_episodes": 8,
   "score": null,
   "mean": null,
-  "numListUsers": 6747,
-  "num_list_users": 6747,
+  "numListUsers": 6749,
+  "num_list_users": 6749,
   "genres": [
     {
       "id": 10,
@@ -60,11 +60,15 @@
       "name": "Graphinica"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1428/146593l.webp",
+    "https://cdn.myanimelist.net/images/anime/1746/159211l.webp",
+    "https://cdn.myanimelist.net/images/anime/1700/160746l.webp"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T13:04:31.185Z",
+  "tmdb_updated_at": "2026-11-15T17:15:07.811Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1700/160746.webp",
@@ -77,30 +81,30 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1700/160746l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1428/146593l.webp"
     }
   },
   "broadcast": null,
   "rank": null,
-  "popularity": 8743,
+  "popularity": 8740,
   "rating": null,
   "simkl_id": 2735128,
   "episodes_data": [
     {
       "episode": 1,
       "title": "Episode 1",
-      "title_es": "Episodio 1",
       "aired": "2026-12-01T00:00:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 1"
     }
   ],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 1,
+  "num_scoring_users": null,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2024-11-21T04:02:47+00:00",
+  "updated_at": "2026-10-29T10:25:50+00:00",
   "source": "manga",
   "background": null,
   "related_anime": [
@@ -137,8 +141,10 @@
       "completed": 0,
       "on_hold": 0,
       "dropped": 0,
-      "plan_to_watch": "6741"
+      "plan_to_watch": "6747"
     },
-    "num_list_users": 6743
-  }
+    "num_list_users": 6749
+  },
+  "mal_details_updated_at": "2026-11-15T17:15:07.272Z",
+  "translations_updated_at": "2026-11-15T17:24:34.109Z"
 }

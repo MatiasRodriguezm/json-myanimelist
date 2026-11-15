@@ -30,8 +30,8 @@
   "num_episodes": 366,
   "score": 8.01,
   "mean": 8.01,
-  "numListUsers": 2267528,
-  "num_list_users": 2267528,
+  "numListUsers": 2267579,
+  "num_list_users": 2267579,
   "genres": [
     {
       "id": 1,
@@ -56,7 +56,22 @@
       "name": "Studio Pierrot"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/8/3552l.webp",
+    "https://cdn.myanimelist.net/images/anime/2/19747l.webp",
+    "https://cdn.myanimelist.net/images/anime/3/20349l.webp",
+    "https://cdn.myanimelist.net/images/anime/9/21683l.webp",
+    "https://cdn.myanimelist.net/images/anime/3/24168l.webp",
+    "https://cdn.myanimelist.net/images/anime/12/29773l.webp",
+    "https://cdn.myanimelist.net/images/anime/2/78197l.webp",
+    "https://cdn.myanimelist.net/images/anime/1957/107460l.webp",
+    "https://cdn.myanimelist.net/images/anime/1931/134422l.webp",
+    "https://cdn.myanimelist.net/images/anime/1489/140535l.webp",
+    "https://cdn.myanimelist.net/images/anime/1782/142056l.webp",
+    "https://cdn.myanimelist.net/images/anime/1541/147774l.webp",
+    "https://cdn.myanimelist.net/images/anime/1716/150353l.webp",
+    "https://cdn.myanimelist.net/images/anime/1811/155281l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/jEImh4O7mcYuwuAeryGZo3G6hg6.png",
   "tmdb_id": "30984",
@@ -73,7 +88,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1541/147774l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/8/3552l.webp"
     }
   },
   "broadcast": {
@@ -84,7 +99,7 @@
     "timezone": "Asia/Tokyo",
     "string": "tuesday 18:00"
   },
-  "rank": 752,
+  "rank": 753,
   "popularity": 32,
   "rating": "pg_13",
   "simkl_id": 41066,
@@ -3109,10 +3124,10 @@
     }
   ],
   "characters": [],
-  "num_scoring_users": 1292564,
+  "num_scoring_users": 1293295,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2005-11-13T16:20:41+00:00",
+  "updated_at": "2024-10-06T00:41:04+00:00",
   "source": "manga",
   "background": "Bleach adapts the first 54 volumes of Tite Kubo's manga series of the same name. In addition, 4 anime-original arcs were broadcast in-between and during the adaptations of original arcs of the manga.",
   "related_anime": [
@@ -3145,8 +3160,8 @@
         "id": 1686,
         "title": "Bleach Movie 1: Memories of Nobody",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1834/134488.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1834/134488l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1834/134488.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1834/134488l.jpg"
         }
       },
       "relation_type": "side_story",
@@ -3280,8 +3295,8 @@
         "id": 40748,
         "title": "Jujutsu Kaisen",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1171/109222.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1171/109222l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1171/109222.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1171/109222l.jpg"
         }
       },
       "num_recommendations": 44
@@ -3291,8 +3306,8 @@
         "id": 392,
         "title": "Yuu☆Yuu☆Hakusho",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1228/111372.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1228/111372l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1228/111372.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1228/111372l.jpg"
         }
       },
       "num_recommendations": 41
@@ -3324,8 +3339,8 @@
         "id": 1536,
         "title": "Busou Renkin",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/6/75566.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/6/75566l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/6/75566.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/6/75566l.jpg"
         }
       },
       "num_recommendations": 21
@@ -3335,8 +3350,8 @@
         "id": 1482,
         "title": "D.Gray-man",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/13/75194.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/13/75194l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/13/75194.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/13/75194l.webp"
         }
       },
       "num_recommendations": 20
@@ -3357,8 +3372,8 @@
         "id": 3588,
         "title": "Soul Eater",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1071/149486.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1071/149486l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1071/149486.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1071/149486l.jpg"
         }
       },
       "num_recommendations": 19
@@ -3368,8 +3383,8 @@
         "id": 34572,
         "title": "Black Clover",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/2/88336.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/2/88336l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/2/88336.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/2/88336l.webp"
         }
       },
       "num_recommendations": 17
@@ -3379,8 +3394,8 @@
         "id": 1818,
         "title": "Claymore",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/3/21834.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/3/21834l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/3/21834.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/3/21834l.webp"
         }
       },
       "num_recommendations": 15
@@ -3388,12 +3403,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "387811",
-      "completed": "1182483",
-      "on_hold": "203842",
-      "dropped": "226196",
-      "plan_to_watch": "265345"
+      "watching": "388066",
+      "completed": "1183412",
+      "on_hold": "203931",
+      "dropped": "226253",
+      "plan_to_watch": "265469"
     },
-    "num_list_users": 2265677
-  }
+    "num_list_users": 2267131
+  },
+  "mal_details_updated_at": "2026-11-15T17:18:16.104Z",
+  "translations_updated_at": "2026-11-15T17:23:41.015Z"
 }

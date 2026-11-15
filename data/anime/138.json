@@ -30,8 +30,8 @@
   },
   "episodes": 8,
   "num_episodes": 8,
-  "score": 8.18,
-  "mean": 8.18,
+  "score": 8.19,
+  "mean": 8.19,
   "numListUsers": 184981,
   "num_list_users": 184981,
   "genres": [
@@ -58,7 +58,15 @@
       "name": "Nippon Animation"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1/138l.webp",
+    "https://cdn.myanimelist.net/images/anime/2/14102l.webp",
+    "https://cdn.myanimelist.net/images/anime/1376/97181l.webp",
+    "https://cdn.myanimelist.net/images/anime/1807/122318l.webp",
+    "https://cdn.myanimelist.net/images/anime/1022/122319l.webp",
+    "https://cdn.myanimelist.net/images/anime/1902/122320l.webp",
+    "https://cdn.myanimelist.net/images/anime/1889/154798l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/575sxZXNNulSlIz7DvtWH5r4lkC.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/qDSB90QFXHQayEOgtN5kqFzbOlw.png",
   "tmdb_id": "45952",
@@ -75,11 +83,11 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1902/122320l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1/138l.webp"
     }
   },
   "broadcast": null,
-  "rank": 470,
+  "rank": 469,
   "popularity": 1539,
   "rating": "pg_13",
   "simkl_id": 40695,
@@ -151,10 +159,10 @@
   ],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 93610,
+  "num_scoring_users": 93630,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2005-11-11T14:50:39+00:00",
+  "updated_at": "2023-01-29T18:32:45+00:00",
   "source": "manga",
   "background": null,
   "related_anime": [
@@ -163,8 +171,8 @@
         "id": 137,
         "title": "Hunter x Hunter: Original Video Animation",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1/137.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1/137l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1/137.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1/137l.jpg"
         }
       },
       "relation_type": "prequel",
@@ -175,8 +183,8 @@
         "id": 139,
         "title": "Hunter x Hunter: Greed Island Final",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1/139.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1/139l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1/139.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1/139l.webp"
         }
       },
       "relation_type": "sequel",
@@ -213,8 +221,8 @@
         "id": 481,
         "title": "Yu☆Gi☆Oh! Duel Monsters",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/3/77055.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/3/77055l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/3/77055.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/3/77055l.webp"
         }
       },
       "num_recommendations": 2
@@ -235,8 +243,8 @@
         "id": 8,
         "title": "Bouken Ou Beet",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/7/21569.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/7/21569l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/7/21569.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/7/21569l.jpg"
         }
       },
       "num_recommendations": 1
@@ -267,11 +275,13 @@
   "statistics": {
     "status": {
       "watching": "4173",
-      "completed": "156307",
+      "completed": "156359",
       "on_hold": "1287",
-      "dropped": "1252",
-      "plan_to_watch": "21874"
+      "dropped": "1253",
+      "plan_to_watch": "21878"
     },
-    "num_list_users": 184893
-  }
+    "num_list_users": 184950
+  },
+  "mal_details_updated_at": "2026-11-15T17:21:25.726Z",
+  "translations_updated_at": "2026-11-15T17:24:09.102Z"
 }

@@ -34,8 +34,8 @@
   "num_episodes": 1,
   "score": 8.66,
   "mean": 8.66,
-  "numListUsers": 16085,
-  "num_list_users": 16085,
+  "numListUsers": 16091,
+  "num_list_users": 16091,
   "genres": [
     {
       "id": 2,
@@ -56,11 +56,20 @@
       "name": "HMCH"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1515/151848l.webp",
+    "https://cdn.myanimelist.net/images/anime/1619/151849l.webp",
+    "https://cdn.myanimelist.net/images/anime/1131/151850l.webp",
+    "https://cdn.myanimelist.net/images/anime/1033/151851l.webp",
+    "https://cdn.myanimelist.net/images/anime/1517/151852l.webp",
+    "https://cdn.myanimelist.net/images/anime/1288/151853l.webp",
+    "https://cdn.myanimelist.net/images/anime/1845/152057l.webp",
+    "https://cdn.myanimelist.net/images/anime/1702/157823l.webp"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T13:05:58.260Z",
+  "tmdb_updated_at": "2026-11-15T17:20:09.476Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1288/151853.webp",
@@ -73,12 +82,12 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1288/151853l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1515/151848l.webp"
     }
   },
   "broadcast": null,
   "rank": 86,
-  "popularity": 6182,
+  "popularity": 6163,
   "rating": "g",
   "simkl_id": 2958138,
   "episodes_data": [
@@ -93,10 +102,10 @@
   ],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 4470,
+  "num_scoring_users": 4511,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2025-07-01T19:09:00+00:00",
+  "updated_at": "2026-08-31T13:43:16+00:00",
   "source": "original",
   "background": null,
   "related_anime": [
@@ -117,12 +126,14 @@
   "recommendations": [],
   "statistics": {
     "status": {
-      "watching": "1069",
-      "completed": "5597",
-      "on_hold": "268",
-      "dropped": "147",
-      "plan_to_watch": "8851"
+      "watching": "1074",
+      "completed": "5651",
+      "on_hold": "267",
+      "dropped": "148",
+      "plan_to_watch": "8909"
     },
-    "num_list_users": 15932
-  }
+    "num_list_users": 16049
+  },
+  "mal_details_updated_at": "2026-11-15T17:20:09.172Z",
+  "translations_updated_at": "2026-11-15T17:24:02.771Z"
 }

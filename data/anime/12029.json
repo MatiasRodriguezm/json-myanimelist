@@ -30,8 +30,8 @@
   "num_episodes": 26,
   "score": 8.32,
   "mean": 8.32,
-  "numListUsers": 128114,
-  "num_list_users": 128114,
+  "numListUsers": 128117,
+  "num_list_users": 128117,
   "genres": [
     {
       "id": 1,
@@ -68,7 +68,19 @@
       "name": "AIC"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/2/36607l.webp",
+    "https://cdn.myanimelist.net/images/anime/6/47827l.webp",
+    "https://cdn.myanimelist.net/images/anime/7/47829l.webp",
+    "https://cdn.myanimelist.net/images/anime/10/52857l.webp",
+    "https://cdn.myanimelist.net/images/anime/3/52859l.webp",
+    "https://cdn.myanimelist.net/images/anime/3/52861l.webp",
+    "https://cdn.myanimelist.net/images/anime/8/52863l.webp",
+    "https://cdn.myanimelist.net/images/anime/7/73254l.webp",
+    "https://cdn.myanimelist.net/images/anime/1937/95640l.webp",
+    "https://cdn.myanimelist.net/images/anime/1581/96758l.webp",
+    "https://cdn.myanimelist.net/images/anime/1536/98842l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/brYhQqpUjX1s6n6pBGquzeobEwr.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/ncREFdorzcBcTWrBHLItE9BEOf4.png",
   "tmdb_id": "45844",
@@ -90,7 +102,7 @@
   },
   "broadcast": null,
   "rank": 320,
-  "popularity": 2059,
+  "popularity": 2061,
   "rating": "pg_13",
   "simkl_id": 40387,
   "episodes_data": [
@@ -394,10 +406,10 @@
     }
   ],
   "characters": [],
-  "num_scoring_users": 42318,
+  "num_scoring_users": 42337,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2011-11-14T10:07:35+00:00",
+  "updated_at": "2023-01-14T04:18:42+00:00",
   "source": "original",
   "background": "The series will be sold in the same theaters that show the Yamato movies on the same days, i.e. a simultaneous release.\n\nThe first two episodes of the TV series (which is the same as the OVA series) were pre-aired on the Family Gekijou cable and satellite channel on 6th and 7th of April, 2012. The rest of the episodes was aired on MBS & TBS beginning April 7, 2013.",
   "related_anime": [
@@ -430,8 +442,8 @@
         "id": 23931,
         "title": "Uchuu Senkan Yamato 2199: Tsuioku no Koukai",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/11/62689.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/11/62689l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/11/62689.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/11/62689l.jpg"
         }
       },
       "relation_type": "summary",
@@ -492,8 +504,8 @@
         "id": 39198,
         "title": "Kanata no Astra",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1784/106428.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1784/106428l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1784/106428.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1784/106428l.webp"
         }
       },
       "num_recommendations": 4
@@ -514,8 +526,8 @@
         "id": 2158,
         "title": "Terra e... (TV)",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1013/117558.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1013/117558l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1013/117558.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1013/117558l.jpg"
         }
       },
       "num_recommendations": 2
@@ -569,8 +581,8 @@
         "id": 29,
         "title": "Zipang",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/13/75740.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/13/75740l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/13/75740.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/13/75740l.jpg"
         }
       },
       "num_recommendations": 1
@@ -580,8 +592,8 @@
         "id": 949,
         "title": "Top wo Nerae! Gunbuster",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1303/92309.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1303/92309l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1303/92309.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1303/92309l.jpg"
         }
       },
       "num_recommendations": 1
@@ -589,12 +601,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "8653",
-      "completed": "50301",
-      "on_hold": "4428",
-      "dropped": "2686",
-      "plan_to_watch": "61932"
+      "watching": "8662",
+      "completed": "50326",
+      "on_hold": "4432",
+      "dropped": "2687",
+      "plan_to_watch": "61951"
     },
-    "num_list_users": 128000
-  }
+    "num_list_users": 128058
+  },
+  "mal_details_updated_at": "2026-11-15T17:21:23.721Z",
+  "translations_updated_at": "2026-11-15T17:24:07.616Z"
 }

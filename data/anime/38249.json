@@ -32,8 +32,8 @@
   "num_episodes": 1,
   "score": 8.21,
   "mean": 8.21,
-  "numListUsers": 256311,
-  "num_list_users": 256311,
+  "numListUsers": 256315,
+  "num_list_users": 256315,
   "genres": [
     {
       "id": 4,
@@ -66,7 +66,10 @@
       "name": "Egg Firm"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1159/95661l.webp",
+    "https://cdn.myanimelist.net/images/anime/1298/96432l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/hI76O9slOz3vPkhQWWQoN36WyhG.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/eLqHIN9F9Wo029f8LowGLKwGWmU.png",
   "tmdb_id": "67676",
@@ -87,7 +90,7 @@
     }
   },
   "broadcast": null,
-  "rank": 445,
+  "rank": 444,
   "popularity": 1145,
   "rating": "pg_13",
   "simkl_id": 850565,
@@ -119,10 +122,10 @@
   ],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 151477,
+  "num_scoring_users": 151559,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2018-08-30T12:09:31+00:00",
+  "updated_at": "2024-10-04T15:13:10+00:00",
   "source": "manga",
   "background": null,
   "related_anime": [
@@ -131,8 +134,8 @@
         "id": 34612,
         "title": "Saiki Kusuo no Ψ-nan 2",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1961/91383.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1961/91383l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1961/91383.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1961/91383l.webp"
         }
       },
       "relation_type": "prequel",
@@ -169,8 +172,8 @@
         "id": 7472,
         "title": "Gintama Movie 1: Shinyaku Benizakura-hen",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/4/28803.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/4/28803l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/4/28803.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/4/28803l.jpg"
         }
       },
       "num_recommendations": 1
@@ -200,12 +203,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "5746",
-      "completed": "216697",
-      "on_hold": "1283",
+      "watching": "5753",
+      "completed": "216833",
+      "on_hold": "1286",
       "dropped": "1025",
-      "plan_to_watch": "31351"
+      "plan_to_watch": "31375"
     },
-    "num_list_users": 256102
-  }
+    "num_list_users": 256272
+  },
+  "mal_details_updated_at": "2026-11-15T17:21:52.690Z",
+  "translations_updated_at": "2026-11-15T17:24:08.996Z"
 }

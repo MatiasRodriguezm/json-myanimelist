@@ -28,10 +28,10 @@
   },
   "episodes": 12,
   "num_episodes": 12,
-  "score": 6.72,
-  "mean": 6.72,
-  "numListUsers": 12032,
-  "num_list_users": 12032,
+  "score": 6.73,
+  "mean": 6.73,
+  "numListUsers": 12038,
+  "num_list_users": 12038,
   "genres": [
     {
       "id": 50,
@@ -60,7 +60,11 @@
       "name": "Arvo Animation"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1351/152531l.webp",
+    "https://cdn.myanimelist.net/images/anime/1907/158537l.webp",
+    "https://cdn.myanimelist.net/images/anime/1874/160335l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/ru9Nc9HBAUjTVjngbgNUCdKRNa0.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/9aGLwUGjTRS2yOq7NtOchBxw9DP.png",
   "tmdb_id": "327765",
@@ -77,7 +81,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1874/160335l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1351/152531l.webp"
     }
   },
   "broadcast": {
@@ -88,82 +92,82 @@
     "timezone": "Asia/Tokyo",
     "string": "tuesday 23:00"
   },
-  "rank": 6536,
-  "popularity": 6937,
+  "rank": 6608,
+  "popularity": 6928,
   "rating": "pg_13",
   "simkl_id": 2899118,
   "episodes_data": [
     {
       "episode": 1,
       "title": "The Psychic Patrolman",
-      "title_es": "El patrullero psíquico",
       "aired": "2026-10-06T23:00:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/208276456c2c2bb680_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "El patrullero psíquico"
     },
     {
       "episode": 2,
       "title": "The Cat-Finding Senior Officer / Senior Duelist Officer",
-      "title_es": "El oficial superior buscador de gatos / Oficial superior duelista",
       "aired": "2026-10-13T23:00:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/208772796f672b4db2_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "El oficial superior buscador de gatos / Oficial superior duelista"
     },
     {
       "episode": 3,
       "title": "The Gofer Senior Officer/Racing Senior Officer",
-      "title_es": "El oficial superior de Gofer/Oficial superior de carreras",
       "aired": "2026-10-20T23:00:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20916723f01da0e22d_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "El oficial superior de Gofer/Oficial superior de carreras"
     },
     {
       "episode": 4,
       "title": "The Leave-on-Read Senior Patrolman / The Quiz Senior Patrolman",
-      "title_es": "El patrullero principal que deja leer / El patrullero principal del cuestionario",
       "aired": "2026-10-27T23:00:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20956365f9955d3a56_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "El patrullero principal que deja leer / El patrullero principal del cuestionario"
     },
     {
       "episode": 5,
       "title": "Convenience Store Patrolman / Pubescent Patrolman",
-      "title_es": "Patrullero de tienda de conveniencia / Patrullero pubescente",
       "aired": "2026-11-03T23:00:00+09:00",
       "thumbnail": "https://simkl.in/episodes/21/2100966535092c33d1_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Patrullero de tienda de conveniencia / Patrullero pubescente"
     },
     {
       "episode": 6,
       "title": "Episode 6",
-      "title_es": "Episodio 6",
       "aired": "2026-11-10T23:00:00+09:00",
       "thumbnail": "https://simkl.in/episodes/21/21052913c60f1cedbe_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Episodio 6"
     },
     {
       "episode": 7,
       "title": "Episode 7",
-      "title_es": "Episodio 7",
       "aired": "2026-11-17T23:00:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 7"
     },
     {
       "episode": 8,
       "title": "Episode 8",
-      "title_es": "Episodio 8",
       "aired": "2026-11-24T23:00:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 8"
     }
   ],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 1690,
+  "num_scoring_users": 1696,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2025-10-12T15:46:00+00:00",
+  "updated_at": "2026-11-14T20:34:07+00:00",
   "source": "manga",
   "background": "Choujun! Choujou-senpai aired on Kansai TV and Fuji TV's Ka-Anival!! block.",
   "related_anime": [],
@@ -174,8 +178,8 @@
         "id": 49519,
         "title": "Hakozume: Kouban Joshi no Gyakushuu",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1302/119917.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1302/119917l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1302/119917.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1302/119917l.jpg"
         }
       },
       "num_recommendations": 1
@@ -194,12 +198,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "6262",
-      "completed": "3",
-      "on_hold": "187",
-      "dropped": "877",
-      "plan_to_watch": "4682"
+      "watching": "6273",
+      "completed": 0,
+      "on_hold": "188",
+      "dropped": "882",
+      "plan_to_watch": "4692"
     },
-    "num_list_users": 12011
-  }
+    "num_list_users": 12035
+  },
+  "mal_details_updated_at": "2026-11-15T17:14:37.068Z",
+  "translations_updated_at": "2026-11-15T17:24:44.962Z"
 }

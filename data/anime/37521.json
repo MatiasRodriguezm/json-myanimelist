@@ -30,8 +30,8 @@
   "num_episodes": 24,
   "score": 8.78,
   "mean": 8.78,
-  "numListUsers": 1887196,
-  "num_list_users": 1887196,
+  "numListUsers": 1887244,
+  "num_list_users": 1887244,
   "genres": [
     {
       "id": 1,
@@ -64,7 +64,21 @@
       "name": "Wit Studio"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1612/93576l.webp",
+    "https://cdn.myanimelist.net/images/anime/1281/98955l.webp",
+    "https://cdn.myanimelist.net/images/anime/1048/102249l.webp",
+    "https://cdn.myanimelist.net/images/anime/1500/103005l.webp",
+    "https://cdn.myanimelist.net/images/anime/1981/105158l.webp",
+    "https://cdn.myanimelist.net/images/anime/1083/105436l.webp",
+    "https://cdn.myanimelist.net/images/anime/1116/105437l.webp",
+    "https://cdn.myanimelist.net/images/anime/1358/106890l.webp",
+    "https://cdn.myanimelist.net/images/anime/1043/106891l.webp",
+    "https://cdn.myanimelist.net/images/anime/1413/106892l.webp",
+    "https://cdn.myanimelist.net/images/anime/1870/106893l.webp",
+    "https://cdn.myanimelist.net/images/anime/1557/106894l.webp",
+    "https://cdn.myanimelist.net/images/anime/1253/106895l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/sPN7Ylc7swmyukJeQBNcRAl9usS.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/3gRatXdgLfzYU9q9WRwuQaIvpGQ.png",
   "tmdb_id": "88803",
@@ -81,7 +95,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1500/103005l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1612/93576l.webp"
     }
   },
   "broadcast": {
@@ -92,7 +106,7 @@
     "timezone": "Asia/Tokyo",
     "string": "monday 00:10"
   },
-  "rank": 47,
+  "rank": 46,
   "popularity": 59,
   "rating": "r",
   "simkl_id": 784557,
@@ -309,10 +323,10 @@
     }
   ],
   "characters": [],
-  "num_scoring_users": 1102537,
+  "num_scoring_users": 1103454,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2018-03-19T13:28:36+00:00",
+  "updated_at": "2023-10-16T06:33:35+00:00",
   "source": "manga",
   "background": null,
   "related_anime": [
@@ -321,8 +335,8 @@
         "id": 31647,
         "title": "Ponkotsuland Saga",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/2/76400.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/2/76400l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/2/76400.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/2/76400l.webp"
         }
       },
       "relation_type": "other",
@@ -456,12 +470,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "157250",
-      "completed": "1310393",
-      "on_hold": "47674",
-      "dropped": "27934",
-      "plan_to_watch": "341926"
+      "watching": "157331",
+      "completed": "1311600",
+      "on_hold": "47693",
+      "dropped": "27966",
+      "plan_to_watch": "342105"
     },
-    "num_list_users": 1885177
-  }
+    "num_list_users": 1886695
+  },
+  "mal_details_updated_at": "2026-11-15T17:20:01.589Z",
+  "translations_updated_at": "2026-11-15T17:23:50.899Z"
 }

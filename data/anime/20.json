@@ -32,8 +32,8 @@
   "num_episodes": 220,
   "score": 8.03,
   "mean": 8.03,
-  "numListUsers": 3179479,
-  "num_list_users": 3179479,
+  "numListUsers": 3179545,
+  "num_list_users": 3179545,
   "genres": [
     {
       "id": 1,
@@ -62,7 +62,19 @@
       "name": "Studio Pierrot"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1/20l.webp",
+    "https://cdn.myanimelist.net/images/anime/7/4289l.webp",
+    "https://cdn.myanimelist.net/images/anime/7/4641l.webp",
+    "https://cdn.myanimelist.net/images/anime/4/4644l.webp",
+    "https://cdn.myanimelist.net/images/anime/13/17405l.webp",
+    "https://cdn.myanimelist.net/images/anime/6/23162l.webp",
+    "https://cdn.myanimelist.net/images/anime/1359/111463l.webp",
+    "https://cdn.myanimelist.net/images/anime/1115/132764l.webp",
+    "https://cdn.myanimelist.net/images/anime/1839/134416l.webp",
+    "https://cdn.myanimelist.net/images/anime/1552/138043l.webp",
+    "https://cdn.myanimelist.net/images/anime/1141/142503l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/5F0HVEgkgP99fEWDjPyikGt9jQi.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/kaZ99sfclCKWnUgmW7AYrok03Am.png",
   "tmdb_id": "46260",
@@ -79,7 +91,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1141/142503l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1/20l.webp"
     }
   },
   "broadcast": {
@@ -90,7 +102,7 @@
     "timezone": "Asia/Tokyo",
     "string": "thursday 19:30"
   },
-  "rank": 727,
+  "rank": 726,
   "popularity": 9,
   "rating": "pg_13",
   "simkl_id": 39508,
@@ -1875,10 +1887,10 @@
     }
   ],
   "characters": [],
-  "num_scoring_users": 2179885,
+  "num_scoring_users": 2180892,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2005-11-11T01:19:57+00:00",
+  "updated_at": "2025-07-31T18:20:58+00:00",
   "source": "manga",
   "background": "Naruto received numerous awards during its airing, including the Best Full-Length Animation Program Award in the third UStv Awards and the 38th Best Animated Show in IGN's Top 100 Animated Series.\n\nThe anime was released on DVD in 16 volumes by VIZ Media from July 4, 2006, to September 22, 2009. The company rereleased it in eight volumes from October 6, 2009, to December 14, 2010. VIZ Media also made available a Blu-ray version in eight volumes from November 3, 2020, to October 18, 2022.\n\nThe series adapts the first 27 volumes of the original manga.",
   "related_anime": [
@@ -1887,8 +1899,8 @@
         "id": 442,
         "title": "Naruto Movie 1: Dai Katsugeki!! Yuki Hime Ninpouchou Dattebayo!",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1231/134484.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1231/134484l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1231/134484.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1231/134484l.jpg"
         }
       },
       "relation_type": "side_story",
@@ -1899,8 +1911,8 @@
         "id": 594,
         "title": "Naruto: Takigakure no Shitou - Ore ga Eiyuu Dattebayo!",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1932/152971.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1932/152971l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1932/152971.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1932/152971l.jpg"
         }
       },
       "relation_type": "side_story",
@@ -1971,8 +1983,8 @@
         "id": 7367,
         "title": "Naruto: The Cross Roads",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/11/27050.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/11/27050l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/11/27050.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/11/27050l.jpg"
         }
       },
       "relation_type": "side_story",
@@ -1983,8 +1995,8 @@
         "id": 53236,
         "title": "Road of Naruto",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1731/128787.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1731/128787l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1731/128787.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1731/128787l.jpg"
         }
       },
       "relation_type": "other",
@@ -2022,8 +2034,8 @@
         "id": 34572,
         "title": "Black Clover",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/2/88336.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/2/88336l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/2/88336.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/2/88336l.webp"
         }
       },
       "num_recommendations": 60
@@ -2066,8 +2078,8 @@
         "id": 40748,
         "title": "Jujutsu Kaisen",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1171/109222.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1171/109222l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1171/109222.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1171/109222l.jpg"
         }
       },
       "num_recommendations": 32
@@ -2088,8 +2100,8 @@
         "id": 31964,
         "title": "Boku no Hero Academia",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/10/78745.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/10/78745l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/10/78745.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/78745l.jpg"
         }
       },
       "num_recommendations": 29
@@ -2099,8 +2111,8 @@
         "id": 136,
         "title": "Hunter x Hunter",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1305/132237.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1305/132237l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1305/132237.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1305/132237l.webp"
         }
       },
       "num_recommendations": 14
@@ -2130,12 +2142,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "227132",
-      "completed": "2593039",
-      "on_hold": "99949",
-      "dropped": "141395",
-      "plan_to_watch": "116057"
+      "watching": "227291",
+      "completed": "2594407",
+      "on_hold": "100009",
+      "dropped": "141448",
+      "plan_to_watch": "116161"
     },
-    "num_list_users": 3177572
-  }
+    "num_list_users": 3179316
+  },
+  "mal_details_updated_at": "2026-11-15T17:18:08.495Z",
+  "translations_updated_at": "2026-11-15T17:23:30.200Z"
 }

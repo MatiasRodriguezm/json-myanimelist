@@ -32,8 +32,8 @@
   "num_episodes": 14,
   "score": 8.88,
   "mean": 8.88,
-  "numListUsers": 231097,
-  "num_list_users": 231097,
+  "numListUsers": 231102,
+  "num_list_users": 231102,
   "genres": [
     {
       "id": 1,
@@ -74,7 +74,15 @@
       "name": "Bandai Namco Pictures"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1587/91094l.webp",
+    "https://cdn.myanimelist.net/images/anime/1518/95051l.webp",
+    "https://cdn.myanimelist.net/images/anime/1387/95113l.webp",
+    "https://cdn.myanimelist.net/images/anime/1776/96566l.webp",
+    "https://cdn.myanimelist.net/images/anime/1173/109633l.webp",
+    "https://cdn.myanimelist.net/images/anime/1152/109754l.webp",
+    "https://cdn.myanimelist.net/images/anime/1419/115065l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/3gVl0IvJMbhOnAvH9V0Q1Y1HnXE.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/2GFz7E2Z1UWiWqOv2YGIbIaAWrH.png",
   "tmdb_id": "57041",
@@ -91,7 +99,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1776/96566l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1587/91094l.webp"
     }
   },
   "broadcast": {
@@ -222,10 +230,10 @@
   ],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 109397,
+  "num_scoring_users": 109436,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2018-03-16T00:47:26+00:00",
+  "updated_at": "2024-11-11T01:56:51+00:00",
   "source": "manga",
   "background": "Gintama. Shirogane no Tamashii-hen - Kouhan-sen was released on Blu-ray and DVD from October 24, 2018, to February 27, 2019.",
   "related_anime": [
@@ -246,8 +254,8 @@
         "id": 44087,
         "title": "Gintama: The Semi-Final",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1694/110521.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1694/110521l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1694/110521.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1694/110521l.jpg"
         }
       },
       "relation_type": "sequel",
@@ -259,11 +267,13 @@
   "statistics": {
     "status": {
       "watching": "11445",
-      "completed": "142396",
-      "on_hold": "3020",
-      "dropped": "2174",
-      "plan_to_watch": "71901"
+      "completed": "142471",
+      "on_hold": "3022",
+      "dropped": "2175",
+      "plan_to_watch": "71920"
     },
-    "num_list_users": 230936
-  }
+    "num_list_users": 231033
+  },
+  "mal_details_updated_at": "2026-11-15T17:19:54.852Z",
+  "translations_updated_at": "2026-11-15T17:23:59.785Z"
 }

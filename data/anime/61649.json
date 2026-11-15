@@ -32,8 +32,8 @@
   "num_episodes": 16,
   "score": null,
   "mean": null,
-  "numListUsers": 693,
-  "num_list_users": 693,
+  "numListUsers": 696,
+  "num_list_users": 696,
   "genres": [
     {
       "id": 1,
@@ -74,7 +74,16 @@
       "name": "CG Year"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1798/149675l.webp",
+    "https://cdn.myanimelist.net/images/anime/1476/149684l.webp",
+    "https://cdn.myanimelist.net/images/anime/1454/156919l.webp",
+    "https://cdn.myanimelist.net/images/anime/1988/159435l.webp",
+    "https://cdn.myanimelist.net/images/anime/1022/159436l.webp",
+    "https://cdn.myanimelist.net/images/anime/1644/159437l.webp",
+    "https://cdn.myanimelist.net/images/anime/1188/160215l.webp",
+    "https://cdn.myanimelist.net/images/anime/1609/161179l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/1OuxPsIEQE6NnATVV3EJcB17OUH.jpg",
   "logo_url": null,
   "tmdb_id": "330609",
@@ -91,12 +100,12 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1454/156919l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1798/149675l.webp"
     }
   },
   "broadcast": null,
-  "rank": 16061,
-  "popularity": 17338,
+  "rank": 16073,
+  "popularity": 17252,
   "rating": "r",
   "simkl_id": 3219008,
   "episodes_data": [
@@ -231,10 +240,10 @@
   ],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 73,
+  "num_scoring_users": 85,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2025-05-06T11:36:47+00:00",
+  "updated_at": "2026-11-15T03:31:27+00:00",
   "source": "web_novel",
   "background": "Adaptation of Tianxia Ba Chang's (天下霸唱) web novel, Dou Zhanlong Bie Bao (窦占龙憋宝). ",
   "related_anime": [],
@@ -242,12 +251,14 @@
   "recommendations": [],
   "statistics": {
     "status": {
-      "watching": "261",
-      "completed": 0,
+      "watching": "247",
+      "completed": "25",
       "on_hold": "29",
-      "dropped": "74",
-      "plan_to_watch": "316"
+      "dropped": "76",
+      "plan_to_watch": "319"
     },
-    "num_list_users": 680
-  }
+    "num_list_users": 696
+  },
+  "mal_details_updated_at": "2026-11-15T17:15:23.456Z",
+  "translations_updated_at": "2026-11-15T17:24:39.630Z"
 }

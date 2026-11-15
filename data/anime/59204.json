@@ -32,8 +32,8 @@
   "num_episodes": null,
   "score": 7.2,
   "mean": 7.2,
-  "numListUsers": 23144,
-  "num_list_users": 23144,
+  "numListUsers": 23151,
+  "num_list_users": 23151,
   "genres": [
     {
       "id": 2,
@@ -58,7 +58,13 @@
       "name": "E&H Production"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1984/143950l.webp",
+    "https://cdn.myanimelist.net/images/anime/1679/152682l.webp",
+    "https://cdn.myanimelist.net/images/anime/1349/156364l.webp",
+    "https://cdn.myanimelist.net/images/anime/1232/158887l.webp",
+    "https://cdn.myanimelist.net/images/anime/1478/160268l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/ovysGUJ9Qc7oWaiFbyWjwhw1vtc.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/lFNhd3XrhA90XawdnocusI9zwsS.png",
   "tmdb_id": "303272",
@@ -75,7 +81,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1478/160268l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1984/143950l.webp"
     }
   },
   "broadcast": {
@@ -87,81 +93,81 @@
     "string": "wednesday 23:45"
   },
   "rank": 3830,
-  "popularity": 5363,
+  "popularity": 5362,
   "rating": "pg_13",
   "simkl_id": 2505906,
   "episodes_data": [
     {
       "episode": 1,
       "title": "From Another World",
-      "title_es": "De otro mundo",
       "aired": "2026-10-07T23:45:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/208145014c5b59cd0d_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "De otro mundo"
     },
     {
       "episode": 2,
       "title": "The Legend Begins",
-      "title_es": "La leyenda comienza",
       "aired": "2026-10-14T23:45:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20853897f887d4335f_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "La leyenda comienza"
     },
     {
       "episode": 3,
       "title": "All in the Same Boat",
-      "title_es": "Todos en el mismo barco",
       "aired": "2026-10-21T23:45:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20898239d11f123f7e_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Todos en el mismo barco"
     },
     {
       "episode": 4,
       "title": "Our Battle",
-      "title_es": "Nuestra batalla",
       "aired": "2026-10-28T23:45:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20943239afd03265ed_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Nuestra batalla"
     },
     {
       "episode": 5,
       "title": "One-of-a-Kind Weapons",
-      "title_es": "Armas únicas",
       "aired": "2026-11-04T23:45:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/209912018ecab25a33_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Armas únicas"
     },
     {
       "episode": 6,
       "title": "The Rune Gods",
-      "title_es": "Los dioses de las runas",
       "aired": "2026-11-11T23:45:00+09:00",
       "thumbnail": "https://simkl.in/episodes/21/21035245fc71d087c1_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Los dioses de las runas"
     },
     {
       "episode": 7,
       "title": "Episode 7",
-      "title_es": "Episodio 7",
       "aired": "2026-11-18T23:45:00+09:00",
       "thumbnail": "https://simkl.in/episodes/21/21078333ef99349738_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Episodio 7"
     },
     {
       "episode": 8,
       "title": "Episode 8",
-      "title_es": "Episodio 8",
       "aired": "2026-11-25T23:45:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 8"
     }
   ],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 2170,
+  "num_scoring_users": 2180,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2024-07-02T03:07:17+00:00",
+  "updated_at": "2026-10-07T21:13:36+00:00",
   "source": "manga",
   "background": "Magic Knight Rayearth (2026) aired on TV Asahi's IMAnimation W block.",
   "related_anime": [
@@ -170,8 +176,8 @@
         "id": 435,
         "title": "Magic Knight Rayearth",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1683/97042.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1683/97042l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1683/97042.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1683/97042l.webp"
         }
       },
       "relation_type": "alternative_version",
@@ -209,8 +215,8 @@
         "id": 14751,
         "title": "Bishoujo Senshi Sailor Moon Crystal",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1209/133699.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1209/133699l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1209/133699.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1209/133699l.jpg"
         }
       },
       "num_recommendations": 1
@@ -218,12 +224,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "10034",
-      "completed": "2",
-      "on_hold": "269",
-      "dropped": "667",
-      "plan_to_watch": "12142"
+      "watching": "10052",
+      "completed": 0,
+      "on_hold": "272",
+      "dropped": "674",
+      "plan_to_watch": "12152"
     },
-    "num_list_users": 23114
-  }
+    "num_list_users": 23150
+  },
+  "mal_details_updated_at": "2026-11-15T17:13:29.541Z",
+  "translations_updated_at": "2026-11-15T17:24:31.258Z"
 }

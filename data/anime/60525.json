@@ -44,11 +44,13 @@
     }
   ],
   "studios": [],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1569/146966l.webp"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T13:05:55.923Z",
+  "tmdb_updated_at": "2026-11-15T17:19:52.652Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1569/146966.webp",
@@ -74,8 +76,8 @@
   "characters": [],
   "num_scoring_users": null,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2024-12-15T14:08:51+00:00",
+  "updated_at": "2024-12-15T14:17:20+00:00",
   "source": "light_novel",
   "background": null,
   "related_anime": [
@@ -96,12 +98,14 @@
   "recommendations": [],
   "statistics": {
     "status": {
-      "watching": "4",
+      "watching": "2",
       "completed": 0,
       "on_hold": "2",
       "dropped": 0,
-      "plan_to_watch": "39154"
+      "plan_to_watch": "39174"
     },
-    "num_list_users": 39160
-  }
+    "num_list_users": 39178
+  },
+  "mal_details_updated_at": "2026-11-15T17:19:52.164Z",
+  "translations_updated_at": "2026-11-15T17:24:34.394Z"
 }

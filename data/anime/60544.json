@@ -30,8 +30,8 @@
   "num_episodes": 1,
   "score": 8.44,
   "mean": 8.44,
-  "numListUsers": 13486,
-  "num_list_users": 13486,
+  "numListUsers": 13489,
+  "num_list_users": 13489,
   "genres": [
     {
       "id": 1,
@@ -60,11 +60,15 @@
       "name": "October Media"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1616/147002l.webp",
+    "https://cdn.myanimelist.net/images/anime/1726/150021l.webp",
+    "https://cdn.myanimelist.net/images/anime/1900/151868l.webp"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T13:06:00.268Z",
+  "tmdb_updated_at": "2026-11-15T17:20:21.508Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1616/147002.webp",
@@ -81,8 +85,8 @@
     }
   },
   "broadcast": null,
-  "rank": 205,
-  "popularity": 6602,
+  "rank": 206,
+  "popularity": 6597,
   "rating": "pg_13",
   "simkl_id": 2865106,
   "episodes_data": [
@@ -97,10 +101,10 @@
   ],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 6415,
+  "num_scoring_users": 6447,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2024-12-19T21:09:33+00:00",
+  "updated_at": "2026-11-01T03:27:49+00:00",
   "source": "original",
   "background": null,
   "related_anime": [
@@ -136,8 +140,8 @@
         "id": 42106,
         "title": "Jiang Ziya",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1000/132109.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1000/132109l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1000/132109.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1000/132109l.jpg"
         }
       },
       "num_recommendations": 1
@@ -145,12 +149,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "991",
-      "completed": "8372",
-      "on_hold": "144",
-      "dropped": "163",
-      "plan_to_watch": "3727"
+      "watching": "995",
+      "completed": "8412",
+      "on_hold": "142",
+      "dropped": "162",
+      "plan_to_watch": "3733"
     },
-    "num_list_users": 13397
-  }
+    "num_list_users": 13444
+  },
+  "mal_details_updated_at": "2026-11-15T17:20:21.217Z",
+  "translations_updated_at": "2026-11-15T17:24:05.165Z"
 }

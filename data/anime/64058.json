@@ -60,7 +60,10 @@
       "name": "Cypic"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1080/157086l.webp",
+    "https://cdn.myanimelist.net/images/anime/1653/157089l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/fR2wnADwKxS2uWDRxWkJzlfAWdt.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/id23kEoJy7fSzgHxfdIXSZ5KnHf.svg",
   "tmdb_id": "320905",
@@ -77,30 +80,30 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1653/157089l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1080/157086l.webp"
     }
   },
   "broadcast": null,
   "rank": null,
-  "popularity": 3911,
+  "popularity": 3907,
   "rating": "r",
   "simkl_id": 3098036,
   "episodes_data": [
     {
       "episode": 1,
       "title": "Episode 1",
-      "title_es": "Episodio 1",
       "aired": "2027-04-01T00:00:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 1"
     }
   ],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 3,
+  "num_scoring_users": null,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2026-04-27T12:12:13+00:00",
+  "updated_at": "2026-04-28T00:47:40+00:00",
   "source": "manga",
   "background": null,
   "related_anime": [],
@@ -108,12 +111,14 @@
   "recommendations": [],
   "statistics": {
     "status": {
-      "watching": "4",
-      "completed": "1",
-      "on_hold": "7",
+      "watching": "1",
+      "completed": 0,
+      "on_hold": 0,
       "dropped": 0,
-      "plan_to_watch": "45984"
+      "plan_to_watch": "46054"
     },
-    "num_list_users": 45996
-  }
+    "num_list_users": 46055
+  },
+  "mal_details_updated_at": "2026-11-15T17:19:43.835Z",
+  "translations_updated_at": "2026-11-15T17:25:00.382Z"
 }

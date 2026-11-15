@@ -34,8 +34,8 @@
   "num_episodes": 11,
   "score": 8.69,
   "mean": 8.69,
-  "numListUsers": 503413,
-  "num_list_users": 503413,
+  "numListUsers": 503440,
+  "num_list_users": 503440,
   "genres": [
     {
       "id": 50,
@@ -68,7 +68,16 @@
       "name": "LAN Studio"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1458/113542l.webp",
+    "https://cdn.myanimelist.net/images/anime/1135/114867l.webp",
+    "https://cdn.myanimelist.net/images/anime/1734/116330l.webp",
+    "https://cdn.myanimelist.net/images/anime/1592/116331l.webp",
+    "https://cdn.myanimelist.net/images/anime/1667/120147l.webp",
+    "https://cdn.myanimelist.net/images/anime/1584/124835l.webp",
+    "https://cdn.myanimelist.net/images/anime/1955/157451l.webp",
+    "https://cdn.myanimelist.net/images/anime/1101/157452l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/w3agwUSMpJ4X9t1jGrDtqqRPjDQ.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/afS3wRroucg2Tku3tH0NNmyurST.png",
   "tmdb_id": "123542",
@@ -85,12 +94,12 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1135/114867l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1458/113542l.webp"
     }
   },
   "broadcast": null,
-  "rank": 72,
-  "popularity": 536,
+  "rank": 71,
+  "popularity": 535,
   "rating": "pg_13",
   "simkl_id": 1625669,
   "episodes_data": [
@@ -202,10 +211,10 @@
     }
   ],
   "characters": [],
-  "num_scoring_users": 198624,
+  "num_scoring_users": 198872,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2020-11-21T15:26:51+00:00",
+  "updated_at": "2025-12-29T18:43:45+00:00",
   "source": "original",
   "background": null,
   "related_anime": [
@@ -214,8 +223,8 @@
         "id": 49200,
         "title": "Shiguang Dailiren Fanwai Pian: Biwu Zhaoqin",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1301/156792.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1301/156792l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1301/156792.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1301/156792l.jpg"
         }
       },
       "relation_type": "side_story",
@@ -250,8 +259,8 @@
         "id": 50105,
         "title": "Shiguang Zhaoxiangguan de Richang",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1522/118752.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1522/118752l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1522/118752.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1522/118752l.jpg"
         }
       },
       "relation_type": "other",
@@ -286,8 +295,8 @@
         "id": 51824,
         "title": "Shiguang Dailiren x realme: Shenmi Q Xiansheng de Weituo",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1764/131855.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1764/131855l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1764/131855.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1764/131855l.webp"
         }
       },
       "relation_type": "character",
@@ -368,8 +377,8 @@
         "id": 33352,
         "title": "Violet Evergarden",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1795/95088.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1795/95088l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1795/95088.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1795/95088l.jpg"
         }
       },
       "num_recommendations": 6
@@ -379,8 +388,8 @@
         "id": 37522,
         "title": "Pet",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1399/94794.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1399/94794l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1399/94794.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1399/94794l.jpg"
         }
       },
       "num_recommendations": 4
@@ -401,8 +410,8 @@
         "id": 32281,
         "title": "Kimi no Na wa.",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/5/87048.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/5/87048l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/5/87048.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/5/87048l.webp"
         }
       },
       "num_recommendations": 4
@@ -412,8 +421,8 @@
         "id": 47194,
         "title": "Summertime Render",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1120/120796.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1120/120796l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1120/120796.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1120/120796l.webp"
         }
       },
       "num_recommendations": 3
@@ -421,12 +430,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "49061",
-      "completed": "231376",
-      "on_hold": "15089",
-      "dropped": "9787",
-      "plan_to_watch": "197153"
+      "watching": "49100",
+      "completed": "231684",
+      "on_hold": "15101",
+      "dropped": "9797",
+      "plan_to_watch": "197313"
     },
-    "num_list_users": 502466
-  }
+    "num_list_users": 502995
+  },
+  "mal_details_updated_at": "2026-11-15T17:21:41.843Z",
+  "translations_updated_at": "2026-11-15T17:24:02.576Z"
 }

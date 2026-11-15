@@ -32,8 +32,8 @@
   "num_episodes": 12,
   "score": 7.21,
   "mean": 7.21,
-  "numListUsers": 35062,
-  "num_list_users": 35062,
+  "numListUsers": 35077,
+  "num_list_users": 35077,
   "genres": [
     {
       "id": 2,
@@ -58,7 +58,13 @@
       "name": "SILVER LINK."
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1391/145200l.webp",
+    "https://cdn.myanimelist.net/images/anime/1055/145202l.webp",
+    "https://cdn.myanimelist.net/images/anime/1454/153633l.webp",
+    "https://cdn.myanimelist.net/images/anime/1402/158487l.webp",
+    "https://cdn.myanimelist.net/images/anime/1655/159979l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/xljpEwFQF6Rl1rU1w7SEs1pk3YE.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/wtdVpvYlnwARmdJesDEk88IQh8M.png",
   "tmdb_id": "206630",
@@ -75,7 +81,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1655/159979l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1391/145200l.webp"
     }
   },
   "broadcast": {
@@ -87,113 +93,113 @@
     "string": "wednesday 22:00"
   },
   "rank": 3770,
-  "popularity": 4486,
+  "popularity": 4483,
   "rating": "pg_13",
   "simkl_id": 2414238,
   "episodes_data": [
     {
       "episode": 1,
       "title": "Mother and Child",
-      "title_es": "Madre e hijo",
       "aired": "2026-10-07T22:00:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/2083451152ef7fdb6e_w.webp",
-      "description": "Sasaki`s boss invites him for a talk while his neighbor gets drawn into a strange new world of her own."
+      "description": "Sasaki`s boss invites him for a talk while his neighbor gets drawn into a strange new world of her own.",
+      "title_es": "Madre e hijo"
     },
     {
       "episode": 2,
       "title": "Death Games and Demons",
-      "title_es": "Juegos de muerte y demonios",
       "aired": "2026-10-14T22:00:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/2087775588001e5cab_w.webp",
-      "description": "Sasaki and Futari Shizuka are trying to stop Magical Pink when they get pulled into something new."
+      "description": "Sasaki and Futari Shizuka are trying to stop Magical Pink when they get pulled into something new.",
+      "title_es": "Juegos de muerte y demonios"
     },
     {
       "episode": 3,
       "title": "Concealment and Infiltration",
-      "title_es": "Ocultamiento e Infiltración",
       "aired": "2026-10-21T22:00:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/209235430936ee7dfb_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Ocultamiento e Infiltración"
     },
     {
       "episode": 4,
       "title": "Angel and Boy",
-      "title_es": "Ángel y niño",
       "aired": "2026-10-28T22:00:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/2096232307bc63f7e5_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Ángel y niño"
     },
     {
       "episode": 5,
       "title": "Heroes and Feelings",
-      "title_es": "Héroes y Sentimientos",
       "aired": "2026-11-04T22:00:00+09:00",
       "thumbnail": "https://simkl.in/episodes/21/2101634148ce08452d_w.webp",
-      "description": "The battle between Sasaki and the angels reaches its conclusion, with aftermath to come."
+      "description": "The battle between Sasaki and the angels reaches its conclusion, with aftermath to come.",
+      "title_es": "Héroes y Sentimientos"
     },
     {
       "episode": 6,
       "title": "Feast and Bonds",
-      "title_es": "Fiesta y Vínculos",
       "aired": "2026-11-11T22:00:00+09:00",
       "thumbnail": "https://simkl.in/episodes/21/21059279dfecb64ad3_w.webp",
-      "description": "Sasaki and Peeps enjoy a banquet with Futari Shizuka and Elsa that quickly gets out of control."
+      "description": "Sasaki and Peeps enjoy a banquet with Futari Shizuka and Elsa that quickly gets out of control.",
+      "title_es": "Fiesta y Vínculos"
     },
     {
       "episode": 7,
       "title": "Episode 7",
-      "title_es": "Episodio 7",
       "aired": "2026-11-18T22:00:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 7"
     },
     {
       "episode": 8,
       "title": "Episode 8",
-      "title_es": "Episodio 8",
       "aired": "2026-11-25T22:00:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 8"
     },
     {
       "episode": 9,
       "title": "Episode 9",
-      "title_es": "Episodio 9",
       "aired": "2026-12-02T22:00:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 9"
     },
     {
       "episode": 10,
       "title": "Episode 10",
-      "title_es": "Episodio 10",
       "aired": "2026-12-09T22:00:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 10"
     },
     {
       "episode": 11,
       "title": "Episode 11",
-      "title_es": "Episodio 11",
       "aired": "2026-12-16T22:00:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 11"
     },
     {
       "episode": 12,
       "title": "Episode 12",
-      "title_es": "Episodio 12",
       "aired": "2026-12-23T22:00:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 12"
     }
   ],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 2671,
+  "num_scoring_users": 2696,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2024-03-24T07:00:03+00:00",
+  "updated_at": "2026-10-07T19:21:07+00:00",
   "source": "light_novel",
   "background": null,
   "related_anime": [
@@ -202,8 +208,8 @@
         "id": 52482,
         "title": "Sasaki to Pii-chan",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1624/139672.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1624/139672l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1624/139672.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1624/139672l.jpg"
         }
       },
       "relation_type": "prequel",
@@ -214,12 +220,14 @@
   "recommendations": [],
   "statistics": {
     "status": {
-      "watching": "13248",
+      "watching": "13289",
       "completed": "2",
-      "on_hold": "281",
-      "dropped": "384",
-      "plan_to_watch": "21107"
+      "on_hold": "284",
+      "dropped": "390",
+      "plan_to_watch": "21114"
     },
-    "num_list_users": 35022
-  }
+    "num_list_users": 35079
+  },
+  "mal_details_updated_at": "2026-11-15T17:13:28.931Z",
+  "translations_updated_at": "2026-11-15T17:24:30.026Z"
 }

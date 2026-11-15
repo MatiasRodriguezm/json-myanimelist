@@ -35,8 +35,8 @@
   "num_episodes": 13,
   "score": 9.02,
   "mean": 9.02,
-  "numListUsers": 364010,
-  "num_list_users": 364010,
+  "numListUsers": 364016,
+  "num_list_users": 364016,
   "genres": [
     {
       "id": 1,
@@ -77,7 +77,13 @@
       "name": "Sunrise"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/12/41843l.webp",
+    "https://cdn.myanimelist.net/images/anime/13/47285l.webp",
+    "https://cdn.myanimelist.net/images/anime/11/47287l.webp",
+    "https://cdn.myanimelist.net/images/anime/10/52497l.webp",
+    "https://cdn.myanimelist.net/images/anime/1452/123686l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/3gVl0IvJMbhOnAvH9V0Q1Y1HnXE.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/2GFz7E2Z1UWiWqOv2YGIbIaAWrH.png",
   "tmdb_id": "57041",
@@ -94,7 +100,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1452/123686l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/12/41843l.webp"
     }
   },
   "broadcast": {
@@ -217,10 +223,10 @@
   ],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 182060,
+  "num_scoring_users": 182113,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2012-09-03T13:17:14+00:00",
+  "updated_at": "2024-03-04T09:28:12+00:00",
   "source": "manga",
   "background": null,
   "related_anime": [
@@ -229,8 +235,8 @@
         "id": 9969,
         "title": "Gintama'",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/4/50361.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/4/50361l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/4/50361.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/4/50361l.jpg"
         }
       },
       "relation_type": "prequel",
@@ -253,8 +259,8 @@
         "id": 25313,
         "title": "Gintama': Futon ni Haitte kara Buki Nokoshi ni Kizuite Neru ni Nerenai Toki mo Aru",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1327/110925.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1327/110925l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1327/110925.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1327/110925l.webp"
         }
       },
       "relation_type": "side_story",
@@ -277,8 +283,8 @@
         "id": 58091,
         "title": "Gintama on Theater 2D: Ikkoku Keisei-hen",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1495/150101.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1495/150101l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1495/150101.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1495/150101l.jpg"
         }
       },
       "relation_type": "summary",
@@ -304,8 +310,8 @@
         "id": 14765,
         "title": "Ixion Saga DT",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/8/42863.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/8/42863l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/8/42863.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/8/42863l.jpg"
         }
       },
       "num_recommendations": 2
@@ -315,8 +321,8 @@
         "id": 11843,
         "title": "Danshi Koukousei no Nichijou",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/3/33257.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/3/33257l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/3/33257.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/3/33257l.webp"
         }
       },
       "num_recommendations": 1
@@ -326,8 +332,8 @@
         "id": 114,
         "title": "Sakigake!! Cromartie Koukou",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1782/130913.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1782/130913l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1782/130913.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1782/130913l.jpg"
         }
       },
       "num_recommendations": 1
@@ -346,12 +352,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "14510",
-      "completed": "234199",
-      "on_hold": "4090",
-      "dropped": "3427",
-      "plan_to_watch": "107587"
+      "watching": "14522",
+      "completed": "234287",
+      "on_hold": "4091",
+      "dropped": "3430",
+      "plan_to_watch": "107604"
     },
-    "num_list_users": 363813
-  }
+    "num_list_users": 363934
+  },
+  "mal_details_updated_at": "2026-11-15T17:13:00.992Z",
+  "translations_updated_at": "2026-11-15T17:23:59.183Z"
 }

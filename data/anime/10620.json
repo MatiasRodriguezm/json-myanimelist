@@ -33,8 +33,8 @@
   "num_episodes": 26,
   "score": 7.37,
   "mean": 7.37,
-  "numListUsers": 2165954,
-  "num_list_users": 2165954,
+  "numListUsers": 2165990,
+  "num_list_users": 2165990,
   "genres": [
     {
       "id": 1,
@@ -75,7 +75,16 @@
       "name": "asread."
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/13/33465l.webp",
+    "https://cdn.myanimelist.net/images/anime/2/33703l.webp",
+    "https://cdn.myanimelist.net/images/anime/13/34635l.webp",
+    "https://cdn.myanimelist.net/images/anime/9/35551l.webp",
+    "https://cdn.myanimelist.net/images/anime/4/36967l.webp",
+    "https://cdn.myanimelist.net/images/anime/2/80335l.webp",
+    "https://cdn.myanimelist.net/images/anime/1225/103245l.webp",
+    "https://cdn.myanimelist.net/images/anime/1059/128279l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/86JFnMyoj6Mk8P66QoT4NLkiMO7.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/As280mX4NzoS6foY4m7BgHhMK3J.png",
   "tmdb_id": "46671",
@@ -103,7 +112,7 @@
     "timezone": "Asia/Tokyo",
     "string": "sunday 23:00"
   },
-  "rank": 2835,
+  "rank": 2836,
   "popularity": 39,
   "rating": "r+",
   "simkl_id": 39336,
@@ -344,10 +353,10 @@
     }
   ],
   "characters": [],
-  "num_scoring_users": 1289807,
+  "num_scoring_users": 1290148,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2011-04-21T19:55:29+00:00",
+  "updated_at": "2026-04-15T03:51:14+00:00",
   "source": "manga",
   "background": "Mirai Nikki also spawned a live-action television show with a different plot from the manga and anime, as well as a visual novel.",
   "related_anime": [
@@ -380,8 +389,8 @@
         "id": 16762,
         "title": "Mirai Nikki: Redial",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1715/103523.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1715/103523l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1715/103523.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1715/103523l.jpg"
         }
       },
       "relation_type": "sequel",
@@ -395,8 +404,8 @@
         "id": 6880,
         "title": "Deadman Wonderland",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/9/75299.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/9/75299l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/9/75299.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/9/75299l.jpg"
         }
       },
       "num_recommendations": 102
@@ -406,8 +415,8 @@
         "id": 5630,
         "title": "Higashi no Eden",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/9/15033.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/9/15033l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/9/15033.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/9/15033l.jpg"
         }
       },
       "num_recommendations": 74
@@ -428,8 +437,8 @@
         "id": 1535,
         "title": "Death Note",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1079/138100.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1079/138100l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1079/138100.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1079/138100l.webp"
         }
       },
       "num_recommendations": 71
@@ -439,8 +448,8 @@
         "id": 226,
         "title": "Elfen Lied",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1780/121555.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1780/121555l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1780/121555.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1780/121555l.jpg"
         }
       },
       "num_recommendations": 49
@@ -450,8 +459,8 @@
         "id": 16592,
         "title": "Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/4/51463.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/4/51463l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/4/51463.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/4/51463l.jpg"
         }
       },
       "num_recommendations": 44
@@ -461,8 +470,8 @@
         "id": 38656,
         "title": "Darwin's Game",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1016/107222.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1016/107222l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1016/107222.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1016/107222l.webp"
         }
       },
       "num_recommendations": 37
@@ -494,8 +503,8 @@
         "id": 9253,
         "title": "Steins;Gate",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1935/127974.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1935/127974l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1935/127974.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1935/127974l.jpg"
         }
       },
       "num_recommendations": 27
@@ -503,12 +512,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "96642",
-      "completed": "1596440",
-      "on_hold": "53482",
-      "dropped": "83581",
-      "plan_to_watch": "334490"
+      "watching": "96700",
+      "completed": "1596945",
+      "on_hold": "53503",
+      "dropped": "83608",
+      "plan_to_watch": "334650"
     },
-    "num_list_users": 2164635
-  }
+    "num_list_users": 2165406
+  },
+  "mal_details_updated_at": "2026-11-15T17:18:18.942Z",
+  "translations_updated_at": "2026-11-15T17:23:43.883Z"
 }

@@ -60,7 +60,9 @@
       "name": "TMS Entertainment"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/5/81968l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/8F6uP709Iz6hKBfhnNWBKW3Rx41.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/nCjz30ZLt1UpLd6u4X2vhOEg3Ap.png",
   "tmdb_id": "573364",
@@ -81,8 +83,8 @@
     }
   },
   "broadcast": null,
-  "rank": 376,
-  "popularity": 4477,
+  "rank": 377,
+  "popularity": 4480,
   "rating": "pg_13",
   "simkl_id": 961979,
   "episodes_data": [
@@ -97,10 +99,10 @@
   ],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 16712,
+  "num_scoring_users": 16715,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2016-09-13T04:27:44+00:00",
+  "updated_at": "2023-12-27T19:16:14+00:00",
   "source": "manga",
   "background": null,
   "related_anime": [
@@ -109,8 +111,8 @@
         "id": 235,
         "title": "Meitantei Conan",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/7/75199.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/7/75199l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/7/75199.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/7/75199l.jpg"
         }
       },
       "relation_type": "alternative_version",
@@ -121,12 +123,14 @@
   "recommendations": [],
   "statistics": {
     "status": {
-      "watching": "1659",
-      "completed": "25465",
-      "on_hold": "505",
+      "watching": "1662",
+      "completed": "25474",
+      "on_hold": "504",
       "dropped": "631",
-      "plan_to_watch": "6812"
+      "plan_to_watch": "6813"
     },
-    "num_list_users": 35072
-  }
+    "num_list_users": 35084
+  },
+  "mal_details_updated_at": "2026-11-15T17:21:51.584Z",
+  "translations_updated_at": "2026-11-15T17:24:08.403Z"
 }

@@ -35,8 +35,8 @@
   "num_episodes": 2,
   "score": 8.31,
   "mean": 8.31,
-  "numListUsers": 53260,
-  "num_list_users": 53260,
+  "numListUsers": 53261,
+  "num_list_users": 53261,
   "genres": [
     {
       "id": 63,
@@ -65,11 +65,14 @@
       "name": "Shuka"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/3/84887l.webp",
+    "https://cdn.myanimelist.net/images/anime/2/84888l.webp"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T13:06:03.711Z",
+  "tmdb_updated_at": "2026-11-15T17:21:49.118Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/3/84887.webp",
@@ -207,10 +210,10 @@
     }
   ],
   "characters": [],
-  "num_scoring_users": 24643,
+  "num_scoring_users": 24654,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2016-12-14T00:34:55+00:00",
+  "updated_at": "2024-03-06T11:35:58+00:00",
   "source": "manga",
   "background": null,
   "related_anime": [
@@ -231,12 +234,14 @@
   "recommendations": [],
   "statistics": {
     "status": {
-      "watching": "1813",
-      "completed": "36255",
+      "watching": "1816",
+      "completed": "36273",
       "on_hold": "634",
-      "dropped": "374",
-      "plan_to_watch": "14150"
+      "dropped": "376",
+      "plan_to_watch": "14153"
     },
-    "num_list_users": 53226
-  }
+    "num_list_users": 53252
+  },
+  "mal_details_updated_at": "2026-11-15T17:21:48.895Z",
+  "translations_updated_at": "2026-11-15T17:24:07.719Z"
 }

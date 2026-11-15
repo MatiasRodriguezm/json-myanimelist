@@ -29,8 +29,8 @@
   "num_episodes": null,
   "score": null,
   "mean": null,
-  "numListUsers": 43815,
-  "num_list_users": 43815,
+  "numListUsers": 43812,
+  "num_list_users": 43812,
   "genres": [
     {
       "id": 1,
@@ -38,7 +38,10 @@
     }
   ],
   "studios": [],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1773/150716l.webp",
+    "https://cdn.myanimelist.net/images/anime/1440/150731l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/xIBS2ZIvQZbf6xBMzCi3ml2FSyp.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/brqsP2YQLh9yyHCvIw2DLIbxXdY.png",
   "tmdb_id": "154494",
@@ -55,7 +58,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1440/150731l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1773/150716l.webp"
     }
   },
   "broadcast": null,
@@ -68,8 +71,8 @@
   "characters": [],
   "num_scoring_users": null,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2023-02-11T13:36:58+00:00",
+  "updated_at": "2025-06-26T12:35:18+00:00",
   "source": "original",
   "background": null,
   "related_anime": [
@@ -78,8 +81,8 @@
         "id": 50709,
         "title": "Lycoris Recoil",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1261/127311.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1261/127311l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1261/127311.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1261/127311l.jpg"
         }
       },
       "relation_type": "other",
@@ -91,11 +94,13 @@
   "statistics": {
     "status": {
       "watching": 0,
-      "completed": "1",
+      "completed": 0,
       "on_hold": "1",
-      "dropped": 0,
-      "plan_to_watch": "43812"
+      "dropped": "1",
+      "plan_to_watch": "43810"
     },
-    "num_list_users": 43814
-  }
+    "num_list_users": 43812
+  },
+  "mal_details_updated_at": "2026-11-15T17:19:45.447Z",
+  "translations_updated_at": "2026-11-15T17:24:27.921Z"
 }

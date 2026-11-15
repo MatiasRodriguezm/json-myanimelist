@@ -32,8 +32,8 @@
   "num_episodes": 1,
   "score": 8.62,
   "mean": 8.62,
-  "numListUsers": 243863,
-  "num_list_users": 243863,
+  "numListUsers": 243870,
+  "num_list_users": 243870,
   "genres": [
     {
       "id": 18,
@@ -58,7 +58,15 @@
       "name": "Gainax"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/13/19663l.webp",
+    "https://cdn.myanimelist.net/images/anime/12/19698l.webp",
+    "https://cdn.myanimelist.net/images/anime/11/27757l.webp",
+    "https://cdn.myanimelist.net/images/anime/1221/92305l.webp",
+    "https://cdn.myanimelist.net/images/anime/1477/94802l.webp",
+    "https://cdn.myanimelist.net/images/anime/1688/95159l.webp",
+    "https://cdn.myanimelist.net/images/anime/1407/115753l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/la3G4VRIVcryxNmxU1YYTZcy9fL.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/bXjRQacnd04wmU05P5umaycpgOm.png",
   "tmdb_id": "21729",
@@ -75,11 +83,11 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/12/19698l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/13/19663l.webp"
     }
   },
   "broadcast": null,
-  "rank": 108,
+  "rank": 107,
   "popularity": 1204,
   "rating": "r+",
   "simkl_id": 36758,
@@ -95,10 +103,10 @@
   ],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 115527,
+  "num_scoring_users": 115600,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2008-05-24T10:03:49+00:00",
+  "updated_at": "2025-10-17T22:34:58+00:00",
   "source": "original",
   "background": null,
   "related_anime": [
@@ -107,8 +115,8 @@
         "id": 2001,
         "title": "Tengen Toppa Gurren Lagann",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/4/5123.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/4/5123l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/4/5123.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/4/5123l.jpg"
         }
       },
       "relation_type": "alternative_version",
@@ -134,8 +142,8 @@
         "id": 1089,
         "title": "Macross: Do You Remember Love?",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1080/107017.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1080/107017l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1080/107017.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1080/107017l.webp"
         }
       },
       "num_recommendations": 1
@@ -167,8 +175,8 @@
         "id": 5681,
         "title": "Summer Wars",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1593/116751.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1593/116751l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1593/116751.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1593/116751l.jpg"
         }
       },
       "num_recommendations": 1
@@ -189,8 +197,8 @@
         "id": 35848,
         "title": "Promare",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1008/101845.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1008/101845l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1008/101845.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1008/101845l.jpg"
         }
       },
       "num_recommendations": 1
@@ -200,8 +208,8 @@
         "id": 32,
         "title": "Shinseiki Evangelion Movie: Air/Magokoro wo, Kimi ni",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1404/98182.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1404/98182l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1404/98182.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1404/98182l.webp"
         }
       },
       "num_recommendations": 1
@@ -222,8 +230,8 @@
         "id": 38373,
         "title": "Macross Δ Movie 2: Zettai Live!!!",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1687/117888.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1687/117888l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1687/117888.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1687/117888l.webp"
         }
       },
       "num_recommendations": 1
@@ -231,12 +239,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "6755",
-      "completed": "164673",
-      "on_hold": "2137",
+      "watching": "6760",
+      "completed": "164784",
+      "on_hold": "2138",
       "dropped": "1465",
-      "plan_to_watch": "68614"
+      "plan_to_watch": "68635"
     },
-    "num_list_users": 243644
-  }
+    "num_list_users": 243782
+  },
+  "mal_details_updated_at": "2026-11-15T17:20:11.438Z",
+  "translations_updated_at": "2026-11-15T17:24:03.556Z"
 }

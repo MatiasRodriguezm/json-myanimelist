@@ -63,7 +63,12 @@
       "name": "Shuka"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/7/88298l.webp",
+    "https://cdn.myanimelist.net/images/anime/1653/94844l.webp",
+    "https://cdn.myanimelist.net/images/anime/1250/94846l.webp",
+    "https://cdn.myanimelist.net/images/anime/1680/105411l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/ly6x27OmL3Zefm2tbrTIAiBI1q5.jpg",
   "logo_url": null,
   "tmdb_id": "507411",
@@ -80,12 +85,12 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1250/94846l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/7/88298l.webp"
     }
   },
   "broadcast": null,
-  "rank": 218,
-  "popularity": 2726,
+  "rank": 219,
+  "popularity": 2727,
   "rating": "pg_13",
   "simkl_id": 725981,
   "episodes_data": [
@@ -100,10 +105,10 @@
   ],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 31508,
+  "num_scoring_users": 31522,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2017-10-08T06:54:56+00:00",
+  "updated_at": "2024-03-06T11:35:53+00:00",
   "source": "manga",
   "background": null,
   "related_anime": [
@@ -112,8 +117,8 @@
         "id": 34591,
         "title": "Natsume Yuujinchou Roku",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/6/84416.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/6/84416l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/6/84416.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/6/84416l.jpg"
         }
       },
       "relation_type": "prequel",
@@ -160,12 +165,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "3062",
-      "completed": "43032",
-      "on_hold": "951",
-      "dropped": "543",
-      "plan_to_watch": "38188"
+      "watching": "3064",
+      "completed": "43058",
+      "on_hold": "955",
+      "dropped": "544",
+      "plan_to_watch": "38200"
     },
-    "num_list_users": 85776
-  }
+    "num_list_users": 85821
+  },
+  "mal_details_updated_at": "2026-11-15T17:20:22.223Z",
+  "translations_updated_at": "2026-11-15T17:24:05.468Z"
 }

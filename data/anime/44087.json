@@ -30,8 +30,8 @@
   "num_episodes": 2,
   "score": 8.45,
   "mean": 8.45,
-  "numListUsers": 96511,
-  "num_list_users": 96511,
+  "numListUsers": 96512,
+  "num_list_users": 96512,
   "genres": [
     {
       "id": 1,
@@ -68,7 +68,9 @@
       "name": "Bandai Namco Pictures"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1694/110521l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/3gVl0IvJMbhOnAvH9V0Q1Y1HnXE.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/2GFz7E2Z1UWiWqOv2YGIbIaAWrH.png",
   "tmdb_id": "57041",
@@ -89,7 +91,7 @@
     }
   },
   "broadcast": null,
-  "rank": 192,
+  "rank": 194,
   "popularity": 2529,
   "rating": "pg_13",
   "simkl_id": 1493999,
@@ -113,10 +115,10 @@
   ],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 49035,
+  "num_scoring_users": 49065,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2020-11-22T14:10:26+00:00",
+  "updated_at": "2023-01-17T16:27:52+00:00",
   "source": "manga",
   "background": null,
   "related_anime": [
@@ -125,8 +127,8 @@
         "id": 37491,
         "title": "Gintama. Shirogane no Tamashii-hen - Kouhan-sen",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1776/96566.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1776/96566l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1776/96566.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1776/96566l.jpg"
         }
       },
       "relation_type": "prequel",
@@ -137,8 +139,8 @@
         "id": 39486,
         "title": "Gintama: The Final",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1245/116760.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1245/116760l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1245/116760.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1245/116760l.webp"
         }
       },
       "relation_type": "sequel",
@@ -149,12 +151,14 @@
   "recommendations": [],
   "statistics": {
     "status": {
-      "watching": "3326",
-      "completed": "64125",
-      "on_hold": "976",
+      "watching": "3330",
+      "completed": "64177",
+      "on_hold": "977",
       "dropped": "625",
-      "plan_to_watch": "27358"
+      "plan_to_watch": "27363"
     },
-    "num_list_users": 96410
-  }
+    "num_list_users": 96472
+  },
+  "mal_details_updated_at": "2026-11-15T17:21:45.303Z",
+  "translations_updated_at": "2026-11-15T17:24:04.963Z"
 }

@@ -32,8 +32,8 @@
   "num_episodes": 13,
   "score": 6.91,
   "mean": 6.91,
-  "numListUsers": 68109,
-  "num_list_users": 68109,
+  "numListUsers": 68129,
+  "num_list_users": 68129,
   "genres": [
     {
       "id": 4,
@@ -58,7 +58,13 @@
       "name": "ENGI"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1766/125819l.webp",
+    "https://cdn.myanimelist.net/images/anime/1495/145196l.webp",
+    "https://cdn.myanimelist.net/images/anime/1784/151131l.webp",
+    "https://cdn.myanimelist.net/images/anime/1164/156604l.webp",
+    "https://cdn.myanimelist.net/images/anime/1414/160406l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/aqETSDXdeYqcD1PPd2WBfeWtoct.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/xW9w2SwltKRfMHEfbor60RUQabj.png",
   "tmdb_id": "117061",
@@ -75,7 +81,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1414/160406l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1766/125819l.webp"
     }
   },
   "broadcast": {
@@ -86,7 +92,7 @@
     "timezone": "Asia/Tokyo",
     "string": "wednesday 21:30"
   },
-  "rank": 5422,
+  "rank": 5425,
   "popularity": 3130,
   "rating": "pg_13",
   "simkl_id": 1959038,
@@ -94,74 +100,74 @@
     {
       "episode": 1,
       "title": "To See You Once More",
-      "title_es": "Para verte una vez más",
       "aired": "2026-10-07T21:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20834537eb6811fd19_w.webp",
-      "description": "Kimihiko and his friends are kidnapped as they go to visit Siesta`s grave."
+      "description": "Kimihiko and his friends are kidnapped as they go to visit Siesta`s grave.",
+      "title_es": "Para verte una vez más"
     },
     {
       "episode": 2,
       "title": "A Story of That Day That No One Knows",
-      "title_es": "Una historia de ese día que nadie conoce",
       "aired": "2026-10-14T21:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/208777510a7ccb3174_w.webp",
-      "description": "Siesta is gone, but Kimihiko and his friends must uncover a new mystery tied to her legacy."
+      "description": "Siesta is gone, but Kimihiko and his friends must uncover a new mystery tied to her legacy.",
+      "title_es": "Una historia de ese día que nadie conoce"
     },
     {
       "episode": 3,
       "title": "An Easy Way to Support Your Favorite by Being an Idol Producer",
-      "title_es": "Una manera fácil de apoyar a tu favorito siendo un productor ídolo",
       "aired": "2026-10-21T21:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/2092360969aa1789c3_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Una manera fácil de apoyar a tu favorito siendo un productor ídolo"
     },
     {
       "episode": 4,
       "title": "What We, the Living, Can Do",
-      "title_es": "Lo que nosotros, los vivos, podemos hacer",
       "aired": "2026-10-28T21:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20962321c9445daef7_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Lo que nosotros, los vivos, podemos hacer"
     },
     {
       "episode": 5,
       "title": "That Was Their Final Answer",
-      "title_es": "Esa fue su respuesta final",
       "aired": "2026-11-04T21:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/21/21016339d3cb306bfb_w.webp",
-      "description": "Kimizuka battles Charlotte and Fuubi to protect Nagisa."
+      "description": "Kimizuka battles Charlotte and Fuubi to protect Nagisa.",
+      "title_es": "Esa fue su respuesta final"
     },
     {
       "episode": 6,
       "title": "Guardian of the World",
-      "title_es": "Guardián del mundo",
       "aired": "2026-11-11T21:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/21/2105292366db336fcc_w.webp",
-      "description": "Kimizuka and Nagisa travel to look for a clue that Siesta left behind, while Charl and Yui train."
+      "description": "Kimizuka and Nagisa travel to look for a clue that Siesta left behind, while Charl and Yui train.",
+      "title_es": "Guardián del mundo"
     },
     {
       "episode": 7,
       "title": "Episode 7",
-      "title_es": "Episodio 7",
       "aired": "2026-11-18T21:30:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 7"
     },
     {
       "episode": 8,
       "title": "Episode 8",
-      "title_es": "Episodio 8",
       "aired": "2026-11-25T21:30:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 8"
     }
   ],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 2378,
+  "num_scoring_users": 2394,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2022-07-24T06:36:47+00:00",
+  "updated_at": "2026-10-07T19:22:10+00:00",
   "source": "light_novel",
   "background": null,
   "related_anime": [
@@ -182,12 +188,14 @@
   "recommendations": [],
   "statistics": {
     "status": {
-      "watching": "11555",
-      "completed": "4",
-      "on_hold": "469",
-      "dropped": "856",
-      "plan_to_watch": "55205"
+      "watching": "11592",
+      "completed": "2",
+      "on_hold": "471",
+      "dropped": "864",
+      "plan_to_watch": "55200"
     },
-    "num_list_users": 68089
-  }
+    "num_list_users": 68129
+  },
+  "mal_details_updated_at": "2026-11-15T17:13:34.267Z",
+  "translations_updated_at": "2026-11-15T17:24:26.265Z"
 }

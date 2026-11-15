@@ -30,8 +30,8 @@
   "num_episodes": null,
   "score": null,
   "mean": null,
-  "numListUsers": 8376,
-  "num_list_users": 8376,
+  "numListUsers": 8383,
+  "num_list_users": 8383,
   "genres": [
     {
       "id": 4,
@@ -56,11 +56,15 @@
       "name": "Studio Deen"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1957/158419l.webp",
+    "https://cdn.myanimelist.net/images/anime/1980/160143l.webp",
+    "https://cdn.myanimelist.net/images/anime/1896/160144l.webp"
+  ],
   "backdrop_url": null,
   "logo_url": "https://image.tmdb.org/t/p/w300/aacSaRnvnP5FGKi3i4xXRjN61Kv.png",
   "tmdb_id": "325101",
-  "tmdb_updated_at": "2026-11-15T13:05:19.188Z",
+  "tmdb_updated_at": "2026-11-15T17:17:08.083Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1896/160144.webp",
@@ -73,30 +77,30 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1896/160144l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1957/158419l.webp"
     }
   },
   "broadcast": null,
   "rank": null,
-  "popularity": 8026,
+  "popularity": 8021,
   "rating": null,
   "simkl_id": 3147900,
   "episodes_data": [
     {
       "episode": 1,
       "title": "Episode 1",
-      "title_es": "Episodio 1",
       "aired": "2027-01-01T00:00:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 1"
     }
   ],
   "specials_data": [],
   "characters": [],
   "num_scoring_users": null,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2026-06-09T02:16:40+00:00",
+  "updated_at": "2026-11-12T21:20:45+00:00",
   "source": "manga",
   "background": null,
   "related_anime": [],
@@ -104,12 +108,14 @@
   "recommendations": [],
   "statistics": {
     "status": {
-      "watching": "1",
+      "watching": 0,
       "completed": 0,
-      "on_hold": 0,
+      "on_hold": "1",
       "dropped": 0,
-      "plan_to_watch": "8357"
+      "plan_to_watch": "8382"
     },
-    "num_list_users": 8358
-  }
+    "num_list_users": 8383
+  },
+  "mal_details_updated_at": "2026-11-15T17:17:07.701Z",
+  "translations_updated_at": "2026-11-15T17:25:02.294Z"
 }

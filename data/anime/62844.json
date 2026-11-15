@@ -30,8 +30,8 @@
   "num_episodes": 1,
   "score": null,
   "mean": null,
-  "numListUsers": 70140,
-  "num_list_users": 70140,
+  "numListUsers": 70147,
+  "num_list_users": 70147,
   "genres": [
     {
       "id": 8,
@@ -56,7 +56,11 @@
       "name": "TOHO animation STUDIO"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1059/152815l.webp",
+    "https://cdn.myanimelist.net/images/anime/1656/158840l.webp",
+    "https://cdn.myanimelist.net/images/anime/1751/160650l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/yOUg48i59CeX4Qd20ItYi8lTAW2.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/f4gQGrMijpV6oEKL3xnJ5IXDOI5.png",
   "tmdb_id": "1566920",
@@ -73,7 +77,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1751/160650l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1059/152815l.webp"
     }
   },
   "broadcast": null,
@@ -85,18 +89,18 @@
     {
       "episode": 1,
       "title": "Complete Movie",
-      "title_es": "Película completa",
       "aired": "2026-12-11T00:00:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Película completa"
     }
   ],
   "specials_data": [],
   "characters": [],
   "num_scoring_users": null,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2025-10-22T15:22:43+00:00",
+  "updated_at": "2026-08-16T15:25:22+00:00",
   "source": "light_novel",
   "background": null,
   "related_anime": [
@@ -117,12 +121,14 @@
   "recommendations": [],
   "statistics": {
     "status": {
-      "watching": "13",
-      "completed": "1",
-      "on_hold": "8",
+      "watching": "3",
+      "completed": 0,
+      "on_hold": "3",
       "dropped": 0,
-      "plan_to_watch": "70095"
+      "plan_to_watch": "70141"
     },
-    "num_list_users": 70117
-  }
+    "num_list_users": 70147
+  },
+  "mal_details_updated_at": "2026-11-15T17:15:04.515Z",
+  "translations_updated_at": "2026-11-15T17:24:46.718Z"
 }

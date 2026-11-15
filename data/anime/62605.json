@@ -32,8 +32,8 @@
   "num_episodes": 13,
   "score": null,
   "mean": null,
-  "numListUsers": 6405,
-  "num_list_users": 6405,
+  "numListUsers": 6412,
+  "num_list_users": 6412,
   "genres": [
     {
       "id": 8,
@@ -62,7 +62,9 @@
       "name": "Maho Film"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1327/155810l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/jzClrwXum9MbdHPnherNQ8FaCzV.jpg",
   "logo_url": null,
   "tmdb_id": "324599",
@@ -84,7 +86,7 @@
   },
   "broadcast": null,
   "rank": null,
-  "popularity": 8933,
+  "popularity": 8922,
   "rating": null,
   "simkl_id": 2892678,
   "episodes_data": [],
@@ -92,8 +94,8 @@
   "characters": [],
   "num_scoring_users": null,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2025-10-01T03:06:59+00:00",
+  "updated_at": "2026-05-03T22:08:22+00:00",
   "source": "light_novel",
   "background": null,
   "related_anime": [],
@@ -101,12 +103,14 @@
   "recommendations": [],
   "statistics": {
     "status": {
-      "watching": "1",
+      "watching": 0,
       "completed": 0,
       "on_hold": "1",
       "dropped": 0,
-      "plan_to_watch": "6384"
+      "plan_to_watch": "6411"
     },
-    "num_list_users": 6386
-  }
+    "num_list_users": 6412
+  },
+  "mal_details_updated_at": "2026-11-15T17:17:39.679Z",
+  "translations_updated_at": "2026-11-15T17:24:44.575Z"
 }

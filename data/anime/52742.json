@@ -32,8 +32,8 @@
   "num_episodes": 1,
   "score": 8.62,
   "mean": 8.62,
-  "numListUsers": 245985,
-  "num_list_users": 245985,
+  "numListUsers": 246007,
+  "num_list_users": 246007,
   "genres": [
     {
       "id": 23,
@@ -58,7 +58,12 @@
       "name": "Production I.G"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1480/126965l.webp",
+    "https://cdn.myanimelist.net/images/anime/1911/138691l.webp",
+    "https://cdn.myanimelist.net/images/anime/1665/140360l.webp",
+    "https://cdn.myanimelist.net/images/anime/1925/142361l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/zr1MDQCPVB5uJEHxiO6Tukn4OjH.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/p5FxSYg0sOqnOQqfT8LLFxDyfI6.png",
   "tmdb_id": "60863",
@@ -75,12 +80,12 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1665/140360l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1480/126965l.webp"
     }
   },
   "broadcast": null,
   "rank": 104,
-  "popularity": 1197,
+  "popularity": 1192,
   "rating": "pg_13",
   "simkl_id": 1973554,
   "episodes_data": [
@@ -112,10 +117,10 @@
     }
   ],
   "characters": [],
-  "num_scoring_users": 119621,
+  "num_scoring_users": 119905,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2022-08-13T09:10:00+00:00",
+  "updated_at": "2025-03-02T13:33:03+00:00",
   "source": "manga",
   "background": null,
   "related_anime": [
@@ -124,8 +129,8 @@
         "id": 40776,
         "title": "Haikyuu!! To the Top Part 2",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1453/106768.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1453/106768l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1453/106768.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1453/106768l.webp"
         }
       },
       "relation_type": "prequel",
@@ -161,11 +166,13 @@
   "statistics": {
     "status": {
       "watching": "7026",
-      "completed": "158719",
-      "on_hold": "1397",
-      "dropped": "463",
-      "plan_to_watch": "77868"
+      "completed": "159167",
+      "on_hold": "1399",
+      "dropped": "464",
+      "plan_to_watch": "77871"
     },
-    "num_list_users": 245473
-  }
+    "num_list_users": 245927
+  },
+  "mal_details_updated_at": "2026-11-15T17:20:11.080Z",
+  "translations_updated_at": "2026-11-15T17:24:03.455Z"
 }

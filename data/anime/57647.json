@@ -56,7 +56,10 @@
       "name": "CygamesPictures"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1665/140628l.webp",
+    "https://cdn.myanimelist.net/images/anime/1427/142210l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/dXI7HXKQ1xeVUAaWMT67onX7XXJ.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/rCZKddqlYRnc5TJx8Eg8NaBJCWh.png",
   "tmdb_id": "1223178",
@@ -73,12 +76,12 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1427/142210l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1665/140628l.webp"
     }
   },
   "broadcast": null,
   "rank": 102,
-  "popularity": 3106,
+  "popularity": 3107,
   "rating": "pg_13",
   "simkl_id": 2333110,
   "episodes_data": [
@@ -93,10 +96,10 @@
   ],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 42758,
+  "num_scoring_users": 42896,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2023-12-27T15:41:49+00:00",
+  "updated_at": "2026-09-18T22:34:31+00:00",
   "source": "game",
   "background": null,
   "related_anime": [
@@ -129,12 +132,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "2574",
-      "completed": "51282",
-      "on_hold": "485",
-      "dropped": "305",
-      "plan_to_watch": "14031"
+      "watching": "2580",
+      "completed": "51437",
+      "on_hold": "484",
+      "dropped": "309",
+      "plan_to_watch": "14065"
     },
-    "num_list_users": 68677
-  }
+    "num_list_users": 68875
+  },
+  "mal_details_updated_at": "2026-11-15T17:20:10.712Z",
+  "translations_updated_at": "2026-11-15T17:24:03.355Z"
 }

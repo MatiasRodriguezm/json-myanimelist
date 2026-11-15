@@ -28,10 +28,10 @@
   },
   "episodes": 12,
   "num_episodes": 12,
-  "score": 5.59,
-  "mean": 5.59,
-  "numListUsers": 7938,
-  "num_list_users": 7938,
+  "score": 5.58,
+  "mean": 5.58,
+  "numListUsers": 7951,
+  "num_list_users": 7951,
   "genres": [
     {
       "id": 14,
@@ -56,7 +56,10 @@
       "name": "Studio Palette"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1494/153994l.webp",
+    "https://cdn.myanimelist.net/images/anime/1751/160122l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/9SR35fCLp6VmuPPxRjfPQLucyU5.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/9E27D5LzvBvI1onM1iWSKABR4na.png",
   "tmdb_id": "307903",
@@ -73,7 +76,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1751/160122l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1494/153994l.webp"
     }
   },
   "broadcast": {
@@ -84,82 +87,82 @@
     "timezone": "Asia/Tokyo",
     "string": "saturday 23:45"
   },
-  "rank": 13144,
-  "popularity": 8194,
+  "rank": 13186,
+  "popularity": 8183,
   "rating": "pg_13",
   "simkl_id": 2957216,
   "episodes_data": [
     {
       "episode": 1,
       "title": "The Red Notebook",
-      "title_es": "El cuaderno rojo",
       "aired": "2026-10-10T23:45:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20859135c480a51001_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "El cuaderno rojo"
     },
     {
       "episode": 2,
       "title": "The Shadow Enveloping the City",
-      "title_es": "La sombra que envuelve la ciudad",
       "aired": "2026-10-17T23:45:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20897595e0488dbdf3_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "La sombra que envuelve la ciudad"
     },
     {
       "episode": 3,
       "title": "Episode 3",
-      "title_es": "Episodio 3",
       "aired": "2026-10-24T23:45:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20948713e765d6d6d8_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Episodio 3"
     },
     {
       "episode": 4,
       "title": "Episode 4",
-      "title_es": "Episodio 4",
       "aired": "2026-10-31T23:45:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20996893260073cb8a_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Episodio 4"
     },
     {
       "episode": 5,
       "title": "Episode 5",
-      "title_es": "Episodio 5",
       "aired": "2026-11-07T23:45:00+09:00",
       "thumbnail": "https://simkl.in/episodes/21/210405158e9a3f5834_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Episodio 5"
     },
     {
       "episode": 6,
       "title": "Episode 6",
-      "title_es": "Episodio 6",
       "aired": "2026-11-14T23:45:00+09:00",
       "thumbnail": "https://simkl.in/episodes/21/210835099367fed80c_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Episodio 6"
     },
     {
       "episode": 7,
       "title": "Episode 7",
-      "title_es": "Episodio 7",
       "aired": "2026-11-21T23:45:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 7"
     },
     {
       "episode": 8,
       "title": "Episode 8",
-      "title_es": "Episodio 8",
       "aired": "2026-11-28T23:45:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 8"
     }
   ],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 997,
+  "num_scoring_users": 1008,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2025-12-05T09:22:40+00:00",
+  "updated_at": "2026-10-10T20:19:47+00:00",
   "source": "novel",
   "background": null,
   "related_anime": [],
@@ -179,12 +182,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "3288",
-      "completed": "1",
-      "on_hold": "141",
-      "dropped": "892",
-      "plan_to_watch": "3588"
+      "watching": "3302",
+      "completed": 0,
+      "on_hold": "146",
+      "dropped": "905",
+      "plan_to_watch": "3601"
     },
-    "num_list_users": 7910
-  }
+    "num_list_users": 7954
+  },
+  "mal_details_updated_at": "2026-11-15T17:15:01.539Z",
+  "translations_updated_at": "2026-11-15T17:24:49.319Z"
 }

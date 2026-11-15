@@ -68,11 +68,15 @@
       "name": "Sunrise"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/3/7803l.webp",
+    "https://cdn.myanimelist.net/images/anime/4/8522l.webp",
+    "https://cdn.myanimelist.net/images/anime/1897/139500l.webp"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T13:06:06.087Z",
+  "tmdb_updated_at": "2026-11-15T17:21:59.788Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1897/139500.webp",
@@ -85,12 +89,12 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1897/139500l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/3/7803l.webp"
     }
   },
   "broadcast": null,
   "rank": 658,
-  "popularity": 3305,
+  "popularity": 3309,
   "rating": "pg_13",
   "simkl_id": 37474,
   "episodes_data": [
@@ -1762,10 +1766,10 @@
     }
   ],
   "characters": [],
-  "num_scoring_users": 32042,
+  "num_scoring_users": 32045,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2007-08-09T12:10:59+00:00",
+  "updated_at": "2026-08-16T15:29:37+00:00",
   "source": "manga",
   "background": "Gintama: Nanigoto mo Saiyo ga Kanjin nano de Tasho Senobisuru Kurai ga Choudoyoi was featured at the 2005 Jump Festa Anime Tour.",
   "related_anime": [
@@ -1786,12 +1790,14 @@
   "recommendations": [],
   "statistics": {
     "status": {
-      "watching": "1211",
-      "completed": "47024",
+      "watching": "1209",
+      "completed": "47033",
       "on_hold": "547",
-      "dropped": "493",
-      "plan_to_watch": "12506"
+      "dropped": "494",
+      "plan_to_watch": "12511"
     },
-    "num_list_users": 61781
-  }
+    "num_list_users": 61794
+  },
+  "mal_details_updated_at": "2026-11-15T17:21:59.602Z",
+  "translations_updated_at": "2026-11-15T17:24:20.561Z"
 }

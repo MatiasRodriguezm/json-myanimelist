@@ -35,8 +35,8 @@
   "num_episodes": 10,
   "score": 8.08,
   "mean": 8.08,
-  "numListUsers": 41432,
-  "num_list_users": 41432,
+  "numListUsers": 41433,
+  "num_list_users": 41433,
   "genres": [
     {
       "id": 1,
@@ -65,7 +65,14 @@
       "name": "Studio Pierrot"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/4/36037l.webp",
+    "https://cdn.myanimelist.net/images/anime/8/36039l.webp",
+    "https://cdn.myanimelist.net/images/anime/2/43779l.webp",
+    "https://cdn.myanimelist.net/images/anime/1042/110294l.webp",
+    "https://cdn.myanimelist.net/images/anime/1744/125725l.webp",
+    "https://cdn.myanimelist.net/images/anime/1109/160310l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/dQkKZr3EAlV10kwV0bkCcMTvCtT.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/2ShEAoJhF4kSBY4OV5ruqCrEApF.png",
   "tmdb_id": "66041",
@@ -82,12 +89,12 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1042/110294l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/4/36037l.webp"
     }
   },
   "broadcast": null,
-  "rank": 644,
-  "popularity": 4138,
+  "rank": 645,
+  "popularity": 4139,
   "rating": "r",
   "simkl_id": 38356,
   "episodes_data": [
@@ -174,10 +181,10 @@
   ],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 13176,
+  "num_scoring_users": 13180,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2006-04-08T01:40:52+00:00",
+  "updated_at": "2025-02-12T14:44:01+00:00",
   "source": "manga",
   "background": null,
   "related_anime": [],
@@ -210,8 +217,8 @@
         "id": 245,
         "title": "Great Teacher Onizuka",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/13/11460.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/13/11460l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/13/11460.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/13/11460l.jpg"
         }
       },
       "num_recommendations": 4
@@ -221,8 +228,8 @@
         "id": 170,
         "title": "Slam Dunk",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/12/86890.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/12/86890l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/12/86890.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/12/86890l.jpg"
         }
       },
       "num_recommendations": 4
@@ -243,8 +250,8 @@
         "id": 9645,
         "title": "Be-Bop Highschool",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1667/98768.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1667/98768l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1667/98768.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1667/98768l.jpg"
         }
       },
       "num_recommendations": 3
@@ -296,12 +303,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "3045",
-      "completed": "15524",
+      "watching": "3050",
+      "completed": "15534",
       "on_hold": "1575",
-      "dropped": "1066",
-      "plan_to_watch": "20172"
+      "dropped": "1067",
+      "plan_to_watch": "20186"
     },
-    "num_list_users": 41382
-  }
+    "num_list_users": 41412
+  },
+  "mal_details_updated_at": "2026-11-15T17:21:32.692Z",
+  "translations_updated_at": "2026-11-15T17:25:13.674Z"
 }

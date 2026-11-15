@@ -39,8 +39,8 @@
   "num_episodes": 4,
   "score": 8,
   "mean": 8,
-  "numListUsers": 171474,
-  "num_list_users": 171474,
+  "numListUsers": 171475,
+  "num_list_users": 171475,
   "genres": [
     {
       "id": 1,
@@ -73,11 +73,15 @@
       "name": "Bones"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/9/19338l.webp",
+    "https://cdn.myanimelist.net/images/anime/11/24483l.webp",
+    "https://cdn.myanimelist.net/images/anime/1493/91571l.webp"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T13:06:06.659Z",
+  "tmdb_updated_at": "2026-11-15T17:22:01.568Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1493/91571.webp",
@@ -90,12 +94,12 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1493/91571l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/9/19338l.webp"
     }
   },
   "broadcast": null,
   "rank": 768,
-  "popularity": 1643,
+  "popularity": 1644,
   "rating": "pg_13",
   "simkl_id": 41586,
   "episodes_data": [
@@ -791,10 +795,10 @@
     }
   ],
   "characters": [],
-  "num_scoring_users": 80197,
+  "num_scoring_users": 80220,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2009-04-28T11:20:26+00:00",
+  "updated_at": "2025-08-11T22:02:57+00:00",
   "source": "manga",
   "background": "Fullmetal Alchemist: Brotherhood Specials was released on Blu-ray in North America as Fullmetal Alchemist: Brotherhood OVA Collection by Aniplex of America on November 20, 2018.",
   "related_anime": [
@@ -815,12 +819,14 @@
   "recommendations": [],
   "statistics": {
     "status": {
-      "watching": "5513",
-      "completed": "122570",
+      "watching": "5517",
+      "completed": "122618",
       "on_hold": "2840",
       "dropped": "1250",
-      "plan_to_watch": "39210"
+      "plan_to_watch": "39206"
     },
-    "num_list_users": 171383
-  }
+    "num_list_users": 171431
+  },
+  "mal_details_updated_at": "2026-11-15T17:22:01.334Z",
+  "translations_updated_at": "2026-11-15T17:25:00.859Z"
 }

@@ -30,8 +30,8 @@
   "num_episodes": null,
   "score": null,
   "mean": null,
-  "numListUsers": 6899,
-  "num_list_users": 6899,
+  "numListUsers": 6906,
+  "num_list_users": 6906,
   "genres": [
     {
       "id": 8,
@@ -56,7 +56,12 @@
       "name": "Live2D Creative Studio"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1600/152034l.webp",
+    "https://cdn.myanimelist.net/images/anime/1157/156595l.webp",
+    "https://cdn.myanimelist.net/images/anime/1832/161056l.webp",
+    "https://cdn.myanimelist.net/images/anime/1005/161057l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/9ICPxPLDJFpnSAtUrzl2OIVlct.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/jUlj6x0yuOufCv1TKA3o6CD49lM.png",
   "tmdb_id": "300700",
@@ -73,7 +78,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1832/161056l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1600/152034l.webp"
     }
   },
   "broadcast": {
@@ -85,25 +90,25 @@
     "string": "sunday 23:30"
   },
   "rank": null,
-  "popularity": 8683,
+  "popularity": 8668,
   "rating": null,
   "simkl_id": 2881894,
   "episodes_data": [
     {
       "episode": 1,
       "title": "Episode 1",
-      "title_es": "Episodio 1",
       "aired": "2027-01-01T23:30:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 1"
     }
   ],
   "specials_data": [],
   "characters": [],
   "num_scoring_users": null,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2025-09-13T08:30:15+00:00",
+  "updated_at": "2026-09-21T17:41:01+00:00",
   "source": "original",
   "background": "Kaze wo Tsugumono aired on CBC and TBS' Agaru Anime block.",
   "related_anime": [],
@@ -111,12 +116,14 @@
   "recommendations": [],
   "statistics": {
     "status": {
-      "watching": "1",
+      "watching": 0,
       "completed": 0,
       "on_hold": 0,
       "dropped": 0,
-      "plan_to_watch": "6881"
+      "plan_to_watch": "6899"
     },
-    "num_list_users": 6882
-  }
+    "num_list_users": 6899
+  },
+  "mal_details_updated_at": "2026-11-15T17:17:37.779Z",
+  "translations_updated_at": "2026-11-15T17:24:42.619Z"
 }

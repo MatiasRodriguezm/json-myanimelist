@@ -32,8 +32,8 @@
   "num_episodes": 4,
   "score": 7.91,
   "mean": 7.91,
-  "numListUsers": 597451,
-  "num_list_users": 597451,
+  "numListUsers": 597460,
+  "num_list_users": 597460,
   "genres": [
     {
       "id": 9,
@@ -58,7 +58,10 @@
       "name": "Shaft"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/9/59247l.webp",
+    "https://cdn.myanimelist.net/images/anime/1170/121597l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/cHII6sQ91q8H5EMONKCwCQMauCP.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/1PloWpJba8A3I0x8Ry92IGYromk.png",
   "tmdb_id": "46195",
@@ -75,7 +78,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1170/121597l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/9/59247l.webp"
     }
   },
   "broadcast": null,
@@ -152,10 +155,10 @@
     }
   ],
   "characters": [],
-  "num_scoring_users": 362130,
+  "num_scoring_users": 362235,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2012-09-27T18:28:12+00:00",
+  "updated_at": "2024-12-17T22:59:18+00:00",
   "source": "light_novel",
   "background": "Nekomonogatari: Kuro adapts the sixth and final volume of NisiOisiN's Monogatari Series: First Season.",
   "related_anime": [
@@ -176,8 +179,8 @@
         "id": 31758,
         "title": "Kizumonogatari III: Reiketsu-hen",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1084/112813.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1084/112813l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1084/112813.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1084/112813l.webp"
         }
       },
       "relation_type": "prequel",
@@ -226,8 +229,8 @@
         "id": 15225,
         "title": "Hentai Ouji to Warawanai Neko.",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/3/75788.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/3/75788l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/3/75788.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/3/75788l.jpg"
         }
       },
       "num_recommendations": 1
@@ -237,8 +240,8 @@
         "id": 21603,
         "title": "Mekakucity Actors",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/11/61519.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/11/61519l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/11/61519.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/11/61519l.jpg"
         }
       },
       "num_recommendations": 1
@@ -259,8 +262,8 @@
         "id": 37451,
         "title": "Boogiepop wa Warawanai (2019)",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1135/95454.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1135/95454l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1135/95454.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1135/95454l.webp"
         }
       },
       "num_recommendations": 1
@@ -268,12 +271,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "13851",
-      "completed": "470751",
+      "watching": "13861",
+      "completed": "470886",
       "on_hold": "5038",
-      "dropped": "2966",
-      "plan_to_watch": "104557"
+      "dropped": "2970",
+      "plan_to_watch": "104589"
     },
-    "num_list_users": 597163
-  }
+    "num_list_users": 597344
+  },
+  "mal_details_updated_at": "2026-11-15T17:22:05.621Z",
+  "translations_updated_at": "2026-11-15T17:23:58.165Z"
 }

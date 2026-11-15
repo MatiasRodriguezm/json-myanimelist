@@ -62,11 +62,15 @@
       "name": "TMS Entertainment"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/8/80071l.webp",
+    "https://cdn.myanimelist.net/images/anime/13/83410l.webp",
+    "https://cdn.myanimelist.net/images/anime/1542/148441l.webp"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T13:06:01.096Z",
+  "tmdb_updated_at": "2026-11-15T17:21:26.945Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1542/148441.webp",
@@ -79,12 +83,12 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1542/148441l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/8/80071l.webp"
     }
   },
   "broadcast": null,
-  "rank": 510,
-  "popularity": 2937,
+  "rank": 511,
+  "popularity": 2936,
   "rating": "pg_13",
   "simkl_id": 43094,
   "episodes_data": [
@@ -139,10 +143,10 @@
   ],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 37863,
+  "num_scoring_users": 37886,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2016-05-20T14:14:42+00:00",
+  "updated_at": "2025-06-12T00:07:07+00:00",
   "source": "manga",
   "background": null,
   "related_anime": [
@@ -151,8 +155,8 @@
         "id": 30709,
         "title": "Kamisama Hajimemashita: Kako-hen",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/3/81250.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/3/81250l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/3/81250.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/3/81250l.jpg"
         }
       },
       "relation_type": "prequel",
@@ -163,12 +167,14 @@
   "recommendations": [],
   "statistics": {
     "status": {
-      "watching": "1849",
-      "completed": "58555",
+      "watching": "1851",
+      "completed": "58593",
       "on_hold": "557",
-      "dropped": "404",
-      "plan_to_watch": "14238"
+      "dropped": "403",
+      "plan_to_watch": "14248"
     },
-    "num_list_users": 75603
-  }
+    "num_list_users": 75652
+  },
+  "mal_details_updated_at": "2026-11-15T17:21:26.648Z",
+  "translations_updated_at": "2026-11-15T17:24:22.505Z"
 }

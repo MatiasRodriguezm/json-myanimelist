@@ -33,8 +33,8 @@
   "num_episodes": 25,
   "score": 8.92,
   "mean": 8.92,
-  "numListUsers": 1995073,
-  "num_list_users": 1995073,
+  "numListUsers": 1995110,
+  "num_list_users": 1995110,
   "genres": [
     {
       "id": 46,
@@ -67,7 +67,23 @@
       "name": "Sunrise"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/5/6629l.webp",
+    "https://cdn.myanimelist.net/images/anime/8/7357l.webp",
+    "https://cdn.myanimelist.net/images/anime/3/8698l.webp",
+    "https://cdn.myanimelist.net/images/anime/11/9643l.webp",
+    "https://cdn.myanimelist.net/images/anime/7/18794l.webp",
+    "https://cdn.myanimelist.net/images/anime/6/19745l.webp",
+    "https://cdn.myanimelist.net/images/anime/10/50329l.webp",
+    "https://cdn.myanimelist.net/images/anime/1932/91140l.webp",
+    "https://cdn.myanimelist.net/images/anime/1824/96887l.webp",
+    "https://cdn.myanimelist.net/images/anime/1411/109815l.webp",
+    "https://cdn.myanimelist.net/images/anime/1736/109854l.webp",
+    "https://cdn.myanimelist.net/images/anime/1019/109855l.webp",
+    "https://cdn.myanimelist.net/images/anime/1479/109856l.webp",
+    "https://cdn.myanimelist.net/images/anime/1819/109857l.webp",
+    "https://cdn.myanimelist.net/images/anime/1088/135089l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/ez2DKt7E1PI06OoXwQS5pvl840B.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/q1AHD0oorRWXmlyZ1njjVBZJQ8.png",
   "tmdb_id": "31724",
@@ -84,7 +100,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1088/135089l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/5/6629l.webp"
     }
   },
   "broadcast": {
@@ -95,7 +111,7 @@
     "timezone": "Asia/Tokyo",
     "string": "sunday 17:00"
   },
-  "rank": 22,
+  "rank": 21,
   "popularity": 50,
   "rating": "r",
   "simkl_id": 41541,
@@ -512,10 +528,10 @@
     }
   ],
   "characters": [],
-  "num_scoring_users": 1322886,
+  "num_scoring_users": 1323498,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2007-08-02T15:35:02+00:00",
+  "updated_at": "2025-10-17T23:38:18+00:00",
   "source": "original",
   "background": "Code Geass: Hangyaku no Lelouch R2 is an original anime series by Sunrise animation studio with original character designs by the all-female Japanese manga artist group CLAMP. Manga and light novels based off the show have been published by Kadokawa Shoten. The show has sold millions of DVDs and Blu-ray volumes and is extremely popular in both Japan and North America. The show is known for its multi-genre appeal and for its diverse cast of characters who face many moral dilemmas over the course of the series.\n\nThe series won: \"The Best TV Animation\" award at the thirteenth Animation Kobe event in 2008, and \"The Most Popular Anime\" award at the Animage 's 30th Annual Anime Grand Prix.",
   "related_anime": [
@@ -524,8 +540,8 @@
         "id": 1575,
         "title": "Code Geass: Hangyaku no Lelouch",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1032/135088.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1032/135088l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1032/135088.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1032/135088l.webp"
         }
       },
       "relation_type": "prequel",
@@ -536,8 +552,8 @@
         "id": 5163,
         "title": "Code Geass: Hangyaku no Lelouch R2 Picture Drama",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/11/14894.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/11/14894l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/11/14894.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/11/14894l.jpg"
         }
       },
       "relation_type": "side_story",
@@ -596,8 +612,8 @@
         "id": 34439,
         "title": "Code Geass: Hangyaku no Lelouch II - Handou",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/13/89275.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/13/89275l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/13/89275.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/13/89275l.webp"
         }
       },
       "relation_type": "alternative_version",
@@ -623,8 +639,8 @@
         "id": 1535,
         "title": "Death Note",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1079/138100.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1079/138100l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1079/138100.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1079/138100l.webp"
         }
       },
       "num_recommendations": 54
@@ -634,8 +650,8 @@
         "id": 10793,
         "title": "Guilty Crown",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1566/133912.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1566/133912l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1566/133912.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1566/133912l.jpg"
         }
       },
       "num_recommendations": 10
@@ -645,8 +661,8 @@
         "id": 1,
         "title": "Cowboy Bebop",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/4/19644.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/4/19644l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/4/19644.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/4/19644l.webp"
         }
       },
       "num_recommendations": 4
@@ -667,8 +683,8 @@
         "id": 2001,
         "title": "Tengen Toppa Gurren Lagann",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/4/5123.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/4/5123l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/4/5123.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/4/5123l.jpg"
         }
       },
       "num_recommendations": 4
@@ -678,8 +694,8 @@
         "id": 9253,
         "title": "Steins;Gate",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1935/127974.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1935/127974l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1935/127974.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1935/127974l.jpg"
         }
       },
       "num_recommendations": 4
@@ -711,8 +727,8 @@
         "id": 2581,
         "title": "Kidou Senshi Gundam 00",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/3/13200.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/3/13200l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/3/13200.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/3/13200l.webp"
         }
       },
       "num_recommendations": 3
@@ -722,8 +738,8 @@
         "id": 156,
         "title": "X",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/8/17167.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/8/17167l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/8/17167.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/8/17167l.jpg"
         }
       },
       "num_recommendations": 3
@@ -731,12 +747,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "69226",
-      "completed": "1647106",
-      "on_hold": "28126",
-      "dropped": "20335",
-      "plan_to_watch": "229137"
+      "watching": "69266",
+      "completed": "1647904",
+      "on_hold": "28136",
+      "dropped": "20349",
+      "plan_to_watch": "229247"
     },
-    "num_list_users": 1993930
-  }
+    "num_list_users": 1994902
+  },
+  "mal_details_updated_at": "2026-11-15T17:13:04.836Z",
+  "translations_updated_at": "2026-11-15T17:23:49.825Z"
 }

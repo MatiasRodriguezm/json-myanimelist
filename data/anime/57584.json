@@ -29,8 +29,8 @@
   "num_episodes": 1,
   "score": null,
   "mean": null,
-  "numListUsers": 126380,
-  "num_list_users": 126380,
+  "numListUsers": 126391,
+  "num_list_users": 126391,
   "genres": [
     {
       "id": 1,
@@ -59,11 +59,14 @@
       "name": "Nexus"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1570/140518l.webp",
+    "https://cdn.myanimelist.net/images/anime/1797/156362l.webp"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T13:05:37.688Z",
+  "tmdb_updated_at": "2026-11-15T17:18:25.433Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1797/156362.webp",
@@ -76,7 +79,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1797/156362l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1570/140518l.webp"
     }
   },
   "broadcast": null,
@@ -87,10 +90,10 @@
   "episodes_data": [],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 2,
+  "num_scoring_users": 1,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2023-12-20T15:42:15+00:00",
+  "updated_at": "2026-03-29T01:56:22+00:00",
   "source": "light_novel",
   "background": null,
   "related_anime": [
@@ -111,12 +114,14 @@
   "recommendations": [],
   "statistics": {
     "status": {
-      "watching": "10",
-      "completed": "1",
-      "on_hold": "7",
+      "watching": "8",
+      "completed": 0,
+      "on_hold": "3",
       "dropped": "1",
-      "plan_to_watch": "126332"
+      "plan_to_watch": "126379"
     },
-    "num_list_users": 126351
-  }
+    "num_list_users": 126391
+  },
+  "mal_details_updated_at": "2026-11-15T17:18:25.000Z",
+  "translations_updated_at": "2026-11-15T17:24:29.488Z"
 }

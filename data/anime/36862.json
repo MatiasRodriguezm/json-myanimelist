@@ -32,8 +32,8 @@
   "num_episodes": 1,
   "score": 8.6,
   "mean": 8.6,
-  "numListUsers": 552238,
-  "num_list_users": 552238,
+  "numListUsers": 552255,
+  "num_list_users": 552255,
   "genres": [
     {
       "id": 2,
@@ -66,7 +66,18 @@
       "name": "Kinema Citrus"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/7/89180l.webp",
+    "https://cdn.myanimelist.net/images/anime/1022/91393l.webp",
+    "https://cdn.myanimelist.net/images/anime/1811/98157l.webp",
+    "https://cdn.myanimelist.net/images/anime/1431/99957l.webp",
+    "https://cdn.myanimelist.net/images/anime/1413/101908l.webp",
+    "https://cdn.myanimelist.net/images/anime/1336/101909l.webp",
+    "https://cdn.myanimelist.net/images/anime/1175/101926l.webp",
+    "https://cdn.myanimelist.net/images/anime/1502/110723l.webp",
+    "https://cdn.myanimelist.net/images/anime/1803/117183l.webp",
+    "https://cdn.myanimelist.net/images/anime/1236/136182l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/tQprwIKzFx83JpM5dVrGRC4UpF.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/w3Jm3IBBsu3dzhQiZqf5oLI4XWC.png",
   "tmdb_id": "573730",
@@ -83,7 +94,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1803/117183l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/7/89180l.webp"
     }
   },
   "broadcast": null,
@@ -136,10 +147,10 @@
     }
   ],
   "characters": [],
-  "num_scoring_users": 313952,
+  "num_scoring_users": 314184,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2017-11-26T07:38:22+00:00",
+  "updated_at": "2025-09-27T03:01:56+00:00",
   "source": "web_manga",
   "background": "The film was originally released on January 17, 2020 by Kadokawa in Japanese theaters, followed by an American release by Sentai Filmworks on August 14, 2020.",
   "related_anime": [
@@ -208,12 +219,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "11069",
-      "completed": "402012",
-      "on_hold": "2442",
-      "dropped": "1167",
-      "plan_to_watch": "135115"
+      "watching": "11078",
+      "completed": "402333",
+      "on_hold": "2445",
+      "dropped": "1168",
+      "plan_to_watch": "135136"
     },
-    "num_list_users": 551805
-  }
+    "num_list_users": 552160
+  },
+  "mal_details_updated_at": "2026-11-15T17:20:12.154Z",
+  "translations_updated_at": "2026-11-15T17:23:58.680Z"
 }

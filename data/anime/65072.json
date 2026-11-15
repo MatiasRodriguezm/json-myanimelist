@@ -32,8 +32,8 @@
   "num_episodes": 6,
   "score": null,
   "mean": null,
-  "numListUsers": 507,
-  "num_list_users": 507,
+  "numListUsers": 508,
+  "num_list_users": 508,
   "genres": [
     {
       "id": 4,
@@ -50,11 +50,13 @@
       "name": "HMCH"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1471/160260l.webp"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T13:04:41.993Z",
+  "tmdb_updated_at": "2026-11-15T17:15:29.568Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1471/160260.webp",
@@ -71,26 +73,26 @@
     }
   },
   "broadcast": null,
-  "rank": 18854,
-  "popularity": 19058,
+  "rank": 18855,
+  "popularity": 19033,
   "rating": "pg_13",
   "simkl_id": 3312094,
   "episodes_data": [
     {
       "episode": 1,
       "title": "Episode 1",
-      "title_es": "Episodio 1",
       "aired": "2026-10-30T00:00:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 1"
     }
   ],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 16,
+  "num_scoring_users": 18,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2026-09-25T15:23:06+00:00",
+  "updated_at": "2026-11-01T00:17:11+00:00",
   "source": "original",
   "background": null,
   "related_anime": [
@@ -111,12 +113,14 @@
   "recommendations": [],
   "statistics": {
     "status": {
-      "watching": "61",
-      "completed": 0,
+      "watching": "64",
+      "completed": "1",
       "on_hold": "17",
-      "dropped": "21",
-      "plan_to_watch": "407"
+      "dropped": "23",
+      "plan_to_watch": "403"
     },
-    "num_list_users": 506
-  }
+    "num_list_users": 508
+  },
+  "mal_details_updated_at": "2026-11-15T17:15:28.881Z",
+  "translations_updated_at": "2026-11-15T17:25:07.860Z"
 }

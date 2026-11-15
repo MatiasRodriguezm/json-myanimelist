@@ -30,8 +30,8 @@
   "num_episodes": 26,
   "score": 8.85,
   "mean": 8.85,
-  "numListUsers": 139239,
-  "num_list_users": 139239,
+  "numListUsers": 139243,
+  "num_list_users": 139243,
   "genres": [
     {
       "id": 1,
@@ -60,7 +60,17 @@
       "name": "Studio Signpost"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1558/104184l.webp",
+    "https://cdn.myanimelist.net/images/anime/1431/104795l.webp",
+    "https://cdn.myanimelist.net/images/anime/1332/106392l.webp",
+    "https://cdn.myanimelist.net/images/anime/1747/106393l.webp",
+    "https://cdn.myanimelist.net/images/anime/1443/111830l.webp",
+    "https://cdn.myanimelist.net/images/anime/1604/113549l.webp",
+    "https://cdn.myanimelist.net/images/anime/1698/114286l.webp",
+    "https://cdn.myanimelist.net/images/anime/1776/117248l.webp",
+    "https://cdn.myanimelist.net/images/anime/1975/117281l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/5CGM0vQpq0QBcslUXqoo0unlGPZ.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/njxcMoizy5vstTcBK9Sm4BnYaZB.png",
   "tmdb_id": "46437",
@@ -77,7 +87,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1443/111830l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1558/104184l.webp"
     }
   },
   "broadcast": {
@@ -304,10 +314,10 @@
   ],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 58339,
+  "num_scoring_users": 58396,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2019-11-07T19:45:59+00:00",
+  "updated_at": "2026-01-19T13:10:15+00:00",
   "source": "manga",
   "background": "Kingdom 3rd Season adapts chapters 261-364 of the original manga.",
   "related_anime": [
@@ -328,8 +338,8 @@
         "id": 50160,
         "title": "Kingdom 4th Season",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1566/122794.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1566/122794l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1566/122794.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1566/122794l.webp"
         }
       },
       "relation_type": "sequel",
@@ -354,8 +364,8 @@
         "id": 37521,
         "title": "Vinland Saga",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1500/103005.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1500/103005l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1500/103005.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1500/103005l.jpg"
         }
       },
       "num_recommendations": 2
@@ -387,8 +397,8 @@
         "id": 54492,
         "title": "Kusuriya no Hitorigoto",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1708/138033.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1708/138033l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1708/138033.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1708/138033l.webp"
         }
       },
       "num_recommendations": 1
@@ -409,8 +419,8 @@
         "id": 38524,
         "title": "Shingeki no Kyojin Season 3 Part 2",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1517/100633.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1517/100633l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1517/100633.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1517/100633l.jpg"
         }
       },
       "num_recommendations": 1
@@ -451,12 +461,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "18570",
-      "completed": "68245",
-      "on_hold": "2965",
-      "dropped": "2083",
-      "plan_to_watch": "47215"
+      "watching": "18571",
+      "completed": "68327",
+      "on_hold": "2968",
+      "dropped": "2088",
+      "plan_to_watch": "47231"
     },
-    "num_list_users": 139078
-  }
+    "num_list_users": 139185
+  },
+  "mal_details_updated_at": "2026-11-15T17:19:55.964Z",
+  "translations_updated_at": "2026-11-15T17:23:59.979Z"
 }

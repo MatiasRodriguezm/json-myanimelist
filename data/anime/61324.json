@@ -30,8 +30,8 @@
   "num_episodes": null,
   "score": null,
   "mean": null,
-  "numListUsers": 7926,
-  "num_list_users": 7926,
+  "numListUsers": 7933,
+  "num_list_users": 7933,
   "genres": [
     {
       "id": 8,
@@ -43,11 +43,15 @@
     }
   ],
   "studios": [],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1864/148855l.webp",
+    "https://cdn.myanimelist.net/images/anime/1278/155747l.webp",
+    "https://cdn.myanimelist.net/images/anime/1380/155748l.webp"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T13:05:19.767Z",
+  "tmdb_updated_at": "2026-11-15T17:17:08.997Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1278/155747.webp",
@@ -60,7 +64,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1278/155747l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1864/148855l.webp"
     }
   },
   "broadcast": {
@@ -79,18 +83,18 @@
     {
       "episode": 1,
       "title": "Episode 1",
-      "title_es": "Episodio 1",
       "aired": "2027-01-08T23:30:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 1"
     }
   ],
   "specials_data": [],
   "characters": [],
   "num_scoring_users": null,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2025-03-27T16:06:47+00:00",
+  "updated_at": "2026-10-25T10:36:17+00:00",
   "source": "mixed_media",
   "background": "BanG Dream! MyGO!!!!! / Ave Mujica aired on Nippon TV's Friday Anime Night block.",
   "related_anime": [
@@ -99,8 +103,8 @@
         "id": 56653,
         "title": "BanG Dream! Ave Mujica",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1181/148235.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1181/148235l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1181/148235.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1181/148235l.jpg"
         }
       },
       "relation_type": "prequel",
@@ -113,10 +117,12 @@
     "status": {
       "watching": 0,
       "completed": 0,
-      "on_hold": 0,
+      "on_hold": "1",
       "dropped": 0,
-      "plan_to_watch": "7923"
+      "plan_to_watch": "7932"
     },
-    "num_list_users": 7923
-  }
+    "num_list_users": 7933
+  },
+  "mal_details_updated_at": "2026-11-15T17:17:08.450Z",
+  "translations_updated_at": "2026-11-15T17:24:37.922Z"
 }

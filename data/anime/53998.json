@@ -32,8 +32,8 @@
   "num_episodes": 13,
   "score": 8.7,
   "mean": 8.7,
-  "numListUsers": 447817,
-  "num_list_users": 447817,
+  "numListUsers": 447858,
+  "num_list_users": 447858,
   "genres": [
     {
       "id": 1,
@@ -58,7 +58,15 @@
       "name": "Studio Pierrot"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1018/136667l.webp",
+    "https://cdn.myanimelist.net/images/anime/1013/136669l.webp",
+    "https://cdn.myanimelist.net/images/anime/1549/136929l.webp",
+    "https://cdn.myanimelist.net/images/anime/1558/138056l.webp",
+    "https://cdn.myanimelist.net/images/anime/1164/138058l.webp",
+    "https://cdn.myanimelist.net/images/anime/1420/138670l.webp",
+    "https://cdn.myanimelist.net/images/anime/1988/138671l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/jEImh4O7mcYuwuAeryGZo3G6hg6.png",
   "tmdb_id": "30984",
@@ -75,7 +83,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1164/138058l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1018/136667l.webp"
     }
   },
   "broadcast": {
@@ -87,7 +95,7 @@
     "string": "saturday 23:00"
   },
   "rank": 64,
-  "popularity": 613,
+  "popularity": 612,
   "rating": "r",
   "simkl_id": 2056522,
   "episodes_data": [
@@ -215,10 +223,10 @@
     }
   ],
   "characters": [],
-  "num_scoring_users": 256842,
+  "num_scoring_users": 257413,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2022-12-26T01:14:19+00:00",
+  "updated_at": "2024-10-02T16:04:22+00:00",
   "source": "manga",
   "background": "Bleach: Sennen Kessen-hen - Ketsubetsu-tan was released on Blu-ray and DVD by Aniplex on February 28, 2024. It adapts volumes 61-67 of the original manga.",
   "related_anime": [
@@ -263,12 +271,14 @@
   "recommendations": [],
   "statistics": {
     "status": {
-      "watching": "37094",
-      "completed": "334135",
-      "on_hold": "3932",
-      "dropped": "2099",
-      "plan_to_watch": "69568"
+      "watching": "37084",
+      "completed": "335007",
+      "on_hold": "3931",
+      "dropped": "2106",
+      "plan_to_watch": "69563"
     },
-    "num_list_users": 446828
-  }
+    "num_list_users": 447691
+  },
+  "mal_details_updated_at": "2026-11-15T17:20:06.000Z",
+  "translations_updated_at": "2026-11-15T17:24:01.965Z"
 }

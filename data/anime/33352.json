@@ -44,7 +44,14 @@
       "name": "Kyoto Animation"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1795/95088l.webp",
+    "https://cdn.myanimelist.net/images/anime/1503/95089l.webp",
+    "https://cdn.myanimelist.net/images/anime/1833/145304l.webp",
+    "https://cdn.myanimelist.net/images/anime/1035/145305l.webp",
+    "https://cdn.myanimelist.net/images/anime/1594/145306l.webp",
+    "https://cdn.myanimelist.net/images/anime/1349/145307l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/2e2AEk7Jmn8CztM62hoUyEEWw0B.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/1uXmDOhOTX95Z8LY3EWUcGWri0O.png",
   "tmdb_id": "75214",
@@ -72,7 +79,7 @@
     "timezone": "Asia/Tokyo",
     "string": "thursday 00:00"
   },
-  "rank": 74,
+  "rank": 69,
   "popularity": 47,
   "rating": "pg_13",
   "simkl_id": 588357,
@@ -217,10 +224,10 @@
     }
   ],
   "characters": [],
-  "num_scoring_users": 1114485,
+  "num_scoring_users": 1115066,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2016-05-27T11:13:55+00:00",
+  "updated_at": "2024-10-04T16:03:31+00:00",
   "source": "light_novel",
   "background": null,
   "related_anime": [
@@ -292,8 +299,8 @@
         "id": 46095,
         "title": "Vivy: Fluorite Eye's Song",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1551/128960.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1551/128960l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1551/128960.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1551/128960l.webp"
         }
       },
       "num_recommendations": 51
@@ -325,8 +332,8 @@
         "id": 35062,
         "title": "Mahoutsukai no Yome",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/3/88476.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/3/88476l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/3/88476.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/3/88476l.jpg"
         }
       },
       "num_recommendations": 16
@@ -336,8 +343,8 @@
         "id": 37497,
         "title": "Irozuku Sekai no Ashita kara",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1424/93855.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1424/93855l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1424/93855.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1424/93855l.webp"
         }
       },
       "num_recommendations": 16
@@ -400,12 +407,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "142558",
-      "completed": "1317797",
-      "on_hold": "65530",
-      "dropped": "60703",
-      "plan_to_watch": "454946"
+      "watching": "142616",
+      "completed": "1318590",
+      "on_hold": "65564",
+      "dropped": "60738",
+      "plan_to_watch": "455166"
     },
-    "num_list_users": 2041534
-  }
+    "num_list_users": 2042674
+  },
+  "mal_details_updated_at": "2026-11-15T17:18:22.075Z",
+  "translations_updated_at": "2026-11-15T17:23:48.398Z"
 }

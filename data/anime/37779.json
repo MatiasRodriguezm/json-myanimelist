@@ -30,8 +30,8 @@
   "num_episodes": 12,
   "score": 8.46,
   "mean": 8.46,
-  "numListUsers": 2193034,
-  "num_list_users": 2193034,
+  "numListUsers": 2193066,
+  "num_list_users": 2193066,
   "genres": [
     {
       "id": 7,
@@ -60,7 +60,13 @@
       "name": "CloverWorks"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1733/93120l.webp",
+    "https://cdn.myanimelist.net/images/anime/1111/93561l.webp",
+    "https://cdn.myanimelist.net/images/anime/1453/96823l.webp",
+    "https://cdn.myanimelist.net/images/anime/1903/96943l.webp",
+    "https://cdn.myanimelist.net/images/anime/1830/118780l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/u7Q2C10SQlhPoKm7ersFL5f991q.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/o4dhM6xk4Ux7Z3FqtSiZdyeRsyC.png",
   "tmdb_id": "83097",
@@ -77,7 +83,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1830/118780l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1733/93120l.webp"
     }
   },
   "broadcast": {
@@ -88,7 +94,7 @@
     "timezone": "Asia/Tokyo",
     "string": "friday 01:05"
   },
-  "rank": 188,
+  "rank": 190,
   "popularity": 38,
   "rating": "r",
   "simkl_id": 810687,
@@ -192,10 +198,10 @@
   ],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 1419667,
+  "num_scoring_users": 1420173,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2018-04-24T02:20:12+00:00",
+  "updated_at": "2024-11-28T12:23:27+00:00",
   "source": "manga",
   "background": null,
   "related_anime": [
@@ -253,8 +259,8 @@
         "id": 1535,
         "title": "Death Note",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1079/138100.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1079/138100l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1079/138100.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1079/138100l.webp"
         }
       },
       "num_recommendations": 41
@@ -297,8 +303,8 @@
         "id": 9756,
         "title": "Mahou Shoujo Madoka☆Magica",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/11/55225.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/11/55225l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/11/55225.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/11/55225l.webp"
         }
       },
       "num_recommendations": 9
@@ -308,8 +314,8 @@
         "id": 35849,
         "title": "Darling in the FranXX",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1614/90408.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1614/90408l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1614/90408.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1614/90408l.jpg"
         }
       },
       "num_recommendations": 8
@@ -319,8 +325,8 @@
         "id": 24765,
         "title": "Gakkougurashi!",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1798/91548.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1798/91548l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1798/91548.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1798/91548l.jpg"
         }
       },
       "num_recommendations": 8
@@ -339,12 +345,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "103350",
-      "completed": "1769812",
-      "on_hold": "29640",
-      "dropped": "36266",
-      "plan_to_watch": "252689"
+      "watching": "103371",
+      "completed": "1770556",
+      "on_hold": "29657",
+      "dropped": "36289",
+      "plan_to_watch": "252787"
     },
-    "num_list_users": 2191757
-  }
+    "num_list_users": 2192660
+  },
+  "mal_details_updated_at": "2026-11-15T17:18:18.548Z",
+  "translations_updated_at": "2026-11-15T17:23:42.844Z"
 }

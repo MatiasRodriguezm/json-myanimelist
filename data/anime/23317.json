@@ -30,8 +30,8 @@
   "num_episodes": 2,
   "score": 8.04,
   "mean": 8.04,
-  "numListUsers": 276743,
-  "num_list_users": 276743,
+  "numListUsers": 276750,
+  "num_list_users": 276750,
   "genres": [
     {
       "id": 1,
@@ -64,7 +64,12 @@
       "name": "A-1 Pictures"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/4/64979l.webp",
+    "https://cdn.myanimelist.net/images/anime/4/64981l.webp",
+    "https://cdn.myanimelist.net/images/anime/9/71941l.webp",
+    "https://cdn.myanimelist.net/images/anime/12/74392l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/5U0dYTkHXPhoExNnEm5iKrpDqtr.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/wFe5m9XtZHf7m9D1R29LrhAmatr.png",
   "tmdb_id": "50712",
@@ -81,11 +86,11 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/12/74392l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/4/64979l.webp"
     }
   },
   "broadcast": null,
-  "rank": 706,
+  "rank": 707,
   "popularity": 1043,
   "rating": "r",
   "simkl_id": 48974,
@@ -109,10 +114,10 @@
   ],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 136473,
+  "num_scoring_users": 136514,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2014-03-22T09:21:51+00:00",
+  "updated_at": "2024-10-06T16:08:25+00:00",
   "source": "manga",
   "background": "Episodes 1 and 2 were previewed at screenings in multiple cities across Japan on October 25 and November 15, 2014. The DVDs and BDs were released on January 28 and February 25, 2015.",
   "related_anime": [
@@ -148,8 +153,8 @@
         "id": 16592,
         "title": "Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/4/51463.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/4/51463l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/4/51463.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/4/51463l.jpg"
         }
       },
       "num_recommendations": 2
@@ -170,8 +175,8 @@
         "id": 4896,
         "title": "Umineko no Naku Koro ni",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/10/17709.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/10/17709l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/10/17709.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/17709l.jpg"
         }
       },
       "num_recommendations": 1
@@ -225,8 +230,8 @@
         "id": 8425,
         "title": "Gosick",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/11/27906.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/11/27906l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/11/27906.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/11/27906l.jpg"
         }
       },
       "num_recommendations": 1
@@ -234,12 +239,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "7516",
-      "completed": "205129",
+      "watching": "7512",
+      "completed": "205216",
       "on_hold": "2714",
-      "dropped": "2239",
-      "plan_to_watch": "58993"
+      "dropped": "2240",
+      "plan_to_watch": "59014"
     },
-    "num_list_users": 276591
-  }
+    "num_list_users": 276696
+  },
+  "mal_details_updated_at": "2026-11-15T17:21:35.451Z",
+  "translations_updated_at": "2026-11-15T17:24:18.461Z"
 }

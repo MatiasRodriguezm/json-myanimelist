@@ -77,11 +77,13 @@
       "name": "Artland"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/8/63539l.webp"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T13:06:02.716Z",
+  "tmdb_updated_at": "2026-11-15T17:21:45.964Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/8/63539.webp",
@@ -98,7 +100,7 @@
     }
   },
   "broadcast": null,
-  "rank": 217,
+  "rank": 218,
   "popularity": 2270,
   "rating": "pg_13",
   "simkl_id": 46388,
@@ -211,10 +213,10 @@
     }
   ],
   "characters": [],
-  "num_scoring_users": 54736,
+  "num_scoring_users": 54757,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2014-06-15T13:08:52+00:00",
+  "updated_at": "2024-01-02T05:01:23+00:00",
   "source": "manga",
   "background": null,
   "related_anime": [
@@ -223,8 +225,8 @@
         "id": 21939,
         "title": "Mushishi Zoku Shou",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/13/58533.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/13/58533l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/13/58533.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/13/58533l.webp"
         }
       },
       "relation_type": "prequel",
@@ -247,12 +249,14 @@
   "recommendations": [],
   "statistics": {
     "status": {
-      "watching": "2732",
-      "completed": "74716",
-      "on_hold": "1017",
+      "watching": "2734",
+      "completed": "74746",
+      "on_hold": "1016",
       "dropped": "560",
-      "plan_to_watch": "33732"
+      "plan_to_watch": "33748"
     },
-    "num_list_users": 112757
-  }
+    "num_list_users": 112804
+  },
+  "mal_details_updated_at": "2026-11-15T17:21:45.701Z",
+  "translations_updated_at": "2026-11-15T17:24:05.365Z"
 }

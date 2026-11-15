@@ -67,7 +67,14 @@
       "name": "Production I.G"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/10/8369l.webp",
+    "https://cdn.myanimelist.net/images/anime/7/24883l.webp",
+    "https://cdn.myanimelist.net/images/anime/5/24885l.webp",
+    "https://cdn.myanimelist.net/images/anime/6/24887l.webp",
+    "https://cdn.myanimelist.net/images/anime/4/49129l.webp",
+    "https://cdn.myanimelist.net/images/anime/6/76630l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/6yEPWAfQQmkZTht21z9OYZP9f8E.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/hJJrDltSIDfZhQDF2GFKacGXPY.png",
   "tmdb_id": "37565",
@@ -84,12 +91,12 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/4/49129l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/10/8369l.webp"
     }
   },
   "broadcast": null,
-  "rank": 384,
-  "popularity": 2429,
+  "rank": 385,
+  "popularity": 2430,
   "rating": "r",
   "simkl_id": 38390,
   "episodes_data": [
@@ -120,10 +127,10 @@
   ],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 46933,
+  "num_scoring_users": 46938,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2007-06-19T16:19:49+00:00",
+  "updated_at": "2023-08-02T04:36:11+00:00",
   "source": "manga",
   "background": "Bundled with the limited editions of the 21st, 22nd, and 23rd volumes of the Tsubasa Chronicle manga.",
   "related_anime": [
@@ -132,8 +139,8 @@
         "id": 969,
         "title": "Tsubasa Chronicle 2nd Season",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/4/6554.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/4/6554l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/4/6554.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/4/6554l.jpg"
         }
       },
       "relation_type": "alternative_version",
@@ -159,8 +166,8 @@
         "id": 156,
         "title": "X",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/8/17167.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/8/17167l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/8/17167.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/8/17167l.jpg"
         }
       },
       "num_recommendations": 2
@@ -181,8 +188,8 @@
         "id": 4081,
         "title": "Natsume Yuujinchou",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1681/108439.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1681/108439l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1681/108439.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1681/108439l.jpg"
         }
       },
       "num_recommendations": 1
@@ -267,12 +274,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "3114",
-      "completed": "66458",
-      "on_hold": "1691",
+      "watching": "3117",
+      "completed": "66466",
+      "on_hold": "1693",
       "dropped": "1218",
       "plan_to_watch": "30078"
     },
-    "num_list_users": 102559
-  }
+    "num_list_users": 102572
+  },
+  "mal_details_updated_at": "2026-11-15T17:21:24.887Z",
+  "translations_updated_at": "2026-11-15T17:24:08.511Z"
 }

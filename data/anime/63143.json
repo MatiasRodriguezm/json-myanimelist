@@ -59,11 +59,13 @@
       "name": "MAPPA"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1432/154522l.webp"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T13:05:39.812Z",
+  "tmdb_updated_at": "2026-11-15T17:18:29.594Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1432/154522.webp",
@@ -87,10 +89,10 @@
   "episodes_data": [],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 2,
+  "num_scoring_users": 1,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2025-12-21T07:48:53+00:00",
+  "updated_at": "2025-12-21T21:55:22+00:00",
   "source": "manga",
   "background": null,
   "related_anime": [
@@ -99,8 +101,8 @@
         "id": 57555,
         "title": "Chainsaw Man Movie: Reze-hen",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1763/150638.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1763/150638l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1763/150638.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1763/150638l.jpg"
         }
       },
       "relation_type": "prequel",
@@ -111,12 +113,14 @@
   "recommendations": [],
   "statistics": {
     "status": {
-      "watching": "4",
+      "watching": "1",
       "completed": 0,
-      "on_hold": "4",
+      "on_hold": 0,
       "dropped": 0,
-      "plan_to_watch": "89952"
+      "plan_to_watch": "90001"
     },
-    "num_list_users": 89960
-  }
+    "num_list_users": 90002
+  },
+  "mal_details_updated_at": "2026-11-15T17:18:29.139Z",
+  "translations_updated_at": "2026-11-15T17:24:50.694Z"
 }

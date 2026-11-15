@@ -30,8 +30,8 @@
   "num_episodes": 10,
   "score": 8.63,
   "mean": 8.63,
-  "numListUsers": 1147562,
-  "num_list_users": 1147562,
+  "numListUsers": 1147678,
+  "num_list_users": 1147678,
   "genres": [
     {
       "id": 1,
@@ -56,7 +56,15 @@
       "name": "Trigger"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1562/108236l.webp",
+    "https://cdn.myanimelist.net/images/anime/1818/126435l.webp",
+    "https://cdn.myanimelist.net/images/anime/1129/135442l.webp",
+    "https://cdn.myanimelist.net/images/anime/1832/144899l.webp",
+    "https://cdn.myanimelist.net/images/anime/1786/144908l.webp",
+    "https://cdn.myanimelist.net/images/anime/1127/152939l.webp",
+    "https://cdn.myanimelist.net/images/anime/1162/158613l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/bknKZO7DWVYKeByuJMnGI46PFZg.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/sNhrCQwDbvu6hGm8yKNQAh3njKf.png",
   "tmdb_id": "105248",
@@ -73,7 +81,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1818/126435l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1562/108236l.webp"
     }
   },
   "broadcast": null,
@@ -165,10 +173,10 @@
   ],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 777932,
+  "num_scoring_users": 780048,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2020-06-25T16:33:19+00:00",
+  "updated_at": "2023-11-24T05:51:17+00:00",
   "source": "game",
   "background": "Cyberpunk: Edgerunners is based on the Cyberpunk 2077 video game by CD Projekt Red. The series acts as a prequel to the game's story.",
   "related_anime": [
@@ -177,8 +185,8 @@
         "id": 53013,
         "title": "Let You Down",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1300/128136.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1300/128136l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1300/128136.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1300/128136l.webp"
         }
       },
       "relation_type": "other",
@@ -204,8 +212,8 @@
         "id": 41433,
         "title": "Akudama Drive",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1468/109172.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1468/109172l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1468/109172.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1468/109172l.webp"
         }
       },
       "num_recommendations": 26
@@ -226,19 +234,19 @@
         "id": 22199,
         "title": "Akame ga Kill!",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1429/95946.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1429/95946l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1429/95946.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1429/95946l.webp"
         }
       },
-      "num_recommendations": 9
+      "num_recommendations": 10
     },
     {
       "node": {
         "id": 1,
         "title": "Cowboy Bebop",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/4/19644.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/4/19644l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/4/19644.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/4/19644l.webp"
         }
       },
       "num_recommendations": 8
@@ -248,8 +256,8 @@
         "id": 47,
         "title": "Akira",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1408/114012.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1408/114012l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1408/114012.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1408/114012l.jpg"
         }
       },
       "num_recommendations": 7
@@ -270,8 +278,8 @@
         "id": 44511,
         "title": "Chainsaw Man",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1806/126216.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1806/126216l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1806/126216.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1806/126216l.jpg"
         }
       },
       "num_recommendations": 6
@@ -281,8 +289,8 @@
         "id": 2001,
         "title": "Tengen Toppa Gurren Lagann",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/4/5123.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/4/5123l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/4/5123.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/4/5123l.jpg"
         }
       },
       "num_recommendations": 6
@@ -292,8 +300,8 @@
         "id": 46095,
         "title": "Vivy: Fluorite Eye's Song",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1551/128960.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1551/128960l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1551/128960.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1551/128960l.webp"
         }
       },
       "num_recommendations": 5
@@ -312,12 +320,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "56839",
-      "completed": "943584",
-      "on_hold": "14755",
-      "dropped": "11856",
-      "plan_to_watch": "117430"
+      "watching": "56928",
+      "completed": "946210",
+      "on_hold": "14794",
+      "dropped": "11877",
+      "plan_to_watch": "117483"
     },
-    "num_list_users": 1144464
-  }
+    "num_list_users": 1147292
+  },
+  "mal_details_updated_at": "2026-11-15T17:21:43.457Z",
+  "translations_updated_at": "2026-11-15T17:23:54.651Z"
 }

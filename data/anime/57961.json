@@ -32,8 +32,8 @@
   "num_episodes": 1,
   "score": null,
   "mean": null,
-  "numListUsers": 9553,
-  "num_list_users": 9553,
+  "numListUsers": 9554,
+  "num_list_users": 9554,
   "genres": [
     {
       "id": 18,
@@ -50,11 +50,19 @@
       "name": "Toei Animation"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1906/141148l.webp",
+    "https://cdn.myanimelist.net/images/anime/1437/146525l.webp",
+    "https://cdn.myanimelist.net/images/anime/1188/153747l.webp",
+    "https://cdn.myanimelist.net/images/anime/1824/156379l.webp",
+    "https://cdn.myanimelist.net/images/anime/1551/159128l.webp",
+    "https://cdn.myanimelist.net/images/anime/1987/160533l.webp",
+    "https://cdn.myanimelist.net/images/anime/1437/160894l.webp"
+  ],
   "backdrop_url": null,
   "logo_url": "https://image.tmdb.org/t/p/w300/4HhK8kZ0XlNQRx7zGArufQMOx2z.svg",
   "tmdb_id": "1236857",
-  "tmdb_updated_at": "2026-11-15T13:04:30.675Z",
+  "tmdb_updated_at": "2026-11-15T17:15:06.897Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1987/160533.webp",
@@ -67,12 +75,12 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1987/160533l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1906/141148l.webp"
     }
   },
   "broadcast": null,
-  "rank": 20244,
-  "popularity": 7641,
+  "rank": 20250,
+  "popularity": 7614,
   "rating": null,
   "simkl_id": 2360178,
   "episodes_data": [
@@ -87,10 +95,10 @@
   ],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": null,
+  "num_scoring_users": 32,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2024-01-27T17:27:36+00:00",
+  "updated_at": "2026-10-14T05:30:53+00:00",
   "source": "original",
   "background": null,
   "related_anime": [
@@ -111,12 +119,14 @@
   "recommendations": [],
   "statistics": {
     "status": {
-      "watching": 0,
-      "completed": 0,
-      "on_hold": 0,
-      "dropped": 0,
-      "plan_to_watch": "9461"
+      "watching": "92",
+      "completed": "39",
+      "on_hold": "56",
+      "dropped": "8",
+      "plan_to_watch": "9359"
     },
-    "num_list_users": 9461
-  }
+    "num_list_users": 9554
+  },
+  "mal_details_updated_at": "2026-11-15T17:15:06.678Z",
+  "translations_updated_at": "2026-11-15T17:24:29.772Z"
 }

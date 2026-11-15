@@ -60,7 +60,11 @@
       "name": "Shaft"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/3/72754l.webp",
+    "https://cdn.myanimelist.net/images/anime/1954/132952l.webp",
+    "https://cdn.myanimelist.net/images/anime/1913/146300l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/POCKoyMDc7YH50vlTyjicqJgqW.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/kqgRbdzbIY00BZsEIPYvuCPhEyE.png",
   "tmdb_id": "45893",
@@ -77,12 +81,12 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1913/146300l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/3/72754l.webp"
     }
   },
   "broadcast": null,
-  "rank": 561,
-  "popularity": 6019,
+  "rank": 560,
+  "popularity": 6022,
   "rating": "pg_13",
   "simkl_id": 45394,
   "episodes_data": [
@@ -105,10 +109,10 @@
   ],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 7351,
+  "num_scoring_users": 7354,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2013-03-08T11:54:54+00:00",
+  "updated_at": "2023-09-12T22:27:57+00:00",
   "source": "4_koma_manga",
   "background": null,
   "related_anime": [
@@ -132,8 +136,8 @@
         "id": 7044,
         "title": "Zan Sayonara Zetsubou Sensei Bangaichi",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/9/17699.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/9/17699l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/9/17699.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/9/17699l.webp"
         }
       },
       "num_recommendations": 1
@@ -152,12 +156,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "686",
-      "completed": "10854",
-      "on_hold": "237",
+      "watching": "685",
+      "completed": "10860",
+      "on_hold": "236",
       "dropped": "309",
-      "plan_to_watch": "5107"
+      "plan_to_watch": "5111"
     },
-    "num_list_users": 17193
-  }
+    "num_list_users": 17201
+  },
+  "mal_details_updated_at": "2026-11-15T17:21:29.193Z",
+  "translations_updated_at": "2026-11-15T17:24:14.984Z"
 }

@@ -37,8 +37,8 @@
   "num_episodes": 3,
   "score": 8.68,
   "mean": 8.68,
-  "numListUsers": 24218,
-  "num_list_users": 24218,
+  "numListUsers": 24233,
+  "num_list_users": 24233,
   "genres": [
     {
       "id": 1,
@@ -71,11 +71,21 @@
       "name": "B.CMAY PICTURES"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1444/151543l.webp",
+    "https://cdn.myanimelist.net/images/anime/1211/157100l.webp",
+    "https://cdn.myanimelist.net/images/anime/1670/158575l.webp",
+    "https://cdn.myanimelist.net/images/anime/1752/158679l.webp",
+    "https://cdn.myanimelist.net/images/anime/1370/158776l.webp",
+    "https://cdn.myanimelist.net/images/anime/1816/158777l.webp",
+    "https://cdn.myanimelist.net/images/anime/1060/158778l.webp",
+    "https://cdn.myanimelist.net/images/anime/1898/158779l.webp",
+    "https://cdn.myanimelist.net/images/anime/1456/158780l.webp"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T13:06:02.527Z",
+  "tmdb_updated_at": "2026-11-15T17:21:42.702Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1211/157100.webp",
@@ -88,21 +98,21 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1211/157100l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1444/151543l.webp"
     }
   },
   "broadcast": null,
-  "rank": 69,
-  "popularity": 5273,
+  "rank": 74,
+  "popularity": 5251,
   "rating": "r",
   "simkl_id": null,
   "episodes_data": [],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 11384,
+  "num_scoring_users": 11531,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2025-08-16T09:57:49+00:00",
+  "updated_at": "2026-06-29T01:11:50+00:00",
   "source": "web_novel",
   "background": "Set after episode 10 of Guimi Zhi Zhu: Xiaochou Pian.",
   "related_anime": [
@@ -123,12 +133,14 @@
   "recommendations": [],
   "statistics": {
     "status": {
-      "watching": "1778",
-      "completed": "14478",
-      "on_hold": "263",
-      "dropped": "137",
-      "plan_to_watch": "7362"
+      "watching": "1794",
+      "completed": "14683",
+      "on_hold": "259",
+      "dropped": "138",
+      "plan_to_watch": "7359"
     },
-    "num_list_users": 24018
-  }
+    "num_list_users": 24233
+  },
+  "mal_details_updated_at": "2026-11-15T17:21:42.207Z",
+  "translations_updated_at": "2026-11-15T17:24:02.675Z"
 }

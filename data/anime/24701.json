@@ -74,7 +74,9 @@
       "name": "Artland"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/9/68095l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/8ysRHGV3URjOJT7u7NkZiFjvObk.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/xFiCp8wraCYN2l2aYJPI4hLxniT.png",
   "tmdb_id": "26867",
@@ -215,10 +217,10 @@
     }
   ],
   "characters": [],
-  "num_scoring_users": 118217,
+  "num_scoring_users": 118262,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2014-06-16T10:15:21+00:00",
+  "updated_at": "2023-04-20T11:10:56+00:00",
   "source": "manga",
   "background": null,
   "related_anime": [
@@ -227,8 +229,8 @@
         "id": 21939,
         "title": "Mushishi Zoku Shou",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/13/58533.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/13/58533l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/13/58533.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/13/58533l.webp"
         }
       },
       "relation_type": "prequel",
@@ -288,8 +290,8 @@
         "id": 4081,
         "title": "Natsume Yuujinchou",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1681/108439.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1681/108439l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1681/108439.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1681/108439l.jpg"
         }
       },
       "num_recommendations": 1
@@ -297,12 +299,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "17824",
-      "completed": "150307",
-      "on_hold": "7225",
-      "dropped": "3804",
-      "plan_to_watch": "118348"
+      "watching": "17827",
+      "completed": "150373",
+      "on_hold": "7223",
+      "dropped": "3805",
+      "plan_to_watch": "118397"
     },
-    "num_list_users": 297508
-  }
+    "num_list_users": 297625
+  },
+  "mal_details_updated_at": "2026-11-15T17:20:05.639Z",
+  "translations_updated_at": "2026-11-15T17:24:01.869Z"
 }

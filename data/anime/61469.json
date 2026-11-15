@@ -34,8 +34,8 @@
   "num_episodes": null,
   "score": 9.03,
   "mean": 9.03,
-  "numListUsers": 257859,
-  "num_list_users": 257859,
+  "numListUsers": 257930,
+  "num_list_users": 257930,
   "genres": [
     {
       "id": 1,
@@ -76,7 +76,13 @@
       "name": "David Production"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1891/149307l.webp",
+    "https://cdn.myanimelist.net/images/anime/1723/152195l.webp",
+    "https://cdn.myanimelist.net/images/anime/1448/154111l.webp",
+    "https://cdn.myanimelist.net/images/anime/1228/154477l.webp",
+    "https://cdn.myanimelist.net/images/anime/1065/158884l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/l2gc2dPRUPe3bAfYCRTjc6uAMmB.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/bfcHax3WxaoqiRXzCkKjmd2myR8.png",
   "tmdb_id": "45790",
@@ -93,118 +99,118 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1065/158884l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1891/149307l.webp"
     }
   },
   "broadcast": null,
   "rank": 10,
-  "popularity": 1132,
+  "popularity": 1131,
   "rating": "r",
   "simkl_id": 2754038,
   "episodes_data": [
     {
       "episode": 1,
       "title": "Steel Ball Run",
-      "title_es": "Carrera de bolas de acero",
       "aired": "2026-03-19T17:00:00+09:00",
       "thumbnail": "https://simkl.in/episodes/19/1969715108599f725a_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Carrera de bolas de acero"
     },
     {
       "episode": 2,
       "title": "The Sheriff's Request to Mountain Tim",
-      "title_es": "La solicitud del sheriff para montañear a Tim",
       "aired": "2026-09-25T17:00:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/2075503799f8b92f22_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "La solicitud del sheriff para montañear a Tim"
     },
     {
       "episode": 3,
       "title": "The Desert-Born Outlaws",
-      "title_es": "Los forajidos nacidos en el desierto",
       "aired": "2026-10-02T17:00:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20808521451c58c6df_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Los forajidos nacidos en el desierto"
     },
     {
       "episode": 4,
       "title": "The Devil's Palm",
-      "title_es": "La palma del diablo",
       "aired": "2026-10-09T17:00:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20853029c8b4fb6d4f_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "La palma del diablo"
     },
     {
       "episode": 5,
       "title": "The Terrorist from a Faraway Country",
-      "title_es": "El terrorista de un país lejano",
       "aired": "2026-10-16T17:00:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/208913537ecc5167f2_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "El terrorista de un país lejano"
     },
     {
       "episode": 6,
       "title": "Gyro Zeppeli's Destiny",
-      "title_es": "El destino de Gyro Zeppeli",
       "aired": "2026-10-23T17:00:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/2093566744a06a1221_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "El destino de Gyro Zeppeli"
     },
     {
       "episode": 7,
       "title": "Tusk, Part 1",
-      "title_es": "Colmillo, Parte 1",
       "aired": "2026-10-30T17:00:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/2099020550d9576945_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Colmillo, Parte 1"
     },
     {
       "episode": 8,
       "title": "Tusk, Part 2",
-      "title_es": "Colmillo, Parte 2",
       "aired": "2026-11-06T17:00:00+09:00",
       "thumbnail": "https://simkl.in/episodes/21/2103419363df80e281_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Colmillo, Parte 2"
     },
     {
       "episode": 9,
       "title": "Frightening Monsters, Part 1",
-      "title_es": "Monstruos aterradores, Parte 1",
       "aired": "2026-11-13T17:00:00+09:00",
       "thumbnail": "https://simkl.in/episodes/21/210774474b4d2bd617_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Monstruos aterradores, Parte 1"
     },
     {
       "episode": 10,
       "title": "Episode 10",
-      "title_es": "Episodio 10",
       "aired": "2026-11-20T17:00:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 10"
     },
     {
       "episode": 11,
       "title": "Episode 11",
-      "title_es": "Episodio 11",
       "aired": "2026-11-27T17:00:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 11"
     },
     {
       "episode": 12,
       "title": "Episode 12",
-      "title_es": "Episodio 12",
       "aired": "2026-12-04T17:00:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 12"
     }
   ],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 115010,
+  "num_scoring_users": 115094,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2025-04-12T12:07:07+00:00",
+  "updated_at": "2026-10-31T13:10:45+00:00",
   "source": "manga",
   "background": null,
   "related_anime": [
@@ -213,8 +219,8 @@
         "id": 53273,
         "title": "JoJo no Kimyou na Bouken Part 6: Stone Ocean Part 3",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1233/128920.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1233/128920l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1233/128920.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1233/128920l.webp"
         }
       },
       "relation_type": "prequel",
@@ -270,12 +276,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "187947",
-      "completed": "180",
-      "on_hold": "6777",
-      "dropped": "1956",
-      "plan_to_watch": "60727"
+      "watching": "188225",
+      "completed": "99",
+      "on_hold": "6766",
+      "dropped": "1954",
+      "plan_to_watch": "60733"
     },
-    "num_list_users": 257587
-  }
+    "num_list_users": 257777
+  },
+  "mal_details_updated_at": "2026-11-15T17:12:59.600Z",
+  "translations_updated_at": "2026-11-15T17:24:38.430Z"
 }

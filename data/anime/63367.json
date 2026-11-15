@@ -30,8 +30,8 @@
   "num_episodes": null,
   "score": 8.18,
   "mean": 8.18,
-  "numListUsers": 54963,
-  "num_list_users": 54963,
+  "numListUsers": 55002,
+  "num_list_users": 55002,
   "genres": [
     {
       "id": 1,
@@ -60,7 +60,10 @@
       "name": "Toei Animation"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1015/155108l.webp",
+    "https://cdn.myanimelist.net/images/anime/1624/159991l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/aFlyMKCE5hAR0OyUSMSbihFHgif.png",
   "tmdb_id": "312359",
@@ -77,7 +80,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1624/159991l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1015/155108l.webp"
     }
   },
   "broadcast": {
@@ -89,113 +92,113 @@
     "string": "sunday 23:15"
   },
   "rank": 483,
-  "popularity": 3537,
+  "popularity": 3530,
   "rating": "pg_13",
   "simkl_id": 3281958,
   "episodes_data": [
     {
       "episode": 1,
       "title": "The God Who Destroys",
-      "title_es": "El Dios que destruye",
       "aired": "2026-10-11T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/2086548318cc0df524_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "El Dios que destruye"
     },
     {
       "episode": 2,
       "title": "The God of Destruction Heads to the Planet of the Kai",
-      "title_es": "El Dios de la Destrucción se dirige al Planeta del Kai",
       "aired": "2026-10-18T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20909369138dbd4a8f_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "El Dios de la Destrucción se dirige al Planeta del Kai"
     },
     {
       "episode": 3,
       "title": "The God of Destruction Heads to Earth",
-      "title_es": "El Dios de la Destrucción se dirige a la Tierra",
       "aired": "2026-10-25T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20955071c72d76e1a5_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "El Dios de la Destrucción se dirige a la Tierra"
     },
     {
       "episode": 4,
       "title": "The God of Saiyans",
-      "title_es": "El Dios de los Saiyajin",
       "aired": "2026-11-01T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/21/21002363e456aaec2c_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "El Dios de los Saiyajin"
     },
     {
       "episode": 5,
       "title": "The God of Destruction and Son Goku",
-      "title_es": "El Dios de la Destrucción y Son Goku",
       "aired": "2026-11-08T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/21/21046283ae3d66d6e1_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "El Dios de la Destrucción y Son Goku"
     },
     {
       "episode": 6,
       "title": "Battle of Gods",
-      "title_es": "Batalla de dioses",
       "aired": "2026-11-15T23:15:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Batalla de dioses"
     },
     {
       "episode": 7,
       "title": "Episode 7",
-      "title_es": "Episodio 7",
       "aired": "2026-11-22T23:15:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 7"
     },
     {
       "episode": 8,
       "title": "Episode 8",
-      "title_es": "Episodio 8",
       "aired": "2026-11-29T23:15:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 8"
     },
     {
       "episode": 9,
       "title": "Episode 9",
-      "title_es": "Episodio 9",
       "aired": "2026-12-06T23:15:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 9"
     },
     {
       "episode": 10,
       "title": "Episode 10",
-      "title_es": "Episodio 10",
       "aired": "2026-12-13T23:15:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 10"
     },
     {
       "episode": 11,
       "title": "Episode 11",
-      "title_es": "Episodio 11",
       "aired": "2026-12-20T23:15:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 11"
     },
     {
       "episode": 12,
       "title": "Episode 12",
-      "title_es": "Episodio 12",
       "aired": "2026-12-27T23:15:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 12"
     }
   ],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 7399,
+  "num_scoring_users": 7436,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2026-01-25T09:22:20+00:00",
+  "updated_at": "2026-10-11T15:55:49+00:00",
   "source": "manga",
   "background": null,
   "related_anime": [
@@ -228,12 +231,14 @@
   "recommendations": [],
   "statistics": {
     "status": {
-      "watching": "30567",
-      "completed": "7",
-      "on_hold": "484",
-      "dropped": "426",
-      "plan_to_watch": "23403"
+      "watching": "30691",
+      "completed": "2",
+      "on_hold": "494",
+      "dropped": "437",
+      "plan_to_watch": "23378"
     },
-    "num_list_users": 54887
-  }
+    "num_list_users": 55002
+  },
+  "mal_details_updated_at": "2026-11-15T17:13:11.164Z",
+  "translations_updated_at": "2026-11-15T17:24:53.731Z"
 }

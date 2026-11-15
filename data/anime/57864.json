@@ -35,8 +35,8 @@
   "num_episodes": 14,
   "score": 8.63,
   "mean": 8.63,
-  "numListUsers": 109757,
-  "num_list_users": 109757,
+  "numListUsers": 109762,
+  "num_list_users": 109762,
   "genres": [
     {
       "id": 4,
@@ -61,7 +61,12 @@
       "name": "Shaft"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1741/140952l.webp",
+    "https://cdn.myanimelist.net/images/anime/1793/142260l.webp",
+    "https://cdn.myanimelist.net/images/anime/1223/145353l.webp",
+    "https://cdn.myanimelist.net/images/anime/1142/146776l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/cHII6sQ91q8H5EMONKCwCQMauCP.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/1PloWpJba8A3I0x8Ry92IGYromk.png",
   "tmdb_id": "46195",
@@ -78,7 +83,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1142/146776l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1741/140952l.webp"
     }
   },
   "broadcast": null,
@@ -219,10 +224,10 @@
     }
   ],
   "characters": [],
-  "num_scoring_users": 42686,
+  "num_scoring_users": 42773,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2024-01-18T09:13:30+00:00",
+  "updated_at": "2024-10-19T15:29:42+00:00",
   "source": "light_novel",
   "background": "Monogatari Series: Off & Monster Season was released on Blu-ray and DVD in seven volumes from December 11, 2024, to June 4, 2025.",
   "related_anime": [
@@ -255,8 +260,8 @@
         "id": 59825,
         "title": "Undead",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1760/145472.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1760/145472l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1760/145472.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1760/145472l.jpg"
         }
       },
       "relation_type": "other",
@@ -282,8 +287,8 @@
         "id": 37999,
         "title": "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1295/106551.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1295/106551l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1295/106551.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1295/106551l.jpg"
         }
       },
       "num_recommendations": 1
@@ -291,12 +296,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "15835",
-      "completed": "47270",
-      "on_hold": "3041",
-      "dropped": "1215",
-      "plan_to_watch": "42116"
+      "watching": "15827",
+      "completed": "47384",
+      "on_hold": "3046",
+      "dropped": "1221",
+      "plan_to_watch": "42161"
     },
-    "num_list_users": 109477
-  }
+    "num_list_users": 109639
+  },
+  "mal_details_updated_at": "2026-11-15T17:21:44.221Z",
+  "translations_updated_at": "2026-11-15T17:24:03.257Z"
 }

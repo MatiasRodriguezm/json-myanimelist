@@ -32,8 +32,8 @@
   "num_episodes": 1,
   "score": 8.45,
   "mean": 8.45,
-  "numListUsers": 654800,
-  "num_list_users": 654800,
+  "numListUsers": 654812,
+  "num_list_users": 654812,
   "genres": [
     {
       "id": 8,
@@ -50,7 +50,15 @@
       "name": "White Fox"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/12/46591l.webp",
+    "https://cdn.myanimelist.net/images/anime/4/46633l.webp",
+    "https://cdn.myanimelist.net/images/anime/10/50319l.webp",
+    "https://cdn.myanimelist.net/images/anime/11/56947l.webp",
+    "https://cdn.myanimelist.net/images/anime/11/57281l.webp",
+    "https://cdn.myanimelist.net/images/anime/12/57283l.webp",
+    "https://cdn.myanimelist.net/images/anime/1611/112806l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/nFKxirrjjSTbz2rryfJvvG5MLkV.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/6Y8CHT9IxcXsBuGBjfTVSWeM8nD.png",
   "tmdb_id": "225745",
@@ -67,11 +75,11 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1611/112806l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/12/46591l.webp"
     }
   },
   "broadcast": null,
-  "rank": 198,
+  "rank": 200,
   "popularity": 387,
   "rating": "pg_13",
   "simkl_id": 43417,
@@ -87,10 +95,10 @@
   ],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 389385,
+  "num_scoring_users": 389540,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2011-09-13T17:43:03+00:00",
+  "updated_at": "2023-01-18T16:38:10+00:00",
   "source": "visual_novel",
   "background": "The series won the 2013 Newtype Anime Awards for Best Anime Film.",
   "related_anime": [
@@ -125,8 +133,8 @@
         "id": 32281,
         "title": "Kimi no Na wa.",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/5/87048.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/5/87048l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/5/87048.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/5/87048l.webp"
         }
       },
       "num_recommendations": 6
@@ -202,8 +210,8 @@
         "id": 9253,
         "title": "Steins;Gate",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1935/127974.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1935/127974l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1935/127974.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1935/127974l.jpg"
         }
       },
       "num_recommendations": 1
@@ -222,12 +230,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "11883",
-      "completed": "503140",
-      "on_hold": "3889",
+      "watching": "11892",
+      "completed": "503347",
+      "on_hold": "3894",
       "dropped": "1673",
-      "plan_to_watch": "133830"
+      "plan_to_watch": "133886"
     },
-    "num_list_users": 654415
-  }
+    "num_list_users": 654692
+  },
+  "mal_details_updated_at": "2026-11-15T17:20:20.852Z",
+  "translations_updated_at": "2026-11-15T17:23:57.856Z"
 }

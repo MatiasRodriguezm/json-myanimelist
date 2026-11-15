@@ -32,8 +32,8 @@
   "num_episodes": 1,
   "score": 8.45,
   "mean": 8.45,
-  "numListUsers": 449373,
-  "num_list_users": 449373,
+  "numListUsers": 449380,
+  "num_list_users": 449380,
   "genres": [
     {
       "id": 1,
@@ -54,11 +54,18 @@
       "name": "ufotable"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1829/92753l.webp",
+    "https://cdn.myanimelist.net/images/anime/1599/93798l.webp",
+    "https://cdn.myanimelist.net/images/anime/1946/94988l.webp",
+    "https://cdn.myanimelist.net/images/anime/1946/97565l.webp",
+    "https://cdn.myanimelist.net/images/anime/1974/98158l.webp",
+    "https://cdn.myanimelist.net/images/anime/1065/117105l.webp"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T13:05:59.933Z",
+  "tmdb_updated_at": "2026-11-15T17:20:20.498Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1974/98158.webp",
@@ -71,11 +78,11 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1974/98158l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1829/92753l.webp"
     }
   },
   "broadcast": null,
-  "rank": 191,
+  "rank": 193,
   "popularity": 611,
   "rating": "r",
   "simkl_id": 52810,
@@ -212,10 +219,10 @@
     }
   ],
   "characters": [],
-  "num_scoring_users": 267112,
+  "num_scoring_users": 267260,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2016-03-27T06:59:30+00:00",
+  "updated_at": "2024-10-02T16:16:06+00:00",
   "source": "visual_novel",
   "background": "The Fate/Stay Night: Heaven's Feel movie trilogy is based on the third route of Type-Moon's visual novel, Fate/Stay Night. Originally released in 2004 for Microsoft Windows, Fate/Stay Night later received an enhanced port featuring full voice acting, new soundtracks and bonus content―titled Fate/Stay Night: Réalta Nua―which was released for the PS2, PS Vita as well as iOS and Android systems.",
   "related_anime": [
@@ -224,8 +231,8 @@
         "id": 25537,
         "title": "Fate/stay night Movie: Heaven's Feel - I. Presage Flower",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1274/102213.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1274/102213l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1274/102213.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1274/102213l.jpg"
         }
       },
       "relation_type": "prequel",
@@ -251,8 +258,8 @@
         "id": 3782,
         "title": "Kara no Kyoukai Movie 2: Satsujin Kousatsu (Zen)",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/3/21737.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/3/21737l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/3/21737.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/3/21737l.jpg"
         }
       },
       "num_recommendations": 2
@@ -273,8 +280,8 @@
         "id": 4789,
         "title": "ef: A Tale of Melodies.",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1675/131993.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1675/131993l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1675/131993.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1675/131993l.jpg"
         }
       },
       "num_recommendations": 1
@@ -284,8 +291,8 @@
         "id": 10087,
         "title": "Fate/Zero",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1887/117644.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1887/117644l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1887/117644.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1887/117644l.jpg"
         }
       },
       "num_recommendations": 1
@@ -315,12 +322,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "10328",
-      "completed": "340190",
-      "on_hold": "2523",
+      "watching": "10337",
+      "completed": "340400",
+      "on_hold": "2524",
       "dropped": "1444",
-      "plan_to_watch": "94538"
+      "plan_to_watch": "94558"
     },
-    "num_list_users": 449023
-  }
+    "num_list_users": 449263
+  },
+  "mal_details_updated_at": "2026-11-15T17:20:20.067Z",
+  "translations_updated_at": "2026-11-15T17:24:04.858Z"
 }

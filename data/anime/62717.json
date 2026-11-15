@@ -30,8 +30,8 @@
   "num_episodes": null,
   "score": null,
   "mean": null,
-  "numListUsers": 940,
-  "num_list_users": 940,
+  "numListUsers": 942,
+  "num_list_users": 942,
   "genres": [
     {
       "id": 1,
@@ -60,11 +60,15 @@
       "name": "Motion Magic"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1484/152571l.webp",
+    "https://cdn.myanimelist.net/images/anime/1693/158641l.webp",
+    "https://cdn.myanimelist.net/images/anime/1723/160935l.webp"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T13:04:37.205Z",
+  "tmdb_updated_at": "2026-11-15T17:15:20.007Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1693/158641.webp",
@@ -77,12 +81,12 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1693/158641l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1484/152571l.webp"
     }
   },
   "broadcast": null,
   "rank": null,
-  "popularity": 15928,
+  "popularity": 15914,
   "rating": "pg_13",
   "simkl_id": null,
   "episodes_data": [],
@@ -90,8 +94,8 @@
   "characters": [],
   "num_scoring_users": null,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2025-10-14T18:56:48+00:00",
+  "updated_at": "2026-11-08T02:13:00+00:00",
   "source": "web_novel",
   "background": null,
   "related_anime": [
@@ -113,11 +117,13 @@
   "statistics": {
     "status": {
       "watching": 0,
-      "completed": "1",
+      "completed": 0,
       "on_hold": 0,
       "dropped": 0,
-      "plan_to_watch": "937"
+      "plan_to_watch": "942"
     },
-    "num_list_users": 938
-  }
+    "num_list_users": 942
+  },
+  "mal_details_updated_at": "2026-11-15T17:15:19.410Z",
+  "translations_updated_at": "2026-11-15T17:24:45.057Z"
 }

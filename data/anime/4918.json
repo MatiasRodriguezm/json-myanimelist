@@ -32,8 +32,8 @@
   "num_episodes": 2,
   "score": 8.03,
   "mean": 8.03,
-  "numListUsers": 77130,
-  "num_list_users": 77130,
+  "numListUsers": 77132,
+  "num_list_users": 77132,
   "genres": [
     {
       "id": 4,
@@ -62,7 +62,12 @@
       "name": "Production I.G"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/6/13175l.webp",
+    "https://cdn.myanimelist.net/images/anime/7/14187l.webp",
+    "https://cdn.myanimelist.net/images/anime/12/25079l.webp",
+    "https://cdn.myanimelist.net/images/anime/1367/96011l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/93Zwr1UckwikK8ZAcL9KmxKhszu.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/1dV7yTS1n8ZBvRwgB6ijw8mlrQW.png",
   "tmdb_id": "36250",
@@ -79,12 +84,12 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/12/25079l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/6/13175l.webp"
     }
   },
   "broadcast": null,
-  "rank": 736,
-  "popularity": 2898,
+  "rank": 734,
+  "popularity": 2899,
   "rating": "pg_13",
   "simkl_id": 41490,
   "episodes_data": [
@@ -107,10 +112,10 @@
   ],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 36488,
+  "num_scoring_users": 36497,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2008-07-15T21:22:32+00:00",
+  "updated_at": "2023-08-02T05:10:18+00:00",
   "source": "manga",
   "background": "Bundled with the limited editions of the 14th and 15th volumes of the xxxHOLiC manga.",
   "related_anime": [
@@ -167,12 +172,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "2078",
-      "completed": "52212",
-      "on_hold": "948",
+      "watching": "2076",
+      "completed": "52226",
+      "on_hold": "949",
       "dropped": "593",
-      "plan_to_watch": "21258"
+      "plan_to_watch": "21272"
     },
-    "num_list_users": 77089
-  }
+    "num_list_users": 77116
+  },
+  "mal_details_updated_at": "2026-11-15T17:21:36.604Z",
+  "translations_updated_at": "2026-11-15T17:24:24.832Z"
 }

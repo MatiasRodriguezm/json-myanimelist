@@ -31,10 +31,10 @@
   },
   "episodes": 13,
   "num_episodes": 13,
-  "score": 6.84,
-  "mean": 6.84,
-  "numListUsers": 39867,
-  "num_list_users": 39867,
+  "score": 6.83,
+  "mean": 6.83,
+  "numListUsers": 39909,
+  "num_list_users": 39909,
   "genres": [
     {
       "id": 1,
@@ -59,7 +59,11 @@
       "name": "Studio A-CAT"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1287/147886l.webp",
+    "https://cdn.myanimelist.net/images/anime/1334/156252l.webp",
+    "https://cdn.myanimelist.net/images/anime/1889/160053l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/k5G4ALskmO8GcSOO3fN8fePa9Ny.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/2n7hXr6wbzFwwJ0rWLiEkQHZByy.png",
   "tmdb_id": "283692",
@@ -76,7 +80,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1889/160053l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1287/147886l.webp"
     }
   },
   "broadcast": {
@@ -87,114 +91,114 @@
     "timezone": "Asia/Tokyo",
     "string": "sunday 21:30"
   },
-  "rank": 5852,
-  "popularity": 4223,
+  "rank": 5905,
+  "popularity": 4219,
   "rating": "pg_13",
   "simkl_id": 2706956,
   "episodes_data": [
     {
       "episode": 1,
       "title": "First Space Colony Visit",
-      "title_es": "Primera visita a la colonia espacial",
       "aired": "2026-10-04T21:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/2081538575c00297fa_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Primera visita a la colonia espacial"
     },
     {
       "episode": 2,
       "title": "Mimi the Girl",
-      "title_es": "Mimi la niña",
       "aired": "2026-10-11T21:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20859581ff611a6b01_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Mimi la niña"
     },
     {
       "episode": 3,
       "title": "Elma",
-      "title_es": "Elma",
       "aired": "2026-10-18T21:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/209091716f26a93f83_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Elma"
     },
     {
       "episode": 4,
       "title": "A New Daily Life",
-      "title_es": "Una nueva vida diaria",
       "aired": "2026-10-25T21:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/2094916596f996556e_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Una nueva vida diaria"
     },
     {
       "episode": 5,
       "title": "The Singing Crystal",
-      "title_es": "El cristal cantante",
       "aired": "2026-11-01T21:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20990947b99b522ce0_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "El cristal cantante"
     },
     {
       "episode": 6,
       "title": "The Arein System",
-      "title_es": "El sistema Arein",
       "aired": "2026-11-08T21:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/21/210409871ff9387413_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "El sistema Arein"
     },
     {
       "episode": 7,
       "title": "Episode 7",
-      "title_es": "Episodio 7",
       "aired": "2026-11-15T21:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/21/21078055cda687b808_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Episodio 7"
     },
     {
       "episode": 8,
       "title": "Episode 8",
-      "title_es": "Episodio 8",
       "aired": "2026-11-22T21:30:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 8"
     },
     {
       "episode": 9,
       "title": "Episode 9",
-      "title_es": "Episodio 9",
       "aired": "2026-11-29T21:30:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 9"
     },
     {
       "episode": 10,
       "title": "Episode 10",
-      "title_es": "Episodio 10",
       "aired": "2026-12-06T21:30:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 10"
     },
     {
       "episode": 11,
       "title": "Episode 11",
-      "title_es": "Episodio 11",
       "aired": "2026-12-13T21:30:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 11"
     },
     {
       "episode": 12,
       "title": "Episode 12",
-      "title_es": "Episodio 12",
       "aired": "2026-12-20T21:30:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 12"
     }
   ],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 5136,
+  "num_scoring_users": 5167,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2025-02-06T06:01:40+00:00",
+  "updated_at": "2026-10-14T22:15:48+00:00",
   "source": "light_novel",
   "background": null,
   "related_anime": [],
@@ -205,8 +209,8 @@
         "id": 60154,
         "title": "Ore wa Seikan Kokka no Akutoku Ryoushu!",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1703/148600.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1703/148600l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1703/148600.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1703/148600l.webp"
         }
       },
       "num_recommendations": 2
@@ -236,12 +240,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "23282",
-      "completed": "5",
-      "on_hold": "512",
-      "dropped": "1166",
-      "plan_to_watch": "14797"
+      "watching": "23387",
+      "completed": "2",
+      "on_hold": "516",
+      "dropped": "1182",
+      "plan_to_watch": "14830"
     },
-    "num_list_users": 39762
-  }
+    "num_list_users": 39917
+  },
+  "mal_details_updated_at": "2026-11-15T17:14:31.982Z",
+  "translations_updated_at": "2026-11-15T17:24:35.558Z"
 }

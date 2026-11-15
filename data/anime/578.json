@@ -32,8 +32,8 @@
   "num_episodes": 1,
   "score": 8.55,
   "mean": 8.55,
-  "numListUsers": 787264,
-  "num_list_users": 787264,
+  "numListUsers": 787280,
+  "num_list_users": 787280,
   "genres": [
     {
       "id": 8,
@@ -50,7 +50,15 @@
       "name": "Studio Ghibli"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1/578l.webp",
+    "https://cdn.myanimelist.net/images/anime/11/13833l.webp",
+    "https://cdn.myanimelist.net/images/anime/7/20802l.webp",
+    "https://cdn.myanimelist.net/images/anime/10/35821l.webp",
+    "https://cdn.myanimelist.net/images/anime/6/40275l.webp",
+    "https://cdn.myanimelist.net/images/anime/4/42067l.webp",
+    "https://cdn.myanimelist.net/images/anime/1485/141208l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/aHaqZpOL7UyVu0nKqp3SMz0o2E1.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/f28Zh33GdTHEeMGQXXX77am2Su7.png",
   "tmdb_id": "12477",
@@ -67,7 +75,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1485/141208l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1/578l.webp"
     }
   },
   "broadcast": null,
@@ -144,10 +152,10 @@
     }
   ],
   "characters": [],
-  "num_scoring_users": 471581,
+  "num_scoring_users": 471879,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2006-01-16T19:35:39+00:00",
+  "updated_at": "2023-01-13T14:34:06+00:00",
   "source": "novel",
   "background": "Hotaru no Haka is based on the 1967 semi-autobiographical short story of the same name by Akiyuki Nosaka, which is centered on his experiences during and after the American firebombing of Kobe in 1945, and was released as a double feature with My Neighbor Totoro.\n\nThe movie has won several awards including the Japan Catholic Film Award in 1988, the Special Award in the 31st Blue Ribbon Awards in 1989, the Animation Jury and Rights of the Child Awards in the Chicago International Children's Film Festival in 1994, and the 1st Moscow International Children's and Youth's Film Festival Grand Prix in 1998.",
   "related_anime": [],
@@ -246,8 +254,8 @@
         "id": 9989,
         "title": "Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/5/79697.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/5/79697l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/5/79697.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/5/79697l.webp"
         }
       },
       "num_recommendations": 3
@@ -266,12 +274,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "13409",
-      "completed": "595763",
-      "on_hold": "4724",
-      "dropped": "2135",
-      "plan_to_watch": "170496"
+      "watching": "13413",
+      "completed": "596167",
+      "on_hold": "4727",
+      "dropped": "2138",
+      "plan_to_watch": "170603"
     },
-    "num_list_users": 786527
-  }
+    "num_list_users": 787048
+  },
+  "mal_details_updated_at": "2026-11-15T17:20:16.051Z",
+  "translations_updated_at": "2026-11-15T17:23:56.071Z"
 }

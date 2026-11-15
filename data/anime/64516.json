@@ -29,8 +29,8 @@
   "num_episodes": null,
   "score": null,
   "mean": null,
-  "numListUsers": 68158,
-  "num_list_users": 68158,
+  "numListUsers": 68187,
+  "num_list_users": 68187,
   "genres": [
     {
       "id": 10,
@@ -47,11 +47,13 @@
       "name": "BUG FILMS"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1928/158795l.webp"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T13:05:42.751Z",
+  "tmdb_updated_at": "2026-11-15T17:18:35.386Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1928/158795.webp",
@@ -69,16 +71,16 @@
   },
   "broadcast": null,
   "rank": null,
-  "popularity": 3129,
+  "popularity": 3126,
   "rating": "pg_13",
   "simkl_id": 3168140,
   "episodes_data": [],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 5,
+  "num_scoring_users": 1,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2026-06-29T15:34:02+00:00",
+  "updated_at": "2026-06-29T16:07:00+00:00",
   "source": "manga",
   "background": null,
   "related_anime": [
@@ -99,12 +101,14 @@
   "recommendations": [],
   "statistics": {
     "status": {
-      "watching": "7",
+      "watching": "5",
       "completed": "1",
-      "on_hold": "2",
+      "on_hold": "1",
       "dropped": 0,
-      "plan_to_watch": "68103"
+      "plan_to_watch": "68180"
     },
-    "num_list_users": 68113
-  }
+    "num_list_users": 68187
+  },
+  "mal_details_updated_at": "2026-11-15T17:18:34.662Z",
+  "translations_updated_at": "2026-11-15T17:25:04.059Z"
 }

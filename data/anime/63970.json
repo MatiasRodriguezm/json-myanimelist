@@ -32,8 +32,8 @@
   "num_episodes": null,
   "score": null,
   "mean": null,
-  "numListUsers": 3450,
-  "num_list_users": 3450,
+  "numListUsers": 3453,
+  "num_list_users": 3453,
   "genres": [
     {
       "id": 4,
@@ -58,11 +58,14 @@
       "name": "EMT Squared"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1014/156844l.webp",
+    "https://cdn.myanimelist.net/images/anime/1434/159671l.webp"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T13:05:27.921Z",
+  "tmdb_updated_at": "2026-11-15T17:17:50.552Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1434/159671.webp",
@@ -75,21 +78,21 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1434/159671l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1014/156844l.webp"
     }
   },
   "broadcast": null,
   "rank": null,
-  "popularity": 11065,
+  "popularity": 11053,
   "rating": null,
   "simkl_id": 3087356,
   "episodes_data": [],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": null,
+  "num_scoring_users": 1,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2026-04-17T09:49:17+00:00",
+  "updated_at": "2026-08-21T15:38:38+00:00",
   "source": "manga",
   "background": null,
   "related_anime": [],
@@ -97,12 +100,14 @@
   "recommendations": [],
   "statistics": {
     "status": {
-      "watching": "2",
+      "watching": 0,
       "completed": 0,
-      "on_hold": "1",
+      "on_hold": 0,
       "dropped": 0,
-      "plan_to_watch": "3436"
+      "plan_to_watch": "3453"
     },
-    "num_list_users": 3439
-  }
+    "num_list_users": 3453
+  },
+  "mal_details_updated_at": "2026-11-15T17:17:50.045Z",
+  "translations_updated_at": "2026-11-15T17:24:59.896Z"
 }

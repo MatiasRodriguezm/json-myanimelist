@@ -58,11 +58,17 @@
       "name": "Shaft"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/8/76487l.webp",
+    "https://cdn.myanimelist.net/images/anime/3/81576l.webp",
+    "https://cdn.myanimelist.net/images/anime/8/82911l.webp",
+    "https://cdn.myanimelist.net/images/anime/5/82921l.webp",
+    "https://cdn.myanimelist.net/images/anime/1084/112813l.webp"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T13:05:57.272Z",
+  "tmdb_updated_at": "2026-11-15T17:20:00.426Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1084/112813.webp",
@@ -75,11 +81,11 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1084/112813l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/8/76487l.webp"
     }
   },
   "broadcast": null,
-  "rank": 44,
+  "rank": 43,
   "popularity": 507,
   "rating": "r",
   "simkl_id": 36162,
@@ -111,10 +117,10 @@
   ],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 305170,
+  "num_scoring_users": 305320,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2015-10-03T17:22:50+00:00",
+  "updated_at": "2023-09-10T04:31:33+00:00",
   "source": "light_novel",
   "background": "The Kizumonogatari movie trilogy adapts the third volume of NisiOisiN's Monogatari Series: First Season.",
   "related_anime": [
@@ -135,8 +141,8 @@
         "id": 31757,
         "title": "Kizumonogatari II: Nekketsu-hen",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1981/112812.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1981/112812l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1981/112812.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1981/112812l.webp"
         }
       },
       "relation_type": "prequel",
@@ -217,8 +223,8 @@
         "id": 37451,
         "title": "Boogiepop wa Warawanai (2019)",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1135/95454.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1135/95454l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1135/95454.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1135/95454l.webp"
         }
       },
       "num_recommendations": 1
@@ -237,12 +243,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "14446",
-      "completed": "386339",
-      "on_hold": "3342",
-      "dropped": "1872",
-      "plan_to_watch": "117735"
+      "watching": "14456",
+      "completed": "386532",
+      "on_hold": "3343",
+      "dropped": "1874",
+      "plan_to_watch": "117760"
     },
-    "num_list_users": 523734
-  }
+    "num_list_users": 523965
+  },
+  "mal_details_updated_at": "2026-11-15T17:20:00.126Z",
+  "translations_updated_at": "2026-11-15T17:24:00.498Z"
 }

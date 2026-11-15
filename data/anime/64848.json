@@ -56,11 +56,13 @@
       "name": "Shogakukan Music & Digital Entertainment"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1443/159682l.webp"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T13:04:42.412Z",
+  "tmdb_updated_at": "2026-11-15T17:15:30.430Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1443/159682.webp",
@@ -77,50 +79,50 @@
     }
   },
   "broadcast": null,
-  "rank": 16786,
-  "popularity": 19093,
+  "rank": 16787,
+  "popularity": 19095,
   "rating": "r",
   "simkl_id": 3034616,
   "episodes_data": [
     {
       "episode": 1,
       "title": "Episode 1",
-      "title_es": "Episodio 1",
       "aired": "2026-10-09T00:00:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 1"
     },
     {
       "episode": 2,
       "title": "Episode 2",
-      "title_es": "Episodio 2",
       "aired": "2026-10-23T00:00:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 2"
     },
     {
       "episode": 3,
       "title": "Episode 3",
-      "title_es": "Episodio 3",
       "aired": "2026-11-06T00:00:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 3"
     },
     {
       "episode": 4,
       "title": "Episode 4",
-      "title_es": "Episodio 4",
       "aired": "2026-11-20T00:00:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 4"
     }
   ],
   "specials_data": [],
   "characters": [],
   "num_scoring_users": 20,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2026-08-22T06:44:13+00:00",
+  "updated_at": "2026-08-22T06:44:41+00:00",
   "source": "manga",
   "background": null,
   "related_anime": [
@@ -148,5 +150,7 @@
       "plan_to_watch": "382"
     },
     "num_list_users": 503
-  }
+  },
+  "mal_details_updated_at": "2026-11-15T17:15:29.930Z",
+  "translations_updated_at": "2026-11-15T17:25:06.409Z"
 }

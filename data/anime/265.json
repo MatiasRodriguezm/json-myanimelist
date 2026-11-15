@@ -52,7 +52,10 @@
       "name": "Madhouse"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/4/10217l.webp",
+    "https://cdn.myanimelist.net/images/anime/4/64737l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/uvCkSZwCTKnBtBOvDpcOvQA6xBg.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/qlJ4cCqnHNs8cPEZDlM67RwZIFQ.png",
   "tmdb_id": "42705",
@@ -69,12 +72,12 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/4/64737l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/4/10217l.webp"
     }
   },
   "broadcast": null,
   "rank": 375,
-  "popularity": 2025,
+  "popularity": 2024,
   "rating": "pg_13",
   "simkl_id": 39782,
   "episodes_data": [
@@ -89,10 +92,10 @@
   ],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 80096,
+  "num_scoring_users": 80145,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2005-11-13T07:03:56+00:00",
+  "updated_at": "2023-01-20T15:08:05+00:00",
   "source": "manga",
   "background": null,
   "related_anime": [
@@ -101,8 +104,8 @@
         "id": 264,
         "title": "Hajime no Ippo: Champion Road",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1521/137978.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1521/137978l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1521/137978.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1521/137978l.webp"
         }
       },
       "relation_type": "prequel",
@@ -137,12 +140,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "2443",
-      "completed": "110708",
+      "watching": "2446",
+      "completed": "110790",
       "on_hold": "701",
       "dropped": "539",
-      "plan_to_watch": "16890"
+      "plan_to_watch": "16894"
     },
-    "num_list_users": 131281
-  }
+    "num_list_users": 131370
+  },
+  "mal_details_updated_at": "2026-11-15T17:21:24.518Z",
+  "translations_updated_at": "2026-11-15T17:24:08.308Z"
 }

@@ -30,8 +30,8 @@
   "num_episodes": 13,
   "score": 8.12,
   "mean": 8.12,
-  "numListUsers": 82134,
-  "num_list_users": 82134,
+  "numListUsers": 82137,
+  "num_list_users": 82137,
   "genres": [
     {
       "id": 1,
@@ -64,11 +64,21 @@
       "name": "TMS Entertainment"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/7/29580l.webp",
+    "https://cdn.myanimelist.net/images/anime/9/29583l.webp",
+    "https://cdn.myanimelist.net/images/anime/10/29584l.webp",
+    "https://cdn.myanimelist.net/images/anime/8/29596l.webp",
+    "https://cdn.myanimelist.net/images/anime/12/29597l.webp",
+    "https://cdn.myanimelist.net/images/anime/1982/92780l.webp",
+    "https://cdn.myanimelist.net/images/anime/1023/106126l.webp",
+    "https://cdn.myanimelist.net/images/anime/1521/151924l.webp",
+    "https://cdn.myanimelist.net/images/anime/1252/151925l.webp"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T13:06:01.268Z",
+  "tmdb_updated_at": "2026-11-15T17:21:30.180Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/12/29597.webp",
@@ -81,12 +91,12 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/12/29597l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/7/29580l.webp"
     }
   },
   "broadcast": null,
   "rank": 582,
-  "popularity": 2790,
+  "popularity": 2791,
   "rating": "pg_13",
   "simkl_id": 36269,
   "episodes_data": [
@@ -334,10 +344,10 @@
     }
   ],
   "characters": [],
-  "num_scoring_users": 48368,
+  "num_scoring_users": 48377,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2010-07-04T00:54:16+00:00",
+  "updated_at": "2025-02-12T19:43:13+00:00",
   "source": "manga",
   "background": null,
   "related_anime": [
@@ -358,8 +368,8 @@
         "id": 6171,
         "title": "Saint Seiya: The Lost Canvas - Meiou Shinwa",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/8/75546.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/8/75546l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/8/75546.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/8/75546l.jpg"
         }
       },
       "relation_type": "prequel",
@@ -393,12 +403,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "3173",
-      "completed": "63055",
+      "watching": "3174",
+      "completed": "63073",
       "on_hold": "1344",
       "dropped": "1145",
-      "plan_to_watch": "13382"
+      "plan_to_watch": "13388"
     },
-    "num_list_users": 82099
-  }
+    "num_list_users": 82124
+  },
+  "mal_details_updated_at": "2026-11-15T17:21:29.973Z",
+  "translations_updated_at": "2026-11-15T17:25:14.816Z"
 }

@@ -32,8 +32,8 @@
   "num_episodes": 26,
   "score": 8.39,
   "mean": 8.39,
-  "numListUsers": 3532285,
-  "num_list_users": 3532285,
+  "numListUsers": 3532352,
+  "num_list_users": 3532352,
   "genres": [
     {
       "id": 1,
@@ -62,7 +62,17 @@
       "name": "ufotable"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1368/93482l.webp",
+    "https://cdn.myanimelist.net/images/anime/1466/99748l.webp",
+    "https://cdn.myanimelist.net/images/anime/1286/99889l.webp",
+    "https://cdn.myanimelist.net/images/anime/1310/100840l.webp",
+    "https://cdn.myanimelist.net/images/anime/1107/100990l.webp",
+    "https://cdn.myanimelist.net/images/anime/1628/103229l.webp",
+    "https://cdn.myanimelist.net/images/anime/1786/107453l.webp",
+    "https://cdn.myanimelist.net/images/anime/1588/108571l.webp",
+    "https://cdn.myanimelist.net/images/anime/1264/111392l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/nTvM4mhqNlHIvUkI1gVnW6XP7GG.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/ecghlDeabR3X3Vv8tXIOeXHQvQe.png",
   "tmdb_id": "85937",
@@ -79,7 +89,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1286/99889l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1368/93482l.webp"
     }
   },
   "broadcast": {
@@ -90,7 +100,7 @@
     "timezone": "Asia/Tokyo",
     "string": "saturday 23:30"
   },
-  "rank": 245,
+  "rank": 246,
   "popularity": 5,
   "rating": "r",
   "simkl_id": 831411,
@@ -306,10 +316,10 @@
   ],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 2416899,
+  "num_scoring_users": 2418140,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2018-07-21T05:29:59+00:00",
+  "updated_at": "2024-11-17T15:10:57+00:00",
   "source": "manga",
   "background": "The anime covers chapters 1 to 53 of the manga.\n\nKimetsu no Yaiba won the Animation of the Year award in the Television category at the Tokyo Anime Award Festival in 2020.",
   "related_anime": [
@@ -342,8 +352,8 @@
         "id": 48861,
         "title": "Chuukou Ikkan!! Kimetsu Gakuen Monogatari: Kimetsu no Utage Tokubetsu-hen",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1666/125846.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1666/125846l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1666/125846.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1666/125846l.webp"
         }
       },
       "relation_type": "other",
@@ -381,8 +391,8 @@
         "id": 40748,
         "title": "Jujutsu Kaisen",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1171/109222.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1171/109222l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1171/109222.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1171/109222l.jpg"
         }
       },
       "num_recommendations": 76
@@ -436,8 +446,8 @@
         "id": 31964,
         "title": "Boku no Hero Academia",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/10/78745.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/10/78745l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/10/78745.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/78745l.jpg"
         }
       },
       "num_recommendations": 16
@@ -458,8 +468,8 @@
         "id": 249,
         "title": "InuYasha",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1589/95329.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1589/95329l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1589/95329.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1589/95329l.jpg"
         }
       },
       "num_recommendations": 12
@@ -480,8 +490,8 @@
         "id": 26243,
         "title": "Owari no Seraph",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1879/148979.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1879/148979l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1879/148979.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1879/148979l.jpg"
         }
       },
       "num_recommendations": 11
@@ -489,12 +499,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "236377",
-      "completed": "2992776",
-      "on_hold": "49164",
-      "dropped": "53439",
-      "plan_to_watch": "198312"
+      "watching": "236455",
+      "completed": "2994529",
+      "on_hold": "49178",
+      "dropped": "53485",
+      "plan_to_watch": "198383"
     },
-    "num_list_users": 3530068
-  }
+    "num_list_users": 3532030
+  },
+  "mal_details_updated_at": "2026-11-15T17:18:07.405Z",
+  "translations_updated_at": "2026-11-15T17:23:29.793Z"
 }

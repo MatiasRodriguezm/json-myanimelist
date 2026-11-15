@@ -70,7 +70,12 @@
       "name": "Studio 4°C"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/5/6474l.webp",
+    "https://cdn.myanimelist.net/images/anime/3/9853l.webp",
+    "https://cdn.myanimelist.net/images/anime/4/9979l.webp",
+    "https://cdn.myanimelist.net/images/anime/12/11225l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/x32lkbTZdjMyrmQ50YuuI3vUjee.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/yMIopQBnk65lJx3aAv5jhAvtWKL.png",
   "tmdb_id": "43066",
@@ -87,12 +92,12 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/3/9853l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/5/6474l.webp"
     }
   },
   "broadcast": null,
-  "rank": 634,
-  "popularity": 1280,
+  "rank": 635,
+  "popularity": 1281,
   "rating": "r",
   "simkl_id": 37414,
   "episodes_data": [
@@ -204,10 +209,10 @@
     }
   ],
   "characters": [],
-  "num_scoring_users": 114360,
+  "num_scoring_users": 114372,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2008-01-10T00:37:08+00:00",
+  "updated_at": "2024-01-05T05:09:57+00:00",
   "source": "manga",
   "background": "Detroit Metal City's name originated from the song Detroit Rock City by the band KISS.",
   "related_anime": [
@@ -216,8 +221,8 @@
         "id": 5065,
         "title": "Detroit Metal City: Birth of the Metal Devil",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/7/9898.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/7/9898l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/7/9898.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/7/9898l.webp"
         }
       },
       "relation_type": "summary",
@@ -231,8 +236,8 @@
         "id": 114,
         "title": "Sakigake!! Cromartie Koukou",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1782/130913.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1782/130913l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1782/130913.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1782/130913l.jpg"
         }
       },
       "num_recommendations": 11
@@ -242,8 +247,8 @@
         "id": 57,
         "title": "Beck",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/11/11636.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/11/11636l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/11/11636.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/11/11636l.webp"
         }
       },
       "num_recommendations": 10
@@ -253,8 +258,8 @@
         "id": 36873,
         "title": "Back Street Girls: Gokudolls",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1484/93140.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1484/93140l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1484/93140.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1484/93140l.jpg"
         }
       },
       "num_recommendations": 8
@@ -275,8 +280,8 @@
         "id": 5680,
         "title": "K-On!",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/10/76120.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/10/76120l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/10/76120.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/10/76120l.webp"
         }
       },
       "num_recommendations": 5
@@ -286,8 +291,8 @@
         "id": 10216,
         "title": "Yondemasu yo, Azazel-san. (TV)",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/4/75284.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/4/75284l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/4/75284.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/4/75284l.webp"
         }
       },
       "num_recommendations": 5
@@ -319,8 +324,8 @@
         "id": 8795,
         "title": "Panty & Stocking with Garterbelt",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1296/142674.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1296/142674l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1296/142674.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1296/142674l.jpg"
         }
       },
       "num_recommendations": 4
@@ -339,12 +344,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "8340",
-      "completed": "137877",
-      "on_hold": "5287",
-      "dropped": "6193",
-      "plan_to_watch": "69306"
+      "watching": "8341",
+      "completed": "137897",
+      "on_hold": "5289",
+      "dropped": "6195",
+      "plan_to_watch": "69335"
     },
-    "num_list_users": 227003
-  }
+    "num_list_users": 227057
+  },
+  "mal_details_updated_at": "2026-11-15T17:21:32.331Z",
+  "translations_updated_at": "2026-11-15T17:24:23.029Z"
 }

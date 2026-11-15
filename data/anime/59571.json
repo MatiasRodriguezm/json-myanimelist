@@ -32,8 +32,8 @@
   "num_episodes": 1,
   "score": 8.84,
   "mean": 8.84,
-  "numListUsers": 105415,
-  "num_list_users": 105415,
+  "numListUsers": 105430,
+  "num_list_users": 105430,
   "genres": [
     {
       "id": 1,
@@ -70,7 +70,13 @@
       "name": "MAPPA"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1972/144820l.webp",
+    "https://cdn.myanimelist.net/images/anime/1379/145452l.webp",
+    "https://cdn.myanimelist.net/images/anime/1279/154294l.webp",
+    "https://cdn.myanimelist.net/images/anime/1350/157785l.webp",
+    "https://cdn.myanimelist.net/images/anime/1735/157786l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/yPJyXYfDrlD7bEjAtTAQ8nqmRIf.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/kUo9QDGhr1UFTaIDNLDambmI9Sx.png",
   "tmdb_id": "1333100",
@@ -87,12 +93,12 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1379/145452l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1972/144820l.webp"
     }
   },
   "broadcast": null,
   "rank": 33,
-  "popularity": 2391,
+  "popularity": 2388,
   "rating": "r",
   "simkl_id": 2544548,
   "episodes_data": [
@@ -107,10 +113,10 @@
   ],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 51502,
+  "num_scoring_users": 51748,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2024-08-17T17:07:29+00:00",
+  "updated_at": "2024-08-18T00:40:07+00:00",
   "source": "manga",
   "background": null,
   "related_anime": [
@@ -131,12 +137,14 @@
   "recommendations": [],
   "statistics": {
     "status": {
-      "watching": "4243",
-      "completed": "75947",
-      "on_hold": "696",
-      "dropped": "706",
-      "plan_to_watch": "23355"
+      "watching": "4248",
+      "completed": "76319",
+      "on_hold": "697",
+      "dropped": "708",
+      "plan_to_watch": "23374"
     },
-    "num_list_users": 104947
-  }
+    "num_list_users": 105346
+  },
+  "mal_details_updated_at": "2026-11-15T17:19:56.688Z",
+  "translations_updated_at": "2026-11-15T17:24:00.076Z"
 }

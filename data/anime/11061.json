@@ -32,8 +32,8 @@
   "num_episodes": 148,
   "score": 9.03,
   "mean": 9.03,
-  "numListUsers": 3262919,
-  "num_list_users": 3262919,
+  "numListUsers": 3263001,
+  "num_list_users": 3263001,
   "genres": [
     {
       "id": 1,
@@ -58,7 +58,23 @@
       "name": "Madhouse"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/5/37973l.webp",
+    "https://cdn.myanimelist.net/images/anime/13/47129l.webp",
+    "https://cdn.myanimelist.net/images/anime/4/49303l.webp",
+    "https://cdn.myanimelist.net/images/anime/6/65771l.webp",
+    "https://cdn.myanimelist.net/images/anime/10/66303l.webp",
+    "https://cdn.myanimelist.net/images/anime/2/71839l.webp",
+    "https://cdn.myanimelist.net/images/anime/1639/92662l.webp",
+    "https://cdn.myanimelist.net/images/anime/1337/99013l.webp",
+    "https://cdn.myanimelist.net/images/anime/1813/109433l.webp",
+    "https://cdn.myanimelist.net/images/anime/1097/110402l.webp",
+    "https://cdn.myanimelist.net/images/anime/1735/117788l.webp",
+    "https://cdn.myanimelist.net/images/anime/1940/139867l.webp",
+    "https://cdn.myanimelist.net/images/anime/1236/145289l.webp",
+    "https://cdn.myanimelist.net/images/anime/1899/145290l.webp",
+    "https://cdn.myanimelist.net/images/anime/1805/145291l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/bFKKyCI89Xq98Gul8cGox8K3sZa.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/jTzF5T8Ob6oZRinUCnhbLqrxFsM.png",
   "tmdb_id": "46298",
@@ -75,7 +91,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1337/99013l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/5/37973l.webp"
     }
   },
   "broadcast": {
@@ -1535,10 +1551,10 @@
     }
   ],
   "characters": [],
-  "num_scoring_users": 2024214,
+  "num_scoring_users": 2025297,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2011-07-27T08:41:39+00:00",
+  "updated_at": "2023-09-30T15:05:19+00:00",
   "source": "manga",
   "background": null,
   "related_anime": [
@@ -1547,8 +1563,8 @@
         "id": 136,
         "title": "Hunter x Hunter",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1305/132237.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1305/132237l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1305/132237.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1305/132237l.webp"
         }
       },
       "relation_type": "alternative_version",
@@ -1559,8 +1575,8 @@
         "id": 137,
         "title": "Hunter x Hunter: Original Video Animation",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1/137.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1/137l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1/137.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1/137l.jpg"
         }
       },
       "relation_type": "alternative_version",
@@ -1571,8 +1587,8 @@
         "id": 138,
         "title": "Hunter x Hunter: Greed Island",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1902/122320.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1902/122320l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1902/122320.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1902/122320l.webp"
         }
       },
       "relation_type": "alternative_version",
@@ -1583,8 +1599,8 @@
         "id": 139,
         "title": "Hunter x Hunter: Greed Island Final",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1/139.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1/139l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1/139.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1/139l.webp"
         }
       },
       "relation_type": "alternative_version",
@@ -1656,8 +1672,8 @@
         "id": 392,
         "title": "Yuu☆Yuu☆Hakusho",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1228/111372.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1228/111372l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1228/111372.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1228/111372l.jpg"
         }
       },
       "num_recommendations": 59
@@ -1689,8 +1705,8 @@
         "id": 31964,
         "title": "Boku no Hero Academia",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/10/78745.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/10/78745l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/10/78745.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/78745l.jpg"
         }
       },
       "num_recommendations": 27
@@ -1733,8 +1749,8 @@
         "id": 20899,
         "title": "JoJo no Kimyou na Bouken Part 3: Stardust Crusaders",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/11/55267.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/11/55267l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/11/55267.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/11/55267l.jpg"
         }
       },
       "num_recommendations": 16
@@ -1742,12 +1758,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "390375",
-      "completed": "2246714",
-      "on_hold": "155841",
-      "dropped": "72075",
-      "plan_to_watch": "395741"
+      "watching": "390576",
+      "completed": "2248062",
+      "on_hold": "155931",
+      "dropped": "72122",
+      "plan_to_watch": "395883"
     },
-    "num_list_users": 3260746
-  }
+    "num_list_users": 3262574
+  },
+  "mal_details_updated_at": "2026-11-15T17:12:59.237Z",
+  "translations_updated_at": "2026-11-15T17:23:30.100Z"
 }

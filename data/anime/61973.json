@@ -29,8 +29,8 @@
   "num_episodes": null,
   "score": null,
   "mean": null,
-  "numListUsers": 39080,
-  "num_list_users": 39080,
+  "numListUsers": 39084,
+  "num_list_users": 39084,
   "genres": [
     {
       "id": 1,
@@ -59,11 +59,14 @@
       "name": "Studio M2"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1217/152123l.webp",
+    "https://cdn.myanimelist.net/images/anime/1601/157813l.webp"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T13:05:56.438Z",
+  "tmdb_updated_at": "2026-11-15T17:19:53.382Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1601/157813.webp",
@@ -76,7 +79,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1601/157813l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1217/152123l.webp"
     }
   },
   "broadcast": null,
@@ -87,10 +90,10 @@
   "episodes_data": [],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 1,
+  "num_scoring_users": null,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2025-07-04T00:34:30+00:00",
+  "updated_at": "2026-10-30T12:13:06+00:00",
   "source": "light_novel",
   "background": null,
   "related_anime": [
@@ -113,10 +116,12 @@
     "status": {
       "watching": "2",
       "completed": 0,
-      "on_hold": "2",
+      "on_hold": "1",
       "dropped": 0,
-      "plan_to_watch": "39073"
+      "plan_to_watch": "39081"
     },
-    "num_list_users": 39077
-  }
+    "num_list_users": 39084
+  },
+  "mal_details_updated_at": "2026-11-15T17:19:53.011Z",
+  "translations_updated_at": "2026-11-15T17:24:40.182Z"
 }

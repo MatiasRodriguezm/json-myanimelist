@@ -33,8 +33,8 @@
   "num_episodes": 24,
   "score": 8.48,
   "mean": 8.48,
-  "numListUsers": 3138958,
-  "num_list_users": 3138958,
+  "numListUsers": 3139052,
+  "num_list_users": 3139052,
   "genres": [
     {
       "id": 1,
@@ -63,7 +63,16 @@
       "name": "MAPPA"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1909/104931l.webp",
+    "https://cdn.myanimelist.net/images/anime/1046/107701l.webp",
+    "https://cdn.myanimelist.net/images/anime/1171/109222l.webp",
+    "https://cdn.myanimelist.net/images/anime/1937/111424l.webp",
+    "https://cdn.myanimelist.net/images/anime/1132/128063l.webp",
+    "https://cdn.myanimelist.net/images/anime/1610/128064l.webp",
+    "https://cdn.myanimelist.net/images/anime/1844/128065l.webp",
+    "https://cdn.myanimelist.net/images/anime/1568/128066l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/3US5UXJSStOVozc6EwhGSMDguol.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/tEmqJ1k4MdjuaKaetn8wGyZGcyC.png",
   "tmdb_id": "95479",
@@ -80,7 +89,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1171/109222l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1909/104931l.webp"
     }
   },
   "broadcast": {
@@ -91,7 +100,7 @@
     "timezone": "Asia/Tokyo",
     "string": "saturday 01:25"
   },
-  "rank": 176,
+  "rank": 177,
   "popularity": 10,
   "rating": "r",
   "simkl_id": 1211265,
@@ -468,10 +477,10 @@
     }
   ],
   "characters": [],
-  "num_scoring_users": 2068077,
+  "num_scoring_users": 2069648,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2019-11-20T09:38:26+00:00",
+  "updated_at": "2024-10-02T16:16:51+00:00",
   "source": "manga",
   "background": "Winner of the Anime of the Year (TV Series) at the 2022 Tokyo Anime Award Festival (TAAF).",
   "related_anime": [
@@ -599,8 +608,8 @@
         "id": 20507,
         "title": "Noragami",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1886/128266.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1886/128266l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1886/128266.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1886/128266l.webp"
         }
       },
       "num_recommendations": 17
@@ -643,8 +652,8 @@
         "id": 31964,
         "title": "Boku no Hero Academia",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/10/78745.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/10/78745l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/10/78745.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/78745l.jpg"
         }
       },
       "num_recommendations": 12
@@ -663,12 +672,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "369086",
-      "completed": "2466756",
-      "on_hold": "51510",
-      "dropped": "38377",
-      "plan_to_watch": "210557"
+      "watching": "369159",
+      "completed": "2468913",
+      "on_hold": "51522",
+      "dropped": "38438",
+      "plan_to_watch": "210639"
     },
-    "num_list_users": 3136286
-  }
+    "num_list_users": 3138671
+  },
+  "mal_details_updated_at": "2026-11-15T17:18:08.857Z",
+  "translations_updated_at": "2026-11-15T17:23:30.300Z"
 }

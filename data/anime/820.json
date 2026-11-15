@@ -36,8 +36,8 @@
   "num_episodes": 110,
   "score": 9.02,
   "mean": 9.02,
-  "numListUsers": 372474,
-  "num_list_users": 372474,
+  "numListUsers": 372485,
+  "num_list_users": 372485,
   "genres": [
     {
       "id": 50,
@@ -70,7 +70,25 @@
       "name": "Kitty Film Mitaka Studio"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/8/9568l.webp",
+    "https://cdn.myanimelist.net/images/anime/13/13225l.webp",
+    "https://cdn.myanimelist.net/images/anime/3/22499l.webp",
+    "https://cdn.myanimelist.net/images/anime/6/22500l.webp",
+    "https://cdn.myanimelist.net/images/anime/8/48433l.webp",
+    "https://cdn.myanimelist.net/images/anime/2/74210l.webp",
+    "https://cdn.myanimelist.net/images/anime/2/74211l.webp",
+    "https://cdn.myanimelist.net/images/anime/6/74328l.webp",
+    "https://cdn.myanimelist.net/images/anime/11/75158l.webp",
+    "https://cdn.myanimelist.net/images/anime/1788/92945l.webp",
+    "https://cdn.myanimelist.net/images/anime/1649/93026l.webp",
+    "https://cdn.myanimelist.net/images/anime/1592/95769l.webp",
+    "https://cdn.myanimelist.net/images/anime/1078/96708l.webp",
+    "https://cdn.myanimelist.net/images/anime/1175/99811l.webp",
+    "https://cdn.myanimelist.net/images/anime/1935/103040l.webp",
+    "https://cdn.myanimelist.net/images/anime/1005/120407l.webp",
+    "https://cdn.myanimelist.net/images/anime/1976/142016l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/fWZu2vaHJg7M6iwqeFPO3rMHTi7.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/7brhNxFjohzRaHv05F8KTGrC80l.png",
   "tmdb_id": "27660",
@@ -87,7 +105,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1976/142016l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/8/9568l.webp"
     }
   },
   "broadcast": null,
@@ -979,10 +997,10 @@
   ],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 89958,
+  "num_scoring_users": 90005,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2006-03-15T19:37:04+00:00",
+  "updated_at": "2024-11-26T18:48:06+00:00",
   "source": "novel",
   "background": "Legend of the Galactic Heroes was adapted from a series of ten novels, published 1982–87, by Yoshiki Tanaka. The novels won the Seiun Award for the best long-form Japanese science fiction in 1988.\n\nAt the start of its production the anime was distributed through a subscription system in which episodes were mailed to existing fans of the novels. It was made in four separate tranches over nearly a decade, with the production of side-stories continuing for several further years. The main series has the largest voice cast of any anime, with well over 300 voice actors, and it is the longest OVA series ever made.\n\nThe novels have also been adapted into a manga, a stage musical by the Takarazuka Revue and a number of games.",
   "related_anime": [
@@ -1102,8 +1120,8 @@
         "id": 1575,
         "title": "Code Geass: Hangyaku no Lelouch",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1032/135088.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1032/135088l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1032/135088.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1032/135088l.webp"
         }
       },
       "num_recommendations": 25
@@ -1124,8 +1142,8 @@
         "id": 338,
         "title": "Versailles no Bara",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/9/57043.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/9/57043l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/9/57043.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/9/57043l.jpg"
         }
       },
       "num_recommendations": 10
@@ -1135,8 +1153,8 @@
         "id": 4066,
         "title": "Tytania",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/7/21841.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/7/21841l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/7/21841.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/7/21841l.webp"
         }
       },
       "num_recommendations": 9
@@ -1168,8 +1186,8 @@
         "id": 33,
         "title": "Kenpuu Denki Berserk",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1384/119988.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/1384/119988l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/1384/119988.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/1384/119988l.jpg"
         }
       },
       "num_recommendations": 8
@@ -1210,12 +1228,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "40860",
-      "completed": "84018",
-      "on_hold": "22023",
-      "dropped": "9877",
-      "plan_to_watch": "215358"
+      "watching": "40906",
+      "completed": "84075",
+      "on_hold": "22032",
+      "dropped": "9875",
+      "plan_to_watch": "215458"
     },
-    "num_list_users": 372136
-  }
+    "num_list_users": 372346
+  },
+  "mal_details_updated_at": "2026-11-15T17:13:00.236Z",
+  "translations_updated_at": "2026-11-15T17:23:59.083Z"
 }

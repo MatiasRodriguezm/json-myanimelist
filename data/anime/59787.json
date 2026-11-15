@@ -34,8 +34,8 @@
   "num_episodes": 12,
   "score": 7.3,
   "mean": 7.3,
-  "numListUsers": 34888,
-  "num_list_users": 34888,
+  "numListUsers": 34949,
+  "num_list_users": 34949,
   "genres": [
     {
       "id": 1,
@@ -56,7 +56,11 @@
       "name": "Atra"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1980/153438l.webp",
+    "https://cdn.myanimelist.net/images/anime/1112/156366l.webp",
+    "https://cdn.myanimelist.net/images/anime/1208/160008l.webp"
+  ],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/6LeBjYSPULKwSv5R6sX6Iovwoad.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/hXWCx0n6cYBMcjngZ8M2iZXLwmZ.png",
   "tmdb_id": "305313",
@@ -73,7 +77,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1208/160008l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1980/153438l.webp"
     }
   },
   "broadcast": {
@@ -84,114 +88,114 @@
     "timezone": "Asia/Tokyo",
     "string": "monday 23:30"
   },
-  "rank": 3276,
-  "popularity": 4505,
+  "rank": 3212,
+  "popularity": 4489,
   "rating": "pg_13",
   "simkl_id": 2577398,
   "episodes_data": [
     {
       "episode": 1,
       "title": "The Girl Named Romelia",
-      "title_es": "La niña llamada Romelia",
       "aired": "2026-10-03T23:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20814791fb08342f21_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "La niña llamada Romelia"
     },
     {
       "episode": 2,
       "title": "Fortress Takeover",
-      "title_es": "Toma de posesión de la fortaleza",
       "aired": "2026-10-10T23:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/208535899f8df6892b_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Toma de posesión de la fortaleza"
     },
     {
       "episode": 3,
       "title": "The Name of That Miracle",
-      "title_es": "El nombre de ese milagro",
       "aired": "2026-10-17T23:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20897601ea18bf0530_w.webp",
-      "description": "Romelia`s men fight their first battle."
+      "description": "Romelia`s men fight their first battle.",
+      "title_es": "El nombre de ese milagro"
     },
     {
       "episode": 4,
       "title": "The Troubles of a Young Man",
-      "title_es": "Los problemas de un joven",
       "aired": "2026-10-24T23:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/209485413e5637119c_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Los problemas de un joven"
     },
     {
       "episode": 5,
       "title": "The Line Between Courage and Recklessness",
-      "title_es": "La línea entre el coraje y la imprudencia",
       "aired": "2026-10-31T23:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20983981a0fe57889c_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "La línea entre el coraje y la imprudencia"
     },
     {
       "episode": 6,
       "title": "Each of Their Resolves",
-      "title_es": "Cada una de sus resoluciones",
       "aired": "2026-11-07T23:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/21/21028457e4fbbf51e1_w.webp",
-      "description": "Gran, Ragn, and Romelia are kidnapped by bandits."
+      "description": "Gran, Ragn, and Romelia are kidnapped by bandits.",
+      "title_es": "Cada una de sus resoluciones"
     },
     {
       "episode": 7,
       "title": "Musical Chairs",
-      "title_es": "Sillas Musicales",
       "aired": "2026-11-14T23:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/21/21071519cf3b2fc0cf_w.webp",
-      "description": "Romelia makes her triumphant return to Fort Carolus."
+      "description": "Romelia makes her triumphant return to Fort Carolus.",
+      "title_es": "Sillas Musicales"
     },
     {
       "episode": 8,
       "title": "Episode 8",
-      "title_es": "Episodio 8",
       "aired": "2026-11-21T23:30:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 8"
     },
     {
       "episode": 9,
       "title": "Episode 9",
-      "title_es": "Episodio 9",
       "aired": "2026-11-28T23:30:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 9"
     },
     {
       "episode": 10,
       "title": "Episode 10",
-      "title_es": "Episodio 10",
       "aired": "2026-12-05T23:30:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 10"
     },
     {
       "episode": 11,
       "title": "Episode 11",
-      "title_es": "Episodio 11",
       "aired": "2026-12-12T23:30:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 11"
     },
     {
       "episode": 12,
       "title": "Episode 12",
-      "title_es": "Episodio 12",
       "aired": "2026-12-19T23:30:00+09:00",
       "thumbnail": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 12"
     }
   ],
   "specials_data": [],
   "characters": [],
-  "num_scoring_users": 4659,
+  "num_scoring_users": 4712,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2024-09-09T23:16:25+00:00",
+  "updated_at": "2026-10-31T12:34:00+00:00",
   "source": "light_novel",
   "background": "Each episode was streamed two days in advance of the TV broadcast starting on October 3, 2026, on Crunchyroll, Anime Times, U-NEXT, and Netflix. Regular broadcasting began on October 5, 2026.",
   "related_anime": [
@@ -224,12 +228,14 @@
   ],
   "statistics": {
     "status": {
-      "watching": "21616",
-      "completed": "6",
-      "on_hold": "403",
-      "dropped": "766",
-      "plan_to_watch": "11920"
+      "watching": "21757",
+      "completed": "1",
+      "on_hold": "410",
+      "dropped": "772",
+      "plan_to_watch": "12009"
     },
-    "num_list_users": 34711
-  }
+    "num_list_users": 34949
+  },
+  "mal_details_updated_at": "2026-11-15T17:13:27.754Z",
+  "translations_updated_at": "2026-11-15T17:24:32.484Z"
 }

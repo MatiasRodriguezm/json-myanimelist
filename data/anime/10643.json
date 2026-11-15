@@ -62,11 +62,15 @@
       "name": "Sunrise"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/7/29295l.webp",
+    "https://cdn.myanimelist.net/images/anime/1725/110927l.webp",
+    "https://cdn.myanimelist.net/images/anime/1489/141627l.webp"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T13:06:06.293Z",
+  "tmdb_updated_at": "2026-11-15T17:22:00.381Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1725/110927.webp",
@@ -79,12 +83,12 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1725/110927l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/7/29295l.webp"
     }
   },
   "broadcast": null,
   "rank": 680,
-  "popularity": 4096,
+  "popularity": 4098,
   "rating": "pg_13",
   "simkl_id": 37474,
   "episodes_data": [
@@ -1756,10 +1760,10 @@
     }
   ],
   "characters": [],
-  "num_scoring_users": 17742,
+  "num_scoring_users": 17745,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2011-04-27T17:50:18+00:00",
+  "updated_at": "2022-11-17T07:06:09+00:00",
   "source": "manga",
   "background": null,
   "related_anime": [
@@ -1780,12 +1784,14 @@
   "recommendations": [],
   "statistics": {
     "status": {
-      "watching": "1282",
-      "completed": "27905",
+      "watching": "1284",
+      "completed": "27911",
       "on_hold": "538",
       "dropped": "510",
-      "plan_to_watch": "12230"
+      "plan_to_watch": "12232"
     },
-    "num_list_users": 42465
-  }
+    "num_list_users": 42475
+  },
+  "mal_details_updated_at": "2026-11-15T17:22:00.172Z",
+  "translations_updated_at": "2026-11-15T17:24:10.146Z"
 }
