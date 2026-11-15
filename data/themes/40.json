@@ -59,7 +59,466 @@
           "image_url": "https://cdn.myanimelist.net/images/anime/1079/138100l.jpg",
           "large_image_url": "https://cdn.myanimelist.net/images/anime/1079/138100l.jpg"
         }
-      }
+      },
+      "synopsis_es": "Asesinatos brutales, pequeños robos y violencia sin sentido contaminan el mundo humano. Por el contrario, el reino de los dioses de la muerte es un garito de juego monótono e inmutable. El ingenioso estudiante japonés de 17 años Light Yagami y el sádico dios de la muerte Ryuk comparten una creencia: sus mundos están podridos.\n\nPara su propia diversión, Ryuk deja caer su Death Note en el mundo humano. Light tropieza con él, considerando ridícula la primera de sus reglas: el humano cuyo nombre está escrito en esta nota morirá. Sin embargo, la tentación es demasiado grande y Light experimenta escribiendo el nombre de un delincuente, lo que representa de manera inquietante su primer asesinato.\n\nConsciente del aterrador poder divino que ha caído en sus manos, Light, bajo el alias Kira, sigue su perverso sentido de la justicia con el objetivo final de limpiar el mundo de todos los malhechores. El meticuloso detective L ya está tras su rastro, pero a medida que la brillantez de Light rivaliza con la de L, la gran persecución de Kira se convierte en una intensa batalla de ingenio que sólo puede terminar cuando uno de ellos está muerto.\n\n[Escrito por MAL Rewrite]",
+      "characters": [
+        {
+          "id": 71,
+          "name": "L Lawliet",
+          "role": "Main",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/10/249647.jpg?s=95cecc21f3db10318c68a0863f0132c8"
+        },
+        {
+          "id": 75,
+          "name": "Ryuk",
+          "role": "Main",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/10/59125.jpg?s=e258ccc6e6f6ed00c837b5ae8bced941"
+        },
+        {
+          "id": 80,
+          "name": "Light Yagami",
+          "role": "Main",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/6/63870.jpg?s=3adaed92c13123a9649ccc0cc6551f7d"
+        },
+        {
+          "id": 84527,
+          "name": "Yumi Aizawa",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/11/206675.jpg?s=4c7b666683ee1f79ce6a727b3aa92f85"
+        },
+        {
+          "id": 84531,
+          "name": "Eriko Aizawa",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/9/206679.jpg?s=e6580fe00d043400733fd69018f96063"
+        },
+        {
+          "id": 3767,
+          "name": "Shuuichi Aizawa",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/4/55515.jpg?s=a9df293e54c36408a5c17b5200e77404"
+        },
+        {
+          "id": 835,
+          "name": "Misa Amane",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/5/30971.jpg?s=0af596d087b34f6e05942dcae60aebae"
+        },
+        {
+          "id": 207498,
+          "name": "Armonia Justin Beyondormason",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/14/467933.jpg?s=97e83aa9a2b8c6cbc2945ed6fe6a81e8"
+        },
+        {
+          "id": 182770,
+          "name": "Kyle Block",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/8/548839.jpg?s=8d99f9a792846341248a97789226578e"
+        },
+        {
+          "id": 3769,
+          "name": "Halle Bullook",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/16/58404.jpg?s=02eca6f21dc5e221891b87a7474cb2bb"
+        },
+        {
+          "id": 23514,
+          "name": "Anthony Carter",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/9/68292.jpg?s=81a902a09ea05c4a0937ac3647d18672"
+        },
+        {
+          "id": 84517,
+          "name": "Larry Conners",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/14/206665.jpg?s=4ce71bbdcf755066a773292e61f467d8"
+        },
+        {
+          "id": 84515,
+          "name": "Carl Darlingbin",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/7/206663.jpg?s=d6d92c8f7f7d8874a51fc160dc1275e7"
+        },
+        {
+          "id": 30939,
+          "name": "Hitoshi Demegawa",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/9/102805.jpg?s=f074c68da2b9a75bb0e80bb1362babfc"
+        },
+        {
+          "id": 305317,
+          "name": "Eddie",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/11/647398.jpg?s=0eda3ed23838206327252c00722c03a6"
+        },
+        {
+          "id": 182765,
+          "name": "Ellickson Gardner",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/6/548840.jpg?s=15ddf6eb71fb65f72378ebc5cb11facf"
+        },
+        {
+          "id": 182785,
+          "name": "Daril Ghiroza",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/3/548841.jpg?s=f5f14b327d8e78d0c374a10088d37eb9"
+        },
+        {
+          "id": 79469,
+          "name": "Gook",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/6/462574.jpg?s=e8e8fcbf8493c37eded76c8964ffb8af"
+        },
+        {
+          "id": 37996,
+          "name": "Dwhite Gordon",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/2/177547.jpg?s=991b922a648f534eb75582fcbc8fa5c4"
+        },
+        {
+          "id": 1930,
+          "name": "Arayoshi Hatori",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/7/68293.jpg?s=db13f45a599488c3daad5f85d2c9f0f2"
+        },
+        {
+          "id": 1928,
+          "name": "Kyousuke Higuchi",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/3/141669.jpg?s=e8e3f0bca8a146820530456f136655d0"
+        },
+        {
+          "id": 20002,
+          "name": "Hideki Ide",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/8/68300.jpg?s=bbd5a91c9181fdb00254b58e3c18a849"
+        },
+        {
+          "id": 182782,
+          "name": "Zakk Irius",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/5/548843.jpg?s=b46c7000ffdb51d093a6b6813bbd31a2"
+        },
+        {
+          "id": 3883,
+          "name": "Jealous",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/13/68291.jpg?s=ddd91630fb124bd45b9d691e5ced9fe8"
+        },
+        {
+          "id": 2730,
+          "name": "Mail Jeevas",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/9/42363.jpg?s=2922e85e60bacaf94c6419bc9c9a792a"
+        },
+        {
+          "id": 182768,
+          "name": "Jose",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/6/483477.jpg?s=6062101a73c7daddb66f445bec8f9554"
+        },
+        {
+          "id": 182766,
+          "name": "Ginzou Kaneboshi",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/16/548844.jpg?s=7f497700062b99a287e760fe309b2cea"
+        },
+        {
+          "id": 463,
+          "name": "Mihael Keehl",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/2/31498.jpg?s=021fbd3f7ad05577fbbcd8cfb52e402b"
+        },
+        {
+          "id": 1933,
+          "name": "Mary Kenwood",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/5/36923.jpg?s=574ca76226e7696c9bc551af3338eb63"
+        },
+        {
+          "id": 1931,
+          "name": "Masahiko Kida",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/11/54038.jpg?s=6bf8f18bf9cd6df7f533a95196d174a9"
+        },
+        {
+          "id": 84519,
+          "name": "Koreyoshi Kitamura",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/6/206667.jpg?s=99767d43ab45e0e3b55eea953b9f1e66"
+        },
+        {
+          "id": 182773,
+          "name": "Pedro Kollet",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/3/483478.jpg?s=bc0afc4cb0770380c10cab5999ee580f"
+        },
+        {
+          "id": 182771,
+          "name": "Kyoko",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/2/548846.jpg?s=cd17832845f5d23c35fbb95e3229c611"
+        },
+        {
+          "id": 215457,
+          "name": "Light's Teacher",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/3/484050.jpg?s=174280010efde4ddcc95a46dbc26cc36"
+        },
+        {
+          "id": 3770,
+          "name": "Stephen Loud",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/15/55516.jpg?s=47e52b7367e9fde2e487c5528f990d43"
+        },
+        {
+          "id": 84525,
+          "name": "Steve Mason",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/5/206673.jpg?s=b4c77008411ec37c6c41fb487b7e9a08"
+        },
+        {
+          "id": 1906,
+          "name": "Touta Matsuda",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/10/68302.jpg?s=e252d9a5034b06973618a40d42dc5e2c"
+        },
+        {
+          "id": 5174,
+          "name": "Shingo Midou",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/4/177549.jpg?s=3ccfaf5d320df2c2c32d4d8a6ab26e4a"
+        },
+        {
+          "id": 1904,
+          "name": "Teru Mikami",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/14/36951.jpg?s=e7018dcde90b6f70f192eb36b0e2c81b"
+        },
+        {
+          "id": 182772,
+          "name": "Miller",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/16/475314.jpg?s=5646fabfc412079217ad094455e4155a"
+        },
+        {
+          "id": 4959,
+          "name": "Naomi Misora",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/4/146595.jpg?s=ce70135b2bdbd61c9e9361465ec605e0"
+        },
+        {
+          "id": 3766,
+          "name": "Kanzou Mogi",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/4/57644.jpg?s=8f18dbd8869451fa96397593d235f0e4"
+        },
+        {
+          "id": 1932,
+          "name": "Tierry Morello",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/7/36922.jpg?s=d0b7f43068d7024d9be22cd83480d63a"
+        },
+        {
+          "id": 1929,
+          "name": "Reiji Namikawa",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/8/57873.jpg?s=4ef663f2844710351be4d04ab7d898ac"
+        },
+        {
+          "id": 305328,
+          "name": "Nishinaka",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/6/647411.jpg?s=38c7917e9e6f0b1aa13b1b5d0dcf956f"
+        },
+        {
+          "id": 84529,
+          "name": "Noriko",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/13/206677.jpg?s=20c6a17b9f3ce2a6a941baea61499a40"
+        },
+        {
+          "id": 182779,
+          "name": "Yonegoro Nusumi",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/16/548848.jpg?s=84f42f06d5fb03a3067346f545f0bab5"
+        },
+        {
+          "id": 84507,
+          "name": "Takeshi Ooi",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/12/206655.jpg?s=bfd82ea2e83ab1498a13917fe1b1265f"
+        },
+        {
+          "id": 84513,
+          "name": "Kiichirou Osoreda",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/11/206661.jpg?s=2a6aa5c3b848eac16285f6fdeaa3dfda"
+        },
+        {
+          "id": 182769,
+          "name": "Kurou Otoharada",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/3/548849.jpg?s=370c8a6d9937f93f69755347d62ad7bb"
+        },
+        {
+          "id": 7044,
+          "name": "Raye Penber",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/16/56933.jpg?s=9aadd821e4626e84f9f98d1da2e43515"
+        },
+        {
+          "id": 1905,
+          "name": "Rem",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/10/28562.jpg?s=c132f8cc80e93184d9cd180218579e69"
+        },
+        {
+          "id": 464,
+          "name": "Nate River",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/13/77339.jpg?s=e045ccd8110b534c2668b4e7a02ac22f"
+        },
+        {
+          "id": 182760,
+          "name": "Roger Ruvie",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/14/483497.jpg?s=cf9c6863b21005759371e08155782f41"
+        },
+        {
+          "id": 217386,
+          "name": "Hideki Ryuuga",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/10/487619.jpg?s=7111d6a84d5ef568215fa565f8bb352d"
+        },
+        {
+          "id": 84511,
+          "name": "George Sairas",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/14/206659.jpg?s=a3374ddf7f2024ab96c31eb02fe50a4e"
+        },
+        {
+          "id": 182774,
+          "name": "Sasaki",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/7/548850.jpg?s=03eaded16589aebc32b32379cde9d03c"
+        },
+        {
+          "id": 46237,
+          "name": "Takuo Shibuimaru",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/11/177551.jpg?s=3d01f2a864ae8b20737ae0f34a19e245"
+        },
+        {
+          "id": 2402,
+          "name": "Shidoh",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/13/62331.jpg?s=0ec2faab0a8bc43072cd5059598a519c"
+        },
+        {
+          "id": 84503,
+          "name": "Suguru Shimura",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/8/206651.jpg?s=22ba9b627e9b2a7b4bc5e50bdd2900cf"
+        },
+        {
+          "id": 182781,
+          "name": "Itou Shiroba",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/15/487636.jpg?s=4a886e931353860f7aa8f106f49d500f"
+        },
+        {
+          "id": 195075,
+          "name": "Kal Snyder",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/2/438391.jpg?s=9dce7048bed6a2e02cdef543ca9b5122"
+        },
+        {
+          "id": 182775,
+          "name": "Sudou",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/8/548851.jpg?s=aa1285faca8b8b4bd498db4f9d0c0cbc"
+        },
+        {
+          "id": 30944,
+          "name": "Lind L. Tailor",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/16/548855.jpg?s=7848460265087a95228b9afed38c38b4"
+        },
+        {
+          "id": 3765,
+          "name": "Kiyomi Takada",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/5/36947.jpg?s=d1e8eebfc22cbb06ebd4c9feaf184500"
+        },
+        {
+          "id": 84505,
+          "name": "Eiichi Takahashi",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/13/206653.jpg?s=f6565d0224a85b82a137507f101a366d"
+        },
+        {
+          "id": 84523,
+          "name": "Kanichi Takimura",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/11/206671.jpg?s=922028dd364f6676cfbec502234c56ea"
+        },
+        {
+          "id": 17555,
+          "name": "Hirokazu Ukita",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/2/57155.jpg?s=a26eba7ded8369d0a3ff4a556e19b33b"
+        },
+        {
+          "id": 2179,
+          "name": "Quillsh Wammy",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/12/57165.jpg?s=fcc2b81f578cd38140a056cdac0fbbfd"
+        },
+        {
+          "id": 8135,
+          "name": "Sayu Yagami",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/5/262773.jpg?s=c00fbfa60e5deab4c86fd54dc2c40e13"
+        },
+        {
+          "id": 14735,
+          "name": "Sachiko Yagami",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/8/68303.jpg?s=20ea1bacfb95a92fd4a9b5cb3250946e"
+        },
+        {
+          "id": 1927,
+          "name": "Souichirou Yagami",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/2/470067.jpg?s=0b808cc428cb60c13fb75178fe6f854f"
+        },
+        {
+          "id": 182778,
+          "name": "Yasunaga",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/16/548852.jpg?s=7973449282d0206060db14fc47d5ab34"
+        },
+        {
+          "id": 182784,
+          "name": "Yoshi",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/10/548853.jpg?s=a939871341fb19b7c366193986b2530a"
+        },
+        {
+          "id": 53663,
+          "name": "Yuri",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/5/177545.jpg?s=f399f439ed484b818657d2efda628208"
+        },
+        {
+          "id": 224654,
+          "name": "Zerhogie",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/8/502354.jpg?s=0244a59f9f473c5864293a04e10ca3e9"
+        }
+      ]
     },
     {
       "id": 22319,
@@ -131,7 +590,364 @@
           "image_url": "https://cdn.myanimelist.net/images/anime/1498/134443l.jpg",
           "large_image_url": "https://cdn.myanimelist.net/images/anime/1498/134443l.jpg"
         }
-      }
+      },
+      "synopsis_es": "Una amenaza siniestra está invadiendo Tokio: \"demonios\" carnívoros que parecen idénticos a los humanos y se mezclan con su población. El reservado estudiante universitario Ken Kaneki esconde la nariz en los libros y evita las noticias sobre la creciente crisis. Sin embargo, la aparición de una mujer atractiva llamada Rize Kamishiro rompe su soledad cuando ella le pide una cita.\n\nMientras acompaña a Rize a casa, Kaneki descubre que ella no es tan amable como parecía al principio y lo ha engañado con intenciones siniestras. Después de una trágica lucha, más tarde se despierta en un hospital y descubre que le salvaron la vida trasplantando los órganos del ahora fallecido Rize a su propio cuerpo.\n\nEl cuerpo de Kaneki comienza a cambiar de maneras horribles y se transforma en un híbrido humano-ghoul. Mientras se embarca en su nuevo y terrible viaje, Kaneki se aferra a su humanidad en el sangriento conflicto en evolución entre los nuevos monstruos de la sociedad y los agentes del gobierno que los cazan.\n\n[Escrito por MAL Rewrite]",
+      "characters": [
+        {
+          "id": 87275,
+          "name": "Ken Kaneki",
+          "role": "Main",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/15/307255.jpg?s=a3b352a4950d3231677668626b1a95f4"
+        },
+        {
+          "id": 87277,
+          "name": "Touka Kirishima",
+          "role": "Main",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/16/234699.jpg?s=10ef474344779135236911013b0925fc"
+        },
+        {
+          "id": 113779,
+          "name": "Maiko Abe",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/16/259779.jpg?s=67ed4d2dfb07359d050eb3a0ec91ca8d"
+        },
+        {
+          "id": 99671,
+          "name": "Koutarou Amon",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/13/251453.jpg?s=cf7bdc7cb409357d69720b0aee488ff6"
+        },
+        {
+          "id": 111767,
+          "name": "Kishou Arima",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/5/257935.jpg?s=774409608456392dcaca31f53234bb53"
+        },
+        {
+          "id": 112687,
+          "name": "Kazuichi Banjou",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/8/258499.jpg?s=f4c8bd78f37677f38a47a8e28b8e7056"
+        },
+        {
+          "id": 110241,
+          "name": "Koma Enji",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/15/257941.jpg?s=f6702db6de1a2f2829577a566d3e43ce"
+        },
+        {
+          "id": 112997,
+          "name": "Eto",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/10/276501.jpg?s=6bd3d1eda8082217b36d0e2ff2d8775f"
+        },
+        {
+          "id": 110247,
+          "name": "Asaki Fueguchi",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/2/256013.jpg?s=b0bc1ac1d05a2c8951a95cc1229cb4a3"
+        },
+        {
+          "id": 99675,
+          "name": "Hinami Fueguchi",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/16/263269.jpg?s=847a2a380804cf8e0c70b2dc2d5e2f17"
+        },
+        {
+          "id": 110245,
+          "name": "Ryouko Fueguchi",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/7/255607.jpg?s=4ddbbd5e2fcfb555e9960643c9bde81e"
+        },
+        {
+          "id": 113843,
+          "name": "Misato Gori",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/15/259931.jpg?s=f7e4ce85c9ded2e1edef8cc8b663d646"
+        },
+        {
+          "id": 113847,
+          "name": "Haru",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/13/259935.jpg?s=409302e84b9e5cb52c8746c0283ab12d"
+        },
+        {
+          "id": 123347,
+          "name": "Take Hirako",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/10/356024.jpg?s=ad15601aa4f81a12c46a380b0650a533"
+        },
+        {
+          "id": 112723,
+          "name": "Kousuke Houji",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/12/276349.jpg?s=2a5681ed8c678474ecb20cc2861f7ace"
+        },
+        {
+          "id": 113885,
+          "name": "Ichimi",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/3/260097.jpg?s=3deafaabb4deb26a158208439dc348a8"
+        },
+        {
+          "id": 110989,
+          "name": "Kaya Irimi",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/6/274837.jpg?s=9ff4e20b10596ddcc082bb7ea3626818"
+        },
+        {
+          "id": 110539,
+          "name": "Itori",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/16/254475.jpg?s=2254f6b076a1b434cd0d658722c2df0c"
+        },
+        {
+          "id": 113887,
+          "name": "Jiro",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/15/260099.jpg?s=78400039402ae0e23c86e1d8154dd0e6"
+        },
+        {
+          "id": 103409,
+          "name": "Rize Kamishiro",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/4/645320.jpg?s=6ac5e8052a43b4f83f09ea2605a9415f"
+        },
+        {
+          "id": 113849,
+          "name": "Mother Kaneki",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/3/259937.jpg?s=6388d86412fd4eb82d7c912bccad0083"
+        },
+        {
+          "id": 113891,
+          "name": "Akihiro Kanou",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/9/339852.jpg?s=bedd8a6492bed4f6cbfe97d57118015d"
+        },
+        {
+          "id": 112689,
+          "name": "Arata Kirishima",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/9/257939.jpg?s=981db328545db4da789e8ff5f4830535"
+        },
+        {
+          "id": 105231,
+          "name": "Ayato Kirishima",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/12/258501.jpg?s=c45a7939e0741dcc583be3cf50b1adca"
+        },
+        {
+          "id": 110251,
+          "name": "Yoriko Kosaka",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/12/276507.jpg?s=71015b87471a1864b314696690b9394b"
+        },
+        {
+          "id": 112441,
+          "name": "Ippei Kusaba",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/9/259533.jpg?s=6fcca8c20f90e2eccbc59cf4a2576920"
+        },
+        {
+          "id": 113845,
+          "name": "Katsuya Mabuchi",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/5/370091.jpg?s=fd3a334eb7a27307f344fb5d0cc55859"
+        },
+        {
+          "id": 99673,
+          "name": "Kureo Mado",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/4/252567.jpg?s=0592538def7f6b119007e77fc5c1acf2"
+        },
+        {
+          "id": 113889,
+          "name": "Maid",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/13/260101.jpg?s=8ea2fd6bb411f1faa51997d505b9d362"
+        },
+        {
+          "id": 113841,
+          "name": "Itsuki Marude",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/4/298436.jpg?s=f15b4596245c5c8928051606446a69fc"
+        },
+        {
+          "id": 112721,
+          "name": "Kie Muramatsu",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/6/262617.jpg?s=9df0fd7d3935c7cc2781417ff2d37aa1"
+        },
+        {
+          "id": 103415,
+          "name": "Hideyoshi Nagachika",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/7/290838.jpg?s=631b2803bd832aab25b443203e05e4d2"
+        },
+        {
+          "id": 112719,
+          "name": "Yasunori Nakajima",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/15/259535.jpg?s=11ef92660494a28ec3b045d6c6878f8a"
+        },
+        {
+          "id": 113105,
+          "name": "Nico",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/8/258485.jpg?s=298f3d4b5cbfaf39c52c2c9ff18363b2"
+        },
+        {
+          "id": 110249,
+          "name": "Kimi Nishino",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/5/262473.jpg?s=03d9c43a0897f1a91c6ecf2c0f274812"
+        },
+        {
+          "id": 113781,
+          "name": "Elder Sister Nishio",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/10/259781.jpg?s=fcccbe13b80819710e741f2ae9ce4645"
+        },
+        {
+          "id": 105923,
+          "name": "Nishiki Nishio",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/15/259333.jpg?s=1b62f45068a28795c3cb331463e75e49"
+        },
+        {
+          "id": 113669,
+          "name": "Noro",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/9/276497.jpg?s=a93adc3b019080c3b9c90563c626d8f6"
+        },
+        {
+          "id": 161738,
+          "name": "Hisashi Ogura",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/6/368390.jpg?s=5dfc2473adc11c480adfb79d912bfd49"
+        },
+        {
+          "id": 113895,
+          "name": "Older Bin-Brother",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/3/260411.jpg?s=b5960ad571dd9411c297d30c675f6e0c"
+        },
+        {
+          "id": 110243,
+          "name": "Yakumo Oomori",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/16/255631.jpg?s=1fa1606fe25543096f584aaf8ef749b5"
+        },
+        {
+          "id": 113893,
+          "name": "Donato Porpora",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/3/276502.jpg?s=391f798ce4acba05c370ebf368d000ce"
+        },
+        {
+          "id": 113883,
+          "name": "Sante",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/12/260095.jpg?s=4f41fd3c85a181d3ad9b933c498e936a"
+        },
+        {
+          "id": 112685,
+          "name": "Yukinori Shinohara",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/12/303584.jpg?s=7dfe00ebd9223b723f595722ac64c97b"
+        },
+        {
+          "id": 113879,
+          "name": "Shuu",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/9/260091.jpg?s=2c4fda28fe4b9cd553d36171dd435ee6"
+        },
+        {
+          "id": 113881,
+          "name": "Soba shopkeeper",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/13/260093.jpg?s=821ec5b647e4bc9210874a780b1f2263"
+        },
+        {
+          "id": 113777,
+          "name": "Souta",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/12/259777.jpg?s=29bdc249d3a02ac8c8b519a03a1cb398"
+        },
+        {
+          "id": 104437,
+          "name": "Juuzou Suzuya",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/6/275843.jpg?s=a56227409808edb48f5e9cb3c85211b0"
+        },
+        {
+          "id": 113877,
+          "name": "Taguchi",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/11/260089.jpg?s=c8b075865577b897a447ecd2b00c4b8d"
+        },
+        {
+          "id": 112551,
+          "name": "Seidou Takizawa",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/2/276528.jpg?s=430409ced1eda2ccb54d17b27abf3784"
+        },
+        {
+          "id": 110509,
+          "name": "Taro",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/8/259349.jpg?s=8d644e379a9a029aaea887ba623a6101"
+        },
+        {
+          "id": 112941,
+          "name": "Tatara",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/14/258515.jpg?s=c408ee12eaea890a301e2d4512367175"
+        },
+        {
+          "id": 162042,
+          "name": "Goumasa Tokage",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/5/358529.jpg?s=430625c8159223e14b44149463ebea18"
+        },
+        {
+          "id": 104059,
+          "name": "Shuu Tsukiyama",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/8/296873.jpg?s=775d67102b007899c75d8d76490bd0c7"
+        },
+        {
+          "id": 93343,
+          "name": "Uta",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/13/259327.jpg?s=aa8d9d2ead39a6add9b0c2cc36bb69b5"
+        },
+        {
+          "id": 103411,
+          "name": "Renji Yomo",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/6/259329.jpg?s=2529443c4b9622dfdf093b260cfd68ca"
+        },
+        {
+          "id": 109577,
+          "name": "Kazuo Yoshida",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/6/253913.jpg?s=b4653ff8520395144821137b55b295fa"
+        },
+        {
+          "id": 103413,
+          "name": "Yoshimura",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/9/256459.jpg?s=b6027f0b98c937a088762554edaec4f5"
+        },
+        {
+          "id": 113897,
+          "name": "Younger Bin-Brother",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/4/260413.jpg?s=668955445b5651d110ba42f74a373f2d"
+        }
+      ]
     },
     {
       "id": 9253,
@@ -195,7 +1011,172 @@
           "image_url": "https://cdn.myanimelist.net/images/anime/1935/127974l.jpg",
           "large_image_url": "https://cdn.myanimelist.net/images/anime/1935/127974l.jpg"
         }
-      }
+      },
+      "synopsis_es": "El excéntrico científico Rintarou Okabe tiene una sed interminable de exploración científica. Junto con su tonta pero bien intencionada amiga Mayuri Shiina y su compañero de cuarto Itaru Hashida, Okabe funda el Future Gadget Laboratory con la esperanza de crear innovaciones tecnológicas que desconcierten la psique humana. A pesar de las afirmaciones de grandeza, el único \"artilugio\" notable que el trío ha creado es un microondas que tiene el desconcertante poder de convertir los plátanos en una sustancia viscosa verde.\n\nSin embargo, cuando Okabe asiste a una conferencia sobre viajes en el tiempo, experimenta una serie de eventos extraños que lo llevan a creer que hay más en el dispositivo \"Phone Microwave\" de lo que parece. Aparentemente capaz de enviar mensajes de texto al pasado usando el microondas, Okabe incursiona más con la \"máquina del tiempo\", atrayendo la ira y la atención de la misteriosa organización SERN.\n\nDebido al nuevo descubrimiento, Okabe y sus amigos se encuentran en un peligro siempre presente. Mientras trabaja para mitigar el daño que su invento ha causado en la línea temporal, Okabe libra una batalla no solo para salvar a sus seres queridos sino también para preservar su degradante cordura.\n\n[Escrito por MAL Rewrite]",
+      "characters": [
+        {
+          "id": 35258,
+          "name": "Itaru Hashida",
+          "role": "Main",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/6/113767.jpg?s=5d160f99286a0891c5e32413a5438622"
+        },
+        {
+          "id": 34470,
+          "name": "Kurisu Makise",
+          "role": "Main",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/10/310993.jpg?s=8b6ac0bceca29d7ed906004cd243c0a0"
+        },
+        {
+          "id": 35252,
+          "name": "Rintarou Okabe",
+          "role": "Main",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/6/122643.jpg?s=b5ae0b297aefb93f19186e9edfdaee83"
+        },
+        {
+          "id": 35253,
+          "name": "Mayuri Shiina",
+          "role": "Main",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/4/131329.jpg?s=ff82135c773b4903f6cae50c1d43ca26"
+        },
+        {
+          "id": 210737,
+          "name": "4℃",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/11/473491.jpg?s=b74ef4268233012441cfcf8b6baacf7c"
+        },
+        {
+          "id": 44274,
+          "name": "Yukitaka Akiha",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/13/121808.jpg?s=9749463cf107028c667207d6c32ec4e0"
+        },
+        {
+          "id": 35256,
+          "name": "Rumiho Akiha",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/2/142621.jpg?s=778aca012f3b10c8b8e115ad240538a0"
+        },
+        {
+          "id": 35255,
+          "name": "Suzuha Amane",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/3/148223.jpg?s=1d567952db9e3f19cae8a855c788835e"
+        },
+        {
+          "id": 210735,
+          "name": "Announcer",
+          "role": "Supporting",
+          "imageUrl": null
+        },
+        {
+          "id": 210731,
+          "name": "Attendant",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/10/473484.jpg?s=a5965eca7228d0400a61cfa316bfad47"
+        },
+        {
+          "id": 35257,
+          "name": "Moeka Kiryuu",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/12/275310.jpg?s=6eea0288577665f743b1a8a0554c40e9"
+        },
+        {
+          "id": 244044,
+          "name": "Kuroki",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/5/540113.jpg?s=5f17fa9630c01f4588623d60b3607473"
+        },
+        {
+          "id": 210733,
+          "name": "Maid A",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/3/473488.jpg?s=23f8a9d06197c3832c748b76bd43a0f9"
+        },
+        {
+          "id": 89637,
+          "name": "Maid B",
+          "role": "Supporting",
+          "imageUrl": null
+        },
+        {
+          "id": 41897,
+          "name": "Nakabachi",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/5/114001.jpg?s=4bb46ed73d4df0c3dfb2b292ca193afa"
+        },
+        {
+          "id": 210734,
+          "name": "Ramen Shop Worker",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/3/473489.jpg?s=9314d093574adf14b9f796459bd70f70"
+        },
+        {
+          "id": 210732,
+          "name": "Reporter",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/15/473486.jpg?s=60c17813f3a677b64ac1642f9add3c7f"
+        },
+        {
+          "id": 210736,
+          "name": "Rounder",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/3/473490.jpg?s=818d2eb00c5774c7a8ce042f96e5797c"
+        },
+        {
+          "id": 164153,
+          "name": "Street Vendor",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/3/362647.jpg?s=6d945e08436b855ac73cae59e3c52268"
+        },
+        {
+          "id": 38558,
+          "name": "Yuugo Tennouji",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/12/125685.jpg?s=e222684eedf202f197b1a0133a153b8a"
+        },
+        {
+          "id": 38559,
+          "name": "Nae Tennouji",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/16/353319.jpg?s=670b8851a53008792706c8adb28fc0da"
+        },
+        {
+          "id": 41913,
+          "name": "John Titor",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/13/565866.jpg?s=3d70c9feb8fd1f8554558d6118cb66b1"
+        },
+        {
+          "id": 42945,
+          "name": "Eisuke Urushibara",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/10/117125.jpg?s=aa4ff7f4f094ae45893dd03099b9e638"
+        },
+        {
+          "id": 30919,
+          "name": "Ruka Urushibara",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/7/133805.jpg?s=b90c31d40d8386a2dbad760ce2fcef14"
+        },
+        {
+          "id": 268458,
+          "name": "Viral Attacker A",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/14/586374.jpg?s=4803f32dc37a90cb619c0a2468cbdd24"
+        },
+        {
+          "id": 268459,
+          "name": "Viral Attacker B",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/6/586375.jpg?s=7df36de7bb8ce41fb8e714041b2c62e5"
+        },
+        {
+          "id": 268460,
+          "name": "Viral Attacker C",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/13/586376.jpg?s=aafc25103e27fe0e03f7906166dd6c22"
+        }
+      ]
     },
     {
       "id": 31240,
@@ -259,7 +1240,436 @@
           "image_url": "https://cdn.myanimelist.net/images/anime/1522/128039l.jpg",
           "large_image_url": "https://cdn.myanimelist.net/images/anime/1522/128039l.jpg"
         }
-      }
+      },
+      "synopsis_es": "Cuando Subaru Natsuki sale de la tienda, lo último que espera es que lo saquen de su vida cotidiana y lo sumerjan en un mundo de fantasía. Las cosas no pintan bien para el desconcertado adolescente; sin embargo, poco después de su llegada, es atacado por unos matones. Armado sólo con una bolsa de comestibles y un teléfono celular ahora inútil, rápidamente lo convierten en pulpa. Afortunadamente, una misteriosa belleza llamada Satella, persiguiendo a quien robó su insignia, se encuentra con Subaru y lo salva. Para agradecer a la chica honesta y de buen corazón, Subaru se ofrece a ayudar en su búsqueda, y más tarde esa noche, incluso encuentra el paradero de lo que ella busca. Pero sin que ellos lo sepan, una fuerza mucho más oscura los acecha desde las sombras, y apenas unos minutos después de localizar la insignia, Subaru y Satella son brutalmente asesinados.\n\nSin embargo, Subaru inmediatamente vuelve a despertar en una escena familiar: se enfrenta al mismo grupo de matones y se encuentra con Satella nuevamente; el enigma se profundiza a medida que la historia se repite inexplicablemente.\n\n[Escrito por MAL Rewrite]",
+      "characters": [
+        {
+          "id": 118737,
+          "name": "Emilia",
+          "role": "Main",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/16/551926.jpg?s=22728d0269f40fb353a31a54545ded00"
+        },
+        {
+          "id": 118735,
+          "name": "Subaru Natsuki",
+          "role": "Main",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/15/315153.jpg?s=48e475fa71e56bb47eb93594fe10359d"
+        },
+        {
+          "id": 118773,
+          "name": "Aldebaran",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/11/268229.jpg?s=b56892395016938e10832be0aea88100"
+        },
+        {
+          "id": 118777,
+          "name": "Felix Argyle",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/16/563864.jpg?s=5a4ddc6aa8062f7f1033b366dfb87655"
+        },
+        {
+          "id": 118771,
+          "name": "Priscilla Barielle",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/16/563865.jpg?s=29783ad5f42c00511a4c4d2f9266e696"
+        },
+        {
+          "id": 144073,
+          "name": "Frederica Baumann",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/10/628321.jpg?s=ec51a5cb8385b0f0c2aaaa80a34c2077"
+        },
+        {
+          "id": 213161,
+          "name": "Beastfolk",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/16/479240.jpg?s=2db9786ecd93d83f2f06b0d771912ff2"
+        },
+        {
+          "id": 118767,
+          "name": "Beatrice",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/2/591066.jpg?s=c8b21170c013b5b286d0ee1345052236"
+        },
+        {
+          "id": 144316,
+          "name": "Cain",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/13/424831.jpg?s=06ff11b1f10487c0404a866f3c00ada5"
+        },
+        {
+          "id": 139278,
+          "name": "Camberley",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/15/303070.jpg?s=0a6a5a06f8a76ed45579b77af1c5b3de"
+        },
+        {
+          "id": 188130,
+          "name": "Chamov",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/10/422829.jpg?s=b3110174e1afa35c076fb361c7f6cba4"
+        },
+        {
+          "id": 212485,
+          "name": "Convenience Store Clerk",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/11/477479.jpg?s=a7ed99ad2926ee7ab9e4c22051f050ef"
+        },
+        {
+          "id": 144314,
+          "name": "Dain",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/3/311937.jpg?s=13242107d17d80405252dee08c277f57"
+        },
+        {
+          "id": 142030,
+          "name": "Rusell Fellow",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/16/308659.jpg?s=769c574a9c1d17e2b32040f803de2e24"
+        },
+        {
+          "id": 118755,
+          "name": "Felt",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/9/315231.jpg?s=1bef1ff41ee3049d7e71a91242bf42da"
+        },
+        {
+          "id": 139276,
+          "name": "Gaston",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/14/303068.jpg?s=e29ec35c1a8115c9496595895a968331"
+        },
+        {
+          "id": 141287,
+          "name": "Marcos Gildark",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/3/306917.jpg?s=d5ea342260bd5a1170138a1110c2fdb0"
+        },
+        {
+          "id": 118749,
+          "name": "Elsa Granhiert",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/14/324239.jpg?s=03e10ed43c2a928188259e4ea7ef1272"
+        },
+        {
+          "id": 139277,
+          "name": "Rachins Hoffman",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/13/563875.jpg?s=3a2e7a913fa75cf8ab24869bdb1b6351"
+        },
+        {
+          "id": 212603,
+          "name": "Rickert Hoffman",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/6/477753.jpg?s=14ca25ad74d2f5873c0e329d36ed341e"
+        },
+        {
+          "id": 118781,
+          "name": "Anastasia Hoshin",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/15/316407.jpg?s=fef1ce5f3639b48b8e69700a3447b79a"
+        },
+        {
+          "id": 212604,
+          "name": "Innkeeper",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/12/477754.jpg?s=33948662a0e19965626a3b74e0a260cf"
+        },
+        {
+          "id": 224525,
+          "name": "Milde Irlam",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/5/501953.jpg?s=820fdf664b341b7ae6549c9147c145e9"
+        },
+        {
+          "id": 118783,
+          "name": "Julius Juukulius",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/5/480481.jpg?s=abe9942fc7985c6d3eea6c771df017a8"
+        },
+        {
+          "id": 118775,
+          "name": "Crusch Karsten",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/10/477333.jpg?s=906c6aacc5a8dc5db4cf6c0312c12127"
+        },
+        {
+          "id": 144065,
+          "name": "Petra Leyte",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/9/563878.jpg?s=af299108787701356cdf3f3fac5c107c"
+        },
+        {
+          "id": 144312,
+          "name": "Lucas",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/3/311934.jpg?s=5cb34cb0aa9d26a633116f6dfa05d64b"
+        },
+        {
+          "id": 212491,
+          "name": "Man",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/10/477484.jpg?s=1ec76af74da537e76053fd98bf33e733"
+        },
+        {
+          "id": 118769,
+          "name": "Roswaal L. Mathers",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/12/628361.jpg?s=bc6d172058377b00d5d9bbfca9b099d9"
+        },
+        {
+          "id": 141288,
+          "name": "Maicrotof McMahon",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/2/306918.jpg?s=74820b9254cb01181d104b808110348d"
+        },
+        {
+          "id": 144068,
+          "name": "Meina",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/11/312348.jpg?s=86d49683acf44f679daf161e2186bc38"
+        },
+        {
+          "id": 213117,
+          "name": "Conwood Melahau",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/12/479056.jpg?s=163b889cd9cf78d78dcb384c621b3b5a"
+        },
+        {
+          "id": 144313,
+          "name": "Mild",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/15/311935.jpg?s=ca49132bd7230fee544d1d9d0cc0e5e5"
+        },
+        {
+          "id": 144311,
+          "name": "Muraosa",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/4/311933.jpg?s=a0aee3fdbc118ad3fd9f2691cbd6bc27"
+        },
+        {
+          "id": 142756,
+          "name": "Ketty Muttat",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/2/308663.jpg?s=17f09c420445d637cef3f30b53f45e22"
+        },
+        {
+          "id": 137541,
+          "name": "Pack",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/15/300489.jpg?s=e41c0d4ad13c017d2da734c423858bce"
+        },
+        {
+          "id": 142186,
+          "name": "Hetaro Pearlbaton",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/4/577611.jpg?s=abac94f689a5ab2d692fee96c0074a5f"
+        },
+        {
+          "id": 143739,
+          "name": "Tivey Pearlbaton",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/5/577613.jpg?s=9c17dca5fe5616b4b6d6ec83bd4a5e19"
+        },
+        {
+          "id": 142184,
+          "name": "Mimi Pearlbaton",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/11/577612.jpg?s=08cdbeae3b2b7640637b1e99ea644670"
+        },
+        {
+          "id": 213163,
+          "name": "Petelgeuse's Finger (Man 1)",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/5/479241.jpg?s=f84b3fed4fb157ed9709c1308d08d45f"
+        },
+        {
+          "id": 213160,
+          "name": "Petelgeuse's Finger (Woman 1)",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/15/479239.jpg?s=282be787860c428363b225b6db1abb27"
+        },
+        {
+          "id": 213164,
+          "name": "Petelgeuse's Finger (Man 2)",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/13/479242.jpg?s=f8f1e4a04b22e6d8165a73301468ec75"
+        },
+        {
+          "id": 213165,
+          "name": "Petelgeuse's Finger (Woman 2)",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/12/479243.jpg?s=b1a513b35d1fda2b620ef68b6e6df20b"
+        },
+        {
+          "id": 144066,
+          "name": "Meili Portroute",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/4/628320.jpg?s=745042530fc6a6b13824b3ed53d8e647"
+        },
+        {
+          "id": 144069,
+          "name": "Quark",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/4/311493.jpg?s=02c9e1c7facfb952b7b2006442d0f48f"
+        },
+        {
+          "id": 118765,
+          "name": "Ram",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/15/306390.jpg?s=c627953e35df76da593d931548b7e646"
+        },
+        {
+          "id": 118763,
+          "name": "Rem",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/9/311327.jpg?s=3246595cd08261824d0dbf11a44c7229"
+        },
+        {
+          "id": 187955,
+          "name": "Grassis Remendis",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/11/422298.jpg?s=a46572b522d1b2d764d999d1b3c63217"
+        },
+        {
+          "id": 187954,
+          "name": "Flam Remendis",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/7/422295.jpg?s=7f83b13cdd521c42b3dc7d9ff3aed0b4"
+        },
+        {
+          "id": 118751,
+          "name": "Kadomon Risch",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/10/310758.jpg?s=826e1179d7309a654f064b4b481f08b9"
+        },
+        {
+          "id": 144317,
+          "name": "Plum Risch",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/6/311939.jpg?s=36a8fa4f7485fe8d549086f61c57eb16"
+        },
+        {
+          "id": 144318,
+          "name": "Raksha Risch",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/12/312256.jpg?s=13bc963ee858bc529a9a6083cb3f5c5a"
+        },
+        {
+          "id": 118743,
+          "name": "Rom",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/8/339561.jpg?s=13d28aedd67de30e30560b3f06b30add"
+        },
+        {
+          "id": 141521,
+          "name": "Petelgeuse Romanée-Conti",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/5/433803.jpg?s=ea96d10316206d8bee58ed1e85daa58b"
+        },
+        {
+          "id": 144319,
+          "name": "Satella",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/11/333682.jpg?s=d51df16debe182247eb3c6796ee4b1df"
+        },
+        {
+          "id": 187953,
+          "name": "Schult",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/10/569108.jpg?s=dea9b19a49efb2ded41bce9f69edafe7"
+        },
+        {
+          "id": 144310,
+          "name": "Setanta",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/14/311932.jpg?s=ebc2b745bf2aec499d73404b4c37181c"
+        },
+        {
+          "id": 212510,
+          "name": "Shopkeeper",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/5/477508.jpg?s=8fb451c7d1cfaaa582a5a6db347d2045"
+        },
+        {
+          "id": 141438,
+          "name": "Otto Suwen",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/3/438832.jpg?s=a4b29f3ba09228b9adae8f3326575b92"
+        },
+        {
+          "id": 144067,
+          "name": "Temae",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/16/311492.jpg?s=1052ab81e5a11d40927f088ec181e7c7"
+        },
+        {
+          "id": 143553,
+          "name": "Theresia van Astrea",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/10/318346.jpg?s=5fccc0ba2ad7215da1d9ef9ead57de28"
+        },
+        {
+          "id": 118779,
+          "name": "Wilhelm van Astrea",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/10/563871.jpg?s=9f3e8394da45f9c9fa5dd6f4cfcec070"
+        },
+        {
+          "id": 118741,
+          "name": "Reinhard van Astrea",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/7/312722.jpg?s=4f43fa8a5da434c4958220d90c3944bd"
+        },
+        {
+          "id": 212572,
+          "name": "Village Youth",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/10/477652.jpg?s=1e0ca931d3471dcad4785ffe23cccf0d"
+        },
+        {
+          "id": 213166,
+          "name": "Villager A",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/15/479244.jpg?s=3dd7666ce51601be401f00e00f4c565c"
+        },
+        {
+          "id": 213167,
+          "name": "Villager B",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/12/479245.jpg?s=2761ce5c3dcd5ce76eaddffdf1ede04e"
+        },
+        {
+          "id": 213168,
+          "name": "Villager C",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/3/479246.jpg?s=f471943270cb454677150b5fb85255d5"
+        },
+        {
+          "id": 142185,
+          "name": "Ricardo Welkin",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/15/382154.jpg?s=ae428c542f1e30f0731fb5cd5bfdbc3f"
+        },
+        {
+          "id": 212515,
+          "name": "Wolf",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/4/477514.jpg?s=ed8d41d2536ff969a9ac3e5c18d3ce4d"
+        },
+        {
+          "id": 212571,
+          "name": "Young Men's Leader",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/8/561130.jpg?s=fda73f5b0e176215addee0a4aed34a7f"
+        },
+        {
+          "id": 144320,
+          "name": "Bordeaux Zellgef",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/3/311941.jpg?s=dbd42e7a05fa41e48edd4df996772782"
+        }
+      ]
     },
     {
       "id": 31043,
@@ -319,7 +1729,172 @@
           "image_url": "https://cdn.myanimelist.net/images/anime/10/77957l.jpg",
           "large_image_url": "https://cdn.myanimelist.net/images/anime/10/77957l.jpg"
         }
-      }
+      },
+      "synopsis_es": "Cuando la tragedia está a punto de ocurrir, Satoru Fujinuma se ve enviado de regreso varios minutos antes de que ocurra el accidente. El indiferente artista de manga de 29 años ha aprovechado este fenómeno poderoso pero misterioso, al que llama \"Revival\", para salvar muchas vidas.\n \nSin embargo, cuando es acusado injustamente de asesinar a alguien cercano a él, Satoru es enviado de regreso al pasado una vez más, pero esta vez a 1988, 18 años atrás. Pronto, se da cuenta de que el asesinato puede estar relacionado con el secuestro y asesinato de uno de sus compañeros de clase, el solitario y misterioso Kayo Hinazuki, que tuvo lugar cuando él era un niño. Esta es su oportunidad de hacer las cosas bien.\n \nBoku dake ga Inai Machi sigue a Satoru en su misión de descubrir lo que realmente sucedió hace 18 años y evitar la muerte de su compañero de clase mientras protege a sus seres queridos en el presente.\n\n[Escrito por MAL Rewrite]",
+      "characters": [
+        {
+          "id": 98737,
+          "name": "Satoru Fujinuma",
+          "role": "Main",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/8/298512.jpg?s=36cc26a8aa4c98d175ab1ca40c456ee6"
+        },
+        {
+          "id": 126756,
+          "name": "Kayo Hinazuki",
+          "role": "Main",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/12/307107.jpg?s=f1b7ae06caae2562da301a123dd753b5"
+        },
+        {
+          "id": 148965,
+          "name": "Akemi's boyfriend",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/6/323983.jpg?s=cc24bc9aea005e993ac7826bf7cc8092"
+        },
+        {
+          "id": 149040,
+          "name": "CPS female member",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/2/324283.jpg?s=a81e7618c9d9ffa03ad99a4b04c7286b"
+        },
+        {
+          "id": 149041,
+          "name": "CPS male member",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/14/324285.jpg?s=488f70d3a535b9d155ecc1b615dcfd2e"
+        },
+        {
+          "id": 130214,
+          "name": "Sachiko Fujinuma",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/5/300491.jpg?s=b39ed0cf50e4e1ae7413e1ed59481ef8"
+        },
+        {
+          "id": 135624,
+          "name": "Kouichi Hamada",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/15/323634.jpg?s=9b2d180f3b0baf1eb1b3a5e86e5878eb"
+        },
+        {
+          "id": 138484,
+          "name": "Akemi Hinazuki",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/16/301299.jpg?s=c0b7cfaba852d134963e3bc7f4fd2f89"
+        },
+        {
+          "id": 137635,
+          "name": "Hinazuki' Grandmother",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/16/323658.jpg?s=0082aec99ce0c09569cf977dbdaa45b4"
+        },
+        {
+          "id": 130213,
+          "name": "Airi Katagiri",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/7/299262.jpg?s=cd1b34a293ce16d78c8ff7f3e41b224a"
+        },
+        {
+          "id": 140168,
+          "name": "Katagiri's Mother",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/7/303948.jpg?s=bed0e3070b5b6dfce2b8e4b922d7560e"
+        },
+        {
+          "id": 130218,
+          "name": "Kazu",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/11/298852.jpg?s=43ef70d0d93d8e0ebb828cec6dc44a9e"
+        },
+        {
+          "id": 148970,
+          "name": "Kumi Kitamaru",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/12/323996.jpg?s=fc4748ac669d9f464072e8b201aab902"
+        },
+        {
+          "id": 148969,
+          "name": "Kitamura",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/14/323991.jpg?s=704e6462f6bdfbe647f22256ae6b4be2"
+        },
+        {
+          "id": 130216,
+          "name": "Kenya Kobayashi",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/15/298522.jpg?s=fc838d7f42d0c22a067104c627f91abd"
+        },
+        {
+          "id": 138649,
+          "name": "Aya Nakanishi",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/13/323684.jpg?s=6ef90d38ac33a6d361dc9d10731e567a"
+        },
+        {
+          "id": 130217,
+          "name": "Osamu",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/8/323647.jpg?s=a2e4c71c3392788d191ff6a270949b3e"
+        },
+        {
+          "id": 148955,
+          "name": "Aunt Sasaoka",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/16/323931.jpg?s=9fd13345a58ee9e41a132a05eb9e5eda"
+        },
+        {
+          "id": 148954,
+          "name": "Uncle Sasaoka",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/4/323930.jpg?s=e2cf1660326c17699d0ac82015ef95e9"
+        },
+        {
+          "id": 138207,
+          "name": "Sawada",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/2/303956.jpg?s=7b59b7d871b22cc294f5681b23662327"
+        },
+        {
+          "id": 130215,
+          "name": "Jun Shiratori",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/4/298853.jpg?s=08d566017056a6b5896d8a549633819b"
+        },
+        {
+          "id": 149039,
+          "name": "Seiichiro Shiratori",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/11/324281.jpg?s=779f551731a9730adae7fabbcaf904ea"
+        },
+        {
+          "id": 130219,
+          "name": "Hiromi Sugita",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/13/298851.jpg?s=778cbba8b574c4ad823ba22a6b7a5666"
+        },
+        {
+          "id": 140165,
+          "name": "Takahashi",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/16/303945.jpg?s=4adc3550658e856a9dcaed85598283fb"
+        },
+        {
+          "id": 148953,
+          "name": "Urata",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/11/323927.jpg?s=d36ecf3283b2b0f3562e1b0911ba0e7f"
+        },
+        {
+          "id": 139659,
+          "name": "Misato Yanagihara",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/13/303954.jpg?s=3fa3476043cff5257593be0666c61a30"
+        },
+        {
+          "id": 136146,
+          "name": "Gaku Yashiro",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/14/306057.jpg?s=bb951ab43d7ce77c600bee1d97f0bd55"
+        }
+      ]
     },
     {
       "id": 37779,
@@ -379,7 +1954,190 @@
           "image_url": "https://cdn.myanimelist.net/images/anime/1830/118780l.jpg",
           "large_image_url": "https://cdn.myanimelist.net/images/anime/1830/118780l.jpg"
         }
-      }
+      },
+      "synopsis_es": "Rodeada por un bosque y una entrada cerrada, Grace Field House está habitada por huérfanos que viven felices juntos como una gran familia, cuidados por su \"mamá\", Isabella. Aunque se les exige que tomen exámenes diariamente, los niños son libres de pasar su tiempo como mejor les parezca, generalmente jugando afuera, siempre y cuando no se alejen demasiado del orfanato, una regla que se espera que sigan pase lo que pase. Sin embargo, todos los buenos tiempos deben llegar a su fin, ya que cada pocos meses, un niño es adoptado y enviado a vivir con su nueva familia, y nunca más se sabe de él.\n\nSin embargo, los tres hermanos mayores tienen sus sospechas sobre lo que realmente está sucediendo en el orfanato y están a punto de descubrir el cruel destino que les espera a los niños que viven en Grace Field, incluida la naturaleza retorcida de su amada mamá.\n\n[Escrito por MAL Rewrite]",
+      "characters": [
+        {
+          "id": 144337,
+          "name": "Emma",
+          "role": "Main",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/12/455009.jpg?s=363bd72f371bd6db12391fd7cc490560"
+        },
+        {
+          "id": 144916,
+          "name": "Norman",
+          "role": "Main",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/7/323859.jpg?s=c3993cbe61c7a846aae452b3afff9986"
+        },
+        {
+          "id": 144919,
+          "name": "Ray",
+          "role": "Main",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/16/360042.jpg?s=018058ee2209d07a1f74d60dbaad491b"
+        },
+        {
+          "id": 169776,
+          "name": "Alicia",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/8/434554.jpg?s=e6d056fa7bbff42f2b1aced48f699169"
+        },
+        {
+          "id": 161940,
+          "name": "Anna",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/4/360050.jpg?s=f9caaf4bb067b1ba2a6c9dee1744fc9f"
+        },
+        {
+          "id": 169773,
+          "name": "Carol",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/15/436948.jpg?s=61eaf60b71aa21c059ad5bb4296e82e2"
+        },
+        {
+          "id": 253892,
+          "name": "Chamberlain",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/2/558388.jpg?s=aba9f60b6e558553b03bc6635fd45027"
+        },
+        {
+          "id": 189310,
+          "name": "Christy",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/13/558645.jpg?s=9e1c12e442fb6e1c7520a67423624a97"
+        },
+        {
+          "id": 161942,
+          "name": "Conny",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/4/360049.jpg?s=6b92fceecc2cf06f0251460e18abc8d4"
+        },
+        {
+          "id": 253896,
+          "name": "Damdin",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/9/558414.jpg?s=e1038fa3232703c75e05d6f63106ef10"
+        },
+        {
+          "id": 169577,
+          "name": "Dominic",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/11/436682.jpg?s=116889994dc2e781ae5056aad00a6a81"
+        },
+        {
+          "id": 145875,
+          "name": "Don",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/14/349907.jpg?s=9d00d70b577688fccd6533ce596490b2"
+        },
+        {
+          "id": 169624,
+          "name": "Eugene",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/2/377150.jpg?s=2b933c7028db033f33d8bd1788ff9753"
+        },
+        {
+          "id": 145874,
+          "name": "Gilda",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/13/345925.jpg?s=c7e9fe3094522074d96fb2e6b8a0990c"
+        },
+        {
+          "id": 253897,
+          "name": "Grace Field Boss Demon",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/8/558425.jpg?s=adc787f5ad781db5c3281ebc99bbe411"
+        },
+        {
+          "id": 144999,
+          "name": "Isabella",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/5/462007.jpg?s=9d553d2adcedc35c70982c95a3c3ad13"
+        },
+        {
+          "id": 169771,
+          "name": "Jemima",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/5/430581.jpg?s=de5c158be75ba93111c2ec030d218f31"
+        },
+        {
+          "id": 155220,
+          "name": "Lannion",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/3/360048.jpg?s=b2226188cbfd0f0067fc80a470e1fe6f"
+        },
+        {
+          "id": 161941,
+          "name": "Leslie",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/2/377984.jpg?s=4becf964538ffafd3dd96155e28d66f5"
+        },
+        {
+          "id": 189309,
+          "name": "Mark",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/2/449736.jpg?s=88b8a356f412f6e6c3bd3e3aef78934c"
+        },
+        {
+          "id": 161939,
+          "name": "Naila",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/13/437117.jpg?s=29d60cd0665d40778e50c4c2450aaedd"
+        },
+        {
+          "id": 155218,
+          "name": "Nat",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/7/360051.jpg?s=0318b42e0eebdfad7fc6d3eaa1e930f9"
+        },
+        {
+          "id": 253894,
+          "name": "Nina",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/10/558397.jpg?s=9301eb87c675e83d56bacea731777665"
+        },
+        {
+          "id": 150888,
+          "name": "Phil",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/7/436435.jpg?s=e74fbfaab50d8bad35c9c3d2062d30d5"
+        },
+        {
+          "id": 169775,
+          "name": "Rossi",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/5/431673.jpg?s=00a91ccbe742c6851e04b7163bcd632d"
+        },
+        {
+          "id": 153844,
+          "name": "Sarah",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/7/449740.jpg?s=087fbb2f1f9e33ece09b82fdf019ffa5"
+        },
+        {
+          "id": 253895,
+          "name": "Sherry",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/2/558405.jpg?s=95f91e4e75278b098b34ea42c4cba5f6"
+        },
+        {
+          "id": 145557,
+          "name": "Sister Krone",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/14/379977.jpg?s=2a3440bc6303dfaf1f95945a22dcf1e0"
+        },
+        {
+          "id": 155219,
+          "name": "Thoma",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/10/360053.jpg?s=752aa961eb0e996d892148b2f6abfa0b"
+        },
+        {
+          "id": 169772,
+          "name": "Yvette",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/16/430584.jpg?s=9368a71e3e4a400a00c290d99ff9eb51"
+        }
+      ]
     },
     {
       "id": 10620,
@@ -451,7 +2209,286 @@
           "image_url": "https://cdn.myanimelist.net/images/anime/13/33465l.jpg",
           "large_image_url": "https://cdn.myanimelist.net/images/anime/13/33465l.jpg"
         }
-      }
+      },
+      "synopsis_es": "Yukiteru Amano es un tímido estudiante de secundaria que regularmente realiza un seguimiento de lo que hace en su vida diaria anotando todas sus actividades en su teléfono: un diario digital. A pesar de no tener amigos en la escuela, a Yukiteru se le ve con frecuencia hablando con sus amigos supuestamente imaginarios Deus Ex Machina, el dios del tiempo y el espacio; y el sirviente de Deus, Mur Mur.\n\nUn día, Yukiteru se despierta y descubre que ciertos eventos de su día se muestran de forma preventiva en su teléfono celular. Aunque inicialmente lo descarta como una coincidencia, poco a poco se da cuenta de que los incidentes escritos en su teléfono en realidad tendrán lugar en un futuro cercano. Después de pasar el día beneficiándose de este nuevo activo, Yukiteru descubre que su compañero de clase Yuno Gasai posee un diario similar.\n\nMientras los dos se unen para derrotar a un extraño perseguidor y regresar a sus respectivos hogares, Deus Ex Machina explica que ellos, junto con otros 10 concursantes, han sido arrastrados a un juego de supervivencia cuyo vencedor se convertirá en el sucesor de la deidad. Sin otras opciones, Yukiteru y Yuno deben usar sus teléfonos móviles, ahora llamados \"Diarios del Futuro\", para sobrevivir a esta implacable batalla real.\n\n[Escrito por MAL Rewrite]",
+      "characters": [
+        {
+          "id": 4962,
+          "name": "Yukiteru Amano",
+          "role": "Main",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/13/134331.jpg?s=d94dd69737afde062bab905076d6d251"
+        },
+        {
+          "id": 4963,
+          "name": "Yuno Gasai",
+          "role": "Main",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/5/280576.jpg?s=ea20149e146ed9ab251e35517810958e"
+        },
+        {
+          "id": 8306,
+          "name": "Aru Akise",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/13/144245.jpg?s=9ee07222eb9a7e34aa09b8f5815249e8"
+        },
+        {
+          "id": 21814,
+          "name": "Kurou Amano",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/7/154837.jpg?s=ac5d4a83fa2894b3537e31a4e53f7cfd"
+        },
+        {
+          "id": 21813,
+          "name": "Rea Amano",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/6/141901.jpg?s=b5659be401bc71615994df481a6f7fd9"
+        },
+        {
+          "id": 21815,
+          "name": "John Bacchus",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/13/158249.jpg?s=6d8ef16d3e54766d712898a060f117d3"
+        },
+        {
+          "id": 4964,
+          "name": "Deus Ex Machina",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/9/141865.jpg?s=356ffbae209f04d732614700530c5cfd"
+        },
+        {
+          "id": 271239,
+          "name": "Doctor",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/15/592322.jpg?s=3cd0e1cca624b167d51f560a43e421c2"
+        },
+        {
+          "id": 82749,
+          "name": "Funatsu",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/4/203209.jpg?s=0029b251e9ca34c364022110df2eaa9b"
+        },
+        {
+          "id": 82753,
+          "name": "Ushio Gasai",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/8/203213.jpg?s=82500e61a05345b05f609eacc93021f4"
+        },
+        {
+          "id": 82751,
+          "name": "Saika Gasai",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/6/203211.jpg?s=4082993e24a727b29eb6de5828270341"
+        },
+        {
+          "id": 247180,
+          "name": "Hinata's Mother",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/7/546411.jpg?s=854c721e400b30855fa21c01be6f3a19"
+        },
+        {
+          "id": 8309,
+          "name": "Hinata Hino",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/9/144047.jpg?s=46d4dbfdd551d62b5b10d76542f8713d"
+        },
+        {
+          "id": 8308,
+          "name": "Yomotsu Hirasaka",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/6/165467.jpg?s=8cfb6c65980eb063cec704e646d0d724"
+        },
+        {
+          "id": 8307,
+          "name": "Takao Hiyama",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/12/139781.jpg?s=0cef18047b179bb88b7526d0073c87f8"
+        },
+        {
+          "id": 8158,
+          "name": "Reisuke Houjou",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/13/141997.jpg?s=961104621e553edef0cfb5ea18879259"
+        },
+        {
+          "id": 271240,
+          "name": "Iijima",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/11/592323.jpg?s=9994a7e7521b15bd398be03e9557772e"
+        },
+        {
+          "id": 23492,
+          "name": "Marco Ikusaba",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/12/154839.jpg?s=d763a6ee01fed606ff05b56d67960cba"
+        },
+        {
+          "id": 4967,
+          "name": "Tsubaki Kasugano",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/5/139773.jpg?s=327b3a410576cb6c0b7013d186a23b50"
+        },
+        {
+          "id": 21701,
+          "name": "Ouji Kousaka",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/12/141993.jpg?s=d04112a06eafa693d40cadaa83697fd9"
+        },
+        {
+          "id": 82747,
+          "name": "Ryuuji Kurosaki",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/3/203207.jpg?s=a70426ce3ae476cce3abfb88bbb7b56a"
+        },
+        {
+          "id": 4968,
+          "name": "Keigo Kurusu",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/13/137919.jpg?s=41a0d58bb6cd96d2b9d51c328624fd7c"
+        },
+        {
+          "id": 94639,
+          "name": "Naoko Kurusu",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/3/225033.jpg?s=d7d6941de3221e8e337d4f165381056e"
+        },
+        {
+          "id": 23493,
+          "name": "Ai Mikami",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/13/141333.jpg?s=6b8ab7d000d0f385e906313a46c273bb"
+        },
+        {
+          "id": 24928,
+          "name": "Orin Miyashiro",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/3/139779.jpg?s=771daf9170c57bc259e444e2429109aa"
+        },
+        {
+          "id": 271242,
+          "name": "Moriya",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/12/592325.jpg?s=08ce47af32479e66380b488a326fa51f"
+        },
+        {
+          "id": 4965,
+          "name": "Mur Mur",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/14/134329.jpg?s=50c56ec8cfab5e776cb180b2796c075c"
+        },
+        {
+          "id": 82745,
+          "name": "Tarou Nanba",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/11/203559.jpg?s=bad9a0707e21461fb8ad9219592c2623"
+        },
+        {
+          "id": 16123,
+          "name": "Masumi Nishijima",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/10/158247.jpg?s=4457d6453330b065276f35f2393a4685"
+        },
+        {
+          "id": 8310,
+          "name": "Mao Nonosaka",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/14/144989.jpg?s=efb50a1f607888c833f25a56515d8e59"
+        },
+        {
+          "id": 271243,
+          "name": "Observer",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/12/592326.jpg?s=e869091ba856374238cbb27dfcdf2b40"
+        },
+        {
+          "id": 271244,
+          "name": "Old Lady",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/4/592327.jpg?s=c12d46b3c2b05e4aaf3ae3b28b9d4e2c"
+        },
+        {
+          "id": 247181,
+          "name": "Natsuko Ooshima",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/3/546412.jpg?s=d291d2337b3d8d9275c109a3ba7fa75c"
+        },
+        {
+          "id": 148205,
+          "name": "Reisuke's Father",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/3/546410.jpg?s=90f797d4268bd9636847615749b4d21f"
+        },
+        {
+          "id": 247182,
+          "name": "Satonaka",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/5/546413.jpg?s=aa51396058b8b52e71d65ed794cda17b"
+        },
+        {
+          "id": 247183,
+          "name": "Shiraishi",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/11/546414.jpg?s=4a227e78e02207eb3acebc2e049ba55a"
+        },
+        {
+          "id": 247184,
+          "name": "Takeshi",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/6/546415.jpg?s=73a9261ac73daacaf4e5429b2158403f"
+        },
+        {
+          "id": 247185,
+          "name": "Teacher",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/3/546416.jpg?s=c0f200fb06cd47990c1621e0ea693e12"
+        },
+        {
+          "id": 21816,
+          "name": "Karyuudo Tsukishima",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/5/194669.jpg?s=8cd30c29a5933355e5d974723094877e"
+        },
+        {
+          "id": 271248,
+          "name": "Twelfth Blue",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/7/592331.jpg?s=6d5e38ce680458a2fb0f6c5004dc9659"
+        },
+        {
+          "id": 271247,
+          "name": "Twelfth Green",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/11/592330.jpg?s=5eb20c23dbca09a652aaba5579e1a5ed"
+        },
+        {
+          "id": 271249,
+          "name": "Twelfth Pink",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/12/592332.jpg?s=a3b121970cf9ff69a565a28a57c4c89f"
+        },
+        {
+          "id": 271246,
+          "name": "Twelfth Yellow",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/8/592329.jpg?s=3ccde30c4c18ab16a703a20f4580ad02"
+        },
+        {
+          "id": 21817,
+          "name": "Kamado Ueshita",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/5/154835.jpg?s=ba7ea8ba7366333ce34efb55513d523f"
+        },
+        {
+          "id": 4966,
+          "name": "Minene Uryuu",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/15/160081.jpg?s=78dc531fbfd960019b2fab822dbc425f"
+        },
+        {
+          "id": 73005,
+          "name": "Moe Wakaba",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/15/185225.jpg?s=ced96c7cbd33e5ee873ee20f476946b6"
+        }
+      ]
     },
     {
       "id": 30,
@@ -523,7 +2560,136 @@
           "image_url": "https://cdn.myanimelist.net/images/anime/1314/108941l.jpg",
           "large_image_url": "https://cdn.myanimelist.net/images/anime/1314/108941l.jpg"
         }
-      }
+      },
+      "synopsis_es": "Quince años después de un evento cataclísmico conocido como el Segundo Impacto, el mundo enfrenta una nueva amenaza: monstruosos seres celestiales llamados Ángeles invaden Tokio-3 uno por uno. La humanidad es incapaz de defenderse de los Ángeles a pesar de utilizar sus municiones y tácticas militares más avanzadas. La única esperanza para la salvación humana está en manos de NERV, una misteriosa organización liderada por el frío Gendou Ikari. NERV opera robots humanoides gigantes llamados \"Evangelions\" para combatir a los Ángeles con armamento avanzado de última generación y barreras protectoras conocidas como Absolute Terror Fields.\n\nAños después de ser abandonado por su padre, Shinji Ikari, el hijo de 14 años de Gendou, regresa a Tokio-3. Shinji sufre una perpetua batalla interna contra el trauma profundamente enterrado causado por la pérdida de su madre y el abandono emocional que sufrió a manos de su padre. Aterrado por abrirse a otra persona, la vida de Shinji cambia para siempre al conocer a Misato Katsuragi, de 29 años, una oficial de alto rango de NERV que le muestra una bondad maternal de espíritu libre que nunca antes había experimentado.\n\nUn devastador ataque de un ángel obliga a Shinji a entrar en acción mientras Gendou revela su verdadero motivo para invitar a su hijo a regresar a Tokio-3: Shinji es el único niño capaz de pilotar eficientemente la Unidad Evangelion-01, un nuevo robot que se sincroniza con su biometría. A pesar del brutal trauma psicológico provocado por pilotar un Evangelion, Shinji defiende Tokio-3 contra la amenaza angelical, ajeno a las oscuras maquinaciones de su padre.\n\n[Escrito por MAL Rewrite]",
+      "characters": [
+        {
+          "id": 86,
+          "name": "Rei Ayanami",
+          "role": "Main",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/11/314932.jpg?s=3686e6c4d76595fb1f71b0390d7997a2"
+        },
+        {
+          "id": 89,
+          "name": "Shinji Ikari",
+          "role": "Main",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/5/225177.jpg?s=6ac886f090e501714d54b820680ad7e1"
+        },
+        {
+          "id": 1259,
+          "name": "Misato Katsuragi",
+          "role": "Main",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/15/515181.jpg?s=92e2a933ea958ad8a2b94bd692c50dee"
+        },
+        {
+          "id": 94,
+          "name": "Asuka Langley Souryuu",
+          "role": "Main",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/12/79465.jpg?s=9551d38debcab623eaf0b633be75e9b9"
+        },
+        {
+          "id": 1250,
+          "name": "Kensuke Aida",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/13/145217.jpg?s=b36093dbea85ca0e5ce2b33a00c3a71e"
+        },
+        {
+          "id": 1251,
+          "name": "Ritsuko Akagi",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/13/108139.jpg?s=bd8a11674d1670110baef5199bfe2831"
+        },
+        {
+          "id": 19207,
+          "name": "Naoko Akagi",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/6/109293.jpg?s=c4239e6a75354933c74b8e86235572fd"
+        },
+        {
+          "id": 1252,
+          "name": "Shigeru Aoba",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/15/145219.jpg?s=10122d05a3393a348bd33a3f4ea44108"
+        },
+        {
+          "id": 1253,
+          "name": "Kouzou Fuyutsuki",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/10/145223.jpg?s=fd22b461b9c2739326583ef85e1caf59"
+        },
+        {
+          "id": 1254,
+          "name": "Hikari Horaki",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/3/145215.jpg?s=6dc6b176cb81e55ff60a7af045ba6053"
+        },
+        {
+          "id": 1255,
+          "name": "Makoto Hyuuga",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/4/290508.jpg?s=2605b3313b6f5f97ce56e94b3c4527c2"
+        },
+        {
+          "id": 1256,
+          "name": "Maya Ibuki",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/7/78694.jpg?s=57f59966a66355360a1544bb25a77580"
+        },
+        {
+          "id": 1258,
+          "name": "Yui Ikari",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/12/108140.jpg?s=a7e899188c9f60977641c0cb1e692fe4"
+        },
+        {
+          "id": 1257,
+          "name": "Gendou Ikari",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/11/53131.jpg?s=9a919510d2ed89ed2db9fc8077f14c71"
+        },
+        {
+          "id": 1260,
+          "name": "Ryouji Kaji",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/15/60206.jpg?s=39bb95f5433f8a8568111a25e05d2aff"
+        },
+        {
+          "id": 17620,
+          "name": "Keel Lorentz",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/2/109297.jpg?s=d371ad595d24c0904a69e0a6c2734874"
+        },
+        {
+          "id": 1261,
+          "name": "Kaworu Nagisa",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/3/175413.jpg?s=5ee20b6aa1f53fea531625a5a4dbff2a"
+        },
+        {
+          "id": 1892,
+          "name": "Pen Pen",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/7/346982.jpg?s=62399cb26e61d91eb2a712428e2e0a1a"
+        },
+        {
+          "id": 40969,
+          "name": "Kyouko Zeppelin Souryuu",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/6/122523.jpg?s=84113fff3e03d7d7f47dd4d78ce407f2"
+        },
+        {
+          "id": 1262,
+          "name": "Touji Suzuhara",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/15/276382.jpg?s=0a9845d8e711af3ef66277d60747194b"
+        },
+        {
+          "id": 3721,
+          "name": "Shiro Tokita",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/9/122497.jpg?s=441535ca342a6e059af535bd73ec9213"
+        }
+      ]
     },
     {
       "id": 22535,
@@ -591,7 +2757,310 @@
           "image_url": "https://cdn.myanimelist.net/images/anime/3/73178l.jpg",
           "large_image_url": "https://cdn.myanimelist.net/images/anime/3/73178l.jpg"
         }
-      }
+      },
+      "synopsis_es": "De repente, llegaron: extraterrestres parásitos que descendieron a la Tierra y rápidamente se infiltraron en la humanidad excavando en los cerebros de objetivos vulnerables. Estos seres insaciables adquieren el control total de su anfitrión y son capaces de transformarse en una variedad de formas para alimentarse de presas desprevenidas.\n \nShinichi Izumi, estudiante de secundaria de dieciséis años, es víctima de uno de estos parásitos, pero no logra apoderarse de su cerebro y termina en su mano derecha. Al no poder reubicarse, el parásito, ahora llamado Migi, no tiene más remedio que depender de Shinichi para mantenerse con vida. Por lo tanto, la pareja se ve obligada a una coexistencia incómoda y debe defenderse de parásitos hostiles que esperan erradicar esta nueva amenaza a su especie.\n\n[Escrito por MAL Rewrite]",
+      "characters": [
+        {
+          "id": 12323,
+          "name": "Shinichi Izumi",
+          "role": "Main",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/6/269013.jpg?s=1f0f49f662bd4f462b9c9b5f953ce11e"
+        },
+        {
+          "id": 13773,
+          "name": "Migi",
+          "role": "Main",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/12/348176.jpg?s=c378b81123b922b107c831c2c8b8db51"
+        },
+        {
+          "id": 22141,
+          "name": "A",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/5/266365.jpg?s=4c16114b7ba012d0378931441e363661"
+        },
+        {
+          "id": 116015,
+          "name": "B",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/10/267669.jpg?s=401112293e20201b92d12f817867eb0d"
+        },
+        {
+          "id": 124760,
+          "name": "Fukami",
+          "role": "Supporting",
+          "imageUrl": null
+        },
+        {
+          "id": 71951,
+          "name": "Taku Furudani",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/8/486007.jpg?s=13c49061623977af0763236ab5be7f5e"
+        },
+        {
+          "id": 22145,
+          "name": "Gotou",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/2/271459.jpg?s=7b3e263fe274cebba676640cab4bb1b7"
+        },
+        {
+          "id": 71969,
+          "name": "Makiko Hayase",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/5/267637.jpg?s=b74a5e0e33a6ec83563342c69dcb8e6c"
+        },
+        {
+          "id": 122671,
+          "name": "Hikawa",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/13/276913.jpg?s=d5f7eca452594988ce6a377dbd4a0379"
+        },
+        {
+          "id": 72219,
+          "name": "Hirama",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/3/271457.jpg?s=50bb12f9b275314041996894f6c17970"
+        },
+        {
+          "id": 22147,
+          "name": "Takeshi Hirokawa",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/8/277609.jpg?s=f17ff00d22f5eb405e37ad937ae7bd5b"
+        },
+        {
+          "id": 125513,
+          "name": "Itou",
+          "role": "Supporting",
+          "imageUrl": null
+        },
+        {
+          "id": 22142,
+          "name": "Kazuyuki Izumi",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/6/269029.jpg?s=2f269dfc6c6758f0bb723033a8bcecf3"
+        },
+        {
+          "id": 22143,
+          "name": "Nobuko Izumi",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/4/267633.jpg?s=b0b0e72a09da624fab35c61c581ba5d4"
+        },
+        {
+          "id": 118827,
+          "name": "Joe",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/14/274939.jpg?s=dd3fd331b00bbdd79b2167ade5921c3c"
+        },
+        {
+          "id": 117649,
+          "name": "Kamijou",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/2/267667.jpg?s=0f0f2555ea8afb69ad7bec37bb11e0c8"
+        },
+        {
+          "id": 125296,
+          "name": "Katou",
+          "role": "Supporting",
+          "imageUrl": null
+        },
+        {
+          "id": 124763,
+          "name": "Katsumata",
+          "role": "Supporting",
+          "imageUrl": null
+        },
+        {
+          "id": 123768,
+          "name": "Kawada",
+          "role": "Supporting",
+          "imageUrl": null
+        },
+        {
+          "id": 19215,
+          "name": "Kana Kimishima",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/9/270587.jpg?s=31423bf402448af63297c8d8e8737c80"
+        },
+        {
+          "id": 123325,
+          "name": "Youko Kuramori",
+          "role": "Supporting",
+          "imageUrl": null
+        },
+        {
+          "id": 72229,
+          "name": "Shirou Kuramori",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/12/274940.jpg?s=de3f23d0c5d1d7ec29719ad5c04e45f9"
+        },
+        {
+          "id": 120099,
+          "name": "Kusano",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/2/276915.jpg?s=e0a029c91e2b6375e3d425ff2607ff5e"
+        },
+        {
+          "id": 122669,
+          "name": "Maesawa",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/13/276916.jpg?s=92858fbe89c747a2db20907c252e4c17"
+        },
+        {
+          "id": 213267,
+          "name": "Man",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/3/479508.jpg?s=aec1e22ef9290e96c98ea400ced0afed"
+        },
+        {
+          "id": 72057,
+          "name": "Miki",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/7/274941.jpg?s=dce2664a3433c64909cd45284d2187b1"
+        },
+        {
+          "id": 124227,
+          "name": "Mita",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/10/424950.jpg?s=912ec42f9f0cd73fb386dcca21b270de"
+        },
+        {
+          "id": 71955,
+          "name": "Mitsuo",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/6/269025.jpg?s=89a6a82cf894d1d3efec5d7c6e7c70a9"
+        },
+        {
+          "id": 72223,
+          "name": "Mitsuyo",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/2/184023.jpg?s=95eef2cefe263abc3dbc1aa1e72c491a"
+        },
+        {
+          "id": 124761,
+          "name": "Miyake",
+          "role": "Supporting",
+          "imageUrl": null
+        },
+        {
+          "id": 125177,
+          "name": "Morota",
+          "role": "Supporting",
+          "imageUrl": null
+        },
+        {
+          "id": 19436,
+          "name": "Satomi Murano",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/14/268977.jpg?s=a38ff4a415be79ea273b70d004f34c1d"
+        },
+        {
+          "id": 71953,
+          "name": "Kazuki Nagai",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/6/267671.jpg?s=3185a69b08cbcfee7b533bc830df6fcb"
+        },
+        {
+          "id": 126130,
+          "name": "Naitou",
+          "role": "Supporting",
+          "imageUrl": null
+        },
+        {
+          "id": 126126,
+          "name": "Nakano",
+          "role": "Supporting",
+          "imageUrl": null
+        },
+        {
+          "id": 119703,
+          "name": "Sasaki",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/14/269973.jpg?s=cb3bd1ff0aa6f44aedbaa10e303b4595"
+        },
+        {
+          "id": 22144,
+          "name": "Hideo Shimada",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/6/269139.jpg?s=8a45d76b80f87c9990218d261df50886"
+        },
+        {
+          "id": 112067,
+          "name": "Akiho Suzuki",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/5/267635.jpg?s=8e8ca14c1cdbff787d02cf95bb1abff5"
+        },
+        {
+          "id": 112065,
+          "name": "Yuuko Tachikawa",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/3/269055.jpg?s=d96ec95a010bed701974acba1b8a65ee"
+        },
+        {
+          "id": 119911,
+          "name": "Haruki Tachikawa",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/14/271461.jpg?s=14d6eab9c0b47da04147ea73b24e999e"
+        },
+        {
+          "id": 72061,
+          "name": "Takizawa",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/3/269937.jpg?s=82d90000ee0646a641a1fa011c745020"
+        },
+        {
+          "id": 116949,
+          "name": "Mother Tamiya",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/8/266361.jpg?s=9addc0226cf20f6299c7102d80501cfc"
+        },
+        {
+          "id": 16586,
+          "name": "Ryouko Tamiya",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/10/263735.jpg?s=8cbd9b114308acb40f8e6f4009bea0d9"
+        },
+        {
+          "id": 126127,
+          "name": "Taoka",
+          "role": "Supporting",
+          "imageUrl": null
+        },
+        {
+          "id": 72059,
+          "name": "Tarou",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/12/274938.jpg?s=958cab8b7384580e22f905b1244458bc"
+        },
+        {
+          "id": 22146,
+          "name": "Mamoru Uda",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/7/274944.jpg?s=a1374481b366d46a427fe4c81615c165"
+        },
+        {
+          "id": 72227,
+          "name": "Uragami",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/13/276460.jpg?s=833d293254f0154bb76a1ffb2c5f5fe6"
+        },
+        {
+          "id": 124907,
+          "name": "Yamagishi",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/14/276918.jpg?s=df8b4bec9ffd5d2245c486b067c0e7d9"
+        },
+        {
+          "id": 71987,
+          "name": "Yano",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/3/269085.jpg?s=5d9dcede3a80ec4af50f0ca8c4335f35"
+        },
+        {
+          "id": 72055,
+          "name": "Yui",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/2/269933.jpg?s=a7f4c860229e1ce67295ae93a36560df"
+        }
+      ]
     },
     {
       "id": 28223,
@@ -1123,7 +3592,970 @@
           "image_url": "https://cdn.myanimelist.net/images/anime/10/18793l.jpg",
           "large_image_url": "https://cdn.myanimelist.net/images/anime/10/18793l.jpg"
         }
-      }
+      },
+      "synopsis_es": "El Dr. Kenzou Tenma, un neurocirujano de élite recientemente comprometido con la hija del director de su hospital, está en camino de ascender en la jerarquía hospitalaria. Eso es hasta que una noche, un evento aparentemente pequeño cambia la vida del Dr. Tenma para siempre. Mientras se prepara para operar a alguien, recibe una llamada del director del hospital diciéndole que cambie de paciente y, en su lugar, realice una cirugía cerebral que le salve la vida a un artista famoso. Sus compañeros médicos, su prometida y el director del hospital aplauden su logro; pero debido al cambio, un trabajador inmigrante pobre muere, lo que provoca que el Dr. Tenma tenga una crisis de conciencia.\n\nEntonces, cuando surge una situación similar, el Dr. Tenma se mantiene firme y elige operar al joven Johan Liebert en lugar del alcalde de la ciudad. Desafortunadamente, esta elección tiene serias ramificaciones para el Dr. Tenma: perder su posición social es una de ellas. Sin embargo, con la misteriosa muerte del director y otros dos médicos, el puesto del Dr. Tenma se restablece. Sin pruebas que lo condenen, es puesto en libertad y pasa a alcanzar el puesto de director del hospital. \n\nNueve años más tarde, cuando el Dr. Tenma salva la vida de un criminal, su pasado vuelve para atormentarlo: una vez más, se encuentra cara a cara con el monstruo al que operó. Ahora debe embarcarse en una búsqueda para enmendar los estragos causados ​​por el que salvó.\n\n[Escrito por MAL Rewrite]",
+      "characters": [
+        {
+          "id": 720,
+          "name": "Anna Liebert",
+          "role": "Main",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/11/286916.jpg?s=ff0b6e37a427c9498f5a1ecd40bf7bb4"
+        },
+        {
+          "id": 719,
+          "name": "Johan Liebert",
+          "role": "Main",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/4/316522.jpg?s=0e1d82e64cdde251b0c7f38c99efdeb4"
+        },
+        {
+          "id": 718,
+          "name": "Kenzou Tenma",
+          "role": "Main",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/15/347641.jpg?s=593cabda621d09d87dde3a46cb0b50ca"
+        },
+        {
+          "id": 8612,
+          "name": "Akanbou",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/2/286770.jpg?s=8e855b6db0c08ad8a345be54eae67bb4"
+        },
+        {
+          "id": 134850,
+          "name": "Anna",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/2/294005.jpg?s=66403e2e0f0e8fdedd16aabae325f459"
+        },
+        {
+          "id": 134851,
+          "name": "Antonin",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/14/294006.jpg?s=3f4757bfd9a0dd17a4fdff07c395e545"
+        },
+        {
+          "id": 134855,
+          "name": "Beate",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/7/294009.jpg?s=b519df788562e7d45732787a9c5407cc"
+        },
+        {
+          "id": 134847,
+          "name": "Angelica Belger",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/10/294003.jpg?s=951b7713161a5e156b1cbb94e1623779"
+        },
+        {
+          "id": 122229,
+          "name": "Hugo Bernhardt",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/5/284761.jpg?s=b1ec33f50da4028855f6a2a325f3bca2"
+        },
+        {
+          "id": 134857,
+          "name": "BKA Chief",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/8/294011.jpg?s=7de011d2211776316cf29fa7bb6a9bb7"
+        },
+        {
+          "id": 36224,
+          "name": "Blue Sophie",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/3/105827.jpg?s=d636ad3f0bd63895b53e606d34bcea1b"
+        },
+        {
+          "id": 134858,
+          "name": "Bodyguard A",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/6/294012.jpg?s=1c4c0661167f618c7a9de2f9184d36de"
+        },
+        {
+          "id": 134859,
+          "name": "Bodyguard B",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/7/294013.jpg?s=78601722d6e22d7a1b6fdbe72777be6f"
+        },
+        {
+          "id": 134860,
+          "name": "Bodyguard C",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/15/294014.jpg?s=598c2d4afd3ff3d5b5148c89a4194a88"
+        },
+        {
+          "id": 8615,
+          "name": "Franz Bonaparta",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/15/293800.jpg?s=ab0f0940f66c8afd770952404d247c24"
+        },
+        {
+          "id": 134864,
+          "name": "Boy's Mother",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/11/294018.jpg?s=7c529e4f5787dd63533d8f19f59f4861"
+        },
+        {
+          "id": 130002,
+          "name": "Karl Brandt",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/10/284689.jpg?s=0ecb0f637cff1eb90b6d81d9585390ee"
+        },
+        {
+          "id": 36223,
+          "name": "Richard Braun",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/2/288466.jpg?s=8b1145fd5722ad9d1ecf168bd303ea8a"
+        },
+        {
+          "id": 134865,
+          "name": "Carmen",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/15/294019.jpg?s=337e8a73194ccb35f7957b3525adc29d"
+        },
+        {
+          "id": 134866,
+          "name": "Chairman",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/15/294020.jpg?s=3b91300250f34d63d53eebef4c577792"
+        },
+        {
+          "id": 134867,
+          "name": "Charlotte",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/10/294021.jpg?s=9e4cbf6b325f7cb97f578a6985d34fc0"
+        },
+        {
+          "id": 134868,
+          "name": "Chief Detective",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/11/294022.jpg?s=7fa1f4e6e1bfc6e8cb595b0db97cfa20"
+        },
+        {
+          "id": 134870,
+          "name": "Chief Nepela",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/4/294024.jpg?s=0023b5f695b33ee9f9c221404e49c5f6"
+        },
+        {
+          "id": 134872,
+          "name": "Clara",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/8/294026.jpg?s=892417b303e8a4782f744b7e0f3a08e7"
+        },
+        {
+          "id": 134873,
+          "name": "Coletta",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/11/294027.jpg?s=0e6d9272f40d6d40f9ee2a3813f9de3f"
+        },
+        {
+          "id": 129333,
+          "name": "Deniz",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/11/283601.jpg?s=586c09e81aef40767c5ea747047e6d6e"
+        },
+        {
+          "id": 134875,
+          "name": "Detective",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/2/294029.jpg?s=273bdcd480d869f29976b04237be6540"
+        },
+        {
+          "id": 134876,
+          "name": "Detective",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/16/294030.jpg?s=a3a87a7a24fb4460cbf154d9a7c2c8bd"
+        },
+        {
+          "id": 134878,
+          "name": "Detective A",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/8/294032.jpg?s=c3faddc44b52b2836799cc3872ba4de2"
+        },
+        {
+          "id": 134877,
+          "name": "Detective A",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/4/294031.jpg?s=d8d2635f869243956e7c71ea7e40dc46"
+        },
+        {
+          "id": 134880,
+          "name": "Detective B",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/9/294034.jpg?s=bec9a3d11825b79b14615b7d71f3d7fa"
+        },
+        {
+          "id": 134932,
+          "name": "Detective Janacek",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/7/294086.jpg?s=afdb2e055d9e9d70df750a4b35034270"
+        },
+        {
+          "id": 212912,
+          "name": "Detective Janda",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/9/478508.jpg?s=b0f39128865030bf732c8df756e9c1f2"
+        },
+        {
+          "id": 134944,
+          "name": "Detective Martin",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/11/294098.jpg?s=bbceac56a66cc7d222566c0035f22401"
+        },
+        {
+          "id": 212382,
+          "name": "Detective Messener",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/6/477240.jpg?s=50cd962a29a8072c1a38b8da2f145aa6"
+        },
+        {
+          "id": 134883,
+          "name": "Detective Novak",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/13/294037.jpg?s=353e6c6204093c3470a595d98a498100"
+        },
+        {
+          "id": 134884,
+          "name": "Detective Stransky",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/3/294038.jpg?s=ad38ea527001cdc94b3bad74df51ce0b"
+        },
+        {
+          "id": 6329,
+          "name": "Dieter",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/8/289032.jpg?s=25d2bcd69ea650474402cd7396576718"
+        },
+        {
+          "id": 217501,
+          "name": "Reinhard Dinger",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/14/487843.jpg?s=13d6537ab178d26c91630d21d9619533"
+        },
+        {
+          "id": 134886,
+          "name": "Dr. Becker",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/12/294040.jpg?s=cb53d5a1e5965056b173d44e2f8d5956"
+        },
+        {
+          "id": 131782,
+          "name": "Dr. Boyer",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/12/298904.jpg?s=5928c01b73ffc8d443aa103769cdeeff"
+        },
+        {
+          "id": 134888,
+          "name": "Dr. Dürer",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/8/294042.jpg?s=d87b1f1551fd1789884659ce14255a04"
+        },
+        {
+          "id": 217486,
+          "name": "Dr. Eisen",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/13/487823.jpg?s=31376801b793e0f59f598440c422a282"
+        },
+        {
+          "id": 134889,
+          "name": "Dr. Geitel",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/3/294043.jpg?s=1d79c4896a7c066ec8a605fdab9fe48a"
+        },
+        {
+          "id": 134890,
+          "name": "Dr. Neuer",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/16/294044.jpg?s=782e5360adfcc7aa4dd1539528635376"
+        },
+        {
+          "id": 217500,
+          "name": "Dr. Norden",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/7/487842.jpg?s=51aafe292362bf93b5bc1ceee3faa2c8"
+        },
+        {
+          "id": 134891,
+          "name": "Dr. Oppenheim",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/15/294045.jpg?s=8d0badbe4cca37f68a8cb21b69891f93"
+        },
+        {
+          "id": 129994,
+          "name": "Dr. Schumann",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/3/284681.jpg?s=2bdc3ddc6dae962b01862ca43761cf05"
+        },
+        {
+          "id": 134892,
+          "name": "Dr. Takahashi",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/6/294046.jpg?s=3caaff7d2480cd04472b1ddc83267cfc"
+        },
+        {
+          "id": 134893,
+          "name": "Edda",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/9/294047.jpg?s=61dfef844c9d72dd8cb25b3a98d4bf02"
+        },
+        {
+          "id": 215792,
+          "name": "Edda's Lover",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/7/484889.jpg?s=58a5d9cb69b81ef4d6f73f29e1231c8d"
+        },
+        {
+          "id": 134971,
+          "name": "Elsa",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/12/294125.jpg?s=c674d1bd53e99a9b3141a1c6f66af9f7"
+        },
+        {
+          "id": 217490,
+          "name": "Eva's Gardener",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/7/487828.jpg?s=a79b915eff852a1281783a7c0a96f2e5"
+        },
+        {
+          "id": 134901,
+          "name": "Farmer",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/13/294055.jpg?s=dc78264bae2d9f4b3b76b51ba0d46f3a"
+        },
+        {
+          "id": 134871,
+          "name": "Christianne Fortner",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/7/294025.jpg?s=ac692f8d2b02616e6a45f1f775376894"
+        },
+        {
+          "id": 134897,
+          "name": "Erich Fortner",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/5/294051.jpg?s=8d6f8dc32352c5edfd3d366560012b61"
+        },
+        {
+          "id": 8623,
+          "name": "Lotte Frank",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/8/288471.jpg?s=ded4951c69b7973f936cbf94b5052ff5"
+        },
+        {
+          "id": 134905,
+          "name": "Frankfurt Police Inspector",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/5/294059.jpg?s=84136f292c19c229eb9a57f1b1c57dc0"
+        },
+        {
+          "id": 134911,
+          "name": "Giebel",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/12/294065.jpg?s=1d33f4421fd280e64ffa101f6402290f"
+        },
+        {
+          "id": 8617,
+          "name": "Rudy Gillen",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/14/107056.jpg?s=14a9086e8dbd02fec03ae042c7c60a6c"
+        },
+        {
+          "id": 217260,
+          "name": "Girl from Burma",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/8/487452.jpg?s=e9dd16005e5caacd37b364991515ce5b"
+        },
+        {
+          "id": 134912,
+          "name": "Glause",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/14/294066.jpg?s=73aae56bc70afd231acd17385185340b"
+        },
+        {
+          "id": 134914,
+          "name": "Günther Goedelitz",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/5/294068.jpg?s=44ee06030e6d0f5b23c434fbdb5aadff"
+        },
+        {
+          "id": 3096,
+          "name": "Wolfgang Grimmer",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/15/27826.jpg?s=386797f929b65768dfba676ee587cd3d"
+        },
+        {
+          "id": 210777,
+          "name": "Horst Grossman",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/3/477583.jpg?s=21de1315515c1f2d2597a669d838326d"
+        },
+        {
+          "id": 129332,
+          "name": "Hartmann",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/9/283600.jpg?s=629274f5dfb9827bdaf3d42666549286"
+        },
+        {
+          "id": 8624,
+          "name": "Otto Heckel",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/13/287082.jpg?s=89ba120304bd7337439da9c7e0102781"
+        },
+        {
+          "id": 6123,
+          "name": "Eva Heinemann",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/15/70891.jpg?s=278a2df92515f5f78dedb9e1ad1a1f76"
+        },
+        {
+          "id": 135004,
+          "name": "Udo Heinemann",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/6/294158.jpg?s=dcef813f7b2e69a4f0d9f4339948abf5"
+        },
+        {
+          "id": 134904,
+          "name": "Franka Heinich",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/12/294058.jpg?s=8f47ee74f9c8c9e2ae6e8791bc911dd6"
+        },
+        {
+          "id": 216286,
+          "name": "Henning Heinich",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/6/485679.jpg?s=cc6681fab282cc3ad9d83c2840ad95bf"
+        },
+        {
+          "id": 129995,
+          "name": "Heinz",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/12/288052.jpg?s=9538f57437f804ee4a02e9ce5e070421"
+        },
+        {
+          "id": 134852,
+          "name": "Arnold Hess",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/8/294007.jpg?s=b7b1c1e491001728997ba78f12677785"
+        },
+        {
+          "id": 217511,
+          "name": "Hospital Director",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/9/487853.jpg?s=b331a6c8f571e09eddde7408049c7f03"
+        },
+        {
+          "id": 214610,
+          "name": "Hélène",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/2/482625.jpg?s=176bbec4201efa8406aa9ab129971916"
+        },
+        {
+          "id": 81643,
+          "name": "Toshio Iwai",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/3/287061.jpg?s=ef65c692548fba18fa5d8d53e1170210"
+        },
+        {
+          "id": 134970,
+          "name": "Jalka",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/6/294124.jpg?s=491c57227e69eb47e811f2e18dfc2530"
+        },
+        {
+          "id": 134931,
+          "name": "Jan Suk's Mother",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/14/294085.jpg?s=969336bad7bc12e058c56e9413453dea"
+        },
+        {
+          "id": 244487,
+          "name": "Stephan Joos",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/11/540987.jpg?s=6eeb167388160f4f1a2603744c57b6a2"
+        },
+        {
+          "id": 134846,
+          "name": "Adolf Junkers",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/3/294002.jpg?s=1548af071cc594a64c6da018f0d7bda5"
+        },
+        {
+          "id": 34401,
+          "name": "Peter Jürgens",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/12/288470.jpg?s=2e58b6546ff538dbcbd4a6d1e0e34047"
+        },
+        {
+          "id": 134906,
+          "name": "Franz Kiefer",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/16/294060.jpg?s=2b7926bc85a802e6dad759343008ea68"
+        },
+        {
+          "id": 134935,
+          "name": "Kipper",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/13/294089.jpg?s=68507613c42b8e0dde58b7dee444b444"
+        },
+        {
+          "id": 134921,
+          "name": "Herbert Knaup",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/8/294075.jpg?s=a99e593fcc9a29d5f19378a5742a0e30"
+        },
+        {
+          "id": 135009,
+          "name": "Wim Knaup",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/4/294163.jpg?s=dfb35e963a0d9b89fbfb8639b81ec726"
+        },
+        {
+          "id": 129999,
+          "name": "Kohl",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/2/284686.jpg?s=0c189b69c43746330cab90b56ce175f5"
+        },
+        {
+          "id": 45169,
+          "name": "Milan Kolasch",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/9/389788.jpg?s=6edeb00920980f5e725e88e24d5fb6d3"
+        },
+        {
+          "id": 134960,
+          "name": "Konrad",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/7/294114.jpg?s=8e9bd2843316f06d970fea2b05c8b7a2"
+        },
+        {
+          "id": 217491,
+          "name": "Konstantin",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/15/487829.jpg?s=0e69d29fdc06dbed4c0e7c6af0f27e4f"
+        },
+        {
+          "id": 134936,
+          "name": "Kunz",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/3/294090.jpg?s=6076e7974def51afbf795b1e8a021857"
+        },
+        {
+          "id": 263594,
+          "name": "Ivan Kürten",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/5/577714.jpg?s=f2eb7890e8ab9b9b1f727c8f3816094b"
+        },
+        {
+          "id": 134940,
+          "name": "Librarian",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/14/294094.jpg?s=8cea26dfd9859990225387ecb57fe419"
+        },
+        {
+          "id": 23328,
+          "name": "Jaromír Lipský",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/7/288976.jpg?s=e9b9a0785bdd4e5310ccfcff0a83c2eb"
+        },
+        {
+          "id": 721,
+          "name": "Heinrich Lunge",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/13/272131.jpg?s=c638ed49fd2cb0ef3d04a83b1388204f"
+        },
+        {
+          "id": 134941,
+          "name": "Lunge's Daughter",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/12/294095.jpg?s=3d491dabf3d52c01e698653d403812df"
+        },
+        {
+          "id": 134942,
+          "name": "Lunge's Wife",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/11/294096.jpg?s=b1a9b65925fc29730add91eb281159af"
+        },
+        {
+          "id": 217492,
+          "name": "Man in Forest",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/12/487830.jpg?s=0c3793f2c419791fa7fc1f307299e288"
+        },
+        {
+          "id": 134945,
+          "name": "Martin",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/13/294099.jpg?s=ebc08efdac8cbfefd23cf669f50829ef"
+        },
+        {
+          "id": 217493,
+          "name": "Martin's Mother",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/5/487831.jpg?s=9850eaa6cc0d0ee655d4240f4b3d220d"
+        },
+        {
+          "id": 134928,
+          "name": "Jacob Maurer",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/4/294082.jpg?s=bb3204c2cd8c1ff5a6db42584c868d6b"
+        },
+        {
+          "id": 265352,
+          "name": "Meres",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/12/580833.jpg?s=9041e1c4ef2cc008a96c1966e7a0205e"
+        },
+        {
+          "id": 28692,
+          "name": "Gunther Milch",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/13/288459.jpg?s=5ed3224f0c0984a575ea6fb5f8a95b4c"
+        },
+        {
+          "id": 32430,
+          "name": "Gustav Milch",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/2/288460.jpg?s=ef03dae3278a18684bdc88cd65f7e2c1"
+        },
+        {
+          "id": 212381,
+          "name": "Milosz",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/12/477239.jpg?s=9dc4b52e821f24bd2ec840aaa7ab8f46"
+        },
+        {
+          "id": 216250,
+          "name": "Minh",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/10/485570.jpg?s=f1b9dfdbe5847243b89728e2ec846b60"
+        },
+        {
+          "id": 217489,
+          "name": "Mintach",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/6/487827.jpg?s=bd137ff716e751eeca89d4f862cfadaf"
+        },
+        {
+          "id": 89353,
+          "name": "Moumoku no Roujin",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/4/215761.jpg?s=834b4dc7beb5a5924a5cbeb3a310b634"
+        },
+        {
+          "id": 235389,
+          "name": "Mr. Heitmeyer",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/7/523484.jpg?s=95b03d42c9db6f8e7763e3b99435f8b0"
+        },
+        {
+          "id": 217496,
+          "name": "Mr. Jones",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/4/487834.jpg?s=1d713aa615934ab18ea89f194b628cc3"
+        },
+        {
+          "id": 134961,
+          "name": "Mr. Liebert",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/7/294115.jpg?s=e679783776b93f1644335e8d60e7018f"
+        },
+        {
+          "id": 217512,
+          "name": "Mr. Liebert",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/15/487854.jpg?s=89203a4e8cecf63a2b965881d546ddb9"
+        },
+        {
+          "id": 217495,
+          "name": "Mr. Lindner",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/3/487833.jpg?s=2f7001e7ae04aa0b7e9015f309ee6415"
+        },
+        {
+          "id": 135017,
+          "name": "Mrs. Hesse",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/16/294171.jpg?s=28d5f80675b5461f554191c114247b0d"
+        },
+        {
+          "id": 134939,
+          "name": "Mrs. Jones",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/2/294093.jpg?s=8e688c3e6196d80ba975639cb4eaae30"
+        },
+        {
+          "id": 217513,
+          "name": "Mrs. Liebert",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/8/487855.jpg?s=7fad56c94d8fa6becde4d88955a10876"
+        },
+        {
+          "id": 134963,
+          "name": "Mrs. Liebert",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/12/294117.jpg?s=d603c5bc9352651c53a71ea3d70c28aa"
+        },
+        {
+          "id": 217494,
+          "name": "Mrs. Lindner",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/14/487832.jpg?s=fd226837ccd8fbd87f56468d6896c7e8"
+        },
+        {
+          "id": 134853,
+          "name": "Barbara Mueller",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/16/294008.jpg?s=9af0f457122db5ea600d58d0b239110a"
+        },
+        {
+          "id": 215456,
+          "name": "Michael Muller",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/10/484049.jpg?s=68d46d92175b191a36a8fbd0360221ad"
+        },
+        {
+          "id": 130001,
+          "name": "Murder Convict",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/10/284688.jpg?s=25fa1443e5477b434ebdb18d46cbdd42"
+        },
+        {
+          "id": 266358,
+          "name": "Murder Convict A",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/6/582649.jpg?s=f2d19fa4a56750ff1ba09a3bb965864e"
+        },
+        {
+          "id": 217474,
+          "name": "Murder Convict B",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/3/487788.jpg?s=0709af237a2cfee039fca1174a738dc7"
+        },
+        {
+          "id": 216248,
+          "name": "Mustafa",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/6/485568.jpg?s=002fbfab353f2328b69532ae27ea3ef2"
+        },
+        {
+          "id": 8622,
+          "name": "Karl Neumann",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/5/287040.jpg?s=989a0e1be390fdb6d66bf02f8d4a7d11"
+        },
+        {
+          "id": 38843,
+          "name": "Helenka Novakova",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/11/110955.jpg?s=ad127698ab880095866dc2e662388a2c"
+        },
+        {
+          "id": 217497,
+          "name": "Nurse B",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/6/487835.jpg?s=61f6cca8a73a28179a58f79281598e7d"
+        },
+        {
+          "id": 134977,
+          "name": "Peter",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/4/294131.jpg?s=d1b976fe06cd81d272208865bb3f2360"
+        },
+        {
+          "id": 129996,
+          "name": "Petra",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/7/288060.jpg?s=b5c49a6b3d6ec4d219d5870d032bf0c2"
+        },
+        {
+          "id": 134979,
+          "name": "Pionere",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/13/294133.jpg?s=a9f67dad1819298063ed446bff54bede"
+        },
+        {
+          "id": 134980,
+          "name": "Police Chief",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/2/294134.jpg?s=edf0fbe87cb3d7b717b2cfc6a53f6808"
+        },
+        {
+          "id": 134915,
+          "name": "Police Chief Hamrik",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/9/294069.jpg?s=2c3dd856089d76bf7377ce99086c9b20"
+        },
+        {
+          "id": 134981,
+          "name": "Professor Kronecker",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/14/294135.jpg?s=d41f3ceb801de64fa5219e9a1bd5d045"
+        },
+        {
+          "id": 134982,
+          "name": "Prostitute",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/7/294136.jpg?s=b0452715869393fe6cbed735d34c648c"
+        },
+        {
+          "id": 134933,
+          "name": "Karel Ranke",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/4/294087.jpg?s=7e63335d87b07f34b91c96f28c886d8a"
+        },
+        {
+          "id": 12117,
+          "name": "Martin Reest",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/8/289038.jpg?s=d8a9f2f42102148f55677d043f62f67f"
+        },
+        {
+          "id": 11080,
+          "name": "Julius Reichwein",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/14/28592.jpg?s=9c9183bdd40bc2ad9949f470be473ad8"
+        },
+        {
+          "id": 134987,
+          "name": "Robbie",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/11/294141.jpg?s=efe901aa95d63c178e50f6d69bac7c2d"
+        },
+        {
+          "id": 8611,
+          "name": "Roberto",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/7/494074.jpg?s=13b22078d33b18e9839314011dd541d7"
+        },
+        {
+          "id": 102293,
+          "name": "Rosso",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/3/289430.jpg?s=811a424aa3818b40ed693a09532ccaae"
+        },
+        {
+          "id": 134990,
+          "name": "Ruhenheim Police Chief",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/13/294144.jpg?s=b03d69dd7c6660eae1d318b6a8cbdb7d"
+        },
+        {
+          "id": 216249,
+          "name": "Schumer",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/11/485569.jpg?s=08383091c892fa01fdf7b373ad186f64"
+        },
+        {
+          "id": 8620,
+          "name": "Hans Georg Schuwald",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/9/70925.jpg?s=0c07f1eb1ad54840d1fd4adda53aeb9f"
+        },
+        {
+          "id": 217485,
+          "name": "Section Manager Farobek",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/11/487822.jpg?s=fcfa0bf4482b3dd5a0569bbc8d95c5a1"
+        },
+        {
+          "id": 8614,
+          "name": "Christof Sievernich",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/6/289992.jpg?s=0f0ff0bf0ccb51ccf734f8761c1322fd"
+        },
+        {
+          "id": 134934,
+          "name": "Max Steindorf",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/6/294088.jpg?s=033317d3772c33e552610cd698fb46f0"
+        },
+        {
+          "id": 8618,
+          "name": "Jan Suk",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/10/110953.jpg?s=b7539afec6924f4edc650ef601debebb"
+        },
+        {
+          "id": 216252,
+          "name": "Suleiman",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/15/485573.jpg?s=00e33ed04fb4d4089ea042e0fd64fe55"
+        },
+        {
+          "id": 212379,
+          "name": "Erna Tietze",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/9/477235.jpg?s=21f738a7add33543a25afd4bf09e6b89"
+        },
+        {
+          "id": 216251,
+          "name": "Tung",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/7/485572.jpg?s=892e07b3046d67700d209c2c280a58b7"
+        },
+        {
+          "id": 217488,
+          "name": "Turkish Woman",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/3/487825.jpg?s=c59c737bdbce1242882f3ab2be827823"
+        },
+        {
+          "id": 134896,
+          "name": "Ilsa Verdemann",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/14/294050.jpg?s=5c71f4f5d00e1efc20562fdfbb571615"
+        },
+        {
+          "id": 8619,
+          "name": "Fritz Verdemann",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/14/288461.jpg?s=267e8decbf1283e8ed6fdb7a230d9ca2"
+        },
+        {
+          "id": 129998,
+          "name": "Egon Weissbach",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/7/289647.jpg?s=6ff5e867d4222cb22cfd08a12d76603e"
+        },
+        {
+          "id": 8613,
+          "name": "Helmut Wolf",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/11/110950.jpg?s=b186792674d531a9804554603a391c12"
+        },
+        {
+          "id": 130000,
+          "name": "Yamamoto",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/14/284687.jpg?s=90e32e323c0f4f552b56f3975d749ae2"
+        },
+        {
+          "id": 135005,
+          "name": "Young Vietnamese Doctor",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/14/294159.jpg?s=7d531ee273a5eb73123eb8ba25086aa8"
+        },
+        {
+          "id": 217516,
+          "name": "Filip Zeman",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/9/487867.jpg?s=b663ec028a9923456c825274aa125180"
+        },
+        {
+          "id": 135015,
+          "name": "Tomas Zoback",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/11/294169.jpg?s=4cef1eff703baf8e343e374f06760919"
+        },
+        {
+          "id": 8616,
+          "name": "Peter Čapek",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/2/110947.jpg?s=d980c8cc71c93c7c0317f9481ac58671"
+        },
+        {
+          "id": 141030,
+          "name": "Viera Černá",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/3/348584.jpg?s=d05a25a106f4a64bc0236947bcfad857"
+        }
+      ]
     },
     {
       "id": 39587,
@@ -1447,7 +4879,106 @@
           "image_url": "https://cdn.myanimelist.net/images/anime/1404/98182l.jpg",
           "large_image_url": "https://cdn.myanimelist.net/images/anime/1404/98182l.jpg"
         }
-      }
+      },
+      "synopsis_es": "Shinji Ikari queda emocionalmente en coma después de la muerte de un querido amigo. Con su hijo mentalmente incapaz de pilotar el robot humanoide Evangelion Unit-01, NERV de Gendou Ikari corre contra la organización en la sombra SEELE para ver quién puede implementar su plan definitivo primero. SEELE desea crear un ser divino fusionando sus propias almas en una unidad de Evangelion, mientras que Gendou desea revertir a toda la humanidad en un ser primordial para poder reunirse con Yui, su difunta esposa.\n\nSEELE desata sus fuerzas militares en una invasión letal de la sede de NERV. Mientras las fuerzas de SEELE acaban con los científicos y el personal de seguridad de NERV, Asuka Langley Souryuu pilota la Unidad Evangelion-02 en una última y desesperada resistencia contra el armamento más pesado de SEELE.\n\nLa batalla continúa y un Shinji deprimido se esconde en lo profundo de la sede de NERV. Con el destino del mundo en manos de Shinji, la capitana Misato Katsuragi busca al adolescente mientras la sociedad se desmorona a su alrededor.\n\n[Escrito por MAL Rewrite]",
+      "characters": [
+        {
+          "id": 86,
+          "name": "Rei Ayanami",
+          "role": "Main",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/11/314932.jpg?s=3686e6c4d76595fb1f71b0390d7997a2"
+        },
+        {
+          "id": 89,
+          "name": "Shinji Ikari",
+          "role": "Main",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/5/225177.jpg?s=6ac886f090e501714d54b820680ad7e1"
+        },
+        {
+          "id": 1259,
+          "name": "Misato Katsuragi",
+          "role": "Main",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/15/515181.jpg?s=92e2a933ea958ad8a2b94bd692c50dee"
+        },
+        {
+          "id": 94,
+          "name": "Asuka Langley Souryuu",
+          "role": "Main",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/12/79465.jpg?s=9551d38debcab623eaf0b633be75e9b9"
+        },
+        {
+          "id": 1251,
+          "name": "Ritsuko Akagi",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/13/108139.jpg?s=bd8a11674d1670110baef5199bfe2831"
+        },
+        {
+          "id": 1252,
+          "name": "Shigeru Aoba",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/15/145219.jpg?s=10122d05a3393a348bd33a3f4ea44108"
+        },
+        {
+          "id": 1253,
+          "name": "Kouzou Fuyutsuki",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/10/145223.jpg?s=fd22b461b9c2739326583ef85e1caf59"
+        },
+        {
+          "id": 1255,
+          "name": "Makoto Hyuuga",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/4/290508.jpg?s=2605b3313b6f5f97ce56e94b3c4527c2"
+        },
+        {
+          "id": 1256,
+          "name": "Maya Ibuki",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/7/78694.jpg?s=57f59966a66355360a1544bb25a77580"
+        },
+        {
+          "id": 1258,
+          "name": "Yui Ikari",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/12/108140.jpg?s=a7e899188c9f60977641c0cb1e692fe4"
+        },
+        {
+          "id": 1257,
+          "name": "Gendou Ikari",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/11/53131.jpg?s=9a919510d2ed89ed2db9fc8077f14c71"
+        },
+        {
+          "id": 1260,
+          "name": "Ryouji Kaji",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/15/60206.jpg?s=39bb95f5433f8a8568111a25e05d2aff"
+        },
+        {
+          "id": 17620,
+          "name": "Keel Lorentz",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/2/109297.jpg?s=d371ad595d24c0904a69e0a6c2734874"
+        },
+        {
+          "id": 1261,
+          "name": "Kaworu Nagisa",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/3/175413.jpg?s=5ee20b6aa1f53fea531625a5a4dbff2a"
+        },
+        {
+          "id": 1892,
+          "name": "Pen Pen",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/7/346982.jpg?s=62399cb26e61d91eb2a712428e2e0a1a"
+        },
+        {
+          "id": 40969,
+          "name": "Kyouko Zeppelin Souryuu",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/6/122523.jpg?s=84113fff3e03d7d7f47dd4d78ce407f2"
+        }
+      ]
     },
     {
       "id": 16592,
@@ -1995,7 +5526,106 @@
           "image_url": "https://cdn.myanimelist.net/images/anime/7/77356l.jpg",
           "large_image_url": "https://cdn.myanimelist.net/images/anime/7/77356l.jpg"
         }
-      }
+      },
+      "synopsis_es": "Naota Nandaba es una estudiante normal de sexto grado que vive en una ciudad donde nunca parece suceder nada sorprendente. Después de que su hermano Tasuku deja la ciudad para jugar béisbol en Estados Unidos, Naota se encarga de cuidar todo lo que Tasuku dejó atrás, desde su litera superior hasta su ex novia Mamimi Samejima, quien no ha dejado de aferrarse a Naota desde que Tasuku se fue. \n\nSin embargo, Naota no sabe que su existencia mundana está a punto de cambiar para siempre: llega Haruko Haruhara, un psicópata de pelo rosado, que conduce una Vespa y empuña un bajo, cuyo primer encuentro con Naota lo deja con huellas de neumáticos en la espalda y un cuerno gigante en la cabeza. Aunque lo único que quiere es paz y tranquilidad, cuando Haruko se instala en casa de sus padres, Naota se ve arrastrado al corazón de la mayor batalla por la supremacía que la Tierra (y muy posiblemente el universo entero) haya visto jamás.\n\n[Escrito por MAL Rewrite]",
+      "characters": [
+        {
+          "id": 627,
+          "name": "Haruko Haruhara",
+          "role": "Main",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/11/523359.jpg?s=e8f9006c4f3599ad485e176a508a1a72"
+        },
+        {
+          "id": 630,
+          "name": "Naota Nandaba",
+          "role": "Main",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/12/117021.jpg?s=652a16ec94123eea3362aa05b032e63e"
+        },
+        {
+          "id": 632,
+          "name": "Mamimi Samejima",
+          "role": "Main",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/13/218999.jpg?s=ca9991935a15bec47a3275561aeba836"
+        },
+        {
+          "id": 634,
+          "name": "Amarao",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/9/33204.jpg?s=af91313ffa202fd3fcbd4a0e2c5d7126"
+        },
+        {
+          "id": 129683,
+          "name": "Atomsk",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/7/427152.jpg?s=d95b31b39883f390b04ef194d71dcc81"
+        },
+        {
+          "id": 633,
+          "name": "Canti",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/13/589989.jpg?s=ca18ac4f6df026912d13be5b93b673cf"
+        },
+        {
+          "id": 628,
+          "name": "Kitsurubami",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/14/545978.jpg?s=0f48fc1c7402fad52ec9248ea45e7731"
+        },
+        {
+          "id": 636,
+          "name": "Gaku Manabe",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/13/246029.jpg?s=f1128db934e553a08c6f03a45474f094"
+        },
+        {
+          "id": 635,
+          "name": "Masashi Masamune",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/10/246031.jpg?s=e71ccf2f4de70ab9be2574005e9f62f4"
+        },
+        {
+          "id": 15718,
+          "name": "Junko Miyaji",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/4/246027.jpg?s=4de489b18113f038394d059284f25c27"
+        },
+        {
+          "id": 12716,
+          "name": "Miyu Miyu",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/2/427151.jpg?s=f8bb1be8871af3499ee2684c10880650"
+        },
+        {
+          "id": 629,
+          "name": "Kamon Nandaba",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/15/427148.jpg?s=fc4b18dd72580f8681fc41492b3f0e13"
+        },
+        {
+          "id": 214638,
+          "name": "Shigekuni Nandaba",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/8/482733.jpg?s=596c45217825ca34d1dd3752cbacec45"
+        },
+        {
+          "id": 631,
+          "name": "Eri Ninamori",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/7/33201.jpg?s=619bf68e07844d06b0fad561db0716cc"
+        },
+        {
+          "id": 245304,
+          "name": "Ninamori Family Secretary",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/13/542819.jpg?s=8c8b761e98e6c5517059ef5ff598ab6c"
+        },
+        {
+          "id": 13456,
+          "name": "Takkun",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/8/427149.jpg?s=c4fe03b196da6fd01ec56f6bed09657d"
+        }
+      ]
     },
     {
       "id": 934,
@@ -2311,7 +5941,130 @@
           "image_url": "https://cdn.myanimelist.net/images/anime/1254/134212l.jpg",
           "large_image_url": "https://cdn.myanimelist.net/images/anime/1254/134212l.jpg"
         }
-      }
+      },
+      "synopsis_es": "¡El grupo ídolo de J-pop CHAM! ha pasado los últimos dos años entreteniendo a sus fans. Lamentablemente todo lo bueno debe llegar a su fin y ¡CHAM! Hay que ver a una de sus miembros, Mima Kirigoe, dejar el grupo para seguir su carrera como actriz. Si bien la elección de Mima recibe una respuesta mixta, ella espera que sus fans sigan apoyándola.\n\nSin embargo, la vida de Mima comienza a cambiar drásticamente tras su salida del grupo. Queriendo deshacerse de su imagen de ídolo pop, asume un papel en una serie de drama criminal, y su carrera como actriz gradualmente se vuelve más exigente y agotadora tanto para Mima como para su manager, Rumi Hidaka. Para aumentar la creciente inquietud de Mima, un fan obsesionado que es incapaz de aceptar que Mima ha dejado de ser una ídolo inocente, comienza a acosarla; un nuevo sitio web anónimo comienza a personificar su vida con intrincados detalles; y ¡CHAM! También parece estar mejor sin ella. Uno por uno, cada desarrollo inquietante lleva a Mima a volverse cada vez más desquiciada e incapaz de distinguir la realidad de la fantasía.\n\n[Escrito por MAL Rewrite]",
+      "characters": [
+        {
+          "id": 4866,
+          "name": "Mima Kirigoe",
+          "role": "Main",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/13/143613.jpg?s=1e1734528c7b25a0aa9070896fa392d3"
+        },
+        {
+          "id": 134742,
+          "name": "Actor",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/13/293953.jpg?s=7a7211097be52376b76ecdd515e550ae"
+        },
+        {
+          "id": 209499,
+          "name": "Blue",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/11/470619.jpg?s=5215d5d4fa58bafa13ea3c3cde370fd6"
+        },
+        {
+          "id": 134739,
+          "name": "Cham Manager",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/5/293950.jpg?s=c429494da4cde0eefbd3f6d7806bc365"
+        },
+        {
+          "id": 134744,
+          "name": "Co-Director",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/13/293955.jpg?s=946c8b79267690ac2f0019957672e77e"
+        },
+        {
+          "id": 134743,
+          "name": "Director",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/5/293954.jpg?s=3f4033287e1ee368a29f70f1b99e713d"
+        },
+        {
+          "id": 130566,
+          "name": "Doctor",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/9/285685.jpg?s=7832942e31b266e9df1b8b8388ce1ad4"
+        },
+        {
+          "id": 72187,
+          "name": "Tadashi Doi",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/11/323600.jpg?s=a7fc9c75440771aa5f3d4d4f3dc43f4a"
+        },
+        {
+          "id": 6111,
+          "name": "Rumi Hidaka",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/11/282324.jpg?s=8f60215ff888c9b7452c16f31a88da32"
+        },
+        {
+          "id": 134740,
+          "name": "Mima Fan B",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/15/293951.jpg?s=ec7ab57f2b66feeb0dc3c61ae9b9db4b"
+        },
+        {
+          "id": 134741,
+          "name": "Mima Fan C",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/5/293952.jpg?s=b74bf9975b4a8527c0ad72ce66283bb2"
+        },
+        {
+          "id": 72181,
+          "name": "Murano",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/3/323604.jpg?s=cecc4b3383183beeb00a5938774041b9"
+        },
+        {
+          "id": 99599,
+          "name": "Eri Ochiai",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/11/323605.jpg?s=1581835df46ce967afdf4a33238feb9c"
+        },
+        {
+          "id": 40478,
+          "name": "Rei",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/12/233819.jpg?s=561ad658839e5f9d4f207bad4e2551ac"
+        },
+        {
+          "id": 72185,
+          "name": "Sakuragi",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/12/323606.jpg?s=1695d1edb3b5ed53e5be5d29ebca83f0"
+        },
+        {
+          "id": 72191,
+          "name": "Takao Shibuya",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/3/323607.jpg?s=727f5dd7d029ded2ed6ca7042ed8a180"
+        },
+        {
+          "id": 72189,
+          "name": "Tadokoro",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/4/323609.jpg?s=23907a2a5a796ca4cfef1cf88ededb44"
+        },
+        {
+          "id": 72183,
+          "name": "Tejima",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/8/323610.jpg?s=ae38f7f3c868cfcc63a1986c4eb5f674"
+        },
+        {
+          "id": 14123,
+          "name": "Mamoru Uchida",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/12/323603.jpg?s=8ed90f3061ba82ec3d651cfe0fab8cd3"
+        },
+        {
+          "id": 72193,
+          "name": "Yukiko",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/3/233821.jpg?s=3339b2437aa79c825a8d7e697a456021"
+        }
+      ]
     },
     {
       "id": 51096,
@@ -4147,7 +7900,172 @@
           "image_url": "https://cdn.myanimelist.net/images/anime/1422/113533l.jpg",
           "large_image_url": "https://cdn.myanimelist.net/images/anime/1422/113533l.jpg"
         }
-      }
+      },
+      "synopsis_es": "Tras el intento fallido de NERV de recuperar las Lanzas de Longinus y llevar a cabo el Proyecto de Instrumentalidad Humana, la destrucción causada por el Cuarto Impacto se ha evitado en gran medida. En un estado de confusión, Shinji Ikari, Asuka Langley Shikinami y Rei Ayanami viajan a la Aldea 3, un asentamiento de supervivientes libre de la ruina de la Tierra. Allí, Shinji lentamente llega a un acuerdo con su pasado, desarrollando una vida completamente diferente a la de sus días como piloto de Evangelion.\n\nMientras tanto, NERV hace preparativos para continuar el Proyecto de Instrumentalidad mediante un nuevo Impacto. Cuando el principal acorazado aéreo de WILLE llega a la aldea, Shinji decide abordarlo, creyendo que puede ayudar pilotando un Evangelion. A medida que se descubren nuevos secretos y se acerca una batalla entre WILLE y NERV, el futuro de la Tierra está en juego. ¿Podrá Shinji salvar a la humanidad y al resto del mundo por última vez?\n\n[Escrito por MAL Rewrite]",
+      "characters": [
+        {
+          "id": 162259,
+          "name": "Rei Ayanami (tentative)",
+          "role": "Main",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/6/467614.jpg?s=bbe44a0f78e1c08ed062c1acad83ce6f"
+        },
+        {
+          "id": 89,
+          "name": "Shinji Ikari",
+          "role": "Main",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/5/225177.jpg?s=6ac886f090e501714d54b820680ad7e1"
+        },
+        {
+          "id": 1261,
+          "name": "Kaworu Nagisa",
+          "role": "Main",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/3/175413.jpg?s=5ee20b6aa1f53fea531625a5a4dbff2a"
+        },
+        {
+          "id": 94,
+          "name": "Asuka Langley Souryuu",
+          "role": "Main",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/12/79465.jpg?s=9551d38debcab623eaf0b633be75e9b9"
+        },
+        {
+          "id": 1250,
+          "name": "Kensuke Aida",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/13/145217.jpg?s=b36093dbea85ca0e5ce2b33a00c3a71e"
+        },
+        {
+          "id": 1251,
+          "name": "Ritsuko Akagi",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/13/108139.jpg?s=bd8a11674d1670110baef5199bfe2831"
+        },
+        {
+          "id": 1252,
+          "name": "Shigeru Aoba",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/15/145219.jpg?s=10122d05a3393a348bd33a3f4ea44108"
+        },
+        {
+          "id": 86,
+          "name": "Rei Ayanami",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/11/314932.jpg?s=3686e6c4d76595fb1f71b0390d7997a2"
+        },
+        {
+          "id": 1253,
+          "name": "Kouzou Fuyutsuki",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/10/145223.jpg?s=fd22b461b9c2739326583ef85e1caf59"
+        },
+        {
+          "id": 223482,
+          "name": "Bunzaemon Horaki",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/8/502790.jpg?s=051db985f6b0152b3f4bab8a2c58f065"
+        },
+        {
+          "id": 1254,
+          "name": "Hikari Horaki",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/3/145215.jpg?s=6dc6b176cb81e55ff60a7af045ba6053"
+        },
+        {
+          "id": 1255,
+          "name": "Makoto Hyuuga",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/4/290508.jpg?s=2605b3313b6f5f97ce56e94b3c4527c2"
+        },
+        {
+          "id": 1256,
+          "name": "Maya Ibuki",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/7/78694.jpg?s=57f59966a66355360a1544bb25a77580"
+        },
+        {
+          "id": 1257,
+          "name": "Gendou Ikari",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/11/53131.jpg?s=9a919510d2ed89ed2db9fc8077f14c71"
+        },
+        {
+          "id": 1258,
+          "name": "Yui Ikari",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/12/108140.jpg?s=a7e899188c9f60977641c0cb1e692fe4"
+        },
+        {
+          "id": 1260,
+          "name": "Ryouji Kaji",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/15/60206.jpg?s=39bb95f5433f8a8568111a25e05d2aff"
+        },
+        {
+          "id": 223234,
+          "name": "Ryouji Kaji Jr.",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/6/548954.jpg?s=4809dcb992be3e0653b3b4ed86f59c63"
+        },
+        {
+          "id": 1259,
+          "name": "Misato Katsuragi",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/15/515181.jpg?s=92e2a933ea958ad8a2b94bd692c50dee"
+        },
+        {
+          "id": 75214,
+          "name": "Midori Kitakami",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/7/206201.jpg?s=522414530389bb85423352c177db1057"
+        },
+        {
+          "id": 21512,
+          "name": "Mari Illustrious Makinami",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/6/131325.jpg?s=9e116d87fc30a55fa205212348d7c0b2"
+        },
+        {
+          "id": 74137,
+          "name": "Sumire Nagara",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/16/206199.jpg?s=d1beee49309d5fd465eb9fc0767183d9"
+        },
+        {
+          "id": 1892,
+          "name": "Pen Pen",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/7/346982.jpg?s=62399cb26e61d91eb2a712428e2e0a1a"
+        },
+        {
+          "id": 74135,
+          "name": "Sakura Suzuhara",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/10/203573.jpg?s=5261dfde8bbedab89d20c165b616f335"
+        },
+        {
+          "id": 224860,
+          "name": "Tsubame Suzuhara",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/4/502859.jpg?s=811123165cf636a45f9b5f7f4e0e0dd8"
+        },
+        {
+          "id": 1262,
+          "name": "Touji Suzuhara",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/15/276382.jpg?s=0a9845d8e711af3ef66277d60747194b"
+        },
+        {
+          "id": 74143,
+          "name": "Kohji Takao",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/12/206203.jpg?s=da4251e0d91bc8af255fccaadc4fc9f1"
+        },
+        {
+          "id": 74141,
+          "name": "Hideki Tama",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/8/206205.jpg?s=7c70602dcaba152d525727d22a53bdba"
+        }
+      ]
     },
     {
       "id": 11981,
@@ -4207,7 +8125,106 @@
           "image_url": "https://cdn.myanimelist.net/images/anime/5/54231l.jpg",
           "large_image_url": "https://cdn.myanimelist.net/images/anime/5/54231l.jpg"
         }
-      }
+      },
+      "synopsis_es": "Las jóvenes de Mitakihara viven felices sus vidas, luchando ocasionalmente contra el mal, pero por lo demás siguen con sus rutinas cotidianas pacíficas. Sin embargo, Homura Akemi siente que algo anda mal con esta atmósfera inusualmente agradable; aunque los demás permanecen ajenos, ella no puede evitar sospechar que lo que está sucediendo es más de lo que parece: alguien que no debería existir está actualmente presente para unirse a sus actividades.\n\nMahou Shoujo Madoka☆Magica Movie 3: Hangyaku no Monogatari sigue a Homura en su lucha por descubrir la dolorosa verdad detrás de las misteriosas circunstancias, mientras lucha egoísta y desesperadamente por el bien de su amor eterno en esta conclusión llena de desesperación de la historia de cinco chicas mágicas.\n\n[Escrito por MAL Rewrite]",
+      "characters": [
+        {
+          "id": 38005,
+          "name": "Homura Akemi",
+          "role": "Main",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/16/526748.jpg?s=96787db56ea7fc73c3204bcd1cc8e6ff"
+        },
+        {
+          "id": 37832,
+          "name": "Madoka Kaname",
+          "role": "Main",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/6/139487.jpg?s=98f093c854fc6ab62bbca0cb631529f2"
+        },
+        {
+          "id": 38566,
+          "name": "Kyuubey",
+          "role": "Main",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/6/110705.jpg?s=28df087b2aac1927d46d60b193c83fbc"
+        },
+        {
+          "id": 38395,
+          "name": "Sayaka Miki",
+          "role": "Main",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/13/107672.jpg?s=750c1650192a9b4892262ff1bdc8fc6a"
+        },
+        {
+          "id": 91287,
+          "name": "Nagisa Momoe",
+          "role": "Main",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/14/246505.jpg?s=b783376ba6eec2f51740728e875e61bc"
+        },
+        {
+          "id": 40006,
+          "name": "Kyouko Sakura",
+          "role": "Main",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/14/111234.jpg?s=6d42324062795302ded8206026f29e6d"
+        },
+        {
+          "id": 38194,
+          "name": "Mami Tomoe",
+          "role": "Main",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/14/141631.jpg?s=de148500df597515d09c3297a90d9682"
+        },
+        {
+          "id": 40842,
+          "name": "Charlotte",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/8/111972.jpg?s=88c42af8a73eb736686675bb46b572a1"
+        },
+        {
+          "id": 39835,
+          "name": "Kyousuke Kamijou",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/2/114694.jpg?s=bac5ff84dabc79944a50484ecef32dea"
+        },
+        {
+          "id": 41851,
+          "name": "Tatsuya Kaname",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/15/167507.jpg?s=3a6c40eba952f746666fdae09a112160"
+        },
+        {
+          "id": 39784,
+          "name": "Tomohisa Kaname",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/9/108839.jpg?s=f143a234c378eeb7a9e2c12c7f82d70c"
+        },
+        {
+          "id": 39742,
+          "name": "Junko Kaname",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/5/108841.jpg?s=5ce9d578e4ed246b3cb683bfedcecec3"
+        },
+        {
+          "id": 87295,
+          "name": "Nakazawa",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/4/211827.jpg?s=55eaf0bb72815237228ea333dedd8b38"
+        },
+        {
+          "id": 160946,
+          "name": "Oktavia von Seckendorff",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/11/355796.jpg?s=be9d1ee0a69da10008a300acd462afca"
+        },
+        {
+          "id": 39785,
+          "name": "Kazuko Saotome",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/5/108810.jpg?s=0200b95653878e71cef6c6d2061a4c56"
+        },
+        {
+          "id": 39584,
+          "name": "Hitomi Shizuki",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/7/108840.jpg?s=217fcfc8db25a4d2d418f0477c5ba958"
+        }
+      ]
     },
     {
       "id": 44961,
@@ -4939,7 +8956,268 @@
           "image_url": "https://cdn.myanimelist.net/images/anime/1540/155824l.jpg",
           "large_image_url": "https://cdn.myanimelist.net/images/anime/1540/155824l.jpg"
         }
-      }
+      },
+      "synopsis_es": "En la mortal batalla en la ciudad Watergate de Priestella, Subaru y sus aliados apenas salieron victoriosos, pero su triunfo tuvo un gran costo. A través de la \"Autoridad de la Gula\", Rem quedó en animación suspendida, mientras que los recuerdos de Crusch e incluso el nombre de Julius fueron devorados. Mientras busca una manera de salvarlos, Subaru aprende sobre el \"Sabio\" Shaula, un ser que todo lo ve y que posee todo tipo de conocimiento. Su próximo destino es la Atalaya de las Pléyades, hogar del Sabio, la torre más alejada del vasto e inexplorado desierto conocido como las Dunas de Auguria, un lugar tan peligroso que ni siquiera el más poderoso \"Santo de la Espada\", Reinhard, no logró conquistarlo. La furia de la naturaleza, bestias mágicas desconocidas y peligros inimaginables nos esperan. Junto con sus amigos, Subaru se embarca en un arriesgado viaje para recuperar lo perdido.\n\n(Fuente: Kadokawa, editado)",
+      "characters": [
+        {
+          "id": 118737,
+          "name": "Emilia",
+          "role": "Main",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/16/551926.jpg?s=22728d0269f40fb353a31a54545ded00"
+        },
+        {
+          "id": 118735,
+          "name": "Subaru Natsuki",
+          "role": "Main",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/15/315153.jpg?s=48e475fa71e56bb47eb93594fe10359d"
+        },
+        {
+          "id": 255310,
+          "name": "Roy Alphard",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/5/565870.jpg?s=fc4d907cbda4dfa9fd97fba43e38c4dd"
+        },
+        {
+          "id": 118777,
+          "name": "Felix Argyle",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/16/563864.jpg?s=5a4ddc6aa8062f7f1033b366dfb87655"
+        },
+        {
+          "id": 185432,
+          "name": "Rui Arneb",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/13/628364.jpg?s=9b141ffd6fb08c2a2baef7df942fb3f8"
+        },
+        {
+          "id": 187601,
+          "name": "Reid Astrea",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/10/628363.jpg?s=d690790f68e5a345a457bb5f0e513351"
+        },
+        {
+          "id": 144826,
+          "name": "Lye Batenkaitos",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/11/413734.jpg?s=c63b7825c3e2a49fcd4fde189e555ac8"
+        },
+        {
+          "id": 144073,
+          "name": "Frederica Baumann",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/10/628321.jpg?s=ec51a5cb8385b0f0c2aaaa80a34c2077"
+        },
+        {
+          "id": 118767,
+          "name": "Beatrice",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/2/591066.jpg?s=c8b21170c013b5b286d0ee1345052236"
+        },
+        {
+          "id": 144867,
+          "name": "Regulus Corneas",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/14/560847.jpg?s=0d5a1dbd70aa664f4e4d8db953e08032"
+        },
+        {
+          "id": 304722,
+          "name": "Dorkell",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/14/648687.jpg?s=f2834b9975d5383b679584563a489a0f"
+        },
+        {
+          "id": 145877,
+          "name": "Echidna",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/2/599368.jpg?s=f77b77bba4de7a34c8bd3327ff11541e"
+        },
+        {
+          "id": 297113,
+          "name": "Eridna",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/2/634083.jpg?s=7b8d16181a3242779d82d21aa40ed3e3"
+        },
+        {
+          "id": 118755,
+          "name": "Felt",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/9/315231.jpg?s=1bef1ff41ee3049d7e71a91242bf42da"
+        },
+        {
+          "id": 118749,
+          "name": "Elsa Granhiert",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/14/324239.jpg?s=03e10ed43c2a928188259e4ea7ef1272"
+        },
+        {
+          "id": 304723,
+          "name": "Beli Hainelga",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/5/648689.jpg?s=256f888897f355885261ab386329a068"
+        },
+        {
+          "id": 118781,
+          "name": "Anastasia Hoshin",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/15/316407.jpg?s=fef1ce5f3639b48b8e69700a3447b79a"
+        },
+        {
+          "id": 118783,
+          "name": "Julius Juukulius",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/5/480481.jpg?s=abe9942fc7985c6d3eea6c771df017a8"
+        },
+        {
+          "id": 144065,
+          "name": "Petra Leyte",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/9/563878.jpg?s=af299108787701356cdf3f3fac5c107c"
+        },
+        {
+          "id": 304724,
+          "name": "Neiji Lockhart",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/7/648690.jpg?s=5597fbef64dc25cbdd8e55abd07c2910"
+        },
+        {
+          "id": 188158,
+          "name": "Capella Emerada Lugunica",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/12/560844.jpg?s=178f2702ba7270f48387d730fdebe822"
+        },
+        {
+          "id": 118769,
+          "name": "Roswaal L. Mathers",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/12/628361.jpg?s=bc6d172058377b00d5d9bbfca9b099d9"
+        },
+        {
+          "id": 184635,
+          "name": "Naoko Natsuki",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/10/415276.jpg?s=4ffc2cae5d21c5377d7ad8bcca580e70"
+        },
+        {
+          "id": 184101,
+          "name": "Kenichi Natsuki",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/6/415275.jpg?s=66e5c47ca46d529605b9094c0825a7ae"
+        },
+        {
+          "id": 137541,
+          "name": "Pack",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/15/300489.jpg?s=e41c0d4ad13c017d2da734c423858bce"
+        },
+        {
+          "id": 142184,
+          "name": "Mimi Pearlbaton",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/11/577612.jpg?s=08cdbeae3b2b7640637b1e99ea644670"
+        },
+        {
+          "id": 144066,
+          "name": "Meili Portroute",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/4/628320.jpg?s=745042530fc6a6b13824b3ed53d8e647"
+        },
+        {
+          "id": 118765,
+          "name": "Ram",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/15/306390.jpg?s=c627953e35df76da593d931548b7e646"
+        },
+        {
+          "id": 118763,
+          "name": "Rem",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/9/311327.jpg?s=3246595cd08261824d0dbf11a44c7229"
+        },
+        {
+          "id": 118751,
+          "name": "Kadomon Risch",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/10/310758.jpg?s=826e1179d7309a654f064b4b481f08b9"
+        },
+        {
+          "id": 141521,
+          "name": "Petelgeuse Romanée-Conti",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/5/433803.jpg?s=ea96d10316206d8bee58ed1e85daa58b"
+        },
+        {
+          "id": 194432,
+          "name": "Sirius Romanée-Conti",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/13/560846.jpg?s=074da811d8cb15e250f0f597fd34445d"
+        },
+        {
+          "id": 144319,
+          "name": "Satella",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/11/333682.jpg?s=d51df16debe182247eb3c6796ee4b1df"
+        },
+        {
+          "id": 188137,
+          "name": "Shaula",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/6/630659.jpg?s=54de4efe97b8ff5980a2c00fb660e547"
+        },
+        {
+          "id": 141438,
+          "name": "Otto Suwen",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/3/438832.jpg?s=a4b29f3ba09228b9adae8f3326575b92"
+        },
+        {
+          "id": 187608,
+          "name": "Reala Thompson",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/10/565612.jpg?s=7166c68f18de54176c05a52c40a7b74c"
+        },
+        {
+          "id": 187610,
+          "name": "Rafiel Thompson",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/9/565611.jpg?s=053275002b26c516524075832626350a"
+        },
+        {
+          "id": 187611,
+          "name": "Fred Thompson",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/5/421307.jpg?s=816552d6b1d9b18e0eb2af36864ba974"
+        },
+        {
+          "id": 146747,
+          "name": "Garfiel Tinsel",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/2/563872.jpg?s=339c309c60df78477a91d2b20fb055f7"
+        },
+        {
+          "id": 147407,
+          "name": "Typhon",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/3/319758.jpg?s=c865086d12800c5810faebcd4debedf0"
+        },
+        {
+          "id": 295501,
+          "name": "Typhon's Father",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/13/648693.jpg?s=8462061012767bdc1e9b881f0276fbc8"
+        },
+        {
+          "id": 118741,
+          "name": "Reinhard van Astrea",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/7/312722.jpg?s=4f43fa8a5da434c4958220d90c3944bd"
+        },
+        {
+          "id": 268198,
+          "name": "Volcanica",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/11/647381.jpg?s=bb5f20337daf515a1215983e5405e1af"
+        }
+      ]
     },
     {
       "id": 60489,
@@ -4999,7 +9277,88 @@
           "image_url": "https://cdn.myanimelist.net/images/anime/1182/149879l.jpg",
           "large_image_url": "https://cdn.myanimelist.net/images/anime/1182/149879l.jpg"
         }
-      }
+      },
+      "synopsis_es": "Después de dejar Happy Planet con la misión de difundir la felicidad por todo el universo, una criatura rosa parecida a un calamar aterriza en la Tierra. Las cosas pintan mal cuando apenas evita morir de hambre y ser atrapado, hasta que un día, la sombría estudiante de cuarto grado Shizuka Kuze decide ayudar a la extraña forma de vida y la llama Takopii. Mientras Shizuka regresa todos los días para alimentarlo, Takopii, agradecido, se esfuerza por devolverle el dinero haciéndola sonreír.\n\nSin embargo, eso no es una tarea fácil: Takopii no es consciente de las complejidades de la sociedad humana y del hecho de que la vida de Shizuka está llena de dificultades. No importa cuán desesperada sea la situación, Takopii siempre está alegre y decidido a hacer que Shizuka se sienta mejor utilizando diferentes métodos y dispositivos provenientes de Happy Planet, incluso cuando su misión comienza a salirse de control.\n\n[Escrito por MAL Rewrite]",
+      "characters": [
+        {
+          "id": 208264,
+          "name": "Naoki Azuma",
+          "role": "Main",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/4/584539.jpg?s=909b23aac569860730c90e316de05cb1"
+        },
+        {
+          "id": 208262,
+          "name": "Marina Kirarazaka",
+          "role": "Main",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/10/584540.jpg?s=bbf3d7f3d267b0b20a2a6a4446b86a52"
+        },
+        {
+          "id": 208070,
+          "name": "Shizuka Kuze",
+          "role": "Main",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/12/573206.jpg?s=7ba20687f007f6b8a72a493f3e46314b"
+        },
+        {
+          "id": 208263,
+          "name": "Takopii",
+          "role": "Main",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/7/573207.jpg?s=08054aa3f2c5781df06546666c0842fa"
+        },
+        {
+          "id": 213039,
+          "name": "Junya Azuma",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/2/598916.jpg?s=697bef5653602104be4bf8690049fbcb"
+        },
+        {
+          "id": 274838,
+          "name": "Azuma's Mother",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/4/599541.jpg?s=513832fc5a080ae4ec2db8a1d9d508f3"
+        },
+        {
+          "id": 278176,
+          "name": "Eri",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/16/604141.jpg?s=34b53803421697cab48736c6c20feff8"
+        },
+        {
+          "id": 274162,
+          "name": "Happy Mama",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/6/605276.jpg?s=4f1123641d00f75317d36dda43830fcd"
+        },
+        {
+          "id": 274525,
+          "name": "Marina's Father",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/11/602764.jpg?s=6e8e17f0da0f7051e1ba3448f0d19d17"
+        },
+        {
+          "id": 274524,
+          "name": "Marina's Mother",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/5/598444.jpg?s=2d1402dc8afd1b3e0eccde231d6b2df5"
+        },
+        {
+          "id": 278175,
+          "name": "Satsuki",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/14/604140.jpg?s=87d36f09e4a6c5a8d940f13b20f984d3"
+        },
+        {
+          "id": 278174,
+          "name": "Shizuka's Father",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/2/604139.jpg?s=e93e5129cd8098fdb31d74cbe4c44a8a"
+        },
+        {
+          "id": 274523,
+          "name": "Shizuka's Mother",
+          "role": "Supporting",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/10/599731.jpg?s=dd589e5571c69673f52de1488c7c795a"
+        }
+      ]
     },
     {
       "id": 33028,
