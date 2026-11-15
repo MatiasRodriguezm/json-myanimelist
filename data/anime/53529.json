@@ -26,8 +26,8 @@
   "num_episodes": 1,
   "score": null,
   "mean": null,
-  "numListUsers": 40067,
-  "num_list_users": 40067,
+  "numListUsers": 40068,
+  "num_list_users": 40068,
   "genres": [
     {
       "id": 1,
@@ -60,11 +60,15 @@
       "name": "Psyde Kick Studio"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1537/130580l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1107/158917l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1869/158918l.jpg"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-14T23:28:16.439Z",
+  "tmdb_updated_at": "2026-11-15T01:31:46.702Z",
   "simkl_id": 2029378,
   "episodes_data": [],
   "specials_data": [],
@@ -82,25 +86,25 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1869/158918l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1869/158918l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1869/158918l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1869/158918l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1869/158918l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1869/158918l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1869/158918l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1869/158918l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1869/158918l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1869/158918l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1537/130580l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1537/130580l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1537/130580l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1537/130580l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1537/130580l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1537/130580l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1537/130580l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1537/130580l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1537/130580l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1537/130580l.jpg"
     }
   },
   "broadcast": null,
   "rank": null,
-  "popularity": 4210,
+  "popularity": 4208,
   "num_scoring_users": 1,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2022-11-06T11:58:26+00:00",
+  "updated_at": "2026-10-25T11:53:07+00:00",
   "source": "light_novel",
   "rating": null,
   "background": null,
@@ -122,13 +126,13 @@
   "recommendations": [],
   "statistics": {
     "status": {
-      "watching": "1",
-      "completed": "1",
+      "watching": "3",
+      "completed": 0,
       "on_hold": "1",
       "dropped": 0,
-      "plan_to_watch": "39999"
+      "plan_to_watch": "40064"
     },
-    "num_list_users": 40002
+    "num_list_users": 40068
   },
-  "mal_details_updated_at": "2026-11-10T01:30:51.574Z"
+  "mal_details_updated_at": "2026-11-15T01:31:46.254Z"
 }

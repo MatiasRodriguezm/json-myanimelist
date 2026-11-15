@@ -44,11 +44,13 @@
     }
   ],
   "studios": [],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/6/72182l.jpg"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-14T23:26:26.788Z",
+  "tmdb_updated_at": "2026-11-15T01:30:19.426Z",
   "simkl_id": 602433,
   "episodes_data": [
     {
@@ -59,8 +61,7 @@
       "airedDate": null,
       "thumbnail": null,
       "imageUrl": null,
-      "description": null,
-      "title_es": "Episodio 1"
+      "description": null
     },
     {
       "episode": 2,
@@ -70,8 +71,7 @@
       "airedDate": null,
       "thumbnail": null,
       "imageUrl": null,
-      "description": null,
-      "title_es": "Episodio 2"
+      "description": null
     },
     {
       "episode": 3,
@@ -81,8 +81,7 @@
       "airedDate": null,
       "thumbnail": null,
       "imageUrl": null,
-      "description": null,
-      "title_es": "Episodio 3"
+      "description": null
     },
     {
       "episode": 4,
@@ -92,8 +91,7 @@
       "airedDate": null,
       "thumbnail": null,
       "imageUrl": null,
-      "description": null,
-      "title_es": "Episodio 4"
+      "description": null
     },
     {
       "episode": 5,
@@ -103,8 +101,7 @@
       "airedDate": null,
       "thumbnail": null,
       "imageUrl": null,
-      "description": null,
-      "title_es": "Episodio 5"
+      "description": null
     },
     {
       "episode": 6,
@@ -114,8 +111,7 @@
       "airedDate": null,
       "thumbnail": null,
       "imageUrl": null,
-      "description": null,
-      "title_es": "Episodio 6"
+      "description": null
     },
     {
       "episode": 7,
@@ -125,8 +121,7 @@
       "airedDate": null,
       "thumbnail": null,
       "imageUrl": null,
-      "description": null,
-      "title_es": "Episodio 7"
+      "description": null
     },
     {
       "episode": 8,
@@ -136,8 +131,7 @@
       "airedDate": null,
       "thumbnail": null,
       "imageUrl": null,
-      "description": null,
-      "title_es": "Episodio 8"
+      "description": null
     },
     {
       "episode": 9,
@@ -147,8 +141,7 @@
       "airedDate": null,
       "thumbnail": null,
       "imageUrl": null,
-      "description": null,
-      "title_es": "Episodio 9"
+      "description": null
     }
   ],
   "specials_data": [
@@ -160,8 +153,7 @@
       "airedDate": null,
       "thumbnail": null,
       "imageUrl": null,
-      "description": null,
-      "title_es": "Cómo se hizo la cuerda Kami-Usagi: Warau Asa ni wa Fuku Kitarutte Majissu ka!? Edición LiLiCo Adivino"
+      "description": null
     },
     {
       "episode": 2,
@@ -171,8 +163,7 @@
       "airedDate": null,
       "thumbnail": null,
       "imageUrl": null,
-      "description": null,
-      "title_es": "Cómo se hizo la cuerda Kami-Usagi: Warau Asa ni wa Fuku Kitarutte Majissu ka!? Edición Shota, Hideo y Koichi Suzuki-fuku"
+      "description": null
     },
     {
       "episode": 3,
@@ -182,8 +173,7 @@
       "airedDate": null,
       "thumbnail": null,
       "imageUrl": null,
-      "description": null,
-      "title_es": "Cómo se hizo la cuerda Kami-Usagi: Warau Asa ni wa Fuku Kitarutte Majissu ka!? Edición Momoiro Clover Z"
+      "description": null
     },
     {
       "episode": 4,
@@ -193,8 +183,7 @@
       "airedDate": null,
       "thumbnail": null,
       "imageUrl": null,
-      "description": null,
-      "title_es": "Cómo se hizo la cuerda Kami-Usagi: Warau Asa ni wa Fuku Kitarutte Majissu ka!? Edición Gachapin Mukku"
+      "description": null
     },
     {
       "episode": 5,
@@ -204,8 +193,7 @@
       "airedDate": null,
       "thumbnail": null,
       "imageUrl": null,
-      "description": null,
-      "title_es": "Cómo se hizo la cuerda Kami-Usagi: Warau Asa ni wa Fuku Kitarutte Majissu ka!? Momoiro Trébol Z Edición 2"
+      "description": null
     }
   ],
   "images": {
@@ -242,12 +230,12 @@
     "timezone": "Asia/Tokyo",
     "string": "other 06:45"
   },
-  "rank": 12188,
-  "popularity": 12709,
+  "rank": 12197,
+  "popularity": 12713,
   "num_scoring_users": 129,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2015-02-22T06:39:36+00:00",
+  "updated_at": "2025-11-28T12:56:46+00:00",
   "source": "original",
   "rating": "g",
   "background": null,
@@ -269,8 +257,8 @@
         "id": 30153,
         "title": "Takarakuji x Rope",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/10/72184.webp",
-          "large": "https://cdn.myanimelist.net/images/anime/10/72184l.webp"
+          "medium": "https://cdn.myanimelist.net/images/anime/10/72184.jpg",
+          "large": "https://cdn.myanimelist.net/images/anime/10/72184l.jpg"
         }
       },
       "relation_type": "side_story",
@@ -281,8 +269,8 @@
         "id": 30654,
         "title": "Ansatsu Kyoushitsu 2nd Season",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/8/77966.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/8/77966l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/8/77966.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/8/77966l.webp"
         }
       },
       "relation_type": "character",
@@ -497,48 +485,13 @@
   ],
   "statistics": {
     "status": {
-      "watching": "993",
+      "watching": "994",
       "completed": 0,
-      "on_hold": "74",
+      "on_hold": "75",
       "dropped": "458",
       "plan_to_watch": "652"
     },
-    "num_list_users": 2177
+    "num_list_users": 2179
   },
-  "mal_details_updated_at": "2026-11-10T01:28:26.176Z",
-  "characters": [
-    {
-      "id": 262415,
-      "name": "Ayaka",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/6/575735.jpg?s=52ef7e43b027d8c5554e0784ddb705f2"
-    },
-    {
-      "id": 262413,
-      "name": "Kanako",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/15/575733.jpg?s=c448141e8b771668a3c7b69eea3ec878"
-    },
-    {
-      "id": 262418,
-      "name": "Momoka",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/7/575738.jpg?s=41a2f23cfbe8ef092d8299863ec47255"
-    },
-    {
-      "id": 262417,
-      "name": "Reni",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/13/575737.jpg?s=86da0fde2e1edcbf87881c6c8e9bb2f4"
-    },
-    {
-      "id": 262414,
-      "name": "Shiori",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/14/575734.jpg?s=fb26c2ddda0ddcd7956b587ba2642891"
-    }
-  ],
-  "characters_updated_at": "2026-11-14T23:17:36.719Z",
-  "synopsis_es": "Cuarta temporada de Kamiusagi Rope, los acontecimientos ocurren después del largometraje. Se transmite por Mezamashi TV en lugar de en los cines.",
-  "translations_updated_at": "2026-11-15T01:16:36.667Z"
+  "mal_details_updated_at": "2026-11-15T01:30:18.753Z"
 }

@@ -29,8 +29,8 @@
   "num_episodes": null,
   "score": null,
   "mean": null,
-  "numListUsers": 390,
-  "num_list_users": 390,
+  "numListUsers": 391,
+  "num_list_users": 391,
   "genres": [
     {
       "id": 4,
@@ -51,7 +51,7 @@
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-14T23:26:48.455Z",
+  "tmdb_updated_at": "2026-11-15T01:30:37.424Z",
   "simkl_id": 3273464,
   "episodes_data": [
     {
@@ -62,8 +62,7 @@
       "airedDate": "2026-10-04T00:00:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null,
-      "title_es": "Episodio 1"
+      "description": null
     },
     {
       "episode": 2,
@@ -73,8 +72,7 @@
       "airedDate": "2026-10-11T00:00:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null,
-      "title_es": "Episodio 2"
+      "description": null
     },
     {
       "episode": 3,
@@ -84,8 +82,7 @@
       "airedDate": "2026-10-18T00:00:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null,
-      "title_es": "Episodio 3"
+      "description": null
     },
     {
       "episode": 4,
@@ -95,8 +92,7 @@
       "airedDate": "2026-10-25T00:00:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null,
-      "title_es": "Episodio 4"
+      "description": null
     }
   ],
   "specials_data": [],
@@ -169,6 +165,5 @@
     },
     "num_list_users": 379
   },
-  "mal_details_updated_at": "2026-11-10T01:36:05.763Z",
-  "translations_updated_at": "2026-11-15T01:24:05.399Z"
+  "mal_details_updated_at": "2026-11-10T01:36:05.763Z"
 }

@@ -31,8 +31,8 @@
   "num_episodes": null,
   "score": null,
   "mean": null,
-  "numListUsers": 7230,
-  "num_list_users": 7230,
+  "numListUsers": 7233,
+  "num_list_users": 7233,
   "genres": [
     {
       "id": 1,
@@ -53,7 +53,7 @@
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-14T23:27:30.967Z",
+  "tmdb_updated_at": "2026-11-15T01:31:12.791Z",
   "simkl_id": 3055792,
   "episodes_data": [
     {
@@ -64,35 +64,34 @@
       "airedDate": "2027-01-01T00:00:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null,
-      "title_es": "Episodio 1"
+      "description": null
     }
   ],
   "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1376/160462.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1376/160462l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1376/160462.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1376/160462l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1376/160462.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1376/160462l.webp",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1376/160462.webp",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1376/160462l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1376/160462.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1376/160462l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1376/160462.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1376/160462l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1376/160462l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1376/160462l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1376/160462l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1376/160462l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1376/160462l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1376/160462l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1376/160462l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1376/160462l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1376/160462l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1376/160462l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1376/160462l.webp",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1376/160462l.webp",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1376/160462l.webp",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1376/160462l.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1376/160462l.webp",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1376/160462l.webp",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1376/160462l.webp",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1376/160462l.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1376/160462l.webp",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1376/160462l.webp"
     }
   },
   "broadcast": null,
@@ -118,58 +117,5 @@
     },
     "num_list_users": 7031
   },
-  "mal_details_updated_at": "2026-11-10T01:35:53.820Z",
-  "characters": [
-    {
-      "id": 292546,
-      "name": "Heidemarie",
-      "role": "Main",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/8/626119.jpg?s=ef3944059d3b2b2feeac2e65b4dde920"
-    },
-    {
-      "id": 292545,
-      "name": "Wim Strauss",
-      "role": "Main",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/6/626118.jpg?s=c67b17f5f0e923cecf1f041acce77bb5"
-    },
-    {
-      "id": 305595,
-      "name": "Abel",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/9/647914.jpg?s=5467f9874444b0224941375310beb261"
-    },
-    {
-      "id": 299480,
-      "name": "Camilla",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/10/637816.jpg?s=5fdd6903e76891223c221349d76482b1"
-    },
-    {
-      "id": 299481,
-      "name": "Chronos",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/7/637817.jpg?s=ff6de576b265dcc1bc1c3d46dd318c5d"
-    },
-    {
-      "id": 299482,
-      "name": "Rita Heynckes",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/14/637818.jpg?s=e7875cd85904889e86b61fbdf3e9aef8"
-    },
-    {
-      "id": 305594,
-      "name": "Mark",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/15/647915.jpg?s=3b5b104bceb24164aea332c2d2806c73"
-    },
-    {
-      "id": 305593,
-      "name": "Monica",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/7/647916.jpg?s=1af9599fb24d3ddcc1ff40c263d62c59"
-    }
-  ],
-  "characters_updated_at": "2026-11-14T23:21:47.809Z",
-  "synopsis_es": "Wim Strauss es un \"lanzador otorgante\", un mago de apoyo que puede aumentar la fuerza de sus aliados mediante el poder de sus hechizos. Es un talento útil, pero como no se puede usar directamente en la batalla, no recibe ningún respeto por parte de los demás miembros de su grupo. En lo que a ellos respecta, la magia de apoyo es un peso muerto. No pasa mucho tiempo antes de que lo saquen de la oreja, dejando a Wim preguntándose si su carrera como aventurero ha terminado.\n\nPor suerte para Wim, tiene una gran oportunidad: su amiga de la infancia, Heidemarie, puede conseguirle una audición con su grupo de élite de rango A, Nachtlibelle. Los dos saben que su magia es buena para algo más que un simple respaldo, pero ahora tendrá que demostrarlo. ¡Es hora de mostrarle al mundo que los magos de apoyo pueden hacer más que quedarse en la retaguardia!\n\n(Fuente: Seven Seas Entertainment)",
-  "translations_updated_at": "2026-11-15T01:23:54.655Z"
+  "mal_details_updated_at": "2026-11-10T01:35:53.820Z"
 }

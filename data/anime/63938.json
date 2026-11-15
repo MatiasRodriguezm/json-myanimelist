@@ -29,8 +29,8 @@
   "num_episodes": 3,
   "score": null,
   "mean": null,
-  "numListUsers": 1167,
-  "num_list_users": 1167,
+  "numListUsers": 1168,
+  "num_list_users": 1168,
   "genres": [
     {
       "id": 1,
@@ -59,7 +59,7 @@
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-14T23:26:33.870Z",
+  "tmdb_updated_at": "2026-11-15T01:30:24.743Z",
   "simkl_id": 3078868,
   "episodes_data": [
     {
@@ -70,8 +70,7 @@
       "airedDate": "2026-10-02T08:00:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null,
-      "title_es": "Película completa"
+      "description": null
     }
   ],
   "specials_data": [],
@@ -144,40 +143,5 @@
     },
     "num_list_users": 1144
   },
-  "mal_details_updated_at": "2026-11-10T01:36:03.449Z",
-  "characters": [
-    {
-      "id": 283760,
-      "name": "Kurumi Ishikawa",
-      "role": "Main",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/16/628574.jpg?s=ad019e70ddffd06da973a0159e53bce6"
-    },
-    {
-      "id": 282886,
-      "name": "Kanami Ishikawa",
-      "role": "Main",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/4/616137.jpg?s=035c1aa72c1fb662ba2e1577911c4c20"
-    },
-    {
-      "id": 238876,
-      "name": "Hikari Myoudou",
-      "role": "Main",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/10/569425.jpg?s=e4b6c4e1f2f66810ce27fdaa185069ec"
-    },
-    {
-      "id": 238872,
-      "name": "Akina Myoudou",
-      "role": "Main",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/11/581918.jpg?s=8ce9c0e0f13f834b096733433f8b8790"
-    },
-    {
-      "id": 191363,
-      "name": "Masanori Iseki",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/2/572691.jpg?s=d24186711f478d44bd51ca862d7755d5"
-    }
-  ],
-  "characters_updated_at": "2026-11-14T23:21:55.532Z",
-  "synopsis_es": "¡¡Arco final de Cardfight!! Vanguardia: Serie D.",
-  "translations_updated_at": "2026-11-15T01:24:01.751Z"
+  "mal_details_updated_at": "2026-11-10T01:36:03.449Z"
 }

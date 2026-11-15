@@ -29,8 +29,8 @@
   "num_episodes": null,
   "score": null,
   "mean": null,
-  "numListUsers": 6870,
-  "num_list_users": 6870,
+  "numListUsers": 6882,
+  "num_list_users": 6882,
   "genres": [
     {
       "id": 8,
@@ -70,35 +70,34 @@
       "airedDate": "2027-01-01T23:30:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null,
-      "title_es": "Episodio 1"
+      "description": null
     }
   ],
   "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1832/161056.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1832/161056l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1832/161056.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1832/161056l.webp"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1832/161056.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1832/161056l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1832/161056.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1832/161056l.jpg"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1832/161056.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1832/161056l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1832/161056.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1832/161056l.jpg"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1832/161056l.webp",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1832/161056l.webp",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1832/161056l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1832/161056l.webp",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1832/161056l.webp",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1832/161056l.webp",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1832/161056l.webp",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1832/161056l.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1832/161056l.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1832/161056l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1832/161056l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1832/161056l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1832/161056l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1832/161056l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1832/161056l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1832/161056l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1832/161056l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1832/161056l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1832/161056l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1832/161056l.jpg"
     }
   },
   "broadcast": {
@@ -131,112 +130,5 @@
     },
     "num_list_users": 6632
   },
-  "mal_details_updated_at": "2026-11-10T01:33:06.010Z",
-  "characters": [
-    {
-      "id": 279526,
-      "name": "Hyougo Koganei",
-      "role": "Main",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/12/605955.jpg?s=a73096632747dff6fec55894c3799b52"
-    },
-    {
-      "id": 279525,
-      "name": "Souji Okita",
-      "role": "Main",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/2/605954.jpg?s=a3f2973ea48d7eac2fb0739dd85c64d1"
-    },
-    {
-      "id": 279524,
-      "name": "Jinsuke Tachikawa",
-      "role": "Main",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/4/605953.jpg?s=5f991138588dd43860f43b52f3eca97a"
-    },
-    {
-      "id": 301774,
-      "name": "Sanosuke Harada",
-      "role": "Supporting",
-      "imageUrl": null
-    },
-    {
-      "id": 288130,
-      "name": "Toshizou Hijikata",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/7/619372.jpg?s=09a035095c991f77de21a77f87ea1b63"
-    },
-    {
-      "id": 306519,
-      "name": "Kisaburou Kawai",
-      "role": "Supporting",
-      "imageUrl": null
-    },
-    {
-      "id": 288132,
-      "name": "Isami Kondou",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/2/619374.jpg?s=518238c6830d5fd815f3bc431b8ad2ab"
-    },
-    {
-      "id": 293078,
-      "name": "Kurosuke",
-      "role": "Supporting",
-      "imageUrl": null
-    },
-    {
-      "id": 306521,
-      "name": "Kyuusai Momoyama",
-      "role": "Supporting",
-      "imageUrl": null
-    },
-    {
-      "id": 301471,
-      "name": "Shinpachi Nagakura",
-      "role": "Supporting",
-      "imageUrl": null
-    },
-    {
-      "id": 306518,
-      "name": "Nishiki Niimi",
-      "role": "Supporting",
-      "imageUrl": null
-    },
-    {
-      "id": 302958,
-      "name": "Hajime Saitou",
-      "role": "Supporting",
-      "imageUrl": null
-    },
-    {
-      "id": 302957,
-      "name": "Kamo Serizawa",
-      "role": "Supporting",
-      "imageUrl": null
-    },
-    {
-      "id": 301470,
-      "name": "Heisuke Toudou",
-      "role": "Supporting",
-      "imageUrl": null
-    },
-    {
-      "id": 304427,
-      "name": "Shinbee Umeda",
-      "role": "Supporting",
-      "imageUrl": null
-    },
-    {
-      "id": 302242,
-      "name": "Keisuke Yamanami",
-      "role": "Supporting",
-      "imageUrl": null
-    },
-    {
-      "id": 306520,
-      "name": "Toshimaro Yoshida",
-      "role": "Supporting",
-      "imageUrl": null
-    }
-  ],
-  "characters_updated_at": "2026-11-14T23:20:55.950Z",
-  "synopsis_es": "Ambientada en junio de 1863, la historia sigue a un hombre sin memoria que es llevado a la sede de Mibu Roushigumi en Kioto. Acogido por el vicecomandante Souji Okita, recibe el nombre de Jinsuke Tachikawa y comienza su vida como miembro del grupo. A medida que Mibu Roushigumi, más tarde conocido como Shinsengumi, gana prominencia en medio de la agitación del final del período Edo, Jinsuke y sus camaradas se ven arrastrados por la agitación de la época. Cuando Jinsuke finalmente recupera todos sus recuerdos, el mundo que lo rodea cambia para siempre.\n\n(Fuente: Noticias MAL)",
-  "translations_updated_at": "2026-11-15T01:22:37.093Z"
+  "mal_details_updated_at": "2026-11-10T01:33:06.010Z"
 }

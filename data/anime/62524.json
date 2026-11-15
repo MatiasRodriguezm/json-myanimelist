@@ -29,8 +29,8 @@
   "num_episodes": 12,
   "score": 6.61,
   "mean": 6.61,
-  "numListUsers": 19989,
-  "num_list_users": 19989,
+  "numListUsers": 19997,
+  "num_list_users": 19997,
   "genres": [
     {
       "id": 2,
@@ -66,8 +66,7 @@
       "airedDate": "2026-10-03T23:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20775189e2fa56a523_w.webp",
       "imageUrl": "https://simkl.in/episodes/20/20775189e2fa56a523_w.webp",
-      "description": null,
-      "title_es": "Estoy buscando a mi papá"
+      "description": null
     },
     {
       "episode": 2,
@@ -77,8 +76,7 @@
       "airedDate": "2026-10-10T23:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20821901341fccccf7_w.webp",
       "imageUrl": "https://simkl.in/episodes/20/20821901341fccccf7_w.webp",
-      "description": null,
-      "title_es": "Estoy buscando a mis amigos"
+      "description": null
     },
     {
       "episode": 3,
@@ -88,8 +86,7 @@
       "airedDate": "2026-10-17T23:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20865877217a36a169_w.webp",
       "imageUrl": "https://simkl.in/episodes/20/20865877217a36a169_w.webp",
-      "description": null,
-      "title_es": "Estoy buscando una tienda de fotografía"
+      "description": null
     },
     {
       "episode": 4,
@@ -99,8 +96,7 @@
       "airedDate": "2026-10-24T23:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20910435c59c0f80a1_w.webp",
       "imageUrl": "https://simkl.in/episodes/20/20910435c59c0f80a1_w.webp",
-      "description": null,
-      "title_es": "Estoy buscando un hospital"
+      "description": null
     },
     {
       "episode": 5,
@@ -110,8 +106,7 @@
       "airedDate": "2026-10-31T23:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20956845e1cf38b6c8_w.webp",
       "imageUrl": "https://simkl.in/episodes/20/20956845e1cf38b6c8_w.webp",
-      "description": null,
-      "title_es": "Busco mecánico"
+      "description": null
     },
     {
       "episode": 6,
@@ -121,8 +116,7 @@
       "airedDate": "2026-11-14T23:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/21/210471936ce8e23a93_w.webp",
       "imageUrl": "https://simkl.in/episodes/21/210471936ce8e23a93_w.webp",
-      "description": null,
-      "title_es": "Episodio 6"
+      "description": null
     },
     {
       "episode": 7,
@@ -132,8 +126,7 @@
       "airedDate": "2026-11-21T23:30:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null,
-      "title_es": "Episodio 7"
+      "description": null
     },
     {
       "episode": 8,
@@ -143,8 +136,7 @@
       "airedDate": "2026-11-28T23:30:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null,
-      "title_es": "Episodio 8"
+      "description": null
     }
   ],
   "specials_data": [],
@@ -227,76 +219,5 @@
     },
     "num_list_users": 19640
   },
-  "mal_details_updated_at": "2026-11-10T01:33:08.258Z",
-  "characters": [
-    {
-      "id": 214172,
-      "name": "Aki",
-      "role": "Main",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/9/626069.jpg?s=951b2873e0d96091f09ebbeccf3345d3"
-    },
-    {
-      "id": 214174,
-      "name": "Haru",
-      "role": "Main",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/9/626068.jpg?s=d7d2eccdc014f471bc26f59f53523d11"
-    },
-    {
-      "id": 214173,
-      "name": "Natsuki",
-      "role": "Main",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/2/626063.jpg?s=1a9d85deea5d3101c36f37b0ae4d4e0a"
-    },
-    {
-      "id": 214175,
-      "name": "Sakura",
-      "role": "Main",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/11/626065.jpg?s=7cb472b5e6e5f820771a7f524f3b1106"
-    },
-    {
-      "id": 214176,
-      "name": "Yuu",
-      "role": "Main",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/12/626064.jpg?s=ab2e454f7c95038133026c085e728100"
-    },
-    {
-      "id": 304245,
-      "name": "Aki's Father",
-      "role": "Supporting",
-      "imageUrl": null
-    },
-    {
-      "id": 304246,
-      "name": "Mikazuki",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/13/645916.jpg?s=a1d8a04dca5e61ca31e86a0f11bdd717"
-    },
-    {
-      "id": 305373,
-      "name": "Narrator",
-      "role": "Supporting",
-      "imageUrl": null
-    },
-    {
-      "id": 304249,
-      "name": "Saigo",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/10/645919.jpg?s=1f08c1505a94a5681690bac6d18697bb"
-    },
-    {
-      "id": 304248,
-      "name": "Takamo",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/10/645918.jpg?s=e7fc6319273915b4a0343d5d7d2e3166"
-    },
-    {
-      "id": 304247,
-      "name": "Touka",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/14/645917.jpg?s=e9f95fc1ba1d6464aa19aa0610de7ce3"
-    }
-  ],
-  "characters_updated_at": "2026-11-14T23:20:57.916Z",
-  "synopsis_es": "Ambientado en un mundo donde el 90% de la humanidad se contrajo y murió a causa de una enfermedad virulenta y mortal, solo para resurgir como zombis atacantes, han pasado trece años desde el \"Día Rojo\" del colapso social. Los humanos supervivientes ahora viven lejos de las grandes ciudades, con la esperanza de recuperarlas algún día. Una generación completamente nueva, que desconoce el mundo anterior al Día Rojo, está cobrando importancia.\n\nLa historia comienza cuando Aki, que no tiene recuerdos del mundo antes de su caída, escapa de su aldea con sus amigos cercanos Haru y Natsuki para buscar a su padre desaparecido. Mientras se aventuran en el mundo exterior, ¡se encuentran rodeados de zombis por todos lados! En el camino, rescatan a Yuu y Sakura y se refugian en una tienda de mejoras para el hogar. ¡¡Se reagrupan y ahora comienza el contraataque—!!\n\n(Fuente: Kadokawa, editado)",
-  "translations_updated_at": "2026-11-15T01:22:40.286Z"
+  "mal_details_updated_at": "2026-11-10T01:33:08.258Z"
 }

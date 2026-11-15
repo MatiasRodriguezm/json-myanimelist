@@ -32,8 +32,8 @@
   "num_episodes": null,
   "score": null,
   "mean": null,
-  "numListUsers": 98693,
-  "num_list_users": 98693,
+  "numListUsers": 98720,
+  "num_list_users": 98720,
   "genres": [
     {
       "id": 1,
@@ -70,11 +70,15 @@
       "name": "SILVER LINK."
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1801/151244l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1626/156999l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1582/159858l.jpg"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-14T23:27:17.494Z",
+  "tmdb_updated_at": "2026-11-15T01:31:03.273Z",
   "simkl_id": 2263620,
   "episodes_data": [
     {
@@ -85,8 +89,7 @@
       "airedDate": "2027-01-01T00:00:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null,
-      "title_es": "Episodio 1"
+      "description": null
     }
   ],
   "specials_data": [],
@@ -104,25 +107,25 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1582/159858l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1582/159858l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1582/159858l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1582/159858l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1582/159858l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1582/159858l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1582/159858l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1582/159858l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1582/159858l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1582/159858l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1801/151244l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1801/151244l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1801/151244l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1801/151244l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1801/151244l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1801/151244l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1801/151244l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1801/151244l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1801/151244l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1801/151244l.jpg"
     }
   },
   "broadcast": null,
   "rank": null,
-  "popularity": 2502,
-  "num_scoring_users": 157,
+  "popularity": 2498,
+  "num_scoring_users": 162,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2023-09-24T08:37:06+00:00",
+  "updated_at": "2026-09-04T03:06:26+00:00",
   "source": "light_novel",
   "rating": "pg_13",
   "background": null,
@@ -144,54 +147,13 @@
   "recommendations": [],
   "statistics": {
     "status": {
-      "watching": "518",
-      "completed": "3",
-      "on_hold": "182",
+      "watching": "542",
+      "completed": "1",
+      "on_hold": "189",
       "dropped": "49",
-      "plan_to_watch": "97500"
+      "plan_to_watch": "97939"
     },
-    "num_list_users": 98252
+    "num_list_users": 98720
   },
-  "mal_details_updated_at": "2026-11-10T01:31:01.489Z",
-  "characters": [
-    {
-      "id": 192920,
-      "name": "Maha",
-      "role": "Main",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/6/458474.jpg?s=b9becae9f74c9f9888a47454abe186bf"
-    },
-    {
-      "id": 192919,
-      "name": "Tarte",
-      "role": "Main",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/6/458475.jpg?s=3c845841692ccd72e5bf41bc98ef433b"
-    },
-    {
-      "id": 192917,
-      "name": "Lugh Tuatha Dé",
-      "role": "Main",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/15/458533.jpg?s=e017750f877e1dd53b86be0880a1b553"
-    },
-    {
-      "id": 192918,
-      "name": "Dia Viekone",
-      "role": "Main",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/12/441782.jpg?s=7bc19fa584caef749449960f0cf34a3f"
-    },
-    {
-      "id": 202038,
-      "name": "Naoise Gephis",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/8/644906.jpg?s=fc9d1d39dc1ea2feea2243a7ee46e35c"
-    },
-    {
-      "id": 202039,
-      "name": "Epona Rhiannon",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/13/460740.jpg?s=dcfd510ef7b3d345ca9aba31de3128c0"
-    }
-  ],
-  "characters_updated_at": "2026-11-14T23:19:48.337Z",
-  "synopsis_es": "Segunda temporada de Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru",
-  "translations_updated_at": "2026-11-15T01:21:00.417Z"
+  "mal_details_updated_at": "2026-11-15T01:31:02.925Z"
 }

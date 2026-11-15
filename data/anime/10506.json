@@ -43,11 +43,13 @@
       "name": "Kachidoki Studio"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/2/28900l.jpg"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-14T23:26:33.047Z",
+  "tmdb_updated_at": "2026-11-15T01:30:24.145Z",
   "simkl_id": 37878,
   "episodes_data": [
     {
@@ -58,8 +60,7 @@
       "airedDate": "2011-03-25T00:00:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null,
-      "title_es": "Episodio 1"
+      "description": null
     }
   ],
   "specials_data": [],
@@ -97,12 +98,12 @@
     "timezone": "Asia/Tokyo",
     "string": "other"
   },
-  "rank": 20785,
-  "popularity": 13537,
+  "rank": 20795,
+  "popularity": 13544,
   "num_scoring_users": 88,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2011-03-30T12:06:38+00:00",
+  "updated_at": "2022-02-25T01:01:21+00:00",
   "source": "original",
   "rating": null,
   "background": null,
@@ -111,15 +112,13 @@
   "recommendations": [],
   "statistics": {
     "status": {
-      "watching": "767",
+      "watching": "768",
       "completed": 0,
       "on_hold": "52",
       "dropped": "434",
       "plan_to_watch": "441"
     },
-    "num_list_users": 1694
+    "num_list_users": 1695
   },
-  "mal_details_updated_at": "2026-11-10T01:26:54.727Z",
-  "synopsis_es": "La historia se centra en un gato que responde a los deseos de las personas y les brinda felicidad. (\"Tane\" y \"neko\" son las palabras japonesas para \"semilla\" y \"gato\", respectivamente).\n\n(Fuente: ANN)",
-  "translations_updated_at": "2026-11-15T01:12:27.999Z"
+  "mal_details_updated_at": "2026-11-15T01:30:23.785Z"
 }

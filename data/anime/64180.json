@@ -29,10 +29,10 @@
   },
   "episodes": null,
   "num_episodes": null,
-  "score": 6.59,
-  "mean": 6.59,
-  "numListUsers": 6625,
-  "num_list_users": 6625,
+  "score": 6.6,
+  "mean": 6.6,
+  "numListUsers": 6630,
+  "num_list_users": 6630,
   "genres": [
     {
       "id": 10,
@@ -57,7 +57,7 @@
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-14T23:26:14.835Z",
+  "tmdb_updated_at": "2026-11-15T01:30:08.950Z",
   "simkl_id": 3269450,
   "episodes_data": [
     {
@@ -68,8 +68,7 @@
       "airedDate": "2026-10-02T00:00:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null,
-      "title_es": "Episodio 1"
+      "description": null
     },
     {
       "episode": 2,
@@ -79,8 +78,7 @@
       "airedDate": "2026-10-09T00:00:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null,
-      "title_es": "Episodio 2"
+      "description": null
     },
     {
       "episode": 3,
@@ -90,8 +88,7 @@
       "airedDate": "2026-10-16T00:00:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null,
-      "title_es": "Episodio 3"
+      "description": null
     },
     {
       "episode": 4,
@@ -101,8 +98,7 @@
       "airedDate": "2026-10-23T00:00:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null,
-      "title_es": "Episodio 4"
+      "description": null
     },
     {
       "episode": 5,
@@ -112,8 +108,7 @@
       "airedDate": "2026-10-30T00:00:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null,
-      "title_es": "Episodio 5"
+      "description": null
     },
     {
       "episode": 6,
@@ -123,8 +118,7 @@
       "airedDate": "2026-11-06T00:00:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null,
-      "title_es": "Episodio 6"
+      "description": null
     },
     {
       "episode": 7,
@@ -134,8 +128,7 @@
       "airedDate": "2026-11-13T00:00:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null,
-      "title_es": "Episodio 7"
+      "description": null
     },
     {
       "episode": 8,
@@ -145,8 +138,7 @@
       "airedDate": "2026-11-20T00:00:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null,
-      "title_es": "Episodio 8"
+      "description": null
     },
     {
       "episode": 9,
@@ -156,8 +148,7 @@
       "airedDate": "2026-11-27T00:00:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null,
-      "title_es": "Episodio 9"
+      "description": null
     },
     {
       "episode": 10,
@@ -167,8 +158,7 @@
       "airedDate": "2026-12-04T00:00:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null,
-      "title_es": "Episodio 10"
+      "description": null
     },
     {
       "episode": 11,
@@ -178,8 +168,7 @@
       "airedDate": "2026-12-11T00:00:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null,
-      "title_es": "Episodio 11"
+      "description": null
     },
     {
       "episode": 12,
@@ -189,8 +178,7 @@
       "airedDate": "2026-12-18T00:00:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null,
-      "title_es": "Episodio 12"
+      "description": null
     }
   ],
   "specials_data": [],
@@ -263,64 +251,5 @@
     },
     "num_list_users": 6531
   },
-  "mal_details_updated_at": "2026-11-10T01:36:07.998Z",
-  "characters": [
-    {
-      "id": 257648,
-      "name": "Sven Geed Crone",
-      "role": "Main",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/12/595491.jpg?s=717e209278287f1473f4dad3f18660be"
-    },
-    {
-      "id": 257647,
-      "name": "Lua Restoatt",
-      "role": "Main",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/5/595482.jpg?s=891d901d2b46a97cc081a22a7751a00d"
-    },
-    {
-      "id": 257650,
-      "name": "Garrett Vance",
-      "role": "Main",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/16/595486.jpg?s=d36f435af47b758691d93746b2f2c028"
-    },
-    {
-      "id": 273545,
-      "name": "Thallid Geed Crone",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/6/596267.jpg?s=ca8348d2ac13f6b129f89766af10ea4b"
-    },
-    {
-      "id": 273547,
-      "name": "Louis Liston",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/13/596269.jpg?s=9a22339bbd7ac5296a82efffff1850c5"
-    },
-    {
-      "id": 305256,
-      "name": "Nerune Sandra",
-      "role": "Supporting",
-      "imageUrl": null
-    },
-    {
-      "id": 273546,
-      "name": "Diana Peridot",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/10/596268.jpg?s=b72882c96a6a9d969ba0b7be28e875e9"
-    },
-    {
-      "id": 257651,
-      "name": "Shiji Rubin",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/5/595487.jpg?s=34932a608eadff67eded89de87d51c44"
-    },
-    {
-      "id": 257649,
-      "name": "Arianne Trebias",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/10/595485.jpg?s=9761f323285a99dd9fc17260a6d7321e"
-    }
-  ],
-  "characters_updated_at": "2026-11-14T23:21:59.172Z",
-  "synopsis_es": "Segunda temporada de Kizu darake Seijo yori Houfuku wo Komete.",
-  "translations_updated_at": "2026-11-15T01:24:07.589Z"
+  "mal_details_updated_at": "2026-11-10T01:36:07.998Z"
 }

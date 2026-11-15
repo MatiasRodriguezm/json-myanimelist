@@ -26,8 +26,8 @@
   "num_episodes": null,
   "score": null,
   "mean": null,
-  "numListUsers": 80061,
-  "num_list_users": 80061,
+  "numListUsers": 80074,
+  "num_list_users": 80074,
   "genres": [
     {
       "id": 1,
@@ -47,7 +47,7 @@
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-14T23:27:56.657Z",
+  "tmdb_updated_at": "2026-11-15T01:31:31.739Z",
   "simkl_id": 2971664,
   "episodes_data": [],
   "specials_data": [],
@@ -113,34 +113,5 @@
     },
     "num_list_users": 79775
   },
-  "mal_details_updated_at": "2026-11-10T01:34:31.708Z",
-  "characters": [
-    {
-      "id": 207298,
-      "name": "Rudo",
-      "role": "Main",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/2/486858.jpg?s=31292367d29521e12625c07c4ca62c08"
-    },
-    {
-      "id": 206436,
-      "name": "Enjin",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/14/486859.jpg?s=3499143c7797b54d22656f6a6e71f669"
-    },
-    {
-      "id": 209419,
-      "name": "Zanka Nijiku",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/5/616658.jpg?s=5b25eb53a887c68dc23d04bff280d6cf"
-    },
-    {
-      "id": 209423,
-      "name": "Riyou Reaper",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/5/610748.jpg?s=d125e9a253a93455fabef6132efd9506"
-    }
-  ],
-  "characters_updated_at": "2026-11-14T23:21:23.534Z",
-  "synopsis_es": "Segunda temporada de Gachiakuta.",
-  "translations_updated_at": "2026-11-15T01:23:13.510Z"
+  "mal_details_updated_at": "2026-11-10T01:34:31.708Z"
 }

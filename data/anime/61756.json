@@ -29,8 +29,8 @@
   "num_episodes": null,
   "score": null,
   "mean": null,
-  "numListUsers": 5167,
-  "num_list_users": 5167,
+  "numListUsers": 5168,
+  "num_list_users": 5168,
   "genres": [
     {
       "id": 1,
@@ -63,7 +63,7 @@
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": "327596",
-  "tmdb_updated_at": "2026-11-14T23:27:36.129Z",
+  "tmdb_updated_at": "2026-11-15T01:31:16.354Z",
   "simkl_id": 2797648,
   "episodes_data": [
     {
@@ -74,8 +74,7 @@
       "airedDate": "2027-01-07T21:25:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null,
-      "title_es": "Episodio 1"
+      "description": null
     }
   ],
   "specials_data": [],
@@ -135,58 +134,5 @@
     },
     "num_list_users": 5025
   },
-  "mal_details_updated_at": "2026-11-10T01:32:52.543Z",
-  "characters": [
-    {
-      "id": 172085,
-      "name": "Estelle",
-      "role": "Main",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/7/636783.jpg?s=2488253abe022e2c07db7b249fecceca"
-    },
-    {
-      "id": 172113,
-      "name": "Norl Fanya",
-      "role": "Main",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/9/636782.jpg?s=368049b5ad471ce1e816933e366b5685"
-    },
-    {
-      "id": 298890,
-      "name": "Heihachi Ookura",
-      "role": "Main",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/15/636784.jpg?s=2515f3abf99ae1e2894b092934ee69c1"
-    },
-    {
-      "id": 299501,
-      "name": "Shisuha Albi",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/12/637835.jpg?s=4b352032a43b7a76fec5747d8d70dca0"
-    },
-    {
-      "id": 306822,
-      "name": "Miguru",
-      "role": "Supporting",
-      "imageUrl": null
-    },
-    {
-      "id": 298891,
-      "name": "Mofutt",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/16/636785.jpg?s=30f9a652a737bf65365617fc4c3759f9"
-    },
-    {
-      "id": 306823,
-      "name": "Renon",
-      "role": "Supporting",
-      "imageUrl": null
-    },
-    {
-      "id": 299502,
-      "name": "Luna Varad",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/15/637836.jpg?s=f5fb26c8d062d8d132c85caf87cc9e69"
-    }
-  ],
-  "characters_updated_at": "2026-11-14T23:20:43.565Z",
-  "synopsis_es": "Norl es una chica vanguardista con una vanguardia que está muy por encima del resto. Heihachi es simplemente el adicto promedio a los juegos móviles con un agujero del tamaño de una ballena en su billetera. Pero un día, saca un objeto que lo lleva a otro mundo, haciendo girar su vida con un giro de la gacha.\n\nAtacado por monstruos y sin opciones, Heihachi hace lo que mejor sabe: ¡tirar gacha! Para su sorpresa, ve cómo su unidad se materializa ante sus ojos. Heihachi está acostumbrado a ver chicas lindas aparecer en su teléfono, ¡pero nunca ha visto una salir de su teléfono!\n\n(Fuente: Libros Kaiten)",
-  "translations_updated_at": "2026-11-15T01:22:19.903Z"
+  "mal_details_updated_at": "2026-11-10T01:32:52.543Z"
 }

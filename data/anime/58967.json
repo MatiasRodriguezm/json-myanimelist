@@ -52,11 +52,15 @@
       "name": "Production I.G"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1767/148248l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1633/159618l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1970/159635l.jpg"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-14T23:28:01.868Z",
+  "tmdb_updated_at": "2026-11-15T01:31:35.760Z",
   "simkl_id": 1973554,
   "episodes_data": [
     {
@@ -67,8 +71,7 @@
       "airedDate": "2024-02-16T00:00:00+09:00",
       "thumbnail": "https://simkl.in/episodes/17/17541637ba5b727463_w.webp",
       "imageUrl": "https://simkl.in/episodes/17/17541637ba5b727463_w.webp",
-      "description": null,
-      "title_es": "La batalla del contenedor de basura"
+      "description": null
     },
     {
       "episode": 2,
@@ -78,8 +81,7 @@
       "airedDate": null,
       "thumbnail": null,
       "imageUrl": null,
-      "description": null,
-      "title_es": "Película 2"
+      "description": null
     }
   ],
   "specials_data": [
@@ -91,43 +93,42 @@
       "airedDate": "2024-02-17T00:00:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null,
-      "title_es": "Episodio T1"
+      "description": null
     }
   ],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1970/159635.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1970/159635l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1970/159635.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1970/159635l.webp"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1970/159635.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1970/159635l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1970/159635.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1970/159635l.jpg"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1970/159635.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1970/159635l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1970/159635.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1970/159635l.jpg"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1970/159635l.webp",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1970/159635l.webp",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1970/159635l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1970/159635l.webp",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1970/159635l.webp",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1970/159635l.webp",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1970/159635l.webp",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1970/159635l.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1970/159635l.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1970/159635l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1767/148248l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1767/148248l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1767/148248l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1767/148248l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1767/148248l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1767/148248l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1767/148248l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1767/148248l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1767/148248l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1767/148248l.jpg"
     }
   },
   "broadcast": null,
   "rank": null,
-  "popularity": 3421,
+  "popularity": 3420,
   "num_scoring_users": 1,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2024-05-31T07:10:08+00:00",
+  "updated_at": "2026-08-19T23:57:59+00:00",
   "source": "manga",
   "rating": "pg_13",
   "background": null,
@@ -149,15 +150,13 @@
   "recommendations": [],
   "statistics": {
     "status": {
-      "watching": "1",
-      "completed": "1",
+      "watching": "2",
+      "completed": 0,
       "on_hold": "2",
       "dropped": 0,
-      "plan_to_watch": "57833"
+      "plan_to_watch": "57957"
     },
-    "num_list_users": 57837
+    "num_list_users": 57961
   },
-  "mal_details_updated_at": "2026-11-10T01:31:14.508Z",
-  "synopsis_es": "¡¡El segundo Haikyuu!! Película final.",
-  "translations_updated_at": "2026-11-15T01:21:20.389Z"
+  "mal_details_updated_at": "2026-11-15T01:31:35.168Z"
 }

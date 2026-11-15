@@ -31,8 +31,8 @@
   "num_episodes": 12,
   "score": null,
   "mean": null,
-  "numListUsers": 19680,
-  "num_list_users": 19680,
+  "numListUsers": 19690,
+  "num_list_users": 19690,
   "genres": [
     {
       "id": 10,
@@ -57,7 +57,7 @@
   "backdrop_url": null,
   "logo_url": "https://image.tmdb.org/t/p/w500/9kSIn4sc5iANLcdgXM5aLHDVu85.png",
   "tmdb_id": "313215",
-  "tmdb_updated_at": "2026-11-14T23:27:23.473Z",
+  "tmdb_updated_at": "2026-11-15T01:31:07.523Z",
   "simkl_id": 3012818,
   "episodes_data": [
     {
@@ -68,8 +68,7 @@
       "airedDate": "2027-01-04T23:00:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null,
-      "title_es": "Episodio 1"
+      "description": null
     }
   ],
   "specials_data": [],
@@ -142,46 +141,5 @@
     },
     "num_list_users": 19399
   },
-  "mal_details_updated_at": "2026-11-10T01:35:40.844Z",
-  "characters": [
-    {
-      "id": 154513,
-      "name": "Alice Asmodeus",
-      "role": "Main",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/6/557613.jpg?s=0dbaf666084c6bae716323bf2fa83bdb"
-    },
-    {
-      "id": 154512,
-      "name": "Iruma Suzuki",
-      "role": "Main",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/8/393167.jpg?s=afedbf189ae3bb1c82044db37c29d11f"
-    },
-    {
-      "id": 154516,
-      "name": "Clara Valac",
-      "role": "Main",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/8/393031.jpg?s=920b80d3d7b507e8e17e45ee687642f3"
-    },
-    {
-      "id": 154518,
-      "name": "Amelie Azazel",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/10/390546.jpg?s=9a8961a36e838a014fc431d3f8f0c4be"
-    },
-    {
-      "id": 154515,
-      "name": "Kalego Naberius",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/2/629502.jpg?s=9fa5dccc25d2d1c6c7903c231b43e874"
-    },
-    {
-      "id": 176027,
-      "name": "Opera",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/6/634333.jpg?s=8f074f38b6884cf55d4d901f16197607"
-    }
-  ],
-  "characters_updated_at": "2026-11-14T23:21:36.700Z",
-  "synopsis_es": "En este nuevo spin-off de la exitosa serie, Iruma es un joven muy pobre pero siempre alegre que crece en un despiadado barrio pobre de la ciudad. Un día, Iruma le da a un anciano herido su última barra de pan y cuida al extraño hasta que recupera la salud, ¡sólo para descubrir que el caballero mayor no es otro que Don Sullivan, jefe de la mafia Babyl! Poco después, Don Sullivan regresa, se lleva a Iruma y le ruega que se convierta en su nieto. Y así, Iruma comienza su nueva vida como el siguiente en la fila para liderar una gigantesca pandilla de, nos atrevemos a decir, ¡mafiosos demoníacos!\n\n(Fuente: Kodansha EE.UU.)",
-  "translations_updated_at": "2026-11-15T01:23:36.330Z"
+  "mal_details_updated_at": "2026-11-10T01:35:40.844Z"
 }

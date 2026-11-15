@@ -31,8 +31,8 @@
   "num_episodes": null,
   "score": null,
   "mean": null,
-  "numListUsers": 89100,
-  "num_list_users": 89100,
+  "numListUsers": 89112,
+  "num_list_users": 89112,
   "genres": [
     {
       "id": 1,
@@ -84,8 +84,7 @@
       "airedDate": "2027-01-10T00:00:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null,
-      "title_es": "Episodio 1"
+      "description": null
     }
   ],
   "specials_data": [],
@@ -158,58 +157,5 @@
     },
     "num_list_users": 88169
   },
-  "mal_details_updated_at": "2026-11-10T01:31:13.750Z",
-  "characters": [
-    {
-      "id": 182832,
-      "name": "Finn Ames",
-      "role": "Main",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/16/506223.jpg?s=82a703533e248b792d15a474bf959db9"
-    },
-    {
-      "id": 182834,
-      "name": "Dot Barrett",
-      "role": "Main",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/15/506221.jpg?s=87aec5d54eb2b895a73a6a1a70ed4532"
-    },
-    {
-      "id": 178609,
-      "name": "Mash Burnedead",
-      "role": "Main",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/12/410288.jpg?s=85d8538606c839c32613b5e7a173791e"
-    },
-    {
-      "id": 182831,
-      "name": "Lance Crown",
-      "role": "Main",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/10/506220.jpg?s=7343ccdfe14dbff40731524d1e46fba6"
-    },
-    {
-      "id": 182830,
-      "name": "Lemon Irvine",
-      "role": "Main",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/4/506222.jpg?s=81161963c5d561330bf8b2175ce27d09"
-    },
-    {
-      "id": 213958,
-      "name": "Domina Blowlive",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/6/624467.jpg?s=ec82199004dda4b8dd1112842ee0c0e1"
-    },
-    {
-      "id": 222125,
-      "name": "Narrator",
-      "role": "Supporting",
-      "imageUrl": null
-    },
-    {
-      "id": 213960,
-      "name": "Lévis Rosequartz",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/3/481049.jpg?s=7b92a43f48814ae1cae4f204e4e13498"
-    }
-  ],
-  "characters_updated_at": "2026-11-14T23:20:00.422Z",
-  "synopsis_es": "Tercera temporada de Mashle.",
-  "translations_updated_at": "2026-11-15T01:21:19.565Z"
+  "mal_details_updated_at": "2026-11-10T01:31:13.750Z"
 }

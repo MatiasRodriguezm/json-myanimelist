@@ -31,8 +31,8 @@
   "num_episodes": 1,
   "score": null,
   "mean": null,
-  "numListUsers": 13049,
-  "num_list_users": 13049,
+  "numListUsers": 13051,
+  "num_list_users": 13051,
   "genres": [
     {
       "id": 8,
@@ -61,7 +61,7 @@
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-14T23:27:26.084Z",
+  "tmdb_updated_at": "2026-11-15T01:31:09.310Z",
   "simkl_id": 2996988,
   "episodes_data": [
     {
@@ -72,8 +72,7 @@
       "airedDate": "2027-02-19T00:00:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null,
-      "title_es": "Película completa"
+      "description": null
     }
   ],
   "specials_data": [],
@@ -139,52 +138,5 @@
     },
     "num_list_users": 12975
   },
-  "mal_details_updated_at": "2026-11-10T01:34:40.857Z",
-  "characters": [
-    {
-      "id": 210882,
-      "name": "Tsukasa Akeuraji",
-      "role": "Main",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/8/517162.jpg?s=47dfe271283d84f167ca1a06c4fc1358"
-    },
-    {
-      "id": 187723,
-      "name": "Inori Yuitsuka",
-      "role": "Main",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/7/579734.jpg?s=dfa422860c5ef8de5125ef23c450a518"
-    },
-    {
-      "id": 290357,
-      "name": "Miku Ahiru",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/14/628249.jpg?s=69b9829090674439fca442a0d44f43f7"
-    },
-    {
-      "id": 232596,
-      "name": "Hikaru Kamisaki",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/14/579733.jpg?s=1c4114cac5c5a7ad350379137e66ac84"
-    },
-    {
-      "id": 290358,
-      "name": "Kouhei Kamogawa",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/4/628247.jpg?s=6fd908cbf36da5a1a84e9a8b137a04ed"
-    },
-    {
-      "id": 290359,
-      "name": "Juna Shiratori",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/12/628242.jpg?s=a7268f5320a02abefd505a2eff5a2a49"
-    },
-    {
-      "id": 232615,
-      "name": "Jun Yodaka",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/7/572161.jpg?s=7bc7cb320722b4970dd6d263b392c2a9"
-    }
-  ],
-  "characters_updated_at": "2026-11-14T23:21:31.409Z",
-  "synopsis_es": "Secuela de Medallista 2da temporada.",
-  "translations_updated_at": "2026-11-15T01:23:24.297Z"
+  "mal_details_updated_at": "2026-11-10T01:34:40.857Z"
 }
