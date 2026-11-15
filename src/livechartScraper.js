@@ -210,20 +210,16 @@ export async function fetchHiatusAnime(malMap = {}) {
       const episode = epMatch ? parseInt(epMatch[1], 10) : 1;
 
       const img = card.find("img");
-      const posterUrl = img.attr("src") || "";
+      const posterUrl = (img.attr("src") || "").trim();
 
       hiatusList.push({
         liveChartId,
-        live_chart_id: liveChartId,
         malId: malId || null,
-        mal_id: malId || null,
         title,
         episode,
         note: noteText,
         posterUrl,
-        poster_url: posterUrl,
         isHiatus: true,
-        is_hiatus: true,
       });
 
       if (malId) {
@@ -336,9 +332,22 @@ export async function syncLiveChart(daysBack = 14) {
           const rawTs =
             block.attr("data-schedule-anime-release-date-value") ||
             block.find("time[data-timestamp]").attr("data-timestamp") ||
+            block.find("[data-timestamp]").attr("data-timestamp") ||
             block.parents("[data-timestamp]").attr("data-timestamp");
-          let timestampMs = rawTs ? Number(rawTs) : dayDate.getTime();
-          if (timestampMs < 10000000000) timestampMs *= 1000;
+
+          let timestampMs = null;
+          let hasExactTime = false;
+          if (rawTs) {
+            const parsed = Number(rawTs);
+            if (!isNaN(parsed) && parsed > 0) {
+              timestampMs = parsed < 10000000000 ? parsed * 1000 : parsed;
+              hasExactTime = true;
+            }
+          }
+          if (timestampMs == null) {
+            timestampMs = dayDate.getTime();
+            hasExactTime = false;
+          }
 
           const ranges =
             block.find("[data-viewing-progression-episode-ranges-value]").attr("data-viewing-progression-episode-ranges-value") ||
@@ -358,20 +367,19 @@ export async function syncLiveChart(daysBack = 14) {
           const srcset = img.attr("srcset") || "";
           const src = img.attr("src") || "";
           const largeMatch = srcset.match(LARGE_IMG_REGEX);
-          const posterUrl = largeMatch ? largeMatch[1] : src || "";
+          let posterUrl = largeMatch ? largeMatch[1] : src || "";
+          if (posterUrl) posterUrl = posterUrl.trim();
 
           for (const ep of parsedEpisodes) {
             items.push({
               liveChartId,
-              live_chart_id: liveChartId,
               malId: malMap[liveChartId] || null,
-              mal_id: malMap[liveChartId] || null,
               title,
               episode: ep,
               timestampMs,
-              timestamp_ms: timestampMs,
+              hasExactTime,
+              timezone: "Asia/Tokyo",
               posterUrl,
-              poster_url: posterUrl,
             });
           }
         });
@@ -419,6 +427,31 @@ export async function syncLiveChart(daysBack = 14) {
     }
   }
 
+  // 4.5. Enriquecer miniaturas con MyAnimeList / TMDb si ya existen en caché
+  for (const dayItems of Object.values(mergedDays)) {
+    for (const item of dayItems) {
+      if (item.malId) {
+        try {
+          const details = await Storage.loadAnimeDetails(item.malId);
+          if (details) {
+            const malPoster =
+              details.images?.jpg?.largeImageUrl ||
+              details.images?.jpg?.large_image_url ||
+              details.images?.jpg?.imageUrl ||
+              details.images?.jpg?.image_url ||
+              details.main_picture?.large ||
+              details.main_picture?.medium;
+            if (malPoster) {
+              item.posterUrl = malPoster;
+            }
+          }
+        } catch {
+          // Mantener posterUrl de LiveChart si ocurre cualquier detalle
+        }
+      }
+    }
+  }
+
   // 5. Podar días anteriores a daysBack (ej: mantener los últimos 21 días como máximo)
   const cutoffDate = new Date(now.getTime() - 21 * 24 * 60 * 60 * 1000)
     .toISOString()
@@ -435,9 +468,29 @@ export async function syncLiveChart(daysBack = 14) {
 
   // 5.5 Obtener animes actualmente en Hiatus (pausa)
   const hiatusList = await fetchHiatusAnime(malMap);
+  for (const h of hiatusList) {
+    if (h.malId) {
+      try {
+        const details = await Storage.loadAnimeDetails(h.malId);
+        if (details) {
+          const malPoster =
+            details.images?.jpg?.largeImageUrl ||
+            details.images?.jpg?.large_image_url ||
+            details.images?.jpg?.imageUrl ||
+            details.images?.jpg?.image_url ||
+            details.main_picture?.large ||
+            details.main_picture?.medium;
+          if (malPoster) {
+            h.posterUrl = malPoster;
+          }
+        }
+      } catch {}
+    }
+  }
 
   const payload = {
     updatedAt: new Date().toISOString(),
+    timezone: "Asia/Tokyo",
     daysCount: Object.keys(finalDays).length,
     startDate: sortedDates[sortedDates.length - 1] || null,
     endDate: sortedDates[0] || null,
