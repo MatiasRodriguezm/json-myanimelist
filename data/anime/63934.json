@@ -29,8 +29,8 @@
   "num_episodes": 1,
   "score": null,
   "mean": null,
-  "numListUsers": 17923,
-  "num_list_users": 17923,
+  "numListUsers": 17925,
+  "num_list_users": 17925,
   "genres": [
     {
       "id": 1,
@@ -71,7 +71,7 @@
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-14T23:27:24.076Z",
+  "tmdb_updated_at": "2026-11-15T01:31:07.873Z",
   "simkl_id": 2751800,
   "episodes_data": [
     {
@@ -82,8 +82,7 @@
       "airedDate": "2027-03-26T00:00:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null,
-      "title_es": "Película completa"
+      "description": null
     }
   ],
   "specials_data": [],
@@ -149,87 +148,5 @@
     },
     "num_list_users": 17795
   },
-  "mal_details_updated_at": "2026-11-10T01:36:02.700Z",
-  "characters": [
-    {
-      "id": 65263,
-      "name": "Kotori Itsuka",
-      "role": "Main",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/16/211505.jpg?s=53e9332b27a1194fe4c1a6de402523e3"
-    },
-    {
-      "id": 65257,
-      "name": "Shidou Itsuka",
-      "role": "Main",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/12/202607.jpg?s=3aee89013d670804f0bc0622b31e46ba"
-    },
-    {
-      "id": 65261,
-      "name": "Origami Tobiichi",
-      "role": "Main",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/3/193285.jpg?s=abfdbae89145a01df0fa23fa6729c3ec"
-    },
-    {
-      "id": 65259,
-      "name": "Tooka Yatogami",
-      "role": "Main",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/7/203347.jpg?s=5e5a6371f8d756f18be7ef58c12b9d70"
-    },
-    {
-      "id": 70603,
-      "name": "Yoshino Himekawa",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/4/215469.jpg?s=882aaf1813a750f168dfe81b45706455"
-    },
-    {
-      "id": 135068,
-      "name": "Nia Honjou",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/13/296483.jpg?s=f73dbecf2ea832a9d1cb70a49c205097"
-    },
-    {
-      "id": 139548,
-      "name": "Mukuro Hoshimiya",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/11/340724.jpg?s=c21977391f0f5aa6a21411d4ec545887"
-    },
-    {
-      "id": 84063,
-      "name": "Miku Izayoi",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/16/244971.jpg?s=65b144d05471cbbc209e2c9623d734bf"
-    },
-    {
-      "id": 90473,
-      "name": "Natsumi Kyouno",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/6/296481.jpg?s=4b10be884cb9f06b0cae30d3054f9ccb"
-    },
-    {
-      "id": 72281,
-      "name": "Reine Murasame",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/9/209483.jpg?s=c9a66f101e93bba1f5eabe3f9d3fcb88"
-    },
-    {
-      "id": 70069,
-      "name": "Kurumi Tokisaki",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/8/310255.jpg?s=3d0fd94edfe0288fcaa29dcf74ff09e2"
-    },
-    {
-      "id": 86645,
-      "name": "Kaguya Yamai",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/5/249041.jpg?s=271ba62ad18d445684c30cde589a6e39"
-    },
-    {
-      "id": 86647,
-      "name": "Yuzuru Yamai",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/9/249039.jpg?s=73d02c808ea7a2a233defbadac4d3cb6"
-    }
-  ],
-  "characters_updated_at": "2026-11-14T23:21:54.931Z",
-  "translations_updated_at": "2026-11-15T01:24:01.031Z"
+  "mal_details_updated_at": "2026-11-10T01:36:02.700Z"
 }

@@ -31,8 +31,8 @@
   "num_episodes": null,
   "score": null,
   "mean": null,
-  "numListUsers": 26590,
-  "num_list_users": 26590,
+  "numListUsers": 26622,
+  "num_list_users": 26622,
   "genres": [
     {
       "id": 10,
@@ -61,7 +61,7 @@
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-14T23:27:21.564Z",
+  "tmdb_updated_at": "2026-11-15T01:31:06.406Z",
   "simkl_id": 3257092,
   "episodes_data": [
     {
@@ -72,8 +72,7 @@
       "airedDate": "2027-01-01T00:00:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null,
-      "title_es": "Episodio 1"
+      "description": null
     }
   ],
   "specials_data": [],
@@ -139,52 +138,5 @@
     },
     "num_list_users": 25974
   },
-  "mal_details_updated_at": "2026-11-10T01:36:39.272Z",
-  "characters": [
-    {
-      "id": 272593,
-      "name": "Reirin Kou",
-      "role": "Main",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/9/594785.jpg?s=e919fdc7e740a65f757c9beeb011cbe0"
-    },
-    {
-      "id": 272592,
-      "name": "Keigetsu Shu",
-      "role": "Main",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/8/594784.jpg?s=302a3c02d33a14475503f8c9afc3995f"
-    },
-    {
-      "id": 304542,
-      "name": "Keishou Kou",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/14/646334.jpg?s=a2a6a32aea301c475732085faac02dcf"
-    },
-    {
-      "id": 304541,
-      "name": "Keikou Kou",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/11/646332.jpg?s=ff5d7a8c44c4ec565f178df9093b5daa"
-    },
-    {
-      "id": 292521,
-      "name": "Tousetsu Kou",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/15/626058.jpg?s=d89e902a2b15f467f34cc56f3109cb77"
-    },
-    {
-      "id": 278920,
-      "name": "Leelee",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/3/605131.jpg?s=0f948c6cae0bd5e3fb4b8f874e826503"
-    },
-    {
-      "id": 304543,
-      "name": "Unran",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/15/646336.jpg?s=87b2df1cd29c2456e3e4cbb0b81749cd"
-    }
-  ],
-  "characters_updated_at": "2026-11-14T23:22:27.098Z",
-  "synopsis_es": "Segunda parte de Futsutsuka na Akujo dewa Gozaimasu ga: Suuguu Chouso Torikae Den.",
-  "translations_updated_at": "2026-11-15T01:24:49.072Z"
+  "mal_details_updated_at": "2026-11-10T01:36:39.272Z"
 }

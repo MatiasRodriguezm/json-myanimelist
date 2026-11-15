@@ -55,11 +55,16 @@
       "name": "Wit Studio"
     }
   ],
-  "pictures": [],
+  "pictures": [
+    "https://cdn.myanimelist.net/images/anime/1105/140422l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1569/157298l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1224/158691l.jpg",
+    "https://cdn.myanimelist.net/images/anime/1914/159659l.jpg"
+  ],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-14T23:27:20.018Z",
+  "tmdb_updated_at": "2026-11-15T01:31:05.302Z",
   "simkl_id": 2325164,
   "episodes_data": [],
   "specials_data": [],
@@ -77,25 +82,25 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1914/159659l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1914/159659l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1914/159659l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1914/159659l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1914/159659l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1914/159659l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1914/159659l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1914/159659l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1914/159659l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1914/159659l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1105/140422l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1105/140422l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1105/140422l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1105/140422l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1105/140422l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1105/140422l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1105/140422l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1105/140422l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1105/140422l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1105/140422l.jpg"
     }
   },
   "broadcast": null,
   "rank": null,
-  "popularity": 3962,
-  "num_scoring_users": 1,
+  "popularity": 3949,
+  "num_scoring_users": 3,
   "nsfw": "white",
-  "created_at": null,
-  "updated_at": null,
+  "created_at": "2023-12-17T09:45:04+00:00",
+  "updated_at": "2026-08-20T23:40:02+00:00",
   "source": "manga",
   "rating": "pg_13",
   "background": null,
@@ -105,8 +110,8 @@
         "id": 21,
         "title": "One Piece",
         "main_picture": {
-          "medium": "https://cdn.myanimelist.net/images/anime/1244/138851.jpg",
-          "large": "https://cdn.myanimelist.net/images/anime/1244/138851l.jpg"
+          "medium": "https://cdn.myanimelist.net/images/anime/1244/138851.webp",
+          "large": "https://cdn.myanimelist.net/images/anime/1244/138851l.webp"
         }
       },
       "relation_type": "alternative_version",
@@ -117,24 +122,13 @@
   "recommendations": [],
   "statistics": {
     "status": {
-      "watching": "3",
-      "completed": 0,
-      "on_hold": "2",
-      "dropped": "1",
-      "plan_to_watch": "45155"
+      "watching": "2",
+      "completed": "1",
+      "on_hold": "3",
+      "dropped": 0,
+      "plan_to_watch": "45326"
     },
-    "num_list_users": 45161
+    "num_list_users": 45332
   },
-  "mal_details_updated_at": "2026-11-10T01:31:03.634Z",
-  "characters": [
-    {
-      "id": 40,
-      "name": "Luffy Monkey D.",
-      "role": "Main",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/9/310307.jpg?s=3a27ab33bee665febfba970f24f203ba"
-    }
-  ],
-  "characters_updated_at": "2026-11-14T23:19:50.494Z",
-  "synopsis_es": "Remake de One Piece.",
-  "translations_updated_at": "2026-11-15T01:21:03.084Z"
+  "mal_details_updated_at": "2026-11-15T01:31:04.969Z"
 }

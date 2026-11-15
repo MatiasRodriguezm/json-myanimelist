@@ -29,8 +29,8 @@
   "num_episodes": null,
   "score": null,
   "mean": null,
-  "numListUsers": 8345,
-  "num_list_users": 8345,
+  "numListUsers": 8358,
+  "num_list_users": 8358,
   "genres": [
     {
       "id": 4,
@@ -59,7 +59,7 @@
   "backdrop_url": null,
   "logo_url": "https://image.tmdb.org/t/p/w500/aacSaRnvnP5FGKi3i4xXRjN61Kv.png",
   "tmdb_id": "325101",
-  "tmdb_updated_at": "2026-11-14T23:27:28.976Z",
+  "tmdb_updated_at": "2026-11-15T01:31:11.440Z",
   "simkl_id": 3147900,
   "episodes_data": [
     {
@@ -70,8 +70,7 @@
       "airedDate": "2027-01-01T00:00:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null,
-      "title_es": "Episodio 1"
+      "description": null
     }
   ],
   "specials_data": [],
@@ -124,46 +123,5 @@
     },
     "num_list_users": 8132
   },
-  "mal_details_updated_at": "2026-11-10T01:36:14.174Z",
-  "characters": [
-    {
-      "id": 15837,
-      "name": "Teru Kurebayashi",
-      "role": "Main",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/9/637833.jpg?s=0cf596133154aea0b65dc4dee881b742"
-    },
-    {
-      "id": 15838,
-      "name": "Tasuku Kurosaki",
-      "role": "Main",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/8/239495.jpg?s=2075080d0538f4fefc91048d398507e3"
-    },
-    {
-      "id": 37138,
-      "name": "Akira",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/9/301836.jpg?s=3972bfe37a424f70c8723c5d3be43f82"
-    },
-    {
-      "id": 28296,
-      "name": "Souichirou Kurebayashi",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/13/102246.jpg?s=a0e0b4836473e34e36f0330537ef9103"
-    },
-    {
-      "id": 37131,
-      "name": "Masuda",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/6/102241.jpg?s=65ef94d570cb682f1bb8214caad0efc1"
-    },
-    {
-      "id": 25591,
-      "name": "Riko Onizuka",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/15/153767.jpg?s=38c54ca871e826ed3713038504fc82e3"
-    }
-  ],
-  "characters_updated_at": "2026-11-14T23:22:04.691Z",
-  "synopsis_es": "Teru Kurebayashi se queda sola en el mundo tras la muerte de su hermano, Souichirou. Bueno, completamente sola excepto por \"Daisy\", alguien con quien siempre puede hablar y que nunca duda en animarla. Sin embargo, Teru nunca ha conocido a Daisy, no tiene idea de cómo es y su único medio para contactarlo es a través de un teléfono celular que le dejó su hermano.\n\nEn marcado contraste con las amables palabras y el aliento que Teru recibe de Daisy, lo único que recibe es pena por parte del grosero conserje de la escuela, Tasuku Kurosaki, quien obligó a Teru a trabajar para él después de que accidentalmente rompió una ventana. Pero si bien Kurosaki parece un vago inútil que solo disfruta haciéndola sentir miserable, ¿hay más en él de lo que parece?\n\n[Escrito por MAL Rewrite]",
-  "translations_updated_at": "2026-11-15T01:24:15.340Z"
+  "mal_details_updated_at": "2026-11-10T01:36:14.174Z"
 }

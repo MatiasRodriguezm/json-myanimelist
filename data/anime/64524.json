@@ -31,8 +31,8 @@
   "num_episodes": null,
   "score": null,
   "mean": null,
-  "numListUsers": 29004,
-  "num_list_users": 29004,
+  "numListUsers": 29029,
+  "num_list_users": 29029,
   "genres": [
     {
       "id": 1,
@@ -61,7 +61,7 @@
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-14T23:27:21.101Z",
+  "tmdb_updated_at": "2026-11-15T01:31:06.069Z",
   "simkl_id": 3169196,
   "episodes_data": [
     {
@@ -72,8 +72,7 @@
       "airedDate": "2027-01-01T23:00:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null,
-      "title_es": "Episodio 1"
+      "description": null
     }
   ],
   "specials_data": [],
@@ -146,22 +145,5 @@
     },
     "num_list_users": 28546
   },
-  "mal_details_updated_at": "2026-11-10T01:36:23.743Z",
-  "characters": [
-    {
-      "id": 213598,
-      "name": "Hikaru Gero",
-      "role": "Main",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/12/622599.jpg?s=c8ab3aacecaeda0b21b46e3674a80512"
-    },
-    {
-      "id": 213599,
-      "name": "Mei Kinosaki",
-      "role": "Main",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/9/622598.jpg?s=01203877d7e3ed8ba0a82143488364f8"
-    }
-  ],
-  "characters_updated_at": "2026-11-14T23:22:13.547Z",
-  "synopsis_es": "Segunda temporada de Marriagetoxin.",
-  "translations_updated_at": "2026-11-15T01:24:28.923Z"
+  "mal_details_updated_at": "2026-11-10T01:36:23.743Z"
 }

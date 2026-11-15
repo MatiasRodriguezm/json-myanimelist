@@ -29,8 +29,8 @@
   "num_episodes": null,
   "score": 6.9,
   "mean": 6.9,
-  "numListUsers": 28224,
-  "num_list_users": 28224,
+  "numListUsers": 28233,
+  "num_list_users": 28233,
   "genres": [
     {
       "id": 1,
@@ -66,8 +66,7 @@
       "airedDate": "2026-10-10T17:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20853899a7dbaa6419_w.webp",
       "imageUrl": "https://simkl.in/episodes/20/20853899a7dbaa6419_w.webp",
-      "description": null,
-      "title_es": "Perú el fabricante de máscaras"
+      "description": null
     },
     {
       "episode": 2,
@@ -77,8 +76,7 @@
       "airedDate": "2026-10-17T17:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20904107b7f12e354e_w.webp",
       "imageUrl": "https://simkl.in/episodes/20/20904107b7f12e354e_w.webp",
-      "description": null,
-      "title_es": "Máscara del Dios de la Guerra"
+      "description": null
     },
     {
       "episode": 3,
@@ -88,8 +86,7 @@
       "airedDate": "2026-10-24T17:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20942443e240a84f82_w.webp",
       "imageUrl": "https://simkl.in/episodes/20/20942443e240a84f82_w.webp",
-      "description": "Peru and Sona arrive at Cornbloom, where a very peculiar employee insists on traveling with them.",
-      "title_es": "La máscara de humo"
+      "description": "Peru and Sona arrive at Cornbloom, where a very peculiar employee insists on traveling with them."
     },
     {
       "episode": 4,
@@ -99,8 +96,7 @@
       "airedDate": "2026-10-31T17:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20983933221b0186ca_w.webp",
       "imageUrl": "https://simkl.in/episodes/20/20983933221b0186ca_w.webp",
-      "description": null,
-      "title_es": "Episodio 4"
+      "description": null
     },
     {
       "episode": 5,
@@ -110,8 +106,7 @@
       "airedDate": "2026-11-07T17:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/21/21028455d512fbf727_w.webp",
       "imageUrl": "https://simkl.in/episodes/21/21028455d512fbf727_w.webp",
-      "description": null,
-      "title_es": "Episodio 5"
+      "description": null
     },
     {
       "episode": 6,
@@ -121,8 +116,7 @@
       "airedDate": "2026-11-14T17:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/21/2107150511173fab57_w.webp",
       "imageUrl": "https://simkl.in/episodes/21/2107150511173fab57_w.webp",
-      "description": null,
-      "title_es": "Episodio 6"
+      "description": null
     },
     {
       "episode": 7,
@@ -132,8 +126,7 @@
       "airedDate": "2026-11-21T17:30:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null,
-      "title_es": "Episodio 7"
+      "description": null
     },
     {
       "episode": 8,
@@ -143,8 +136,7 @@
       "airedDate": "2026-11-28T17:30:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null,
-      "title_es": "Episodio 8"
+      "description": null
     }
   ],
   "specials_data": [],
@@ -229,172 +221,5 @@
     },
     "num_list_users": 27550
   },
-  "mal_details_updated_at": "2026-11-10T01:32:57.785Z",
-  "characters": [
-    {
-      "id": 298788,
-      "name": "Peru d'Arrest",
-      "role": "Main",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/2/649328.jpg?s=983eebdd0aad8ebb4255b2a967bb2d3b"
-    },
-    {
-      "id": 298790,
-      "name": "Sonarue Maywood",
-      "role": "Main",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/10/647994.jpg?s=8b269a9f97583214e36a2951317b5c70"
-    },
-    {
-      "id": 298789,
-      "name": "Moku Sharib",
-      "role": "Main",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/11/648820.jpg?s=a43b25986af68204824d219dbcb8c9b0"
-    },
-    {
-      "id": 307178,
-      "name": "Akane",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/6/650318.jpg?s=3e91e6e84cfd92dcd443d3aca74fa9bd"
-    },
-    {
-      "id": 304113,
-      "name": "Clown",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/10/649764.jpg?s=c2ca3c352a324a15f149f3aff1fac986"
-    },
-    {
-      "id": 306529,
-      "name": "Gianni",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/5/649325.jpg?s=673196d60ad46fbc9bdf2e587556912e"
-    },
-    {
-      "id": 305677,
-      "name": "Glen",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/4/647998.jpg?s=164af88a295d65c5ef84ee46af6f45a5"
-    },
-    {
-      "id": 299489,
-      "name": "Gouon",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/15/647997.jpg?s=fe76a08d8e22881cc0797a856138fd00"
-    },
-    {
-      "id": 304111,
-      "name": "Hien",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/8/648819.jpg?s=9a69ddb32fe43ca93de8ab9b5e0cdd25"
-    },
-    {
-      "id": 307177,
-      "name": "Kanna",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/12/650317.jpg?s=697ce7f0365537be90c825bee3141a38"
-    },
-    {
-      "id": 305946,
-      "name": "Kougyoku",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/16/648386.jpg?s=cf4998314bb581f06345f49ea230ff7b"
-    },
-    {
-      "id": 305702,
-      "name": "Kouren",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/16/648049.jpg?s=d26c1d6b9a8268081da60680db994afc"
-    },
-    {
-      "id": 304112,
-      "name": "Lasgarl",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/9/649323.jpg?s=ad79c16b133d75b9c422fd0907dd765f"
-    },
-    {
-      "id": 304115,
-      "name": "Mask of Necromancy",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/15/648384.jpg?s=e7ce48386ccaa23c08c3b346e06a99d1"
-    },
-    {
-      "id": 299493,
-      "name": "Mask of the Warrior God",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/6/637837.jpg?s=7f228f83d397152d1332a27b608dd830"
-    },
-    {
-      "id": 304116,
-      "name": "Master",
-      "role": "Supporting",
-      "imageUrl": null
-    },
-    {
-      "id": 306531,
-      "name": "Moreno",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/6/649327.jpg?s=65b092ddcebff833a7d7a2afbd128906"
-    },
-    {
-      "id": 305945,
-      "name": "Queen",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/2/648385.jpg?s=69cb2ea2cd24f48642f57303d6d9466c"
-    },
-    {
-      "id": 305700,
-      "name": "Ren",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/15/648047.jpg?s=e87cbbf0412a56c02aa381f448ac554e"
-    },
-    {
-      "id": 304114,
-      "name": "Rinne",
-      "role": "Supporting",
-      "imageUrl": null
-    },
-    {
-      "id": 299491,
-      "name": "Gaston Roux",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/15/647995.jpg?s=2cdfb43bcdaddf26c2f2d345d2fdb9f4"
-    },
-    {
-      "id": 306528,
-      "name": "Marlon Strega",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/11/649324.jpg?s=9faf00a9d944d19be6467f1337ba37f4"
-    },
-    {
-      "id": 307176,
-      "name": "Tanan",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/11/650316.jpg?s=90733572a4b8fd96b32f9a4977f1e4ec"
-    },
-    {
-      "id": 306530,
-      "name": "Tina",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/7/649326.jpg?s=a0890297e40a8710284e442eb45f1b6a"
-    },
-    {
-      "id": 299490,
-      "name": "Totoque",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/5/647996.jpg?s=01d280b07cdea9ec8684e30627d0ac37"
-    },
-    {
-      "id": 305701,
-      "name": "Yanto",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/11/648048.jpg?s=d393963c0427c800e5e06c65d4ee48f3"
-    },
-    {
-      "id": 299492,
-      "name": "Zent",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/12/647992.jpg?s=6a3e1475aab561d81003421028252a72"
-    }
-  ],
-  "characters_updated_at": "2026-11-14T23:20:49.115Z",
-  "synopsis_es": "La máscara trae calamidad. La máscara se deleita con la matanza. La máscara tiene voluntad propia... Perú, un comerciante ambulante de máscaras, posee la capacidad de crear máscaras misteriosas que otorgan a sus portadores poderes únicos. En una ciudad envuelta en una atmósfera espeluznante, se encuentra con Sonah, una joven misteriosa. A medida que se desarrollan revelaciones y surgen conflictos internos, ¡un joven da sus primeros pasos hacia adelante! ¡Sumérgete en una emocionante fantasía de batalla de máscaras!\n\n(Fuente: Orange Inc.)",
-  "translations_updated_at": "2026-11-15T01:22:27.740Z"
+  "mal_details_updated_at": "2026-11-10T01:32:57.785Z"
 }

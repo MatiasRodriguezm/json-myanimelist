@@ -51,7 +51,7 @@
   "backdrop_url": null,
   "logo_url": "https://image.tmdb.org/t/p/w500/v1k2JRs5IyzxsFm1A2kiNujmgs.png",
   "tmdb_id": "337195",
-  "tmdb_updated_at": "2026-11-14T23:26:49.935Z",
+  "tmdb_updated_at": "2026-11-15T01:30:38.490Z",
   "simkl_id": 3273448,
   "episodes_data": [
     {
@@ -62,8 +62,7 @@
       "airedDate": "2026-10-03T16:29:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null,
-      "title_es": "Episodio 1"
+      "description": null
     },
     {
       "episode": 2,
@@ -73,8 +72,7 @@
       "airedDate": "2026-10-10T16:29:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null,
-      "title_es": "Episodio 2"
+      "description": null
     },
     {
       "episode": 3,
@@ -84,8 +82,7 @@
       "airedDate": "2026-10-17T16:29:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null,
-      "title_es": "Episodio 3"
+      "description": null
     },
     {
       "episode": 4,
@@ -95,8 +92,7 @@
       "airedDate": "2026-10-24T16:29:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null,
-      "title_es": "Episodio 4"
+      "description": null
     },
     {
       "episode": 5,
@@ -106,8 +102,7 @@
       "airedDate": "2026-10-31T16:29:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null,
-      "title_es": "Episodio 5"
+      "description": null
     },
     {
       "episode": 6,
@@ -117,8 +112,7 @@
       "airedDate": "2026-11-07T16:29:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null,
-      "title_es": "Episodio 6"
+      "description": null
     },
     {
       "episode": 7,
@@ -128,8 +122,7 @@
       "airedDate": "2026-11-14T16:29:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null,
-      "title_es": "Episodio 7"
+      "description": null
     },
     {
       "episode": 8,
@@ -139,8 +132,7 @@
       "airedDate": "2026-11-21T16:29:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null,
-      "title_es": "Episodio 8"
+      "description": null
     },
     {
       "episode": 9,
@@ -150,8 +142,7 @@
       "airedDate": "2026-11-28T16:29:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null,
-      "title_es": "Episodio 9"
+      "description": null
     },
     {
       "episode": 10,
@@ -161,8 +152,7 @@
       "airedDate": "2026-12-05T16:29:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null,
-      "title_es": "Episodio 10"
+      "description": null
     },
     {
       "episode": 11,
@@ -172,8 +162,7 @@
       "airedDate": "2026-12-12T16:29:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null,
-      "title_es": "Episodio 11"
+      "description": null
     },
     {
       "episode": 12,
@@ -183,8 +172,7 @@
       "airedDate": "2026-12-19T16:29:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null,
-      "title_es": "Episodio 12"
+      "description": null
     }
   ],
   "specials_data": [],
@@ -257,33 +245,5 @@
     },
     "num_list_users": 355
   },
-  "mal_details_updated_at": "2026-11-10T01:36:01.894Z",
-  "characters": [
-    {
-      "id": 292822,
-      "name": "Shirotan",
-      "role": "Main",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/3/644576.jpg?s=6878f446a8858d575e2a271eaee03131"
-    },
-    {
-      "id": 303352,
-      "name": "Rakkoinu",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/11/644577.jpg?s=b488f440532ac213c9eb5d0ccb995b54"
-    },
-    {
-      "id": 303354,
-      "name": "Ramune",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/9/644580.jpg?s=307960c0758bba0c1aa7190b4d52e60a"
-    },
-    {
-      "id": 303353,
-      "name": "Shell",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/10/644579.jpg?s=eb0d43e20d3adf801b60cb7bf60a846f"
-    }
-  ],
-  "characters_updated_at": "2026-11-14T23:21:54.334Z",
-  "translations_updated_at": "2026-11-15T01:24:00.936Z"
+  "mal_details_updated_at": "2026-11-10T01:36:01.894Z"
 }

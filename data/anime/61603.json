@@ -29,8 +29,8 @@
   "num_episodes": null,
   "score": 8.26,
   "mean": 8.26,
-  "numListUsers": 52966,
-  "num_list_users": 52966,
+  "numListUsers": 52989,
+  "num_list_users": 52989,
   "genres": [
     {
       "id": 42,
@@ -66,8 +66,7 @@
       "airedDate": "2026-10-04T17:00:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/209044717aace66f3c_w.webp",
       "imageUrl": "https://simkl.in/episodes/20/209044717aace66f3c_w.webp",
-      "description": null,
-      "title_es": "Línea de salida"
+      "description": null
     },
     {
       "episode": 2,
@@ -77,8 +76,7 @@
       "airedDate": "2026-10-11T17:00:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/209044738a8eaf7165_w.webp",
       "imageUrl": "https://simkl.in/episodes/20/209044738a8eaf7165_w.webp",
-      "description": null,
-      "title_es": "Episodio 2"
+      "description": null
     },
     {
       "episode": 3,
@@ -88,8 +86,7 @@
       "airedDate": "2026-10-18T17:00:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/209044758355847179_w.webp",
       "imageUrl": "https://simkl.in/episodes/20/209044758355847179_w.webp",
-      "description": null,
-      "title_es": "Episodio 3"
+      "description": null
     },
     {
       "episode": 4,
@@ -99,8 +96,7 @@
       "airedDate": "2026-10-25T17:00:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/209091652e970759d7_w.webp",
       "imageUrl": "https://simkl.in/episodes/20/209091652e970759d7_w.webp",
-      "description": null,
-      "title_es": "Episodio 4"
+      "description": null
     },
     {
       "episode": 5,
@@ -110,8 +106,7 @@
       "airedDate": "2026-11-01T17:00:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/2095495578e86cfbfd_w.webp",
       "imageUrl": "https://simkl.in/episodes/20/2095495578e86cfbfd_w.webp",
-      "description": null,
-      "title_es": "Episodio 5"
+      "description": null
     },
     {
       "episode": 6,
@@ -121,8 +116,7 @@
       "airedDate": "2026-11-08T17:00:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/209975317f7650986c_w.webp",
       "imageUrl": "https://simkl.in/episodes/20/209975317f7650986c_w.webp",
-      "description": null,
-      "title_es": "Episodio 6"
+      "description": null
     },
     {
       "episode": 7,
@@ -132,8 +126,7 @@
       "airedDate": "2026-11-15T17:00:00+09:00",
       "thumbnail": "https://simkl.in/episodes/21/21046057e335c38b48_w.webp",
       "imageUrl": "https://simkl.in/episodes/21/21046057e335c38b48_w.webp",
-      "description": null,
-      "title_es": "Episodio 7"
+      "description": null
     },
     {
       "episode": 8,
@@ -143,8 +136,7 @@
       "airedDate": "2026-11-22T17:00:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null,
-      "title_es": "Episodio 8"
+      "description": null
     }
   ],
   "specials_data": [],
@@ -217,292 +209,5 @@
     },
     "num_list_users": 52166
   },
-  "mal_details_updated_at": "2026-11-10T01:32:49.501Z",
-  "characters": [
-    {
-      "id": 181197,
-      "name": "Ashito Aoi",
-      "role": "Main",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/6/457597.jpg?s=59cf6968c1f2bb93f5757c03a7426395"
-    },
-    {
-      "id": 181196,
-      "name": "Tatsuya Fukuda",
-      "role": "Main",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/7/634002.jpg?s=3f91e0328884545067b837f66c29994d"
-    },
-    {
-      "id": 211106,
-      "name": "Enshin Akiyama",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/2/497852.jpg?s=b147afa1a360b05ecc9d1f7161cc074b"
-    },
-    {
-      "id": 206496,
-      "name": "Nagisa Akutsu",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/9/465615.jpg?s=03119187f524581d1964b7064045167b"
-    },
-    {
-      "id": 207113,
-      "name": "Noriko Aoi",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/12/468002.jpg?s=093e08c3fb842925d6b64496bb2c1a92"
-    },
-    {
-      "id": 207114,
-      "name": "Shun Aoi",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/3/468003.jpg?s=15db2c52c09f50a60396f79c6e6094fa"
-    },
-    {
-      "id": 306094,
-      "name": "Araki",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/5/648630.jpg?s=7dbccf33ac935d5f2d27f9b863d47f1b"
-    },
-    {
-      "id": 203080,
-      "name": "Marchis Jun Asari",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/2/485378.jpg?s=69c21b30722ad08f017501b45ef37d77"
-    },
-    {
-      "id": 252967,
-      "name": "Masanori Baba",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/8/556853.jpg?s=6b4570228c016abe2c63f23c181e2f2d"
-    },
-    {
-      "id": 206501,
-      "name": "Nozomi Date",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/2/465621.jpg?s=6f6c14f91b2492825424c8a8061ae5a2"
-    },
-    {
-      "id": 211104,
-      "name": "Midori Haruta",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/5/497853.jpg?s=eab5d80ffda20fe3cb75edde9490c005"
-    },
-    {
-      "id": 211105,
-      "name": "Mamoru Hotta",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/11/648387.jpg?s=d87309867197c5a835eac039c55b4af3"
-    },
-    {
-      "id": 181211,
-      "name": "Hana Ichijou",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/5/488829.jpg?s=934dbba209ff23e5d23e03920e3756af"
-    },
-    {
-      "id": 306089,
-      "name": "Inara",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/9/648625.jpg?s=679704df681a739d37eb49a3ec012d3a"
-    },
-    {
-      "id": 206502,
-      "name": "Anri Kaidou",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/6/538090.jpg?s=d8eff72db64d185e84d585613728aaa0"
-    },
-    {
-      "id": 207115,
-      "name": "Aoi Kaneko",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/7/468004.jpg?s=fcc5c4eea42758fe22ddb7f00257f6ba"
-    },
-    {
-      "id": 211102,
-      "name": "Emi Kasahara",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/13/497855.jpg?s=f327c80fcd5d23d1c1f58a86dc35ce11"
-    },
-    {
-      "id": 306097,
-      "name": "Kawajiri",
-      "role": "Supporting",
-      "imageUrl": null
-    },
-    {
-      "id": 306096,
-      "name": "Kinoshita",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/15/648633.jpg?s=9a4b797f2a6ddbd206b34706ba79f151"
-    },
-    {
-      "id": 206499,
-      "name": "Youichi Kiriki",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/10/465619.jpg?s=cf2f86084afe9c6ad4e8290905aec846"
-    },
-    {
-      "id": 206497,
-      "name": "Haruhisa Kuribayashi",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/12/485384.jpg?s=8398628cdd443b373b3e230357643150"
-    },
-    {
-      "id": 203079,
-      "name": "Kanpei Kuroda",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/8/485385.jpg?s=fcb1f31c7b374d1c460a10dfa14fd83e"
-    },
-    {
-      "id": 211112,
-      "name": "Kunitaka Matsunaga",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/15/497856.jpg?s=066c73b2cfe45c76c84a1132d20b4051"
-    },
-    {
-      "id": 305938,
-      "name": "Minamisawa",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/4/648883.jpg?s=2711058cd97f87ab48bb3a51458b0000"
-    },
-    {
-      "id": 306256,
-      "name": "Minamisawa",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/15/648932.jpg?s=ccefb119bede0b705d2a173facc2b728"
-    },
-    {
-      "id": 270684,
-      "name": "Osieck Mino",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/12/591283.jpg?s=9e672f4fe08c16f7262bb6f273753321"
-    },
-    {
-      "id": 305907,
-      "name": "Katsumi Mito",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/12/648340.jpg?s=e44e74b4171bff6987f49c1e5f3b5744"
-    },
-    {
-      "id": 306092,
-      "name": "Mochizuki",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/11/648628.jpg?s=f60bf70109b3dabed31fe91a2478d491"
-    },
-    {
-      "id": 203081,
-      "name": "Yuuma Motoki",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/3/485389.jpg?s=89cc0682bab8fc21090efebf2408ea82"
-    },
-    {
-      "id": 206498,
-      "name": "Taira Nakamura",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/3/465617.jpg?s=4b32a72401090aad191629cf90a00176"
-    },
-    {
-      "id": 181247,
-      "name": "Eisaku Ootomo",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/12/484636.jpg?s=71ee7397cccd6ff766a63c12e481d716"
-    },
-    {
-      "id": 306100,
-      "name": "Sanshou",
-      "role": "Supporting",
-      "imageUrl": null
-    },
-    {
-      "id": 252966,
-      "name": "Kyou Shimura",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/15/556852.jpg?s=2a63fa37d3e72209c11d45532ab099ea"
-    },
-    {
-      "id": 306091,
-      "name": "Sono",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/9/648627.jpg?s=72c9a85989a7581ff016b967de31b94d"
-    },
-    {
-      "id": 306093,
-      "name": "Jouji Sugiura",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/9/648629.jpg?s=fec8ad98a943d3a9f983c96aac1fe1ea"
-    },
-    {
-      "id": 306095,
-      "name": "Suzumiya",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/7/648632.jpg?s=ff2544432308a7ac26b9e98e667b0758"
-    },
-    {
-      "id": 212819,
-      "name": "Miyako Tachibana",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/6/488849.jpg?s=4bdec46be4ac26d907df60058e7521b1"
-    },
-    {
-      "id": 181246,
-      "name": "Soichirou Tachibana",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/9/484639.jpg?s=fd9a49f6ac6f35db31d365d0efe0baa4"
-    },
-    {
-      "id": 306090,
-      "name": "Takagi",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/6/648626.jpg?s=acb089ffecf8bc1fce409d1c2d414dbb"
-    },
-    {
-      "id": 206500,
-      "name": "Eita Takasugi",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/16/465620.jpg?s=4896518f1c08380d73094032b28fac63"
-    },
-    {
-      "id": 203082,
-      "name": "Ryuuichi Takeshima",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/14/457607.jpg?s=9ef065ebd911960f8122b7356c68f119"
-    },
-    {
-      "id": 203078,
-      "name": "Keiji Togashi",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/11/485386.jpg?s=c7f5d3ad27d3920ee013bce8799aa199"
-    },
-    {
-      "id": 306098,
-      "name": "Towada",
-      "role": "Supporting",
-      "imageUrl": null
-    },
-    {
-      "id": 211103,
-      "name": "Aki Tsukishima",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/2/478658.jpg?s=7c239351b56f5c6b51e9c9f79fc687cd"
-    },
-    {
-      "id": 252968,
-      "name": "Yutaka Yamada",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/10/556854.jpg?s=e365f0f76bb83c6bd9264d02e8cb9df2"
-    },
-    {
-      "id": 306099,
-      "name": "Yariike",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/7/648933.jpg?s=4c60302d6a21d2eed326e195772a3c3d"
-    },
-    {
-      "id": 207116,
-      "name": "Kenta Yoshitsune",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/3/485387.jpg?s=1f40768648fbde0410720c29b84462f3"
-    }
-  ],
-  "characters_updated_at": "2026-11-14T23:20:40.717Z",
-  "synopsis_es": "Segunda temporada de Ao Ashi.",
-  "translations_updated_at": "2026-11-15T01:22:14.440Z"
+  "mal_details_updated_at": "2026-11-10T01:32:49.501Z"
 }

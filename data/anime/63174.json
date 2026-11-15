@@ -31,8 +31,8 @@
   "num_episodes": null,
   "score": null,
   "mean": null,
-  "numListUsers": 20580,
-  "num_list_users": 20580,
+  "numListUsers": 20587,
+  "num_list_users": 20587,
   "genres": [
     {
       "id": 4,
@@ -57,7 +57,7 @@
   "backdrop_url": null,
   "logo_url": "https://image.tmdb.org/t/p/w500/9p78tIGQHH2WrTTn6yeLAf9Y6FI.png",
   "tmdb_id": "309176",
-  "tmdb_updated_at": "2026-11-14T23:27:22.925Z",
+  "tmdb_updated_at": "2026-11-15T01:31:07.120Z",
   "simkl_id": 2975270,
   "episodes_data": [
     {
@@ -68,8 +68,7 @@
       "airedDate": "2027-01-07T00:26:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null,
-      "title_es": "Episodio 1"
+      "description": null
     }
   ],
   "specials_data": [],
@@ -129,40 +128,5 @@
     },
     "num_list_users": 20053
   },
-  "mal_details_updated_at": "2026-11-10T01:34:33.195Z",
-  "characters": [
-    {
-      "id": 232701,
-      "name": "Mai Chihara",
-      "role": "Main",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/6/517419.jpg?s=eb98090b710e3b1cbfbf27e47ea6cdef"
-    },
-    {
-      "id": 236221,
-      "name": "Kuroki",
-      "role": "Main",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/12/637626.jpg?s=88b72f876265dfdbcebac92b4ea121d4"
-    },
-    {
-      "id": 238866,
-      "name": "Hibiya",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/6/636776.jpg?s=a0f7c26c1a348649912849b1b79eee55"
-    },
-    {
-      "id": 298886,
-      "name": "Chinatsu Iwakura",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/15/636777.jpg?s=d3877bf5cfdadcccda935a9c2be33635"
-    },
-    {
-      "id": 298887,
-      "name": "Kazami",
-      "role": "Supporting",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/9/636778.jpg?s=419e4a4f4d07fb16e2accd3a83dedc68"
-    }
-  ],
-  "characters_updated_at": "2026-11-14T23:21:24.874Z",
-  "synopsis_es": "Es el comienzo de un nuevo semestre, y Kuroki, estudiante de secundaria, se encuentra sentado junto a la chica de la que todos susurran: Mai Chihara. Con su moda gótica, cabello negro azabache y mirada intensa, se dice que Chihara es una chica \"mina terrestre\" o jirai-kei, la estética oscura e hiperfemenina a menudo asociada con tendencias yandere y personalidades inestables. Pero cuando Kuroki accidentalmente llama la atención de Chihara, él descubre que ella no es tan inestable como la gente dice. Debajo del aura intimidante hay una chica sorprendentemente dulce... aunque un poco rara.\n\nVacilante, Kuroki comienza a aprender más sobre Chihara y sus extrañas peculiaridades. ¿Hay algo más en ella que su volátil reputación? ¿O toda la ropa oscura es sólo una señal de alerta disfrazada?\n\n(Fuente: Seven Seas Entertainment)",
-  "translations_updated_at": "2026-11-15T01:23:15.419Z"
+  "mal_details_updated_at": "2026-11-10T01:34:33.195Z"
 }

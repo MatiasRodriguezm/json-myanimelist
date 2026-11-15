@@ -62,7 +62,7 @@
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": "314118",
-  "tmdb_updated_at": "2026-11-14T23:27:28.457Z",
+  "tmdb_updated_at": "2026-11-15T01:31:11.055Z",
   "simkl_id": 2905686,
   "episodes_data": [
     {
@@ -73,35 +73,34 @@
       "airedDate": "2027-01-01T00:00:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null,
-      "title_es": "Episodio 1"
+      "description": null
     }
   ],
   "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1985/160227.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1985/160227l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1985/160227.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1985/160227l.webp"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1985/160227.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1985/160227l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1985/160227.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1985/160227l.jpg"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1985/160227.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1985/160227l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1985/160227.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1985/160227l.jpg"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1985/160227l.webp",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1985/160227l.webp",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1985/160227l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1985/160227l.webp",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1985/160227l.webp",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1985/160227l.webp",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1985/160227l.webp",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1985/160227l.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1985/160227l.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1985/160227l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1985/160227l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1985/160227l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1985/160227l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1985/160227l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1985/160227l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1985/160227l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1985/160227l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1985/160227l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1985/160227l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1985/160227l.jpg"
     }
   },
   "broadcast": null,
@@ -127,52 +126,5 @@
     },
     "num_list_users": 11158
   },
-  "mal_details_updated_at": "2026-11-10T01:34:14.136Z",
-  "characters": [
-    {
-      "id": 210150,
-      "name": "Rinna Milford Isshiki",
-      "role": "Main",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/13/649316.jpg?s=001ad75511e8c099bc35bd86499d9a1e"
-    },
-    {
-      "id": 296605,
-      "name": "Meishi Rokutanda",
-      "role": "Main",
-      "imageUrl": "https://cdn.myanimelist.net/images/characters/7/649315.jpg?s=ea437da915effbe4011c34bb2dd3f144"
-    },
-    {
-      "id": 306516,
-      "name": "Nene Haneshita",
-      "role": "Supporting",
-      "imageUrl": null
-    },
-    {
-      "id": 304766,
-      "name": "Danjuurou Iwata",
-      "role": "Supporting",
-      "imageUrl": null
-    },
-    {
-      "id": 304768,
-      "name": "Chikai Matsumoto",
-      "role": "Supporting",
-      "imageUrl": null
-    },
-    {
-      "id": 304767,
-      "name": "Masato Nakatani",
-      "role": "Supporting",
-      "imageUrl": null
-    },
-    {
-      "id": 304769,
-      "name": "Rena Yamakawa",
-      "role": "Supporting",
-      "imageUrl": null
-    }
-  ],
-  "characters_updated_at": "2026-11-14T23:21:08.303Z",
-  "synopsis_es": "¡Una doncella que no sabe lo que es el amor intenta tener citas como pseudopareja!\n\nLa inspectora Rinna, respetada por todos como una mujer policía seria y trabajadora, parece estar teniendo problemas con su trabajo últimamente. La razón de esto es que pierde la concentración. Sólo sucede cuando Meishi, el detective con el que trabaja, está cerca... Entonces, ¿toma una decisión...?\n\n(Fuente: Kadokawa, traducido)",
-  "translations_updated_at": "2026-11-15T01:22:55.103Z"
+  "mal_details_updated_at": "2026-11-10T01:34:14.136Z"
 }
