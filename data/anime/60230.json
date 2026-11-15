@@ -54,14 +54,11 @@
     }
   ],
   "studios": [],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1486/146354l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1255/160461l.jpg"
-  ],
+  "pictures": [],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T01:58:31.197Z",
+  "tmdb_updated_at": "2026-11-15T02:17:10.840Z",
   "simkl_id": 2625628,
   "episodes_data": [
     {
@@ -72,7 +69,8 @@
       "airedDate": "2027-01-15T00:00:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null
+      "description": null,
+      "title_es": "Película completa"
     }
   ],
   "specials_data": [],
@@ -90,16 +88,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1486/146354l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1486/146354l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1486/146354l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1486/146354l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1486/146354l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1486/146354l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1486/146354l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1486/146354l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1486/146354l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1486/146354l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1255/160461l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1255/160461l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1255/160461l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1255/160461l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1255/160461l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1255/160461l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1255/160461l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1255/160461l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1255/160461l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1255/160461l.jpg"
     }
   },
   "broadcast": null,
@@ -107,8 +105,8 @@
   "popularity": 10768,
   "num_scoring_users": null,
   "nsfw": "white",
-  "created_at": "2024-11-01T23:00:21+00:00",
-  "updated_at": "2026-10-08T22:48:17+00:00",
+  "created_at": null,
+  "updated_at": null,
   "source": "original",
   "rating": "r",
   "background": null,
@@ -150,5 +148,7 @@
     },
     "num_list_users": 3715
   },
-  "mal_details_updated_at": "2026-11-15T01:58:30.481Z"
+  "mal_details_updated_at": "2026-11-15T01:58:30.481Z",
+  "synopsis_es": "Proyecto precuela de Kidou Senshi Gundam SEED Freedom.",
+  "translations_updated_at": "2026-11-15T02:36:47.116Z"
 }

@@ -31,8 +31,8 @@
   "num_episodes": 12,
   "score": 7.59,
   "mean": 7.59,
-  "numListUsers": 60105,
-  "num_list_users": 60105,
+  "numListUsers": 60106,
+  "num_list_users": 60106,
   "genres": [
     {
       "id": 10,
@@ -53,11 +53,7 @@
       "name": "Diomedéa"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1662/155248l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1806/156103l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1165/160033l.jpg"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/hEE9n9tZAjoT3eE5lL4MhZZ2DbB.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/5D9kwwmONWYhWiAAL0jMZ83Skgz.png",
   "tmdb_id": "313068",
@@ -72,7 +68,8 @@
       "airedDate": "2026-10-05T21:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/2075527517f90eca0d_w.webp",
       "imageUrl": "https://simkl.in/episodes/20/2075527517f90eca0d_w.webp",
-      "description": "The Witch of the Lake, Rose, falls for a knight, who later visits her seeking a love potion."
+      "description": "The Witch of the Lake, Rose, falls for a knight, who later visits her seeking a love potion.",
+      "title_es": "La bruja y la poción de amor del amor no correspondido"
     },
     {
       "episode": 2,
@@ -82,7 +79,8 @@
       "airedDate": "2026-10-12T21:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20852983b34350a173_w.webp",
       "imageUrl": "https://simkl.in/episodes/20/20852983b34350a173_w.webp",
-      "description": "Rose finds herself being conscience of her looks while Harij begins to wonder about her disheveled lifestyle."
+      "description": "Rose finds herself being conscience of her looks while Harij begins to wonder about her disheveled lifestyle.",
+      "title_es": "La Bruja Buena del Lago"
     },
     {
       "episode": 3,
@@ -92,7 +90,8 @@
       "airedDate": "2026-10-19T21:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20891341c6e31eeadc_w.webp",
       "imageUrl": "https://simkl.in/episodes/20/20891341c6e31eeadc_w.webp",
-      "description": "With every visit, Harij helps Rose realize things she`s overlooked before. Even of a certain song she sings."
+      "description": "With every visit, Harij helps Rose realize things she`s overlooked before. Even of a certain song she sings.",
+      "title_es": "La canción de la bruja con aroma a té negro"
     },
     {
       "episode": 4,
@@ -102,7 +101,8 @@
       "airedDate": "2026-10-26T21:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/2094164393a3c888f4_w.webp",
       "imageUrl": "https://simkl.in/episodes/20/2094164393a3c888f4_w.webp",
-      "description": "Harij continues to feel pressured to accomplish his mission, though something inside himself begins to change."
+      "description": "Harij continues to feel pressured to accomplish his mission, though something inside himself begins to change.",
+      "title_es": "El deber de un caballero incluso desconocido para la bruja"
     },
     {
       "episode": 5,
@@ -112,7 +112,8 @@
       "airedDate": "2026-11-02T21:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20984519c6415f51a7_w.webp",
       "imageUrl": "https://simkl.in/episodes/20/20984519c6415f51a7_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Ser una bruja"
     },
     {
       "episode": 6,
@@ -122,7 +123,8 @@
       "airedDate": "2026-11-09T21:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/21/210287334f3c5bdfc7_w.webp",
       "imageUrl": "https://simkl.in/episodes/21/210287334f3c5bdfc7_w.webp",
-      "description": "With the potion complete, Rose explains to Harij how to use it, when he makes a shocking request to test it."
+      "description": "With the potion complete, Rose explains to Harij how to use it, when he makes a shocking request to test it.",
+      "title_es": "La bruja y la poción de amor prometida"
     },
     {
       "episode": 7,
@@ -132,7 +134,8 @@
       "airedDate": "2026-11-16T21:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/21/21072425c6146c9baa_w.webp",
       "imageUrl": "https://simkl.in/episodes/21/21072425c6146c9baa_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Episodio 7"
     },
     {
       "episode": 8,
@@ -142,7 +145,8 @@
       "airedDate": "2026-11-23T21:30:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 8"
     }
   ],
   "specials_data": [],
@@ -160,16 +164,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1662/155248l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1662/155248l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1662/155248l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1662/155248l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1662/155248l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1662/155248l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1662/155248l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1662/155248l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1662/155248l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1662/155248l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1165/160033l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1165/160033l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1165/160033l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1165/160033l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1165/160033l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1165/160033l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1165/160033l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1165/160033l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1165/160033l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1165/160033l.jpg"
     }
   },
   "broadcast": {
@@ -184,8 +188,8 @@
   "popularity": 3349,
   "num_scoring_users": 6900,
   "nsfw": "white",
-  "created_at": "2026-02-02T13:45:21+00:00",
-  "updated_at": "2026-10-06T02:19:56+00:00",
+  "created_at": null,
+  "updated_at": null,
   "source": "light_novel",
   "rating": "pg_13",
   "background": null,
@@ -236,5 +240,7 @@
     },
     "num_list_users": 60096
   },
-  "mal_details_updated_at": "2026-11-15T01:55:08.850Z"
+  "mal_details_updated_at": "2026-11-15T01:55:08.850Z",
+  "synopsis_es": "En lo profundo del bosque, una acogedora y bastante desordenada cabaña se encuentra a la orilla del lago y alberga a una misteriosa y temida bruja. En verdad, es una joven encantadora llamada Rose, que aprendió el arte de hacer pociones de su sabia abuela. Rose aprecia su vida apartada, pero en su corazón hay un anhelo por un apuesto caballero que vio una vez, Sir Harij Azm.\n\nDurante cuatro años, los sentimientos de Rose por Harij han persistido, pero nunca podrá actuar en consecuencia; Las brujas viven fuera de los asuntos humanos y no pertenecen a ningún país ni a ningún hombre. Entonces, cuando Harij aparece de repente en su puerta buscando una poción de amor, Rose está sorprendida y desconsolada. Aunque otra mujer ha capturado el corazón del noble caballero, Rose decide ayudarlo. Pero antes de elaborar la poción, Rose envía a Harij a una serie de misiones ridículas para cada ingrediente, con la esperanza de retrasar lo inevitable y saborear el fugaz tiempo que pasan juntos.\n\n[Escrito por MAL Rewrite]",
+  "translations_updated_at": "2026-11-15T02:38:30.547Z"
 }

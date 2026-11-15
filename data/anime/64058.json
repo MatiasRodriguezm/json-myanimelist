@@ -59,10 +59,7 @@
       "name": "Cypic"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1080/157086l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1653/157089l.jpg"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/fR2wnADwKxS2uWDRxWkJzlfAWdt.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/id23kEoJy7fSzgHxfdIXSZ5KnHf.svg",
   "tmdb_id": "320905",
@@ -77,7 +74,8 @@
       "airedDate": "2027-04-01T00:00:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 1"
     }
   ],
   "specials_data": [],
@@ -95,16 +93,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1080/157086l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1080/157086l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1080/157086l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1080/157086l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1080/157086l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1080/157086l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1080/157086l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1080/157086l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1080/157086l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1080/157086l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1653/157089l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1653/157089l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1653/157089l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1653/157089l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1653/157089l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1653/157089l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1653/157089l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1653/157089l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1653/157089l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1653/157089l.jpg"
     }
   },
   "broadcast": null,
@@ -112,8 +110,8 @@
   "popularity": 3911,
   "num_scoring_users": 3,
   "nsfw": "white",
-  "created_at": "2026-04-27T12:12:13+00:00",
-  "updated_at": "2026-04-28T00:47:40+00:00",
+  "created_at": null,
+  "updated_at": null,
   "source": "manga",
   "rating": "r",
   "background": null,
@@ -130,5 +128,7 @@
     },
     "num_list_users": 45996
   },
-  "mal_details_updated_at": "2026-11-15T01:59:39.369Z"
+  "mal_details_updated_at": "2026-11-15T01:59:39.369Z",
+  "synopsis_es": "Hace dieciocho años, durante la Guerra Seitei, Kunishige Rokuhira era el hombre más famoso de Japón. Como maestro herrero, forjó seis espadas encantadas, cada una imbuida de un poder especial que aseguró la victoria de la nación. Después de la guerra, Kunishige se retiró a las montañas con su hijo, Chihiro, quien comenzó a aprender diligentemente el oficio. Cerca de cumplir 15 años, el sensato Chihiro decidió algún día suceder a su padre. Sin embargo, sus planes se descarrilaron cuando fue testigo de cómo un grupo de poderosos hechiceros mataban a su padre y robaban las espadas sagradas.\n\nTres años después del incidente, Chihiro sigue viviendo con odio en su corazón y un intenso deseo de venganza. Blandiendo el Enten, la séptima y última espada encantada que Kunishige creó en secreto, Chihiro elimina a los malhechores asociados con Hishaku, la organización que él cree que es responsable de la muerte de su padre. Chihiro aún tiene que desbloquear todo el potencial del Enten o perfeccionar su habilidad con la espada, pero no se detendrá ante nada para recuperar las katanas robadas, vengar a su padre y honrar el legado que dejó.\n\n[Escrito por MAL Rewrite]",
+  "translations_updated_at": "2026-11-15T02:38:56.863Z"
 }

@@ -29,8 +29,8 @@
   "num_episodes": 12,
   "score": 6.61,
   "mean": 6.61,
-  "numListUsers": 19997,
-  "num_list_users": 19997,
+  "numListUsers": 20001,
+  "num_list_users": 20001,
   "genres": [
     {
       "id": 2,
@@ -51,11 +51,7 @@
       "name": "Studio Comet"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1090/152127l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1479/156166l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1151/160025l.jpg"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/yeRnq9N1HkZHXRxeyUec5lTLpfp.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/1SMygZPB6m392uOgvixy0OyijUJ.png",
   "tmdb_id": "301139",
@@ -70,7 +66,8 @@
       "airedDate": "2026-10-03T23:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20775189e2fa56a523_w.webp",
       "imageUrl": "https://simkl.in/episodes/20/20775189e2fa56a523_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Estoy buscando a mi papá"
     },
     {
       "episode": 2,
@@ -80,7 +77,8 @@
       "airedDate": "2026-10-10T23:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20821901341fccccf7_w.webp",
       "imageUrl": "https://simkl.in/episodes/20/20821901341fccccf7_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Estoy buscando a mis amigos"
     },
     {
       "episode": 3,
@@ -90,7 +88,8 @@
       "airedDate": "2026-10-17T23:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20865877217a36a169_w.webp",
       "imageUrl": "https://simkl.in/episodes/20/20865877217a36a169_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Estoy buscando una tienda de fotografía"
     },
     {
       "episode": 4,
@@ -100,7 +99,8 @@
       "airedDate": "2026-10-24T23:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20910435c59c0f80a1_w.webp",
       "imageUrl": "https://simkl.in/episodes/20/20910435c59c0f80a1_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Estoy buscando un hospital"
     },
     {
       "episode": 5,
@@ -110,7 +110,8 @@
       "airedDate": "2026-10-31T23:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20956845e1cf38b6c8_w.webp",
       "imageUrl": "https://simkl.in/episodes/20/20956845e1cf38b6c8_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Busco mecánico"
     },
     {
       "episode": 6,
@@ -120,7 +121,8 @@
       "airedDate": "2026-11-14T23:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/21/210471936ce8e23a93_w.webp",
       "imageUrl": "https://simkl.in/episodes/21/210471936ce8e23a93_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Episodio 6"
     },
     {
       "episode": 7,
@@ -130,7 +132,8 @@
       "airedDate": "2026-11-21T23:30:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 7"
     },
     {
       "episode": 8,
@@ -140,34 +143,35 @@
       "airedDate": "2026-11-28T23:30:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 8"
     }
   ],
   "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1151/160025.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1151/160025l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1151/160025.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1151/160025l.jpg"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1151/160025.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1151/160025l.webp",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1151/160025.webp",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1151/160025l.webp"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1151/160025.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1151/160025l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1151/160025.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1151/160025l.webp"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1090/152127l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1090/152127l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1090/152127l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1090/152127l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1090/152127l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1090/152127l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1090/152127l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1090/152127l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1090/152127l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1090/152127l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1151/160025l.webp",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1151/160025l.webp",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1151/160025l.webp",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1151/160025l.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1151/160025l.webp",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1151/160025l.webp",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1151/160025l.webp",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1151/160025l.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1151/160025l.webp",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1151/160025l.webp"
     }
   },
   "broadcast": {
@@ -182,8 +186,8 @@
   "popularity": 5674,
   "num_scoring_users": 2469,
   "nsfw": "white",
-  "created_at": "2025-09-19T09:17:58+00:00",
-  "updated_at": "2026-10-03T19:37:23+00:00",
+  "created_at": null,
+  "updated_at": null,
   "source": "manga",
   "rating": "pg_13",
   "background": "#Zombie Sagashitemasu aired on TV Asahi's IMAnimation block.",
@@ -223,5 +227,7 @@
     },
     "num_list_users": 19997
   },
-  "mal_details_updated_at": "2026-11-15T01:55:31.723Z"
+  "mal_details_updated_at": "2026-11-15T01:55:31.723Z",
+  "synopsis_es": "Ambientado en un mundo donde el 90% de la humanidad se contrajo y murió a causa de una enfermedad virulenta y mortal, solo para resurgir como zombis atacantes, han pasado trece años desde el \"Día Rojo\" del colapso social. Los humanos supervivientes ahora viven lejos de las grandes ciudades, con la esperanza de recuperarlas algún día. Una generación completamente nueva, que desconoce el mundo anterior al Día Rojo, está cobrando importancia.\n\nLa historia comienza cuando Aki, que no tiene recuerdos del mundo antes de su caída, escapa de su aldea con sus amigos cercanos Haru y Natsuki para buscar a su padre desaparecido. Mientras se aventuran en el mundo exterior, ¡se encuentran rodeados de zombis por todos lados! En el camino, rescatan a Yuu y Sakura y se refugian en una tienda de mejoras para el hogar. ¡¡Se reagrupan y ahora comienza el contraataque—!!\n\n(Fuente: Kadokawa, editado)",
+  "translations_updated_at": "2026-11-15T02:37:32.043Z"
 }

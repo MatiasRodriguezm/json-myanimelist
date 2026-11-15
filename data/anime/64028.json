@@ -47,14 +47,11 @@
       "name": "Akatsuki Media Studio"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1683/157043l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1504/159679l.jpg"
-  ],
+  "pictures": [],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T01:57:22.911Z",
+  "tmdb_updated_at": "2026-11-15T02:16:30.772Z",
   "simkl_id": 3273464,
   "episodes_data": [
     {
@@ -65,7 +62,8 @@
       "airedDate": "2026-10-04T00:00:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 1"
     },
     {
       "episode": 2,
@@ -75,7 +73,8 @@
       "airedDate": "2026-10-11T00:00:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 2"
     },
     {
       "episode": 3,
@@ -85,7 +84,8 @@
       "airedDate": "2026-10-18T00:00:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 3"
     },
     {
       "episode": 4,
@@ -95,7 +95,8 @@
       "airedDate": "2026-10-25T00:00:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 4"
     }
   ],
   "specials_data": [],
@@ -113,16 +114,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1683/157043l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1683/157043l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1683/157043l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1683/157043l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1683/157043l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1683/157043l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1683/157043l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1683/157043l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1683/157043l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1683/157043l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1504/159679l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1504/159679l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1504/159679l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1504/159679l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1504/159679l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1504/159679l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1504/159679l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1504/159679l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1504/159679l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1504/159679l.jpg"
     }
   },
   "broadcast": {
@@ -137,8 +138,8 @@
   "popularity": 20605,
   "num_scoring_users": 35,
   "nsfw": "white",
-  "created_at": "2026-04-25T07:28:19+00:00",
-  "updated_at": "2026-04-25T09:14:24+00:00",
+  "created_at": null,
+  "updated_at": null,
   "source": "web_manga",
   "rating": "g",
   "background": null,
@@ -168,5 +169,6 @@
     },
     "num_list_users": 392
   },
-  "mal_details_updated_at": "2026-11-15T01:57:22.452Z"
+  "mal_details_updated_at": "2026-11-15T01:57:22.452Z",
+  "translations_updated_at": "2026-11-15T02:38:56.165Z"
 }

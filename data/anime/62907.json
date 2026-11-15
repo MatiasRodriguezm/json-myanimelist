@@ -33,8 +33,8 @@
   "num_episodes": 12,
   "score": 6.55,
   "mean": 6.55,
-  "numListUsers": 12485,
-  "num_list_users": 12485,
+  "numListUsers": 12487,
+  "num_list_users": 12487,
   "genres": [
     {
       "id": 50,
@@ -51,10 +51,7 @@
       "name": "LIDENFILMS"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1842/153411l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1322/159256l.jpg"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/kn0Vt7Zft7cDIp5YKwLkoNWJbJy.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/mJFNofhp5Khsi35VuWrEho4IhrT.png",
   "tmdb_id": "330505",
@@ -69,7 +66,8 @@
       "airedDate": "2026-10-04T22:00:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/208154659f87959bd7_w.webp",
       "imageUrl": "https://simkl.in/episodes/20/208154659f87959bd7_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Jefe Oji y cosas lindas"
     },
     {
       "episode": 2,
@@ -79,7 +77,8 @@
       "airedDate": "2026-10-11T22:00:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20859583ed9fa6749a_w.webp",
       "imageUrl": "https://simkl.in/episodes/20/20859583ed9fa6749a_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "El jefe Oji y el chico Gacha"
     },
     {
       "episode": 3,
@@ -89,7 +88,8 @@
       "airedDate": "2026-10-18T22:00:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20909169edcdcd0cbb_w.webp",
       "imageUrl": "https://simkl.in/episodes/20/20909169edcdcd0cbb_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Jefe Oji y su primer camarada"
     },
     {
       "episode": 4,
@@ -99,7 +99,8 @@
       "airedDate": "2026-10-25T22:00:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20949163e0e105b486_w.webp",
       "imageUrl": "https://simkl.in/episodes/20/20949163e0e105b486_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Jefe Oji y cosas dulces"
     },
     {
       "episode": 5,
@@ -109,7 +110,8 @@
       "airedDate": "2026-11-01T22:00:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20990949c78a78dd2b_w.webp",
       "imageUrl": "https://simkl.in/episodes/20/20990949c78a78dd2b_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "El jefe Oji y la fiesta para beber en casa"
     },
     {
       "episode": 6,
@@ -119,7 +121,8 @@
       "airedDate": "2026-11-08T22:00:00+09:00",
       "thumbnail": "https://simkl.in/episodes/21/21040989c87dbb6886_w.webp",
       "imageUrl": "https://simkl.in/episodes/21/21040989c87dbb6886_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Episodio 6"
     },
     {
       "episode": 7,
@@ -129,7 +132,8 @@
       "airedDate": "2026-11-15T22:00:00+09:00",
       "thumbnail": "https://simkl.in/episodes/21/2107805748f3d1d0ff_w.webp",
       "imageUrl": "https://simkl.in/episodes/21/2107805748f3d1d0ff_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Episodio 7"
     },
     {
       "episode": 8,
@@ -139,7 +143,8 @@
       "airedDate": "2026-11-22T22:00:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 8"
     },
     {
       "episode": 9,
@@ -149,7 +154,8 @@
       "airedDate": "2026-11-29T22:00:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 9"
     },
     {
       "episode": 10,
@@ -159,7 +165,8 @@
       "airedDate": "2026-12-06T22:00:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 10"
     },
     {
       "episode": 11,
@@ -169,7 +176,8 @@
       "airedDate": "2026-12-13T22:00:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 11"
     },
     {
       "episode": 12,
@@ -179,34 +187,35 @@
       "airedDate": "2026-12-20T22:00:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 12"
     }
   ],
   "specials_data": [],
   "images": {
     "jpg": {
-      "image_url": "https://cdn.myanimelist.net/images/anime/1322/159256.webp",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1322/159256l.webp",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1322/159256.webp",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1322/159256l.webp"
+      "image_url": "https://cdn.myanimelist.net/images/anime/1322/159256.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1322/159256l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1322/159256.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1322/159256l.jpg"
     }
   },
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1322/159256.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1322/159256l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1322/159256.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1322/159256l.jpg"
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1842/153411l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1842/153411l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1842/153411l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1842/153411l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1842/153411l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1842/153411l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1842/153411l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1842/153411l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1842/153411l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1842/153411l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1322/159256l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1322/159256l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1322/159256l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1322/159256l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1322/159256l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1322/159256l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1322/159256l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1322/159256l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1322/159256l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1322/159256l.jpg"
     }
   },
   "broadcast": {
@@ -221,8 +230,8 @@
   "popularity": 6830,
   "num_scoring_users": 1527,
   "nsfw": "white",
-  "created_at": "2025-11-08T10:10:30+00:00",
-  "updated_at": "2026-11-14T20:33:37+00:00",
+  "created_at": null,
+  "updated_at": null,
   "source": "web_manga",
   "rating": "pg_13",
   "background": null,
@@ -239,5 +248,7 @@
     },
     "num_list_users": 12486
   },
-  "mal_details_updated_at": "2026-11-15T01:55:35.583Z"
+  "mal_details_updated_at": "2026-11-15T01:55:35.583Z",
+  "synopsis_es": "Mitsutaka Oji es un apuesto oficinista de 40 años que es admirado por sus colegas. Por supuesto, tiene un secreto que intenta ocultar a todos: le encantan las cosas lindas. Pero con su sobrino yendo a su apartamento, ¡el secreto de Mitsutaka ahora está en peligro!\n\n(Fuente: MU)",
+  "translations_updated_at": "2026-11-15T02:37:51.923Z"
 }

@@ -53,15 +53,11 @@
       "name": "BENTEN Film"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1845/159434l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1812/160409l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1329/160410l.jpg"
-  ],
+  "pictures": [],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T01:58:38.278Z",
+  "tmdb_updated_at": "2026-11-15T02:17:14.744Z",
   "simkl_id": 3212352,
   "episodes_data": [
     {
@@ -72,7 +68,8 @@
       "airedDate": "2027-01-01T00:00:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 1"
     }
   ],
   "specials_data": [],
@@ -90,16 +87,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1845/159434l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1845/159434l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1845/159434l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1845/159434l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1845/159434l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1845/159434l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1845/159434l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1845/159434l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1845/159434l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1845/159434l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1329/160410l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1329/160410l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1329/160410l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1329/160410l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1329/160410l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1329/160410l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1329/160410l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1329/160410l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1329/160410l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1329/160410l.jpg"
     }
   },
   "broadcast": null,
@@ -107,8 +104,8 @@
   "popularity": 12949,
   "num_scoring_users": null,
   "nsfw": "white",
-  "created_at": "2026-08-10T11:20:39+00:00",
-  "updated_at": "2026-08-10T23:43:29+00:00",
+  "created_at": null,
+  "updated_at": null,
   "source": "novel",
   "rating": null,
   "background": null,
@@ -125,5 +122,7 @@
     },
     "num_list_users": 2024
   },
-  "mal_details_updated_at": "2026-11-15T01:58:37.755Z"
+  "mal_details_updated_at": "2026-11-15T01:58:37.755Z",
+  "synopsis_es": "El cuento de hadas de Caperucita Roja es tan clásico como parece, una entrega familiar de galletas y vino. Pero en este viaje en particular, Caperucita Roja... ¡¿se encuentra con un cadáver?! A medida que el misterio comienza a revelarse, rostros familiares de otros cuentos de hadas como \"Cenicienta\", \"Hansel y Gretel\" y \"La Bella Durmiente\" aportan sus innumerables giros y trucos. ¿Podrá resolver el rompecabezas más grande que está en el centro de todo? ¡Ha nacido un nuevo detective!\n\n(Fuente: Noticias MAL)",
+  "translations_updated_at": "2026-11-15T02:39:24.933Z"
 }

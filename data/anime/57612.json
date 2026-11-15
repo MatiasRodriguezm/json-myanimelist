@@ -32,8 +32,8 @@
   "num_episodes": 12,
   "score": 7,
   "mean": 7,
-  "numListUsers": 62512,
-  "num_list_users": 62512,
+  "numListUsers": 62515,
+  "num_list_users": 62515,
   "genres": [
     {
       "id": 1,
@@ -58,13 +58,7 @@
       "name": "Arvo Animation"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1988/140571l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1068/158401l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1137/158402l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1422/160051l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1740/160052l.jpg"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/2KKDIwALX3HJWCjeDnvLa3Ag6ki.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/ah6wYzvs50YeR5PpMUjWKCknako.png",
   "tmdb_id": "230050",
@@ -79,7 +73,8 @@
       "airedDate": "2026-10-08T00:45:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20840453318ed3740a_w.webp",
       "imageUrl": "https://simkl.in/episodes/20/20840453318ed3740a_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Hacia la sombra"
     },
     {
       "episode": 2,
@@ -89,7 +84,8 @@
       "airedDate": "2026-10-15T00:45:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20884325fd576020ff_w.webp",
       "imageUrl": "https://simkl.in/episodes/20/20884325fd576020ff_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Sentencia"
     },
     {
       "episode": 3,
@@ -99,7 +95,8 @@
       "airedDate": "2026-10-22T00:45:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20929759056da8ea60_w.webp",
       "imageUrl": "https://simkl.in/episodes/20/20929759056da8ea60_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Océano Amarillo"
     },
     {
       "episode": 4,
@@ -109,7 +106,8 @@
       "airedDate": "2026-10-29T00:45:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/2096236387397b4490_w.webp",
       "imageUrl": "https://simkl.in/episodes/20/2096236387397b4490_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Comienzo"
     },
     {
       "episode": 5,
@@ -119,7 +117,8 @@
       "airedDate": "2026-11-05T00:45:00+09:00",
       "thumbnail": "https://simkl.in/episodes/21/21016379d29d7eb21c_w.webp",
       "imageUrl": "https://simkl.in/episodes/21/21016379d29d7eb21c_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Error"
     },
     {
       "episode": 6,
@@ -129,7 +128,8 @@
       "airedDate": "2026-11-12T00:45:00+09:00",
       "thumbnail": "https://simkl.in/episodes/21/210529371a96ea2517_w.webp",
       "imageUrl": "https://simkl.in/episodes/21/210529371a96ea2517_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Episodio 6"
     },
     {
       "episode": 7,
@@ -139,7 +139,8 @@
       "airedDate": "2026-11-19T00:45:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 7"
     },
     {
       "episode": 8,
@@ -149,7 +150,8 @@
       "airedDate": "2026-11-26T00:45:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 8"
     }
   ],
   "specials_data": [],
@@ -167,16 +169,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1988/140571l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1988/140571l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1988/140571l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1988/140571l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1988/140571l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1988/140571l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1988/140571l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1988/140571l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1988/140571l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1988/140571l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1740/160052l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1740/160052l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1740/160052l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1740/160052l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1740/160052l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1740/160052l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1740/160052l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1740/160052l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1740/160052l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1740/160052l.jpg"
     }
   },
   "broadcast": {
@@ -191,8 +193,8 @@
   "popularity": 3284,
   "num_scoring_users": 3566,
   "nsfw": "white",
-  "created_at": "2023-12-23T15:56:39+00:00",
-  "updated_at": "2026-11-14T20:20:51+00:00",
+  "created_at": null,
+  "updated_at": null,
   "source": "web_manga",
   "rating": "pg_13",
   "background": "Kikansha no Mahou wa Tokubetsu desu 2nd Season aired on Fuji TV's +Ultra block.",
@@ -222,5 +224,7 @@
     },
     "num_list_users": 62510
   },
-  "mal_details_updated_at": "2026-11-15T01:55:20.814Z"
+  "mal_details_updated_at": "2026-11-15T01:55:20.814Z",
+  "synopsis_es": "Segunda temporada de Kikansha no Mahou wa Tokubetsu desu.",
+  "translations_updated_at": "2026-11-15T02:36:24.876Z"
 }

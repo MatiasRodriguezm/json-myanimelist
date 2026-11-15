@@ -29,8 +29,8 @@
   "num_episodes": null,
   "score": 8.18,
   "mean": 8.18,
-  "numListUsers": 54884,
-  "num_list_users": 54884,
+  "numListUsers": 54890,
+  "num_list_users": 54890,
   "genres": [
     {
       "id": 1,
@@ -59,10 +59,7 @@
       "name": "Toei Animation"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1015/155108l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1624/159991l.jpg"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/aFlyMKCE5hAR0OyUSMSbihFHgif.png",
   "tmdb_id": "312359",
@@ -77,7 +74,8 @@
       "airedDate": "2026-10-11T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/2086548318cc0df524_w.webp",
       "imageUrl": "https://simkl.in/episodes/20/2086548318cc0df524_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "El Dios que destruye"
     },
     {
       "episode": 2,
@@ -87,7 +85,8 @@
       "airedDate": "2026-10-18T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20909369138dbd4a8f_w.webp",
       "imageUrl": "https://simkl.in/episodes/20/20909369138dbd4a8f_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "El Dios de la Destrucción se dirige al Planeta del Kai"
     },
     {
       "episode": 3,
@@ -97,7 +96,8 @@
       "airedDate": "2026-10-25T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20955071c72d76e1a5_w.webp",
       "imageUrl": "https://simkl.in/episodes/20/20955071c72d76e1a5_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "El Dios de la Destrucción se dirige a la Tierra"
     },
     {
       "episode": 4,
@@ -107,7 +107,8 @@
       "airedDate": "2026-11-01T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/21/21002363e456aaec2c_w.webp",
       "imageUrl": "https://simkl.in/episodes/21/21002363e456aaec2c_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "El Dios de los Saiyajin"
     },
     {
       "episode": 5,
@@ -117,7 +118,8 @@
       "airedDate": "2026-11-08T23:15:00+09:00",
       "thumbnail": "https://simkl.in/episodes/21/21046283ae3d66d6e1_w.webp",
       "imageUrl": "https://simkl.in/episodes/21/21046283ae3d66d6e1_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "El Dios de la Destrucción y Son Goku"
     },
     {
       "episode": 6,
@@ -127,7 +129,8 @@
       "airedDate": "2026-11-15T23:15:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null
+      "description": null,
+      "title_es": "Batalla de dioses"
     },
     {
       "episode": 7,
@@ -137,7 +140,8 @@
       "airedDate": "2026-11-22T23:15:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 7"
     },
     {
       "episode": 8,
@@ -147,7 +151,8 @@
       "airedDate": "2026-11-29T23:15:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 8"
     }
   ],
   "specials_data": [],
@@ -165,16 +170,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1015/155108l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1015/155108l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1015/155108l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1015/155108l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1015/155108l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1015/155108l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1015/155108l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1015/155108l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1015/155108l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1015/155108l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1624/159991l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1624/159991l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1624/159991l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1624/159991l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1624/159991l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1624/159991l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1624/159991l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1624/159991l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1624/159991l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1624/159991l.jpg"
     }
   },
   "broadcast": {
@@ -189,8 +194,8 @@
   "popularity": 3537,
   "num_scoring_users": 7399,
   "nsfw": "white",
-  "created_at": "2026-01-25T09:22:20+00:00",
-  "updated_at": "2026-10-11T15:55:49+00:00",
+  "created_at": null,
+  "updated_at": null,
   "source": "manga",
   "rating": "pg_13",
   "background": null,
@@ -232,5 +237,7 @@
     },
     "num_list_users": 54887
   },
-  "mal_details_updated_at": "2026-11-15T01:55:01.363Z"
+  "mal_details_updated_at": "2026-11-15T01:55:01.363Z",
+  "synopsis_es": "Dragon Ball Super: Beerus, un proyecto que se inició hace unos años, es la edición recientemente MEJORADA del anime Dragon Ball Super. MEJORADA por la última expresión visual, cada escena, especialmente las escenas de batalla, es aún más inmersiva, proporcionando una reproducción más fiel y detallada de la obra original de Akira Toriyama, y ​​ofrecerá una calidad que seguramente satisfará plenamente al público.\n\n(Fuente: sitio web oficial)",
+  "translations_updated_at": "2026-11-15T02:38:27.627Z"
 }

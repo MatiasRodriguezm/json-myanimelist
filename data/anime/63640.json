@@ -51,14 +51,11 @@
       "name": "A-1 Pictures"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1716/160015l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1122/160916l.jpg"
-  ],
+  "pictures": [],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T01:58:14.961Z",
+  "tmdb_updated_at": "2026-11-15T02:17:02.586Z",
   "simkl_id": 3041302,
   "episodes_data": [
     {
@@ -69,7 +66,8 @@
       "airedDate": "2027-01-08T23:30:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 1"
     }
   ],
   "specials_data": [],
@@ -87,16 +85,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1716/160015l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1716/160015l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1716/160015l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1716/160015l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1716/160015l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1716/160015l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1716/160015l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1716/160015l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1716/160015l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1716/160015l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1122/160916l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1122/160916l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1122/160916l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1122/160916l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1122/160916l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1122/160916l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1122/160916l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1122/160916l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1122/160916l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1122/160916l.jpg"
     }
   },
   "broadcast": {
@@ -111,8 +109,8 @@
   "popularity": 7069,
   "num_scoring_users": 6,
   "nsfw": "white",
-  "created_at": "2026-03-06T09:18:10+00:00",
-  "updated_at": "2026-11-12T21:19:59+00:00",
+  "created_at": null,
+  "updated_at": null,
   "source": "manga",
   "rating": null,
   "background": "Bless aired on Fuji TV's noitaminA block.",
@@ -129,5 +127,7 @@
     },
     "num_list_users": 11445
   },
-  "mal_details_updated_at": "2026-11-15T01:58:14.500Z"
+  "mal_details_updated_at": "2026-11-15T01:58:14.500Z",
+  "synopsis_es": "En un aula bulliciosa, los pensamientos de Aia Udagawa, de 15 años, están lejos del tema en cuestión. Mientras sus compañeros de clase lo seleccionan como modelo para el Concurso de Artistas del Festival de Aoi debido a su experiencia pasada como modelo, Udagawa observa a Jun Sumisaki, una chica alta y torpe que parece avergonzada por sus pecas únicas y su impresionante altura. Están emparejados como modelo y estilista, pero Udagawa lamenta derrotado su sueño abandonado de convertirse en maquillador.\n\nUdagawa hace tiempo que está convencido de que no tiene talento y Sumisaki carece de confianza para mantener la cabeza en alto y hacer alarde de sus impresionantes rasgos. Aun así, Sumisaki propone que cambien: Udagawa tendrá toda la libertad creativa y se pavoneará con valentía en la pasarela como una vez le enseñó su madre. Estarán presentes figuras notables de la industria del glamour, pero puede resultar ser el empujón que Udagawa necesita para regresar a la escena de la moda y la belleza y conquistarla junto a su modelo favorita.\n\n[Escrito por MAL Rewrite]",
+  "translations_updated_at": "2026-11-15T02:38:37.041Z"
 }

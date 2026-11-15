@@ -49,13 +49,11 @@
     }
   ],
   "studios": [],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1000/152184l.jpg"
-  ],
+  "pictures": [],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T01:58:52.222Z",
+  "tmdb_updated_at": "2026-11-15T02:17:23.004Z",
   "simkl_id": 2498112,
   "episodes_data": [
     {
@@ -66,7 +64,8 @@
       "airedDate": "2025-07-18T00:00:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/204603256bd7a7bdbb_w.webp",
       "imageUrl": "https://simkl.in/episodes/20/204603256bd7a7bdbb_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Película 1"
     },
     {
       "episode": 2,
@@ -76,7 +75,8 @@
       "airedDate": null,
       "thumbnail": null,
       "imageUrl": null,
-      "description": null
+      "description": null,
+      "title_es": "Película 2"
     },
     {
       "episode": 3,
@@ -86,7 +86,8 @@
       "airedDate": null,
       "thumbnail": null,
       "imageUrl": null,
-      "description": null
+      "description": null,
+      "title_es": "Película 3"
     }
   ],
   "specials_data": [
@@ -98,7 +99,8 @@
       "airedDate": "2025-06-20T00:00:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null
+      "description": null,
+      "title_es": "Capítulo 1 x Cines TOHO: Curso de Maneras de Colaboración"
     }
   ],
   "images": {
@@ -132,8 +134,8 @@
   "popularity": 2248,
   "num_scoring_users": 4,
   "nsfw": "white",
-  "created_at": "2025-09-23T01:39:10+00:00",
-  "updated_at": "2026-07-31T06:51:20+00:00",
+  "created_at": null,
+  "updated_at": null,
   "source": "manga",
   "rating": "r",
   "background": null,
@@ -175,5 +177,7 @@
     },
     "num_list_users": 114637
   },
-  "mal_details_updated_at": "2026-11-15T01:58:51.431Z"
+  "mal_details_updated_at": "2026-11-15T01:58:51.431Z",
+  "synopsis_es": "Segunda película anime de la trilogía adaptación del Infinity Castle Arc.",
+  "translations_updated_at": "2026-11-15T02:37:34.907Z"
 }

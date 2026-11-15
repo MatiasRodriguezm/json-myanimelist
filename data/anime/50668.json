@@ -32,8 +32,8 @@
   "num_episodes": 1,
   "score": null,
   "mean": null,
-  "numListUsers": 49096,
-  "num_list_users": 49096,
+  "numListUsers": 49097,
+  "num_list_users": 49097,
   "genres": [
     {
       "id": 7,
@@ -50,16 +50,7 @@
       "name": "ufotable"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1995/120244l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1630/121029l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1121/156211l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1054/158927l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1988/159273l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1403/159274l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1037/160326l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1701/160750l.jpg"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/eTs5EnaQtnMDfwawMFDoVZLs7Fp.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/dB3aLebYhosLHTtx648z16SzzCq.png",
   "tmdb_id": "920167",
@@ -74,7 +65,8 @@
       "airedDate": "2026-11-20T00:00:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null
+      "description": null,
+      "title_es": "Película completa"
     }
   ],
   "specials_data": [],
@@ -92,16 +84,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1995/120244l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1995/120244l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1995/120244l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1995/120244l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1995/120244l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1995/120244l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1995/120244l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1995/120244l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1995/120244l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1995/120244l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1403/159274l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1403/159274l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1403/159274l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1403/159274l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1403/159274l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1403/159274l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1403/159274l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1403/159274l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1403/159274l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1403/159274l.jpg"
     }
   },
   "broadcast": null,
@@ -109,8 +101,8 @@
   "popularity": 3768,
   "num_scoring_users": 4,
   "nsfw": "white",
-  "created_at": "2021-12-26T15:25:45+00:00",
-  "updated_at": "2026-09-30T11:03:54+00:00",
+  "created_at": null,
+  "updated_at": null,
   "source": "visual_novel",
   "rating": null,
   "background": null,
@@ -127,5 +119,7 @@
     },
     "num_list_users": 49095
   },
-  "mal_details_updated_at": "2026-11-15T01:56:50.035Z"
+  "mal_details_updated_at": "2026-11-15T01:56:50.035Z",
+  "synopsis_es": "Ambientada cerca del final del período Showa, a finales de la década de 1980, se rumorea que una antigua mansión en la ciudad de Misaki es el hogar de una bruja.\n\nAoko ingresa abruptamente al mundo de los magos después de que su abuelo de repente decide que Aoko se convierta en la sucesora de la familia Aozaki. Desde entonces, Aoko se muda a la Mansión Kuonji y comienza a aprender hechicería de la joven maga Alice Kuonji, la rumoreada bruja de la mansión. Después de presenciar a los dos usando magia, Soujuurou Shizuki también se ve obligado a vivir con ellos hasta que se descubre una runa para eliminar sus recuerdos. \n\n(Fuente: Type-Moon Fandom Wiki)",
+  "translations_updated_at": "2026-11-15T02:36:01.120Z"
 }

@@ -31,8 +31,8 @@
   "num_episodes": null,
   "score": null,
   "mean": null,
-  "numListUsers": 20590,
-  "num_list_users": 20590,
+  "numListUsers": 20592,
+  "num_list_users": 20592,
   "genres": [
     {
       "id": 4,
@@ -53,13 +53,11 @@
       "name": "SynergySP"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1678/154623l.jpg"
-  ],
+  "pictures": [],
   "backdrop_url": null,
   "logo_url": "https://image.tmdb.org/t/p/w500/9p78tIGQHH2WrTTn6yeLAf9Y6FI.png",
   "tmdb_id": "309176",
-  "tmdb_updated_at": "2026-11-15T01:58:07.458Z",
+  "tmdb_updated_at": "2026-11-15T02:16:58.810Z",
   "simkl_id": 2975270,
   "episodes_data": [
     {
@@ -70,7 +68,8 @@
       "airedDate": "2027-01-07T00:26:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 1"
     }
   ],
   "specials_data": [],
@@ -112,8 +111,8 @@
   "popularity": 5612,
   "num_scoring_users": null,
   "nsfw": "white",
-  "created_at": "2025-12-25T09:23:11+00:00",
-  "updated_at": "2026-10-15T10:16:29+00:00",
+  "created_at": null,
+  "updated_at": null,
   "source": "web_manga",
   "rating": null,
   "background": "Jirai nan desu ka? Chihara-san aired on MBS and TBS' Super Animeism Turbo block.",
@@ -130,5 +129,7 @@
     },
     "num_list_users": 20590
   },
-  "mal_details_updated_at": "2026-11-15T01:58:06.963Z"
+  "mal_details_updated_at": "2026-11-15T01:58:06.963Z",
+  "synopsis_es": "Es el comienzo de un nuevo semestre, y Kuroki, estudiante de secundaria, se encuentra sentado junto a la chica de la que todos susurran: Mai Chihara. Con su moda gótica, cabello negro azabache y mirada intensa, se dice que Chihara es una chica \"mina terrestre\" o jirai-kei, la estética oscura e hiperfemenina a menudo asociada con tendencias yandere y personalidades inestables. Pero cuando Kuroki accidentalmente llama la atención de Chihara, él descubre que ella no es tan inestable como la gente dice. Debajo del aura intimidante hay una chica sorprendentemente dulce... aunque un poco rara.\n\nVacilante, Kuroki comienza a aprender más sobre Chihara y sus extrañas peculiaridades. ¿Hay algo más en ella que su volátil reputación? ¿O toda la ropa oscura es sólo una bandera roja disfrazada?\n\n(Fuente: Seven Seas Entertainment)",
+  "translations_updated_at": "2026-11-15T02:38:13.564Z"
 }

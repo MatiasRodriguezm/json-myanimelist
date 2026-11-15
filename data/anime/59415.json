@@ -47,10 +47,7 @@
       "name": "Production +h."
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1450/144524l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1465/153763l.jpg"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/fvzlpOEJS2eIPtcIwQi4oYcBwdh.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/53KwUKPlfED6y896SfvB4C85Cgh.svg",
   "tmdb_id": "306565",
@@ -65,7 +62,8 @@
       "airedDate": "2026-10-14T01:45:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20877531884feb12c0_w.webp",
       "imageUrl": "https://simkl.in/episodes/20/20877531884feb12c0_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Episodio 1"
     },
     {
       "episode": 2,
@@ -75,7 +73,8 @@
       "airedDate": "2026-10-21T01:45:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/209167612b0653b0c8_w.webp",
       "imageUrl": "https://simkl.in/episodes/20/209167612b0653b0c8_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Episodio 2"
     },
     {
       "episode": 3,
@@ -85,7 +84,8 @@
       "airedDate": "2026-10-28T01:45:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20961803d46c919089_w.webp",
       "imageUrl": "https://simkl.in/episodes/20/20961803d46c919089_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Episodio 3"
     },
     {
       "episode": 4,
@@ -95,7 +95,8 @@
       "airedDate": "2026-11-04T01:45:00+09:00",
       "thumbnail": "https://simkl.in/episodes/21/21009673fec1d4bf5e_w.webp",
       "imageUrl": "https://simkl.in/episodes/21/21009673fec1d4bf5e_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Episodio 4"
     },
     {
       "episode": 5,
@@ -105,7 +106,8 @@
       "airedDate": "2026-11-11T01:45:00+09:00",
       "thumbnail": "https://simkl.in/episodes/21/21052921a119049efd_w.webp",
       "imageUrl": "https://simkl.in/episodes/21/21052921a119049efd_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Episodio 5"
     },
     {
       "episode": 6,
@@ -115,7 +117,8 @@
       "airedDate": "2026-11-18T01:45:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 6"
     },
     {
       "episode": 7,
@@ -125,7 +128,8 @@
       "airedDate": "2026-11-25T01:45:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 7"
     },
     {
       "episode": 8,
@@ -135,7 +139,8 @@
       "airedDate": "2026-12-02T01:45:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 8"
     }
   ],
   "specials_data": [],
@@ -153,16 +158,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1450/144524l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1450/144524l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1450/144524l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1450/144524l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1450/144524l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1450/144524l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1450/144524l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1450/144524l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1450/144524l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1450/144524l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1465/153763l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1465/153763l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1465/153763l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1465/153763l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1465/153763l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1465/153763l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1465/153763l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1465/153763l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1465/153763l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1465/153763l.jpg"
     }
   },
   "broadcast": {
@@ -177,8 +182,8 @@
   "popularity": 9379,
   "num_scoring_users": 638,
   "nsfw": "white",
-  "created_at": "2024-07-28T14:12:42+00:00",
-  "updated_at": "2026-10-14T11:59:18+00:00",
+  "created_at": null,
+  "updated_at": null,
   "source": "mixed_media",
   "rating": "pg_13",
   "background": null,
@@ -207,5 +212,7 @@
     },
     "num_list_users": 5646
   },
-  "mal_details_updated_at": "2026-11-15T01:56:47.059Z"
+  "mal_details_updated_at": "2026-11-15T01:56:47.059Z",
+  "synopsis_es": "En un futuro próximo, el deporte electrónico Dark Machine se ha convertido en un fenómeno global que está remodelando la sociedad e incluso la economía de Japón. La única región de Japón designada como zona económica especial para Dark Machine es Golden Valley, una ciudad dominada por su mejor jugador reinante, Ajima, la séptima persona en heredar el título de Senki, el jugador más fuerte del juego.\n\nTras las últimas palabras de su difunto abuelo, \"Encuentra a Senki\", Kairi viaja a Golden Valley. Allí, conoce inesperadamente a Rudra, una chica perseguida por el grupo de Ajima, los Aldabil. Atraída por sus problemas, Kairi se convierte en jugadora de Dark Machine. A través de una intensa batalla tras otra, comienza a desarrollar su propio talento oculto.\n\nA medida que Kairi asciende de rango, se acerca a enfrentar a Senki y a descubrir la verdad detrás del mensaje final de su abuelo. Su lucha por llegar a la cima de Dark Machine está a punto de comenzar.\n\n(Fuente: Noticias MAL)",
+  "translations_updated_at": "2026-11-15T02:36:37.653Z"
 }

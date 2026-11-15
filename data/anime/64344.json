@@ -31,8 +31,8 @@
   "num_episodes": 12,
   "score": 5.38,
   "mean": 5.38,
-  "numListUsers": 4849,
-  "num_list_users": 4849,
+  "numListUsers": 4850,
+  "num_list_users": 4850,
   "genres": [
     {
       "id": 18,
@@ -49,10 +49,7 @@
       "name": "Kayac Animation"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1315/158345l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1496/160013l.jpg"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/v4HLZ8FsBeYPjMBQZ1JFgrhkhG8.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/nBHBdJyw5tZXQW0U4KhoZkJOqrQ.png",
   "tmdb_id": "323937",
@@ -67,7 +64,8 @@
       "airedDate": "2026-10-08T00:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20834565f237b90270_w.webp",
       "imageUrl": "https://simkl.in/episodes/20/20834565f237b90270_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Un guardián a la antigua usanza"
     },
     {
       "episode": 2,
@@ -77,7 +75,8 @@
       "airedDate": "2026-10-15T00:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/208777852fbadaaafc_w.webp",
       "imageUrl": "https://simkl.in/episodes/20/208777852fbadaaafc_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Un as, pero sólo por su rostro"
     },
     {
       "episode": 3,
@@ -87,7 +86,8 @@
       "airedDate": "2026-10-22T00:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20929757c69ca9e7a2_w.webp",
       "imageUrl": "https://simkl.in/episodes/20/20929757c69ca9e7a2_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Resultado de una confesión"
     },
     {
       "episode": 4,
@@ -97,7 +97,8 @@
       "airedDate": "2026-10-29T00:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20962361188a21c814_w.webp",
       "imageUrl": "https://simkl.in/episodes/20/20962361188a21c814_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "El estudiante transferido de oro"
     },
     {
       "episode": 5,
@@ -107,7 +108,8 @@
       "airedDate": "2026-11-05T00:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/21/2101637761ef2ef99f_w.webp",
       "imageUrl": "https://simkl.in/episodes/21/2101637761ef2ef99f_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Con amigos como estos..."
     },
     {
       "episode": 6,
@@ -117,7 +119,8 @@
       "airedDate": "2026-11-12T00:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/21/2105293585aceee379_w.webp",
       "imageUrl": "https://simkl.in/episodes/21/2105293585aceee379_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Episodio 6"
     },
     {
       "episode": 7,
@@ -127,7 +130,8 @@
       "airedDate": "2026-11-19T00:30:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 7"
     },
     {
       "episode": 8,
@@ -137,7 +141,8 @@
       "airedDate": "2026-11-26T00:30:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 8"
     }
   ],
   "specials_data": [],
@@ -155,16 +160,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1315/158345l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1315/158345l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1315/158345l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1315/158345l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1315/158345l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1315/158345l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1315/158345l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1315/158345l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1315/158345l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1315/158345l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1496/160013l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1496/160013l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1496/160013l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1496/160013l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1496/160013l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1496/160013l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1496/160013l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1496/160013l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1496/160013l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1496/160013l.jpg"
     }
   },
   "broadcast": {
@@ -179,8 +184,8 @@
   "popularity": 9891,
   "num_scoring_users": 675,
   "nsfw": "white",
-  "created_at": "2026-06-03T19:21:01+00:00",
-  "updated_at": "2026-10-22T18:56:50+00:00",
+  "created_at": null,
+  "updated_at": null,
   "source": "original",
   "rating": "pg_13",
   "background": "New anime part of the Good Smile Company's Gattai-shin Series (The God of Combined Series) 25th anniversary project.",
@@ -209,5 +214,7 @@
     },
     "num_list_users": 4850
   },
-  "mal_details_updated_at": "2026-11-15T01:56:48.845Z"
+  "mal_details_updated_at": "2026-11-15T01:56:48.845Z",
+  "synopsis_es": "Han pasado veinte años desde que el robot combinado Dandivine derrotó a los misteriosos invasores conocidos como Aposdoll. Una vez desaparecida la amenaza, el mundo ha disfrutado de una larga era de paz. Pero para el fabricante de juguetes Casga, cuya fortuna se construyó gracias a la popularidad de los productos Dandivine, esa paz ha tenido un costo. Habiendo confiado demasiado en la fama del legendario robot, la empresa ha ido cayendo constantemente en declive.\n\nDesesperado por revivir tanto a Dandivine como su negocio en problemas, el presidente de Casga, Genjurou Shijima, sueña con el regreso del robot, incluso si eso significa alterar la paz. Luego, como en respuesta a su deseo, los Aposdoll reaparecen repentinamente en Tokio.\n\nMientras el pánico se extiende entre una población que no ha conocido nada más que la paz durante dos décadas, el estudiante de secundaria Gekiha Shijima es reclutado por su tío, Yuusaku Kuroiwa, el ex piloto principal de Dandivine. Atraído a la cabina de la legendaria máquina, Gekiha se encuentra en el centro de una nueva batalla.\n\n¿Por qué han regresado los Aposdoll después de todos estos años? ¿Y podrá Dandivine levantarse una vez más para enfrentar la amenaza? Un nuevo capítulo en la lucha por la humanidad está a punto de comenzar.\n\n(Fuente: Noticias MAL)",
+  "translations_updated_at": "2026-11-15T02:39:03.586Z"
 }

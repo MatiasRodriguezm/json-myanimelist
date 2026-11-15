@@ -53,13 +53,11 @@
       "name": "Imageworks Studio"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1782/158664l.jpg"
-  ],
+  "pictures": [],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T01:55:32.794Z",
+  "tmdb_updated_at": "2026-11-15T02:16:04.230Z",
   "simkl_id": 3269450,
   "episodes_data": [
     {
@@ -70,7 +68,8 @@
       "airedDate": "2026-10-02T00:00:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 1"
     },
     {
       "episode": 2,
@@ -80,7 +79,8 @@
       "airedDate": "2026-10-09T00:00:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 2"
     },
     {
       "episode": 3,
@@ -90,7 +90,8 @@
       "airedDate": "2026-10-16T00:00:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 3"
     },
     {
       "episode": 4,
@@ -100,7 +101,8 @@
       "airedDate": "2026-10-23T00:00:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 4"
     },
     {
       "episode": 5,
@@ -110,7 +112,8 @@
       "airedDate": "2026-10-30T00:00:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 5"
     },
     {
       "episode": 6,
@@ -120,7 +123,8 @@
       "airedDate": "2026-11-06T00:00:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 6"
     },
     {
       "episode": 7,
@@ -130,7 +134,8 @@
       "airedDate": "2026-11-13T00:00:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 7"
     },
     {
       "episode": 8,
@@ -140,7 +145,8 @@
       "airedDate": "2026-11-20T00:00:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 8"
     },
     {
       "episode": 9,
@@ -150,7 +156,8 @@
       "airedDate": "2026-11-27T00:00:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 9"
     },
     {
       "episode": 10,
@@ -160,7 +167,8 @@
       "airedDate": "2026-12-04T00:00:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 10"
     },
     {
       "episode": 11,
@@ -170,7 +178,8 @@
       "airedDate": "2026-12-11T00:00:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 11"
     },
     {
       "episode": 12,
@@ -180,7 +189,8 @@
       "airedDate": "2026-12-18T00:00:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 12"
     }
   ],
   "specials_data": [],
@@ -222,8 +232,8 @@
   "popularity": 8808,
   "num_scoring_users": 396,
   "nsfw": "white",
-  "created_at": "2026-05-12T03:47:47+00:00",
-  "updated_at": "2026-10-01T23:57:48+00:00",
+  "created_at": null,
+  "updated_at": null,
   "source": "web_manga",
   "rating": "pg_13",
   "background": null,
@@ -253,5 +263,7 @@
     },
     "num_list_users": 6629
   },
-  "mal_details_updated_at": "2026-11-15T01:55:32.308Z"
+  "mal_details_updated_at": "2026-11-15T01:55:32.308Z",
+  "synopsis_es": "Segunda temporada de Kizu darake Seijo yori Houfuku wo Komete.",
+  "translations_updated_at": "2026-11-15T02:38:57.815Z"
 }

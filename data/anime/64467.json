@@ -59,14 +59,11 @@
       "name": "Project No.9"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1934/158698l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1970/160423l.jpg"
-  ],
+  "pictures": [],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-15T01:58:25.526Z",
+  "tmdb_updated_at": "2026-11-15T02:17:07.842Z",
   "simkl_id": 3164230,
   "episodes_data": [
     {
@@ -77,7 +74,8 @@
       "airedDate": "2027-01-01T00:00:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 1"
     }
   ],
   "specials_data": [],
@@ -95,16 +93,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1934/158698l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1934/158698l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1934/158698l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1934/158698l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1934/158698l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1934/158698l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1934/158698l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1934/158698l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1934/158698l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1934/158698l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1970/160423l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1970/160423l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1970/160423l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1970/160423l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1970/160423l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1970/160423l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1970/160423l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1970/160423l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1970/160423l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1970/160423l.jpg"
     }
   },
   "broadcast": null,
@@ -112,8 +110,8 @@
   "popularity": 9463,
   "num_scoring_users": null,
   "nsfw": "white",
-  "created_at": "2026-06-25T10:08:12+00:00",
-  "updated_at": "2026-10-06T08:41:16+00:00",
+  "created_at": null,
+  "updated_at": null,
   "source": "manga",
   "rating": null,
   "background": null,
@@ -130,5 +128,7 @@
     },
     "num_list_users": 5523
   },
-  "mal_details_updated_at": "2026-11-15T01:58:24.973Z"
+  "mal_details_updated_at": "2026-11-15T01:58:24.973Z",
+  "synopsis_es": "Después de que el héroe derrotó al señor de los demonios, el mundo finalmente está en paz... ¡dejando al joven aldeano de Beginnerville en un aprieto! Sin un señor demonio al que derrotar, la gente no necesita pociones ni objetos... dejando la tienda de objetos del aldeano, The Nest, vacía y sin vida. ¡A este paso, el aldeano podría tener que cerrar The Nest...! Pero de repente aparece una chica misteriosa y todo cambia...\n\n(Fuente: Kodansha)",
+  "translations_updated_at": "2026-11-15T02:39:09.357Z"
 }

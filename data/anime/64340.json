@@ -31,8 +31,8 @@
   "num_episodes": 12,
   "score": 7.51,
   "mean": 7.51,
-  "numListUsers": 70577,
-  "num_list_users": 70577,
+  "numListUsers": 70585,
+  "num_list_users": 70585,
   "genres": [
     {
       "id": 1,
@@ -53,13 +53,7 @@
       "name": "J.C.Staff"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1382/158336l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1605/158864l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1127/159616l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1386/160022l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1292/160023l.jpg"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/745xqHbiUWwO51TM60MXRCR4Onm.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/ki2DwqPbI2LcWeOQrq7dtaDIHFB.png",
   "tmdb_id": "324502",
@@ -74,7 +68,8 @@
       "airedDate": "2026-09-27T23:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20767409991ea889f0_w.webp",
       "imageUrl": "https://simkl.in/episodes/20/20767409991ea889f0_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Clase legendaria"
     },
     {
       "episode": 2,
@@ -84,7 +79,8 @@
       "airedDate": "2026-10-04T23:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/208153970681513e53_w.webp",
       "imageUrl": "https://simkl.in/episodes/20/208153970681513e53_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Primer paso para ser herrero"
     },
     {
       "episode": 3,
@@ -94,7 +90,8 @@
       "airedDate": "2026-10-11T23:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/208594795d76fd1ac3_w.webp",
       "imageUrl": "https://simkl.in/episodes/20/208594795d76fd1ac3_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Segunda Clase"
     },
     {
       "episode": 4,
@@ -104,7 +101,8 @@
       "airedDate": "2026-10-18T23:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/2090930388b931d1c9_w.webp",
       "imageUrl": "https://simkl.in/episodes/20/2090930388b931d1c9_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Enfrentamiento de elaboración de objetos"
     },
     {
       "episode": 5,
@@ -114,7 +112,8 @@
       "airedDate": "2026-10-25T23:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/209491473a2dd3f71d_w.webp",
       "imageUrl": "https://simkl.in/episodes/20/209491473a2dd3f71d_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Confianza de la familia"
     },
     {
       "episode": 6,
@@ -124,7 +123,8 @@
       "airedDate": "2026-11-01T23:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/209971872be13c9096_w.webp",
       "imageUrl": "https://simkl.in/episodes/20/209971872be13c9096_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Primera incursión contra jefes"
     },
     {
       "episode": 7,
@@ -134,7 +134,8 @@
       "airedDate": "2026-11-08T23:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/21/210410390b757574bf_w.webp",
       "imageUrl": "https://simkl.in/episodes/21/210410390b757574bf_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Episodio 7"
     },
     {
       "episode": 8,
@@ -144,7 +145,8 @@
       "airedDate": "2026-11-15T23:30:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 8"
     },
     {
       "episode": 9,
@@ -154,7 +156,8 @@
       "airedDate": "2026-11-22T23:30:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 9"
     },
     {
       "episode": 10,
@@ -164,7 +167,8 @@
       "airedDate": "2026-11-29T23:30:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 10"
     },
     {
       "episode": 11,
@@ -174,7 +178,8 @@
       "airedDate": "2026-12-06T23:30:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 11"
     },
     {
       "episode": 12,
@@ -184,7 +189,8 @@
       "airedDate": "2026-12-13T23:30:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 12"
     }
   ],
   "specials_data": [],
@@ -202,16 +208,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1382/158336l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1382/158336l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1382/158336l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1382/158336l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1382/158336l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1382/158336l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1382/158336l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1382/158336l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1382/158336l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1382/158336l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1386/160022l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1386/160022l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1386/160022l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1386/160022l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1386/160022l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1386/160022l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1386/160022l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1386/160022l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1386/160022l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1386/160022l.jpg"
     }
   },
   "broadcast": {
@@ -226,8 +232,8 @@
   "popularity": 3065,
   "num_scoring_users": 10868,
   "nsfw": "white",
-  "created_at": "2026-06-03T04:54:23+00:00",
-  "updated_at": "2026-10-02T23:35:03+00:00",
+  "created_at": null,
+  "updated_at": null,
   "source": "web_manga",
   "rating": "pg_13",
   "background": "Each episode was streamed six days in advance of the TV broadcast starting on September 27, 2026, on Crunchyroll and Prime Video. Regular broadcasting began on October 2, 2026.",
@@ -278,5 +284,7 @@
     },
     "num_list_users": 70573
   },
-  "mal_details_updated_at": "2026-11-15T01:55:09.989Z"
+  "mal_details_updated_at": "2026-11-15T01:55:09.989Z",
+  "synopsis_es": "Shin Youngwoo (también conocido como Grid), un hombre desafortunado en la vida y un jugador de bajo nivel en el popular juego de realidad virtual \"Satisfy\", encuentra un objeto poderoso que le otorga un raro título de clase legendario: \"Sucesor de Pagma\". Ahora es un hábil herrero que puede forjar armas únicas y equipar el equipo más poderoso del juego. Grid decide usar sus nuevas habilidades para alcanzar fama y fortuna, pero cuando su propia existencia comienza a generar problemas en Satisfy, se da cuenta de que la vida como leyenda puede ser más de lo que esperaba...\n\n(Fuente: Tapas Media)",
+  "translations_updated_at": "2026-11-15T02:39:02.076Z"
 }

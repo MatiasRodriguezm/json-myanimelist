@@ -29,8 +29,8 @@
   "num_episodes": 23,
   "score": 6.39,
   "mean": 6.39,
-  "numListUsers": 12280,
-  "num_list_users": 12280,
+  "numListUsers": 12281,
+  "num_list_users": 12281,
   "genres": [
     {
       "id": 1,
@@ -51,13 +51,7 @@
       "name": "Konami animation"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1772/151303l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1562/152258l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1405/156377l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1827/159314l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1579/160352l.jpg"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/sqfxKwR0mYva1LJlkMqIMNb2W36.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/mVemzOPsHUCFTFUAmPEueKDFTxC.png",
   "tmdb_id": "285710",
@@ -72,7 +66,8 @@
       "airedDate": "2026-10-03T23:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/2081470955b9f221fb_w.webp",
       "imageUrl": "https://simkl.in/episodes/20/2081470955b9f221fb_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Ciudad natal"
     },
     {
       "episode": 2,
@@ -82,7 +77,8 @@
       "airedDate": "2026-10-13T23:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/2091675349c8609f52_w.webp",
       "imageUrl": "https://simkl.in/episodes/20/2091675349c8609f52_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Príncipe Loco Luca"
     },
     {
       "episode": 3,
@@ -92,7 +88,8 @@
       "airedDate": "2026-10-20T23:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20916755ef528f8f6d_w.webp",
       "imageUrl": "https://simkl.in/episodes/20/20916755ef528f8f6d_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Las Runas"
     },
     {
       "episode": 4,
@@ -102,7 +99,8 @@
       "airedDate": "2026-10-27T23:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/209618018e3fcfe93f_w.webp",
       "imageUrl": "https://simkl.in/episodes/20/209618018e3fcfe93f_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Punto de inflexión"
     },
     {
       "episode": 5,
@@ -112,7 +110,8 @@
       "airedDate": "2026-11-03T23:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/21/21009667dae849ff6d_w.webp",
       "imageUrl": "https://simkl.in/episodes/21/21009667dae849ff6d_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Separando caminos"
     },
     {
       "episode": 6,
@@ -122,7 +121,8 @@
       "airedDate": "2026-11-10T23:30:00+09:00",
       "thumbnail": "https://simkl.in/episodes/21/2105291945e803832d_w.webp",
       "imageUrl": "https://simkl.in/episodes/21/2105291945e803832d_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "El estratega"
     },
     {
       "episode": 7,
@@ -132,7 +132,8 @@
       "airedDate": "2026-11-17T23:30:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 7"
     },
     {
       "episode": 8,
@@ -142,7 +143,8 @@
       "airedDate": "2026-11-24T23:30:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 8"
     },
     {
       "episode": 9,
@@ -152,7 +154,8 @@
       "airedDate": "2026-12-01T23:30:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 9"
     },
     {
       "episode": 10,
@@ -162,7 +165,8 @@
       "airedDate": "2026-12-08T23:30:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 10"
     },
     {
       "episode": 11,
@@ -172,7 +176,8 @@
       "airedDate": "2026-12-15T23:30:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 11"
     },
     {
       "episode": 12,
@@ -182,7 +187,8 @@
       "airedDate": "2026-12-22T23:30:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 12"
     }
   ],
   "specials_data": [],
@@ -200,16 +206,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1772/151303l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1772/151303l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1772/151303l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1772/151303l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1772/151303l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1772/151303l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1772/151303l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1772/151303l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1772/151303l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1772/151303l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1579/160352l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1579/160352l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1579/160352l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1579/160352l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1579/160352l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1579/160352l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1579/160352l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1579/160352l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1579/160352l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1579/160352l.jpg"
     }
   },
   "broadcast": {
@@ -224,8 +230,8 @@
   "popularity": 6870,
   "num_scoring_users": 1298,
   "nsfw": "white",
-  "created_at": "2025-03-03T23:57:57+00:00",
-  "updated_at": "2026-10-13T16:31:03+00:00",
+  "created_at": null,
+  "updated_at": null,
   "source": "game",
   "rating": "pg_13",
   "background": null,
@@ -254,5 +260,7 @@
     },
     "num_list_users": 12278
   },
-  "mal_details_updated_at": "2026-11-15T01:55:41.937Z"
+  "mal_details_updated_at": "2026-11-15T01:55:41.937Z",
+  "synopsis_es": "El héroe de nuestra historia y su amigo Jowy son miembros de la Brigada Juvenil Unicornio, que participó en una prolongada disputa fronteriza entre Highland Kingdom y las ciudades-estado de Jowstown. Unos meses antes, se firmó un acuerdo de verdad entre las dos fuerzas, y ambas estaban felices de ver el fin de los combates. Sin embargo, escondidos bajo la paz momentánea, los fuegos de una nueva guerra seguían ardiendo...\n\n(Fuente: ANN)",
+  "translations_updated_at": "2026-11-15T02:37:02.079Z"
 }

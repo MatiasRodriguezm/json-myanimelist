@@ -29,8 +29,8 @@
   "num_episodes": 13,
   "score": 8.33,
   "mean": 8.33,
-  "numListUsers": 76267,
-  "num_list_users": 76267,
+  "numListUsers": 76273,
+  "num_list_users": 76273,
   "genres": [
     {
       "id": 8,
@@ -51,11 +51,7 @@
       "name": "Studio KAI"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1859/158835l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1323/159589l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1963/159754l.jpg"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/ht6WUmez8cFbwlrFmGdjbYyn3RG.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/a5okATkpmXxAClSnAjGP4ums77c.png",
   "tmdb_id": "283428",
@@ -70,7 +66,8 @@
       "airedDate": "2026-10-01T23:56:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/207866214cb1c315fa_w.webp",
       "imageUrl": "https://simkl.in/episodes/20/207866214cb1c315fa_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Nubes y lluvia"
     },
     {
       "episode": 2,
@@ -80,7 +77,8 @@
       "airedDate": "2026-10-08T23:56:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/2084786723c268e855_w.webp",
       "imageUrl": "https://simkl.in/episodes/20/2084786723c268e855_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Parar y seguir"
     },
     {
       "episode": 3,
@@ -90,7 +88,8 @@
       "airedDate": "2026-10-15T23:56:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20877365bfa2f9b609_w.webp",
       "imageUrl": "https://simkl.in/episodes/20/20877365bfa2f9b609_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Sentimientos verdaderos"
     },
     {
       "episode": 4,
@@ -100,7 +99,8 @@
       "airedDate": "2026-10-22T23:56:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20922957a013b0966b_w.webp",
       "imageUrl": "https://simkl.in/episodes/20/20922957a013b0966b_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Alivio"
     },
     {
       "episode": 5,
@@ -110,7 +110,8 @@
       "airedDate": "2026-10-29T23:56:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/2096770999f305e627_w.webp",
       "imageUrl": "https://simkl.in/episodes/20/2096770999f305e627_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Transición"
     },
     {
       "episode": 6,
@@ -120,7 +121,8 @@
       "airedDate": "2026-11-05T23:56:00+09:00",
       "thumbnail": "https://simkl.in/episodes/21/2101577706d715c089_w.webp",
       "imageUrl": "https://simkl.in/episodes/21/2101577706d715c089_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Festival Cultural"
     },
     {
       "episode": 7,
@@ -130,7 +132,8 @@
       "airedDate": "2026-11-12T23:56:00+09:00",
       "thumbnail": "https://simkl.in/episodes/21/21053197d73db47f8a_w.webp",
       "imageUrl": "https://simkl.in/episodes/21/21053197d73db47f8a_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Malentendidos"
     },
     {
       "episode": 8,
@@ -140,7 +143,8 @@
       "airedDate": "2026-11-19T23:56:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 8"
     },
     {
       "episode": 9,
@@ -150,7 +154,8 @@
       "airedDate": "2026-11-26T23:56:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 9"
     },
     {
       "episode": 10,
@@ -160,7 +165,8 @@
       "airedDate": "2026-12-03T23:56:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 10"
     },
     {
       "episode": 11,
@@ -170,7 +176,8 @@
       "airedDate": "2026-12-10T23:56:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 11"
     },
     {
       "episode": 12,
@@ -180,7 +187,8 @@
       "airedDate": "2026-12-17T23:56:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 12"
     }
   ],
   "specials_data": [],
@@ -198,16 +206,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1859/158835l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1859/158835l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1859/158835l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1859/158835l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1859/158835l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1859/158835l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1859/158835l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1859/158835l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1859/158835l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1859/158835l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1963/159754l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1963/159754l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1963/159754l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1963/159754l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1963/159754l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1963/159754l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1963/159754l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1963/159754l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1963/159754l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1963/159754l.jpg"
     }
   },
   "broadcast": {
@@ -222,8 +230,8 @@
   "popularity": 2920,
   "num_scoring_users": 10206,
   "nsfw": "white",
-  "created_at": "2026-07-02T15:38:50+00:00",
-  "updated_at": "2026-11-13T03:47:08+00:00",
+  "created_at": null,
+  "updated_at": null,
   "source": "web_manga",
   "rating": "pg_13",
   "background": null,
@@ -265,5 +273,7 @@
     },
     "num_list_users": 76266
   },
-  "mal_details_updated_at": "2026-11-15T01:54:59.852Z"
+  "mal_details_updated_at": "2026-11-15T01:54:59.852Z",
+  "synopsis_es": "Segunda temporada de Koori no Jouheki.",
+  "translations_updated_at": "2026-11-15T02:39:16.128Z"
 }

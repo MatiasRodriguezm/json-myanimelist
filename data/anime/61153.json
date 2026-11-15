@@ -32,8 +32,8 @@
   "num_episodes": 13,
   "score": 7.06,
   "mean": 7.06,
-  "numListUsers": 34206,
-  "num_list_users": 34206,
+  "numListUsers": 34212,
+  "num_list_users": 34212,
   "genres": [
     {
       "id": 1,
@@ -58,11 +58,7 @@
       "name": "Felix Film"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1999/148320l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1667/148703l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1454/156338l.jpg"
-  ],
+  "pictures": [],
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/wpNi39uaat5A1VhaVpdcQlKuMB5.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w500/uAhOxnSEwued04UICWHncQW1DcZ.png",
   "tmdb_id": "285899",
@@ -77,7 +73,8 @@
       "airedDate": "2026-10-03T22:00:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20809199ef433075b1_w.webp",
       "imageUrl": "https://simkl.in/episodes/20/20809199ef433075b1_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "El Gran Santo Despierta"
     },
     {
       "episode": 2,
@@ -87,7 +84,8 @@
       "airedDate": "2026-10-03T22:00:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/208147874ad6acc0b2_w.webp",
       "imageUrl": "https://simkl.in/episodes/20/208147874ad6acc0b2_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Fia y la Brigada de Caballeros"
     },
     {
       "episode": 3,
@@ -97,7 +95,8 @@
       "airedDate": "2026-10-10T22:00:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20859047f6020e0074_w.webp",
       "imageUrl": "https://simkl.in/episodes/20/20859047f6020e0074_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "El estado de ser de los santos"
     },
     {
       "episode": 4,
@@ -107,7 +106,8 @@
       "airedDate": "2026-10-17T22:00:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/20903397daeebdfb5f_w.webp",
       "imageUrl": "https://simkl.in/episodes/20/20903397daeebdfb5f_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "La Cuarta Brigada de Caballeros Domadores de Monstruos"
     },
     {
       "episode": 5,
@@ -117,7 +117,8 @@
       "airedDate": "2026-10-24T22:00:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/209487055a962d9fad_w.webp",
       "imageUrl": "https://simkl.in/episodes/20/209487055a962d9fad_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Monstruos calamitosos"
     },
     {
       "episode": 6,
@@ -127,7 +128,8 @@
       "airedDate": "2026-10-31T22:00:00+09:00",
       "thumbnail": "https://simkl.in/episodes/20/209967474951acd28d_w.webp",
       "imageUrl": "https://simkl.in/episodes/20/209967474951acd28d_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Un plan para capturar al Rey Negro"
     },
     {
       "episode": 7,
@@ -137,7 +139,8 @@
       "airedDate": "2026-11-07T22:00:00+09:00",
       "thumbnail": "https://simkl.in/episodes/21/21040491fba125eaa6_w.webp",
       "imageUrl": "https://simkl.in/episodes/21/21040491fba125eaa6_w.webp",
-      "description": "Fia and the knights fight several high-ranking monsters."
+      "description": "Fia and the knights fight several high-ranking monsters.",
+      "title_es": "Zavilia"
     },
     {
       "episode": 8,
@@ -147,7 +150,8 @@
       "airedDate": "2026-11-14T22:00:00+09:00",
       "thumbnail": "https://simkl.in/episodes/21/210832894b5eefe3f5_w.webp",
       "imageUrl": "https://simkl.in/episodes/21/210832894b5eefe3f5_w.webp",
-      "description": null
+      "description": null,
+      "title_es": "Mi adorable amigo"
     },
     {
       "episode": 9,
@@ -157,7 +161,8 @@
       "airedDate": "2026-11-21T22:00:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 9"
     },
     {
       "episode": 10,
@@ -167,7 +172,8 @@
       "airedDate": "2026-11-28T22:00:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 10"
     },
     {
       "episode": 11,
@@ -177,7 +183,8 @@
       "airedDate": "2026-12-05T22:00:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 11"
     },
     {
       "episode": 12,
@@ -187,7 +194,8 @@
       "airedDate": "2026-12-12T22:00:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 12"
     }
   ],
   "specials_data": [],
@@ -205,16 +213,16 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1999/148320l.jpg",
-      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1999/148320l.jpg",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1999/148320l.jpg",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1999/148320l.jpg",
-      "small_image_url": "https://cdn.myanimelist.net/images/anime/1999/148320l.jpg",
-      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1999/148320l.jpg",
-      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1999/148320l.jpg",
-      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1999/148320l.jpg",
-      "large_image_url": "https://cdn.myanimelist.net/images/anime/1999/148320l.jpg",
-      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1999/148320l.jpg"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1454/156338l.jpg",
+      "maximumImageUrl": "https://cdn.myanimelist.net/images/anime/1454/156338l.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1454/156338l.jpg",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1454/156338l.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1454/156338l.jpg",
+      "smallImageUrl": "https://cdn.myanimelist.net/images/anime/1454/156338l.jpg",
+      "medium_image_url": "https://cdn.myanimelist.net/images/anime/1454/156338l.jpg",
+      "mediumImageUrl": "https://cdn.myanimelist.net/images/anime/1454/156338l.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1454/156338l.jpg",
+      "largeImageUrl": "https://cdn.myanimelist.net/images/anime/1454/156338l.jpg"
     }
   },
   "broadcast": {
@@ -229,8 +237,8 @@
   "popularity": 4536,
   "num_scoring_users": 4058,
   "nsfw": "white",
-  "created_at": "2025-03-06T12:20:51+00:00",
-  "updated_at": "2026-11-14T20:24:48+00:00",
+  "created_at": null,
+  "updated_at": null,
   "source": "light_novel",
   "rating": "pg_13",
   "background": null,
@@ -247,5 +255,7 @@
     },
     "num_list_users": 34203
   },
-  "mal_details_updated_at": "2026-11-15T01:55:19.530Z"
+  "mal_details_updated_at": "2026-11-15T01:55:19.530Z",
+  "synopsis_es": "Fia siempre soñó con convertirse en caballero. Nacida en una familia de caballeros, es la menos talentosa entre ellos, pero todavía se aferra a su esperanza y entrena con todo lo que tiene. Cuando llega el día en que debe matar a un pequeño demonio y demostrar su valía, ¡termina cara a cara con un dragón! Una herida mortal hace que su vida pase ante sus ojos... y de repente recuerda su vida anterior, cuando era una santa poderosa en una época pasada que derrotó al Rey Demonio. Esa vida terminó en dolor por quién era ella, lo que le hizo temer volver a convertirse en santa. Ahora que la magia de su vida anterior ha sido reavivada, puede convertirse en una caballero más poderosa de lo que jamás había soñado... ¡si tan solo pudiera sobrevivir el tiempo suficiente!\n\n(Fuente: Seven Seas Entertainment)",
+  "translations_updated_at": "2026-11-15T02:37:03.905Z"
 }

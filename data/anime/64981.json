@@ -47,13 +47,11 @@
       "name": "MI"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1853/160049l.jpg"
-  ],
+  "pictures": [],
   "backdrop_url": null,
   "logo_url": "https://image.tmdb.org/t/p/w500/jplDxULR4tuGt9jEowCZUgoxTQz.svg",
   "tmdb_id": "337260",
-  "tmdb_updated_at": "2026-11-15T01:57:35.192Z",
+  "tmdb_updated_at": "2026-11-15T02:16:37.044Z",
   "simkl_id": 3251654,
   "episodes_data": [
     {
@@ -64,7 +62,8 @@
       "airedDate": "2026-10-03T23:25:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 1"
     },
     {
       "episode": 2,
@@ -74,7 +73,8 @@
       "airedDate": "2026-10-10T23:25:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 2"
     },
     {
       "episode": 3,
@@ -84,7 +84,8 @@
       "airedDate": "2026-10-17T23:25:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 3"
     },
     {
       "episode": 4,
@@ -94,7 +95,8 @@
       "airedDate": "2026-10-24T23:25:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 4"
     },
     {
       "episode": 5,
@@ -104,7 +106,8 @@
       "airedDate": "2026-10-31T23:25:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 5"
     },
     {
       "episode": 6,
@@ -114,7 +117,8 @@
       "airedDate": "2026-11-07T23:25:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 6"
     },
     {
       "episode": 7,
@@ -124,7 +128,8 @@
       "airedDate": "2026-11-14T23:25:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 7"
     },
     {
       "episode": 8,
@@ -134,7 +139,8 @@
       "airedDate": "2026-11-21T23:25:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 8"
     },
     {
       "episode": 9,
@@ -144,7 +150,8 @@
       "airedDate": "2026-11-28T23:25:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 9"
     },
     {
       "episode": 10,
@@ -154,7 +161,8 @@
       "airedDate": "2026-12-05T23:25:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 10"
     },
     {
       "episode": 11,
@@ -164,7 +172,8 @@
       "airedDate": "2026-12-12T23:25:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 11"
     },
     {
       "episode": 12,
@@ -174,7 +183,8 @@
       "airedDate": "2026-12-19T23:25:00+09:00",
       "thumbnail": null,
       "imageUrl": null,
-      "description": null
+      "description": null,
+      "title_es": "Episodio 12"
     }
   ],
   "specials_data": [],
@@ -216,8 +226,8 @@
   "popularity": 24001,
   "num_scoring_users": 14,
   "nsfw": "white",
-  "created_at": "2026-09-15T08:34:48+00:00",
-  "updated_at": "2026-09-15T16:14:38+00:00",
+  "created_at": null,
+  "updated_at": null,
   "source": "other",
   "rating": "g",
   "background": null,
@@ -234,5 +244,7 @@
     },
     "num_list_users": 209
   },
-  "mal_details_updated_at": "2026-11-15T01:57:34.737Z"
+  "mal_details_updated_at": "2026-11-15T01:57:34.737Z",
+  "synopsis_es": "El anime se centra en Nossori el perezoso, que siempre trabaja duro para los humanos y escucha distraídamente sus conversaciones informales. Esas conversaciones, a su vez, alimentan la salvaje imaginación de Nossori.\n\n(Fuente: ANN)",
+  "translations_updated_at": "2026-11-15T02:39:28.499Z"
 }
