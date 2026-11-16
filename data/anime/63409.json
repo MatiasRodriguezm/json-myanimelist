@@ -32,8 +32,8 @@
   "num_episodes": 12,
   "score": 7.6,
   "mean": 7.6,
-  "numListUsers": 60611,
-  "num_list_users": 60611,
+  "numListUsers": 60744,
+  "num_list_users": 60744,
   "genres": [
     {
       "id": 10,
@@ -58,7 +58,7 @@
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/hEE9n9tZAjoT3eE5lL4MhZZ2DbB.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/5D9kwwmONWYhWiAAL0jMZ83Skgz.png",
   "tmdb_id": "313068",
-  "tmdb_updated_at": "2026-11-13T03:51:55.966Z",
+  "tmdb_updated_at": "2026-11-16T14:08:46.963Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1165/160033.webp",
@@ -201,8 +201,40 @@
       "thumbnail": null,
       "description": null,
       "title_es": "Episodio 8"
+    },
+    {
+      "episode": 9,
+      "title": "Episode 9",
+      "aired": "2026-11-30T21:30:00+09:00",
+      "thumbnail": null,
+      "description": null,
+      "title_es": "Episodio 9"
+    },
+    {
+      "episode": 10,
+      "title": "Episode 10",
+      "aired": "2026-12-07T21:30:00+09:00",
+      "thumbnail": null,
+      "description": null,
+      "title_es": "Episodio 10"
+    },
+    {
+      "episode": 11,
+      "title": "Episode 11",
+      "aired": "2026-12-14T21:30:00+09:00",
+      "thumbnail": null,
+      "description": null,
+      "title_es": "Episodio 11"
+    },
+    {
+      "episode": 12,
+      "title": "Episode 12",
+      "aired": "2026-12-21T21:30:00+09:00",
+      "thumbnail": null,
+      "description": null,
+      "title_es": "Episodio 12"
     }
   ],
   "specials_data": [],
-  "translations_updated_at": "2026-11-16T03:39:15.974Z"
+  "translations_updated_at": "2026-11-16T14:13:05.455Z"
 }

@@ -30,8 +30,8 @@
   "num_episodes": 12,
   "score": 7.9,
   "mean": 7.9,
-  "numListUsers": 10895,
-  "num_list_users": 10895,
+  "numListUsers": 10909,
+  "num_list_users": 10909,
   "genres": [
     {
       "id": 23,
@@ -60,7 +60,7 @@
   "backdrop_url": "https://image.tmdb.org/t/p/w1280/wq5ZykCAFrboIpz36O8pbrJG2dF.jpg",
   "logo_url": "https://image.tmdb.org/t/p/w300/fbjBgKKQZkg8OnFkCiBqRHwnsqh.png",
   "tmdb_id": "60761",
-  "tmdb_updated_at": "2026-11-13T03:51:51.491Z",
+  "tmdb_updated_at": "2026-11-16T14:08:42.871Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1296/159929.webp",
@@ -169,11 +169,11 @@
     },
     {
       "episode": 7,
-      "title": "Episode 7",
+      "title": "Baton",
       "aired": "2026-11-22T17:30:00+09:00",
       "thumbnail": null,
       "description": null,
-      "title_es": "Episodio 7"
+      "title_es": "Bastón"
     },
     {
       "episode": 8,
@@ -182,6 +182,38 @@
       "thumbnail": null,
       "description": null,
       "title_es": "Episodio 8"
+    },
+    {
+      "episode": 9,
+      "title": "Episode 9",
+      "aired": "2026-12-06T17:30:00+09:00",
+      "thumbnail": null,
+      "description": null,
+      "title_es": "Episodio 9"
+    },
+    {
+      "episode": 10,
+      "title": "Episode 10",
+      "aired": "2026-12-13T17:30:00+09:00",
+      "thumbnail": null,
+      "description": null,
+      "title_es": "Episodio 10"
+    },
+    {
+      "episode": 11,
+      "title": "Episode 11",
+      "aired": "2026-12-20T17:30:00+09:00",
+      "thumbnail": null,
+      "description": null,
+      "title_es": "Episodio 11"
+    },
+    {
+      "episode": 12,
+      "title": "Episode 12",
+      "aired": "2026-12-27T17:30:00+09:00",
+      "thumbnail": null,
+      "description": null,
+      "title_es": "Episodio 12"
     }
   ],
   "specials_data": [
@@ -194,5 +226,5 @@
       "title_es": "Episodio T1"
     }
   ],
-  "translations_updated_at": "2026-11-16T03:39:59.880Z"
+  "translations_updated_at": "2026-11-16T14:13:18.512Z"
 }
