@@ -18,8 +18,8 @@
   "status": "not_yet_aired",
   "averageEpisodeDurationSeconds": null,
   "average_episode_duration": null,
-  "startDate": "2027-01",
-  "start_date": "2027-01",
+  "startDate": "2027-01-09",
+  "start_date": "2027-01-09",
   "endDate": null,
   "end_date": null,
   "season": "winter",
@@ -32,8 +32,8 @@
   "num_episodes": null,
   "score": null,
   "mean": null,
-  "numListUsers": 2369,
-  "num_list_users": 2369,
+  "numListUsers": 2394,
+  "num_list_users": 2394,
   "genres": [
     {
       "id": 10,
@@ -50,7 +50,7 @@
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": "313394",
-  "tmdb_updated_at": "2026-11-17T01:14:40.242Z",
+  "tmdb_updated_at": "2026-11-17T15:04:15.022Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1785/160710.webp",
@@ -66,7 +66,14 @@
       "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1785/160710l.webp"
     }
   },
-  "broadcast": null,
+  "broadcast": {
+    "day": "saturday",
+    "time": "22:00",
+    "day_of_the_week": "saturday",
+    "start_time": "22:00",
+    "timezone": "Asia/Tokyo",
+    "string": "saturday 22:00"
+  },
   "rank": null,
   "popularity": 12464,
   "rating": null,
@@ -98,5 +105,5 @@
     }
   ],
   "specials_data": [],
-  "translations_updated_at": "2026-11-17T01:17:00.670Z"
+  "translations_updated_at": "2026-11-17T15:06:48.826Z"
 }
