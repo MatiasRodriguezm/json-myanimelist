@@ -30,8 +30,8 @@
   "num_episodes": 1,
   "score": null,
   "mean": null,
-  "numListUsers": 24,
-  "num_list_users": 24,
+  "numListUsers": 40,
+  "num_list_users": 40,
   "genres": [
     {
       "id": 10,
@@ -39,13 +39,11 @@
     }
   ],
   "studios": [],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1363/161148l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-16T14:10:10.999Z",
+  "tmdb_updated_at": "2026-11-17T01:14:16.729Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1363/161148.webp",
@@ -65,16 +63,9 @@
   "rank": 19800,
   "popularity": 30772,
   "rating": "pg_13",
-  "simkl_id": null,
-  "episodes_data": [],
-  "specials_data": [],
-  "characters": [],
   "num_scoring_users": 14,
   "nsfw": "white",
-  "created_at": "2026-11-13T20:40:27+00:00",
-  "updated_at": "2026-11-16T07:30:54+00:00",
   "source": "original",
-  "background": null,
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
@@ -89,5 +80,8 @@
     "num_list_users": 24
   },
   "mal_details_updated_at": "2026-11-16T14:10:10.467Z",
-  "translations_updated_at": "2026-11-16T14:13:27.516Z"
+  "simkl_id": null,
+  "episodes_data": [],
+  "specials_data": [],
+  "translations_updated_at": "2026-11-17T01:17:20.999Z"
 }
