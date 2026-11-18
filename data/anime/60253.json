@@ -32,8 +32,8 @@
   "num_episodes": null,
   "score": null,
   "mean": null,
-  "numListUsers": 17352,
-  "num_list_users": 17352,
+  "numListUsers": 17417,
+  "num_list_users": 17417,
   "genres": [
     {
       "id": 1,
@@ -62,15 +62,11 @@
       "name": "Durandal"
     }
   ],
-  "pictures": [
-    "https://cdn.myanimelist.net/images/anime/1932/146391l.webp",
-    "https://cdn.myanimelist.net/images/anime/1430/149884l.webp",
-    "https://cdn.myanimelist.net/images/anime/1442/161217l.webp"
-  ],
+  "pictures": [],
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-18T14:43:39.009Z",
+  "tmdb_updated_at": "2026-11-18T23:41:02.945Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1442/161217.webp",
@@ -83,7 +79,7 @@
   },
   "trailer": {
     "images": {
-      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1932/146391l.webp"
+      "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1442/161217l.webp"
     }
   },
   "broadcast": {
@@ -97,25 +93,8 @@
   "rank": null,
   "popularity": 6009,
   "rating": null,
-  "simkl_id": 2629434,
-  "episodes_data": [
-    {
-      "episode": 1,
-      "title": "Episode 1",
-      "aired": "2025-10-01T00:30:00+09:00",
-      "thumbnail": null,
-      "description": null,
-      "title_es": "Episodio 1"
-    }
-  ],
-  "specials_data": [],
-  "characters": [],
-  "num_scoring_users": null,
   "nsfw": "white",
-  "created_at": "2024-11-06T02:45:37+00:00",
-  "updated_at": "2026-11-18T03:29:44+00:00",
   "source": "web_manga",
-  "background": null,
   "related_anime": [],
   "related_manga": [],
   "recommendations": [],
@@ -130,5 +109,17 @@
     "num_list_users": 17352
   },
   "mal_details_updated_at": "2026-11-18T14:43:38.414Z",
-  "translations_updated_at": "2026-11-18T14:47:24.139Z"
+  "simkl_id": 2629434,
+  "episodes_data": [
+    {
+      "episode": 1,
+      "title": "Episode 1",
+      "aired": "2025-10-01T00:30:00+09:00",
+      "thumbnail": null,
+      "description": null,
+      "title_es": "Episodio 1"
+    }
+  ],
+  "specials_data": [],
+  "translations_updated_at": "2026-11-18T23:46:01.515Z"
 }
