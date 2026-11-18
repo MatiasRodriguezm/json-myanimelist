@@ -16,8 +16,8 @@
   "status": "not_yet_aired",
   "averageEpisodeDurationSeconds": null,
   "average_episode_duration": null,
-  "startDate": "2027-01",
-  "start_date": "2027-01",
+  "startDate": "2027-01-10",
+  "start_date": "2027-01-10",
   "endDate": null,
   "end_date": null,
   "season": "winter",
@@ -30,8 +30,8 @@
   "num_episodes": null,
   "score": null,
   "mean": null,
-  "numListUsers": 42,
-  "num_list_users": 42,
+  "numListUsers": 44,
+  "num_list_users": 44,
   "genres": [
     {
       "id": 10,
@@ -48,7 +48,7 @@
   "backdrop_url": null,
   "logo_url": null,
   "tmdb_id": null,
-  "tmdb_updated_at": "2026-11-18T00:09:21.290Z",
+  "tmdb_updated_at": "2026-11-18T14:44:03.953Z",
   "images": {
     "jpg": {
       "image_url": "https://cdn.myanimelist.net/images/anime/1437/161008.webp",
@@ -64,7 +64,14 @@
       "maximum_image_url": "https://cdn.myanimelist.net/images/anime/1437/161008l.webp"
     }
   },
-  "broadcast": null,
+  "broadcast": {
+    "day": "sunday",
+    "time": "07:00",
+    "day_of_the_week": "sunday",
+    "start_time": "07:00",
+    "timezone": "Asia/Tokyo",
+    "string": "sunday 07:00"
+  },
   "rank": null,
   "popularity": 30738,
   "rating": null,
