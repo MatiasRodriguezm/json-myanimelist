@@ -55,7 +55,7 @@ async function enrichFeedFile(filePath) {
     }
 
     if (changed) {
-      await fs.writeFile(filePath, JSON.stringify(feed, null, 2), "utf-8");
+      await Storage.writeJsonAtomic(filePath, feed);
       console.log(`[FeedSync] Enriquecido con éxito: ${path.basename(filePath)}`);
     } else {
       console.log(`[FeedSync] Sin cambios en: ${path.basename(filePath)}`);

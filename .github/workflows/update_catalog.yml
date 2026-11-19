@@ -51,6 +51,7 @@ jobs:
           npm run sync:expand
           npm run sync:translations
           npm run sync:feeds
+          npm run minify
 
       - name: Guardar cambios en el repositorio
         run: |

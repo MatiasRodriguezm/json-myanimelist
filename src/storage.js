@@ -21,10 +21,11 @@ export class Storage {
 
   /**
    * Escritura atómica para evitar que una interrupción deje el archivo JSON corrupto.
+   * Guarda el JSON minificado para optimizar el tamaño en disco, Git y transferencia de red.
    */
   static async writeJsonAtomic(filePath, data) {
     const tempPath = `${filePath}.${Date.now()}.${Math.random().toString(36).slice(2, 8)}.tmp`;
-    const jsonString = JSON.stringify(data, null, 2);
+    const jsonString = JSON.stringify(data);
     await fs.writeFile(tempPath, jsonString, "utf-8");
     await fs.rename(tempPath, filePath);
   }

@@ -14,7 +14,8 @@
     "sync:characters": "node src/characterSync.js",
     "sync:translations": "node src/translationSync.js",
     "sync:expand": "node src/catalogExpander.js",
-    "sync:feeds": "node src/feedEnricher.js"
+    "sync:feeds": "node src/feedEnricher.js",
+    "minify": "node scripts/minifyData.js"
   },
   "engines": {
     "node": ">=20"

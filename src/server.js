@@ -11,11 +11,17 @@ export function createExpressApp(collector = null, malClient = new MalClient()) 
   const app = express();
 
   app.use(cors());
-  app.use(compression());
+  app.use(compression({ threshold: 512 }));
   app.use(express.json());
 
   // Servir archivos JSON directamente si se requiere acceso estático crudo
-  app.use("/data", express.static(config.paths.data));
+  app.use(
+    "/data",
+    express.static(config.paths.data, {
+      maxAge: "1h",
+      etag: true,
+    })
+  );
 
   // Índice de estado del servicio
   app.get("/", async (req, res) => {
