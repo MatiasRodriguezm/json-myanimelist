@@ -212,6 +212,7 @@ export function jikanToAnimeSummary(item) {
     numListUsers: item.members || 0,
     num_list_users: item.members || 0,
     genres: (item.genres || []).map((g) => ({ id: g.id || g.mal_id, name: g.name })),
+    studios: (item.studios || []).map((s) => ({ id: s.id || s.mal_id, name: s.name })),
     images: {
       jpg: {
         image_url: jpgMedium,
