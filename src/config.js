@@ -23,6 +23,7 @@ export const config = {
     genres: path.join(rootDir, "data", "genres"),
     themes: path.join(rootDir, "data", "themes"),
     homeJson: path.join(rootDir, "data", "home.json"),
+    popularYearJson: path.join(rootDir, "data", "popular_year.json"),
     discoverJson: path.join(rootDir, "data", "discover.json"),
     metadataIndexJson: path.join(rootDir, "data", "metadata_index.json"),
     statusJson: path.join(rootDir, "data", "status.json"),

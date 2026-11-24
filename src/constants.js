@@ -16,6 +16,14 @@ export const DISCOVER_SECTIONS = [
   { sectionId: "special", rankingType: "special", title: "Especiales" },
 ];
 
+export function getPopularYearTarget(date = new Date()) {
+  const year = date.getFullYear();
+  const month = date.getMonth() + 1; // 1 - 12
+  // Si estamos en meses 1, 2 o 3 (antes del 4to mes), se mantiene el año anterior.
+  // A partir de abril (mes 4), cambia al año en curso.
+  return month >= 4 ? year : year - 1;
+}
+
 export function getSeasonForDate(date = new Date()) {
   const month = date.getMonth() + 1; // 1 - 12
   const year = date.getFullYear();

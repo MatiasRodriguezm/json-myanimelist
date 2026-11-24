@@ -165,3 +165,68 @@ export function toAnimeSummary(node, isFeed = false) {
     statistics: node.statistics || null,
   };
 }
+
+/**
+ * Convierte un item devuelto por animejikanapi al formato AnimeSummary compatible con AnimeHub.
+ */
+export function jikanToAnimeSummary(item) {
+  if (!item) return null;
+  const id = item.malId || item.id;
+  const webpLarge = item.images?.webp?.largeImageUrl || item.images?.webp?.imageUrl;
+  const jpgLarge = item.images?.jpg?.largeImageUrl || item.images?.jpg?.imageUrl;
+  const webpMedium = item.images?.webp?.imageUrl || item.images?.webp?.smallImageUrl;
+  const jpgMedium = item.images?.jpg?.imageUrl || item.images?.jpg?.smallImageUrl;
+
+  const largeImg = toWebpUrl(webpLarge || jpgLarge || "");
+  const mediumImg = toWebpUrl(webpMedium || jpgMedium || largeImg);
+
+  const year = item.startDate ? Number.parseInt(item.startDate.slice(0, 4), 10) : null;
+  const startDateStr = item.startDate ? item.startDate.split("T")[0] : null;
+  const endDateStr = item.endDate ? item.endDate.split("T")[0] : null;
+
+  return {
+    id: Number(id),
+    mal_id: Number(id),
+    title: item.title,
+    englishTitle: item.title_english || item.englishTitle || null,
+    title_english: item.title_english || item.englishTitle || null,
+    alternative_titles: {
+      synonyms: [],
+      en: item.title_english || item.englishTitle || null,
+      ja: null,
+    },
+    synopsis: item.synopsis || null,
+    synopsis_es: null,
+    type: toDisplayMediaType(item.type) || "TV",
+    media_type: (item.type || "tv").toLowerCase(),
+    status: item.airing ? "currently_airing" : (item.status || null),
+    startDate: startDateStr,
+    start_date: startDateStr,
+    endDate: endDateStr,
+    end_date: endDateStr,
+    year: year,
+    episodes: item.episodes || null,
+    num_episodes: item.episodes || null,
+    score: item.score || null,
+    mean: item.score || null,
+    numListUsers: item.members || 0,
+    num_list_users: item.members || 0,
+    genres: (item.genres || []).map((g) => ({ id: g.id || g.mal_id, name: g.name })),
+    images: {
+      jpg: {
+        image_url: jpgMedium,
+        large_image_url: jpgLarge,
+      },
+      webp: {
+        image_url: webpMedium,
+        large_image_url: webpLarge,
+      },
+    },
+    main_picture: {
+      medium: mediumImg,
+      large: largeImg,
+    },
+    pictures: [],
+    rating: item.rated || item.rating || null,
+  };
+}

@@ -29,7 +29,7 @@ async function enrichFeedFile(filePath) {
 
     if (feed.featured) feed.featured = await updateItem(feed.featured);
 
-    const arrayKeys = ["topAnime", "seasonalAnime", "upcomingAnime", "popularAirings", "bannerList", "items"];
+    const arrayKeys = ["topAnime", "seasonalAnime", "upcomingAnime", "popularYearAnime", "popularAirings", "bannerList", "items"];
     for (const key of arrayKeys) {
       if (Array.isArray(feed[key])) {
         for (let i = 0; i < feed[key].length; i++) {
@@ -69,6 +69,7 @@ async function run() {
   console.log("=== ENRIQUECIENDO HOME, DISCOVER, GÉNEROS Y TEMAS CON SINOPSIS_ES Y PERSONAJES ===");
   await enrichFeedFile(config.paths.homeJson);
   await enrichFeedFile(config.paths.discoverJson);
+  if (config.paths.popularYearJson) await enrichFeedFile(config.paths.popularYearJson);
 
   // También en genres y themes
   for (const folder of [config.paths.genres, config.paths.themes]) {

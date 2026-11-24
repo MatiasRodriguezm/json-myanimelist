@@ -11,6 +11,7 @@ import { Storage } from "./storage.js";
 import { syncLiveChart } from "./livechartScraper.js";
 import { SimklClient } from "./simklClient.js";
 import { TmdbClient } from "./tmdbClient.js";
+import { fetchPopularYearAnime } from "./popularYearSync.js";
 
 export class Collector {
   constructor(
@@ -46,11 +47,15 @@ export class Collector {
       console.log(`[Collector] Próxima temporada: ${nextSeason.season} ${nextSeason.year}`);
 
       // 2. Recolectar Inicio (HomeFeed)
-      console.log(`[Collector] Descargando datos de Inicio (Top Ranking, Temporada actual y Próxima)...`);
-      const [topRankingRes, currentSeasonRes, nextSeasonRes] = await Promise.all([
+      console.log(`[Collector] Descargando datos de Inicio (Top Ranking, Temporada actual, Próxima y Populares del Año)...`);
+      const [topRankingRes, currentSeasonRes, nextSeasonRes, popularYearData] = await Promise.all([
         this.mal.getAnimeRanking("all", config.collector.homeRankingLimit),
         this.mal.getSeasonalAnime(currentSeason.year, currentSeason.season, config.collector.seasonLimit),
         this.mal.getSeasonalAnime(nextSeason.year, nextSeason.season, 100),
+        fetchPopularYearAnime().catch((err) => {
+          console.error("[Collector] Error al sincronizar populares del año:", err.message);
+          return { popularAnime: [], title: "Animes Más Populares", targetYear: new Date().getFullYear() };
+        }),
       ]);
 
       const topAnime = (topRankingRes.data || []).map((item) => toAnimeSummary(item.node, true));
@@ -70,13 +75,16 @@ export class Collector {
         topAnime,
         seasonalAnime,
         upcomingAnime,
+        popularYearAnime: popularYearData?.popularAnime || [],
+        popularYearTitle: popularYearData?.title || `Animes Más Populares ${popularYearData?.targetYear || ""}`,
+        popularYear: popularYearData?.targetYear || null,
         currentSeasonTitle: `Temporada actual ${toSpanishSeason(currentSeason.season)} ${currentSeason.year}`,
         upcomingSeasonTitle: `Próxima Temporada ${toSpanishSeason(nextSeason.season)} ${nextSeason.year}`,
         updatedAt: new Date().toISOString(),
       };
 
       await Storage.saveHomeFeed(homeFeed);
-      console.log(`[Collector] ✓ home.json preliminar guardado (${topAnime.length} top, ${seasonalAnime.length} temporada actual, ${upcomingAnime.length} próximos).`);
+      console.log(`[Collector] ✓ home.json preliminar guardado (${topAnime.length} top, ${seasonalAnime.length} temporada actual, ${upcomingAnime.length} próximos, ${homeFeed.popularYearAnime.length} populares del año).`);
 
       // 3. Recolectar Pestaña Descubrir
       console.log(`[Collector] Descargando secciones de Descubrir...`);
@@ -125,7 +133,7 @@ export class Collector {
       const uniqueAnimeMap = new Map();
 
       // Recopilar animes de Home
-      for (const anime of [...topAnime, ...seasonalAnime, ...upcomingAnime]) {
+      for (const anime of [...topAnime, ...seasonalAnime, ...upcomingAnime, ...(popularYearData?.popularAnime || [])]) {
         if (anime && anime.id) uniqueAnimeMap.set(anime.id, anime);
       }
 
