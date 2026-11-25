@@ -12,6 +12,7 @@ import { syncLiveChart } from "./livechartScraper.js";
 import { SimklClient } from "./simklClient.js";
 import { TmdbClient } from "./tmdbClient.js";
 import { fetchPopularYearAnime } from "./popularYearSync.js";
+import { fetchTopProducers } from "./producerSync.js";
 
 export class Collector {
   constructor(
@@ -48,13 +49,17 @@ export class Collector {
 
       // 2. Recolectar Inicio (HomeFeed)
       console.log(`[Collector] Descargando datos de Inicio (Top Ranking, Temporada actual, Próxima y Populares del Año)...`);
-      const [topRankingRes, currentSeasonRes, nextSeasonRes, popularYearData] = await Promise.all([
+      const [topRankingRes, currentSeasonRes, nextSeasonRes, popularYearData, producersData] = await Promise.all([
         this.mal.getAnimeRanking("all", config.collector.homeRankingLimit),
         this.mal.getSeasonalAnime(currentSeason.year, currentSeason.season, config.collector.seasonLimit),
         this.mal.getSeasonalAnime(nextSeason.year, nextSeason.season, 100),
         fetchPopularYearAnime().catch((err) => {
           console.error("[Collector] Error al sincronizar populares del año:", err.message);
           return { popularAnime: [], title: "Animes Más Populares", targetYear: new Date().getFullYear() };
+        }),
+        fetchTopProducers().catch((err) => {
+          console.error("[Collector] Error al sincronizar compañías:", err.message);
+          return [];
         }),
       ]);
 
@@ -78,6 +83,7 @@ export class Collector {
         popularYearAnime: popularYearData?.popularAnime || [],
         popularYearTitle: popularYearData?.title || `Animes Más Populares ${popularYearData?.targetYear || ""}`,
         popularYear: popularYearData?.targetYear || null,
+        producers: producersData || [],
         currentSeasonTitle: `Temporada actual ${toSpanishSeason(currentSeason.season)} ${currentSeason.year}`,
         upcomingSeasonTitle: `Próxima Temporada ${toSpanishSeason(nextSeason.season)} ${nextSeason.year}`,
         updatedAt: new Date().toISOString(),
