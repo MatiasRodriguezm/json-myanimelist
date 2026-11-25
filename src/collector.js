@@ -132,15 +132,24 @@ export class Collector {
       console.log(`[Collector] Verificando metadata individual y enriqueciendo con Simkl y TMDb...`);
       const uniqueAnimeMap = new Map();
 
-      // Recopilar animes de Home
-      for (const anime of [...topAnime, ...seasonalAnime, ...upcomingAnime, ...(popularYearData?.popularAnime || [])]) {
-        if (anime && anime.id) uniqueAnimeMap.set(anime.id, anime);
+      // Recopilar animes de Home (prioridad a MAL sobre Jikan/popularYearAnime)
+      for (const anime of [...topAnime, ...seasonalAnime, ...upcomingAnime]) {
+        if (anime && anime.id && !uniqueAnimeMap.has(anime.id)) {
+          uniqueAnimeMap.set(anime.id, anime);
+        }
+      }
+      for (const anime of popularYearData?.popularAnime || []) {
+        if (anime && anime.id && !uniqueAnimeMap.has(anime.id)) {
+          uniqueAnimeMap.set(anime.id, anime);
+        }
       }
 
-      // Recopilar animes de Descubrir
+      // Recopilar animes de Descubrir (sin sobrescribir los ya cargados)
       for (const row of discoverRows) {
         for (const anime of row.items) {
-          if (anime && anime.id) uniqueAnimeMap.set(anime.id, anime);
+          if (anime && anime.id && !uniqueAnimeMap.has(anime.id)) {
+            uniqueAnimeMap.set(anime.id, anime);
+          }
         }
       }
 
@@ -160,7 +169,8 @@ export class Collector {
         currentIndex++;
         let animeData = { ...summary };
         const existing = await Storage.loadAnimeDetails(id);
-        const isFinished = (animeData.status || "").toLowerCase().includes("finish");
+        const effectiveStatus = existing?.status || animeData.status || "";
+        const isFinished = effectiveStatus.toLowerCase().includes("finish");
 
         // 4.0. Enriquecimiento de Detalles completos de MyAnimeList (related_anime, recommendations, etc.)
         const malAge = existing?.mal_details_updated_at
@@ -168,11 +178,24 @@ export class Collector {
           : Infinity;
         // Finalizados: revalidar cada 30 días. En emisión o próximos: revalidar cada 5 días.
         const maxMalAge = isFinished ? 30 * 24 * 60 * 60 * 1000 : 5 * 24 * 60 * 60 * 1000;
-        const canReuseMal = existing && existing.mal_details_updated_at && malAge < maxMalAge;
+        const hasMissingCoreMetadata = !existing?.status || !Array.isArray(existing?.genres) || existing.genres.length === 0;
+        const canReuseMal = existing && existing.mal_details_updated_at && malAge < maxMalAge && !hasMissingCoreMetadata;
 
         if (canReuseMal) {
           animeData = {
             ...animeData,
+            status: animeData.status || existing.status || null,
+            season: animeData.season || existing.season || null,
+            year: animeData.year || existing.year || null,
+            start_season: animeData.start_season || existing.start_season || null,
+            averageEpisodeDurationSeconds: animeData.averageEpisodeDurationSeconds ?? existing.averageEpisodeDurationSeconds ?? null,
+            average_episode_duration: animeData.average_episode_duration ?? existing.average_episode_duration ?? null,
+            episodes: animeData.episodes ?? existing.episodes ?? null,
+            num_episodes: animeData.num_episodes ?? existing.num_episodes ?? null,
+            genres: Array.isArray(animeData.genres) && animeData.genres.length > 0 ? animeData.genres : (existing.genres || []),
+            studios: Array.isArray(animeData.studios) && animeData.studios.length > 0 ? animeData.studios : (existing.studios || []),
+            broadcast: animeData.broadcast || existing.broadcast || null,
+            pictures: Array.isArray(animeData.pictures) && animeData.pictures.length > 0 ? animeData.pictures : (existing.pictures || []),
             rank: existing.rank ?? animeData.rank,
             popularity: existing.popularity ?? animeData.popularity,
             num_scoring_users: existing.num_scoring_users ?? animeData.num_scoring_users,

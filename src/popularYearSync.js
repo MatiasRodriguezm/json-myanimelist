@@ -64,17 +64,29 @@ export async function fetchPopularYearAnime(specifiedYear = null) {
     if (!summary || !summary.id || seenIds.has(summary.id)) continue;
     seenIds.add(summary.id);
 
-    // Si ya existe en disco con enriquecimiento (TMDb backdrop, logo, synopsis_es), combinarlo
+    // Si ya existe en disco con enriquecimiento (MAL + TMDb + Simkl), priorizar los metadatos de MAL sobre Jikan
     const existing = await Storage.loadAnimeDetails(summary.id);
     if (existing) {
+      if (existing.status) summary.status = existing.status;
+      if (existing.season) summary.season = existing.season;
+      if (existing.year) summary.year = existing.year;
+      if (existing.start_season) summary.start_season = existing.start_season;
+      if (existing.averageEpisodeDurationSeconds != null) {
+        summary.averageEpisodeDurationSeconds = existing.averageEpisodeDurationSeconds;
+      }
+      if (existing.average_episode_duration != null) {
+        summary.average_episode_duration = existing.average_episode_duration;
+      }
+      if (existing.episodes != null) summary.episodes = existing.episodes;
+      if (existing.num_episodes != null) summary.num_episodes = existing.num_episodes;
+      if (Array.isArray(existing.genres) && existing.genres.length > 0) summary.genres = existing.genres;
+      if (Array.isArray(existing.studios) && existing.studios.length > 0) summary.studios = existing.studios;
+      if (existing.broadcast) summary.broadcast = existing.broadcast;
       if (existing.backdrop_url) summary.backdrop_url = existing.backdrop_url;
       if (existing.logo_url) summary.logo_url = existing.logo_url;
       if (existing.synopsis_es) summary.synopsis_es = existing.synopsis_es;
       if (existing.tmdb_id) summary.tmdb_id = existing.tmdb_id;
       if (existing.simkl_id) summary.simkl_id = existing.simkl_id;
-      if ((!summary.genres || summary.genres.length === 0) && Array.isArray(existing.genres) && existing.genres.length > 0) {
-        summary.genres = existing.genres;
-      }
     }
 
     popularAnime.push(summary);
