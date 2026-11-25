@@ -4,6 +4,12 @@ import { config } from "./config.js";
 import { Storage } from "./storage.js";
 
 const DELAY_MS = 60; // Pausa rápida y segura
+const MAX_CONSECUTIVE_429 = 5;
+const MAX_RUN_MS = 20 * 60 * 1000; // Máximo 20 minutos por corrida
+const MAX_UPDATES_PER_RUN = 150;
+
+let consecutive429s = 0;
+let rateLimitedAbort = false;
 
 function sleep(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
@@ -13,11 +19,13 @@ function sleep(ms) {
  * Traduce un texto en inglés a español usando el endpoint público GTX
  */
 async function translateGtx(text) {
+  if (rateLimitedAbort) return null;
   if (!text || typeof text !== "string") return null;
   const clean = text.trim();
   if (!clean) return null;
 
   for (let attempt = 1; attempt <= 3; attempt++) {
+    if (rateLimitedAbort) return null;
     try {
       const url = `https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=es&dt=t&q=${encodeURIComponent(clean)}`;
       const res = await fetch(url, {
@@ -26,6 +34,12 @@ async function translateGtx(text) {
         }
       });
       if (res.status === 429) {
+        consecutive429s++;
+        if (consecutive429s >= MAX_CONSECUTIVE_429) {
+          console.warn(`[TransSync] ${consecutive429s} respuestas 429 seguidas. Deteniendo traducciones en esta corrida.`);
+          rateLimitedAbort = true;
+          return null;
+        }
         console.warn(`[TransSync] 429 Too Many Requests, esperando ${attempt * 3}s...`);
         await sleep(attempt * 3000);
         continue;
@@ -35,6 +49,7 @@ async function translateGtx(text) {
       }
       const data = await res.json();
       if (Array.isArray(data) && Array.isArray(data[0])) {
+        consecutive429s = 0;
         const translated = data[0].map((item) => (item && item[0] ? item[0] : "")).join("");
         return translated.trim();
       }
@@ -105,8 +120,21 @@ async function run() {
   let updatedCount = 0;
   let skippedCount = 0;
   let errorCount = 0;
+  const startTime = Date.now();
 
   for (const file of jsonFiles) {
+    if (rateLimitedAbort) {
+      console.warn("[TransSync] Abortando bucle por límite 429 de Google Translate.");
+      break;
+    }
+    if (Date.now() - startTime >= MAX_RUN_MS) {
+      console.warn("[TransSync] Límite de tiempo de corrida alcanzado (20m). Continuará en la próxima ejecución.");
+      break;
+    }
+    if (updatedCount >= MAX_UPDATES_PER_RUN) {
+      console.warn(`[TransSync] Límite de ${MAX_UPDATES_PER_RUN} actualizaciones alcanzado. Continuará en la próxima ejecución.`);
+      break;
+    }
     processedCount++;
     const id = Number(path.basename(file, ".json"));
     if (!id || Number.isNaN(id)) continue;

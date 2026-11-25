@@ -49,7 +49,6 @@ jobs:
         run: |
           npm run sync
           npm run sync:expand
-          npm run sync:translations
           npm run sync:feeds
           npm run minify
 

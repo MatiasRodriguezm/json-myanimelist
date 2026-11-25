@@ -1,0 +1,66 @@
+name: Sincronizar Traducciones del Catálogo
+
+on:
+  schedule:
+    # Se ejecuta cada 6 horas, 30 minutos después del catálogo principal
+    - cron: '30 */6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: catalog-translations
+  cancel-in-progress: true
+
+jobs:
+  sync-translations:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Checkout del repositorio
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Configurar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: 'npm'
+
+      - name: Instalar dependencias
+        run: npm ci
+
+      - name: Ejecutar sincronización de traducciones
+        run: |
+          npm run sync:translations
+          npm run sync:feeds
+          npm run minify
+
+      - name: Guardar cambios en el repositorio
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --staged --quiet; then
+            echo "No hubo cambios en las traducciones."
+          else
+            git commit -m "chore(data): sync spanish translations [skip ci]"
+            git pull --rebase
+            git push
+          fi
+
+      - name: Configurar GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Empaquetar datos para GitHub Pages
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: 'data'
+
+      - name: Desplegar en GitHub Pages (CDN Global)
+        id: deployment
+        uses: actions/deploy-pages@v4
