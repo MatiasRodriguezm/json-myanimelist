@@ -23,6 +23,12 @@ async function enrichFeedFile(filePath) {
             changed = true;
           }
         }
+        if (Array.isArray(detail.genres) && detail.genres.length > 0) {
+          if (!Array.isArray(item.genres) || item.genres.length === 0) {
+            item.genres = detail.genres;
+            changed = true;
+          }
+        }
       }
       return item;
     }

@@ -72,6 +72,9 @@ export async function fetchPopularYearAnime(specifiedYear = null) {
       if (existing.synopsis_es) summary.synopsis_es = existing.synopsis_es;
       if (existing.tmdb_id) summary.tmdb_id = existing.tmdb_id;
       if (existing.simkl_id) summary.simkl_id = existing.simkl_id;
+      if ((!summary.genres || summary.genres.length === 0) && Array.isArray(existing.genres) && existing.genres.length > 0) {
+        summary.genres = existing.genres;
+      }
     }
 
     popularAnime.push(summary);

@@ -211,7 +211,12 @@ export function jikanToAnimeSummary(item) {
     mean: item.score || null,
     numListUsers: item.members || 0,
     num_list_users: item.members || 0,
-    genres: (item.genres || []).map((g) => ({ id: g.id || g.mal_id, name: g.name })),
+    genres: [
+      ...(Array.isArray(item.genres) ? item.genres : []),
+      ...(Array.isArray(item.explicitGenres) ? item.explicitGenres : []),
+      ...(Array.isArray(item.themes) ? item.themes : []),
+      ...(Array.isArray(item.demographics) ? item.demographics : []),
+    ].map((g) => ({ id: g.id || g.mal_id || null, name: g.name })),
     studios: (item.studios || []).map((s) => ({ id: s.id || s.mal_id, name: s.name })),
     images: {
       jpg: {
