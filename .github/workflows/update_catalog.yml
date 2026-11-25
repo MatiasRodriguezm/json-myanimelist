@@ -2,8 +2,8 @@ name: Actualizar Catálogo y Desplegar a GitHub Pages
 
 on:
   schedule:
-    # Se ejecuta automáticamente cada 6 horas (00:00, 06:00, 12:00, 18:00 UTC)
-    - cron: '0 */6 * * *'
+    # Se ejecuta automáticamente cada 6 horas en el minuto 23 (00:23, 06:23, 12:23, 18:23 UTC)
+    - cron: '23 */6 * * *'
   workflow_dispatch: # Permite ejecutar manualmente con un clic en GitHub
   push:
     branches:
