@@ -8,7 +8,6 @@ import { Storage } from "./storage.js";
 const JIKAN_BASE_URL = (process.env.JIKAN_API_URL || "https://animejikanapi-7p32.onrender.com").replace(/\/+$/, "");
 const MAL_COMPANY_RANKING_URL = "https://myanimelist.net/company";
 const TOP_PRODUCERS_LIMIT = 20;
-const PRODUCER_ANIME_MAX_PAGES = 3; // hasta 150 animes por compañía (50 por página)
 
 function sleep(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
@@ -78,78 +77,64 @@ async function fetchMostFavoritedIds() {
     .sort((a, b) => (b.count || 0) - (a.count || 0) || (a.malId || 0) - (b.malId || 0));
 }
 
-async function syncProducerAnimeCatalog(producer) {
+async function buildProducerAnimeCatalog(producer, detail) {
   const seenIds = new Set();
+  const rawResults = Array.isArray(detail?.results) ? detail.results : [];
   const animeItems = [];
-  let hasNextPage = false;
-  let lastVisiblePage = 1;
 
-  for (let page = 1; page <= PRODUCER_ANIME_MAX_PAGES; page++) {
-    try {
-      const url = `${JIKAN_BASE_URL}/anime/search?producers=${producer.id}&order_by=popularity&page=${page}`;
-      const data = await fetchWithRetry(url);
-      const rawResults = Array.isArray(data?.results) ? data.results : [];
-      hasNextPage = Boolean(data?.hasNextPage);
-      lastVisiblePage = Number(data?.lastVisiblePage || page);
+  for (const raw of rawResults) {
+    const summary = jikanToAnimeSummary(raw);
+    if (!summary || !summary.id || seenIds.has(summary.id)) continue;
+    seenIds.add(summary.id);
 
-      for (const raw of rawResults) {
-        const summary = jikanToAnimeSummary(raw);
-        if (!summary || !summary.id || seenIds.has(summary.id)) continue;
-        seenIds.add(summary.id);
-
-        const existing = await Storage.loadAnimeDetails(summary.id);
-        if (existing) {
-          if (existing.status) summary.status = existing.status;
-          if (existing.season) summary.season = existing.season;
-          if (existing.year) summary.year = existing.year;
-          if (existing.start_season) summary.start_season = existing.start_season;
-          if (existing.averageEpisodeDurationSeconds != null) {
-            summary.averageEpisodeDurationSeconds = existing.averageEpisodeDurationSeconds;
-          }
-          if (existing.average_episode_duration != null) {
-            summary.average_episode_duration = existing.average_episode_duration;
-          }
-          if (existing.episodes != null) summary.episodes = existing.episodes;
-          if (existing.num_episodes != null) summary.num_episodes = existing.num_episodes;
-          if (Array.isArray(existing.genres) && existing.genres.length > 0) summary.genres = existing.genres;
-          if (Array.isArray(existing.studios) && existing.studios.length > 0) summary.studios = existing.studios;
-          if (existing.broadcast) summary.broadcast = existing.broadcast;
-          if (existing.backdrop_url) summary.backdrop_url = existing.backdrop_url;
-          if (existing.logo_url) summary.logo_url = existing.logo_url;
-          if (existing.synopsis_es) summary.synopsis_es = existing.synopsis_es;
-          if (existing.tmdb_id) summary.tmdb_id = existing.tmdb_id;
-          if (existing.simkl_id) summary.simkl_id = existing.simkl_id;
-        }
-
-        animeItems.push(summary);
+    const existing = await Storage.loadAnimeDetails(summary.id);
+    if (existing) {
+      if (existing.status) summary.status = existing.status;
+      if (existing.season) summary.season = existing.season;
+      if (existing.year) summary.year = existing.year;
+      if (existing.start_season) summary.start_season = existing.start_season;
+      if (existing.averageEpisodeDurationSeconds != null) {
+        summary.averageEpisodeDurationSeconds = existing.averageEpisodeDurationSeconds;
       }
-
-      if (!hasNextPage || rawResults.length === 0) break;
-      await sleep(250);
-    } catch (err) {
-      console.warn(`[ProducerSync] Error en página ${page} de ${producer.name}: ${err.message}`);
-      break;
+      if (existing.average_episode_duration != null) {
+        summary.average_episode_duration = existing.average_episode_duration;
+      }
+      if (existing.episodes != null) summary.episodes = existing.episodes;
+      if (existing.num_episodes != null) summary.num_episodes = existing.num_episodes;
+      if (Array.isArray(existing.genres) && existing.genres.length > 0) summary.genres = existing.genres;
+      if (Array.isArray(existing.studios) && existing.studios.length > 0) summary.studios = existing.studios;
+      if (existing.broadcast) summary.broadcast = existing.broadcast;
+      if (existing.backdrop_url) summary.backdrop_url = existing.backdrop_url;
+      if (existing.logo_url) summary.logo_url = existing.logo_url;
+      if (existing.synopsis_es) summary.synopsis_es = existing.synopsis_es;
+      if (existing.tmdb_id) summary.tmdb_id = existing.tmdb_id;
+      if (existing.simkl_id) summary.simkl_id = existing.simkl_id;
     }
+
+    animeItems.push(summary);
   }
+
+  // Ordenar por score descendente (y por cantidad de usuarios como desempate)
+  animeItems.sort((a, b) => (b.score || 0) - (a.score || 0) || (b.numListUsers || 0) - (a.numListUsers || 0));
 
   const output = {
     id: producer.id,
     name: producer.name,
     count: producer.count || animeItems.length,
-    hasNextPage,
-    lastVisiblePage,
+    hasNextPage: false,
+    lastVisiblePage: 1,
     items: animeItems,
     updatedAt: new Date().toISOString(),
   };
 
   const destFile = path.join(config.paths.producersDir, `${producer.id}.json`);
   await Storage.writeJsonAtomic(destFile, output);
-  console.log(`[ProducerSync]   -> ${producer.name} (${producer.id}.json): ${animeItems.length} animes (hasNextPage=${hasNextPage})`);
+  console.log(`[ProducerSync]   -> ${producer.name} (${producer.id}.json): ${animeItems.length} animes (top1: ${animeItems[0]?.title || "-"} score=${animeItems[0]?.score ?? "-"})`);
 }
 
 /**
  * Obtiene las 20 primeras compañías/productoras de anime según el ranking Most Favorited de MyAnimeList,
- * guarda el listado en data/producers.json y genera data/producers/{id}.json con sus animes enriquecidos.
+ * guarda el listado en data/producers.json y genera data/producers/{id}.json con sus animes ordenados por score.
  */
 export async function fetchTopProducers(limit = TOP_PRODUCERS_LIMIT) {
   await fs.mkdir(config.paths.producersDir, { recursive: true });
@@ -173,6 +158,7 @@ export async function fetchTopProducers(limit = TOP_PRODUCERS_LIMIT) {
       };
       items.push(producer);
       console.log(`[ProducerSync] (${items.length}/${limit}) ${producer.name} (favs: ${producer.favorites})`);
+      await buildProducerAnimeCatalog(producer, detail);
       await sleep(250);
     } catch (err) {
       console.warn(`[ProducerSync] Error obteniendo detalle de productor ${base.malId}: ${err.message}`);
@@ -187,10 +173,6 @@ export async function fetchTopProducers(limit = TOP_PRODUCERS_LIMIT) {
 
   await Storage.writeJsonAtomic(config.paths.producersJson, payload);
   console.log(`[ProducerSync] ✓ producers.json guardado con ${items.length} compañías.`);
-
-  for (const producer of items) {
-    await syncProducerAnimeCatalog(producer);
-  }
 
   return items;
 }
