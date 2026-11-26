@@ -23,12 +23,6 @@ async function enrichFeedFile(filePath) {
             changed = true;
           }
         }
-        if (Array.isArray(detail.genres) && detail.genres.length > 0) {
-          if (!Array.isArray(item.genres) || item.genres.length === 0) {
-            item.genres = detail.genres;
-            changed = true;
-          }
-        }
       }
       return item;
     }
@@ -77,8 +71,8 @@ async function run() {
   await enrichFeedFile(config.paths.discoverJson);
   if (config.paths.popularYearJson) await enrichFeedFile(config.paths.popularYearJson);
 
-  // También en genres y themes
-  for (const folder of [config.paths.genres, config.paths.themes]) {
+  // También en genres, themes y producers
+  for (const folder of [config.paths.genres, config.paths.themes, config.paths.producersDir]) {
     try {
       const files = await fs.readdir(folder);
       for (const file of files) {

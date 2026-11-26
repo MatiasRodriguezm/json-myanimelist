@@ -22,6 +22,7 @@ export const config = {
     anime: path.join(rootDir, "data", "anime"),
     genres: path.join(rootDir, "data", "genres"),
     themes: path.join(rootDir, "data", "themes"),
+    producersDir: path.join(rootDir, "data", "producers"),
     homeJson: path.join(rootDir, "data", "home.json"),
     popularYearJson: path.join(rootDir, "data", "popular_year.json"),
     producersJson: path.join(rootDir, "data", "producers.json"),
